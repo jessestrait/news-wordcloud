@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:52:33.588Z",
+  "generated_at": "2026-07-22T20:06:23.872Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "war",
-      8,
-      "anger"
-    ],
-    [
       "government",
       7,
       "fear"
+    ],
+    [
+      "war",
+      7,
+      "anger"
     ],
     [
       "trump",
@@ -36,11 +36,6 @@
       "happened",
       5,
       "anticipation"
-    ],
-    [
-      "military",
-      4,
-      "fear"
     ],
     [
       "president",
@@ -64,6 +59,11 @@
     ],
     [
       "hormuz",
+      3,
+      "fear"
+    ],
+    [
+      "military",
       3,
       "fear"
     ],
@@ -111,11 +111,6 @@
       "threats",
       2,
       "anger"
-    ],
-    [
-      "nation",
-      2,
-      "trust"
     ],
     [
       "power",
@@ -376,16 +371,21 @@
       "shortages",
       1,
       "anger"
+    ],
+    [
+      "continues",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 56,
-    "fear": 57,
+    "trust": 55,
+    "fear": 56,
     "surprise": 9,
     "sadness": 11,
     "disgust": 2,
-    "anger": 105,
+    "anger": 104,
     "anticipation": 24
   }
 }
