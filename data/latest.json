@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T18:52:33.034Z",
+  "generated_at": "2026-07-22T19:07:34.515Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "joy"
     ],
     [
-      "continue",
-      3,
-      "trust"
-    ],
-    [
       "strait",
       3,
       "fear"
@@ -76,6 +71,11 @@
       "military",
       3,
       "fear"
+    ],
+    [
+      "continue",
+      3,
+      "trust"
     ],
     [
       "scientist",
@@ -103,14 +103,14 @@
       "anger"
     ],
     [
-      "growing",
-      2,
-      "joy"
-    ],
-    [
       "power",
       2,
       "anticipation"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "hope",
@@ -223,11 +223,6 @@
       "anger"
     ],
     [
-      "pledge",
-      1,
-      "joy"
-    ],
-    [
       "threatens",
       1,
       "anger"
@@ -236,6 +231,11 @@
       "middle",
       1,
       "sadness"
+    ],
+    [
+      "pledge",
+      1,
+      "joy"
     ],
     [
       "experts",
