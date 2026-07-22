@@ -109,12 +109,15 @@ import { C, getColor } from './lib/colors.js';
 const EMOTIONS = ["joy", "trust", "fear", "surprise", "sadness", "disgust", "anger", "anticipation"];
 const POLL_MS = 60 * 1000;
 // wordcloud2.js's placement search cost grows sharply with how crowded the
-// canvas is. Measured directly: at ~55 words with shrinkToFit:true, this can
-// flat-out freeze the tab for tens of seconds (unbounded shrink-and-retry on
-// words that don't easily fit); even with shrinkToFit:false, 55 words still
-// blocked the main thread for several seconds. Capped here regardless of how
-// many words a given snapshot actually stored (older history entries may
-// have up to 75).
+// canvas is. Measured directly: at the original gridSize/weightFactor, ~55
+// words with shrinkToFit:true could flat-out freeze the tab for tens of
+// seconds. Turning shrinkToFit off avoided the freeze but silently *dropped*
+// most smaller words instead of shrinking them to fit -- a worse tradeoff.
+// The actual fix is the gridSize:8/weightFactor:2 combo below (a coarser,
+// cheaper search) -- verified directly against real production data that
+// shrinkToFit:true stays fast (1-2s) and complete up to 55 words with those
+// settings. Capped lower here regardless of how many words a snapshot
+// stored (older history entries may have up to 75).
 const MAX_CLOUD_WORDS = 35;
 
 const wrap = document.getElementById('wc-wrap');
@@ -167,13 +170,13 @@ function wordSize(freq) {
 // Never call it here; instead, renderChain (below) guarantees draws never
 // overlap in the first place, so there's nothing to defensively stop.
 //
-// shrinkToFit:true is deliberately NOT used -- measured directly, its
-// recursive shrink-and-retry on words that don't easily fit can blow up
-// into tens of seconds of blocking work (froze the tab outright at ~55
-// words on this canvas size). shrinkToFit:false just skips a word it can't
-// place, which is a bounded, cheap operation -- combined with capping word
-// count and a lighter weightFactor/coarser grid, a render reliably finishes
-// in under ~1.5s.
+// shrinkToFit stays true -- it's what makes a word that doesn't fit shrink
+// and retry instead of just vanishing. What actually caused the earlier
+// freeze was gridSize/weightFactor making placement search too expensive at
+// high word density; verified directly against real production data that
+// this gridSize/weightFactor combo keeps shrinkToFit:true fast (1-2s) and
+// complete up to 55 words. Safety-net timeout below still guards against
+// any pathological case.
 function renderSnapshot(canvas, which, snapshot) {
   return new Promise((resolve) => {
     emotionMaps[which] = {};
@@ -202,7 +205,7 @@ function renderSnapshot(canvas, which, snapshot) {
       rotateRatio: 0.15,
       rotationSteps: 2,
       backgroundColor: "#0f172a",
-      shrinkToFit: false,
+      shrinkToFit: true,
       minSize: 9,
     });
   });
