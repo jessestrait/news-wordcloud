@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T17:39:41.936Z",
+  "generated_at": "2026-07-22T18:42:43.047Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "joy"
     ],
     [
+      "continue",
+      3,
+      "trust"
+    ],
+    [
       "strait",
       3,
       "fear"
@@ -78,11 +83,6 @@
       "trust"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "opposition",
       3,
       "anger"
@@ -91,11 +91,6 @@
       "violence",
       3,
       "anger"
-    ],
-    [
-      "found",
-      3,
-      "joy"
     ],
     [
       "protesters",
@@ -108,14 +103,14 @@
       "anger"
     ],
     [
+      "growing",
+      2,
+      "joy"
+    ],
+    [
       "power",
       2,
       "anticipation"
-    ],
-    [
-      "vows",
-      2,
-      "joy"
     ],
     [
       "hope",
@@ -123,9 +118,19 @@
       "surprise"
     ],
     [
+      "vows",
+      2,
+      "joy"
+    ],
+    [
       "deaths",
       2,
       "sadness"
+    ],
+    [
+      "people",
+      2,
+      "trust"
     ],
     [
       "forces",
@@ -141,6 +146,11 @@
       "conflict",
       2,
       "anger"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "killed",
@@ -203,11 +213,6 @@
       "anticipation"
     ],
     [
-      "continue",
-      2,
-      "trust"
-    ],
-    [
       "youth",
       2,
       "anger"
@@ -218,6 +223,11 @@
       "anger"
     ],
     [
+      "pledge",
+      1,
+      "joy"
+    ],
+    [
       "threatens",
       1,
       "anger"
@@ -226,6 +236,21 @@
       "middle",
       1,
       "sadness"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
+      "warn",
+      1,
+      "fear"
+    ],
+    [
+      "change",
+      1,
+      "fear"
     ],
     [
       "obituary",
@@ -251,21 +276,6 @@
       "attempts",
       1,
       "anticipation"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
-      "warn",
-      1,
-      "fear"
-    ],
-    [
-      "change",
-      1,
-      "fear"
     ],
     [
       "breaking",
@@ -366,26 +376,16 @@
       "global",
       1,
       "anticipation"
-    ],
-    [
-      "white",
-      1,
-      "joy"
-    ],
-    [
-      "house",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
     "trust": 55,
-    "fear": 56,
+    "fear": 55,
     "surprise": 9,
     "sadness": 11,
     "disgust": 2,
     "anger": 104,
-    "anticipation": 25
+    "anticipation": 24
   }
 }
