@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-22T19:07:34.515Z",
+  "generated_at": "2026-07-22T19:22:34.793Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      9,
+      10,
+      "anger"
+    ],
+    [
+      "war",
+      8,
       "anger"
     ],
     [
       "government",
       7,
       "fear"
-    ],
-    [
-      "war",
-      7,
-      "anger"
     ],
     [
       "trump",
@@ -38,9 +38,9 @@
       "anticipation"
     ],
     [
-      "threat",
+      "military",
       4,
-      "anger"
+      "fear"
     ],
     [
       "president",
@@ -48,13 +48,13 @@
       "trust"
     ],
     [
-      "strikes",
-      4,
-      "anger"
-    ],
-    [
       "life",
       4,
+      "joy"
+    ],
+    [
+      "vows",
+      3,
       "joy"
     ],
     [
@@ -64,11 +64,6 @@
     ],
     [
       "hormuz",
-      3,
-      "fear"
-    ],
-    [
-      "military",
       3,
       "fear"
     ],
@@ -98,9 +93,29 @@
       "anger"
     ],
     [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
+      "strikes",
+      3,
+      "anger"
+    ],
+    [
       "attacks",
       3,
       "anger"
+    ],
+    [
+      "threats",
+      2,
+      "anger"
+    ],
+    [
+      "nation",
+      2,
+      "trust"
     ],
     [
       "power",
@@ -116,11 +131,6 @@
       "hope",
       2,
       "surprise"
-    ],
-    [
-      "vows",
-      2,
-      "joy"
     ],
     [
       "deaths",
@@ -223,9 +233,9 @@
       "anger"
     ],
     [
-      "threatens",
+      "warns",
       1,
-      "anger"
+      "fear"
     ],
     [
       "middle",
@@ -366,26 +376,16 @@
       "shortages",
       1,
       "anger"
-    ],
-    [
-      "continues",
-      1,
-      "trust"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 55,
-    "fear": 55,
+    "joy": 20,
+    "trust": 56,
+    "fear": 57,
     "surprise": 9,
     "sadness": 11,
     "disgust": 2,
-    "anger": 104,
+    "anger": 105,
     "anticipation": 24
   }
 }
