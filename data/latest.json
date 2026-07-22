@@ -1,20 +1,15 @@
 {
-  "generated_at": "2026-07-22T12:18:46.997Z",
+  "generated_at": "2026-07-22T14:30:29.993Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      11,
-      "anger"
-    ],
-    [
-      "war",
       9,
       "anger"
     ],
     [
-      "trump",
-      7,
+      "war",
+      8,
       "anger"
     ],
     [
@@ -23,9 +18,14 @@
       "fear"
     ],
     [
-      "strikes",
+      "trump",
       6,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "police",
@@ -48,6 +48,16 @@
       "anger"
     ],
     [
+      "threat",
+      4,
+      "anger"
+    ],
+    [
+      "strikes",
+      4,
+      "anger"
+    ],
+    [
       "life",
       4,
       "joy"
@@ -58,9 +68,14 @@
       "joy"
     ],
     [
-      "president",
-      4,
-      "trust"
+      "strait",
+      3,
+      "fear"
+    ],
+    [
+      "hormuz",
+      3,
+      "fear"
     ],
     [
       "military",
@@ -83,11 +98,6 @@
       "fear"
     ],
     [
-      "fires",
-      3,
-      "fear"
-    ],
-    [
       "protesters",
       3,
       "anger"
@@ -98,17 +108,22 @@
       "trust"
     ],
     [
-      "threat",
-      3,
-      "anger"
-    ],
-    [
       "ship",
       3,
       "anticipation"
     ],
     [
-      "threatened",
+      "vows",
+      2,
+      "joy"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
+      "retaliation",
       2,
       "anger"
     ],
@@ -116,6 +131,11 @@
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
     ],
     [
       "daily",
@@ -143,6 +163,11 @@
       "trust"
     ],
     [
+      "fires",
+      2,
+      "fear"
+    ],
+    [
       "explosion",
       2,
       "fear"
@@ -151,16 +176,6 @@
       "guardian",
       2,
       "trust"
-    ],
-    [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
-      "hormuz",
-      2,
-      "fear"
     ],
     [
       "raid",
@@ -208,11 +223,6 @@
       "trust"
     ],
     [
-      "missiles",
-      2,
-      "fear"
-    ],
-    [
       "kills",
       2,
       "fear"
@@ -248,32 +258,27 @@
       "trust"
     ],
     [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "interim",
-      1,
-      "anticipation"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "discontent",
-      1,
-      "anger"
-    ],
-    [
       "attempt",
       1,
       "anticipation"
     ],
     [
       "attempts",
+      1,
+      "anticipation"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
+      "congress",
+      1,
+      "disgust"
+    ],
+    [
+      "plan",
       1,
       "anticipation"
     ],
@@ -291,6 +296,11 @@
       "marine",
       1,
       "trust"
+    ],
+    [
+      "threatened",
+      1,
+      "anger"
     ],
     [
       "parliament",
@@ -366,26 +376,16 @@
       "changed",
       1,
       "fear"
-    ],
-    [
-      "endeavor",
-      1,
-      "anticipation"
-    ],
-    [
-      "disaster",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 60,
-    "fear": 58,
-    "surprise": 9,
+    "trust": 59,
+    "fear": 57,
+    "surprise": 8,
     "sadness": 11,
-    "disgust": 1,
-    "anger": 115,
-    "anticipation": 33
+    "disgust": 2,
+    "anger": 109,
+    "anticipation": 34
   }
 }
