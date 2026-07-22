@@ -311,10 +311,11 @@ timelineBtn.addEventListener('click', async () => {
       scrub.disabled = false;
       playBtn.disabled = false;
       scrub.max = String(historySnapshots.length - 1);
-      scrub.value = String(historySnapshots.length - 1);
+      scrub.value = "0";
       renderTrend(historySnapshots);
-      moveCursor(historySnapshots.length - 1);
-      updateScrubLabel(historySnapshots.length - 1);
+      moveCursor(0);
+      updateScrubLabel(0);
+      startPlaying();
     }
   } else {
     stopPlaying();
@@ -323,6 +324,7 @@ timelineBtn.addEventListener('click', async () => {
 });
 
 scrub.addEventListener('input', () => {
+  stopPlaying();
   const i = Number(scrub.value);
   updateScrubLabel(i);
   moveCursor(i);
@@ -332,22 +334,23 @@ scrub.addEventListener('input', () => {
   }, 180);
 });
 
+function startPlaying() {
+  if (!historySnapshots || !historySnapshots.length || playing) return;
+  playing = true;
+  playBtn.innerHTML = '&#9208;';
+  playTimer = setInterval(() => {
+    let i = Number(scrub.value) + 1;
+    if (i > Number(scrub.max)) i = 0;
+    scrub.value = String(i);
+    updateScrubLabel(i);
+    moveCursor(i);
+    showSnapshot(historySnapshots[i]);
+  }, 500);
+}
+
 playBtn.addEventListener('click', () => {
-  if (!historySnapshots || !historySnapshots.length) return;
-  playing = !playing;
-  playBtn.innerHTML = playing ? '&#9208;' : '&#9654;';
-  if (playing) {
-    playTimer = setInterval(() => {
-      let i = Number(scrub.value) + 1;
-      if (i > Number(scrub.max)) i = 0;
-      scrub.value = String(i);
-      updateScrubLabel(i);
-      moveCursor(i);
-      showSnapshot(historySnapshots[i]);
-    }, 500);
-  } else {
-    clearInterval(playTimer);
-  }
+  if (playing) stopPlaying();
+  else startPlaying();
 });
 
 sizeCanvases();
