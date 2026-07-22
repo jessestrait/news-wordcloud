@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T10:29:45.987Z",
+  "generated_at": "2026-07-22T10:49:31.994Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "government",
-      7,
-      "fear"
-    ],
-    [
       "trump",
       7,
       "anger"
+    ],
+    [
+      "government",
+      7,
+      "fear"
     ],
     [
       "strikes",
@@ -63,6 +63,11 @@
       "trust"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "opposition",
       3,
       "anger"
@@ -71,11 +76,6 @@
       "violence",
       3,
       "anger"
-    ],
-    [
-      "military",
-      3,
-      "fear"
     ],
     [
       "killed",
@@ -248,6 +248,21 @@
       "trust"
     ],
     [
+      "diplomatic",
+      1,
+      "trust"
+    ],
+    [
+      "interim",
+      1,
+      "anticipation"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
       "discontent",
       1,
       "anger"
@@ -286,21 +301,6 @@
       "scandals",
       1,
       "fear"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "interim",
-      1,
-      "anticipation"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
     ],
     [
       "hell",
