@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-07-22T22:52:32.782Z",
+  "generated_at": "2026-07-22T23:07:33.343Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      10,
+      11,
       "anger"
     ],
     [
       "government",
       7,
       "fear"
-    ],
-    [
-      "war",
-      7,
-      "anger"
     ],
     [
       "trump",
@@ -33,9 +28,39 @@
       "fear"
     ],
     [
+      "war",
+      6,
+      "anger"
+    ],
+    [
       "attack",
       5,
       "anger"
+    ],
+    [
+      "attacks",
+      4,
+      "anger"
+    ],
+    [
+      "strikes",
+      4,
+      "anger"
+    ],
+    [
+      "military",
+      4,
+      "fear"
+    ],
+    [
+      "strait",
+      4,
+      "fear"
+    ],
+    [
+      "hormuz",
+      4,
+      "fear"
     ],
     [
       "president",
@@ -48,24 +73,14 @@
       "joy"
     ],
     [
+      "launches",
+      3,
+      "anticipation"
+    ],
+    [
       "vows",
       3,
       "joy"
-    ],
-    [
-      "strait",
-      3,
-      "fear"
-    ],
-    [
-      "hormuz",
-      3,
-      "fear"
-    ],
-    [
-      "military",
-      3,
-      "fear"
     ],
     [
       "continue",
@@ -98,13 +113,8 @@
       "anger"
     ],
     [
-      "strikes",
-      3,
-      "anger"
-    ],
-    [
-      "attacks",
-      3,
+      "threaten",
+      2,
       "anger"
     ],
     [
@@ -136,11 +146,6 @@
       "people",
       2,
       "trust"
-    ],
-    [
-      "forces",
-      2,
-      "anger"
     ],
     [
       "daily",
@@ -183,22 +188,12 @@
       "fear"
     ],
     [
-      "guardian",
-      2,
-      "trust"
-    ],
-    [
       "raid",
       2,
       "anger"
     ],
     [
       "system",
-      2,
-      "trust"
-    ],
-    [
-      "ground",
       2,
       "trust"
     ],
@@ -213,11 +208,6 @@
       "fear"
     ],
     [
-      "launches",
-      2,
-      "anticipation"
-    ],
-    [
       "youth",
       2,
       "anger"
@@ -226,6 +216,31 @@
       "abuse",
       2,
       "anger"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "degrading",
+      1,
+      "fear"
+    ],
+    [
+      "ships",
+      1,
+      "anticipation"
+    ],
+    [
+      "blockade",
+      1,
+      "anger"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
     ],
     [
       "warns",
@@ -313,6 +328,11 @@
       "anticipation"
     ],
     [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
       "finally",
       1,
       "disgust"
@@ -356,36 +376,16 @@
       "hell",
       1,
       "anger"
-    ],
-    [
-      "repression",
-      1,
-      "fear"
-    ],
-    [
-      "shortages",
-      1,
-      "anger"
-    ],
-    [
-      "continues",
-      1,
-      "trust"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 55,
-    "fear": 56,
-    "surprise": 9,
-    "sadness": 10,
+    "trust": 52,
+    "fear": 60,
+    "surprise": 10,
+    "sadness": 11,
     "disgust": 2,
-    "anger": 104,
-    "anticipation": 25
+    "anger": 102,
+    "anticipation": 27
   }
 }
