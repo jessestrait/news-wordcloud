@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T10:49:31.994Z",
+  "generated_at": "2026-07-22T12:18:46.997Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,14 +28,14 @@
       "anger"
     ],
     [
-      "attack",
-      6,
-      "anger"
-    ],
-    [
       "police",
       5,
       "fear"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
     ],
     [
       "happened",
@@ -108,19 +108,14 @@
       "anticipation"
     ],
     [
-      "continue",
-      3,
-      "trust"
+      "threatened",
+      2,
+      "anger"
     ],
     [
       "middle",
       2,
       "sadness"
-    ],
-    [
-      "threatens",
-      2,
-      "anger"
     ],
     [
       "daily",
@@ -208,6 +203,11 @@
       "anticipation"
     ],
     [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
       "missiles",
       2,
       "fear"
@@ -268,9 +268,9 @@
       "anger"
     ],
     [
-      "ambassadors",
+      "attempt",
       1,
-      "trust"
+      "anticipation"
     ],
     [
       "attempts",
@@ -278,9 +278,19 @@
       "anticipation"
     ],
     [
-      "success",
+      "finally",
       1,
-      "joy"
+      "disgust"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
+    ],
+    [
+      "marine",
+      1,
+      "trust"
     ],
     [
       "parliament",
@@ -366,25 +376,16 @@
       "disaster",
       1,
       "anger"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "rubble",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 61,
-    "fear": 59,
+    "joy": 23,
+    "trust": 60,
+    "fear": 58,
     "surprise": 9,
-    "sadness": 10,
-    "anger": 117,
+    "sadness": 11,
+    "disgust": 1,
+    "anger": 115,
     "anticipation": 33
   }
 }
