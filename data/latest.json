@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T21:52:31.890Z",
+  "generated_at": "2026-07-22T22:07:32.087Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "happened",
+      6,
+      "anticipation"
+    ],
+    [
       "police",
       6,
       "fear"
@@ -31,11 +36,6 @@
       "attack",
       5,
       "anger"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
     ],
     [
       "president",
@@ -233,11 +233,6 @@
       "fear"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
       "pledge",
       1,
       "joy"
@@ -376,6 +371,11 @@
       "continues",
       1,
       "trust"
+    ],
+    [
+      "global",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 55,
     "fear": 56,
     "surprise": 9,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 2,
     "anger": 104,
-    "anticipation": 24
+    "anticipation": 25
   }
 }
