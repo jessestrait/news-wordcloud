@@ -4,6 +4,8 @@ on:
   schedule:
     # Every 15 min, offset from the hour boundary to dodge GitHub's
     # documented scheduled-workflow delays during top-of-hour load spikes.
+    # Re-committed this file to force GitHub to re-register the schedule
+    # after the first activation didn't fire for ~2 hours.
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}
 
