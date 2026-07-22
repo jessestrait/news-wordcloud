@@ -17,7 +17,7 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
 
   #wc-wrap { position: relative; background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; height: 420px; }
-  #wc-wrap canvas { position: absolute; inset: 2.25rem; transition: opacity 0.2s ease; font-family: system-ui, sans-serif; }
+  #wc-wrap canvas { position: absolute; inset: 2.25rem; transition: opacity 0.7s ease; font-family: system-ui, sans-serif; }
   #wc-b { opacity: 0; }
 
   .legend { display: flex; gap: 14px; justify-content: center; margin-bottom: 1.5rem; font-size: 0.72rem; color: #64748b; flex-wrap: wrap; font-family: system-ui, sans-serif; }
@@ -108,6 +108,14 @@ import { C, getColor } from './lib/colors.js';
 
 const EMOTIONS = ["joy", "trust", "fear", "surprise", "sadness", "disgust", "anger", "anticipation"];
 const POLL_MS = 60 * 1000;
+// wordcloud2.js's placement search cost grows sharply with how crowded the
+// canvas is. Measured directly: at ~55 words with shrinkToFit:true, this can
+// flat-out freeze the tab for tens of seconds (unbounded shrink-and-retry on
+// words that don't easily fit); even with shrinkToFit:false, 55 words still
+// blocked the main thread for several seconds. Capped here regardless of how
+// many words a given snapshot actually stored (older history entries may
+// have up to 75).
+const MAX_CLOUD_WORDS = 35;
 
 const wrap = document.getElementById('wc-wrap');
 const canvasA = document.getElementById('wc-a');
@@ -127,7 +135,7 @@ const trendCursor = document.getElementById('trend-cursor');
 let latestSnapshot = null;
 let historySnapshots = null;
 let playing = false;
-let playTimer = null;
+let playToken = 0;
 let scrubDebounce = null;
 
 const CANVAS_INSET_PX = 36; // must match #wc-wrap canvas { inset } in the <style> above
@@ -146,38 +154,78 @@ function wordSize(freq) {
   return Math.min(60, Math.round(15 + 15 * Math.sqrt(freq)));
 }
 
+// wordcloud2.js places words one at a time (largest first, smallest last)
+// and fires a genuine 'wordcloudstop' event on the canvas once every word in
+// the list has been placed. Waiting for that -- instead of guessing a fixed
+// delay -- is what guarantees small words actually finish drawing before we
+// crossfade to the next frame.
+//
+// Important: WordCloud.stop() clears a registry that's shared globally
+// across the whole library (not scoped per canvas), so calling it can kill
+// an unrelated draw that's still finishing on the *other* crossfade canvas
+// -- that draw's 'wordcloudstop' then never fires, and it's left blank.
+// Never call it here; instead, renderChain (below) guarantees draws never
+// overlap in the first place, so there's nothing to defensively stop.
+//
+// shrinkToFit:true is deliberately NOT used -- measured directly, its
+// recursive shrink-and-retry on words that don't easily fit can blow up
+// into tens of seconds of blocking work (froze the tab outright at ~55
+// words on this canvas size). shrinkToFit:false just skips a word it can't
+// place, which is a bounded, cheap operation -- combined with capping word
+// count and a lighter weightFactor/coarser grid, a render reliably finishes
+// in under ~1.5s.
 function renderSnapshot(canvas, which, snapshot) {
-  emotionMaps[which] = {};
-  (snapshot.top_words || []).forEach(([w, , e]) => { emotionMaps[which][w] = e; });
-  const list = (snapshot.top_words || []).map(([w, freq]) => [w, wordSize(freq)]);
-  if (window.WordCloud && list.length) {
-    WordCloud.stop();
+  return new Promise((resolve) => {
+    emotionMaps[which] = {};
+    (snapshot.top_words || []).forEach(([w, , e]) => { emotionMaps[which][w] = e; });
+    const list = (snapshot.top_words || [])
+      .slice(0, MAX_CLOUD_WORDS)
+      .map(([w, freq]) => [w, wordSize(freq)]);
+    if (!window.WordCloud || !list.length) { resolve(); return; }
+
+    let settled = false;
+    const finish = () => {
+      if (settled) return;
+      settled = true;
+      resolve();
+    };
+    canvas.addEventListener('wordcloudstop', finish, { once: true });
+    setTimeout(finish, 3000); // safety net -- never block playback indefinitely
+
     WordCloud(canvas, {
       list,
-      gridSize: 7,
-      weightFactor: 2.4,
+      gridSize: 8,
+      weightFactor: 2,
       fontFamily: "system-ui, sans-serif",
       fontWeight: "700",
       color: (word) => getColor(emotionMaps[which][word]),
-      rotateRatio: 0.25,
+      rotateRatio: 0.15,
       rotationSteps: 2,
       backgroundColor: "#0f172a",
-      shrinkToFit: true,
+      shrinkToFit: false,
       minSize: 9,
     });
-  }
+  });
 }
 
+// Every caller (live poll, manual scrub, play loop, timeline close) goes
+// through this same chain so draws are strictly serialized -- the next one
+// only ever starts after the previous has fully resolved (render + fade).
+let renderChain = Promise.resolve();
+
 function showSnapshot(snapshot) {
+  renderChain = renderChain.then(() => showSnapshotNow(snapshot)).catch(() => {});
+  return renderChain;
+}
+
+async function showSnapshotNow(snapshot) {
   const hiddenWhich = visibleWhich === 'a' ? 'b' : 'a';
   const hiddenCanvas = hiddenWhich === 'a' ? canvasA : canvasB;
-  renderSnapshot(hiddenCanvas, hiddenWhich, snapshot);
-  setTimeout(() => {
-    canvasA.style.opacity = hiddenWhich === 'a' ? '1' : '0';
-    canvasB.style.opacity = hiddenWhich === 'b' ? '1' : '0';
-    visibleWhich = hiddenWhich;
-  }, 220);
   renderSigBar(snapshot.emotion_totals || {});
+  await renderSnapshot(hiddenCanvas, hiddenWhich, snapshot);
+  canvasA.style.opacity = hiddenWhich === 'a' ? '1' : '0';
+  canvasB.style.opacity = hiddenWhich === 'b' ? '1' : '0';
+  visibleWhich = hiddenWhich;
 }
 
 function renderSigBar(totals) {
@@ -298,7 +346,7 @@ function updateScrubLabel(i) {
 
 function stopPlaying() {
   playing = false;
-  clearInterval(playTimer);
+  playToken++; // invalidates any in-flight scheduled continuation
   playBtn.innerHTML = '&#9654;';
 }
 
@@ -349,18 +397,27 @@ scrub.addEventListener('input', () => {
   }, 180);
 });
 
-function startPlaying() {
+// How long a fully-drawn frame is held on screen before advancing. Actual
+// time between frames is this PLUS however long that frame's word cloud
+// took to finish placing every word (see renderSnapshot's 'wordcloudstop'
+// wait) -- paced by completion, not a fixed tick, so nothing gets cut off.
+const PLAY_DWELL_MS = 1400;
+
+async function startPlaying() {
   if (!historySnapshots || !historySnapshots.length || playing) return;
   playing = true;
   playBtn.innerHTML = '&#9208;';
-  playTimer = setInterval(() => {
+  const myToken = ++playToken;
+  while (playing && myToken === playToken) {
     let i = Number(scrub.value) + 1;
     if (i > Number(scrub.max)) i = 0;
     scrub.value = String(i);
     updateScrubLabel(i);
     moveCursor(i);
-    showSnapshot(historySnapshots[i]);
-  }, 500);
+    await showSnapshot(historySnapshots[i]);
+    if (myToken !== playToken) return;
+    await new Promise((r) => setTimeout(r, PLAY_DWELL_MS));
+  }
 }
 
 playBtn.addEventListener('click', () => {
