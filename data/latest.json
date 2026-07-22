@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:05:28.939Z",
+  "generated_at": "2026-07-22T17:39:41.936Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "anger"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "threat",
       4,
       "anger"
@@ -53,16 +58,6 @@
       "joy"
     ],
     [
-      "found",
-      4,
-      "joy"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "strait",
       3,
       "fear"
@@ -78,6 +73,11 @@
       "fear"
     ],
     [
+      "scientist",
+      3,
+      "trust"
+    ],
+    [
       "people",
       3,
       "trust"
@@ -91,6 +91,11 @@
       "violence",
       3,
       "anger"
+    ],
+    [
+      "found",
+      3,
+      "joy"
     ],
     [
       "protesters",
@@ -188,11 +193,6 @@
       "anger"
     ],
     [
-      "scientist",
-      2,
-      "trust"
-    ],
-    [
       "fire",
       2,
       "fear"
@@ -218,11 +218,6 @@
       "anger"
     ],
     [
-      "passenger",
-      2,
-      "anticipation"
-    ],
-    [
       "threatens",
       1,
       "anger"
@@ -231,6 +226,21 @@
       "middle",
       1,
       "sadness"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
+    ],
+    [
+      "earthquake",
+      1,
+      "anger"
+    ],
+    [
+      "forecasting",
+      1,
+      "trust"
     ],
     [
       "attempt",
@@ -366,26 +376,16 @@
       "house",
       1,
       "joy"
-    ],
-    [
-      "expertise",
-      1,
-      "trust"
-    ],
-    [
-      "strategy",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 19,
     "trust": 55,
-    "fear": 57,
-    "surprise": 10,
-    "sadness": 10,
+    "fear": 56,
+    "surprise": 9,
+    "sadness": 11,
     "disgust": 2,
-    "anger": 105,
-    "anticipation": 29
+    "anger": 104,
+    "anticipation": 25
   }
 }
