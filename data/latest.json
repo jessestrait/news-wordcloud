@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T14:30:29.993Z",
+  "generated_at": "2026-07-22T16:05:28.939Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "war",
-      8,
-      "anger"
-    ],
-    [
       "government",
       7,
       "fear"
+    ],
+    [
+      "war",
+      7,
+      "anger"
     ],
     [
       "trump",
@@ -23,13 +23,8 @@
       "anger"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "police",
-      5,
+      6,
       "fear"
     ],
     [
@@ -38,19 +33,14 @@
       "anger"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
-      "attacks",
-      4,
-      "anger"
-    ],
-    [
       "threat",
       4,
       "anger"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "strikes",
@@ -68,6 +58,11 @@
       "joy"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "strait",
       3,
       "fear"
@@ -83,6 +78,11 @@
       "fear"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "opposition",
       3,
       "anger"
@@ -93,23 +93,18 @@
       "anger"
     ],
     [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
       "protesters",
       3,
       "anger"
     ],
     [
-      "people",
+      "attacks",
       3,
-      "trust"
+      "anger"
     ],
     [
-      "ship",
-      3,
+      "power",
+      2,
       "anticipation"
     ],
     [
@@ -118,17 +113,12 @@
       "joy"
     ],
     [
-      "power",
+      "hope",
       2,
-      "anticipation"
+      "surprise"
     ],
     [
-      "retaliation",
-      2,
-      "anger"
-    ],
-    [
-      "middle",
+      "deaths",
       2,
       "sadness"
     ],
@@ -148,9 +138,9 @@
       "anger"
     ],
     [
-      "strike",
+      "killed",
       2,
-      "anger"
+      "fear"
     ],
     [
       "mountain",
@@ -198,11 +188,6 @@
       "anger"
     ],
     [
-      "deadly",
-      2,
-      "anger"
-    ],
-    [
       "scientist",
       2,
       "trust"
@@ -223,17 +208,7 @@
       "trust"
     ],
     [
-      "kills",
-      2,
-      "fear"
-    ],
-    [
       "youth",
-      2,
-      "anger"
-    ],
-    [
-      "defy",
       2,
       "anger"
     ],
@@ -248,14 +223,14 @@
       "anticipation"
     ],
     [
-      "victory",
-      2,
-      "joy"
+      "threatens",
+      1,
+      "anger"
     ],
     [
-      "world",
-      2,
-      "trust"
+      "middle",
+      1,
+      "sadness"
     ],
     [
       "attempt",
@@ -268,7 +243,42 @@
       "anticipation"
     ],
     [
-      "threatens",
+      "experts",
+      1,
+      "trust"
+    ],
+    [
+      "warn",
+      1,
+      "fear"
+    ],
+    [
+      "change",
+      1,
+      "fear"
+    ],
+    [
+      "breaking",
+      1,
+      "surprise"
+    ],
+    [
+      "birthplace",
+      1,
+      "anger"
+    ],
+    [
+      "hoped",
+      1,
+      "surprise"
+    ],
+    [
+      "tackling",
+      1,
+      "anger"
+    ],
+    [
+      "revolution",
       1,
       "anger"
     ],
@@ -366,26 +376,16 @@
       "strategy",
       1,
       "anticipation"
-    ],
-    [
-      "crash",
-      1,
-      "fear"
-    ],
-    [
-      "changed",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 59,
+    "joy": 20,
+    "trust": 55,
     "fear": 57,
-    "surprise": 8,
-    "sadness": 11,
+    "surprise": 10,
+    "sadness": 10,
     "disgust": 2,
-    "anger": 109,
-    "anticipation": 34
+    "anger": 105,
+    "anticipation": 29
   }
 }
