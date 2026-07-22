@@ -107,7 +107,7 @@
 import { C, getColor } from './lib/colors.js';
 
 const EMOTIONS = ["joy", "trust", "fear", "surprise", "sadness", "disgust", "anger", "anticipation"];
-const POLL_MS = 3 * 60 * 1000;
+const POLL_MS = 60 * 1000;
 
 const wrap = document.getElementById('wc-wrap');
 const canvasA = document.getElementById('wc-a');
@@ -208,9 +208,17 @@ function isTimelineOpen() {
   return !timelinePanel.hidden;
 }
 
+function bust(url) {
+  // GitHub Pages' CDN caches responses for up to 10 minutes regardless of the
+  // request's own cache mode -- that only controls the browser's local
+  // cache, not the edge cache sitting in front of the server. A unique query
+  // string forces a fresh edge fetch every time.
+  return `${url}${url.includes('?') ? '&' : '?'}t=${Date.now()}`;
+}
+
 async function loadLatest() {
   try {
-    const res = await fetch('data/latest.json', { cache: 'no-store' });
+    const res = await fetch(bust('data/latest.json'), { cache: 'no-store' });
     const snapshot = await res.json();
     const changed = !latestSnapshot || snapshot.generated_at !== latestSnapshot.generated_at;
     latestSnapshot = snapshot;
@@ -222,9 +230,9 @@ async function loadLatest() {
 }
 
 async function loadHistory() {
-  const manifest = await fetch('data/history/manifest.json').then((r) => r.json());
+  const manifest = await fetch(bust('data/history/manifest.json'), { cache: 'no-store' }).then((r) => r.json());
   const perDay = await Promise.all(
-    manifest.days.map((d) => fetch(`data/history/${d.date}.ndjson`).then((r) => r.text()))
+    manifest.days.map((d) => fetch(bust(`data/history/${d.date}.ndjson`), { cache: 'no-store' }).then((r) => r.text()))
   );
   const snaps = [];
   perDay.forEach((text) => {
