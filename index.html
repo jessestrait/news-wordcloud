@@ -17,7 +17,7 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
 
   #wc-wrap { position: relative; background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; height: 420px; }
-  #wc-wrap canvas { position: absolute; inset: 1.5rem; transition: opacity 0.2s ease; font-family: system-ui, sans-serif; }
+  #wc-wrap canvas { position: absolute; inset: 2.25rem; transition: opacity 0.2s ease; font-family: system-ui, sans-serif; }
   #wc-b { opacity: 0; }
 
   .legend { display: flex; gap: 14px; justify-content: center; margin-bottom: 1.5rem; font-size: 0.72rem; color: #64748b; flex-wrap: wrap; font-family: system-ui, sans-serif; }
@@ -130,9 +130,16 @@ let playing = false;
 let playTimer = null;
 let scrubDebounce = null;
 
+const CANVAS_INSET_PX = 36; // must match #wc-wrap canvas { inset } in the <style> above
+
 function sizeCanvases() {
-  const w = Math.max(200, wrap.clientWidth - 48);
-  [canvasA, canvasB].forEach((c) => { c.width = w; c.height = 420 - 48; });
+  // Keep wordcloud2.js's placement grid a bit smaller than the visible frame:
+  // its bounding-box math for a word can slightly underestimate glyph ink
+  // (ascenders/descenders, bold anti-aliasing), so words placed right at the
+  // grid edge can visually clip the frame. The inset margin absorbs that.
+  const w = Math.max(200, wrap.clientWidth - CANVAS_INSET_PX * 2);
+  const h = Math.max(150, wrap.clientHeight - CANVAS_INSET_PX * 2);
+  [canvasA, canvasB].forEach((c) => { c.width = w; c.height = h; });
 }
 
 function wordSize(freq) {
