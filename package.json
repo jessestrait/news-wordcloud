@@ -1,0 +1,9 @@
+{
+  "name": "news-wordcloud",
+  "private": true,
+  "type": "module",
+  "description": "World news word cloud, colored by Plutchik/NRC EmoLex emotion, auto-refreshed from The Guardian via GitHub Actions.",
+  "scripts": {
+    "refresh": "node scripts/refresh.js"
+  }
+}

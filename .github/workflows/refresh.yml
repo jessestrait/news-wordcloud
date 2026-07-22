@@ -1,0 +1,42 @@
+name: Refresh news word cloud
+
+on:
+  schedule:
+    # Every 15 min, offset from the hour boundary to dodge GitHub's
+    # documented scheduled-workflow delays during top-of-hour load spikes.
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: node scripts/refresh.js
+        env:
+          GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
+
+      - run: |
+          git config user.name "news-wordcloud-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --quiet --cached; then
+            echo "No changes, skipping commit."
+            exit 0
+          fi
+          git commit -m "Refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git pull --rebase origin main
+          git push

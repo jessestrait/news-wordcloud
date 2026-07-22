@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>World News Word Cloud</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #0f172a; color: #e2e8f0; font-family: 'Futura', 'Century Gothic', 'Jost', 'Arial Narrow', sans-serif; min-height: 100vh; padding: 2rem; max-width: 820px; margin: 0 auto; }
+  .label { font-size: 0.7rem; font-weight: 500; color: #475569; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 0.5rem; }
+  .subtitle { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.4rem; }
+  .updated { font-size: 0.78rem; color: #475569; margin-bottom: 1.5rem; font-family: system-ui, sans-serif; }
+  .dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: #00B0FF; margin-right: 6px; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+  #wc-wrap { position: relative; background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; height: 420px; }
+  #wc-wrap canvas { position: absolute; inset: 1.5rem; transition: opacity 0.2s ease; font-family: system-ui, sans-serif; }
+  #wc-b { opacity: 0; }
+
+  .legend { display: flex; gap: 14px; justify-content: center; margin-bottom: 1.5rem; font-size: 0.72rem; color: #64748b; flex-wrap: wrap; font-family: system-ui, sans-serif; }
+  .legend span { display: flex; align-items: center; gap: 5px; }
+  .swatch { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+  .sig-label { font-size: 0.65rem; color: #334155; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 8px; text-align: center; font-family: system-ui, sans-serif; }
+  .sig-bar { display: flex; height: 8px; border-radius: 4px; overflow: hidden; gap: 2px; margin-bottom: 1.5rem; }
+  .seg { height: 100%; }
+
+  .mode-btn { background: transparent; color: #94a3b8; cursor: pointer; font-family: inherit; font-size: 0.8rem; border: 1px solid #1e293b; padding: 6px 14px; border-radius: 6px; }
+  .mode-btn:hover { border-color: #334155; }
+  .mode-btn.active { background: #00B0FF; color: #0f172a; border-color: #00B0FF; font-weight: 600; }
+  .mode-btn:disabled { opacity: 0.5; cursor: default; }
+
+  #timeline { background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 1.25rem 1.5rem; margin: 1rem 0 1.5rem; font-family: system-ui, sans-serif; }
+  #timeline[hidden] { display: none; }
+  #trend-wrap { position: relative; margin-bottom: 0.75rem; }
+  #trend { width: 100%; height: 110px; display: block; }
+  #trend-cursor { position: absolute; top: 0; bottom: 0; left: 0; width: 2px; background: #e2e8f0; transition: left 0.15s ease; pointer-events: none; }
+  .scrub-row { display: flex; align-items: center; gap: 12px; }
+  #scrub { flex: 1; accent-color: #00B0FF; }
+  #scrub-label { font-size: 0.75rem; color: #64748b; white-space: nowrap; min-width: 11em; text-align: right; }
+  #play-btn { background: #1e293b; color: #e2e8f0; border: none; width: 32px; height: 32px; border-radius: 50%; cursor: pointer; flex-shrink: 0; }
+  #play-btn:hover { background: #334155; }
+
+  #about { background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 1.5rem 2rem; margin-top: 2rem; }
+  #about h2 { font-size: 1rem; font-weight: 700; letter-spacing: 0.06em; color: #e2e8f0; margin-bottom: 1rem; font-family: system-ui, sans-serif; }
+  #about p { color: #64748b; font-size: 0.85rem; line-height: 1.7; margin-bottom: 0.9rem; font-family: system-ui, sans-serif; }
+  #about p:last-child { margin-bottom: 0; }
+  #about strong { color: #cbd5e1; font-weight: 600; }
+  #about a { color: #00B0FF; }
+
+  footer { margin-top: 2rem; padding: 1.5rem 0; color: #475569; font-size: 0.75rem; text-align: center; font-family: system-ui, sans-serif; }
+  footer a { color: #475569; }
+</style>
+</head>
+<body>
+
+<div class="label">World News</div>
+<div class="subtitle">Word Cloud</div>
+<div class="updated" id="updated"><span class="dot"></span>Loading&hellip;</div>
+
+<div id="wc-wrap">
+  <canvas id="wc-a"></canvas>
+  <canvas id="wc-b"></canvas>
+</div>
+
+<div class="legend">
+  <span><span class="swatch" style="background:#FFE000"></span>joy</span>
+  <span><span class="swatch" style="background:#00B0FF"></span>trust</span>
+  <span><span class="swatch" style="background:#AA00FF"></span>fear</span>
+  <span><span class="swatch" style="background:#FF4081"></span>surprise</span>
+  <span><span class="swatch" style="background:#7986CB"></span>sadness</span>
+  <span><span class="swatch" style="background:#C6D400"></span>disgust</span>
+  <span><span class="swatch" style="background:#FF1744"></span>anger</span>
+  <span><span class="swatch" style="background:#FF6D00"></span>anticipation</span>
+</div>
+<div class="sig-label">emotion signature</div>
+<div class="sig-bar" id="sig-bar"></div>
+
+<button id="timeline-btn" class="mode-btn" type="button">Timeline</button>
+<div id="timeline" hidden>
+  <div id="trend-wrap">
+    <svg id="trend" viewBox="0 0 700 110" preserveAspectRatio="none"></svg>
+    <div id="trend-cursor"></div>
+  </div>
+  <div class="scrub-row">
+    <button id="play-btn" type="button">&#9654;</button>
+    <input id="scrub" type="range" min="0" max="0" value="0" step="1">
+    <span id="scrub-label">Loading history&hellip;</span>
+  </div>
+</div>
+
+<div id="about">
+  <h2>How This Works</h2>
+  <p><strong>Data.</strong> A GitHub Actions job pulls the latest World section articles from <a href="https://open-platform.theguardian.com/">The Guardian Open Platform</a> every 15 minutes &mdash; no manual trigger, no browser scraping.</p>
+  <p><strong>Scoring.</strong> Headlines and standfirsts are tokenized and scored against the same NRC EmoLex + Cymbolism emotion lexicon used on my <a href="https://jessestrait.github.io/yt-recs-wordcloud/">YouTube recommendations word cloud</a>, mapping words onto Plutchik's eight core emotions.</p>
+  <p><strong>Timeline.</strong> Every refresh is kept for 7 days. Open the Timeline above to scrub through recent history and watch the emotional makeup of the news cycle shift underneath a stacked-area chart.</p>
+</div>
+
+<footer>
+  Built by <a href="https://jessestrait.com">Jesse Strait</a> &middot; world news word clouds, refreshed automatically from The Guardian
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/1.2.2/wordcloud2.min.js"></script>
+<script type="module">
+import { C, getColor } from './lib/colors.js';
+
+const EMOTIONS = ["joy", "trust", "fear", "surprise", "sadness", "disgust", "anger", "anticipation"];
+const POLL_MS = 3 * 60 * 1000;
+
+const wrap = document.getElementById('wc-wrap');
+const canvasA = document.getElementById('wc-a');
+const canvasB = document.getElementById('wc-b');
+const emotionMaps = { a: {}, b: {} };
+let visibleWhich = 'a';
+
+const updatedEl = document.getElementById('updated');
+const sigBarEl = document.getElementById('sig-bar');
+const timelineBtn = document.getElementById('timeline-btn');
+const timelinePanel = document.getElementById('timeline');
+const scrub = document.getElementById('scrub');
+const scrubLabel = document.getElementById('scrub-label');
+const playBtn = document.getElementById('play-btn');
+const trendCursor = document.getElementById('trend-cursor');
+
+let latestSnapshot = null;
+let historySnapshots = null;
+let playing = false;
+let playTimer = null;
+let scrubDebounce = null;
+
+function sizeCanvases() {
+  const w = Math.max(200, wrap.clientWidth - 48);
+  [canvasA, canvasB].forEach((c) => { c.width = w; c.height = 420 - 48; });
+}
+
+function wordSize(freq) {
+  return Math.min(60, Math.round(15 + 15 * Math.sqrt(freq)));
+}
+
+function renderSnapshot(canvas, which, snapshot) {
+  emotionMaps[which] = {};
+  (snapshot.top_words || []).forEach(([w, , e]) => { emotionMaps[which][w] = e; });
+  const list = (snapshot.top_words || []).map(([w, freq]) => [w, wordSize(freq)]);
+  if (window.WordCloud && list.length) {
+    WordCloud.stop();
+    WordCloud(canvas, {
+      list,
+      gridSize: 7,
+      weightFactor: 2.4,
+      fontFamily: "system-ui, sans-serif",
+      fontWeight: "700",
+      color: (word) => getColor(emotionMaps[which][word]),
+      rotateRatio: 0.25,
+      rotationSteps: 2,
+      backgroundColor: "#0f172a",
+      shrinkToFit: true,
+      minSize: 9,
+    });
+  }
+}
+
+function showSnapshot(snapshot) {
+  const hiddenWhich = visibleWhich === 'a' ? 'b' : 'a';
+  const hiddenCanvas = hiddenWhich === 'a' ? canvasA : canvasB;
+  renderSnapshot(hiddenCanvas, hiddenWhich, snapshot);
+  setTimeout(() => {
+    canvasA.style.opacity = hiddenWhich === 'a' ? '1' : '0';
+    canvasB.style.opacity = hiddenWhich === 'b' ? '1' : '0';
+    visibleWhich = hiddenWhich;
+  }, 220);
+  renderSigBar(snapshot.emotion_totals || {});
+}
+
+function renderSigBar(totals) {
+  sigBarEl.innerHTML = '';
+  const grand = Object.values(totals).reduce((s, v) => s + v, 0);
+  if (!grand) return;
+  EMOTIONS.forEach((e) => {
+    const t = totals[e] || 0;
+    if (!t) return;
+    const pct = (t / grand * 100).toFixed(2);
+    if (parseFloat(pct) < 0.5) return;
+    const seg = document.createElement('div');
+    seg.className = 'seg';
+    seg.style.cssText = `width:${pct}%;background:${C[e]};flex-shrink:0;`;
+    sigBarEl.appendChild(seg);
+  });
+}
+
+function fmtAgo(iso) {
+  const mins = Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 60000));
+  if (mins === 0) return 'just now';
+  if (mins === 1) return '1m ago';
+  if (mins < 60) return `${mins}m ago`;
+  const hrs = Math.round(mins / 60);
+  return `${hrs}h ago`;
+}
+
+function updateLiveLabel() {
+  if (!latestSnapshot) return;
+  const count = latestSnapshot.article_count || 0;
+  updatedEl.innerHTML = `<span class="dot"></span>${count} articles &middot; updated ${fmtAgo(latestSnapshot.generated_at)}`;
+}
+
+function isTimelineOpen() {
+  return !timelinePanel.hidden;
+}
+
+async function loadLatest() {
+  try {
+    const res = await fetch('data/latest.json', { cache: 'no-store' });
+    const snapshot = await res.json();
+    const changed = !latestSnapshot || snapshot.generated_at !== latestSnapshot.generated_at;
+    latestSnapshot = snapshot;
+    if (changed && !isTimelineOpen()) showSnapshot(snapshot);
+    updateLiveLabel();
+  } catch (e) {
+    updatedEl.textContent = 'Could not load the latest snapshot.';
+  }
+}
+
+async function loadHistory() {
+  const manifest = await fetch('data/history/manifest.json').then((r) => r.json());
+  const perDay = await Promise.all(
+    manifest.days.map((d) => fetch(`data/history/${d.date}.ndjson`).then((r) => r.text()))
+  );
+  const snaps = [];
+  perDay.forEach((text) => {
+    text.trim().split('\n').filter(Boolean).forEach((line) => snaps.push(JSON.parse(line)));
+  });
+  snaps.sort((x, y) => x.generated_at.localeCompare(y.generated_at));
+  return snaps;
+}
+
+function renderTrend(snaps) {
+  const svg = document.getElementById('trend');
+  const W = 700, H = 110;
+  svg.innerHTML = '';
+  const n = snaps.length;
+  const layers = EMOTIONS.map(() => []);
+  snaps.forEach((s) => {
+    const totals = s.emotion_totals || {};
+    const grand = EMOTIONS.reduce((sum, e) => sum + (totals[e] || 0), 0) || 1;
+    let cum = 0;
+    EMOTIONS.forEach((e, ei) => {
+      cum += (totals[e] || 0) / grand;
+      layers[ei].push(cum);
+    });
+  });
+  const x = (i) => (n <= 1 ? 0 : (i / (n - 1)) * W);
+  const y = (v) => H - v * H;
+  let prevLine = snaps.map(() => 0);
+  EMOTIONS.forEach((e, ei) => {
+    const topLine = layers[ei];
+    let d = `M ${x(0)} ${y(prevLine[0])}`;
+    for (let i = 1; i < n; i++) d += ` L ${x(i)} ${y(prevLine[i])}`;
+    for (let i = n - 1; i >= 0; i--) d += ` L ${x(i)} ${y(topLine[i])}`;
+    d += ' Z';
+    const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+    path.setAttribute('d', d);
+    path.setAttribute('fill', C[e]);
+    path.setAttribute('opacity', '0.85');
+    svg.appendChild(path);
+    prevLine = topLine;
+  });
+}
+
+function moveCursor(i) {
+  const n = historySnapshots ? historySnapshots.length : 0;
+  const pct = n <= 1 ? 0 : (i / (n - 1)) * 100;
+  trendCursor.style.left = pct + '%';
+}
+
+function updateScrubLabel(i) {
+  if (!historySnapshots || !historySnapshots[i]) return;
+  const d = new Date(historySnapshots[i].generated_at);
+  scrubLabel.textContent = d.toLocaleString(undefined, {
+    month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit',
+  });
+}
+
+function stopPlaying() {
+  playing = false;
+  clearInterval(playTimer);
+  playBtn.innerHTML = '&#9654;';
+}
+
+timelineBtn.addEventListener('click', async () => {
+  const willOpen = timelinePanel.hidden;
+  timelinePanel.hidden = !willOpen;
+  timelineBtn.classList.toggle('active', willOpen);
+
+  if (willOpen) {
+    if (!historySnapshots) {
+      timelineBtn.disabled = true;
+      scrubLabel.textContent = 'Loading history…';
+      try {
+        historySnapshots = await loadHistory();
+      } catch (e) {
+        historySnapshots = [];
+      }
+      timelineBtn.disabled = false;
+    }
+    if (!historySnapshots.length) {
+      scrubLabel.textContent = 'No history yet — check back after a few refreshes.';
+      scrub.disabled = true;
+      playBtn.disabled = true;
+    } else {
+      scrub.disabled = false;
+      playBtn.disabled = false;
+      scrub.max = String(historySnapshots.length - 1);
+      scrub.value = String(historySnapshots.length - 1);
+      renderTrend(historySnapshots);
+      moveCursor(historySnapshots.length - 1);
+      updateScrubLabel(historySnapshots.length - 1);
+    }
+  } else {
+    stopPlaying();
+    if (latestSnapshot) showSnapshot(latestSnapshot);
+  }
+});
+
+scrub.addEventListener('input', () => {
+  const i = Number(scrub.value);
+  updateScrubLabel(i);
+  moveCursor(i);
+  clearTimeout(scrubDebounce);
+  scrubDebounce = setTimeout(() => {
+    if (historySnapshots && historySnapshots[i]) showSnapshot(historySnapshots[i]);
+  }, 180);
+});
+
+playBtn.addEventListener('click', () => {
+  if (!historySnapshots || !historySnapshots.length) return;
+  playing = !playing;
+  playBtn.innerHTML = playing ? '&#9208;' : '&#9654;';
+  if (playing) {
+    playTimer = setInterval(() => {
+      let i = Number(scrub.value) + 1;
+      if (i > Number(scrub.max)) i = 0;
+      scrub.value = String(i);
+      updateScrubLabel(i);
+      moveCursor(i);
+      showSnapshot(historySnapshots[i]);
+    }, 500);
+  } else {
+    clearInterval(playTimer);
+  }
+});
+
+sizeCanvases();
+window.addEventListener('resize', sizeCanvases);
+loadLatest();
+setInterval(loadLatest, POLL_MS);
+setInterval(updateLiveLabel, 30 * 1000);
+</script>
+<script data-goatcounter="https://jesserstrait.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
