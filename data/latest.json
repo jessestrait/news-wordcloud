@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:07:50.838Z",
+  "generated_at": "2026-07-23T08:22:31.622Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
       "government",
       6,
       "fear"
-    ],
-    [
-      "war",
-      6,
-      "anger"
     ],
     [
       "military",
@@ -208,21 +208,6 @@
       "anticipation"
     ],
     [
-      "agreement",
-      1,
-      "trust"
-    ],
-    [
-      "ambassadors",
-      1,
-      "trust"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -236,6 +221,11 @@
       "blockade",
       1,
       "anger"
+    ],
+    [
+      "ideas",
+      1,
+      "trust"
     ],
     [
       "fight",
@@ -376,16 +366,26 @@
       "serve",
       1,
       "trust"
+    ],
+    [
+      "president",
+      1,
+      "trust"
+    ],
+    [
+      "pledge",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 55,
+    "trust": 54,
     "fear": 57,
     "surprise": 12,
     "sadness": 13,
     "disgust": 3,
-    "anger": 91,
-    "anticipation": 27
+    "anger": 92,
+    "anticipation": 26
   }
 }
