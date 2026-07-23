@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T10:37:31.211Z",
+  "generated_at": "2026-07-23T10:52:32.043Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,11 +108,6 @@
       "trust"
     ],
     [
-      "scandal",
-      2,
-      "fear"
-    ],
-    [
       "threaten",
       2,
       "anger"
@@ -121,6 +116,11 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "scandal",
+      2,
+      "fear"
     ],
     [
       "pride",
@@ -223,6 +223,31 @@
       "anger"
     ],
     [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "degrading",
+      1,
+      "fear"
+    ],
+    [
+      "ships",
+      1,
+      "anticipation"
+    ],
+    [
+      "blockade",
+      1,
+      "anger"
+    ],
+    [
       "promises",
       1,
       "joy"
@@ -249,31 +274,6 @@
     ],
     [
       "anger",
-      1,
-      "anger"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "degrading",
-      1,
-      "fear"
-    ],
-    [
-      "ships",
-      1,
-      "anticipation"
-    ],
-    [
-      "blockade",
       1,
       "anger"
     ],
