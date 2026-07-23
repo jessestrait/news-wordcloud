@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-07-23T09:52:30.731Z",
+  "generated_at": "2026-07-23T10:02:45.140Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      11,
+      10,
+      "anger"
+    ],
+    [
+      "war",
+      7,
       "anger"
     ],
     [
@@ -13,13 +18,8 @@
       "anger"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "trump",
-      5,
+      6,
       "anger"
     ],
     [
@@ -33,27 +33,17 @@
       "fear"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
       "threat",
       5,
       "anger"
     ],
     [
+      "killed",
+      4,
+      "fear"
+    ],
+    [
       "military",
-      4,
-      "fear"
-    ],
-    [
-      "strait",
-      4,
-      "fear"
-    ],
-    [
-      "hormuz",
       4,
       "fear"
     ],
@@ -68,9 +58,24 @@
       "fear"
     ],
     [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
       "raid",
       4,
       "anger"
+    ],
+    [
+      "strait",
+      3,
+      "fear"
+    ],
+    [
+      "hormuz",
+      3,
+      "fear"
     ],
     [
       "vow",
@@ -98,11 +103,6 @@
       "anger"
     ],
     [
-      "launches",
-      2,
-      "anticipation"
-    ],
-    [
       "threaten",
       2,
       "anger"
@@ -111,6 +111,11 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "policy",
+      2,
+      "trust"
     ],
     [
       "scandal",
@@ -183,11 +188,6 @@
       "joy"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "mountain",
       2,
       "anticipation"
@@ -213,8 +213,18 @@
       "fear"
     ],
     [
-      "ship",
-      2,
+      "angel",
+      1,
+      "surprise"
+    ],
+    [
+      "michael",
+      1,
+      "trust"
+    ],
+    [
+      "launches",
+      1,
       "anticipation"
     ],
     [
@@ -228,7 +238,22 @@
       "fear"
     ],
     [
+      "ships",
+      1,
+      "anticipation"
+    ],
+    [
       "blockade",
+      1,
+      "anger"
+    ],
+    [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
+      "hurts",
       1,
       "anger"
     ],
@@ -268,11 +293,6 @@
       "anger"
     ],
     [
-      "ideas",
-      1,
-      "trust"
-    ],
-    [
       "row",
       1,
       "anger"
@@ -291,11 +311,6 @@
       "sleeping",
       1,
       "joy"
-    ],
-    [
-      "policy",
-      1,
-      "trust"
     ],
     [
       "overdue",
@@ -361,31 +376,16 @@
       "freedom",
       1,
       "joy"
-    ],
-    [
-      "rocket",
-      1,
-      "anger"
-    ],
-    [
-      "fate",
-      1,
-      "anticipation"
-    ],
-    [
-      "series",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 54,
-    "fear": 53,
-    "surprise": 12,
+    "trust": 53,
+    "fear": 51,
+    "surprise": 13,
     "sadness": 13,
     "disgust": 3,
-    "anger": 94,
-    "anticipation": 28
+    "anger": 93,
+    "anticipation": 25
   }
 }
