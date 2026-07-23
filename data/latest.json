@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T12:00:02.122Z",
+  "generated_at": "2026-07-23T12:07:34.361Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,11 @@
       "anger"
     ],
     [
+      "policy",
+      2,
+      "trust"
+    ],
+    [
       "threaten",
       2,
       "anger"
@@ -111,11 +116,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "policy",
-      2,
-      "trust"
     ],
     [
       "evacuated",
@@ -223,6 +223,16 @@
       "sadness"
     ],
     [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
+      "hurts",
+      1,
+      "anger"
+    ],
+    [
       "launches",
       1,
       "anticipation"
@@ -244,16 +254,6 @@
     ],
     [
       "blockade",
-      1,
-      "anger"
-    ],
-    [
-      "hit",
-      1,
-      "anger"
-    ],
-    [
-      "hurts",
       1,
       "anger"
     ],
