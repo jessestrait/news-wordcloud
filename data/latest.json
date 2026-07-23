@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:37:30.912Z",
+  "generated_at": "2026-07-23T13:52:34.178Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,12 +103,12 @@
       "anger"
     ],
     [
-      "president",
+      "leader",
       2,
       "trust"
     ],
     [
-      "leader",
+      "president",
       2,
       "trust"
     ],
@@ -238,6 +238,11 @@
       "sadness"
     ],
     [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -251,11 +256,6 @@
       "accords",
       1,
       "trust"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
     ],
     [
       "intense",
