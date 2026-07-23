@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-07-23T01:09:33.239Z",
+  "generated_at": "2026-07-23T01:19:18.543Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
       11,
+      "anger"
+    ],
+    [
+      "attack",
+      9,
       "anger"
     ],
     [
@@ -38,18 +43,13 @@
       "fear"
     ],
     [
-      "attack",
+      "strike",
       5,
       "anger"
     ],
     [
-      "attacks",
-      4,
-      "anger"
-    ],
-    [
-      "strikes",
-      4,
+      "threat",
+      5,
       "anger"
     ],
     [
@@ -68,6 +68,16 @@
       "trust"
     ],
     [
+      "continue",
+      4,
+      "trust"
+    ],
+    [
+      "fire",
+      4,
+      "fear"
+    ],
+    [
       "launches",
       3,
       "anticipation"
@@ -78,9 +88,9 @@
       "joy"
     ],
     [
-      "continue",
+      "hope",
       3,
-      "trust"
+      "surprise"
     ],
     [
       "opposition",
@@ -103,22 +113,17 @@
       "anger"
     ],
     [
-      "threat",
+      "raid",
       3,
       "anger"
     ],
     [
-      "calls",
-      2,
-      "trust"
+      "death",
+      3,
+      "sadness"
     ],
     [
       "threaten",
-      2,
-      "anger"
-    ],
-    [
-      "threats",
       2,
       "anger"
     ],
@@ -133,9 +138,9 @@
       "joy"
     ],
     [
-      "hope",
+      "warn",
       2,
-      "surprise"
+      "fear"
     ],
     [
       "scientist",
@@ -143,9 +148,9 @@
       "trust"
     ],
     [
-      "deaths",
+      "attempt",
       2,
-      "sadness"
+      "anticipation"
     ],
     [
       "people",
@@ -183,19 +188,14 @@
       "trust"
     ],
     [
-      "fires",
-      2,
-      "fear"
-    ],
-    [
       "explosion",
       2,
       "fear"
     ],
     [
-      "raid",
+      "warning",
       2,
-      "anger"
+      "fear"
     ],
     [
       "system",
@@ -208,7 +208,22 @@
       "anger"
     ],
     [
-      "fire",
+      "ship",
+      2,
+      "anticipation"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
+      "nation",
+      2,
+      "trust"
+    ],
+    [
+      "wildfire",
       2,
       "fear"
     ],
@@ -221,6 +236,26 @@
       "abuse",
       2,
       "anger"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "degrading",
+      1,
+      "fear"
+    ],
+    [
+      "blockade",
+      1,
+      "anger"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
     ],
     [
       "commerce",
@@ -238,36 +273,6 @@
       "trust"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "degrading",
-      1,
-      "fear"
-    ],
-    [
-      "ships",
-      1,
-      "anticipation"
-    ],
-    [
-      "blockade",
-      1,
-      "anger"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "warns",
-      1,
-      "fear"
-    ],
-    [
       "pledge",
       1,
       "joy"
@@ -276,11 +281,6 @@
       "experts",
       1,
       "trust"
-    ],
-    [
-      "warn",
-      1,
-      "fear"
     ],
     [
       "change",
@@ -301,16 +301,6 @@
       "forecasting",
       1,
       "trust"
-    ],
-    [
-      "attempt",
-      1,
-      "anticipation"
-    ],
-    [
-      "attempts",
-      1,
-      "anticipation"
     ],
     [
       "breaking",
@@ -376,11 +366,21 @@
       "parliament",
       1,
       "trust"
+    ],
+    [
+      "solidarity",
+      1,
+      "trust"
+    ],
+    [
+      "proceedings",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 53,
+    "trust": 51,
     "fear": 61,
     "surprise": 10,
     "sadness": 12,
