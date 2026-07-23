@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:22:34.933Z",
+  "generated_at": "2026-07-23T13:37:30.912Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,11 @@
       "anger"
     ],
     [
+      "president",
+      2,
+      "trust"
+    ],
+    [
       "leader",
       2,
       "trust"
@@ -116,11 +121,6 @@
       "wildfire",
       2,
       "fear"
-    ],
-    [
-      "president",
-      2,
-      "trust"
     ],
     [
       "jailed",
@@ -238,6 +238,21 @@
       "sadness"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "truth",
+      1,
+      "trust"
+    ],
+    [
+      "accords",
+      1,
+      "trust"
+    ],
+    [
       "black",
       1,
       "sadness"
@@ -256,21 +271,6 @@
       "pine",
       1,
       "sadness"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "truth",
-      1,
-      "trust"
-    ],
-    [
-      "accords",
-      1,
-      "trust"
     ],
     [
       "terrorism",
