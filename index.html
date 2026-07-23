@@ -176,10 +176,11 @@ function renderSnapshot(snapshot) {
     canvas.addEventListener('wordcloudstop', finish, { once: true });
     setTimeout(finish, 25000); // safety net only -- speed is explicitly not a priority here, this just guards the pathological case
 
-    // Exact match to the sibling YouTube word cloud's WordCloud() config.
+    // Matches the sibling YouTube word cloud's WordCloud() config, except
+    // gridSize is wider here to give words more breathing room.
     WordCloud(canvas, {
       list,
-      gridSize: 7,
+      gridSize: 10,
       weightFactor: 2.4,
       fontFamily: "system-ui, sans-serif",
       fontWeight: "700",
