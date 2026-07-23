@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T17:51:35.988Z",
+  "generated_at": "2026-07-23T19:02:53.612Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      13,
+      12,
       "anger"
     ],
     [
@@ -19,7 +19,7 @@
     ],
     [
       "attack",
-      8,
+      7,
       "anger"
     ],
     [
@@ -34,7 +34,7 @@
     ],
     [
       "threat",
-      4,
+      5,
       "anger"
     ],
     [
@@ -83,6 +83,11 @@
       "fear"
     ],
     [
+      "warn",
+      3,
+      "fear"
+    ],
+    [
       "police",
       3,
       "fear"
@@ -91,6 +96,16 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "middle",
+      2,
+      "sadness"
+    ],
+    [
+      "rising",
+      2,
+      "joy"
     ],
     [
       "letters",
@@ -153,11 +168,6 @@
       "surprise"
     ],
     [
-      "warn",
-      2,
-      "fear"
-    ],
-    [
       "blackmail",
       2,
       "anger"
@@ -198,24 +208,29 @@
       "anger"
     ],
     [
-      "massive",
+      "fears",
       1,
       "anger"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "haven",
+      "general",
       1,
       "trust"
     ],
     [
-      "pain",
+      "council",
       1,
-      "fear"
+      "trust"
+    ],
+    [
+      "unimaginable",
+      1,
+      "surprise"
+    ],
+    [
+      "massive",
+      1,
+      "anger"
     ],
     [
       "flee",
@@ -361,29 +376,14 @@
       "persuade",
       1,
       "trust"
-    ],
-    [
-      "family",
-      1,
-      "joy"
-    ],
-    [
-      "promises",
-      1,
-      "joy"
-    ],
-    [
-      "punish",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 50,
+    "joy": 27,
+    "trust": 51,
     "fear": 49,
-    "surprise": 12,
-    "sadness": 10,
+    "surprise": 13,
+    "sadness": 11,
     "disgust": 4,
     "anger": 100,
     "anticipation": 28
