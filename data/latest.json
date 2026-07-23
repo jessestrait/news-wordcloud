@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T02:22:32.154Z",
+  "generated_at": "2026-07-23T02:37:30.623Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "government",
-      7,
-      "fear"
-    ],
-    [
       "trump",
       6,
       "anger"
@@ -33,12 +28,17 @@
       "anticipation"
     ],
     [
-      "police",
+      "government",
       6,
       "fear"
     ],
     [
       "military",
+      5,
+      "fear"
+    ],
+    [
+      "police",
       5,
       "fear"
     ],
@@ -118,11 +118,6 @@
       "joy"
     ],
     [
-      "protesters",
-      3,
-      "anger"
-    ],
-    [
       "death",
       3,
       "sadness"
@@ -131,6 +126,11 @@
       "threaten",
       2,
       "anger"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
     ],
     [
       "power",
@@ -198,6 +198,11 @@
       "fear"
     ],
     [
+      "protesters",
+      2,
+      "anger"
+    ],
+    [
       "system",
       2,
       "trust"
@@ -228,11 +233,6 @@
       "fear"
     ],
     [
-      "youth",
-      2,
-      "anger"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -248,9 +248,9 @@
       "anger"
     ],
     [
-      "deal",
+      "establish",
       1,
-      "surprise"
+      "trust"
     ],
     [
       "statement",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 54,
-    "fear": 60,
-    "surprise": 10,
+    "trust": 55,
+    "fear": 58,
+    "surprise": 11,
     "sadness": 12,
     "disgust": 2,
-    "anger": 103,
+    "anger": 99,
     "anticipation": 28
   }
 }
