@@ -7,7 +7,7 @@
 // Old day-files past RETENTION_DAYS are deleted. The workflow itself decides
 // whether to commit (skipped if nothing changed).
 import { readdirSync, readFileSync, writeFileSync, appendFileSync, mkdirSync, unlinkSync, existsSync } from "node:fs";
-import { tokenize, emotionOf } from "../lib/emolex.js";
+import { tokenize, mergePlurals, emotionOf } from "../lib/emolex.js";
 
 const RETENTION_DAYS = 7;
 const TOP_WORDS = 75;
@@ -35,7 +35,7 @@ async function fetchArticles() {
 
 function buildSnapshot(articles) {
   const texts = articles.flatMap((a) => [a.fields?.headline || a.webTitle || "", a.fields?.trailText || ""]);
-  const freq = tokenize(texts);
+  const freq = mergePlurals(tokenize(texts));
   const allWords = Object.keys(freq).sort((a, b) => freq[b] - freq[a]);
   const coloredWords = allWords.filter((w) => emotionOf(w) !== null);
 
