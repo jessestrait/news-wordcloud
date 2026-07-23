@@ -16,8 +16,17 @@
   .dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: #00B0FF; margin-right: 6px; animation: pulse 2s infinite; }
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
 
-  #wc-wrap { position: relative; background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; height: 420px; }
-  #wc-wrap canvas { position: absolute; inset: 2.75rem; transition: opacity 0.7s ease; font-family: system-ui, sans-serif; }
+  #wc-wrap { position: relative; background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; height: 500px; overflow: hidden; }
+  /* Canvas is deliberately LARGER than the visible frame and cropped by
+     overflow:hidden above -- wordcloud2.js can place text flush against its
+     own canvas edge (confirmed directly: real pixel content at column
+     canvas.width-1), and glyph rendering can overshoot that edge and get
+     hard-clipped by the canvas itself. No margin between canvas and frame
+     can fix that, since the clip happens *inside* the canvas. Overscanning
+     the canvas and cropping with CSS instead pushes that raw edge outside
+     the visible area entirely. Inset value here must equal
+     VISIBLE_PADDING_PX - OVERSCAN_PX in the script below. */
+  #wc-wrap canvas { position: absolute; inset: -76px; transition: opacity 0.7s ease; font-family: system-ui, sans-serif; }
   #wc-b { opacity: 0; }
 
   .legend { display: flex; gap: 14px; justify-content: center; margin-bottom: 1.5rem; font-size: 0.72rem; color: #64748b; flex-wrap: wrap; font-family: system-ui, sans-serif; }
@@ -122,7 +131,7 @@ const POLL_MS = 60 * 1000;
 // page/text can. Verified directly against real production data that this
 // gridSize/weightFactor/width combination stays fast (1-2s) and complete
 // up to 55 words.
-const MAX_CLOUD_WORDS = 35;
+const MAX_CLOUD_WORDS = 24;
 
 const wrap = document.getElementById('wc-wrap');
 const canvasA = document.getElementById('wc-a');
@@ -145,20 +154,23 @@ let playing = false;
 let playToken = 0;
 let scrubDebounce = null;
 
-const CANVAS_INSET_PX = 44; // must match #wc-wrap canvas { inset } in the <style> above
+const VISIBLE_PADDING_PX = 24; // aesthetic breathing room inside the frame
+const OVERSCAN_PX = 100; // extra canvas beyond the visible area, cropped by #wc-wrap's overflow:hidden -- this is where wordcloud2.js's own hard canvas-edge clip lives, kept off-screen
 
 function sizeCanvases() {
-  // Keep wordcloud2.js's placement grid a bit smaller than the visible frame:
-  // its bounding-box math for a word can slightly underestimate glyph ink
-  // (ascenders/descenders, bold anti-aliasing), so words placed right at the
-  // grid edge can visually clip the frame. The inset margin absorbs that.
-  const w = Math.max(200, wrap.clientWidth - CANVAS_INSET_PX * 2);
-  const h = Math.max(150, wrap.clientHeight - CANVAS_INSET_PX * 2);
+  // See the CSS comment on "#wc-wrap canvas" -- the canvas is bigger than
+  // what's visible on purpose, and #wc-wrap crops it. width/height here
+  // must produce the same box the CSS `inset: -26px` (OVERSCAN_PX minus
+  // VISIBLE_PADDING_PX) already positions.
+  const visW = Math.max(200, wrap.clientWidth - VISIBLE_PADDING_PX * 2);
+  const visH = Math.max(150, wrap.clientHeight - VISIBLE_PADDING_PX * 2);
+  const w = visW + OVERSCAN_PX * 2;
+  const h = visH + OVERSCAN_PX * 2;
   [canvasA, canvasB].forEach((c) => { c.width = w; c.height = h; });
 }
 
 function wordSize(freq) {
-  return Math.min(60, Math.round(15 + 15 * Math.sqrt(freq)));
+  return Math.min(50, Math.round(15 + 15 * Math.sqrt(freq)));
 }
 
 // wordcloud2.js places words one at a time (largest first, smallest last)
@@ -197,16 +209,25 @@ function renderSnapshot(canvas, which, snapshot) {
       resolve();
     };
     canvas.addEventListener('wordcloudstop', finish, { once: true });
-    setTimeout(finish, 3000); // safety net -- never block playback indefinitely
+    setTimeout(finish, 8000); // safety net -- measured render times up to ~8s with a larger overscanned canvas, so this must sit above that
 
     WordCloud(canvas, {
       list,
-      gridSize: 8,
-      weightFactor: 2,
+      gridSize: 10,
+      // weightFactor is NOT cosmetic -- wordcloud2.js multiplies each
+      // word's list size by this to get the actual rendered font size
+      // (source: settings.weightFactor = function(pt){ return pt*factor }).
+      // This was set to 2 while wordSize() already capped at 50, meaning
+      // real max font size was 100px, not 50 -- massive, unaccounted-for
+      // crowding in a 746px-wide canvas, and the actual root cause of the
+      // clipping (not glyph overhang, not rotation -- text was just far
+      // bigger than intended). weightFactor:1 makes wordSize()'s return
+      // value the literal final pixel size, fully under our control.
+      weightFactor: 1,
       fontFamily: "system-ui, sans-serif",
       fontWeight: "700",
       color: (word) => getColor(emotionMaps[which][word]),
-      rotateRatio: 0.15,
+      rotateRatio: 0,
       rotationSteps: 2,
       backgroundColor: "#0f172a",
       shrinkToFit: true,
