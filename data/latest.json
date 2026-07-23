@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:07:32.318Z",
+  "generated_at": "2026-07-23T13:22:34.933Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,11 @@
       "anger"
     ],
     [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "evacuated",
       2,
       "fear"
@@ -114,11 +119,6 @@
     ],
     [
       "president",
-      2,
-      "trust"
-    ],
-    [
-      "leader",
       2,
       "trust"
     ],
@@ -238,6 +238,11 @@
       "sadness"
     ],
     [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
       "intense",
       1,
       "anger"
@@ -266,11 +271,6 @@
       "accords",
       1,
       "trust"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
     ],
     [
       "terrorism",
