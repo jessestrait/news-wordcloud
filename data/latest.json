@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-23T11:22:31.326Z",
+  "generated_at": "2026-07-23T11:37:33.651Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      10,
+      11,
       "anger"
     ],
     [
       "war",
-      7,
+      8,
       "anger"
     ],
     [
@@ -101,6 +101,11 @@
       "violence",
       3,
       "anger"
+    ],
+    [
+      "visitors",
+      2,
+      "joy"
     ],
     [
       "policy",
@@ -208,9 +213,19 @@
       "sadness"
     ],
     [
-      "fire",
-      2,
+      "plummet",
+      1,
       "fear"
+    ],
+    [
+      "family",
+      1,
+      "joy"
+    ],
+    [
+      "friends",
+      1,
+      "joy"
     ],
     [
       "hit",
@@ -361,31 +376,16 @@
       "establish",
       1,
       "trust"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
-    ],
-    [
-      "rocket",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 27,
     "trust": 53,
     "fear": 51,
     "surprise": 13,
     "sadness": 13,
     "disgust": 2,
-    "anger": 93,
+    "anger": 94,
     "anticipation": 25
   }
 }
