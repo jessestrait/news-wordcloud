@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T05:07:33.799Z",
+  "generated_at": "2026-07-23T05:22:31.199Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,11 +53,6 @@
       "anger"
     ],
     [
-      "life",
-      4,
-      "joy"
-    ],
-    [
       "strait",
       4,
       "fear"
@@ -66,6 +61,11 @@
       "hormuz",
       4,
       "fear"
+    ],
+    [
+      "life",
+      4,
+      "joy"
     ],
     [
       "continue",
@@ -213,6 +213,21 @@
       "trust"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "degrading",
+      1,
+      "fear"
+    ],
+    [
+      "blockade",
+      1,
+      "anger"
+    ],
+    [
       "overdue",
       1,
       "sadness"
@@ -261,21 +276,6 @@
       "experienced",
       1,
       "trust"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "degrading",
-      1,
-      "fear"
-    ],
-    [
-      "blockade",
-      1,
-      "anger"
     ],
     [
       "establish",
