@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:07:30.776Z",
+  "generated_at": "2026-07-23T09:22:34.817Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,11 +16,6 @@
       "war",
       6,
       "anger"
-    ],
-    [
-      "government",
-      5,
-      "fear"
     ],
     [
       "trump",
@@ -68,6 +63,11 @@
       "joy"
     ],
     [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "raid",
       4,
       "anger"
@@ -113,19 +113,14 @@
       "surprise"
     ],
     [
-      "pride",
-      2,
-      "joy"
-    ],
-    [
-      "anger",
-      2,
-      "anger"
-    ],
-    [
       "scandal",
       2,
       "fear"
+    ],
+    [
+      "pride",
+      2,
+      "joy"
     ],
     [
       "book",
@@ -238,36 +233,6 @@
       "anger"
     ],
     [
-      "row",
-      1,
-      "anger"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "ideas",
-      1,
-      "trust"
-    ],
-    [
-      "fight",
-      1,
-      "anger"
-    ],
-    [
-      "sleeping",
-      1,
-      "joy"
-    ],
-    [
-      "policy",
-      1,
-      "trust"
-    ],
-    [
       "promises",
       1,
       "joy"
@@ -296,6 +261,41 @@
       "youth",
       1,
       "anger"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "ideas",
+      1,
+      "trust"
+    ],
+    [
+      "row",
+      1,
+      "anger"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "sleeping",
+      1,
+      "joy"
+    ],
+    [
+      "policy",
+      1,
+      "trust"
     ],
     [
       "overdue",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 24,
     "trust": 54,
-    "fear": 54,
+    "fear": 53,
     "surprise": 12,
     "sadness": 13,
     "disgust": 3,
-    "anger": 95,
+    "anger": 94,
     "anticipation": 28
   }
 }
