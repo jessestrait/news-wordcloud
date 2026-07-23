@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T10:07:34.072Z",
+  "generated_at": "2026-07-23T10:22:34.714Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,12 +38,12 @@
       "anger"
     ],
     [
-      "killed",
+      "military",
       4,
       "fear"
     ],
     [
-      "military",
+      "killed",
       4,
       "fear"
     ],
@@ -103,6 +103,11 @@
       "anger"
     ],
     [
+      "policy",
+      2,
+      "trust"
+    ],
+    [
       "threaten",
       2,
       "anger"
@@ -111,11 +116,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "policy",
-      2,
-      "trust"
     ],
     [
       "scandal",
@@ -213,14 +213,14 @@
       "fear"
     ],
     [
-      "angel",
+      "hit",
       1,
-      "surprise"
+      "anger"
     ],
     [
-      "michael",
+      "hurts",
       1,
-      "trust"
+      "anger"
     ],
     [
       "launches",
@@ -248,14 +248,14 @@
       "anger"
     ],
     [
-      "hit",
+      "angel",
       1,
-      "anger"
+      "surprise"
     ],
     [
-      "hurts",
+      "michael",
       1,
-      "anger"
+      "trust"
     ],
     [
       "promises",
