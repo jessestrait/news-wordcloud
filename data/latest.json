@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:37:34.081Z",
+  "generated_at": "2026-07-23T08:52:31.910Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,21 +9,16 @@
     ],
     [
       "attack",
-      9,
-      "anger"
-    ],
-    [
-      "war",
       7,
       "anger"
     ],
     [
-      "government",
+      "war",
       6,
-      "fear"
+      "anger"
     ],
     [
-      "military",
+      "government",
       5,
       "fear"
     ],
@@ -53,6 +48,11 @@
       "anger"
     ],
     [
+      "military",
+      4,
+      "fear"
+    ],
+    [
       "strait",
       4,
       "fear"
@@ -73,17 +73,17 @@
       "anger"
     ],
     [
+      "vow",
+      3,
+      "joy"
+    ],
+    [
       "power",
       3,
       "anticipation"
     ],
     [
       "people",
-      3,
-      "trust"
-    ],
-    [
-      "continue",
       3,
       "trust"
     ],
@@ -113,6 +113,11 @@
       "surprise"
     ],
     [
+      "pride",
+      2,
+      "joy"
+    ],
+    [
       "anger",
       2,
       "anger"
@@ -128,14 +133,14 @@
       "trust"
     ],
     [
-      "vows",
+      "growing",
       2,
       "joy"
     ],
     [
-      "growing",
+      "continue",
       2,
-      "joy"
+      "trust"
     ],
     [
       "warn",
@@ -151,6 +156,16 @@
       "attempt",
       2,
       "anticipation"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
+      "blackmail",
+      2,
+      "anger"
     ],
     [
       "opposition",
@@ -221,6 +236,16 @@
       "blockade",
       1,
       "anger"
+    ],
+    [
+      "row",
+      1,
+      "anger"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
     ],
     [
       "ideas",
@@ -351,41 +376,16 @@
       "series",
       1,
       "trust"
-    ],
-    [
-      "commerce",
-      1,
-      "trust"
-    ],
-    [
-      "tax",
-      1,
-      "sadness"
-    ],
-    [
-      "serve",
-      1,
-      "trust"
-    ],
-    [
-      "president",
-      1,
-      "trust"
-    ],
-    [
-      "pledge",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
+    "joy": 24,
     "trust": 54,
-    "fear": 57,
+    "fear": 54,
     "surprise": 12,
     "sadness": 13,
     "disgust": 3,
-    "anger": 92,
-    "anticipation": 26
+    "anger": 95,
+    "anticipation": 28
   }
 }
