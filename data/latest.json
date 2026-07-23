@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T04:52:31.979Z",
+  "generated_at": "2026-07-23T05:07:33.799Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,27 +13,17 @@
       "anger"
     ],
     [
-      "trump",
-      7,
-      "anger"
-    ],
-    [
       "war",
       7,
       "anger"
     ],
     [
-      "government",
-      6,
-      "fear"
-    ],
-    [
-      "strike",
+      "trump",
       6,
       "anger"
     ],
     [
-      "threat",
+      "strike",
       6,
       "anger"
     ],
@@ -53,6 +43,21 @@
       "fear"
     ],
     [
+      "government",
+      5,
+      "fear"
+    ],
+    [
+      "threat",
+      5,
+      "anger"
+    ],
+    [
+      "life",
+      4,
+      "joy"
+    ],
+    [
       "strait",
       4,
       "fear"
@@ -61,11 +66,6 @@
       "hormuz",
       4,
       "fear"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "continue",
@@ -78,17 +78,17 @@
       "anger"
     ],
     [
-      "fire",
-      4,
-      "fear"
-    ],
-    [
       "launches",
       3,
       "anticipation"
     ],
     [
       "people",
+      3,
+      "trust"
+    ],
+    [
+      "president",
       3,
       "trust"
     ],
@@ -113,11 +113,6 @@
       "anger"
     ],
     [
-      "life",
-      3,
-      "joy"
-    ],
-    [
       "death",
       3,
       "sadness"
@@ -131,6 +126,11 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "book",
+      2,
+      "trust"
     ],
     [
       "power",
@@ -188,19 +188,14 @@
       "trust"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "protesters",
       2,
       "anger"
     ],
     [
-      "accused",
+      "fire",
       2,
-      "anger"
+      "fear"
     ],
     [
       "ship",
@@ -218,9 +213,54 @@
       "trust"
     ],
     [
-      "wildfire",
-      2,
+      "overdue",
+      1,
+      "sadness"
+    ],
+    [
+      "reunion",
+      1,
+      "trust"
+    ],
+    [
+      "hero",
+      1,
+      "surprise"
+    ],
+    [
+      "lost",
+      1,
+      "sadness"
+    ],
+    [
+      "uncovers",
+      1,
+      "surprise"
+    ],
+    [
+      "secret",
+      1,
+      "trust"
+    ],
+    [
+      "daring",
+      1,
+      "trust"
+    ],
+    [
+      "pilot",
+      1,
+      "trust"
+    ],
+    [
+      "advance",
+      1,
       "fear"
+    ],
+    [
+      "experienced",
+      1,
+      "trust"
     ],
     [
       "middle",
@@ -251,11 +291,6 @@
       "freedom",
       1,
       "joy"
-    ],
-    [
-      "book",
-      1,
-      "trust"
     ],
     [
       "rocket",
@@ -341,51 +376,16 @@
       "revolution",
       1,
       "anger"
-    ],
-    [
-      "congress",
-      1,
-      "disgust"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
-    ],
-    [
-      "finally",
-      1,
-      "disgust"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
-    ],
-    [
-      "marine",
-      1,
-      "trust"
-    ],
-    [
-      "threatened",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 54,
-    "fear": 57,
-    "surprise": 10,
-    "sadness": 12,
+    "joy": 20,
+    "trust": 57,
+    "fear": 53,
+    "surprise": 12,
+    "sadness": 14,
     "disgust": 2,
-    "anger": 100,
-    "anticipation": 28
+    "anger": 94,
+    "anticipation": 27
   }
 }
