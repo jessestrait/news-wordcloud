@@ -24,8 +24,7 @@
      overshooting it. This is NOT sized to hide a deliberately oversized
      word count -- list size/count now matches the sibling YouTube page's
      own settings, which are meant to actually fit a 440px-tall canvas. */
-  #wc-wrap canvas { position: absolute; inset: -40px; transition: opacity 1.2s ease; font-family: system-ui, sans-serif; }
-  #wc-b { opacity: 0; }
+  #wc-wrap canvas { position: absolute; inset: -40px; font-family: system-ui, sans-serif; }
 
   .legend { display: flex; gap: 14px; justify-content: center; margin-bottom: 1.5rem; font-size: 0.72rem; color: #64748b; flex-wrap: wrap; font-family: system-ui, sans-serif; }
   .legend span { display: flex; align-items: center; gap: 5px; }
@@ -69,7 +68,6 @@
 
 <div id="wc-wrap">
   <canvas id="wc-a"></canvas>
-  <canvas id="wc-b"></canvas>
 </div>
 
 <div class="legend">
@@ -121,10 +119,8 @@ const POLL_MS = 60 * 1000;
 const MAX_CLOUD_WORDS = 130;
 
 const wrap = document.getElementById('wc-wrap');
-const canvasA = document.getElementById('wc-a');
-const canvasB = document.getElementById('wc-b');
-const emotionMaps = { a: {}, b: {} };
-let visibleWhich = 'a';
+const canvas = document.getElementById('wc-a');
+let emotionMap = {};
 
 const updatedEl = document.getElementById('updated');
 const sigBarEl = document.getElementById('sig-bar');
@@ -151,9 +147,8 @@ function sizeCanvases() {
   // (OVERSCAN_PX minus VISIBLE_PADDING_PX).
   const visW = Math.max(200, wrap.clientWidth - VISIBLE_PADDING_PX * 2);
   const visH = Math.max(150, wrap.clientHeight - VISIBLE_PADDING_PX * 2);
-  const w = visW + OVERSCAN_PX * 2;
-  const h = visH + OVERSCAN_PX * 2;
-  [canvasA, canvasB].forEach((c) => { c.width = w; c.height = h; });
+  canvas.width = visW + OVERSCAN_PX * 2;
+  canvas.height = visH + OVERSCAN_PX * 2;
 }
 
 function wordSize(freq) {
@@ -163,28 +158,22 @@ function wordSize(freq) {
 
 // wordcloud2.js places words one at a time (largest first, smallest last)
 // and fires a genuine 'wordcloudstop' event on the canvas once every word in
-// the list has been placed. Waiting for that -- instead of guessing a fixed
-// delay -- is what guarantees small words actually finish drawing before we
-// crossfade to the next frame.
-//
-// Important: WordCloud.stop() clears a registry that's shared globally
-// across the whole library (not scoped per canvas), so calling it can kill
-// an unrelated draw that's still finishing on the *other* crossfade canvas
-// -- that draw's 'wordcloudstop' then never fires, and it's left blank.
-// Never call it here; instead, renderChain (below) guarantees draws never
-// overlap in the first place, so there's nothing to defensively stop.
+// the list has been placed -- we wait for that (instead of a guessed fixed
+// delay) so playback pacing knows when a frame is truly done. But the draw
+// itself is DIRECT to the one visible canvas, exactly like the sibling
+// YouTube page: words appear one at a time as they're placed, live, instead
+// of being hidden behind a second canvas and crossfaded in once finished.
+// Calling WordCloud() again on the same canvas before a prior call finishes
+// is safe -- wordcloud2.js has its own same-canvas restart handling for
+// exactly that case (confirmed in source), the same thing the sibling
+// page's own "Distinct" toggle relies on.
 //
 // shrinkToFit stays true -- it's what makes a word that doesn't fit shrink
-// and retry instead of just vanishing. What actually caused the earlier
-// freeze was gridSize/weightFactor making placement search too expensive at
-// high word density; verified directly against real production data that
-// this gridSize/weightFactor combo keeps shrinkToFit:true fast (1-2s) and
-// complete up to 55 words. Safety-net timeout below still guards against
-// any pathological case.
-function renderSnapshot(canvas, which, snapshot) {
+// and retry instead of just vanishing.
+function renderSnapshot(snapshot) {
   return new Promise((resolve) => {
-    emotionMaps[which] = {};
-    (snapshot.top_words || []).forEach(([w, , e]) => { emotionMaps[which][w] = e; });
+    emotionMap = {};
+    (snapshot.top_words || []).forEach(([w, , e]) => { emotionMap[w] = e; });
     const list = (snapshot.top_words || [])
       .slice(0, MAX_CLOUD_WORDS)
       .map(([w, freq]) => [w, wordSize(freq)]);
@@ -206,7 +195,7 @@ function renderSnapshot(canvas, which, snapshot) {
       weightFactor: 2.4,
       fontFamily: "system-ui, sans-serif",
       fontWeight: "700",
-      color: (word) => getColor(emotionMaps[which][word]),
+      color: (word) => getColor(emotionMap[word]),
       rotateRatio: 0.25,
       rotationSteps: 2,
       backgroundColor: "#0f172a",
@@ -216,9 +205,10 @@ function renderSnapshot(canvas, which, snapshot) {
   });
 }
 
-// Every caller (live poll, manual scrub, play loop, timeline close) goes
-// through this same chain so draws are strictly serialized -- the next one
-// only ever starts after the previous has fully resolved (render + fade).
+// Every caller (live poll, manual scrub, play loop) goes through this same
+// chain so draws are logically sequenced -- mainly to keep the emotion
+// signature bar and the scrub label in sync with whatever's currently being
+// drawn, not because overlapping same-canvas draws are unsafe.
 let renderChain = Promise.resolve();
 
 function showSnapshot(snapshot) {
@@ -227,13 +217,8 @@ function showSnapshot(snapshot) {
 }
 
 async function showSnapshotNow(snapshot) {
-  const hiddenWhich = visibleWhich === 'a' ? 'b' : 'a';
-  const hiddenCanvas = hiddenWhich === 'a' ? canvasA : canvasB;
   renderSigBar(snapshot.emotion_totals || {});
-  await renderSnapshot(hiddenCanvas, hiddenWhich, snapshot);
-  canvasA.style.opacity = hiddenWhich === 'a' ? '1' : '0';
-  canvasB.style.opacity = hiddenWhich === 'b' ? '1' : '0';
-  visibleWhich = hiddenWhich;
+  await renderSnapshot(snapshot);
 }
 
 function renderSigBar(totals) {
