@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T04:07:32.081Z",
+  "generated_at": "2026-07-23T04:22:32.489Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      11,
+      12,
       "anger"
     ],
     [
@@ -13,19 +13,14 @@
       "anger"
     ],
     [
-      "war",
-      8,
-      "anger"
-    ],
-    [
       "trump",
-      6,
+      7,
       "anger"
     ],
     [
-      "happened",
-      6,
-      "anticipation"
+      "war",
+      7,
+      "anger"
     ],
     [
       "government",
@@ -33,24 +28,29 @@
       "fear"
     ],
     [
+      "strike",
+      6,
+      "anger"
+    ],
+    [
+      "threat",
+      6,
+      "anger"
+    ],
+    [
       "military",
       5,
       "fear"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "police",
       5,
       "fear"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
-      "threat",
-      5,
-      "anger"
     ],
     [
       "strait",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 19,
     "trust": 54,
-    "fear": 58,
+    "fear": 57,
     "surprise": 10,
     "sadness": 12,
     "disgust": 2,
-    "anger": 98,
-    "anticipation": 29
+    "anger": 100,
+    "anticipation": 28
   }
 }
