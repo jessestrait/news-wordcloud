@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T12:22:31.609Z",
+  "generated_at": "2026-07-23T12:37:32.622Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      11,
+      10,
       "anger"
     ],
     [
@@ -13,13 +13,13 @@
       "anger"
     ],
     [
-      "attack",
-      8,
+      "trump",
+      7,
       "anger"
     ],
     [
-      "trump",
-      6,
+      "attack",
+      7,
       "anger"
     ],
     [
@@ -31,11 +31,6 @@
       "threat",
       5,
       "anger"
-    ],
-    [
-      "military",
-      4,
-      "fear"
     ],
     [
       "killed",
@@ -58,24 +53,14 @@
       "fear"
     ],
     [
-      "strike",
-      4,
-      "anger"
-    ],
-    [
       "raid",
       4,
       "anger"
     ],
     [
-      "strait",
+      "deal",
       3,
-      "fear"
-    ],
-    [
-      "hormuz",
-      3,
-      "fear"
+      "surprise"
     ],
     [
       "plan",
@@ -93,6 +78,11 @@
       "trust"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "hope",
       3,
       "surprise"
@@ -108,14 +98,19 @@
       "anger"
     ],
     [
-      "threaten",
-      2,
+      "strike",
+      3,
       "anger"
     ],
     [
-      "deal",
+      "leader",
       2,
-      "surprise"
+      "trust"
+    ],
+    [
+      "president",
+      2,
+      "trust"
     ],
     [
       "jailed",
@@ -126,11 +121,6 @@
       "deadly",
       2,
       "anger"
-    ],
-    [
-      "leader",
-      2,
-      "trust"
     ],
     [
       "evacuated",
@@ -171,6 +161,16 @@
       "book",
       2,
       "trust"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "hormuz",
+      2,
+      "fear"
     ],
     [
       "growing",
@@ -238,9 +238,9 @@
       "sadness"
     ],
     [
-      "launches",
+      "black",
       1,
-      "anticipation"
+      "sadness"
     ],
     [
       "middle",
@@ -248,19 +248,14 @@
       "sadness"
     ],
     [
-      "degrading",
+      "truth",
       1,
-      "fear"
+      "trust"
     ],
     [
-      "ships",
+      "accords",
       1,
-      "anticipation"
-    ],
-    [
-      "blockade",
-      1,
-      "anger"
+      "trust"
     ],
     [
       "terrorism",
@@ -281,11 +276,6 @@
       "coup",
       1,
       "anger"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
     ],
     [
       "intense",
@@ -376,16 +366,26 @@
       "fight",
       1,
       "anger"
+    ],
+    [
+      "sleeping",
+      1,
+      "joy"
+    ],
+    [
+      "policy",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 53,
-    "fear": 56,
-    "surprise": 14,
+    "trust": 56,
+    "fear": 52,
+    "surprise": 15,
     "sadness": 14,
     "disgust": 2,
-    "anger": 98,
-    "anticipation": 24
+    "anger": 94,
+    "anticipation": 22
   }
 }
