@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T05:37:31.757Z",
+  "generated_at": "2026-07-23T05:52:33.763Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      12,
+      11,
       "anger"
     ],
     [
@@ -13,17 +13,12 @@
       "anger"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
-      "trump",
+      "government",
       6,
-      "anger"
+      "fear"
     ],
     [
-      "strike",
+      "war",
       6,
       "anger"
     ],
@@ -31,6 +26,11 @@
       "military",
       5,
       "fear"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "happened",
@@ -43,9 +43,9 @@
       "fear"
     ],
     [
-      "government",
+      "strike",
       5,
-      "fear"
+      "anger"
     ],
     [
       "threat",
@@ -68,17 +68,12 @@
       "joy"
     ],
     [
-      "continue",
-      4,
-      "trust"
-    ],
-    [
       "raid",
       4,
       "anger"
     ],
     [
-      "launches",
+      "power",
       3,
       "anticipation"
     ],
@@ -88,14 +83,9 @@
       "trust"
     ],
     [
-      "president",
+      "continue",
       3,
       "trust"
-    ],
-    [
-      "vows",
-      3,
-      "joy"
     ],
     [
       "hope",
@@ -113,9 +103,19 @@
       "anger"
     ],
     [
-      "death",
-      3,
-      "sadness"
+      "anger",
+      2,
+      "anger"
+    ],
+    [
+      "scandal",
+      2,
+      "fear"
+    ],
+    [
+      "launches",
+      2,
+      "anticipation"
     ],
     [
       "threaten",
@@ -133,9 +133,14 @@
       "trust"
     ],
     [
-      "power",
+      "president",
       2,
-      "anticipation"
+      "trust"
+    ],
+    [
+      "vows",
+      2,
+      "joy"
     ],
     [
       "growing",
@@ -193,6 +198,11 @@
       "anger"
     ],
     [
+      "death",
+      2,
+      "sadness"
+    ],
+    [
       "fire",
       2,
       "fear"
@@ -208,9 +218,49 @@
       "trust"
     ],
     [
-      "nation",
-      2,
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "sleeping",
+      1,
+      "joy"
+    ],
+    [
+      "policy",
+      1,
       "trust"
+    ],
+    [
+      "promises",
+      1,
+      "joy"
+    ],
+    [
+      "punish",
+      1,
+      "fear"
+    ],
+    [
+      "corrupt",
+      1,
+      "disgust"
+    ],
+    [
+      "officials",
+      1,
+      "trust"
+    ],
+    [
+      "harm",
+      1,
+      "fear"
+    ],
+    [
+      "youth",
+      1,
+      "anger"
     ],
     [
       "middle",
@@ -326,66 +376,16 @@
       "pledge",
       1,
       "joy"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
-      "change",
-      1,
-      "fear"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
-    ],
-    [
-      "earthquake",
-      1,
-      "anger"
-    ],
-    [
-      "forecasting",
-      1,
-      "trust"
-    ],
-    [
-      "breaking",
-      1,
-      "surprise"
-    ],
-    [
-      "birthplace",
-      1,
-      "anger"
-    ],
-    [
-      "hoped",
-      1,
-      "surprise"
-    ],
-    [
-      "tackling",
-      1,
-      "anger"
-    ],
-    [
-      "revolution",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 57,
-    "fear": 53,
+    "joy": 21,
+    "trust": 55,
+    "fear": 57,
     "surprise": 12,
-    "sadness": 14,
-    "disgust": 2,
-    "anger": 94,
+    "sadness": 13,
+    "disgust": 3,
+    "anger": 92,
     "anticipation": 27
   }
 }
