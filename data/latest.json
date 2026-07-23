@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T03:07:31.506Z",
+  "generated_at": "2026-07-23T03:22:46.524Z",
   "article_count": 50,
   "top_words": [
     [
@@ -188,11 +188,6 @@
       "trust"
     ],
     [
-      "explosion",
-      2,
-      "fear"
-    ],
-    [
       "warning",
       2,
       "fear"
@@ -201,11 +196,6 @@
       "protesters",
       2,
       "anger"
-    ],
-    [
-      "system",
-      2,
-      "trust"
     ],
     [
       "accused",
@@ -376,16 +366,26 @@
       "leave",
       1,
       "sadness"
+    ],
+    [
+      "marine",
+      1,
+      "trust"
+    ],
+    [
+      "threatened",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 55,
+    "joy": 19,
+    "trust": 54,
     "fear": 58,
-    "surprise": 11,
+    "surprise": 10,
     "sadness": 12,
     "disgust": 2,
-    "anger": 99,
-    "anticipation": 28
+    "anger": 98,
+    "anticipation": 29
   }
 }
