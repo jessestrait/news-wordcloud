@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T01:37:32.317Z",
+  "generated_at": "2026-07-23T01:52:32.164Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,6 +73,11 @@
       "trust"
     ],
     [
+      "raid",
+      4,
+      "anger"
+    ],
+    [
       "fire",
       4,
       "fear"
@@ -81,6 +86,11 @@
       "launches",
       3,
       "anticipation"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "vows",
@@ -109,11 +119,6 @@
     ],
     [
       "protesters",
-      3,
-      "anger"
-    ],
-    [
-      "raid",
       3,
       "anger"
     ],
@@ -151,11 +156,6 @@
       "attempt",
       2,
       "anticipation"
-    ],
-    [
-      "people",
-      2,
-      "trust"
     ],
     [
       "daily",
@@ -233,11 +233,6 @@
       "anger"
     ],
     [
-      "abuse",
-      2,
-      "anger"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -256,6 +251,36 @@
       "deal",
       1,
       "surprise"
+    ],
+    [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
+      "freedom",
+      1,
+      "joy"
+    ],
+    [
+      "book",
+      1,
+      "trust"
+    ],
+    [
+      "rocket",
+      1,
+      "anger"
+    ],
+    [
+      "fate",
+      1,
+      "anticipation"
+    ],
+    [
+      "series",
+      1,
+      "trust"
     ],
     [
       "commerce",
@@ -351,41 +376,16 @@
       "leave",
       1,
       "sadness"
-    ],
-    [
-      "marine",
-      1,
-      "trust"
-    ],
-    [
-      "threatened",
-      1,
-      "anger"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "solidarity",
-      1,
-      "trust"
-    ],
-    [
-      "proceedings",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 51,
-    "fear": 61,
+    "joy": 18,
+    "trust": 54,
+    "fear": 60,
     "surprise": 10,
     "sadness": 12,
     "disgust": 2,
-    "anger": 104,
-    "anticipation": 27
+    "anger": 103,
+    "anticipation": 28
   }
 }
