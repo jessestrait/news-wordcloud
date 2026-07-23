@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-23T22:34:30.822Z",
+  "generated_at": "2026-07-23T23:33:29.439Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      12,
+      13,
       "anger"
     ],
     [
       "trump",
-      10,
+      9,
       "anger"
     ],
     [
@@ -23,9 +23,9 @@
       "anger"
     ],
     [
-      "government",
+      "threat",
       5,
-      "fear"
+      "anger"
     ],
     [
       "happened",
@@ -33,8 +33,13 @@
       "anticipation"
     ],
     [
-      "threat",
-      5,
+      "government",
+      4,
+      "fear"
+    ],
+    [
+      "strike",
+      4,
       "anger"
     ],
     [
@@ -93,14 +98,19 @@
       "fear"
     ],
     [
-      "strike",
-      3,
-      "anger"
-    ],
-    [
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "base",
+      2,
+      "trust"
+    ],
+    [
+      "launch",
+      2,
+      "anticipation"
     ],
     [
       "rising",
@@ -208,11 +218,6 @@
       "anger"
     ],
     [
-      "fears",
-      1,
-      "anger"
-    ],
-    [
       "general",
       1,
       "trust"
@@ -226,6 +231,21 @@
       "unimaginable",
       1,
       "surprise"
+    ],
+    [
+      "ready",
+      1,
+      "anticipation"
+    ],
+    [
+      "defend",
+      1,
+      "fear"
+    ],
+    [
+      "bombing",
+      1,
+      "anger"
     ],
     [
       "massive",
@@ -356,36 +376,16 @@
       "coup",
       1,
       "anger"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "rewards",
-      1,
-      "surprise"
-    ],
-    [
-      "plummet",
-      1,
-      "fear"
-    ],
-    [
-      "persuade",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 51,
+    "trust": 53,
     "fear": 49,
-    "surprise": 13,
+    "surprise": 11,
     "sadness": 11,
     "disgust": 4,
-    "anger": 100,
-    "anticipation": 28
+    "anger": 101,
+    "anticipation": 31
   }
 }
