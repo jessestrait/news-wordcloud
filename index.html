@@ -110,6 +110,8 @@ const POLL_MS = 60 * 1000;
 // explicitly not a goal here -- a multi-second render is fine, see
 // PLAY_DWELL_MS and the safety-net timeout below.
 const MAX_CLOUD_WORDS = 130;
+const WORD_SIZE_MIN = 16; // px, least-frequent word in the batch
+const WORD_SIZE_MAX = 84; // px, the batch's single most frequent word
 
 const wrap = document.getElementById('wc-wrap');
 const canvas = document.getElementById('wc-a');
@@ -135,9 +137,11 @@ function sizeCanvases() {
   canvas.height = 440;
 }
 
-function wordSize(freq) {
-  // Exact match to the sibling YouTube word cloud's sizing formula.
-  return Math.min(60, Math.round(15 + 15 * Math.sqrt(freq)));
+function wordSize(freq, maxFreq) {
+  // Normalized to this batch's own max frequency instead of fixed constants,
+  // so the top word always reaches WORD_SIZE_MAX -- the old fixed-cap formula
+  // let multiple high-frequency words collapse to the same size.
+  return Math.round(WORD_SIZE_MIN + (WORD_SIZE_MAX - WORD_SIZE_MIN) * Math.sqrt(freq / maxFreq));
 }
 
 // wordcloud2.js places words one at a time (largest first, smallest last)
@@ -158,9 +162,9 @@ function renderSnapshot(snapshot) {
   return new Promise((resolve) => {
     emotionMap = {};
     (snapshot.top_words || []).forEach(([w, , e]) => { emotionMap[w] = e; });
-    const list = (snapshot.top_words || [])
-      .slice(0, MAX_CLOUD_WORDS)
-      .map(([w, freq]) => [w, wordSize(freq)]);
+    const topWords = (snapshot.top_words || []).slice(0, MAX_CLOUD_WORDS);
+    const maxFreq = topWords.reduce((m, [, freq]) => Math.max(m, freq), 1);
+    const list = topWords.map(([w, freq]) => [w, wordSize(freq, maxFreq)]);
     if (!window.WordCloud || !list.length) { resolve(); return; }
 
     let settled = false;
