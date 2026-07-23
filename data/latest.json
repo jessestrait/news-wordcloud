@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T05:52:33.763Z",
+  "generated_at": "2026-07-23T06:07:32.864Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,16 +103,6 @@
       "anger"
     ],
     [
-      "anger",
-      2,
-      "anger"
-    ],
-    [
-      "scandal",
-      2,
-      "fear"
-    ],
-    [
       "launches",
       2,
       "anticipation"
@@ -126,6 +116,16 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "anger",
+      2,
+      "anger"
+    ],
+    [
+      "scandal",
+      2,
+      "fear"
     ],
     [
       "book",
@@ -218,6 +218,21 @@
       "trust"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "degrading",
+      1,
+      "fear"
+    ],
+    [
+      "blockade",
+      1,
+      "anger"
+    ],
+    [
       "fight",
       1,
       "anger"
@@ -259,21 +274,6 @@
     ],
     [
       "youth",
-      1,
-      "anger"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "degrading",
-      1,
-      "fear"
-    ],
-    [
-      "blockade",
       1,
       "anger"
     ],
