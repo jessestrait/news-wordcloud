@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-07-23T16:12:07.674Z",
+  "generated_at": "2026-07-23T17:51:35.988Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      11,
+      13,
+      "anger"
+    ],
+    [
+      "trump",
+      10,
       "anger"
     ],
     [
@@ -13,13 +18,8 @@
       "anger"
     ],
     [
-      "trump",
-      8,
-      "anger"
-    ],
-    [
       "attack",
-      6,
+      8,
       "anger"
     ],
     [
@@ -28,24 +28,24 @@
       "fear"
     ],
     [
-      "threat",
-      5,
-      "anger"
-    ],
-    [
-      "life",
-      4,
-      "joy"
-    ],
-    [
       "happened",
-      4,
+      5,
       "anticipation"
     ],
     [
-      "deal",
+      "threat",
+      4,
+      "anger"
+    ],
+    [
+      "president",
       3,
-      "surprise"
+      "trust"
+    ],
+    [
+      "attempt",
+      3,
+      "anticipation"
     ],
     [
       "power",
@@ -68,6 +68,11 @@
       "joy"
     ],
     [
+      "life",
+      3,
+      "joy"
+    ],
+    [
       "people",
       3,
       "trust"
@@ -86,26 +91,6 @@
       "strike",
       3,
       "anger"
-    ],
-    [
-      "accords",
-      2,
-      "trust"
-    ],
-    [
-      "white",
-      2,
-      "joy"
-    ],
-    [
-      "house",
-      2,
-      "joy"
-    ],
-    [
-      "wildfires",
-      2,
-      "fear"
     ],
     [
       "letters",
@@ -173,11 +158,6 @@
       "fear"
     ],
     [
-      "attempt",
-      2,
-      "anticipation"
-    ],
-    [
       "blackmail",
       2,
       "anger"
@@ -191,11 +171,6 @@
       "violence",
       2,
       "anger"
-    ],
-    [
-      "daily",
-      2,
-      "anticipation"
     ],
     [
       "conflict",
@@ -223,14 +198,59 @@
       "anger"
     ],
     [
+      "massive",
+      1,
+      "anger"
+    ],
+    [
       "middle",
       1,
       "sadness"
     ],
     [
-      "contingent",
+      "haven",
+      1,
+      "trust"
+    ],
+    [
+      "pain",
+      1,
+      "fear"
+    ],
+    [
+      "flee",
+      1,
+      "fear"
+    ],
+    [
+      "wildfires",
+      1,
+      "fear"
+    ],
+    [
+      "levels",
+      1,
+      "trust"
+    ],
+    [
+      "expected",
       1,
       "anticipation"
+    ],
+    [
+      "shot",
+      1,
+      "anger"
+    ],
+    [
+      "assassination",
+      1,
+      "anger"
+    ],
+    [
+      "murdered",
+      1,
+      "anger"
     ],
     [
       "ousted",
@@ -246,21 +266,6 @@
       "corruption",
       1,
       "disgust"
-    ],
-    [
-      "flee",
-      1,
-      "fear"
-    ],
-    [
-      "levels",
-      1,
-      "trust"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
     ],
     [
       "ship",
@@ -371,21 +376,16 @@
       "punish",
       1,
       "fear"
-    ],
-    [
-      "officials",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 53,
-    "fear": 51,
-    "surprise": 14,
-    "sadness": 11,
+    "joy": 26,
+    "trust": 50,
+    "fear": 49,
+    "surprise": 12,
+    "sadness": 10,
     "disgust": 4,
-    "anger": 93,
+    "anger": 100,
     "anticipation": 28
   }
 }
