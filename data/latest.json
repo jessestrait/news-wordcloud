@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T11:37:33.651Z",
+  "generated_at": "2026-07-23T11:52:32.224Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,11 +21,6 @@
       "trump",
       6,
       "anger"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
     ],
     [
       "police",
@@ -51,6 +46,11 @@
       "life",
       4,
       "joy"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "government",
@@ -103,16 +103,6 @@
       "anger"
     ],
     [
-      "visitors",
-      2,
-      "joy"
-    ],
-    [
-      "policy",
-      2,
-      "trust"
-    ],
-    [
       "threaten",
       2,
       "anger"
@@ -121,6 +111,26 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "policy",
+      2,
+      "trust"
+    ],
+    [
+      "evacuated",
+      2,
+      "fear"
+    ],
+    [
+      "wildfire",
+      2,
+      "fear"
+    ],
+    [
+      "visitors",
+      2,
+      "joy"
     ],
     [
       "scandal",
@@ -213,31 +223,6 @@
       "sadness"
     ],
     [
-      "plummet",
-      1,
-      "fear"
-    ],
-    [
-      "family",
-      1,
-      "joy"
-    ],
-    [
-      "friends",
-      1,
-      "joy"
-    ],
-    [
-      "hit",
-      1,
-      "anger"
-    ],
-    [
-      "hurts",
-      1,
-      "anger"
-    ],
-    [
       "launches",
       1,
       "anticipation"
@@ -261,6 +246,46 @@
       "blockade",
       1,
       "anger"
+    ],
+    [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
+      "hurts",
+      1,
+      "anger"
+    ],
+    [
+      "intense",
+      1,
+      "anger"
+    ],
+    [
+      "blaze",
+      1,
+      "anger"
+    ],
+    [
+      "pine",
+      1,
+      "sadness"
+    ],
+    [
+      "plummet",
+      1,
+      "fear"
+    ],
+    [
+      "family",
+      1,
+      "joy"
+    ],
+    [
+      "friends",
+      1,
+      "joy"
     ],
     [
       "promises",
@@ -351,41 +376,16 @@
       "secret",
       1,
       "trust"
-    ],
-    [
-      "daring",
-      1,
-      "trust"
-    ],
-    [
-      "pilot",
-      1,
-      "trust"
-    ],
-    [
-      "advance",
-      1,
-      "fear"
-    ],
-    [
-      "experienced",
-      1,
-      "trust"
-    ],
-    [
-      "establish",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
     "trust": 53,
-    "fear": 51,
+    "fear": 53,
     "surprise": 13,
     "sadness": 13,
     "disgust": 2,
-    "anger": 94,
-    "anticipation": 25
+    "anger": 95,
+    "anticipation": 24
   }
 }
