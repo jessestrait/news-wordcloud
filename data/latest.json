@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T10:22:34.714Z",
+  "generated_at": "2026-07-23T10:37:31.211Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,11 @@
       "trust"
     ],
     [
+      "scandal",
+      2,
+      "fear"
+    ],
+    [
       "threaten",
       2,
       "anger"
@@ -116,11 +121,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "scandal",
-      2,
-      "fear"
     ],
     [
       "pride",
@@ -223,6 +223,36 @@
       "anger"
     ],
     [
+      "promises",
+      1,
+      "joy"
+    ],
+    [
+      "punish",
+      1,
+      "fear"
+    ],
+    [
+      "officials",
+      1,
+      "trust"
+    ],
+    [
+      "harm",
+      1,
+      "fear"
+    ],
+    [
+      "youth",
+      1,
+      "anger"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
       "launches",
       1,
       "anticipation"
@@ -256,41 +286,6 @@
       "michael",
       1,
       "trust"
-    ],
-    [
-      "promises",
-      1,
-      "joy"
-    ],
-    [
-      "punish",
-      1,
-      "fear"
-    ],
-    [
-      "corrupt",
-      1,
-      "disgust"
-    ],
-    [
-      "officials",
-      1,
-      "trust"
-    ],
-    [
-      "harm",
-      1,
-      "fear"
-    ],
-    [
-      "youth",
-      1,
-      "anger"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
     ],
     [
       "row",
@@ -376,6 +371,11 @@
       "freedom",
       1,
       "joy"
+    ],
+    [
+      "rocket",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
@@ -384,7 +384,7 @@
     "fear": 51,
     "surprise": 13,
     "sadness": 13,
-    "disgust": 3,
+    "disgust": 2,
     "anger": 93,
     "anticipation": 25
   }
