@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:37:31.216Z",
+  "generated_at": "2026-07-23T07:52:32.056Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,11 +93,6 @@
       "surprise"
     ],
     [
-      "opposition",
-      3,
-      "anger"
-    ],
-    [
       "violence",
       3,
       "anger"
@@ -133,11 +128,6 @@
       "trust"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "vows",
       2,
       "joy"
@@ -161,6 +151,11 @@
       "attempt",
       2,
       "anticipation"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
     ],
     [
       "daily",
@@ -213,9 +208,19 @@
       "anticipation"
     ],
     [
-      "leader",
-      2,
+      "agreement",
+      1,
       "trust"
+    ],
+    [
+      "ambassadors",
+      1,
+      "trust"
+    ],
+    [
+      "result",
+      1,
+      "anticipation"
     ],
     [
       "middle",
@@ -371,11 +376,6 @@
       "serve",
       1,
       "trust"
-    ],
-    [
-      "pledge",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 12,
     "sadness": 13,
     "disgust": 3,
-    "anger": 92,
+    "anger": 91,
     "anticipation": 27
   }
 }
