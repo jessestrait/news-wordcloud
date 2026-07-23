@@ -9,24 +9,22 @@
 <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { background: #0f172a; color: #e2e8f0; font-family: 'Futura', 'Century Gothic', 'Jost', 'Arial Narrow', sans-serif; min-height: 100vh; padding: 2rem; max-width: 820px; margin: 0 auto; }
+  body { background: #0f172a; color: #e2e8f0; font-family: 'Futura', 'Century Gothic', 'Jost', 'Arial Narrow', sans-serif; min-height: 100vh; padding: 2rem; }
   .label { font-size: 0.7rem; font-weight: 500; color: #475569; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 0.5rem; }
   .subtitle { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.4rem; }
   .updated { font-size: 0.78rem; color: #475569; margin-bottom: 1.5rem; font-family: system-ui, sans-serif; }
   .dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: #00B0FF; margin-right: 6px; animation: pulse 2s infinite; }
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
 
-  #wc-wrap { position: relative; background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; height: 500px; overflow: hidden; }
-  /* Canvas is deliberately LARGER than the visible frame and cropped by
-     overflow:hidden above -- wordcloud2.js can place text flush against its
-     own canvas edge (confirmed directly: real pixel content at column
-     canvas.width-1), and glyph rendering can overshoot that edge and get
-     hard-clipped by the canvas itself. No margin between canvas and frame
-     can fix that, since the clip happens *inside* the canvas. Overscanning
-     the canvas and cropping with CSS instead pushes that raw edge outside
-     the visible area entirely. Inset value here must equal
-     VISIBLE_PADDING_PX - OVERSCAN_PX in the script below. */
-  #wc-wrap canvas { position: absolute; inset: -76px; transition: opacity 0.7s ease; font-family: system-ui, sans-serif; }
+  #wc-wrap { position: relative; background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; height: 440px; overflow: hidden; }
+  /* Canvas is slightly LARGER than the visible frame and cropped by
+     overflow:hidden above -- purely a safety net against wordcloud2.js
+     placing text flush against its own canvas edge (confirmed directly:
+     real pixel content at column canvas.width-1) and glyph rendering
+     overshooting it. This is NOT sized to hide a deliberately oversized
+     word count -- list size/count now matches the sibling YouTube page's
+     own settings, which are meant to actually fit a 440px-tall canvas. */
+  #wc-wrap canvas { position: absolute; inset: -40px; transition: opacity 1.2s ease; font-family: system-ui, sans-serif; }
   #wc-b { opacity: 0; }
 
   .legend { display: flex; gap: 14px; justify-content: center; margin-bottom: 1.5rem; font-size: 0.72rem; color: #64748b; flex-wrap: wrap; font-family: system-ui, sans-serif; }
@@ -117,21 +115,10 @@ import { C, getColor } from './lib/colors.js';
 
 const EMOTIONS = ["joy", "trust", "fear", "surprise", "sadness", "disgust", "anger", "anticipation"];
 const POLL_MS = 60 * 1000;
-// wordcloud2.js's placement search cost grows sharply with how crowded the
-// canvas is. Measured directly: at the original gridSize/weightFactor, ~55
-// words with shrinkToFit:true could flat-out freeze the tab for tens of
-// seconds. Turning shrinkToFit off avoided the freeze but silently *dropped*
-// most smaller words instead of shrinking them to fit -- a worse tradeoff.
-// The gridSize:8/weightFactor:2 combo below (a coarser, cheaper search) is
-// part of the fix -- but placement cost also scales badly with canvas
-// *width* specifically, independent of word count (measured: the same 35
-// words took ~1.3s at a 682px-wide canvas vs ~5.6s at 1462px). That's why
-// #wc-wrap keeps a fixed max-width even though the page itself doesn't --
-// the frame can't safely grow arbitrarily wide the way the surrounding
-// page/text can. Verified directly against real production data that this
-// gridSize/weightFactor/width combination stays fast (1-2s) and complete
-// up to 55 words.
-const MAX_CLOUD_WORDS = 24;
+// Matches the sibling YouTube word cloud's own list cap exactly. Speed is
+// explicitly not a goal here -- a multi-second render is fine, see
+// PLAY_DWELL_MS and the safety-net timeout below.
+const MAX_CLOUD_WORDS = 130;
 
 const wrap = document.getElementById('wc-wrap');
 const canvasA = document.getElementById('wc-a');
@@ -155,13 +142,13 @@ let playToken = 0;
 let scrubDebounce = null;
 
 const VISIBLE_PADDING_PX = 24; // aesthetic breathing room inside the frame
-const OVERSCAN_PX = 100; // extra canvas beyond the visible area, cropped by #wc-wrap's overflow:hidden -- this is where wordcloud2.js's own hard canvas-edge clip lives, kept off-screen
+const OVERSCAN_PX = 40; // extra canvas beyond the visible area, cropped by #wc-wrap's overflow:hidden -- a safety net for wordcloud2.js's own hard canvas-edge clip, not a device for hiding excess content
 
 function sizeCanvases() {
-  // See the CSS comment on "#wc-wrap canvas" -- the canvas is bigger than
-  // what's visible on purpose, and #wc-wrap crops it. width/height here
-  // must produce the same box the CSS `inset: -26px` (OVERSCAN_PX minus
-  // VISIBLE_PADDING_PX) already positions.
+  // See the CSS comment on "#wc-wrap canvas" -- the canvas is a bit bigger
+  // than what's visible on purpose (safety margin only), and #wc-wrap
+  // crops it. width/height here must match the CSS `inset` value above
+  // (OVERSCAN_PX minus VISIBLE_PADDING_PX).
   const visW = Math.max(200, wrap.clientWidth - VISIBLE_PADDING_PX * 2);
   const visH = Math.max(150, wrap.clientHeight - VISIBLE_PADDING_PX * 2);
   const w = visW + OVERSCAN_PX * 2;
@@ -170,7 +157,8 @@ function sizeCanvases() {
 }
 
 function wordSize(freq) {
-  return Math.min(50, Math.round(15 + 15 * Math.sqrt(freq)));
+  // Exact match to the sibling YouTube word cloud's sizing formula.
+  return Math.min(60, Math.round(15 + 15 * Math.sqrt(freq)));
 }
 
 // wordcloud2.js places words one at a time (largest first, smallest last)
@@ -209,25 +197,17 @@ function renderSnapshot(canvas, which, snapshot) {
       resolve();
     };
     canvas.addEventListener('wordcloudstop', finish, { once: true });
-    setTimeout(finish, 8000); // safety net -- measured render times up to ~8s with a larger overscanned canvas, so this must sit above that
+    setTimeout(finish, 25000); // safety net only -- speed is explicitly not a priority here, this just guards the pathological case
 
+    // Exact match to the sibling YouTube word cloud's WordCloud() config.
     WordCloud(canvas, {
       list,
-      gridSize: 10,
-      // weightFactor is NOT cosmetic -- wordcloud2.js multiplies each
-      // word's list size by this to get the actual rendered font size
-      // (source: settings.weightFactor = function(pt){ return pt*factor }).
-      // This was set to 2 while wordSize() already capped at 50, meaning
-      // real max font size was 100px, not 50 -- massive, unaccounted-for
-      // crowding in a 746px-wide canvas, and the actual root cause of the
-      // clipping (not glyph overhang, not rotation -- text was just far
-      // bigger than intended). weightFactor:1 makes wordSize()'s return
-      // value the literal final pixel size, fully under our control.
-      weightFactor: 1,
+      gridSize: 7,
+      weightFactor: 2.4,
       fontFamily: "system-ui, sans-serif",
       fontWeight: "700",
       color: (word) => getColor(emotionMaps[which][word]),
-      rotateRatio: 0,
+      rotateRatio: 0.25,
       rotationSteps: 2,
       backgroundColor: "#0f172a",
       shrinkToFit: true,
@@ -429,7 +409,9 @@ scrub.addEventListener('input', () => {
 // time between frames is this PLUS however long that frame's word cloud
 // took to finish placing every word (see renderSnapshot's 'wordcloudstop'
 // wait) -- paced by completion, not a fixed tick, so nothing gets cut off.
-const PLAY_DWELL_MS = 1400;
+// Set deliberately long (5-6s) since smooth/fast transitions are not a
+// goal -- a slow, deliberate slideshow with a fade is the intended feel.
+const PLAY_DWELL_MS = 5500;
 
 async function startPlaying() {
   if (!historySnapshots || !historySnapshots.length || playing) return;
