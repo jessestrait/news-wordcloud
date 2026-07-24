@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T19:21:11.279Z",
+  "generated_at": "2026-07-24T19:36:13.758Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,11 +273,6 @@
       "anger"
     ],
     [
-      "holiday",
-      1,
-      "joy"
-    ],
-    [
       "fighting",
       1,
       "anger"
@@ -376,10 +371,15 @@
       "media",
       1,
       "disgust"
+    ],
+    [
+      "fraud",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 23,
     "trust": 64,
     "fear": 61,
     "surprise": 11,
