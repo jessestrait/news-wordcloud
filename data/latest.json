@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:35:25.264Z",
+  "generated_at": "2026-07-24T17:50:27.110Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
-      "threat",
-      6,
-      "anger"
-    ],
-    [
       "people",
       6,
       "trust"
+    ],
+    [
+      "threat",
+      6,
+      "anger"
     ],
     [
       "strikes",
@@ -113,21 +113,6 @@
       "joy"
     ],
     [
-      "middle",
-      2,
-      "sadness"
-    ],
-    [
-      "allies",
-      2,
-      "trust"
-    ],
-    [
-      "launch",
-      2,
-      "anticipation"
-    ],
-    [
       "flee",
       2,
       "fear"
@@ -151,6 +136,21 @@
       "fires",
       2,
       "fear"
+    ],
+    [
+      "middle",
+      2,
+      "sadness"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
+    ],
+    [
+      "launch",
+      2,
+      "anticipation"
     ],
     [
       "experts",
@@ -263,6 +263,21 @@
       "anger"
     ],
     [
+      "unpredictable",
+      1,
+      "surprise"
+    ],
+    [
+      "blaze",
+      1,
+      "anger"
+    ],
+    [
+      "holiday",
+      1,
+      "joy"
+    ],
+    [
       "vowed",
       1,
       "joy"
@@ -316,21 +331,6 @@
       "guards",
       1,
       "fear"
-    ],
-    [
-      "unpredictable",
-      1,
-      "surprise"
-    ],
-    [
-      "blaze",
-      1,
-      "anger"
-    ],
-    [
-      "holiday",
-      1,
-      "joy"
     ],
     [
       "evacuates",
