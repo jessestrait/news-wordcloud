@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:20:03.062Z",
+  "generated_at": "2026-07-24T17:35:05.449Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,11 +113,6 @@
       "joy"
     ],
     [
-      "launch",
-      2,
-      "anticipation"
-    ],
-    [
       "middle",
       2,
       "sadness"
@@ -126,6 +121,11 @@
       "allies",
       2,
       "trust"
+    ],
+    [
+      "launch",
+      2,
+      "anticipation"
     ],
     [
       "flee",
@@ -263,6 +263,16 @@
       "anger"
     ],
     [
+      "vowed",
+      1,
+      "joy"
+    ],
+    [
+      "punishment",
+      1,
+      "anger"
+    ],
+    [
       "improved",
       1,
       "joy"
@@ -306,16 +316,6 @@
       "guards",
       1,
       "fear"
-    ],
-    [
-      "vowed",
-      1,
-      "joy"
-    ],
-    [
-      "punishment",
-      1,
-      "anger"
     ],
     [
       "unpredictable",
