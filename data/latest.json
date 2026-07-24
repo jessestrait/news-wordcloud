@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T12:16:46.007Z",
+  "generated_at": "2026-07-24T12:31:48.449Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      10,
+      11,
       "anger"
     ],
     [
@@ -19,7 +19,7 @@
     ],
     [
       "attack",
-      7,
+      8,
       "anger"
     ],
     [
@@ -46,6 +46,16 @@
       "threat",
       4,
       "anger"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "wildfire",
@@ -78,11 +88,6 @@
       "anticipation"
     ],
     [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
       "vow",
       3,
       "joy"
@@ -96,11 +101,6 @@
       "warn",
       3,
       "fear"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "cap",
@@ -233,6 +233,26 @@
       "anticipation"
     ],
     [
+      "angel",
+      1,
+      "surprise"
+    ],
+    [
+      "michael",
+      1,
+      "trust"
+    ],
+    [
+      "pivot",
+      1,
+      "trust"
+    ],
+    [
+      "goods",
+      1,
+      "surprise"
+    ],
+    [
       "evacuates",
       1,
       "fear"
@@ -356,36 +376,16 @@
       "failing",
       1,
       "anger"
-    ],
-    [
-      "doctor",
-      1,
-      "trust"
-    ],
-    [
-      "collapse",
-      1,
-      "fear"
-    ],
-    [
-      "personal",
-      1,
-      "trust"
-    ],
-    [
-      "peril",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 58,
-    "fear": 55,
-    "surprise": 10,
+    "trust": 59,
+    "fear": 53,
+    "surprise": 11,
     "sadness": 10,
     "disgust": 7,
-    "anger": 102,
+    "anger": 104,
     "anticipation": 32
   }
 }
