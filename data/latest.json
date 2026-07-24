@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:48:30.475Z",
+  "generated_at": "2026-07-24T16:03:32.797Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,14 +43,14 @@
       "anger"
     ],
     [
-      "wildfires",
-      4,
-      "fear"
-    ],
-    [
       "strikes",
       4,
       "anger"
+    ],
+    [
+      "wildfires",
+      4,
+      "fear"
     ],
     [
       "warn",
@@ -113,6 +113,21 @@
       "joy"
     ],
     [
+      "middle",
+      2,
+      "sadness"
+    ],
+    [
+      "american",
+      2,
+      "sadness"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
+    ],
+    [
       "flee",
       2,
       "fear"
@@ -131,21 +146,6 @@
       "fires",
       2,
       "fear"
-    ],
-    [
-      "middle",
-      2,
-      "sadness"
-    ],
-    [
-      "american",
-      2,
-      "sadness"
-    ],
-    [
-      "allies",
-      2,
-      "trust"
     ],
     [
       "global",
@@ -273,6 +273,16 @@
       "anger"
     ],
     [
+      "vowed",
+      1,
+      "joy"
+    ],
+    [
+      "punishment",
+      1,
+      "anger"
+    ],
+    [
       "unpredictable",
       1,
       "surprise"
@@ -286,16 +296,6 @@
       "holiday",
       1,
       "joy"
-    ],
-    [
-      "vowed",
-      1,
-      "joy"
-    ],
-    [
-      "punishment",
-      1,
-      "anger"
     ],
     [
       "evacuates",
