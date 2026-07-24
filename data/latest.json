@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:31:21.084Z",
+  "generated_at": "2026-07-24T11:46:23.460Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,16 +108,6 @@
       "trust"
     ],
     [
-      "battles",
-      2,
-      "anger"
-    ],
-    [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
       "forces",
       2,
       "anger"
@@ -126,6 +116,16 @@
       "flee",
       2,
       "fear"
+    ],
+    [
+      "battles",
+      2,
+      "anger"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
     ],
     [
       "wear",
@@ -243,21 +243,6 @@
       "anticipation"
     ],
     [
-      "evacuates",
-      1,
-      "fear"
-    ],
-    [
-      "prevent",
-      1,
-      "fear"
-    ],
-    [
-      "merging",
-      1,
-      "anticipation"
-    ],
-    [
       "intense",
       1,
       "anger"
@@ -276,6 +261,21 @@
       "holiday",
       1,
       "joy"
+    ],
+    [
+      "evacuates",
+      1,
+      "fear"
+    ],
+    [
+      "prevent",
+      1,
+      "fear"
+    ],
+    [
+      "merging",
+      1,
+      "anticipation"
     ],
     [
       "nappy",
