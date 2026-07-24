@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:50:27.110Z",
+  "generated_at": "2026-07-24T18:05:28.790Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "trust"
     ],
     [
-      "threat",
-      6,
-      "anger"
-    ],
-    [
       "strikes",
       5,
       "anger"
@@ -46,6 +41,11 @@
       "happened",
       5,
       "anticipation"
+    ],
+    [
+      "threat",
+      5,
+      "anger"
     ],
     [
       "warn",
@@ -63,9 +63,9 @@
       "trust"
     ],
     [
-      "american",
-      3,
-      "sadness"
+      "base",
+      4,
+      "trust"
     ],
     [
       "risk",
@@ -81,16 +81,6 @@
       "disabled",
       3,
       "fear"
-    ],
-    [
-      "system",
-      3,
-      "trust"
-    ],
-    [
-      "base",
-      3,
-      "trust"
     ],
     [
       "attempt",
@@ -111,6 +101,11 @@
       "vow",
       3,
       "joy"
+    ],
+    [
+      "launch",
+      2,
+      "anticipation"
     ],
     [
       "flee",
@@ -143,14 +138,19 @@
       "sadness"
     ],
     [
+      "american",
+      2,
+      "sadness"
+    ],
+    [
       "allies",
       2,
       "trust"
     ],
     [
-      "launch",
+      "bombing",
       2,
-      "anticipation"
+      "anger"
     ],
     [
       "experts",
@@ -208,6 +208,11 @@
       "fear"
     ],
     [
+      "system",
+      2,
+      "trust"
+    ],
+    [
       "marine",
       2,
       "trust"
@@ -263,6 +268,16 @@
       "anger"
     ],
     [
+      "fighting",
+      1,
+      "anger"
+    ],
+    [
+      "guards",
+      1,
+      "fear"
+    ],
+    [
       "unpredictable",
       1,
       "surprise"
@@ -288,19 +303,9 @@
       "anger"
     ],
     [
-      "improved",
-      1,
-      "joy"
-    ],
-    [
-      "missile",
+      "tactics",
       1,
       "fear"
-    ],
-    [
-      "real",
-      1,
-      "trust"
     ],
     [
       "accurate",
@@ -316,21 +321,6 @@
       "showing",
       1,
       "trust"
-    ],
-    [
-      "failures",
-      1,
-      "fear"
-    ],
-    [
-      "fighting",
-      1,
-      "anger"
-    ],
-    [
-      "guards",
-      1,
-      "fear"
     ],
     [
       "evacuates",
@@ -376,14 +366,24 @@
       "expected",
       1,
       "anticipation"
+    ],
+    [
+      "ice",
+      1,
+      "fear"
+    ],
+    [
+      "pay",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 66,
-    "fear": 63,
+    "joy": 24,
+    "trust": 65,
+    "fear": 62,
     "surprise": 11,
-    "sadness": 12,
+    "sadness": 11,
     "disgust": 9,
     "anger": 106,
     "anticipation": 30
