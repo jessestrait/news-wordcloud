@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T16:34:31.820Z",
+  "generated_at": "2026-07-24T16:49:34.720Z",
   "article_count": 50,
   "top_words": [
     [
@@ -168,11 +168,6 @@
       "surprise"
     ],
     [
-      "ice",
-      2,
-      "fear"
-    ],
-    [
       "opposition",
       2,
       "anger"
@@ -338,9 +333,9 @@
       "anticipation"
     ],
     [
-      "sharing",
+      "ice",
       1,
-      "joy"
+      "fear"
     ],
     [
       "pay",
@@ -351,11 +346,6 @@
       "media",
       1,
       "disgust"
-    ],
-    [
-      "giant",
-      1,
-      "fear"
     ],
     [
       "fraud",
@@ -376,12 +366,22 @@
       "forced",
       1,
       "fear"
+    ],
+    [
+      "disagreements",
+      1,
+      "anger"
+    ],
+    [
+      "angel",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 28,
     "trust": 63,
-    "fear": 63,
+    "fear": 61,
     "surprise": 11,
     "sadness": 11,
     "disgust": 9,
