@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T14:17:39.509Z",
+  "generated_at": "2026-07-24T14:32:41.453Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
-      "military",
-      5,
-      "fear"
-    ],
-    [
       "people",
       5,
       "trust"
+    ],
+    [
+      "military",
+      5,
+      "fear"
     ],
     [
       "strike",
@@ -53,17 +53,22 @@
       "anger"
     ],
     [
+      "wildfires",
+      3,
+      "fear"
+    ],
+    [
+      "emergency",
+      3,
+      "fear"
+    ],
+    [
       "government",
       3,
       "fear"
     ],
     [
       "killed",
-      3,
-      "fear"
-    ],
-    [
-      "wildfire",
       3,
       "fear"
     ],
@@ -108,6 +113,26 @@
       "fear"
     ],
     [
+      "flee",
+      2,
+      "fear"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
+    ],
+    [
+      "cap",
+      2,
+      "trust"
+    ],
+    [
+      "merge",
+      2,
+      "anticipation"
+    ],
+    [
       "middle",
       2,
       "sadness"
@@ -119,11 +144,6 @@
     ],
     [
       "allies",
-      2,
-      "trust"
-    ],
-    [
-      "cap",
       2,
       "trust"
     ],
@@ -146,16 +166,6 @@
       "pledge",
       2,
       "joy"
-    ],
-    [
-      "forces",
-      2,
-      "anger"
-    ],
-    [
-      "flee",
-      2,
-      "fear"
     ],
     [
       "wear",
@@ -194,11 +204,6 @@
     ],
     [
       "risk",
-      2,
-      "fear"
-    ],
-    [
-      "emergency",
       2,
       "fear"
     ],
@@ -258,6 +263,31 @@
       "anger"
     ],
     [
+      "unpredictable",
+      1,
+      "surprise"
+    ],
+    [
+      "blaze",
+      1,
+      "anger"
+    ],
+    [
+      "holiday",
+      1,
+      "joy"
+    ],
+    [
+      "fires",
+      1,
+      "fear"
+    ],
+    [
+      "evacuates",
+      1,
+      "fear"
+    ],
+    [
       "vowed",
       1,
       "joy"
@@ -266,16 +296,6 @@
       "punishment",
       1,
       "anger"
-    ],
-    [
-      "evacuates",
-      1,
-      "fear"
-    ],
-    [
-      "merge",
-      1,
-      "anticipation"
     ],
     [
       "sharing",
@@ -338,26 +358,6 @@
       "surprise"
     ],
     [
-      "intense",
-      1,
-      "anger"
-    ],
-    [
-      "unpredictable",
-      1,
-      "surprise"
-    ],
-    [
-      "blaze",
-      1,
-      "anger"
-    ],
-    [
-      "holiday",
-      1,
-      "joy"
-    ],
-    [
       "nappy",
       1,
       "disgust"
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 29,
     "trust": 62,
-    "fear": 57,
+    "fear": 59,
     "surprise": 11,
     "sadness": 11,
     "disgust": 8,
-    "anger": 106,
-    "anticipation": 29
+    "anger": 105,
+    "anticipation": 30
   }
 }
