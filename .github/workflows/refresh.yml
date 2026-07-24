@@ -19,7 +19,14 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    # Covers 4 refreshes 15 min apart (45 min of sleep) plus overhead.
+    # GitHub's own `schedule:` trigger has proven unreliable on its own
+    # (observed 60-105 min gaps) -- an external dispatcher was filling
+    # the gaps every 15 min but depended on a machine being on. Looping
+    # inside a single job removes that dependency: a cloud-scheduled
+    # workflow_dispatch once an hour (the cloud scheduler's own minimum
+    # interval) is enough to keep refreshes landing every 15 min.
+    timeout-minutes: 65
     steps:
       - uses: actions/checkout@v4
 
@@ -27,18 +34,22 @@ jobs:
         with:
           node-version: 20
 
-      - run: node scripts/refresh.js
-        env:
-          GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
-
       - run: |
           git config user.name "news-wordcloud-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
-          if git diff --quiet --cached; then
-            echo "No changes, skipping commit."
-            exit 0
-          fi
-          git commit -m "Refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git pull --rebase origin main
-          git push
+          for i in 1 2 3 4; do
+            node scripts/refresh.js
+            git add data/
+            if git diff --quiet --cached; then
+              echo "No changes, skipping commit."
+            else
+              git commit -m "Refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+              git pull --rebase origin main
+              git push
+            fi
+            if [ "$i" -lt 4 ]; then
+              sleep 900
+            fi
+          done
+        env:
+          GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
