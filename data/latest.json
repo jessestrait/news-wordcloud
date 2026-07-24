@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T05:37:56.288Z",
+  "generated_at": "2026-07-24T05:52:50.290Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "anticipation"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "military",
       4,
       "fear"
@@ -46,6 +41,16 @@
       "threat",
       4,
       "anger"
+    ],
+    [
+      "rising",
+      3,
+      "joy"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "attempt",
@@ -88,14 +93,29 @@
       "fear"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
       "strike",
       3,
       "anger"
+    ],
+    [
+      "disabled",
+      2,
+      "fear"
+    ],
+    [
+      "world",
+      2,
+      "trust"
+    ],
+    [
+      "policy",
+      2,
+      "trust"
+    ],
+    [
+      "show",
+      2,
+      "trust"
     ],
     [
       "jail",
@@ -126,11 +146,6 @@
       "base",
       2,
       "trust"
-    ],
-    [
-      "rising",
-      2,
-      "joy"
     ],
     [
       "letters",
@@ -183,12 +198,12 @@
       "surprise"
     ],
     [
-      "blackmail",
+      "police",
       2,
-      "anger"
+      "fear"
     ],
     [
-      "violence",
+      "blackmail",
       2,
       "anger"
     ],
@@ -208,9 +223,29 @@
       "trust"
     ],
     [
-      "show",
-      2,
-      "trust"
+      "challenging",
+      1,
+      "anger"
+    ],
+    [
+      "battles",
+      1,
+      "anger"
+    ],
+    [
+      "hostility",
+      1,
+      "anger"
+    ],
+    [
+      "defy",
+      1,
+      "anger"
+    ],
+    [
+      "stigma",
+      1,
+      "anger"
     ],
     [
       "concerned",
@@ -251,11 +286,6 @@
       "oust",
       1,
       "anger"
-    ],
-    [
-      "world",
-      1,
-      "trust"
     ],
     [
       "measures",
@@ -346,46 +376,16 @@
       "rule",
       1,
       "fear"
-    ],
-    [
-      "focusing",
-      1,
-      "trust"
-    ],
-    [
-      "defects",
-      1,
-      "anger"
-    ],
-    [
-      "aberration",
-      1,
-      "disgust"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "david",
-      1,
-      "trust"
-    ],
-    [
-      "storm",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 56,
-    "fear": 54,
+    "joy": 24,
+    "trust": 57,
+    "fear": 55,
     "surprise": 10,
     "sadness": 10,
     "disgust": 4,
-    "anger": 98,
+    "anger": 100,
     "anticipation": 29
   }
 }
