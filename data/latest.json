@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:33:28.010Z",
+  "generated_at": "2026-07-24T15:48:30.475Z",
   "article_count": 50,
   "top_words": [
     [
@@ -131,11 +131,6 @@
       "fires",
       2,
       "fear"
-    ],
-    [
-      "merge",
-      2,
-      "anticipation"
     ],
     [
       "middle",
@@ -308,6 +303,11 @@
       "fear"
     ],
     [
+      "merge",
+      1,
+      "anticipation"
+    ],
+    [
       "waste",
       1,
       "disgust"
@@ -386,6 +386,6 @@
     "sadness": 11,
     "disgust": 9,
     "anger": 102,
-    "anticipation": 33
+    "anticipation": 32
   }
 }
