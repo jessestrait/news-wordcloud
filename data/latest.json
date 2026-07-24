@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T14:33:00.431Z",
+  "generated_at": "2026-07-24T14:48:02.823Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,7 +24,7 @@
     ],
     [
       "people",
-      5,
+      6,
       "trust"
     ],
     [
@@ -36,6 +36,11 @@
       "strike",
       5,
       "anger"
+    ],
+    [
+      "wildfires",
+      4,
+      "fear"
     ],
     [
       "happened",
@@ -53,7 +58,7 @@
       "anger"
     ],
     [
-      "wildfires",
+      "risk",
       3,
       "fear"
     ],
@@ -113,14 +118,9 @@
       "fear"
     ],
     [
-      "flee",
+      "fires",
       2,
       "fear"
-    ],
-    [
-      "forces",
-      2,
-      "anger"
     ],
     [
       "cap",
@@ -148,6 +148,16 @@
       "trust"
     ],
     [
+      "flee",
+      2,
+      "fear"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
+    ],
+    [
       "deal",
       2,
       "surprise"
@@ -166,11 +176,6 @@
       "pledge",
       2,
       "joy"
-    ],
-    [
-      "wear",
-      2,
-      "trust"
     ],
     [
       "world",
@@ -201,11 +206,6 @@
       "system",
       2,
       "trust"
-    ],
-    [
-      "risk",
-      2,
-      "fear"
     ],
     [
       "marine",
@@ -263,24 +263,24 @@
       "anger"
     ],
     [
-      "unpredictable",
+      "dangerous",
       1,
-      "surprise"
+      "fear"
     ],
     [
-      "blaze",
+      "worse",
+      1,
+      "fear"
+    ],
+    [
+      "ferocious",
       1,
       "anger"
     ],
     [
-      "holiday",
+      "expected",
       1,
-      "joy"
-    ],
-    [
-      "fires",
-      1,
-      "fear"
+      "anticipation"
     ],
     [
       "evacuates",
@@ -296,6 +296,21 @@
       "punishment",
       1,
       "anger"
+    ],
+    [
+      "unpredictable",
+      1,
+      "surprise"
+    ],
+    [
+      "blaze",
+      1,
+      "anger"
+    ],
+    [
+      "holiday",
+      1,
+      "joy"
     ],
     [
       "sharing",
@@ -358,34 +373,19 @@
       "surprise"
     ],
     [
-      "nappy",
+      "wear",
       1,
-      "disgust"
-    ],
-    [
-      "board",
-      1,
-      "anticipation"
-    ],
-    [
-      "humiliating",
-      1,
-      "disgust"
-    ],
-    [
-      "passengers",
-      1,
-      "anticipation"
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 62,
-    "fear": 59,
+    "trust": 61,
+    "fear": 64,
     "surprise": 11,
     "sadness": 11,
     "disgust": 8,
-    "anger": 105,
-    "anticipation": 30
+    "anger": 104,
+    "anticipation": 31
   }
 }
