@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-07-24T14:48:02.823Z",
+  "generated_at": "2026-07-24T15:03:05.174Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      10,
-      "anger"
-    ],
-    [
-      "war",
       9,
       "anger"
     ],
@@ -18,8 +13,13 @@
       "anger"
     ],
     [
-      "attack",
+      "war",
       8,
+      "anger"
+    ],
+    [
+      "attack",
+      7,
       "anger"
     ],
     [
@@ -28,19 +28,29 @@
       "trust"
     ],
     [
+      "threat",
+      5,
+      "anger"
+    ],
+    [
       "military",
       5,
       "fear"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
       "wildfires",
       4,
       "fear"
+    ],
+    [
+      "warn",
+      4,
+      "fear"
+    ],
+    [
+      "strikes",
+      4,
+      "anger"
     ],
     [
       "happened",
@@ -51,11 +61,6 @@
       "president",
       4,
       "trust"
-    ],
-    [
-      "threat",
-      4,
-      "anger"
     ],
     [
       "risk",
@@ -69,11 +74,6 @@
     ],
     [
       "government",
-      3,
-      "fear"
-    ],
-    [
-      "killed",
       3,
       "fear"
     ],
@@ -113,16 +113,6 @@
       "joy"
     ],
     [
-      "warn",
-      3,
-      "fear"
-    ],
-    [
-      "fires",
-      2,
-      "fear"
-    ],
-    [
       "cap",
       2,
       "trust"
@@ -131,6 +121,21 @@
       "merge",
       2,
       "anticipation"
+    ],
+    [
+      "global",
+      2,
+      "anticipation"
+    ],
+    [
+      "experts",
+      2,
+      "trust"
+    ],
+    [
+      "level",
+      2,
+      "trust"
     ],
     [
       "middle",
@@ -146,6 +151,11 @@
       "allies",
       2,
       "trust"
+    ],
+    [
+      "fires",
+      2,
+      "fear"
     ],
     [
       "flee",
@@ -176,6 +186,11 @@
       "pledge",
       2,
       "joy"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
     ],
     [
       "world",
@@ -263,6 +278,31 @@
       "anger"
     ],
     [
+      "evacuates",
+      1,
+      "fear"
+    ],
+    [
+      "waste",
+      1,
+      "disgust"
+    ],
+    [
+      "bomb",
+      1,
+      "anger"
+    ],
+    [
+      "vowed",
+      1,
+      "joy"
+    ],
+    [
+      "punishment",
+      1,
+      "anger"
+    ],
+    [
       "dangerous",
       1,
       "fear"
@@ -281,21 +321,6 @@
       "expected",
       1,
       "anticipation"
-    ],
-    [
-      "evacuates",
-      1,
-      "fear"
-    ],
-    [
-      "vowed",
-      1,
-      "joy"
-    ],
-    [
-      "punishment",
-      1,
-      "anger"
     ],
     [
       "unpredictable",
@@ -351,41 +376,16 @@
       "forced",
       1,
       "fear"
-    ],
-    [
-      "disagreements",
-      1,
-      "anger"
-    ],
-    [
-      "angel",
-      1,
-      "surprise"
-    ],
-    [
-      "michael",
-      1,
-      "trust"
-    ],
-    [
-      "goods",
-      1,
-      "surprise"
-    ],
-    [
-      "wear",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 61,
-    "fear": 64,
+    "trust": 63,
+    "fear": 63,
     "surprise": 11,
     "sadness": 11,
-    "disgust": 8,
-    "anger": 104,
-    "anticipation": 31
+    "disgust": 9,
+    "anger": 102,
+    "anticipation": 32
   }
 }
