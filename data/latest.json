@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T12:01:26.124Z",
+  "generated_at": "2026-07-24T12:16:28.679Z",
   "article_count": 50,
   "top_words": [
     [
@@ -106,16 +106,6 @@
       "cap",
       2,
       "trust"
-    ],
-    [
-      "battles",
-      2,
-      "anger"
-    ],
-    [
-      "leave",
-      2,
-      "sadness"
     ],
     [
       "forces",
@@ -248,12 +238,7 @@
       "fear"
     ],
     [
-      "prevent",
-      1,
-      "fear"
-    ],
-    [
-      "merging",
+      "merge",
       1,
       "anticipation"
     ],
@@ -338,6 +323,11 @@
       "anger"
     ],
     [
+      "battles",
+      1,
+      "anger"
+    ],
+    [
       "hostility",
       1,
       "anger"
@@ -376,16 +366,26 @@
       "collapse",
       1,
       "fear"
+    ],
+    [
+      "personal",
+      1,
+      "trust"
+    ],
+    [
+      "peril",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 58,
-    "fear": 56,
+    "fear": 55,
     "surprise": 10,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 7,
-    "anger": 103,
+    "anger": 102,
     "anticipation": 32
   }
 }
