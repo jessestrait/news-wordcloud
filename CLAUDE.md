@@ -52,13 +52,25 @@ Current design:
     --repo jessestrait/news-wordcloud --ref main` once an hour (cloud
     schedulers can't go below a 1-hour interval). This is the one trigger
     guaranteed independent of any computer being on.
-  - A third dispatcher used to run on one of the owner's own computers
-    (something calling `workflow_dispatch` every 15 min, authenticated as
-    the repo owner's GitHub account). It stopped firing on 2026-07-23
-    around 14:07 UTC and was never identified/located. Not depended on
-    anymore, but harmless if it resumes —
-    `concurrency: {group: refresh, cancel-in-progress: false}` means
-    overlapping triggers queue instead of colliding.
+  - A third dispatcher used to run on one of the owner's own computers: a
+    Claude Code scheduled-task on that machine calling `workflow_dispatch`
+    every 15 min, authenticated as the repo owner's GitHub account. It
+    stopped firing on 2026-07-23 around 14:07 UTC when that laptop went to
+    sleep/closed — Claude Code scheduled tasks only run while the app is
+    open on that specific machine. Identified and deleted on 2026-07-24;
+    not depended on anymore, and wasn't a mistake to have tried, just not
+    durable enough on its own to keep.
+
+Because these overlap, two loop iterations can regenerate and push around
+the same time. `data/latest.json` and `manifest.json` are fully
+regenerated each run (not incrementally edited), so the workflow resets
+hard to the current remote tip immediately before regenerating rather than
+`pull --rebase`-ing afterward — there's nothing in those files worth
+merging, and rebasing two independently-regenerated versions of the same
+file produced a real, unresolvable conflict in production (run
+30069941234, 2026-07-24T05:38Z — that refresh was lost outright). If a
+push still loses a race after the reset, the loop retries the whole
+resync-regenerate-push cycle (up to 3x) instead of trying to reconcile.
 
 # Word cloud rendering (`index.html`)
 
