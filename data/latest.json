@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:18:25.399Z",
+  "generated_at": "2026-07-24T15:33:28.010Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,22 +28,22 @@
       "trust"
     ],
     [
-      "threat",
-      5,
-      "anger"
-    ],
-    [
       "military",
       5,
       "fear"
     ],
     [
-      "wildfires",
-      4,
-      "fear"
+      "happened",
+      5,
+      "anticipation"
     ],
     [
-      "warn",
+      "threat",
+      5,
+      "anger"
+    ],
+    [
+      "wildfires",
       4,
       "fear"
     ],
@@ -53,9 +53,9 @@
       "anger"
     ],
     [
-      "happened",
+      "warn",
       4,
-      "anticipation"
+      "fear"
     ],
     [
       "president",
@@ -63,12 +63,12 @@
       "trust"
     ],
     [
-      "risk",
+      "emergency",
       3,
       "fear"
     ],
     [
-      "emergency",
+      "risk",
       3,
       "fear"
     ],
@@ -113,29 +113,29 @@
       "joy"
     ],
     [
+      "flee",
+      2,
+      "fear"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
+    ],
+    [
       "cap",
       2,
       "trust"
     ],
     [
+      "fires",
+      2,
+      "fear"
+    ],
+    [
       "merge",
       2,
       "anticipation"
-    ],
-    [
-      "global",
-      2,
-      "anticipation"
-    ],
-    [
-      "experts",
-      2,
-      "trust"
-    ],
-    [
-      "level",
-      2,
-      "trust"
     ],
     [
       "middle",
@@ -153,19 +153,19 @@
       "trust"
     ],
     [
-      "fires",
+      "global",
       2,
-      "fear"
+      "anticipation"
     ],
     [
-      "flee",
+      "experts",
       2,
-      "fear"
+      "trust"
     ],
     [
-      "forces",
+      "level",
       2,
-      "anger"
+      "trust"
     ],
     [
       "deal",
@@ -278,6 +278,31 @@
       "anger"
     ],
     [
+      "unpredictable",
+      1,
+      "surprise"
+    ],
+    [
+      "blaze",
+      1,
+      "anger"
+    ],
+    [
+      "holiday",
+      1,
+      "joy"
+    ],
+    [
+      "vowed",
+      1,
+      "joy"
+    ],
+    [
+      "punishment",
+      1,
+      "anger"
+    ],
+    [
       "evacuates",
       1,
       "fear"
@@ -289,16 +314,6 @@
     ],
     [
       "bomb",
-      1,
-      "anger"
-    ],
-    [
-      "vowed",
-      1,
-      "joy"
-    ],
-    [
-      "punishment",
       1,
       "anger"
     ],
@@ -321,21 +336,6 @@
       "expected",
       1,
       "anticipation"
-    ],
-    [
-      "unpredictable",
-      1,
-      "surprise"
-    ],
-    [
-      "blaze",
-      1,
-      "anger"
-    ],
-    [
-      "holiday",
-      1,
-      "joy"
     ],
     [
       "sharing",
@@ -386,6 +386,6 @@
     "sadness": 11,
     "disgust": 9,
     "anger": 102,
-    "anticipation": 32
+    "anticipation": 33
   }
 }
