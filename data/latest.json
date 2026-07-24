@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T18:05:28.790Z",
+  "generated_at": "2026-07-24T18:20:30.555Z",
   "article_count": 50,
   "top_words": [
     [
@@ -318,11 +318,6 @@
       "fear"
     ],
     [
-      "showing",
-      1,
-      "trust"
-    ],
-    [
       "evacuates",
       1,
       "fear"
@@ -376,11 +371,16 @@
       "pay",
       1,
       "joy"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 65,
+    "trust": 64,
     "fear": 62,
     "surprise": 11,
     "sadness": 11,
