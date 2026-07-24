@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T10:00:36.307Z",
+  "generated_at": "2026-07-24T10:15:38.758Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "fear"
     ],
     [
+      "disabled",
+      3,
+      "fear"
+    ],
+    [
       "wildfire",
       3,
       "fear"
@@ -66,11 +71,6 @@
       "attempt",
       3,
       "anticipation"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "power",
@@ -113,17 +113,17 @@
       "sadness"
     ],
     [
+      "wear",
+      2,
+      "trust"
+    ],
+    [
       "forces",
       2,
       "anger"
     ],
     [
       "flee",
-      2,
-      "fear"
-    ],
-    [
-      "disabled",
       2,
       "fear"
     ],
@@ -171,6 +171,11 @@
       "base",
       2,
       "trust"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "letters",
@@ -236,6 +241,61 @@
       "evacuates",
       1,
       "fear"
+    ],
+    [
+      "nappy",
+      1,
+      "disgust"
+    ],
+    [
+      "board",
+      1,
+      "anticipation"
+    ],
+    [
+      "humiliating",
+      1,
+      "disgust"
+    ],
+    [
+      "passengers",
+      1,
+      "anticipation"
+    ],
+    [
+      "abused",
+      1,
+      "anger"
+    ],
+    [
+      "denied",
+      1,
+      "sadness"
+    ],
+    [
+      "toilets",
+      1,
+      "disgust"
+    ],
+    [
+      "flying",
+      1,
+      "fear"
+    ],
+    [
+      "distressing",
+      1,
+      "anger"
+    ],
+    [
+      "frustrating",
+      1,
+      "anger"
+    ],
+    [
+      "share",
+      1,
+      "joy"
     ],
     [
       "intense",
@@ -316,76 +376,16 @@
       "peril",
       1,
       "fear"
-    ],
-    [
-      "oust",
-      1,
-      "anger"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
-    ],
-    [
-      "levels",
-      1,
-      "trust"
-    ],
-    [
-      "ready",
-      1,
-      "anticipation"
-    ],
-    [
-      "defend",
-      1,
-      "fear"
-    ],
-    [
-      "launch",
-      1,
-      "anticipation"
-    ],
-    [
-      "bombing",
-      1,
-      "anger"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "shot",
-      1,
-      "anger"
-    ],
-    [
-      "assassination",
-      1,
-      "anger"
-    ],
-    [
-      "murdered",
-      1,
-      "anger"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 57,
+    "joy": 26,
+    "trust": 58,
     "fear": 56,
     "surprise": 10,
-    "sadness": 10,
-    "disgust": 4,
-    "anger": 99,
-    "anticipation": 29
+    "sadness": 11,
+    "disgust": 7,
+    "anger": 102,
+    "anticipation": 31
   }
 }
