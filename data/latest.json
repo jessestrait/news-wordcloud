@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-24T13:47:35.742Z",
+  "generated_at": "2026-07-24T14:02:37.604Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      11,
+      10,
       "anger"
     ],
     [
       "war",
-      11,
+      10,
       "anger"
     ],
     [
       "trump",
-      8,
+      7,
       "anger"
     ],
     [
       "attack",
-      8,
+      7,
       "anger"
     ],
     [
@@ -51,6 +51,11 @@
       "strike",
       4,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "killed",
@@ -106,6 +111,26 @@
       "cap",
       2,
       "trust"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
+      "ice",
+      2,
+      "fear"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "pledge",
+      2,
+      "joy"
     ],
     [
       "forces",
@@ -168,11 +193,6 @@
       "trust"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "letters",
       2,
       "anticipation"
@@ -208,11 +228,6 @@
       "trust"
     ],
     [
-      "hope",
-      2,
-      "surprise"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -228,11 +243,6 @@
       "anger"
     ],
     [
-      "mountain",
-      2,
-      "anticipation"
-    ],
-    [
       "evacuates",
       1,
       "fear"
@@ -241,6 +251,56 @@
       "merge",
       1,
       "anticipation"
+    ],
+    [
+      "sharing",
+      1,
+      "joy"
+    ],
+    [
+      "pay",
+      1,
+      "joy"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "giant",
+      1,
+      "fear"
+    ],
+    [
+      "fraud",
+      1,
+      "anger"
+    ],
+    [
+      "loyalty",
+      1,
+      "trust"
+    ],
+    [
+      "ultimatum",
+      1,
+      "anger"
+    ],
+    [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "disagreements",
+      1,
+      "anger"
     ],
     [
       "angel",
@@ -316,76 +376,16 @@
       "toilets",
       1,
       "disgust"
-    ],
-    [
-      "flying",
-      1,
-      "fear"
-    ],
-    [
-      "distressing",
-      1,
-      "anger"
-    ],
-    [
-      "frustrating",
-      1,
-      "anger"
-    ],
-    [
-      "share",
-      1,
-      "joy"
-    ],
-    [
-      "challenging",
-      1,
-      "anger"
-    ],
-    [
-      "battles",
-      1,
-      "anger"
-    ],
-    [
-      "hostility",
-      1,
-      "anger"
-    ],
-    [
-      "defy",
-      1,
-      "anger"
-    ],
-    [
-      "stigma",
-      1,
-      "anger"
-    ],
-    [
-      "concerned",
-      1,
-      "fear"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "failing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 60,
-    "fear": 53,
+    "joy": 29,
+    "trust": 61,
+    "fear": 56,
     "surprise": 11,
-    "sadness": 10,
-    "disgust": 7,
-    "anger": 104,
-    "anticipation": 32
+    "sadness": 9,
+    "disgust": 8,
+    "anger": 103,
+    "anticipation": 30
   }
 }
