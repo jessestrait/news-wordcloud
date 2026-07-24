@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T03:19:07.032Z",
+  "generated_at": "2026-07-24T03:34:08.777Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      9,
+      10,
       "anger"
     ],
     [
@@ -38,17 +38,17 @@
       "fear"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "threat",
       4,
       "anger"
     ],
     [
       "system",
-      3,
-      "trust"
-    ],
-    [
-      "president",
       3,
       "trust"
     ],
@@ -198,17 +198,17 @@
       "anger"
     ],
     [
-      "found",
-      2,
-      "joy"
-    ],
-    [
       "mountain",
       2,
       "anticipation"
     ],
     [
       "top",
+      2,
+      "trust"
+    ],
+    [
+      "show",
       2,
       "trust"
     ],
@@ -246,6 +246,21 @@
       "peril",
       1,
       "fear"
+    ],
+    [
+      "oust",
+      1,
+      "anger"
+    ],
+    [
+      "world",
+      1,
+      "trust"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
     ],
     [
       "flee",
@@ -361,31 +376,16 @@
       "storm",
       1,
       "anger"
-    ],
-    [
-      "mosque",
-      1,
-      "anger"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "convicted",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 56,
+    "joy": 23,
+    "trust": 59,
     "fear": 53,
     "surprise": 10,
     "sadness": 10,
     "disgust": 4,
-    "anger": 99,
+    "anger": 100,
     "anticipation": 30
   }
 }
