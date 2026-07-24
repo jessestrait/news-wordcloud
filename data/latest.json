@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:32:17.744Z",
+  "generated_at": "2026-07-24T13:47:20.067Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "happened",
       5,
       "anticipation"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "military",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 59,
+    "trust": 60,
     "fear": 53,
     "surprise": 11,
     "sadness": 10,
