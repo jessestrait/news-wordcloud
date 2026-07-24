@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T23:23:10.089Z",
+  "generated_at": "2026-07-24T23:38:11.961Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "fear"
     ],
     [
+      "power",
+      4,
+      "anticipation"
+    ],
+    [
       "wildfires",
       4,
       "fear"
@@ -88,11 +93,6 @@
       "anticipation"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "plan",
       3,
       "anticipation"
@@ -101,6 +101,11 @@
       "vow",
       3,
       "joy"
+    ],
+    [
+      "youth",
+      2,
+      "anger"
     ],
     [
       "flee",
@@ -238,17 +243,7 @@
       "joy"
     ],
     [
-      "life",
-      2,
-      "joy"
-    ],
-    [
       "book",
-      2,
-      "trust"
-    ],
-    [
-      "continue",
       2,
       "trust"
     ],
@@ -261,6 +256,36 @@
       "blackmail",
       2,
       "anger"
+    ],
+    [
+      "die",
+      1,
+      "fear"
+    ],
+    [
+      "challenge",
+      1,
+      "anger"
+    ],
+    [
+      "propaganda",
+      1,
+      "disgust"
+    ],
+    [
+      "machine",
+      1,
+      "trust"
+    ],
+    [
+      "falters",
+      1,
+      "fear"
+    ],
+    [
+      "secular",
+      1,
+      "anticipation"
     ],
     [
       "unpredictable",
@@ -351,41 +376,16 @@
       "fires",
       1,
       "fear"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "ice",
-      1,
-      "fear"
-    ],
-    [
-      "pay",
-      1,
-      "joy"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "fraud",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 22,
     "trust": 64,
-    "fear": 61,
+    "fear": 62,
     "surprise": 11,
     "sadness": 11,
-    "disgust": 9,
-    "anger": 106,
-    "anticipation": 31
+    "disgust": 10,
+    "anger": 105,
+    "anticipation": 32
   }
 }
