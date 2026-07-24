@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T03:52:50.980Z",
+  "generated_at": "2026-07-24T04:07:53.563Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,7 +24,7 @@
     ],
     [
       "happened",
-      6,
+      5,
       "anticipation"
     ],
     [
@@ -46,11 +46,6 @@
       "threat",
       4,
       "anger"
-    ],
-    [
-      "system",
-      3,
-      "trust"
     ],
     [
       "attempt",
@@ -101,6 +96,16 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "jail",
+      2,
+      "fear"
+    ],
+    [
+      "system",
+      2,
+      "trust"
     ],
     [
       "risk",
@@ -183,11 +188,6 @@
       "anger"
     ],
     [
-      "opposition",
-      2,
-      "anger"
-    ],
-    [
       "violence",
       2,
       "anger"
@@ -213,9 +213,9 @@
       "trust"
     ],
     [
-      "raid",
-      2,
-      "anger"
+      "concerned",
+      1,
+      "fear"
     ],
     [
       "middle",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 59,
-    "fear": 53,
+    "trust": 56,
+    "fear": 54,
     "surprise": 10,
     "sadness": 10,
     "disgust": 4,
-    "anger": 100,
-    "anticipation": 30
+    "anger": 98,
+    "anticipation": 29
   }
 }
