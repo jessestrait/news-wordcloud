@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-24T07:41:35.505Z",
+  "generated_at": "2026-07-24T07:56:37.571Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      12,
+      11,
       "anger"
     ],
     [
@@ -13,13 +13,13 @@
       "anger"
     ],
     [
-      "attack",
+      "trump",
       8,
       "anger"
     ],
     [
-      "trump",
-      8,
+      "attack",
+      7,
       "anger"
     ],
     [
@@ -96,6 +96,16 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "wildfire",
+      2,
+      "fear"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
     ],
     [
       "disabled",
@@ -178,16 +188,6 @@
       "trust"
     ],
     [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
-      "hormuz",
-      2,
-      "fear"
-    ],
-    [
       "continue",
       2,
       "trust"
@@ -218,8 +218,8 @@
       "anticipation"
     ],
     [
-      "top",
-      2,
+      "cap",
+      1,
       "trust"
     ],
     [
@@ -298,11 +298,6 @@
       "fear"
     ],
     [
-      "wildfires",
-      1,
-      "fear"
-    ],
-    [
       "levels",
       1,
       "trust"
@@ -376,16 +371,21 @@
       "rule",
       1,
       "fear"
+    ],
+    [
+      "focusing",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 57,
-    "fear": 55,
+    "fear": 53,
     "surprise": 10,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 4,
-    "anger": 100,
+    "anger": 97,
     "anticipation": 29
   }
 }
