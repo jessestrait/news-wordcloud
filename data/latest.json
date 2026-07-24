@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:33:29.439Z",
+  "generated_at": "2026-07-24T01:03:39.207Z",
   "article_count": 50,
   "top_words": [
     [
@@ -101,6 +101,16 @@
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "emergency",
+      2,
+      "fear"
+    ],
+    [
+      "marine",
+      2,
+      "trust"
     ],
     [
       "base",
@@ -233,6 +243,21 @@
       "surprise"
     ],
     [
+      "flee",
+      1,
+      "fear"
+    ],
+    [
+      "wildfires",
+      1,
+      "fear"
+    ],
+    [
+      "levels",
+      1,
+      "trust"
+    ],
+    [
       "ready",
       1,
       "anticipation"
@@ -251,26 +276,6 @@
       "massive",
       1,
       "anger"
-    ],
-    [
-      "flee",
-      1,
-      "fear"
-    ],
-    [
-      "wildfires",
-      1,
-      "fear"
-    ],
-    [
-      "levels",
-      1,
-      "trust"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
     ],
     [
       "shot",
@@ -371,21 +376,16 @@
       "alleged",
       1,
       "fear"
-    ],
-    [
-      "coup",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 53,
-    "fear": 49,
+    "trust": 54,
+    "fear": 50,
     "surprise": 11,
     "sadness": 11,
     "disgust": 4,
     "anger": 101,
-    "anticipation": 31
+    "anticipation": 30
   }
 }
