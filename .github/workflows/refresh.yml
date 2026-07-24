@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: refresh
@@ -21,13 +22,25 @@ jobs:
     runs-on: ubuntu-latest
     # Covers 4 refreshes 15 min apart (45 min of sleep) plus overhead.
     # GitHub's own `schedule:` trigger has proven unreliable on its own
-    # (observed 60-105 min gaps) -- an external dispatcher was filling
-    # the gaps every 15 min but depended on a machine being on. Looping
-    # inside a single job removes that dependency: a cloud-scheduled
-    # workflow_dispatch once an hour (the cloud scheduler's own minimum
-    # interval) is enough to keep refreshes landing every 15 min.
+    # (observed 60-105 min gaps). Self-dispatch (first step below) is the
+    # primary mechanism that keeps this running forever; schedule: is
+    # kept only as a redundant backup in case the chain ever breaks.
     timeout-minutes: 65
     steps:
+      - name: Arm next run
+        # Fires before anything else so the chain survives even if the
+        # rest of this job fails outright. Each run re-dispatches itself,
+        # so once one run is kicked off manually, this repeats forever
+        # with no dependency on any external scheduler, cloud routine, or
+        # either owner's computer being on. concurrency (above) queues
+        # this behind the current run rather than starting it in
+        # parallel, and de-dupes it against schedule:'s own firings.
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run "Refresh news word cloud" --repo jessestrait/news-wordcloud --ref main \
+            || echo "Self-dispatch failed -- falling back to native cron only."
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4

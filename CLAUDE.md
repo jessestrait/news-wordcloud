@@ -42,27 +42,36 @@ Current design:
 - The job loops internally: refresh, commit+push, sleep 900s (15 min),
   4 times per run (`timeout-minutes: 65`). A *single* trigger produces
   ~45-60 minutes of real 15-minute-cadence refreshes.
-- Three overlapping trigger sources feed that loop, and that's intentional
-  redundancy, not a mistake to clean up:
-  - `schedule: "7,22,37,52 * * * *"` — native GitHub cron, kept as a
-    backup even though it's flaky solo.
-  - A Claude Code cloud routine ("news-wordcloud refresh dispatcher", id
-    `trig_01QMMRMWozFQhi2Y77qXy7Uu`, managed at claude.ai/code/routines,
-    not in this repo) runs `gh workflow run "Refresh news word cloud"
-    --repo jessestrait/news-wordcloud --ref main` once an hour (cloud
-    schedulers can't go below a 1-hour interval). This is the one trigger
-    guaranteed independent of any computer being on.
-  - A third dispatcher used to run on one of the owner's own computers: a
-    Claude Code scheduled-task on that machine calling `workflow_dispatch`
-    every 15 min, authenticated as the repo owner's GitHub account. It
-    stopped firing on 2026-07-23 around 14:07 UTC when that laptop went to
-    sleep/closed — Claude Code scheduled tasks only run while the app is
-    open on that specific machine. Identified and deleted on 2026-07-24;
-    not depended on anymore, and wasn't a mistake to have tried, just not
-    durable enough on its own to keep.
+- **Self-dispatch is the primary trigger.** The job's first step calls
+  `gh workflow run "Refresh news word cloud" --repo jessestrait/news-wordcloud
+  --ref main` using the automatic `GITHUB_TOKEN` (needs `permissions:
+  actions: write`), queuing its own successor before doing anything else.
+  Once started, the chain perpetuates itself forever with zero dependency
+  on any external scheduler, cloud routine, or either owner's computer
+  being on — `concurrency: {group: refresh, cancel-in-progress: false}`
+  queues the successor behind the current run rather than racing it.
+  `schedule: "7,22,37,52 * * * *"` (native GitHub cron) is kept purely as
+  a redundant backup in case the chain ever breaks.
+- This replaced two prior external dispatchers, both retired 2026-07-24
+  because both turned out to depend on a specific computer being on/awake
+  despite the intent otherwise, and both were lost when their host
+  computer's session ended:
+  - A Claude Code cloud routine ("news-wordcloud refresh dispatcher," id
+    `trig_01QMMRMWozFQhi2Y77qXy7Uu`) that ran the same `gh workflow run`
+    command once an hour. Vanished at some point on 2026-07-24 —
+    `RemoteTrigger list` came back empty with no trace of it, most likely
+    deleted along with the unrelated malicious "diagnostic" task the
+    owner removed that day.
+  - A dispatcher on one of the owner's own computers (a laptop) calling
+    `workflow_dispatch` every 15 min, authenticated as the repo owner's
+    GitHub account. Stopped 2026-07-23 ~14:07 UTC when that laptop slept.
+  - Neither was a mistake to have tried — just not durable enough, which
+    is exactly why self-dispatch replaced them instead of adding a third
+    variant of the same failure mode.
 
-Because these overlap, two loop iterations can regenerate and push around
-the same time. `data/latest.json` and `manifest.json` are fully
+Because runs can still overlap briefly around a handoff, two loop
+iterations can regenerate and push around the same time.
+`data/latest.json` and `manifest.json` are fully
 regenerated each run (not incrementally edited), so the workflow resets
 hard to the current remote tip immediately before regenerating rather than
 `pull --rebase`-ing afterward — there's nothing in those files worth
