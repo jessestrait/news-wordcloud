@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-07-24T01:48:44.396Z",
+  "generated_at": "2026-07-24T03:04:05.218Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      13,
-      "anger"
-    ],
-    [
-      "trump",
-      9,
+      12,
       "anger"
     ],
     [
@@ -19,28 +14,38 @@
     ],
     [
       "attack",
-      7,
+      8,
       "anger"
     ],
     [
-      "threat",
-      5,
+      "trump",
+      8,
       "anger"
     ],
     [
       "happened",
-      5,
+      6,
       "anticipation"
     ],
     [
-      "government",
+      "people",
+      4,
+      "trust"
+    ],
+    [
+      "military",
       4,
       "fear"
     ],
     [
-      "strike",
+      "threat",
       4,
       "anger"
+    ],
+    [
+      "system",
+      3,
+      "trust"
     ],
     [
       "president",
@@ -51,6 +56,11 @@
       "attempt",
       3,
       "anticipation"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "power",
@@ -78,16 +88,6 @@
       "joy"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "warn",
       3,
       "fear"
@@ -98,9 +98,14 @@
       "fear"
     ],
     [
-      "middle",
+      "strike",
+      3,
+      "anger"
+    ],
+    [
+      "risk",
       2,
-      "sadness"
+      "fear"
     ],
     [
       "emergency",
@@ -116,11 +121,6 @@
       "base",
       2,
       "trust"
-    ],
-    [
-      "launch",
-      2,
-      "anticipation"
     ],
     [
       "rising",
@@ -139,11 +139,6 @@
     ],
     [
       "friends",
-      2,
-      "joy"
-    ],
-    [
-      "visitors",
       2,
       "joy"
     ],
@@ -171,11 +166,6 @@
       "hormuz",
       2,
       "fear"
-    ],
-    [
-      "growing",
-      2,
-      "joy"
     ],
     [
       "continue",
@@ -228,19 +218,34 @@
       "anger"
     ],
     [
-      "general",
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "failing",
+      1,
+      "anger"
+    ],
+    [
+      "doctor",
       1,
       "trust"
     ],
     [
-      "council",
+      "collapse",
+      1,
+      "fear"
+    ],
+    [
+      "personal",
       1,
       "trust"
     ],
     [
-      "unimaginable",
+      "peril",
       1,
-      "surprise"
+      "fear"
     ],
     [
       "flee",
@@ -266,6 +271,11 @@
       "defend",
       1,
       "fear"
+    ],
+    [
+      "launch",
+      1,
+      "anticipation"
     ],
     [
       "bombing",
@@ -333,11 +343,6 @@
       "anger"
     ],
     [
-      "risks",
-      1,
-      "fear"
-    ],
-    [
       "aberration",
       1,
       "disgust"
@@ -371,21 +376,16 @@
       "convicted",
       1,
       "anger"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 54,
-    "fear": 50,
-    "surprise": 11,
-    "sadness": 11,
+    "joy": 25,
+    "trust": 56,
+    "fear": 53,
+    "surprise": 10,
+    "sadness": 10,
     "disgust": 4,
-    "anger": 101,
+    "anger": 99,
     "anticipation": 30
   }
 }
