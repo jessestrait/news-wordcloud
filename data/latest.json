@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T18:50:50.161Z",
+  "generated_at": "2026-07-24T19:05:52.281Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,11 +103,6 @@
       "joy"
     ],
     [
-      "launch",
-      2,
-      "anticipation"
-    ],
-    [
       "flee",
       2,
       "fear"
@@ -128,9 +123,9 @@
       "fear"
     ],
     [
-      "fires",
+      "launch",
       2,
-      "fear"
+      "anticipation"
     ],
     [
       "middle",
@@ -268,16 +263,6 @@
       "anger"
     ],
     [
-      "fighting",
-      1,
-      "anger"
-    ],
-    [
-      "guards",
-      1,
-      "fear"
-    ],
-    [
       "unpredictable",
       1,
       "surprise"
@@ -291,6 +276,16 @@
       "holiday",
       1,
       "joy"
+    ],
+    [
+      "fighting",
+      1,
+      "anger"
+    ],
+    [
+      "guards",
+      1,
+      "fear"
     ],
     [
       "vowed",
@@ -358,6 +353,11 @@
       "anger"
     ],
     [
+      "fires",
+      1,
+      "fear"
+    ],
+    [
       "expected",
       1,
       "anticipation"
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 24,
     "trust": 64,
-    "fear": 62,
+    "fear": 61,
     "surprise": 11,
     "sadness": 11,
     "disgust": 9,
