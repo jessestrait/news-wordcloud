@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-25T04:25:51.399Z",
+  "generated_at": "2026-07-25T04:40:53.556Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
+      12,
+      "anger"
+    ],
+    [
+      "iran",
       11,
       "anger"
     ],
     [
       "war",
-      10,
-      "anger"
-    ],
-    [
-      "iran",
-      10,
+      11,
       "anger"
     ],
     [
@@ -51,11 +51,6 @@
       "warn",
       5,
       "fear"
-    ],
-    [
-      "vow",
-      4,
-      "joy"
     ],
     [
       "power",
@@ -123,6 +118,11 @@
       "anticipation"
     ],
     [
+      "vow",
+      3,
+      "joy"
+    ],
+    [
       "waste",
       2,
       "disgust"
@@ -131,6 +131,11 @@
       "officials",
       2,
       "trust"
+    ],
+    [
+      "dangerous",
+      2,
+      "fear"
     ],
     [
       "deadly",
@@ -218,11 +223,6 @@
       "trust"
     ],
     [
-      "ship",
-      2,
-      "anticipation"
-    ],
-    [
       "letters",
       2,
       "anticipation"
@@ -258,24 +258,19 @@
       "trust"
     ],
     [
-      "retaliation",
+      "missile",
+      1,
+      "fear"
+    ],
+    [
+      "rebels",
       1,
       "anger"
     ],
     [
-      "hit",
+      "engulfed",
       1,
-      "anger"
-    ],
-    [
-      "destroyed",
-      1,
-      "anger"
-    ],
-    [
-      "threatening",
-      1,
-      "anger"
+      "anticipation"
     ],
     [
       "die",
@@ -376,12 +371,17 @@
       "accurate",
       1,
       "trust"
+    ],
+    [
+      "lethal",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 21,
     "trust": 71,
-    "fear": 65,
+    "fear": 67,
     "surprise": 11,
     "sadness": 11,
     "disgust": 10,
