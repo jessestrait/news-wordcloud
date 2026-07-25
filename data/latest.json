@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T03:40:23.533Z",
+  "generated_at": "2026-07-25T03:55:25.860Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,8 +28,8 @@
       "anger"
     ],
     [
-      "strikes",
-      6,
+      "strike",
+      7,
       "anger"
     ],
     [
@@ -98,17 +98,17 @@
       "fear"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "disabled",
       3,
       "fear"
     ],
     [
       "attempt",
-      3,
-      "anticipation"
-    ],
-    [
-      "plan",
       3,
       "anticipation"
     ],
@@ -126,11 +126,6 @@
       "flee",
       2,
       "fear"
-    ],
-    [
-      "forces",
-      2,
-      "anger"
     ],
     [
       "cap",
@@ -178,11 +173,6 @@
       "trust"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "deal",
       2,
       "surprise"
@@ -224,6 +214,11 @@
     ],
     [
       "letters",
+      2,
+      "anticipation"
+    ],
+    [
+      "plan",
       2,
       "anticipation"
     ],
@@ -299,6 +294,11 @@
     ],
     [
       "blaze",
+      1,
+      "anger"
+    ],
+    [
+      "forces",
       1,
       "anger"
     ],
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 64,
-    "fear": 64,
+    "trust": 66,
+    "fear": 65,
     "surprise": 11,
     "sadness": 11,
     "disgust": 9,
     "anger": 109,
-    "anticipation": 31
+    "anticipation": 30
   }
 }
