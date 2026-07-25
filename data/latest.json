@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T14:53:46.024Z",
+  "generated_at": "2026-07-25T15:08:48.484Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,6 +68,11 @@
       "trust"
     ],
     [
+      "flee",
+      3,
+      "fear"
+    ],
+    [
       "youth",
       3,
       "anger"
@@ -120,16 +125,6 @@
     [
       "disabled",
       3,
-      "fear"
-    ],
-    [
-      "force",
-      2,
-      "anger"
-    ],
-    [
-      "evacuate",
-      2,
       "fear"
     ],
     [
@@ -201,11 +196,6 @@
       "deadly",
       2,
       "anger"
-    ],
-    [
-      "flee",
-      2,
-      "fear"
     ],
     [
       "cap",
@@ -376,6 +366,16 @@
       "investors",
       1,
       "anticipation"
+    ],
+    [
+      "fearful",
+      1,
+      "fear"
+    ],
+    [
+      "never",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 10,
     "sadness": 12,
     "disgust": 10,
-    "anger": 119,
+    "anger": 118,
     "anticipation": 26
   }
 }
