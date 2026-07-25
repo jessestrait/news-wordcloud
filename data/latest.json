@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T03:55:25.860Z",
+  "generated_at": "2026-07-25T04:10:28.151Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,6 +78,16 @@
       "trust"
     ],
     [
+      "world",
+      3,
+      "trust"
+    ],
+    [
+      "level",
+      3,
+      "trust"
+    ],
+    [
       "middle",
       3,
       "sadness"
@@ -111,6 +121,16 @@
       "attempt",
       3,
       "anticipation"
+    ],
+    [
+      "waste",
+      2,
+      "disgust"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "deadly",
@@ -168,11 +188,6 @@
       "trust"
     ],
     [
-      "level",
-      2,
-      "trust"
-    ],
-    [
       "deal",
       2,
       "surprise"
@@ -181,11 +196,6 @@
       "pledge",
       2,
       "joy"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "policy",
@@ -235,6 +245,16 @@
     [
       "book",
       2,
+      "trust"
+    ],
+    [
+      "heritage",
+      1,
+      "trust"
+    ],
+    [
+      "designation",
+      1,
       "trust"
     ],
     [
@@ -356,36 +376,16 @@
       "accurate",
       1,
       "trust"
-    ],
-    [
-      "lethal",
-      1,
-      "fear"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
-      "hurt",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 66,
+    "trust": 71,
     "fear": 65,
     "surprise": 11,
     "sadness": 11,
-    "disgust": 9,
-    "anger": 109,
+    "disgust": 10,
+    "anger": 108,
     "anticipation": 30
   }
 }
