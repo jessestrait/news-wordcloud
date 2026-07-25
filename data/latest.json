@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T21:57:46.742Z",
+  "generated_at": "2026-07-25T22:12:48.982Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,6 +73,11 @@
       "trust"
     ],
     [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
       "blaze",
       3,
       "anger"
@@ -133,9 +138,14 @@
       "fear"
     ],
     [
-      "forced",
+      "evacuated",
       2,
       "fear"
+    ],
+    [
+      "fight",
+      2,
+      "anger"
     ],
     [
       "battle",
@@ -228,11 +238,6 @@
       "anger"
     ],
     [
-      "threat",
-      2,
-      "anger"
-    ],
-    [
       "policy",
       2,
       "trust"
@@ -273,19 +278,14 @@
       "joy"
     ],
     [
-      "evacuated",
+      "villagers",
       1,
-      "fear"
+      "trust"
     ],
     [
-      "tackle",
+      "home",
       1,
-      "anger"
-    ],
-    [
-      "hopes",
-      1,
-      "surprise"
+      "joy"
     ],
     [
       "escapes",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 65,
+    "joy": 23,
+    "trust": 66,
     "fear": 83,
-    "surprise": 8,
+    "surprise": 7,
     "sadness": 10,
     "disgust": 10,
-    "anger": 118,
+    "anger": 119,
     "anticipation": 27
   }
 }
