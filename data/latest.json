@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-07-25T03:10:03.332Z",
+  "generated_at": "2026-07-25T03:25:05.003Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      11,
+      "anger"
+    ],
+    [
+      "war",
+      10,
+      "anger"
+    ],
     [
       "iran",
       10,
       "anger"
     ],
     [
-      "attack",
-      9,
-      "anger"
+      "military",
+      8,
+      "fear"
     ],
     [
       "trump",
@@ -18,8 +28,8 @@
       "anger"
     ],
     [
-      "war",
-      8,
+      "strikes",
+      6,
       "anger"
     ],
     [
@@ -33,16 +43,6 @@
       "anticipation"
     ],
     [
-      "strikes",
-      5,
-      "anger"
-    ],
-    [
-      "military",
-      5,
-      "fear"
-    ],
-    [
       "threat",
       5,
       "anger"
@@ -51,6 +51,11 @@
       "warn",
       5,
       "fear"
+    ],
+    [
+      "vow",
+      4,
+      "joy"
     ],
     [
       "power",
@@ -73,12 +78,22 @@
       "trust"
     ],
     [
-      "risk",
+      "middle",
+      3,
+      "sadness"
+    ],
+    [
+      "launch",
+      3,
+      "anticipation"
+    ],
+    [
+      "killed",
       3,
       "fear"
     ],
     [
-      "government",
+      "risk",
       3,
       "fear"
     ],
@@ -98,9 +113,9 @@
       "anticipation"
     ],
     [
-      "vow",
-      3,
-      "joy"
+      "deadly",
+      2,
+      "anger"
     ],
     [
       "youth",
@@ -128,14 +143,14 @@
       "fear"
     ],
     [
-      "launch",
+      "bomb",
       2,
-      "anticipation"
+      "anger"
     ],
     [
-      "middle",
+      "operation",
       2,
-      "sadness"
+      "fear"
     ],
     [
       "american",
@@ -163,24 +178,19 @@
       "trust"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "deal",
       2,
       "surprise"
     ],
     [
-      "opposition",
-      2,
-      "anger"
-    ],
-    [
       "pledge",
       2,
       "joy"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "world",
@@ -203,19 +213,14 @@
       "trust"
     ],
     [
-      "jail",
-      2,
-      "fear"
-    ],
-    [
       "system",
       2,
       "trust"
     ],
     [
-      "marine",
+      "ship",
       2,
-      "trust"
+      "anticipation"
     ],
     [
       "letters",
@@ -223,19 +228,9 @@
       "anticipation"
     ],
     [
-      "jailed",
-      2,
-      "fear"
-    ],
-    [
       "friends",
       2,
       "joy"
-    ],
-    [
-      "scandal",
-      2,
-      "fear"
     ],
     [
       "pride",
@@ -248,13 +243,23 @@
       "trust"
     ],
     [
-      "police",
-      2,
-      "fear"
+      "retaliation",
+      1,
+      "anger"
     ],
     [
-      "blackmail",
-      2,
+      "hit",
+      1,
+      "anger"
+    ],
+    [
+      "destroyed",
+      1,
+      "anger"
+    ],
+    [
+      "threatening",
+      1,
       "anger"
     ],
     [
@@ -298,6 +303,31 @@
       "anger"
     ],
     [
+      "law",
+      1,
+      "trust"
+    ],
+    [
+      "remanded",
+      1,
+      "anger"
+    ],
+    [
+      "custody",
+      1,
+      "trust"
+    ],
+    [
+      "intelligence",
+      1,
+      "fear"
+    ],
+    [
+      "dissident",
+      1,
+      "anger"
+    ],
+    [
       "fighting",
       1,
       "anger"
@@ -333,59 +363,29 @@
       "fear"
     ],
     [
-      "evacuates",
+      "planning",
       1,
-      "fear"
+      "trust"
     ],
     [
-      "merge",
+      "bank",
       1,
-      "anticipation"
+      "trust"
     ],
     [
-      "global",
-      1,
-      "anticipation"
-    ],
-    [
-      "waste",
-      1,
-      "disgust"
-    ],
-    [
-      "bomb",
+      "hurt",
       1,
       "anger"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
-      "worse",
-      1,
-      "fear"
-    ],
-    [
-      "ferocious",
-      1,
-      "anger"
-    ],
-    [
-      "fires",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 64,
-    "fear": 62,
+    "fear": 64,
     "surprise": 11,
     "sadness": 11,
-    "disgust": 10,
-    "anger": 105,
-    "anticipation": 32
+    "disgust": 9,
+    "anger": 109,
+    "anticipation": 31
   }
 }
