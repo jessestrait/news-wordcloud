@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T11:54:11.095Z",
+  "generated_at": "2026-07-25T12:09:13.368Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,17 +33,17 @@
       "fear"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "military",
       5,
       "fear"
     ],
     [
       "president",
+      4,
+      "trust"
+    ],
+    [
+      "people",
       4,
       "trust"
     ],
@@ -263,9 +263,39 @@
       "joy"
     ],
     [
-      "book",
-      2,
+      "avoid",
+      1,
+      "fear"
+    ],
+    [
+      "truss",
+      1,
       "trust"
+    ],
+    [
+      "shock",
+      1,
+      "anger"
+    ],
+    [
+      "giant",
+      1,
+      "fear"
+    ],
+    [
+      "leaves",
+      1,
+      "sadness"
+    ],
+    [
+      "investors",
+      1,
+      "anticipation"
+    ],
+    [
+      "fearful",
+      1,
+      "fear"
     ],
     [
       "never",
@@ -346,46 +376,16 @@
       "incident",
       1,
       "surprise"
-    ],
-    [
-      "strengthening",
-      1,
-      "joy"
-    ],
-    [
-      "history",
-      1,
-      "trust"
-    ],
-    [
-      "fearless",
-      1,
-      "fear"
-    ],
-    [
-      "risked",
-      1,
-      "fear"
-    ],
-    [
-      "imprisonment",
-      1,
-      "anger"
-    ],
-    [
-      "lingering",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 71,
-    "fear": 69,
+    "joy": 23,
+    "trust": 68,
+    "fear": 72,
     "surprise": 9,
-    "sadness": 12,
+    "sadness": 13,
     "disgust": 10,
-    "anger": 117,
+    "anger": 116,
     "anticipation": 27
   }
 }
