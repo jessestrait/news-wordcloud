@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T17:09:51.528Z",
+  "generated_at": "2026-07-25T17:24:53.192Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "world",
       4,
       "trust"
@@ -56,11 +61,6 @@
       "president",
       4,
       "trust"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "base",
@@ -386,6 +386,6 @@
     "sadness": 10,
     "disgust": 10,
     "anger": 117,
-    "anticipation": 26
+    "anticipation": 27
   }
 }
