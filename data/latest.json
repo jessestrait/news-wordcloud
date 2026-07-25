@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T06:26:59.075Z",
+  "generated_at": "2026-07-25T06:42:01.147Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,9 +33,14 @@
       "anger"
     ],
     [
-      "happened",
+      "warn",
       6,
-      "anticipation"
+      "fear"
+    ],
+    [
+      "wildfires",
+      5,
+      "fear"
     ],
     [
       "people",
@@ -43,24 +48,19 @@
       "trust"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "threat",
       5,
       "anger"
     ],
     [
-      "warn",
-      5,
-      "fear"
-    ],
-    [
       "power",
       4,
       "anticipation"
-    ],
-    [
-      "wildfires",
-      4,
-      "fear"
     ],
     [
       "president",
@@ -70,6 +70,11 @@
     [
       "base",
       4,
+      "trust"
+    ],
+    [
+      "officials",
+      3,
       "trust"
     ],
     [
@@ -118,14 +123,9 @@
       "fear"
     ],
     [
-      "attempt",
-      3,
-      "anticipation"
-    ],
-    [
-      "vow",
-      3,
-      "joy"
+      "fires",
+      2,
+      "fear"
     ],
     [
       "authorities",
@@ -136,11 +136,6 @@
       "waste",
       2,
       "disgust"
-    ],
-    [
-      "officials",
-      2,
-      "trust"
     ],
     [
       "dangerous",
@@ -244,6 +239,11 @@
     ],
     [
       "pride",
+      2,
+      "joy"
+    ],
+    [
+      "vow",
       2,
       "joy"
     ],
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 71,
-    "fear": 69,
+    "joy": 22,
+    "trust": 72,
+    "fear": 72,
     "surprise": 9,
     "sadness": 11,
     "disgust": 10,
     "anger": 111,
-    "anticipation": 31
+    "anticipation": 28
   }
 }
