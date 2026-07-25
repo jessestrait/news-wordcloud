@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-25T10:54:22.291Z",
+  "generated_at": "2026-07-25T11:09:24.200Z",
   "article_count": 50,
   "top_words": [
     [
-      "war",
-      12,
+      "attack",
+      11,
       "anger"
     ],
     [
-      "attack",
-      11,
+      "war",
+      10,
       "anger"
     ],
     [
@@ -33,14 +33,14 @@
       "fear"
     ],
     [
-      "military",
-      6,
-      "fear"
-    ],
-    [
       "people",
       5,
       "trust"
+    ],
+    [
+      "military",
+      5,
+      "fear"
     ],
     [
       "president",
@@ -59,6 +59,11 @@
     ],
     [
       "blaze",
+      3,
+      "anger"
+    ],
+    [
+      "bomb",
       3,
       "anger"
     ],
@@ -133,6 +138,11 @@
       "fear"
     ],
     [
+      "anger",
+      2,
+      "anger"
+    ],
+    [
       "scandal",
       2,
       "fear"
@@ -186,11 +196,6 @@
       "cap",
       2,
       "trust"
-    ],
-    [
-      "bomb",
-      2,
-      "anger"
     ],
     [
       "operation",
@@ -263,6 +268,61 @@
       "trust"
     ],
     [
+      "never",
+      1,
+      "fear"
+    ],
+    [
+      "victim",
+      1,
+      "anger"
+    ],
+    [
+      "horror",
+      1,
+      "anger"
+    ],
+    [
+      "baby",
+      1,
+      "joy"
+    ],
+    [
+      "mother",
+      1,
+      "sadness"
+    ],
+    [
+      "father",
+      1,
+      "trust"
+    ],
+    [
+      "witness",
+      1,
+      "trust"
+    ],
+    [
+      "account",
+      1,
+      "trust"
+    ],
+    [
+      "aftermath",
+      1,
+      "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
+    ],
+    [
       "resigns",
       1,
       "anger"
@@ -316,76 +376,16 @@
       "lingering",
       1,
       "anticipation"
-    ],
-    [
-      "persecution",
-      1,
-      "anger"
-    ],
-    [
-      "dictatorship",
-      1,
-      "anger"
-    ],
-    [
-      "hate",
-      1,
-      "anger"
-    ],
-    [
-      "crime",
-      1,
-      "anger"
-    ],
-    [
-      "police",
-      1,
-      "fear"
-    ],
-    [
-      "stolen",
-      1,
-      "anger"
-    ],
-    [
-      "childhoods",
-      1,
-      "joy"
-    ],
-    [
-      "classes",
-      1,
-      "sadness"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "rubble",
-      1,
-      "fear"
-    ],
-    [
-      "respite",
-      1,
-      "joy"
-    ],
-    [
-      "daily",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 70,
+    "joy": 24,
+    "trust": 71,
     "fear": 69,
     "surprise": 9,
     "sadness": 12,
     "disgust": 10,
-    "anger": 114,
+    "anger": 117,
     "anticipation": 27
   }
 }
