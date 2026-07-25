@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T16:39:32.038Z",
+  "generated_at": "2026-07-25T16:54:33.719Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,24 @@
       "anger"
     ],
     [
+      "wildfire",
+      8,
+      "fear"
+    ],
+    [
       "trump",
       8,
       "anger"
     ],
     [
-      "wildfire",
-      7,
+      "military",
+      6,
       "fear"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "strike",
@@ -33,19 +43,9 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
-      "military",
-      5,
-      "fear"
-    ],
-    [
-      "blaze",
+      "world",
       4,
-      "anger"
+      "trust"
     ],
     [
       "government",
@@ -68,6 +68,16 @@
       "trust"
     ],
     [
+      "fire",
+      3,
+      "fear"
+    ],
+    [
+      "blaze",
+      3,
+      "anger"
+    ],
+    [
       "flee",
       3,
       "fear"
@@ -86,11 +96,6 @@
       "emergency",
       3,
       "fear"
-    ],
-    [
-      "world",
-      3,
-      "trust"
     ],
     [
       "level",
@@ -128,7 +133,7 @@
       "fear"
     ],
     [
-      "evacuated",
+      "forced",
       2,
       "fear"
     ],
@@ -136,11 +141,6 @@
       "battle",
       2,
       "anger"
-    ],
-    [
-      "fires",
-      2,
-      "fear"
     ],
     [
       "victory",
@@ -273,6 +273,36 @@
       "joy"
     ],
     [
+      "tackle",
+      1,
+      "anger"
+    ],
+    [
+      "hopes",
+      1,
+      "surprise"
+    ],
+    [
+      "evacuated",
+      1,
+      "fear"
+    ],
+    [
+      "fled",
+      1,
+      "fear"
+    ],
+    [
+      "don",
+      1,
+      "trust"
+    ],
+    [
+      "home",
+      1,
+      "joy"
+    ],
+    [
       "warnings",
       1,
       "fear"
@@ -346,46 +376,16 @@
       "truss",
       1,
       "trust"
-    ],
-    [
-      "shock",
-      1,
-      "anger"
-    ],
-    [
-      "giant",
-      1,
-      "fear"
-    ],
-    [
-      "leaves",
-      1,
-      "sadness"
-    ],
-    [
-      "investors",
-      1,
-      "anticipation"
-    ],
-    [
-      "fearful",
-      1,
-      "fear"
-    ],
-    [
-      "never",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 66,
-    "fear": 78,
-    "surprise": 10,
-    "sadness": 12,
+    "joy": 23,
+    "trust": 65,
+    "fear": 82,
+    "surprise": 8,
+    "sadness": 10,
     "disgust": 10,
-    "anger": 118,
+    "anger": 117,
     "anticipation": 26
   }
 }
