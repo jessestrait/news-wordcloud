@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T14:38:42.917Z",
+  "generated_at": "2026-07-25T14:53:46.024Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,7 +24,7 @@
     ],
     [
       "wildfire",
-      6,
+      7,
       "fear"
     ],
     [
@@ -33,9 +33,19 @@
       "anger"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "military",
       5,
       "fear"
+    ],
+    [
+      "blaze",
+      4,
+      "anger"
     ],
     [
       "government",
@@ -48,11 +58,6 @@
       "trust"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "happened",
       4,
       "anticipation"
@@ -61,11 +66,6 @@
       "base",
       4,
       "trust"
-    ],
-    [
-      "blaze",
-      3,
-      "anger"
     ],
     [
       "youth",
@@ -120,6 +120,26 @@
     [
       "disabled",
       3,
+      "fear"
+    ],
+    [
+      "force",
+      2,
+      "anger"
+    ],
+    [
+      "evacuate",
+      2,
+      "fear"
+    ],
+    [
+      "battle",
+      2,
+      "anger"
+    ],
+    [
+      "fires",
+      2,
       "fear"
     ],
     [
@@ -263,6 +283,11 @@
       "joy"
     ],
     [
+      "warnings",
+      1,
+      "fear"
+    ],
+    [
       "resigns",
       1,
       "anger"
@@ -351,41 +376,16 @@
       "investors",
       1,
       "anticipation"
-    ],
-    [
-      "fearful",
-      1,
-      "fear"
-    ],
-    [
-      "never",
-      1,
-      "fear"
-    ],
-    [
-      "victim",
-      1,
-      "anger"
-    ],
-    [
-      "horror",
-      1,
-      "anger"
-    ],
-    [
-      "baby",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 67,
-    "fear": 75,
+    "trust": 66,
+    "fear": 78,
     "surprise": 10,
     "sadness": 12,
     "disgust": 10,
-    "anger": 116,
+    "anger": 119,
     "anticipation": 26
   }
 }
