@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T17:55:38.401Z",
+  "generated_at": "2026-07-25T18:10:40.881Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anticipation"
     ],
     [
+      "fire",
+      4,
+      "fear"
+    ],
+    [
       "world",
       4,
       "trust"
@@ -71,11 +76,6 @@
       "blaze",
       3,
       "anger"
-    ],
-    [
-      "fire",
-      3,
-      "fear"
     ],
     [
       "flee",
@@ -288,19 +288,19 @@
       "surprise"
     ],
     [
-      "fled",
+      "escapes",
       1,
       "fear"
     ],
     [
-      "don",
+      "witnessed",
       1,
       "trust"
     ],
     [
-      "home",
+      "devastation",
       1,
-      "joy"
+      "anger"
     ],
     [
       "warnings",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 22,
     "trust": 65,
-    "fear": 82,
+    "fear": 83,
     "surprise": 8,
     "sadness": 10,
     "disgust": 10,
-    "anger": 117,
+    "anger": 118,
     "anticipation": 27
   }
 }
