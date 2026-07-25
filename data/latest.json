@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T10:39:20.282Z",
+  "generated_at": "2026-07-25T10:54:22.291Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,12 +58,12 @@
       "trust"
     ],
     [
-      "youth",
+      "blaze",
       3,
       "anger"
     ],
     [
-      "blaze",
+      "youth",
       3,
       "anger"
     ],
@@ -128,6 +128,11 @@
       "fear"
     ],
     [
+      "evacuated",
+      2,
+      "fear"
+    ],
+    [
       "scandal",
       2,
       "fear"
@@ -136,11 +141,6 @@
       "victory",
       2,
       "joy"
-    ],
-    [
-      "evacuated",
-      2,
-      "fear"
     ],
     [
       "america",
