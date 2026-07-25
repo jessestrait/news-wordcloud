@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T16:54:49.901Z",
+  "generated_at": "2026-07-25T17:09:51.528Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,14 +68,14 @@
       "trust"
     ],
     [
-      "fire",
-      3,
-      "fear"
-    ],
-    [
       "blaze",
       3,
       "anger"
+    ],
+    [
+      "fire",
+      3,
+      "fear"
     ],
     [
       "flee",
@@ -273,6 +273,11 @@
       "joy"
     ],
     [
+      "evacuated",
+      1,
+      "fear"
+    ],
+    [
       "tackle",
       1,
       "anger"
@@ -281,11 +286,6 @@
       "hopes",
       1,
       "surprise"
-    ],
-    [
-      "evacuated",
-      1,
-      "fear"
     ],
     [
       "fled",
