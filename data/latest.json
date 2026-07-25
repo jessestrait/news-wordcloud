@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T08:42:45.680Z",
+  "generated_at": "2026-07-25T09:08:34.851Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,6 +253,41 @@
       "trust"
     ],
     [
+      "history",
+      1,
+      "trust"
+    ],
+    [
+      "fearless",
+      1,
+      "fear"
+    ],
+    [
+      "risked",
+      1,
+      "fear"
+    ],
+    [
+      "imprisonment",
+      1,
+      "anger"
+    ],
+    [
+      "lingering",
+      1,
+      "anticipation"
+    ],
+    [
+      "persecution",
+      1,
+      "anger"
+    ],
+    [
+      "dictatorship",
+      1,
+      "anger"
+    ],
+    [
       "hate",
       1,
       "anger"
@@ -341,51 +376,16 @@
       "propaganda",
       1,
       "disgust"
-    ],
-    [
-      "machine",
-      1,
-      "trust"
-    ],
-    [
-      "falters",
-      1,
-      "fear"
-    ],
-    [
-      "secular",
-      1,
-      "anticipation"
-    ],
-    [
-      "unpredictable",
-      1,
-      "surprise"
-    ],
-    [
-      "blaze",
-      1,
-      "anger"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
-    ],
-    [
-      "law",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 72,
-    "fear": 72,
+    "trust": 71,
+    "fear": 74,
     "surprise": 9,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 10,
-    "anger": 111,
-    "anticipation": 28
+    "anger": 113,
+    "anticipation": 29
   }
 }
