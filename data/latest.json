@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T16:37:44.749Z",
+  "generated_at": "2026-07-26T16:52:46.438Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,6 +83,11 @@
       "joy"
     ],
     [
+      "ally",
+      3,
+      "trust"
+    ],
+    [
       "leader",
       3,
       "trust"
@@ -138,14 +143,24 @@
       "fear"
     ],
     [
-      "media",
+      "forced",
       2,
-      "disgust"
+      "fear"
+    ],
+    [
+      "resign",
+      2,
+      "anger"
     ],
     [
       "opposition",
       2,
       "anger"
+    ],
+    [
+      "media",
+      2,
+      "disgust"
     ],
     [
       "berlin",
@@ -248,11 +263,6 @@
       "sadness"
     ],
     [
-      "allies",
-      2,
-      "trust"
-    ],
-    [
       "bombing",
       2,
       "anger"
@@ -271,16 +281,6 @@
       "system",
       2,
       "trust"
-    ],
-    [
-      "fear",
-      1,
-      "anger"
-    ],
-    [
-      "collapsed",
-      1,
-      "fear"
     ],
     [
       "obituary",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 71,
+    "trust": 72,
     "fear": 90,
     "surprise": 10,
     "sadness": 11,
