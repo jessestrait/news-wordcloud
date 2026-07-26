@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T21:24:59.748Z",
+  "generated_at": "2026-07-26T21:40:01.876Z",
   "article_count": 50,
   "top_words": [
     [
@@ -74,13 +74,18 @@
     ],
     [
       "base",
-      4,
+      3,
       "trust"
     ],
     [
-      "bombing",
+      "show",
       3,
-      "anger"
+      "trust"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "officials",
@@ -118,11 +123,6 @@
       "anger"
     ],
     [
-      "threat",
-      3,
-      "anger"
-    ],
-    [
       "flee",
       3,
       "fear"
@@ -148,14 +148,14 @@
       "trust"
     ],
     [
-      "launch",
-      3,
-      "anticipation"
-    ],
-    [
       "disabled",
       3,
       "fear"
+    ],
+    [
+      "bombing",
+      2,
+      "anger"
     ],
     [
       "berlin",
@@ -228,6 +228,11 @@
       "fear"
     ],
     [
+      "threat",
+      2,
+      "anger"
+    ],
+    [
       "youth",
       2,
       "anger"
@@ -248,11 +253,6 @@
       "sadness"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "waste",
       2,
       "disgust"
@@ -261,6 +261,11 @@
       "cap",
       2,
       "trust"
+    ],
+    [
+      "launch",
+      2,
+      "anticipation"
     ],
     [
       "middle",
@@ -273,14 +278,19 @@
       "fear"
     ],
     [
-      "show",
+      "system",
       2,
       "trust"
     ],
     [
-      "system",
-      2,
+      "unwavering",
+      1,
       "trust"
+    ],
+    [
+      "visitor",
+      1,
+      "joy"
     ],
     [
       "second",
@@ -366,26 +376,16 @@
       "suffering",
       1,
       "fear"
-    ],
-    [
-      "coming",
-      1,
-      "anticipation"
-    ],
-    [
-      "scandalous",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 73,
-    "fear": 93,
+    "joy": 24,
+    "trust": 75,
+    "fear": 92,
     "surprise": 10,
     "sadness": 11,
     "disgust": 9,
-    "anger": 116,
-    "anticipation": 21
+    "anger": 114,
+    "anticipation": 19
   }
 }
