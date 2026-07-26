@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T03:46:07.619Z",
+  "generated_at": "2026-07-26T04:01:10.030Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,19 +28,24 @@
       "anger"
     ],
     [
+      "people",
+      7,
+      "trust"
+    ],
+    [
       "military",
       6,
       "fear"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
       "strike",
       6,
       "anger"
+    ],
+    [
+      "world",
+      5,
+      "trust"
     ],
     [
       "happened",
@@ -58,11 +63,6 @@
       "fear"
     ],
     [
-      "world",
-      4,
-      "trust"
-    ],
-    [
       "government",
       4,
       "fear"
@@ -78,11 +78,6 @@
       "trust"
     ],
     [
-      "pride",
-      3,
-      "joy"
-    ],
-    [
       "threat",
       3,
       "anger"
@@ -96,11 +91,6 @@
       "flee",
       3,
       "fear"
-    ],
-    [
-      "youth",
-      3,
-      "anger"
     ],
     [
       "bomb",
@@ -138,6 +128,16 @@
       "fear"
     ],
     [
+      "shot",
+      2,
+      "anger"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
+    ],
+    [
       "police",
       2,
       "fear"
@@ -158,9 +158,9 @@
       "joy"
     ],
     [
-      "scandal",
+      "youth",
       2,
-      "fear"
+      "anger"
     ],
     [
       "challenge",
@@ -173,11 +173,6 @@
       "fear"
     ],
     [
-      "anger",
-      2,
-      "anger"
-    ],
-    [
       "america",
       2,
       "sadness"
@@ -188,19 +183,9 @@
       "trust"
     ],
     [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
       "waste",
       2,
       "disgust"
-    ],
-    [
-      "officials",
-      2,
-      "trust"
     ],
     [
       "deadly",
@@ -263,14 +248,49 @@
       "anticipation"
     ],
     [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
       "friends",
       2,
       "joy"
+    ],
+    [
+      "sitars",
+      1,
+      "joy"
+    ],
+    [
+      "edition",
+      1,
+      "anticipation"
+    ],
+    [
+      "influential",
+      1,
+      "trust"
+    ],
+    [
+      "violent",
+      1,
+      "anger"
+    ],
+    [
+      "immigrants",
+      1,
+      "fear"
+    ],
+    [
+      "fled",
+      1,
+      "fear"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "demand",
+      1,
+      "anger"
     ],
     [
       "injured",
@@ -284,6 +304,11 @@
     ],
     [
       "berlin",
+      1,
+      "joy"
+    ],
+    [
+      "pride",
       1,
       "joy"
     ],
@@ -338,6 +363,11 @@
       "anger"
     ],
     [
+      "scandal",
+      1,
+      "fear"
+    ],
+    [
       "celebrations",
       1,
       "surprise"
@@ -346,46 +376,16 @@
       "protesters",
       1,
       "anger"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
-    ],
-    [
-      "attacking",
-      1,
-      "anger"
-    ],
-    [
-      "celebrities",
-      1,
-      "anger"
-    ],
-    [
-      "stars",
-      1,
-      "joy"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "cowardice",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 65,
-    "fear": 88,
+    "joy": 21,
+    "trust": 66,
+    "fear": 87,
     "surprise": 7,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 10,
-    "anger": 119,
+    "anger": 120,
     "anticipation": 26
   }
 }
