@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T13:36:15.924Z",
+  "generated_at": "2026-07-26T13:51:18.197Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,6 +138,11 @@
       "trust"
     ],
     [
+      "deadly",
+      2,
+      "anger"
+    ],
+    [
       "peace",
       2,
       "joy"
@@ -268,6 +273,11 @@
       "joy"
     ],
     [
+      "terrorism",
+      1,
+      "anger"
+    ],
+    [
       "prediction",
       1,
       "anticipation"
@@ -366,16 +376,6 @@
       "violent",
       1,
       "anger"
-    ],
-    [
-      "immigrants",
-      1,
-      "fear"
-    ],
-    [
-      "fled",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 8,
     "sadness": 10,
     "disgust": 9,
-    "anger": 117,
+    "anger": 119,
     "anticipation": 25
   }
 }
