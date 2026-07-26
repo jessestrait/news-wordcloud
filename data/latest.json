@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-07-26T04:46:35.622Z",
+  "generated_at": "2026-07-26T05:01:37.980Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      9,
-      "anger"
-    ],
-    [
-      "iran",
-      9,
-      "anger"
-    ],
     [
       "attack",
       9,
@@ -24,6 +14,16 @@
     ],
     [
       "trump",
+      8,
+      "anger"
+    ],
+    [
+      "war",
+      8,
+      "anger"
+    ],
+    [
+      "iran",
       8,
       "anger"
     ],
@@ -126,6 +126,11 @@
       "disabled",
       3,
       "fear"
+    ],
+    [
+      "combat",
+      2,
+      "anger"
     ],
     [
       "shot",
@@ -248,8 +253,43 @@
       "anticipation"
     ],
     [
-      "friends",
-      2,
+      "scandalous",
+      1,
+      "anger"
+    ],
+    [
+      "irrational",
+      1,
+      "fear"
+    ],
+    [
+      "fury",
+      1,
+      "anger"
+    ],
+    [
+      "ruining",
+      1,
+      "fear"
+    ],
+    [
+      "disease",
+      1,
+      "anger"
+    ],
+    [
+      "kill",
+      1,
+      "fear"
+    ],
+    [
+      "bees",
+      1,
+      "anger"
+    ],
+    [
+      "harvests",
+      1,
       "joy"
     ],
     [
@@ -336,56 +376,16 @@
       "fight",
       1,
       "anger"
-    ],
-    [
-      "escapes",
-      1,
-      "fear"
-    ],
-    [
-      "witnessed",
-      1,
-      "trust"
-    ],
-    [
-      "devastation",
-      1,
-      "anger"
-    ],
-    [
-      "warnings",
-      1,
-      "fear"
-    ],
-    [
-      "resigns",
-      1,
-      "anger"
-    ],
-    [
-      "scandal",
-      1,
-      "fear"
-    ],
-    [
-      "celebrations",
-      1,
-      "surprise"
-    ],
-    [
-      "protesters",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 66,
-    "fear": 87,
-    "surprise": 7,
+    "joy": 18,
+    "trust": 65,
+    "fear": 89,
+    "surprise": 6,
     "sadness": 11,
     "disgust": 10,
-    "anger": 120,
+    "anger": 123,
     "anticipation": 26
   }
 }
