@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T17:08:02.230Z",
+  "generated_at": "2026-07-26T17:23:03.879Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "wildfire",
-      9,
+      10,
       "fear"
     ],
     [
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "warn",
+      5,
+      "fear"
+    ],
+    [
       "fire",
       5,
       "fear"
@@ -58,14 +63,9 @@
       "fear"
     ],
     [
-      "warn",
+      "emergency",
       4,
       "fear"
-    ],
-    [
-      "blaze",
-      4,
-      "anger"
     ],
     [
       "happened",
@@ -113,6 +113,11 @@
       "anger"
     ],
     [
+      "blaze",
+      3,
+      "anger"
+    ],
+    [
       "flee",
       3,
       "fear"
@@ -126,11 +131,6 @@
       "bomb",
       3,
       "anger"
-    ],
-    [
-      "emergency",
-      3,
-      "fear"
     ],
     [
       "level",
@@ -358,14 +358,9 @@
       "surprise"
     ],
     [
-      "prevent",
+      "suffering",
       1,
       "fear"
-    ],
-    [
-      "approaching",
-      1,
-      "anticipation"
     ],
     [
       "times",
@@ -376,16 +371,21 @@
       "scandalous",
       1,
       "anger"
+    ],
+    [
+      "irrational",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 72,
-    "fear": 92,
+    "fear": 95,
     "surprise": 10,
     "sadness": 11,
     "disgust": 9,
-    "anger": 114,
-    "anticipation": 22
+    "anger": 113,
+    "anticipation": 21
   }
 }
