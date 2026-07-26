@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-26T17:53:22.477Z",
+  "generated_at": "2026-07-26T18:08:24.925Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      12,
+      11,
       "anger"
     ],
     [
@@ -78,12 +78,12 @@
       "trust"
     ],
     [
-      "authorities",
+      "police",
       3,
-      "trust"
+      "fear"
     ],
     [
-      "police",
+      "operation",
       3,
       "fear"
     ],
@@ -163,6 +163,16 @@
       "fear"
     ],
     [
+      "officials",
+      2,
+      "trust"
+    ],
+    [
+      "shot",
+      2,
+      "anger"
+    ],
+    [
       "forced",
       2,
       "fear"
@@ -191,6 +201,11 @@
       "home",
       2,
       "joy"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
     ],
     [
       "deadly",
@@ -253,11 +268,6 @@
       "trust"
     ],
     [
-      "operation",
-      2,
-      "fear"
-    ],
-    [
       "middle",
       2,
       "sadness"
@@ -283,14 +293,14 @@
       "trust"
     ],
     [
-      "rampage",
+      "shoot",
       1,
       "anger"
     ],
     [
-      "terror",
+      "rampage",
       1,
-      "fear"
+      "anger"
     ],
     [
       "fatal",
@@ -366,16 +376,6 @@
       "coming",
       1,
       "anticipation"
-    ],
-    [
-      "scandalous",
-      1,
-      "anger"
-    ],
-    [
-      "irrational",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 10,
     "sadness": 11,
     "disgust": 9,
-    "anger": 114,
+    "anger": 115,
     "anticipation": 21
   }
 }
