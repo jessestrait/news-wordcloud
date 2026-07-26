@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-26T15:37:24.199Z",
+  "generated_at": "2026-07-26T15:52:25.803Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      11,
+      13,
       "anger"
     ],
     [
@@ -16,6 +16,11 @@
       "iran",
       8,
       "anger"
+    ],
+    [
+      "world",
+      7,
+      "trust"
     ],
     [
       "trump",
@@ -38,11 +43,6 @@
       "anger"
     ],
     [
-      "world",
-      6,
-      "trust"
-    ],
-    [
       "strike",
       6,
       "anger"
@@ -51,11 +51,6 @@
       "fire",
       5,
       "fear"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
     ],
     [
       "killed",
@@ -73,9 +68,9 @@
       "anger"
     ],
     [
-      "government",
+      "happened",
       4,
-      "fear"
+      "anticipation"
     ],
     [
       "president",
@@ -85,6 +80,11 @@
     [
       "base",
       4,
+      "trust"
+    ],
+    [
+      "authorities",
+      3,
       "trust"
     ],
     [
@@ -99,6 +99,11 @@
     ],
     [
       "flee",
+      3,
+      "fear"
+    ],
+    [
+      "government",
       3,
       "fear"
     ],
@@ -128,14 +133,34 @@
       "fear"
     ],
     [
-      "police",
+      "berlin",
+      2,
+      "joy"
+    ],
+    [
+      "pride",
+      2,
+      "joy"
+    ],
+    [
+      "suspect",
       2,
       "fear"
     ],
     [
-      "authorities",
+      "heritage",
       2,
       "trust"
+    ],
+    [
+      "home",
+      2,
+      "joy"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "deadly",
@@ -151,11 +176,6 @@
       "continue",
       2,
       "trust"
-    ],
-    [
-      "combat",
-      2,
-      "anger"
     ],
     [
       "shot",
@@ -253,24 +273,49 @@
       "trust"
     ],
     [
-      "suspect",
+      "rampage",
       1,
-      "fear"
+      "anger"
+    ],
+    [
+      "terrorist",
+      1,
+      "anger"
+    ],
+    [
+      "ongoing",
+      1,
+      "anticipation"
+    ],
+    [
+      "fatal",
+      1,
+      "anger"
+    ],
+    [
+      "joy",
+      1,
+      "joy"
+    ],
+    [
+      "ancient",
+      1,
+      "surprise"
+    ],
+    [
+      "gods",
+      1,
+      "surprise"
+    ],
+    [
+      "beaches",
+      1,
+      "joy"
     ],
     [
       "injured",
       1,
       "fear"
-    ],
-    [
-      "berlin",
-      1,
-      "joy"
-    ],
-    [
-      "pride",
-      1,
-      "joy"
     ],
     [
       "terrorism",
@@ -331,61 +376,16 @@
       "fury",
       1,
       "anger"
-    ],
-    [
-      "ruining",
-      1,
-      "fear"
-    ],
-    [
-      "disease",
-      1,
-      "anger"
-    ],
-    [
-      "kill",
-      1,
-      "fear"
-    ],
-    [
-      "bees",
-      1,
-      "anger"
-    ],
-    [
-      "harvests",
-      1,
-      "joy"
-    ],
-    [
-      "sitars",
-      1,
-      "joy"
-    ],
-    [
-      "edition",
-      1,
-      "anticipation"
-    ],
-    [
-      "influential",
-      1,
-      "trust"
-    ],
-    [
-      "violent",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 68,
+    "joy": 24,
+    "trust": 71,
     "fear": 89,
-    "surprise": 8,
+    "surprise": 10,
     "sadness": 10,
-    "disgust": 9,
-    "anger": 119,
-    "anticipation": 25
+    "disgust": 8,
+    "anger": 121,
+    "anticipation": 24
   }
 }
