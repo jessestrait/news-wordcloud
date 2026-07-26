@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T16:52:46.438Z",
+  "generated_at": "2026-07-26T17:07:48.318Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,6 +78,16 @@
       "trust"
     ],
     [
+      "authorities",
+      3,
+      "trust"
+    ],
+    [
+      "police",
+      3,
+      "fear"
+    ],
+    [
       "victory",
       3,
       "joy"
@@ -89,11 +99,6 @@
     ],
     [
       "leader",
-      3,
-      "trust"
-    ],
-    [
-      "authorities",
       3,
       "trust"
     ],
@@ -143,6 +148,21 @@
       "fear"
     ],
     [
+      "berlin",
+      2,
+      "joy"
+    ],
+    [
+      "pride",
+      2,
+      "joy"
+    ],
+    [
+      "suspect",
+      2,
+      "fear"
+    ],
+    [
       "forced",
       2,
       "fear"
@@ -163,21 +183,6 @@
       "disgust"
     ],
     [
-      "berlin",
-      2,
-      "joy"
-    ],
-    [
-      "pride",
-      2,
-      "joy"
-    ],
-    [
-      "suspect",
-      2,
-      "fear"
-    ],
-    [
       "heritage",
       2,
       "trust"
@@ -186,11 +191,6 @@
       "home",
       2,
       "joy"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "deadly",
@@ -283,29 +283,24 @@
       "trust"
     ],
     [
-      "obituary",
-      1,
-      "sadness"
-    ],
-    [
       "rampage",
       1,
       "anger"
     ],
     [
-      "terrorist",
+      "terror",
       1,
-      "anger"
-    ],
-    [
-      "ongoing",
-      1,
-      "anticipation"
+      "fear"
     ],
     [
       "fatal",
       1,
       "anger"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
     ],
     [
       "joy",
@@ -376,16 +371,21 @@
       "times",
       1,
       "anticipation"
+    ],
+    [
+      "scandalous",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 72,
-    "fear": 90,
+    "fear": 92,
     "surprise": 10,
     "sadness": 11,
     "disgust": 9,
-    "anger": 115,
-    "anticipation": 23
+    "anger": 114,
+    "anticipation": 22
   }
 }
