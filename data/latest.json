@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-26T16:07:27.481Z",
+  "generated_at": "2026-07-26T16:22:29.199Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      13,
+      12,
       "anger"
     ],
     [
@@ -13,17 +13,12 @@
       "fear"
     ],
     [
-      "iran",
-      8,
-      "anger"
-    ],
-    [
       "world",
-      7,
+      8,
       "trust"
     ],
     [
-      "trump",
+      "iran",
       7,
       "anger"
     ],
@@ -43,7 +38,7 @@
       "anger"
     ],
     [
-      "strike",
+      "trump",
       6,
       "anger"
     ],
@@ -51,6 +46,11 @@
       "fire",
       5,
       "fear"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
     ],
     [
       "killed",
@@ -73,13 +73,18 @@
       "anticipation"
     ],
     [
-      "president",
+      "base",
       4,
       "trust"
     ],
     [
-      "base",
-      4,
+      "victory",
+      3,
+      "joy"
+    ],
+    [
+      "leader",
+      3,
       "trust"
     ],
     [
@@ -133,6 +138,16 @@
       "fear"
     ],
     [
+      "media",
+      2,
+      "disgust"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
       "berlin",
       2,
       "joy"
@@ -178,11 +193,6 @@
       "trust"
     ],
     [
-      "shot",
-      2,
-      "anger"
-    ],
-    [
       "leave",
       2,
       "sadness"
@@ -191,11 +201,6 @@
       "evacuated",
       2,
       "fear"
-    ],
-    [
-      "victory",
-      2,
-      "joy"
     ],
     [
       "youth",
@@ -218,7 +223,7 @@
       "sadness"
     ],
     [
-      "leaders",
+      "president",
       2,
       "trust"
     ],
@@ -258,11 +263,6 @@
       "fear"
     ],
     [
-      "rising",
-      2,
-      "joy"
-    ],
-    [
       "show",
       2,
       "trust"
@@ -271,6 +271,21 @@
       "system",
       2,
       "trust"
+    ],
+    [
+      "fear",
+      1,
+      "anger"
+    ],
+    [
+      "collapsed",
+      1,
+      "fear"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
     ],
     [
       "rampage",
@@ -361,31 +376,16 @@
       "times",
       1,
       "anticipation"
-    ],
-    [
-      "scandalous",
-      1,
-      "anger"
-    ],
-    [
-      "irrational",
-      1,
-      "fear"
-    ],
-    [
-      "fury",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 71,
-    "fear": 89,
+    "fear": 90,
     "surprise": 10,
-    "sadness": 10,
-    "disgust": 8,
-    "anger": 121,
-    "anticipation": 24
+    "sadness": 11,
+    "disgust": 9,
+    "anger": 115,
+    "anticipation": 23
   }
 }
