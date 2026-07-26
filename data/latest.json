@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T14:36:45.367Z",
+  "generated_at": "2026-07-26T14:51:47.500Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "anticipation"
     ],
     [
+      "warn",
+      4,
+      "fear"
+    ],
+    [
       "killed",
       4,
       "fear"
@@ -66,11 +71,6 @@
       "blaze",
       4,
       "anger"
-    ],
-    [
-      "warn",
-      4,
-      "fear"
     ],
     [
       "government",
@@ -128,6 +128,16 @@
       "fear"
     ],
     [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
       "police",
       2,
       "fear"
@@ -141,16 +151,6 @@
       "deadly",
       2,
       "anger"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "combat",
@@ -253,6 +253,16 @@
       "trust"
     ],
     [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "weighs",
+      1,
+      "trust"
+    ],
+    [
       "suspect",
       1,
       "fear"
@@ -306,16 +316,6 @@
       "times",
       1,
       "anticipation"
-    ],
-    [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "weighs",
-      1,
-      "trust"
     ],
     [
       "scandalous",
