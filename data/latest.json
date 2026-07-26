@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T12:50:54.158Z",
+  "generated_at": "2026-07-26T13:05:55.826Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,23 +8,18 @@
       "anger"
     ],
     [
-      "iran",
+      "wildfire",
       9,
+      "fear"
+    ],
+    [
+      "iran",
+      8,
       "anger"
     ],
     [
       "trump",
-      9,
-      "anger"
-    ],
-    [
-      "wildfire",
-      8,
-      "fear"
-    ],
-    [
-      "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -38,19 +33,34 @@
       "trust"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
+      "world",
+      6,
+      "trust"
+    ],
+    [
       "strike",
       6,
       "anger"
     ],
     [
-      "world",
+      "fire",
       5,
-      "trust"
+      "fear"
     ],
     [
       "happened",
       5,
       "anticipation"
+    ],
+    [
+      "blaze",
+      4,
+      "anger"
     ],
     [
       "warn",
@@ -59,11 +69,6 @@
     ],
     [
       "killed",
-      4,
-      "fear"
-    ],
-    [
-      "fire",
       4,
       "fear"
     ],
@@ -83,12 +88,12 @@
       "trust"
     ],
     [
-      "threat",
+      "battle",
       3,
       "anger"
     ],
     [
-      "blaze",
+      "threat",
       3,
       "anger"
     ],
@@ -116,11 +121,6 @@
       "launch",
       3,
       "anticipation"
-    ],
-    [
-      "risk",
-      3,
-      "fear"
     ],
     [
       "disabled",
@@ -168,11 +168,6 @@
       "fear"
     ],
     [
-      "battle",
-      2,
-      "anger"
-    ],
-    [
       "victory",
       2,
       "joy"
@@ -208,11 +203,6 @@
       "disgust"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "cap",
       2,
       "trust"
@@ -228,11 +218,6 @@
       "sadness"
     ],
     [
-      "american",
-      2,
-      "sadness"
-    ],
-    [
       "allies",
       2,
       "trust"
@@ -241,6 +226,11 @@
       "bombing",
       2,
       "anger"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
     ],
     [
       "rising",
@@ -258,8 +248,33 @@
       "trust"
     ],
     [
-      "letters",
-      2,
+      "prediction",
+      1,
+      "anticipation"
+    ],
+    [
+      "catch",
+      1,
+      "surprise"
+    ],
+    [
+      "gamblers",
+      1,
+      "surprise"
+    ],
+    [
+      "prevent",
+      1,
+      "fear"
+    ],
+    [
+      "approaching",
+      1,
+      "anticipation"
+    ],
+    [
+      "times",
+      1,
       "anticipation"
     ],
     [
@@ -361,31 +376,16 @@
       "fled",
       1,
       "fear"
-    ],
-    [
-      "anti",
-      1,
-      "anger"
-    ],
-    [
-      "demand",
-      1,
-      "anger"
-    ],
-    [
-      "villagers",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 69,
-    "fear": 88,
-    "surprise": 6,
-    "sadness": 11,
-    "disgust": 10,
-    "anger": 122,
+    "trust": 68,
+    "fear": 89,
+    "surprise": 8,
+    "sadness": 10,
+    "disgust": 9,
+    "anger": 117,
     "anticipation": 25
   }
 }
