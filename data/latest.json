@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-07-26T07:48:02.677Z",
+  "generated_at": "2026-07-26T08:03:04.344Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      9,
+      10,
       "anger"
-    ],
-    [
-      "people",
-      8,
-      "trust"
     ],
     [
       "wildfire",
@@ -31,6 +26,11 @@
       "iran",
       8,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "military",
@@ -128,14 +128,14 @@
       "fear"
     ],
     [
-      "fled",
+      "police",
       2,
       "fear"
     ],
     [
-      "police",
+      "authorities",
       2,
-      "fear"
+      "trust"
     ],
     [
       "combat",
@@ -258,6 +258,11 @@
       "anticipation"
     ],
     [
+      "suspect",
+      1,
+      "fear"
+    ],
+    [
       "injured",
       1,
       "fear"
@@ -271,11 +276,6 @@
       "pride",
       1,
       "joy"
-    ],
-    [
-      "suspect",
-      1,
-      "fear"
     ],
     [
       "scandalous",
@@ -343,6 +343,11 @@
       "fear"
     ],
     [
+      "fled",
+      1,
+      "fear"
+    ],
+    [
       "anti",
       1,
       "anger"
@@ -371,21 +376,16 @@
       "escapes",
       1,
       "fear"
-    ],
-    [
-      "witnessed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
     "trust": 66,
-    "fear": 89,
+    "fear": 88,
     "surprise": 6,
     "sadness": 11,
     "disgust": 10,
-    "anger": 122,
+    "anger": 123,
     "anticipation": 26
   }
 }
