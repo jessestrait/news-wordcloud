@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T18:38:42.653Z",
+  "generated_at": "2026-07-26T18:53:44.507Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,12 +53,12 @@
       "anger"
     ],
     [
-      "killed",
+      "warn",
       4,
       "fear"
     ],
     [
-      "warn",
+      "killed",
       4,
       "fear"
     ],
@@ -75,6 +75,16 @@
     [
       "base",
       4,
+      "trust"
+    ],
+    [
+      "bombing",
+      3,
+      "anger"
+    ],
+    [
+      "officials",
+      3,
       "trust"
     ],
     [
@@ -163,11 +173,6 @@
       "fear"
     ],
     [
-      "officials",
-      2,
-      "trust"
-    ],
-    [
       "shot",
       2,
       "anger"
@@ -211,16 +216,6 @@
       "deadly",
       2,
       "anger"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "leave",
@@ -273,11 +268,6 @@
       "sadness"
     ],
     [
-      "bombing",
-      2,
-      "anger"
-    ],
-    [
       "risk",
       2,
       "fear"
@@ -290,6 +280,21 @@
     [
       "system",
       2,
+      "trust"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "advised",
+      1,
+      "trust"
+    ],
+    [
+      "top",
+      1,
       "trust"
     ],
     [
@@ -343,16 +348,6 @@
       "anger"
     ],
     [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "weighs",
-      1,
-      "trust"
-    ],
-    [
       "prediction",
       1,
       "anticipation"
@@ -376,16 +371,21 @@
       "coming",
       1,
       "anticipation"
+    ],
+    [
+      "scandalous",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 72,
+    "joy": 23,
+    "trust": 73,
     "fear": 93,
     "surprise": 10,
     "sadness": 11,
     "disgust": 9,
-    "anger": 115,
+    "anger": 116,
     "anticipation": 21
   }
 }
