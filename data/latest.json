@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:03:18.920Z",
+  "generated_at": "2026-07-27T14:18:20.975Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,23 +8,18 @@
       "fear"
     ],
     [
-      "attack",
-      11,
-      "anger"
-    ],
-    [
       "fire",
       10,
       "fear"
     ],
     [
-      "iran",
-      9,
+      "attack",
+      10,
       "anger"
     ],
     [
-      "war",
-      8,
+      "iran",
+      9,
       "anger"
     ],
     [
@@ -33,14 +28,9 @@
       "anger"
     ],
     [
-      "strike",
+      "war",
       7,
       "anger"
-    ],
-    [
-      "people",
-      7,
-      "trust"
     ],
     [
       "military",
@@ -48,7 +38,17 @@
       "fear"
     ],
     [
+      "strike",
+      6,
+      "anger"
+    ],
+    [
       "world",
+      6,
+      "trust"
+    ],
+    [
+      "people",
       6,
       "trust"
     ],
@@ -288,6 +288,31 @@
       "anger"
     ],
     [
+      "curse",
+      1,
+      "anger"
+    ],
+    [
+      "football",
+      1,
+      "joy"
+    ],
+    [
+      "champions",
+      1,
+      "joy"
+    ],
+    [
+      "team",
+      1,
+      "trust"
+    ],
+    [
+      "winning",
+      1,
+      "disgust"
+    ],
+    [
       "advised",
       1,
       "trust"
@@ -351,41 +376,16 @@
       "ambassador",
       1,
       "trust"
-    ],
-    [
-      "shooting",
-      1,
-      "anger"
-    ],
-    [
-      "show",
-      1,
-      "trust"
-    ],
-    [
-      "unwavering",
-      1,
-      "trust"
-    ],
-    [
-      "visitor",
-      1,
-      "joy"
-    ],
-    [
-      "shoot",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 27,
     "trust": 64,
     "fear": 97,
-    "surprise": 11,
+    "surprise": 10,
     "sadness": 10,
-    "disgust": 6,
-    "anger": 121,
+    "disgust": 7,
+    "anger": 119,
     "anticipation": 18
   }
 }
