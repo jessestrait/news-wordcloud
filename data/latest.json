@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-27T10:01:17.781Z",
+  "generated_at": "2026-07-27T10:16:20.231Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      13,
+      14,
       "fear"
     ],
     [
@@ -58,16 +58,6 @@
       "fear"
     ],
     [
-      "blaze",
-      5,
-      "anger"
-    ],
-    [
-      "battle",
-      4,
-      "anger"
-    ],
-    [
       "missile",
       4,
       "fear"
@@ -88,6 +78,11 @@
       "anticipation"
     ],
     [
+      "blaze",
+      4,
+      "anger"
+    ],
+    [
       "evacuated",
       3,
       "fear"
@@ -101,6 +96,11 @@
       "warn",
       3,
       "fear"
+    ],
+    [
+      "battle",
+      3,
+      "anger"
     ],
     [
       "base",
@@ -146,11 +146,6 @@
       "bomb",
       3,
       "anger"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "bombing",
@@ -376,16 +371,21 @@
       "shoot",
       1,
       "anger"
+    ],
+    [
+      "rampage",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 65,
-    "fear": 97,
+    "trust": 64,
+    "fear": 98,
     "surprise": 11,
     "sadness": 10,
     "disgust": 6,
-    "anger": 122,
+    "anger": 120,
     "anticipation": 18
   }
 }
