@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T06:29:17.560Z",
+  "generated_at": "2026-07-27T06:44:19.480Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "fire",
-      9,
+      10,
       "fear"
     ],
     [
@@ -33,9 +33,9 @@
       "anger"
     ],
     [
-      "world",
+      "strike",
       7,
-      "trust"
+      "anger"
     ],
     [
       "people",
@@ -48,9 +48,9 @@
       "fear"
     ],
     [
-      "strike",
+      "world",
       6,
-      "anger"
+      "trust"
     ],
     [
       "government",
@@ -58,9 +58,9 @@
       "fear"
     ],
     [
-      "battle",
+      "missile",
       4,
-      "anger"
+      "fear"
     ],
     [
       "operation",
@@ -83,11 +83,6 @@
       "anger"
     ],
     [
-      "base",
-      3,
-      "trust"
-    ],
-    [
       "officials",
       3,
       "trust"
@@ -96,6 +91,16 @@
       "warn",
       3,
       "fear"
+    ],
+    [
+      "battle",
+      3,
+      "anger"
+    ],
+    [
+      "base",
+      3,
+      "trust"
     ],
     [
       "police",
@@ -138,9 +143,19 @@
       "anger"
     ],
     [
-      "disabled",
-      3,
-      "fear"
+      "bombing",
+      2,
+      "anger"
+    ],
+    [
+      "fight",
+      2,
+      "anger"
+    ],
+    [
+      "deep",
+      2,
+      "joy"
     ],
     [
       "dangerous",
@@ -148,19 +163,9 @@
       "fear"
     ],
     [
-      "show",
-      2,
-      "trust"
-    ],
-    [
       "president",
       2,
       "trust"
-    ],
-    [
-      "bombing",
-      2,
-      "anger"
     ],
     [
       "berlin",
@@ -243,11 +248,6 @@
       "anger"
     ],
     [
-      "missile",
-      2,
-      "fear"
-    ],
-    [
       "america",
       2,
       "sadness"
@@ -275,6 +275,26 @@
     [
       "launch",
       2,
+      "anticipation"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "advised",
+      1,
+      "trust"
+    ],
+    [
+      "top",
+      1,
+      "trust"
+    ],
+    [
+      "start",
+      1,
       "anticipation"
     ],
     [
@@ -338,6 +358,11 @@
       "anger"
     ],
     [
+      "show",
+      1,
+      "trust"
+    ],
+    [
       "unwavering",
       1,
       "trust"
@@ -348,44 +373,19 @@
       "joy"
     ],
     [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "advised",
-      1,
-      "trust"
-    ],
-    [
-      "top",
-      1,
-      "trust"
-    ],
-    [
       "shoot",
-      1,
-      "anger"
-    ],
-    [
-      "rampage",
-      1,
-      "anger"
-    ],
-    [
-      "fatal",
       1,
       "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 68,
-    "fear": 95,
+    "joy": 26,
+    "trust": 65,
+    "fear": 96,
     "surprise": 11,
     "sadness": 11,
     "disgust": 9,
-    "anger": 125,
-    "anticipation": 20
+    "anger": 122,
+    "anticipation": 21
   }
 }
