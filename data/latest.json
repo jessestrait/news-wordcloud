@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T22:23:00.048Z",
+  "generated_at": "2026-07-27T22:38:02.429Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,6 +273,11 @@
       "anticipation"
     ],
     [
+      "critical",
+      1,
+      "trust"
+    ],
+    [
       "diplomacy",
       1,
       "trust"
@@ -291,11 +296,6 @@
       "hit",
       1,
       "anger"
-    ],
-    [
-      "critical",
-      1,
-      "trust"
     ],
     [
       "soldier",
