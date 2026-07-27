@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T13:33:15.259Z",
+  "generated_at": "2026-07-27T13:48:17.174Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "fear"
     ],
     [
+      "officials",
+      4,
+      "trust"
+    ],
+    [
       "warn",
       4,
       "fear"
@@ -86,11 +91,6 @@
       "blaze",
       4,
       "anger"
-    ],
-    [
-      "officials",
-      3,
-      "trust"
     ],
     [
       "battle",
@@ -278,11 +278,6 @@
       "anticipation"
     ],
     [
-      "extinguish",
-      1,
-      "anger"
-    ],
-    [
       "battling",
       1,
       "anger"
@@ -376,16 +371,21 @@
       "visitor",
       1,
       "joy"
+    ],
+    [
+      "shoot",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 63,
+    "trust": 64,
     "fear": 97,
     "surprise": 11,
     "sadness": 10,
     "disgust": 6,
-    "anger": 122,
+    "anger": 121,
     "anticipation": 18
   }
 }
