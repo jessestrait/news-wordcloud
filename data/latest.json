@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T11:32:05.524Z",
+  "generated_at": "2026-07-27T11:47:07.849Z",
   "article_count": 50,
   "top_words": [
     [
@@ -288,6 +288,11 @@
       "anger"
     ],
     [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
       "advised",
       1,
       "trust"
@@ -371,11 +376,6 @@
       "visitor",
       1,
       "joy"
-    ],
-    [
-      "shoot",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 11,
     "sadness": 10,
     "disgust": 6,
-    "anger": 121,
+    "anger": 122,
     "anticipation": 18
   }
 }
