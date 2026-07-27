@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T16:19:32.435Z",
+  "generated_at": "2026-07-27T16:34:34.759Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,6 +88,11 @@
       "anticipation"
     ],
     [
+      "authorities",
+      3,
+      "trust"
+    ],
+    [
       "battle",
       3,
       "anger"
@@ -106,11 +111,6 @@
       "victory",
       3,
       "joy"
-    ],
-    [
-      "ally",
-      3,
-      "trust"
     ],
     [
       "leader",
@@ -136,6 +136,11 @@
       "bomb",
       3,
       "anger"
+    ],
+    [
+      "fled",
+      2,
+      "fear"
     ],
     [
       "bombing",
@@ -183,17 +188,12 @@
       "anger"
     ],
     [
-      "forced",
+      "ally",
       2,
-      "fear"
+      "trust"
     ],
     [
       "resign",
-      2,
-      "anger"
-    ],
-    [
-      "opposition",
       2,
       "anger"
     ],
@@ -211,11 +211,6 @@
       "killed",
       2,
       "fear"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "leave",
@@ -288,6 +283,31 @@
       "anger"
     ],
     [
+      "soldier",
+      1,
+      "anger"
+    ],
+    [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
+    ],
+    [
+      "sentenced",
+      1,
+      "anger"
+    ],
+    [
+      "murdering",
+      1,
+      "anger"
+    ],
+    [
       "damage",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "systems",
       1,
       "trust"
-    ],
-    [
-      "striking",
-      1,
-      "anger"
-    ],
-    [
-      "suffering",
-      1,
-      "fear"
-    ],
-    [
-      "coming",
-      1,
-      "anticipation"
-    ],
-    [
-      "forecast",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 63,
-    "fear": 96,
+    "joy": 26,
+    "trust": 62,
+    "fear": 97,
     "surprise": 9,
     "sadness": 10,
     "disgust": 7,
-    "anger": 117,
+    "anger": 118,
     "anticipation": 18
   }
 }
