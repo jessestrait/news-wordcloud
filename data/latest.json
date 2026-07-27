@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T03:58:05.806Z",
+  "generated_at": "2026-07-27T04:13:08.265Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "fear"
     ],
     [
-      "war",
-      8,
-      "anger"
-    ],
-    [
       "fire",
       8,
       "fear"
+    ],
+    [
+      "war",
+      8,
+      "anger"
     ],
     [
       "trump",
@@ -58,6 +58,11 @@
       "anticipation"
     ],
     [
+      "battle",
+      4,
+      "anger"
+    ],
+    [
       "warn",
       4,
       "fear"
@@ -71,11 +76,6 @@
       "killed",
       4,
       "fear"
-    ],
-    [
-      "battle",
-      4,
-      "anger"
     ],
     [
       "blaze",
@@ -273,6 +273,16 @@
       "anticipation"
     ],
     [
+      "suffering",
+      1,
+      "fear"
+    ],
+    [
+      "coming",
+      1,
+      "anticipation"
+    ],
+    [
       "ambassador",
       1,
       "trust"
@@ -366,16 +376,6 @@
       "lie",
       1,
       "anger"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "prediction",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
