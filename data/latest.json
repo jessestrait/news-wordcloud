@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T05:43:55.323Z",
+  "generated_at": "2026-07-27T05:58:57.828Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,6 +51,11 @@
       "strike",
       6,
       "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "battle",
@@ -124,11 +129,6 @@
     ],
     [
       "flee",
-      3,
-      "fear"
-    ],
-    [
-      "government",
       3,
       "fear"
     ],
@@ -278,6 +278,26 @@
       "anticipation"
     ],
     [
+      "expose",
+      1,
+      "fear"
+    ],
+    [
+      "disillusionment",
+      1,
+      "anger"
+    ],
+    [
+      "public",
+      1,
+      "anticipation"
+    ],
+    [
+      "defiance",
+      1,
+      "anger"
+    ],
+    [
       "unique",
       1,
       "surprise"
@@ -356,36 +376,16 @@
       "fatal",
       1,
       "anger"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
-    ],
-    [
-      "joy",
-      1,
-      "joy"
-    ],
-    [
-      "ancient",
-      1,
-      "surprise"
-    ],
-    [
-      "gods",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 68,
-    "fear": 94,
+    "fear": 95,
     "surprise": 11,
     "sadness": 11,
     "disgust": 9,
-    "anger": 123,
-    "anticipation": 19
+    "anger": 125,
+    "anticipation": 20
   }
 }
