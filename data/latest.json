@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T12:32:33.816Z",
+  "generated_at": "2026-07-27T12:47:36.124Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "anger"
     ],
     [
-      "people",
-      8,
-      "trust"
-    ],
-    [
       "war",
       8,
       "anger"
@@ -41,6 +36,11 @@
       "strike",
       7,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "military",
@@ -86,11 +86,6 @@
       "blaze",
       4,
       "anger"
-    ],
-    [
-      "evacuated",
-      3,
-      "fear"
     ],
     [
       "officials",
@@ -231,6 +226,11 @@
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "evacuated",
+      2,
+      "fear"
     ],
     [
       "threat",
@@ -380,8 +380,8 @@
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 64,
-    "fear": 98,
+    "trust": 63,
+    "fear": 97,
     "surprise": 11,
     "sadness": 10,
     "disgust": 6,
