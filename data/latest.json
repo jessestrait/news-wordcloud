@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T00:41:43.091Z",
+  "generated_at": "2026-07-27T00:56:44.750Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,24 @@
       "anger"
     ],
     [
-      "wildfire",
-      9,
-      "fear"
+      "war",
+      8,
+      "anger"
     ],
     [
       "world",
       8,
       "trust"
+    ],
+    [
+      "wildfire",
+      8,
+      "fear"
+    ],
+    [
+      "trump",
+      7,
+      "anger"
     ],
     [
       "iran",
@@ -31,16 +41,6 @@
       "people",
       7,
       "trust"
-    ],
-    [
-      "war",
-      7,
-      "anger"
-    ],
-    [
-      "trump",
-      6,
-      "anger"
     ],
     [
       "fire",
@@ -123,11 +123,6 @@
       "anger"
     ],
     [
-      "flee",
-      3,
-      "fear"
-    ],
-    [
       "government",
       3,
       "fear"
@@ -136,16 +131,6 @@
       "bomb",
       3,
       "anger"
-    ],
-    [
-      "emergency",
-      3,
-      "fear"
-    ],
-    [
-      "level",
-      3,
-      "trust"
     ],
     [
       "disabled",
@@ -233,6 +218,11 @@
       "anger"
     ],
     [
+      "flee",
+      2,
+      "fear"
+    ],
+    [
       "youth",
       2,
       "anger"
@@ -253,9 +243,19 @@
       "sadness"
     ],
     [
+      "emergency",
+      2,
+      "fear"
+    ],
+    [
       "waste",
       2,
       "disgust"
+    ],
+    [
+      "level",
+      2,
+      "trust"
     ],
     [
       "cap",
@@ -281,6 +281,16 @@
       "system",
       2,
       "trust"
+    ],
+    [
+      "ambassador",
+      1,
+      "trust"
+    ],
+    [
+      "shooting",
+      1,
+      "anger"
     ],
     [
       "unwavering",
@@ -366,26 +376,16 @@
       "catch",
       1,
       "surprise"
-    ],
-    [
-      "gamblers",
-      1,
-      "surprise"
-    ],
-    [
-      "suffering",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 75,
-    "fear": 92,
+    "trust": 74,
+    "fear": 89,
     "surprise": 10,
     "sadness": 11,
     "disgust": 9,
-    "anger": 114,
+    "anger": 117,
     "anticipation": 19
   }
 }
