@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T06:44:36.776Z",
+  "generated_at": "2026-07-27T06:59:39.171Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,11 +278,6 @@
       "anticipation"
     ],
     [
-      "second",
-      1,
-      "trust"
-    ],
-    [
       "advised",
       1,
       "trust"
@@ -376,11 +371,16 @@
       "shoot",
       1,
       "anger"
+    ],
+    [
+      "rampage",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 65,
+    "trust": 64,
     "fear": 96,
     "surprise": 11,
     "sadness": 11,
