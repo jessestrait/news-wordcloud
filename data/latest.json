@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-27T16:34:55.396Z",
+  "generated_at": "2026-07-27T16:49:57.199Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      14,
+      15,
       "fear"
     ],
     [
@@ -48,24 +48,19 @@
       "trust"
     ],
     [
+      "officials",
+      5,
+      "trust"
+    ],
+    [
       "blaze",
       5,
       "anger"
     ],
     [
-      "government",
-      5,
-      "fear"
-    ],
-    [
       "war",
       5,
       "anger"
-    ],
-    [
-      "officials",
-      4,
-      "trust"
     ],
     [
       "warn",
@@ -78,6 +73,11 @@
       "fear"
     ],
     [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "operation",
       4,
       "fear"
@@ -86,6 +86,11 @@
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "middle",
+      3,
+      "sadness"
     ],
     [
       "authorities",
@@ -198,11 +203,6 @@
       "anger"
     ],
     [
-      "media",
-      2,
-      "disgust"
-    ],
-    [
       "heritage",
       2,
       "trust"
@@ -214,11 +214,6 @@
     ],
     [
       "leave",
-      2,
-      "sadness"
-    ],
-    [
-      "middle",
       2,
       "sadness"
     ],
@@ -281,6 +276,11 @@
       "hit",
       1,
       "anger"
+    ],
+    [
+      "critical",
+      1,
+      "trust"
     ],
     [
       "soldier",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 62,
-    "fear": 97,
-    "surprise": 9,
-    "sadness": 10,
-    "disgust": 7,
-    "anger": 118,
+    "joy": 25,
+    "trust": 64,
+    "fear": 96,
+    "surprise": 8,
+    "sadness": 11,
+    "disgust": 6,
+    "anger": 117,
     "anticipation": 18
   }
 }
