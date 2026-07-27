@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-27T16:49:57.199Z",
+  "generated_at": "2026-07-27T17:04:59.176Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      15,
+      16,
       "fear"
     ],
     [
@@ -53,6 +53,11 @@
       "trust"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "blaze",
       5,
       "anger"
@@ -81,11 +86,6 @@
       "operation",
       4,
       "fear"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "middle",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 25,
     "trust": 64,
-    "fear": 96,
+    "fear": 97,
     "surprise": 8,
     "sadness": 11,
     "disgust": 6,
     "anger": 117,
-    "anticipation": 18
+    "anticipation": 19
   }
 }
