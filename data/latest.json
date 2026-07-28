@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-28T13:47:27.636Z",
+  "generated_at": "2026-07-28T14:02:30.098Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      18,
+      19,
       "fear"
     ],
     [
@@ -14,7 +14,7 @@
     ],
     [
       "people",
-      7,
+      8,
       "trust"
     ],
     [
@@ -43,11 +43,6 @@
       "trust"
     ],
     [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
       "warn",
       5,
       "fear"
@@ -58,19 +53,29 @@
       "anger"
     ],
     [
+      "fight",
+      4,
+      "anger"
+    ],
+    [
+      "authorities",
+      4,
+      "trust"
+    ],
+    [
       "strike",
       4,
       "anger"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "military",
       4,
       "fear"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "missile",
@@ -83,29 +88,19 @@
       "joy"
     ],
     [
-      "earthquake",
-      3,
-      "anger"
-    ],
-    [
       "missing",
       3,
       "fear"
     ],
     [
-      "america",
-      3,
-      "sadness"
-    ],
-    [
-      "authorities",
-      3,
-      "trust"
-    ],
-    [
-      "fight",
+      "earthquake",
       3,
       "anger"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "forced",
@@ -131,11 +126,6 @@
       "battle",
       3,
       "anger"
-    ],
-    [
-      "victory",
-      3,
-      "joy"
     ],
     [
       "serve",
@@ -248,14 +238,14 @@
       "fear"
     ],
     [
+      "victory",
+      2,
+      "joy"
+    ],
+    [
       "resign",
       2,
       "anger"
-    ],
-    [
-      "leader",
-      2,
-      "trust"
     ],
     [
       "deadly",
@@ -293,6 +283,11 @@
       "fear"
     ],
     [
+      "preliminary",
+      1,
+      "anticipation"
+    ],
+    [
       "injures",
       1,
       "anger"
@@ -323,14 +318,14 @@
       "anger"
     ],
     [
-      "preliminary",
-      1,
-      "anticipation"
-    ],
-    [
       "suggest",
       1,
       "trust"
+    ],
+    [
+      "america",
+      1,
+      "sadness"
     ],
     [
       "linger",
@@ -376,14 +371,19 @@
       "related",
       1,
       "trust"
+    ],
+    [
+      "confinement",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 57,
-    "fear": 98,
+    "joy": 25,
+    "trust": 56,
+    "fear": 99,
     "surprise": 11,
-    "sadness": 15,
+    "sadness": 13,
     "disgust": 3,
     "anger": 117,
     "anticipation": 18
