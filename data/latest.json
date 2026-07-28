@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-28T12:46:20.188Z",
+  "generated_at": "2026-07-28T13:01:22.279Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      16,
+      18,
       "fear"
     ],
     [
       "fire",
-      10,
+      11,
       "fear"
     ],
     [
@@ -58,11 +58,6 @@
       "anger"
     ],
     [
-      "authorities",
-      4,
-      "trust"
-    ],
-    [
       "strike",
       4,
       "anger"
@@ -86,6 +81,16 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "america",
+      3,
+      "sadness"
+    ],
+    [
+      "authorities",
+      3,
+      "trust"
     ],
     [
       "fight",
@@ -118,29 +123,19 @@
       "anger"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
       "victory",
       3,
       "joy"
     ],
     [
-      "serve",
-      2,
-      "trust"
-    ],
-    [
-      "emergency",
-      2,
-      "fear"
-    ],
-    [
       "earthquake",
       2,
       "anger"
+    ],
+    [
+      "serve",
+      2,
+      "trust"
     ],
     [
       "beach",
@@ -154,11 +149,6 @@
     ],
     [
       "anti",
-      2,
-      "anger"
-    ],
-    [
-      "crime",
       2,
       "anger"
     ],
@@ -223,6 +213,11 @@
       "joy"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
       "berlin",
       2,
       "joy"
@@ -273,9 +268,29 @@
       "fear"
     ],
     [
-      "america",
-      2,
-      "sadness"
+      "suggest",
+      1,
+      "trust"
+    ],
+    [
+      "linger",
+      1,
+      "anticipation"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
+    ],
+    [
+      "shopping",
+      1,
+      "surprise"
+    ],
+    [
+      "preliminary",
+      1,
+      "anticipation"
     ],
     [
       "alarm",
@@ -293,14 +308,9 @@
       "disgust"
     ],
     [
-      "shopping",
+      "emergency",
       1,
-      "surprise"
-    ],
-    [
-      "preliminary",
-      1,
-      "anticipation"
+      "fear"
     ],
     [
       "dawn",
@@ -366,26 +376,16 @@
       "worried",
       1,
       "sadness"
-    ],
-    [
-      "arrival",
-      1,
-      "anticipation"
-    ],
-    [
-      "enabled",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 57,
-    "fear": 97,
+    "fear": 98,
     "surprise": 10,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 3,
-    "anger": 118,
-    "anticipation": 16
+    "anger": 117,
+    "anticipation": 17
   }
 }
