@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:33:57.094Z",
+  "generated_at": "2026-07-28T16:48:59.544Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "trump",
+      6,
+      "anger"
+    ],
+    [
       "world",
       6,
       "trust"
@@ -38,6 +43,11 @@
       "anger"
     ],
     [
+      "blaze",
+      6,
+      "anger"
+    ],
+    [
       "officials",
       5,
       "trust"
@@ -48,24 +58,14 @@
       "fear"
     ],
     [
-      "blaze",
-      5,
-      "anger"
+      "authorities",
+      4,
+      "trust"
     ],
     [
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "fight",
-      4,
-      "anger"
-    ],
-    [
-      "authorities",
-      4,
-      "trust"
     ],
     [
       "strike",
@@ -78,11 +78,6 @@
       "fear"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
       "missile",
       4,
       "fear"
@@ -91,6 +86,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "evacuated",
+      3,
+      "fear"
     ],
     [
       "earthquake",
@@ -103,14 +103,14 @@
       "trust"
     ],
     [
+      "fight",
+      3,
+      "anger"
+    ],
+    [
       "forced",
       3,
       "fear"
-    ],
-    [
-      "leave",
-      3,
-      "sadness"
     ],
     [
       "government",
@@ -123,9 +123,14 @@
       "anger"
     ],
     [
-      "serve",
+      "accused",
       2,
-      "trust"
+      "anger"
+    ],
+    [
+      "protesters",
+      2,
+      "anger"
     ],
     [
       "deaths",
@@ -136,6 +141,11 @@
       "shopping",
       2,
       "surprise"
+    ],
+    [
+      "serve",
+      2,
+      "trust"
     ],
     [
       "beach",
@@ -168,11 +178,6 @@
       "trust"
     ],
     [
-      "bomb",
-      2,
-      "anger"
-    ],
-    [
       "coming",
       2,
       "anticipation"
@@ -203,14 +208,29 @@
       "anger"
     ],
     [
+      "killing",
+      2,
+      "anger"
+    ],
+    [
       "fled",
       2,
       "fear"
     ],
     [
+      "leave",
+      2,
+      "sadness"
+    ],
+    [
       "deep",
       2,
       "joy"
+    ],
+    [
+      "show",
+      2,
+      "trust"
     ],
     [
       "police",
@@ -263,9 +283,59 @@
       "fear"
     ],
     [
-      "evacuated",
-      2,
+      "vacations",
+      1,
+      "joy"
+    ],
+    [
+      "trips",
+      1,
+      "surprise"
+    ],
+    [
+      "rage",
+      1,
+      "anger"
+    ],
+    [
+      "threaten",
+      1,
+      "anger"
+    ],
+    [
+      "attempts",
+      1,
+      "anticipation"
+    ],
+    [
+      "firing",
+      1,
       "fear"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
+      "removed",
+      1,
+      "anger"
+    ],
+    [
+      "communications",
+      1,
+      "trust"
+    ],
+    [
+      "feared",
+      1,
+      "anger"
+    ],
+    [
+      "preliminary",
+      1,
+      "anticipation"
     ],
     [
       "alarm",
@@ -288,16 +358,6 @@
       "fear"
     ],
     [
-      "feared",
-      1,
-      "anger"
-    ],
-    [
-      "preliminary",
-      1,
-      "anticipation"
-    ],
-    [
       "injures",
       1,
       "anger"
@@ -316,76 +376,16 @@
       "power",
       1,
       "anticipation"
-    ],
-    [
-      "damaging",
-      1,
-      "anger"
-    ],
-    [
-      "suggest",
-      1,
-      "trust"
-    ],
-    [
-      "america",
-      1,
-      "sadness"
-    ],
-    [
-      "linger",
-      1,
-      "anticipation"
-    ],
-    [
-      "struggle",
-      1,
-      "anger"
-    ],
-    [
-      "dawn",
-      1,
-      "surprise"
-    ],
-    [
-      "raid",
-      1,
-      "anger"
-    ],
-    [
-      "seized",
-      1,
-      "fear"
-    ],
-    [
-      "crackdown",
-      1,
-      "anger"
-    ],
-    [
-      "prisoners",
-      1,
-      "anger"
-    ],
-    [
-      "jail",
-      1,
-      "fear"
-    ],
-    [
-      "related",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 55,
-    "fear": 98,
-    "surprise": 11,
-    "sadness": 14,
+    "joy": 24,
+    "trust": 52,
+    "fear": 96,
+    "surprise": 12,
+    "sadness": 13,
     "disgust": 3,
-    "anger": 118,
+    "anger": 120,
     "anticipation": 19
   }
 }
