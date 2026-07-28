@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T18:50:06.107Z",
+  "generated_at": "2026-07-28T19:05:07.873Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anger"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "officials",
       5,
       "trust"
@@ -61,11 +66,6 @@
       "authorities",
       4,
       "trust"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "strike",
@@ -386,6 +386,6 @@
     "sadness": 12,
     "disgust": 3,
     "anger": 121,
-    "anticipation": 19
+    "anticipation": 20
   }
 }
