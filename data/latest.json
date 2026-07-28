@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:01:50.633Z",
+  "generated_at": "2026-07-28T13:16:53.317Z",
   "article_count": 50,
   "top_words": [
     [
@@ -268,21 +268,6 @@
       "fear"
     ],
     [
-      "suggest",
-      1,
-      "trust"
-    ],
-    [
-      "linger",
-      1,
-      "anticipation"
-    ],
-    [
-      "struggle",
-      1,
-      "anger"
-    ],
-    [
       "shopping",
       1,
       "surprise"
@@ -311,6 +296,21 @@
       "emergency",
       1,
       "fear"
+    ],
+    [
+      "suggest",
+      1,
+      "trust"
+    ],
+    [
+      "linger",
+      1,
+      "anticipation"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
     ],
     [
       "dawn",
