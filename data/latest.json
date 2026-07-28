@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:30:51.903Z",
+  "generated_at": "2026-07-28T11:45:53.761Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "anger"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
       "world",
       6,
       "trust"
@@ -31,11 +36,6 @@
       "attack",
       6,
       "anger"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "officials",
@@ -56,6 +56,11 @@
       "blaze",
       5,
       "anger"
+    ],
+    [
+      "authorities",
+      4,
+      "trust"
     ],
     [
       "strike",
@@ -98,11 +103,6 @@
       "anticipation"
     ],
     [
-      "authorities",
-      3,
-      "trust"
-    ],
-    [
       "leave",
       3,
       "sadness"
@@ -138,14 +138,14 @@
       "fear"
     ],
     [
-      "beach",
-      2,
-      "joy"
-    ],
-    [
       "earthquake",
       2,
       "anger"
+    ],
+    [
+      "beach",
+      2,
+      "joy"
     ],
     [
       "execution",
@@ -293,26 +293,6 @@
       "disgust"
     ],
     [
-      "seized",
-      1,
-      "fear"
-    ],
-    [
-      "crackdown",
-      1,
-      "anger"
-    ],
-    [
-      "dawn",
-      1,
-      "surprise"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
       "shopping",
       1,
       "surprise"
@@ -321,6 +301,21 @@
       "preliminary",
       1,
       "anticipation"
+    ],
+    [
+      "dawn",
+      1,
+      "surprise"
+    ],
+    [
+      "raid",
+      1,
+      "anger"
+    ],
+    [
+      "seized",
+      1,
+      "fear"
     ],
     [
       "prisoners",
@@ -376,11 +371,16 @@
       "enabled",
       1,
       "trust"
+    ],
+    [
+      "track",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 55,
+    "joy": 26,
+    "trust": 57,
     "fear": 97,
     "surprise": 10,
     "sadness": 13,
