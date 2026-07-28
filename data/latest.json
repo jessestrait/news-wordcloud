@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:15:28.940Z",
+  "generated_at": "2026-07-28T11:30:30.830Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "world",
       6,
       "trust"
+    ],
+    [
+      "war",
+      6,
+      "anger"
     ],
     [
       "attack",
@@ -128,11 +128,6 @@
       "joy"
     ],
     [
-      "earthquake",
-      2,
-      "anger"
-    ],
-    [
       "serve",
       2,
       "trust"
@@ -141,6 +136,16 @@
       "emergency",
       2,
       "fear"
+    ],
+    [
+      "beach",
+      2,
+      "joy"
+    ],
+    [
+      "earthquake",
+      2,
+      "anger"
     ],
     [
       "execution",
@@ -273,16 +278,6 @@
       "sadness"
     ],
     [
-      "shopping",
-      1,
-      "surprise"
-    ],
-    [
-      "preliminary",
-      1,
-      "anticipation"
-    ],
-    [
       "alarm",
       1,
       "fear"
@@ -296,6 +291,36 @@
       "worsening",
       1,
       "disgust"
+    ],
+    [
+      "seized",
+      1,
+      "fear"
+    ],
+    [
+      "crackdown",
+      1,
+      "anger"
+    ],
+    [
+      "dawn",
+      1,
+      "surprise"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "shopping",
+      1,
+      "surprise"
+    ],
+    [
+      "preliminary",
+      1,
+      "anticipation"
     ],
     [
       "prisoners",
@@ -351,41 +376,16 @@
       "enabled",
       1,
       "trust"
-    ],
-    [
-      "track",
-      1,
-      "anticipation"
-    ],
-    [
-      "fell",
-      1,
-      "sadness"
-    ],
-    [
-      "fleeing",
-      1,
-      "fear"
-    ],
-    [
-      "evacuate",
-      1,
-      "fear"
-    ],
-    [
-      "failure",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
     "trust": 55,
     "fear": 97,
-    "surprise": 9,
-    "sadness": 14,
+    "surprise": 10,
+    "sadness": 13,
     "disgust": 3,
-    "anger": 119,
-    "anticipation": 17
+    "anger": 117,
+    "anticipation": 16
   }
 }
