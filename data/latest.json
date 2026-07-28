@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:53:53.279Z",
+  "generated_at": "2026-07-28T00:08:55.225Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "fear"
     ],
     [
+      "war",
+      6,
+      "anger"
+    ],
+    [
       "blaze",
       6,
       "anger"
@@ -63,11 +68,6 @@
       "anger"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "people",
       5,
       "trust"
@@ -86,6 +86,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "middle",
@@ -138,14 +143,14 @@
       "fear"
     ],
     [
-      "bomb",
-      3,
-      "anger"
-    ],
-    [
       "coming",
       2,
       "anticipation"
+    ],
+    [
+      "soldier",
+      2,
+      "anger"
     ],
     [
       "fled",
@@ -171,11 +176,6 @@
       "deep",
       2,
       "joy"
-    ],
-    [
-      "president",
-      2,
-      "trust"
     ],
     [
       "berlin",
@@ -228,17 +228,17 @@
       "fear"
     ],
     [
-      "threat",
-      2,
-      "anger"
-    ],
-    [
       "youth",
       2,
       "anger"
     ],
     [
       "challenge",
+      2,
+      "anger"
+    ],
+    [
+      "bomb",
       2,
       "anger"
     ],
@@ -253,16 +253,6 @@
       "fear"
     ],
     [
-      "waste",
-      2,
-      "disgust"
-    ],
-    [
-      "level",
-      2,
-      "trust"
-    ],
-    [
       "cap",
       2,
       "trust"
@@ -271,6 +261,36 @@
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "crossing",
+      1,
+      "anger"
+    ],
+    [
+      "serves",
+      1,
+      "trust"
+    ],
+    [
+      "supply",
+      1,
+      "fear"
+    ],
+    [
+      "surveillance",
+      1,
+      "fear"
+    ],
+    [
+      "investigation",
+      1,
+      "anticipation"
+    ],
+    [
+      "argues",
+      1,
+      "anger"
     ],
     [
       "critical",
@@ -294,11 +314,6 @@
     ],
     [
       "hit",
-      1,
-      "anger"
-    ],
-    [
-      "soldier",
       1,
       "anger"
     ],
@@ -361,31 +376,16 @@
       "team",
       1,
       "trust"
-    ],
-    [
-      "winning",
-      1,
-      "disgust"
-    ],
-    [
-      "advised",
-      1,
-      "trust"
-    ],
-    [
-      "top",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 62,
-    "fear": 95,
+    "fear": 97,
     "surprise": 8,
     "sadness": 12,
-    "disgust": 5,
-    "anger": 122,
+    "disgust": 4,
+    "anger": 124,
     "anticipation": 19
   }
 }
