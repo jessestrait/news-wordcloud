@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T10:30:01.138Z",
+  "generated_at": "2026-07-28T10:45:03.681Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "warn",
-      6,
-      "fear"
-    ],
-    [
       "trump",
       5,
       "anger"
@@ -50,6 +45,16 @@
     [
       "blaze",
       5,
+      "anger"
+    ],
+    [
+      "authorities",
+      4,
+      "trust"
+    ],
+    [
+      "battle",
+      4,
       "anger"
     ],
     [
@@ -64,6 +69,11 @@
     ],
     [
       "military",
+      4,
+      "fear"
+    ],
+    [
+      "warn",
       4,
       "fear"
     ],
@@ -98,11 +108,6 @@
       "anticipation"
     ],
     [
-      "authorities",
-      3,
-      "trust"
-    ],
-    [
       "leave",
       3,
       "sadness"
@@ -111,11 +116,6 @@
       "government",
       3,
       "fear"
-    ],
-    [
-      "battle",
-      3,
-      "anger"
     ],
     [
       "police",
@@ -128,12 +128,12 @@
       "joy"
     ],
     [
-      "massive",
+      "serve",
       2,
-      "anger"
+      "trust"
     ],
     [
-      "difficult",
+      "emergency",
       2,
       "fear"
     ],
@@ -268,6 +268,16 @@
       "sadness"
     ],
     [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
       "prisoners",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "times",
       1,
       "anticipation"
-    ],
-    [
-      "shelter",
-      1,
-      "trust"
-    ],
-    [
-      "critical",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 58,
-    "fear": 97,
+    "trust": 60,
+    "fear": 95,
     "surprise": 8,
     "sadness": 14,
-    "disgust": 3,
+    "disgust": 4,
     "anger": 117,
-    "anticipation": 15
+    "anticipation": 16
   }
 }
