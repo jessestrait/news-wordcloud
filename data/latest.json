@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-28T01:24:38.962Z",
+  "generated_at": "2026-07-28T01:39:41.405Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      16,
+      15,
       "fear"
     ],
     [
@@ -58,11 +58,6 @@
       "fear"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "strike",
       5,
       "anger"
@@ -71,6 +66,11 @@
       "people",
       5,
       "trust"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "missile",
@@ -141,6 +141,11 @@
       "flee",
       3,
       "fear"
+    ],
+    [
+      "threat",
+      2,
+      "anger"
     ],
     [
       "coming",
@@ -253,14 +258,34 @@
       "fear"
     ],
     [
-      "cap",
-      2,
-      "trust"
-    ],
-    [
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "bottom",
+      1,
+      "sadness"
+    ],
+    [
+      "blockade",
+      1,
+      "anger"
+    ],
+    [
+      "closure",
+      1,
+      "sadness"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
     ],
     [
       "crossing",
@@ -351,41 +376,16 @@
       "intense",
       1,
       "anger"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
-    ],
-    [
-      "curse",
-      1,
-      "anger"
-    ],
-    [
-      "football",
-      1,
-      "joy"
-    ],
-    [
-      "champions",
-      1,
-      "joy"
-    ],
-    [
-      "team",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 62,
+    "trust": 61,
     "fear": 97,
     "surprise": 8,
-    "sadness": 12,
+    "sadness": 14,
     "disgust": 4,
-    "anger": 124,
-    "anticipation": 19
+    "anger": 126,
+    "anticipation": 17
   }
 }
