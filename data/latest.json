@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T15:03:00.721Z",
+  "generated_at": "2026-07-28T15:18:02.742Z",
   "article_count": 50,
   "top_words": [
     [
@@ -128,14 +128,14 @@
       "anger"
     ],
     [
-      "serve",
-      2,
-      "trust"
-    ],
-    [
       "shopping",
       2,
       "surprise"
+    ],
+    [
+      "serve",
+      2,
+      "trust"
     ],
     [
       "beach",
@@ -263,6 +263,11 @@
       "fear"
     ],
     [
+      "preliminary",
+      1,
+      "anticipation"
+    ],
+    [
       "alarm",
       1,
       "fear"
@@ -281,11 +286,6 @@
       "emergency",
       1,
       "fear"
-    ],
-    [
-      "preliminary",
-      1,
-      "anticipation"
     ],
     [
       "injures",
