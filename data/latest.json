@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T15:48:29.445Z",
+  "generated_at": "2026-07-28T16:03:31.895Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,11 +93,6 @@
       "anger"
     ],
     [
-      "missing",
-      3,
-      "fear"
-    ],
-    [
       "president",
       3,
       "trust"
@@ -128,6 +123,11 @@
       "anger"
     ],
     [
+      "deaths",
+      2,
+      "sadness"
+    ],
+    [
       "shopping",
       2,
       "surprise"
@@ -151,6 +151,11 @@
       "anti",
       2,
       "anger"
+    ],
+    [
+      "missing",
+      2,
+      "fear"
     ],
     [
       "surveillance",
@@ -263,32 +268,7 @@
       "fear"
     ],
     [
-      "injures",
-      1,
-      "anger"
-    ],
-    [
-      "deaths",
-      1,
-      "sadness"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "quake",
-      1,
-      "fear"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
-    ],
-    [
-      "damaging",
+      "feared",
       1,
       "anger"
     ],
@@ -316,6 +296,31 @@
       "emergency",
       1,
       "fear"
+    ],
+    [
+      "injures",
+      1,
+      "anger"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "quake",
+      1,
+      "fear"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "damaging",
+      1,
+      "anger"
     ],
     [
       "suggest",
@@ -371,21 +376,16 @@
       "related",
       1,
       "trust"
-    ],
-    [
-      "confinement",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 55,
-    "fear": 99,
+    "fear": 98,
     "surprise": 11,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 3,
-    "anger": 117,
+    "anger": 118,
     "anticipation": 18
   }
 }
