@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T15:33:26.858Z",
+  "generated_at": "2026-07-28T15:48:29.445Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
@@ -88,14 +88,14 @@
       "joy"
     ],
     [
-      "missing",
-      3,
-      "fear"
-    ],
-    [
       "earthquake",
       3,
       "anger"
+    ],
+    [
+      "missing",
+      3,
+      "fear"
     ],
     [
       "president",
@@ -263,31 +263,6 @@
       "fear"
     ],
     [
-      "preliminary",
-      1,
-      "anticipation"
-    ],
-    [
-      "alarm",
-      1,
-      "fear"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
       "injures",
       1,
       "anger"
@@ -316,6 +291,31 @@
       "damaging",
       1,
       "anger"
+    ],
+    [
+      "preliminary",
+      1,
+      "anticipation"
+    ],
+    [
+      "alarm",
+      1,
+      "fear"
+    ],
+    [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
     ],
     [
       "suggest",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 56,
+    "trust": 55,
     "fear": 99,
     "surprise": 11,
     "sadness": 13,
