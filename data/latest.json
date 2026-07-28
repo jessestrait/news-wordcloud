@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T14:17:32.558Z",
+  "generated_at": "2026-07-28T14:32:35.149Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,14 +88,14 @@
       "joy"
     ],
     [
-      "earthquake",
-      3,
-      "anger"
-    ],
-    [
       "missing",
       3,
       "fear"
+    ],
+    [
+      "earthquake",
+      3,
+      "anger"
     ],
     [
       "president",
@@ -263,6 +263,31 @@
       "fear"
     ],
     [
+      "preliminary",
+      1,
+      "anticipation"
+    ],
+    [
+      "alarm",
+      1,
+      "fear"
+    ],
+    [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
       "injures",
       1,
       "anger"
@@ -291,31 +316,6 @@
       "damaging",
       1,
       "anger"
-    ],
-    [
-      "alarm",
-      1,
-      "fear"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "preliminary",
-      1,
-      "anticipation"
     ],
     [
       "suggest",
