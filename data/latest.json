@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T17:04:21.048Z",
+  "generated_at": "2026-07-28T17:19:23.625Z",
   "article_count": 50,
   "top_words": [
     [
@@ -134,6 +134,11 @@
     ],
     [
       "accused",
+      2,
+      "anger"
+    ],
+    [
+      "shooting",
       2,
       "anger"
     ],
@@ -318,16 +323,6 @@
       "anticipation"
     ],
     [
-      "firing",
-      1,
-      "fear"
-    ],
-    [
-      "leaving",
-      1,
-      "sadness"
-    ],
-    [
       "removed",
       1,
       "anger"
@@ -376,16 +371,21 @@
       "power",
       1,
       "anticipation"
+    ],
+    [
+      "damaging",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 52,
-    "fear": 96,
+    "fear": 95,
     "surprise": 12,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 3,
-    "anger": 120,
+    "anger": 121,
     "anticipation": 19
   }
 }
