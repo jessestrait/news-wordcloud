@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:31:56.282Z",
+  "generated_at": "2026-07-28T13:46:58.741Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,14 +138,14 @@
       "joy"
     ],
     [
-      "shopping",
-      2,
-      "surprise"
-    ],
-    [
       "serve",
       2,
       "trust"
+    ],
+    [
+      "shopping",
+      2,
+      "surprise"
     ],
     [
       "beach",
@@ -273,6 +273,26 @@
       "fear"
     ],
     [
+      "alarm",
+      1,
+      "fear"
+    ],
+    [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
       "injures",
       1,
       "anger"
@@ -306,26 +326,6 @@
       "preliminary",
       1,
       "anticipation"
-    ],
-    [
-      "alarm",
-      1,
-      "fear"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
     ],
     [
       "suggest",
