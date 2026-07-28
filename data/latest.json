@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:56:30.440Z",
+  "generated_at": "2026-07-28T04:11:32.678Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,11 +9,6 @@
     ],
     [
       "attack",
-      10,
-      "anger"
-    ],
-    [
-      "iran",
       9,
       "anger"
     ],
@@ -24,7 +19,12 @@
     ],
     [
       "war",
-      7,
+      8,
+      "anger"
+    ],
+    [
+      "iran",
+      8,
       "anger"
     ],
     [
@@ -83,6 +83,11 @@
       "joy"
     ],
     [
+      "bomb",
+      3,
+      "anger"
+    ],
+    [
       "president",
       3,
       "trust"
@@ -111,11 +116,6 @@
       "battle",
       3,
       "anger"
-    ],
-    [
-      "base",
-      3,
-      "trust"
     ],
     [
       "police",
@@ -173,11 +173,6 @@
       "fear"
     ],
     [
-      "bombing",
-      2,
-      "anger"
-    ],
-    [
       "fight",
       2,
       "anger"
@@ -186,6 +181,11 @@
       "deep",
       2,
       "joy"
+    ],
+    [
+      "base",
+      2,
+      "trust"
     ],
     [
       "berlin",
@@ -243,11 +243,6 @@
       "anger"
     ],
     [
-      "bomb",
-      2,
-      "anger"
-    ],
-    [
       "america",
       2,
       "sadness"
@@ -261,6 +256,21 @@
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "saved",
+      1,
+      "joy"
+    ],
+    [
+      "times",
+      1,
+      "anticipation"
+    ],
+    [
+      "shelter",
+      1,
+      "trust"
     ],
     [
       "critical",
@@ -366,26 +376,16 @@
       "sentenced",
       1,
       "anger"
-    ],
-    [
-      "murdering",
-      1,
-      "anger"
-    ],
-    [
-      "disaster",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 60,
-    "fear": 95,
+    "joy": 27,
+    "trust": 59,
+    "fear": 93,
     "surprise": 8,
     "sadness": 14,
     "disgust": 4,
-    "anger": 127,
-    "anticipation": 17
+    "anger": 126,
+    "anticipation": 18
   }
 }
