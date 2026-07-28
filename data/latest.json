@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T01:40:01.531Z",
+  "generated_at": "2026-07-28T01:55:03.955Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,19 +23,24 @@
       "fear"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
       "trump",
       7,
       "anger"
     ],
     [
       "military",
-      7,
+      6,
       "fear"
     ],
     [
-      "war",
+      "officials",
       6,
-      "anger"
+      "trust"
     ],
     [
       "blaze",
@@ -45,11 +50,6 @@
     [
       "world",
       6,
-      "trust"
-    ],
-    [
-      "officials",
-      5,
       "trust"
     ],
     [
@@ -74,11 +74,6 @@
     ],
     [
       "missile",
-      4,
-      "fear"
-    ],
-    [
-      "operation",
       4,
       "fear"
     ],
@@ -128,6 +123,11 @@
       "fear"
     ],
     [
+      "operation",
+      3,
+      "fear"
+    ],
+    [
       "victory",
       3,
       "joy"
@@ -140,6 +140,11 @@
     [
       "flee",
       3,
+      "fear"
+    ],
+    [
+      "killed",
+      2,
       "fear"
     ],
     [
@@ -223,11 +228,6 @@
       "trust"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "evacuated",
       2,
       "fear"
@@ -261,6 +261,16 @@
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "disastrous",
+      1,
+      "anger"
+    ],
+    [
+      "court",
+      1,
+      "anger"
     ],
     [
       "bottom",
@@ -366,26 +376,16 @@
       "disaster",
       1,
       "anger"
-    ],
-    [
-      "fear",
-      1,
-      "anger"
-    ],
-    [
-      "intense",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 61,
-    "fear": 97,
+    "trust": 60,
+    "fear": 95,
     "surprise": 8,
     "sadness": 14,
     "disgust": 4,
-    "anger": 126,
+    "anger": 127,
     "anticipation": 17
   }
 }
