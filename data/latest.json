@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T22:52:30.228Z",
+  "generated_at": "2026-07-28T23:07:31.962Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,17 +13,22 @@
       "fear"
     ],
     [
+      "war",
+      8,
+      "anger"
+    ],
+    [
       "people",
       8,
       "trust"
     ],
     [
-      "war",
+      "trump",
       7,
       "anger"
     ],
     [
-      "trump",
+      "iran",
       6,
       "anger"
     ],
@@ -33,9 +38,19 @@
       "trust"
     ],
     [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
       "blaze",
       6,
       "anger"
+    ],
+    [
+      "military",
+      5,
+      "fear"
     ],
     [
       "happened",
@@ -43,19 +58,9 @@
       "anticipation"
     ],
     [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
       "officials",
       5,
       "trust"
-    ],
-    [
-      "attack",
-      5,
-      "anger"
     ],
     [
       "warn",
@@ -66,11 +71,6 @@
       "authorities",
       4,
       "trust"
-    ],
-    [
-      "military",
-      4,
-      "fear"
     ],
     [
       "home",
@@ -113,24 +113,29 @@
       "fear"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "battle",
       3,
       "anger"
     ],
     [
-      "obituary",
+      "show",
+      3,
+      "trust"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
+      "america",
       2,
       "sadness"
     ],
     [
-      "accused",
+      "obituary",
       2,
-      "anger"
+      "sadness"
     ],
     [
       "shooting",
@@ -233,9 +238,9 @@
       "joy"
     ],
     [
-      "show",
+      "government",
       2,
-      "trust"
+      "fear"
     ],
     [
       "police",
@@ -293,6 +298,36 @@
       "fear"
     ],
     [
+      "demand",
+      2,
+      "anger"
+    ],
+    [
+      "bombed",
+      1,
+      "anger"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
+      "unable",
+      1,
+      "sadness"
+    ],
+    [
+      "enforce",
+      1,
+      "anger"
+    ],
+    [
+      "ground",
+      1,
+      "trust"
+    ],
+    [
       "injures",
       1,
       "anger"
@@ -301,11 +336,6 @@
       "quake",
       1,
       "fear"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
     ],
     [
       "damaging",
@@ -346,46 +376,16 @@
       "rage",
       1,
       "anger"
-    ],
-    [
-      "threaten",
-      1,
-      "anger"
-    ],
-    [
-      "attempts",
-      1,
-      "anticipation"
-    ],
-    [
-      "removed",
-      1,
-      "anger"
-    ],
-    [
-      "communications",
-      1,
-      "trust"
-    ],
-    [
-      "alarm",
-      1,
-      "fear"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 53,
-    "fear": 94,
-    "surprise": 13,
-    "sadness": 13,
+    "joy": 23,
+    "trust": 55,
+    "fear": 93,
+    "surprise": 12,
+    "sadness": 16,
     "disgust": 3,
-    "anger": 116,
-    "anticipation": 19
+    "anger": 120,
+    "anticipation": 20
   }
 }
