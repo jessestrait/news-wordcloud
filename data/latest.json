@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T02:25:34.117Z",
+  "generated_at": "2026-07-28T02:40:36.362Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
-      "military",
-      6,
-      "fear"
-    ],
-    [
       "officials",
       6,
       "trust"
+    ],
+    [
+      "military",
+      6,
+      "fear"
     ],
     [
       "blaze",
@@ -143,6 +143,11 @@
       "fear"
     ],
     [
+      "coming",
+      2,
+      "anticipation"
+    ],
+    [
       "killed",
       2,
       "fear"
@@ -151,11 +156,6 @@
       "threat",
       2,
       "anger"
-    ],
-    [
-      "coming",
-      2,
-      "anticipation"
     ],
     [
       "soldier",
@@ -263,6 +263,11 @@
       "anticipation"
     ],
     [
+      "critical",
+      1,
+      "trust"
+    ],
+    [
       "disastrous",
       1,
       "anger"
@@ -326,11 +331,6 @@
       "argues",
       1,
       "anger"
-    ],
-    [
-      "critical",
-      1,
-      "trust"
     ],
     [
       "diplomacy",
