@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-07-28T05:57:29.761Z",
+  "generated_at": "2026-07-28T06:12:31.726Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
       15,
       "fear"
-    ],
-    [
-      "attack",
-      9,
-      "anger"
     ],
     [
       "fire",
@@ -23,12 +18,12 @@
       "anger"
     ],
     [
-      "iran",
+      "attack",
       8,
       "anger"
     ],
     [
-      "trump",
+      "iran",
       7,
       "anger"
     ],
@@ -38,9 +33,9 @@
       "trust"
     ],
     [
-      "military",
+      "trump",
       6,
-      "fear"
+      "anger"
     ],
     [
       "blaze",
@@ -53,14 +48,14 @@
       "trust"
     ],
     [
-      "warn",
+      "military",
       5,
       "fear"
     ],
     [
-      "strike",
+      "warn",
       5,
-      "anger"
+      "fear"
     ],
     [
       "people",
@@ -68,14 +63,14 @@
       "trust"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "missile",
       4,
       "fear"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
     ],
     [
       "home",
@@ -93,9 +88,9 @@
       "trust"
     ],
     [
-      "middle",
+      "happened",
       3,
-      "sadness"
+      "anticipation"
     ],
     [
       "authorities",
@@ -143,6 +138,11 @@
       "fear"
     ],
     [
+      "system",
+      2,
+      "trust"
+    ],
+    [
       "coming",
       2,
       "anticipation"
@@ -156,6 +156,11 @@
       "threat",
       2,
       "anger"
+    ],
+    [
+      "middle",
+      2,
+      "sadness"
     ],
     [
       "soldier",
@@ -183,11 +188,6 @@
       "joy"
     ],
     [
-      "base",
-      2,
-      "trust"
-    ],
-    [
       "berlin",
       2,
       "joy"
@@ -206,11 +206,6 @@
       "shot",
       2,
       "anger"
-    ],
-    [
-      "ally",
-      2,
-      "trust"
     ],
     [
       "resign",
@@ -256,6 +251,21 @@
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "failure",
+      1,
+      "fear"
+    ],
+    [
+      "change",
+      1,
+      "fear"
+    ],
+    [
+      "collapse",
+      1,
+      "fear"
     ],
     [
       "saved",
@@ -366,26 +376,16 @@
       "jailed",
       1,
       "fear"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
-      "sentenced",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 59,
-    "fear": 93,
+    "joy": 26,
+    "trust": 58,
+    "fear": 95,
     "surprise": 8,
-    "sadness": 14,
+    "sadness": 12,
     "disgust": 4,
-    "anger": 126,
-    "anticipation": 18
+    "anger": 121,
+    "anticipation": 17
   }
 }
