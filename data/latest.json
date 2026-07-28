@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-28T07:28:20.292Z",
+  "generated_at": "2026-07-28T07:43:22.693Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      15,
+      16,
       "fear"
     ],
     [
       "fire",
-      9,
+      10,
       "fear"
     ],
     [
@@ -19,11 +19,6 @@
     ],
     [
       "attack",
-      8,
-      "anger"
-    ],
-    [
-      "iran",
       7,
       "anger"
     ],
@@ -33,9 +28,14 @@
       "trust"
     ],
     [
-      "trump",
+      "iran",
       6,
       "anger"
+    ],
+    [
+      "warn",
+      6,
+      "fear"
     ],
     [
       "blaze",
@@ -53,9 +53,9 @@
       "fear"
     ],
     [
-      "warn",
+      "trump",
       5,
-      "fear"
+      "anger"
     ],
     [
       "people",
@@ -66,11 +66,6 @@
       "missile",
       4,
       "fear"
-    ],
-    [
-      "strike",
-      4,
-      "anger"
     ],
     [
       "home",
@@ -101,6 +96,11 @@
       "leave",
       3,
       "sadness"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
     ],
     [
       "government",
@@ -135,6 +135,16 @@
     [
       "flee",
       3,
+      "fear"
+    ],
+    [
+      "massive",
+      2,
+      "anger"
+    ],
+    [
+      "difficult",
+      2,
       "fear"
     ],
     [
@@ -246,11 +256,6 @@
       "emergency",
       2,
       "fear"
-    ],
-    [
-      "launch",
-      2,
-      "anticipation"
     ],
     [
       "failure",
@@ -371,21 +376,16 @@
       "hit",
       1,
       "anger"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 58,
-    "fear": 95,
+    "fear": 98,
     "surprise": 8,
     "sadness": 12,
     "disgust": 4,
-    "anger": 121,
-    "anticipation": 17
+    "anger": 117,
+    "anticipation": 16
   }
 }
