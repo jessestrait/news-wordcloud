@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:49:18.531Z",
+  "generated_at": "2026-07-28T17:04:21.048Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,14 +88,14 @@
       "joy"
     ],
     [
-      "evacuated",
-      3,
-      "fear"
-    ],
-    [
       "earthquake",
       3,
       "anger"
+    ],
+    [
+      "evacuated",
+      3,
+      "fear"
     ],
     [
       "president",
@@ -123,16 +123,6 @@
       "anger"
     ],
     [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
-      "protesters",
-      2,
-      "anger"
-    ],
-    [
       "deaths",
       2,
       "sadness"
@@ -141,6 +131,16 @@
       "shopping",
       2,
       "surprise"
+    ],
+    [
+      "accused",
+      2,
+      "anger"
+    ],
+    [
+      "protesters",
+      2,
+      "anger"
     ],
     [
       "serve",
@@ -283,6 +283,16 @@
       "fear"
     ],
     [
+      "feared",
+      1,
+      "anger"
+    ],
+    [
+      "preliminary",
+      1,
+      "anticipation"
+    ],
+    [
       "vacations",
       1,
       "joy"
@@ -326,16 +336,6 @@
       "communications",
       1,
       "trust"
-    ],
-    [
-      "feared",
-      1,
-      "anger"
-    ],
-    [
-      "preliminary",
-      1,
-      "anticipation"
     ],
     [
       "alarm",
