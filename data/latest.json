@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T22:07:10.745Z",
+  "generated_at": "2026-07-28T22:22:12.438Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "fear"
     ],
     [
+      "people",
+      8,
+      "trust"
+    ],
+    [
       "war",
       7,
       "anger"
-    ],
-    [
-      "people",
-      7,
-      "trust"
     ],
     [
       "trump",
@@ -83,6 +83,11 @@
       "anger"
     ],
     [
+      "shopping",
+      3,
+      "surprise"
+    ],
+    [
       "evacuated",
       3,
       "fear"
@@ -121,16 +126,6 @@
       "obituary",
       2,
       "sadness"
-    ],
-    [
-      "deaths",
-      2,
-      "sadness"
-    ],
-    [
-      "shopping",
-      2,
-      "surprise"
     ],
     [
       "accused",
@@ -293,7 +288,37 @@
       "fear"
     ],
     [
+      "kill",
+      2,
+      "fear"
+    ],
+    [
+      "injures",
+      1,
+      "anger"
+    ],
+    [
+      "quake",
+      1,
+      "fear"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "damaging",
+      1,
+      "anger"
+    ],
+    [
       "refugee",
+      1,
+      "sadness"
+    ],
+    [
+      "deaths",
       1,
       "sadness"
     ],
@@ -351,41 +376,16 @@
       "plan",
       1,
       "anticipation"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "injures",
-      1,
-      "anger"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "quake",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 52,
-    "fear": 93,
-    "surprise": 12,
-    "sadness": 14,
+    "trust": 53,
+    "fear": 94,
+    "surprise": 13,
+    "sadness": 13,
     "disgust": 3,
     "anger": 116,
-    "anticipation": 20
+    "anticipation": 19
   }
 }
