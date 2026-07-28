@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T12:00:55.624Z",
+  "generated_at": "2026-07-28T12:15:57.530Z",
   "article_count": 50,
   "top_words": [
     [
@@ -128,11 +128,6 @@
       "joy"
     ],
     [
-      "earthquake",
-      2,
-      "anger"
-    ],
-    [
       "serve",
       2,
       "trust"
@@ -141,6 +136,11 @@
       "emergency",
       2,
       "fear"
+    ],
+    [
+      "earthquake",
+      2,
+      "anger"
     ],
     [
       "beach",
@@ -278,16 +278,6 @@
       "sadness"
     ],
     [
-      "shopping",
-      1,
-      "surprise"
-    ],
-    [
-      "preliminary",
-      1,
-      "anticipation"
-    ],
-    [
       "alarm",
       1,
       "fear"
@@ -301,6 +291,16 @@
       "worsening",
       1,
       "disgust"
+    ],
+    [
+      "shopping",
+      1,
+      "surprise"
+    ],
+    [
+      "preliminary",
+      1,
+      "anticipation"
     ],
     [
       "dawn",
