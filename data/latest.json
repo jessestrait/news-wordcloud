@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:16:53.317Z",
+  "generated_at": "2026-07-28T13:31:56.282Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "fear"
     ],
     [
+      "people",
+      7,
+      "trust"
+    ],
+    [
       "iran",
       7,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "world",
@@ -83,6 +83,16 @@
       "joy"
     ],
     [
+      "earthquake",
+      3,
+      "anger"
+    ],
+    [
+      "missing",
+      3,
+      "fear"
+    ],
+    [
       "america",
       3,
       "sadness"
@@ -128,9 +138,9 @@
       "joy"
     ],
     [
-      "earthquake",
+      "shopping",
       2,
-      "anger"
+      "surprise"
     ],
     [
       "serve",
@@ -151,11 +161,6 @@
       "anti",
       2,
       "anger"
-    ],
-    [
-      "missing",
-      2,
-      "fear"
     ],
     [
       "surveillance",
@@ -268,9 +273,34 @@
       "fear"
     ],
     [
-      "shopping",
+      "injures",
       1,
-      "surprise"
+      "anger"
+    ],
+    [
+      "deaths",
+      1,
+      "sadness"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "quake",
+      1,
+      "fear"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "damaging",
+      1,
+      "anger"
     ],
     [
       "preliminary",
@@ -346,46 +376,16 @@
       "related",
       1,
       "trust"
-    ],
-    [
-      "confinement",
-      1,
-      "anger"
-    ],
-    [
-      "blames",
-      1,
-      "anger"
-    ],
-    [
-      "ideas",
-      1,
-      "trust"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
-    ],
-    [
-      "succeed",
-      1,
-      "surprise"
-    ],
-    [
-      "worried",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 57,
     "fear": 98,
-    "surprise": 10,
-    "sadness": 14,
+    "surprise": 11,
+    "sadness": 15,
     "disgust": 3,
     "anger": 117,
-    "anticipation": 17
+    "anticipation": 18
   }
 }
