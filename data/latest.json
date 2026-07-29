@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:29:02.156Z",
+  "generated_at": "2026-07-29T10:44:04.402Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
-      "warn",
-      6,
-      "fear"
-    ],
-    [
       "earthquake",
       6,
       "anger"
+    ],
+    [
+      "warn",
+      6,
+      "fear"
     ],
     [
       "trump",
@@ -143,14 +143,14 @@
       "anger"
     ],
     [
-      "threat",
-      2,
-      "anger"
-    ],
-    [
       "rescue",
       2,
       "surprise"
+    ],
+    [
+      "threat",
+      2,
+      "anger"
     ],
     [
       "strait",
@@ -273,16 +273,6 @@
       "anticipation"
     ],
     [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
       "continuing",
       1,
       "trust"
@@ -291,6 +281,16 @@
       "powerful",
       1,
       "anger"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
     ],
     [
       "forces",
