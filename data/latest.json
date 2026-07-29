@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:46:41.220Z",
+  "generated_at": "2026-07-29T15:01:43.497Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,14 +63,19 @@
       "fear"
     ],
     [
+      "authorities",
+      4,
+      "trust"
+    ],
+    [
       "emergency",
       4,
       "fear"
     ],
     [
-      "authorities",
+      "happened",
       4,
-      "trust"
+      "anticipation"
     ],
     [
       "deep",
@@ -116,11 +121,6 @@
       "shopping",
       3,
       "surprise"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "president",
@@ -253,6 +253,21 @@
       "fear"
     ],
     [
+      "risks",
+      1,
+      "fear"
+    ],
+    [
+      "progress",
+      1,
+      "joy"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
       "hearing",
       1,
       "fear"
@@ -323,21 +338,6 @@
       "anger"
     ],
     [
-      "risks",
-      1,
-      "fear"
-    ],
-    [
-      "progress",
-      1,
-      "joy"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
       "bears",
       1,
       "anger"
@@ -386,6 +386,6 @@
     "sadness": 19,
     "disgust": 3,
     "anger": 114,
-    "anticipation": 25
+    "anticipation": 26
   }
 }
