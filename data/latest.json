@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-29T13:15:45.603Z",
+  "generated_at": "2026-07-29T13:30:48.171Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      16,
+      15,
       "fear"
     ],
     [
       "fire",
-      8,
+      9,
       "fear"
     ],
     [
@@ -93,11 +93,6 @@
       "trust"
     ],
     [
-      "emergency",
-      3,
-      "fear"
-    ],
-    [
       "fear",
       3,
       "anger"
@@ -106,6 +101,11 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "emergency",
+      3,
+      "fear"
     ],
     [
       "strike",
@@ -136,11 +136,6 @@
       "rescue",
       2,
       "surprise"
-    ],
-    [
-      "battle",
-      2,
-      "anger"
     ],
     [
       "damage",
@@ -263,14 +258,9 @@
       "fear"
     ],
     [
-      "continuing",
+      "risks",
       1,
-      "trust"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
+      "fear"
     ],
     [
       "progress",
@@ -281,6 +271,16 @@
       "expected",
       1,
       "anticipation"
+    ],
+    [
+      "continuing",
+      1,
+      "trust"
+    ],
+    [
+      "powerful",
+      1,
+      "anger"
     ],
     [
       "bears",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 20,
     "trust": 55,
-    "fear": 86,
+    "fear": 87,
     "surprise": 9,
     "sadness": 19,
     "disgust": 4,
-    "anger": 115,
+    "anger": 114,
     "anticipation": 22
   }
 }
