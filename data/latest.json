@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T02:39:31.763Z",
+  "generated_at": "2026-07-29T02:54:34.123Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,6 +298,11 @@
       "anger"
     ],
     [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
       "thought",
       1,
       "anticipation"
@@ -306,11 +311,6 @@
       "delight",
       1,
       "joy"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
     ],
     [
       "economy",
