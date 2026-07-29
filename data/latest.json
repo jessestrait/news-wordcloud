@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T17:48:23.521Z",
+  "generated_at": "2026-07-29T18:03:26.560Z",
   "article_count": 50,
   "top_words": [
     [
@@ -148,6 +148,16 @@
       "anger"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "alarm",
+      2,
+      "fear"
+    ],
+    [
       "evacuated",
       2,
       "fear"
@@ -181,16 +191,6 @@
       "rescue",
       2,
       "surprise"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
-      "alarm",
-      2,
-      "fear"
     ],
     [
       "damage",
@@ -298,6 +298,16 @@
       "surprise"
     ],
     [
+      "battles",
+      1,
+      "anger"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
       "devastation",
       1,
       "anger"
@@ -364,16 +374,6 @@
     ],
     [
       "deny",
-      1,
-      "anger"
-    ],
-    [
-      "arrives",
-      1,
-      "anticipation"
-    ],
-    [
-      "grim",
       1,
       "anger"
     ]
