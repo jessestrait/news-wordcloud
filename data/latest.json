@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T16:32:34.249Z",
+  "generated_at": "2026-07-29T16:47:36.236Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "fear"
     ],
     [
+      "warn",
+      7,
+      "fear"
+    ],
+    [
       "war",
       7,
       "anger"
@@ -21,11 +26,6 @@
       "authorities",
       6,
       "trust"
-    ],
-    [
-      "warn",
-      6,
-      "fear"
     ],
     [
       "death",
@@ -156,6 +156,16 @@
       "rescue",
       2,
       "surprise"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "alarm",
+      2,
+      "fear"
     ],
     [
       "damage",
@@ -366,22 +376,12 @@
       "continuing",
       1,
       "trust"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "tackling",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 53,
-    "fear": 88,
+    "trust": 54,
+    "fear": 91,
     "surprise": 10,
     "sadness": 20,
     "disgust": 3,
