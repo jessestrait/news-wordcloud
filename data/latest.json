@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T18:33:48.601Z",
+  "generated_at": "2026-07-29T18:48:51.150Z",
   "article_count": 50,
   "top_words": [
     [
@@ -358,11 +358,6 @@
       "anticipation"
     ],
     [
-      "homeless",
-      1,
-      "anger"
-    ],
-    [
       "bad",
       1,
       "anger"
@@ -376,6 +371,11 @@
       "deny",
       1,
       "anger"
+    ],
+    [
+      "arrives",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 9,
     "sadness": 21,
     "disgust": 4,
-    "anger": 119,
+    "anger": 118,
     "anticipation": 25
   }
 }
