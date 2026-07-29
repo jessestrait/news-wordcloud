@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-07-29T03:09:36.393Z",
+  "generated_at": "2026-07-29T03:24:38.848Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      18,
+      16,
       "fear"
     ],
     [
       "fire",
-      11,
+      10,
       "fear"
+    ],
+    [
+      "attack",
+      9,
+      "anger"
     ],
     [
       "war",
@@ -18,14 +23,9 @@
       "anger"
     ],
     [
-      "attack",
+      "iran",
       8,
       "anger"
-    ],
-    [
-      "people",
-      7,
-      "trust"
     ],
     [
       "military",
@@ -38,19 +38,14 @@
       "anger"
     ],
     [
-      "iran",
-      6,
-      "anger"
-    ],
-    [
-      "world",
+      "people",
       6,
       "trust"
     ],
     [
-      "happened",
+      "world",
       5,
-      "anticipation"
+      "trust"
     ],
     [
       "officials",
@@ -63,11 +58,6 @@
       "fear"
     ],
     [
-      "blaze",
-      5,
-      "anger"
-    ],
-    [
       "earthquake",
       4,
       "anger"
@@ -78,9 +68,24 @@
       "fear"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "authorities",
       4,
       "trust"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
+      "blaze",
+      4,
+      "anger"
     ],
     [
       "show",
@@ -93,19 +98,24 @@
       "joy"
     ],
     [
-      "shopping",
+      "death",
       3,
-      "surprise"
+      "sadness"
     ],
     [
-      "evacuated",
+      "missile",
       3,
       "fear"
     ],
     [
-      "strike",
+      "middle",
       3,
-      "anger"
+      "sadness"
+    ],
+    [
+      "shopping",
+      3,
+      "surprise"
     ],
     [
       "president",
@@ -118,17 +128,27 @@
       "anger"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "missing",
       2,
       "fear"
     ],
     [
       "quake",
+      2,
+      "fear"
+    ],
+    [
+      "fighting",
+      2,
+      "anger"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "hormuz",
       2,
       "fear"
     ],
@@ -146,6 +166,11 @@
       "obituary",
       2,
       "sadness"
+    ],
+    [
+      "evacuated",
+      2,
+      "fear"
     ],
     [
       "shooting",
@@ -198,11 +223,6 @@
       "anger"
     ],
     [
-      "middle",
-      2,
-      "sadness"
-    ],
-    [
       "hit",
       2,
       "anger"
@@ -231,11 +251,6 @@
       "team",
       2,
       "trust"
-    ],
-    [
-      "missile",
-      2,
-      "fear"
     ],
     [
       "deep",
@@ -333,59 +348,44 @@
       "fear"
     ],
     [
-      "bombed",
+      "unexpected",
+      1,
+      "fear"
+    ],
+    [
+      "toxic",
+      1,
+      "disgust"
+    ],
+    [
+      "found",
+      1,
+      "joy"
+    ],
+    [
+      "surprise",
+      1,
+      "fear"
+    ],
+    [
+      "forces",
       1,
       "anger"
     ],
     [
-      "leaving",
+      "lull",
       1,
-      "sadness"
-    ],
-    [
-      "unable",
-      1,
-      "sadness"
-    ],
-    [
-      "enforce",
-      1,
-      "anger"
-    ],
-    [
-      "ground",
-      1,
-      "trust"
-    ],
-    [
-      "injures",
-      1,
-      "anger"
-    ],
-    [
-      "damaging",
-      1,
-      "anger"
-    ],
-    [
-      "refugee",
-      1,
-      "sadness"
-    ],
-    [
-      "feared",
-      1,
-      "anger"
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 59,
+    "joy": 24,
+    "trust": 56,
     "fear": 93,
     "surprise": 12,
-    "sadness": 17,
-    "disgust": 3,
-    "anger": 116,
+    "sadness": 19,
+    "disgust": 4,
+    "anger": 122,
     "anticipation": 21
   }
 }
