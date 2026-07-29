@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T13:45:51.819Z",
+  "generated_at": "2026-07-29T14:00:54.314Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,6 +93,11 @@
       "trust"
     ],
     [
+      "emergency",
+      3,
+      "fear"
+    ],
+    [
       "fear",
       3,
       "anger"
@@ -101,11 +106,6 @@
       "hit",
       3,
       "anger"
-    ],
-    [
-      "emergency",
-      3,
-      "fear"
     ],
     [
       "strike",
@@ -258,6 +258,16 @@
       "fear"
     ],
     [
+      "continuing",
+      1,
+      "trust"
+    ],
+    [
+      "powerful",
+      1,
+      "anger"
+    ],
+    [
       "risks",
       1,
       "fear"
@@ -271,16 +281,6 @@
       "expected",
       1,
       "anticipation"
-    ],
-    [
-      "continuing",
-      1,
-      "trust"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
     ],
     [
       "bears",
