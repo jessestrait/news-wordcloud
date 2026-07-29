@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-29T02:24:12.652Z",
+  "generated_at": "2026-07-29T02:39:14.508Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      19,
+      18,
       "fear"
     ],
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "people",
-      8,
-      "trust"
-    ],
-    [
       "attack",
       8,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "military",
@@ -48,11 +48,6 @@
       "trust"
     ],
     [
-      "blaze",
-      6,
-      "anger"
-    ],
-    [
       "happened",
       5,
       "anticipation"
@@ -68,6 +63,11 @@
       "fear"
     ],
     [
+      "blaze",
+      5,
+      "anger"
+    ],
+    [
       "earthquake",
       4,
       "anger"
@@ -79,6 +79,11 @@
     ],
     [
       "authorities",
+      4,
+      "trust"
+    ],
+    [
+      "show",
       4,
       "trust"
     ],
@@ -111,16 +116,6 @@
       "fight",
       3,
       "anger"
-    ],
-    [
-      "battle",
-      3,
-      "anger"
-    ],
-    [
-      "show",
-      3,
-      "trust"
     ],
     [
       "death",
@@ -253,6 +248,11 @@
       "fear"
     ],
     [
+      "battle",
+      2,
+      "anger"
+    ],
+    [
       "police",
       2,
       "fear"
@@ -288,11 +288,6 @@
       "anger"
     ],
     [
-      "flee",
-      2,
-      "fear"
-    ],
-    [
       "kill",
       2,
       "fear"
@@ -301,6 +296,16 @@
       "demand",
       2,
       "anger"
+    ],
+    [
+      "thought",
+      1,
+      "anticipation"
+    ],
+    [
+      "delight",
+      1,
+      "joy"
     ],
     [
       "rescue",
@@ -371,21 +376,16 @@
       "feared",
       1,
       "anger"
-    ],
-    [
-      "preliminary",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 23,
     "trust": 59,
-    "fear": 96,
+    "fear": 93,
     "surprise": 12,
     "sadness": 17,
     "disgust": 3,
-    "anger": 118,
-    "anticipation": 20
+    "anger": 116,
+    "anticipation": 21
   }
 }
