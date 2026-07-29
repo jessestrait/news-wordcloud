@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-07-29T17:17:55.390Z",
+  "generated_at": "2026-07-29T17:32:57.214Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      13,
+      14,
+      "fear"
+    ],
+    [
+      "fire",
+      8,
       "fear"
     ],
     [
@@ -18,14 +23,14 @@
       "anger"
     ],
     [
-      "fire",
-      7,
-      "fear"
-    ],
-    [
       "iran",
       6,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "authorities",
@@ -58,16 +63,6 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
-      "government",
-      5,
-      "fear"
-    ],
-    [
       "military",
       5,
       "fear"
@@ -98,9 +93,19 @@
       "anger"
     ],
     [
+      "struggle",
+      3,
+      "anger"
+    ],
+    [
       "killing",
       3,
       "anger"
+    ],
+    [
+      "home",
+      3,
+      "joy"
     ],
     [
       "fear",
@@ -111,6 +116,11 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "shows",
@@ -133,6 +143,16 @@
       "trust"
     ],
     [
+      "militia",
+      2,
+      "anger"
+    ],
+    [
+      "evacuated",
+      2,
+      "fear"
+    ],
+    [
       "crime",
       2,
       "anger"
@@ -141,16 +161,6 @@
       "obituary",
       2,
       "sadness"
-    ],
-    [
-      "home",
-      2,
-      "joy"
-    ],
-    [
-      "militia",
-      2,
-      "anger"
     ],
     [
       "found",
@@ -243,11 +253,6 @@
       "trust"
     ],
     [
-      "struggle",
-      2,
-      "anger"
-    ],
-    [
       "execution",
       2,
       "anger"
@@ -276,6 +281,26 @@
       "missile",
       2,
       "fear"
+    ],
+    [
+      "analysts",
+      1,
+      "trust"
+    ],
+    [
+      "complicates",
+      1,
+      "anger"
+    ],
+    [
+      "unpredictable",
+      1,
+      "surprise"
+    ],
+    [
+      "devastation",
+      1,
+      "anger"
     ],
     [
       "guilty",
@@ -323,21 +348,6 @@
       "anticipation"
     ],
     [
-      "analysts",
-      1,
-      "trust"
-    ],
-    [
-      "complicates",
-      1,
-      "anger"
-    ],
-    [
-      "unpredictable",
-      1,
-      "surprise"
-    ],
-    [
       "homeless",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "grim",
       1,
       "anger"
-    ],
-    [
-      "regularity",
-      1,
-      "trust"
-    ],
-    [
-      "worse",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 49,
+    "joy": 20,
+    "trust": 50,
     "fear": 86,
     "surprise": 9,
     "sadness": 21,
     "disgust": 4,
     "anger": 119,
-    "anticipation": 26
+    "anticipation": 25
   }
 }
