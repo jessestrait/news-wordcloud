@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T07:12:16.881Z",
+  "generated_at": "2026-07-29T07:27:19.767Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,16 @@
       "anger"
     ],
     [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
+      "earthquake",
+      5,
+      "anger"
+    ],
+    [
       "iran",
       5,
       "anger"
@@ -39,11 +49,6 @@
     ],
     [
       "people",
-      5,
-      "trust"
-    ],
-    [
-      "world",
       5,
       "trust"
     ],
@@ -63,16 +68,6 @@
       "fear"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
-      "earthquake",
-      4,
-      "anger"
-    ],
-    [
       "forced",
       4,
       "fear"
@@ -84,6 +79,11 @@
     ],
     [
       "authorities",
+      4,
+      "trust"
+    ],
+    [
+      "world",
       4,
       "trust"
     ],
@@ -123,9 +123,24 @@
       "trust"
     ],
     [
+      "team",
+      3,
+      "trust"
+    ],
+    [
       "home",
       3,
       "joy"
+    ],
+    [
+      "rescue",
+      2,
+      "surprise"
+    ],
+    [
+      "emergency",
+      2,
+      "fear"
     ],
     [
       "fear",
@@ -238,11 +253,6 @@
       "anger"
     ],
     [
-      "team",
-      2,
-      "trust"
-    ],
-    [
       "battle",
       2,
       "anger"
@@ -268,11 +278,6 @@
       "fear"
     ],
     [
-      "shot",
-      2,
-      "anger"
-    ],
-    [
       "operation",
       2,
       "fear"
@@ -281,6 +286,16 @@
       "kill",
       2,
       "fear"
+    ],
+    [
+      "continuing",
+      1,
+      "trust"
+    ],
+    [
+      "powerful",
+      1,
+      "anger"
     ],
     [
       "harm",
@@ -343,11 +358,6 @@
       "anger"
     ],
     [
-      "rescue",
-      1,
-      "surprise"
-    ],
-    [
       "thought",
       1,
       "anticipation"
@@ -366,26 +376,16 @@
       "banking",
       1,
       "trust"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
-      "crippling",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 25,
     "trust": 55,
-    "fear": 92,
-    "surprise": 13,
-    "sadness": 18,
+    "fear": 93,
+    "surprise": 14,
+    "sadness": 19,
     "disgust": 4,
-    "anger": 115,
-    "anticipation": 21
+    "anger": 116,
+    "anticipation": 20
   }
 }
