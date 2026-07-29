@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-29T08:27:46.358Z",
+  "generated_at": "2026-07-29T08:42:48.694Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      15,
+      16,
       "fear"
     ],
     [
@@ -28,9 +28,9 @@
       "anger"
     ],
     [
-      "government",
+      "authorities",
       5,
-      "fear"
+      "trust"
     ],
     [
       "death",
@@ -41,6 +41,11 @@
       "earthquake",
       5,
       "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "iran",
@@ -68,6 +73,11 @@
       "fear"
     ],
     [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
       "deep",
       4,
       "joy"
@@ -83,16 +93,6 @@
       "anticipation"
     ],
     [
-      "authorities",
-      4,
-      "trust"
-    ],
-    [
-      "world",
-      4,
-      "trust"
-    ],
-    [
       "blaze",
       4,
       "anger"
@@ -103,19 +103,24 @@
       "trust"
     ],
     [
+      "fear",
+      3,
+      "anger"
+    ],
+    [
       "missile",
       3,
       "fear"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "shopping",
       3,
       "surprise"
+    ],
+    [
+      "world",
+      3,
+      "trust"
     ],
     [
       "president",
@@ -141,11 +146,6 @@
       "emergency",
       2,
       "fear"
-    ],
-    [
-      "fear",
-      2,
-      "anger"
     ],
     [
       "strait",
@@ -283,12 +283,22 @@
       "fear"
     ],
     [
-      "buried",
+      "warnings",
       1,
       "fear"
     ],
     [
-      "fate",
+      "risk",
+      1,
+      "fear"
+    ],
+    [
+      "progress",
+      1,
+      "joy"
+    ],
+    [
+      "expected",
       1,
       "anticipation"
     ],
@@ -301,6 +311,16 @@
       "powerful",
       1,
       "anger"
+    ],
+    [
+      "buried",
+      1,
+      "fear"
+    ],
+    [
+      "fate",
+      1,
+      "anticipation"
     ],
     [
       "harm",
@@ -356,36 +376,16 @@
       "spikes",
       1,
       "fear"
-    ],
-    [
-      "fighting",
-      1,
-      "anger"
-    ],
-    [
-      "thought",
-      1,
-      "anticipation"
-    ],
-    [
-      "delight",
-      1,
-      "joy"
-    ],
-    [
-      "economy",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 55,
-    "fear": 92,
-    "surprise": 14,
+    "fear": 95,
+    "surprise": 12,
     "sadness": 19,
     "disgust": 4,
-    "anger": 111,
+    "anger": 113,
     "anticipation": 21
   }
 }
