@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T03:54:57.461Z",
+  "generated_at": "2026-07-29T04:09:59.661Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      10,
+      9,
       "anger"
     ],
     [
@@ -19,11 +19,6 @@
     ],
     [
       "war",
-      8,
-      "anger"
-    ],
-    [
-      "iran",
       7,
       "anger"
     ],
@@ -36,6 +31,11 @@
       "people",
       6,
       "trust"
+    ],
+    [
+      "iran",
+      5,
+      "anger"
     ],
     [
       "military",
@@ -56,6 +56,11 @@
       "warn",
       5,
       "fear"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "earthquake",
@@ -98,19 +103,9 @@
       "anger"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "shopping",
       3,
       "surprise"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "president",
@@ -126,6 +121,11 @@
       "home",
       3,
       "joy"
+    ],
+    [
+      "fear",
+      2,
+      "anger"
     ],
     [
       "strait",
@@ -183,6 +183,11 @@
       "joy"
     ],
     [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
       "execution",
       2,
       "anger"
@@ -216,11 +221,6 @@
       "killed",
       2,
       "fear"
-    ],
-    [
-      "middle",
-      2,
-      "sadness"
     ],
     [
       "soldier",
@@ -288,11 +288,6 @@
       "fear"
     ],
     [
-      "deadly",
-      2,
-      "anger"
-    ],
-    [
       "kill",
       2,
       "fear"
@@ -300,6 +295,21 @@
     [
       "demand",
       2,
+      "anger"
+    ],
+    [
+      "escalating",
+      1,
+      "anger"
+    ],
+    [
+      "true",
+      1,
+      "joy"
+    ],
+    [
+      "mortality",
+      1,
       "anger"
     ],
     [
@@ -366,26 +376,16 @@
       "unexpected",
       1,
       "fear"
-    ],
-    [
-      "toxic",
-      1,
-      "disgust"
-    ],
-    [
-      "found",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 55,
     "fear": 91,
     "surprise": 13,
     "sadness": 19,
     "disgust": 4,
-    "anger": 120,
+    "anger": 117,
     "anticipation": 20
   }
 }
