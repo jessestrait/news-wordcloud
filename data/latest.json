@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T03:24:53.896Z",
+  "generated_at": "2026-07-29T03:39:55.781Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,22 +8,17 @@
       "fear"
     ],
     [
+      "attack",
+      10,
+      "anger"
+    ],
+    [
       "fire",
       10,
       "fear"
     ],
     [
-      "attack",
-      9,
-      "anger"
-    ],
-    [
       "war",
-      8,
-      "anger"
-    ],
-    [
-      "iran",
       8,
       "anger"
     ],
@@ -34,6 +29,11 @@
     ],
     [
       "trump",
+      6,
+      "anger"
+    ],
+    [
+      "iran",
       6,
       "anger"
     ],
@@ -78,11 +78,6 @@
       "trust"
     ],
     [
-      "strike",
-      4,
-      "anger"
-    ],
-    [
       "blaze",
       4,
       "anger"
@@ -98,9 +93,9 @@
       "joy"
     ],
     [
-      "death",
+      "hit",
       3,
-      "sadness"
+      "anger"
     ],
     [
       "missile",
@@ -108,7 +103,7 @@
       "fear"
     ],
     [
-      "middle",
+      "death",
       3,
       "sadness"
     ],
@@ -116,6 +111,11 @@
       "shopping",
       3,
       "surprise"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
     ],
     [
       "president",
@@ -128,27 +128,22 @@
       "anger"
     ],
     [
-      "missing",
-      2,
-      "fear"
-    ],
-    [
-      "quake",
-      2,
-      "fear"
-    ],
-    [
-      "fighting",
-      2,
-      "anger"
-    ],
-    [
       "strait",
       2,
       "fear"
     ],
     [
       "hormuz",
+      2,
+      "fear"
+    ],
+    [
+      "missing",
+      2,
+      "fear"
+    ],
+    [
+      "quake",
       2,
       "fear"
     ],
@@ -223,9 +218,9 @@
       "anger"
     ],
     [
-      "hit",
+      "middle",
       2,
-      "anger"
+      "sadness"
     ],
     [
       "soldier",
@@ -313,6 +308,26 @@
       "anger"
     ],
     [
+      "thwarting",
+      1,
+      "surprise"
+    ],
+    [
+      "surprise",
+      1,
+      "fear"
+    ],
+    [
+      "spikes",
+      1,
+      "fear"
+    ],
+    [
+      "fighting",
+      1,
+      "anger"
+    ],
+    [
       "rescue",
       1,
       "surprise"
@@ -361,31 +376,16 @@
       "found",
       1,
       "joy"
-    ],
-    [
-      "surprise",
-      1,
-      "fear"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
-    ],
-    [
-      "lull",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 56,
-    "fear": 93,
-    "surprise": 12,
-    "sadness": 19,
+    "fear": 94,
+    "surprise": 13,
+    "sadness": 18,
     "disgust": 4,
-    "anger": 122,
-    "anticipation": 21
+    "anger": 118,
+    "anticipation": 20
   }
 }
