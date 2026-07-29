@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T15:47:09.352Z",
+  "generated_at": "2026-07-29T16:02:13.065Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anger"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
       "people",
       5,
       "trust"
@@ -76,11 +81,6 @@
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "strike",
-      4,
-      "anger"
     ],
     [
       "deep",
@@ -133,12 +133,7 @@
       "anticipation"
     ],
     [
-      "striking",
-      2,
-      "anger"
-    ],
-    [
-      "forces",
+      "militia",
       2,
       "anger"
     ],
@@ -318,19 +313,14 @@
       "trust"
     ],
     [
-      "associated",
-      1,
-      "trust"
-    ],
-    [
       "complicates",
       1,
       "anger"
     ],
     [
-      "chaotic",
+      "unpredictable",
       1,
-      "anger"
+      "surprise"
     ],
     [
       "homeless",
@@ -376,16 +366,26 @@
       "continuing",
       1,
       "trust"
+    ],
+    [
+      "powerful",
+      1,
+      "anger"
+    ],
+    [
+      "tackling",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 54,
+    "trust": 53,
     "fear": 88,
-    "surprise": 9,
+    "surprise": 10,
     "sadness": 20,
     "disgust": 3,
-    "anger": 115,
+    "anger": 114,
     "anticipation": 27
   }
 }
