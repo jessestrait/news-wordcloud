@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:16:19.992Z",
+  "generated_at": "2026-07-29T14:31:21.809Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,6 +138,11 @@
       "surprise"
     ],
     [
+      "invokes",
+      2,
+      "anticipation"
+    ],
+    [
       "damage",
       2,
       "anger"
@@ -188,11 +193,6 @@
       "sadness"
     ],
     [
-      "obituary",
-      2,
-      "sadness"
-    ],
-    [
       "threaten",
       2,
       "anger"
@@ -216,11 +216,6 @@
       "execution",
       2,
       "anger"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "fight",
@@ -281,6 +276,36 @@
       "expected",
       1,
       "anticipation"
+    ],
+    [
+      "senate",
+      1,
+      "trust"
+    ],
+    [
+      "hearing",
+      1,
+      "fear"
+    ],
+    [
+      "medical",
+      1,
+      "fear"
+    ],
+    [
+      "adviser",
+      1,
+      "trust"
+    ],
+    [
+      "accusing",
+      1,
+      "anger"
+    ],
+    [
+      "obvious",
+      1,
+      "trust"
     ],
     [
       "bears",
@@ -351,41 +376,16 @@
       "haunting",
       1,
       "fear"
-    ],
-    [
-      "buried",
-      1,
-      "fear"
-    ],
-    [
-      "fate",
-      1,
-      "anticipation"
-    ],
-    [
-      "harm",
-      1,
-      "fear"
-    ],
-    [
-      "exposed",
-      1,
-      "fear"
-    ],
-    [
-      "cabinet",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 55,
-    "fear": 87,
+    "trust": 57,
+    "fear": 89,
     "surprise": 9,
-    "sadness": 19,
+    "sadness": 18,
     "disgust": 4,
-    "anger": 114,
-    "anticipation": 22
+    "anger": 115,
+    "anticipation": 24
   }
 }
