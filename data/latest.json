@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T18:18:29.147Z",
+  "generated_at": "2026-07-29T18:33:31.721Z",
   "article_count": 50,
   "top_words": [
     [
@@ -143,11 +143,6 @@
       "trust"
     ],
     [
-      "militia",
-      2,
-      "anger"
-    ],
-    [
       "killed",
       2,
       "fear"
@@ -156,6 +151,11 @@
       "alarm",
       2,
       "fear"
+    ],
+    [
+      "militia",
+      2,
+      "anger"
     ],
     [
       "evacuated",
@@ -283,6 +283,16 @@
       "fear"
     ],
     [
+      "battles",
+      1,
+      "anger"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
       "analysts",
       1,
       "trust"
@@ -296,16 +306,6 @@
       "unpredictable",
       1,
       "surprise"
-    ],
-    [
-      "battles",
-      1,
-      "anger"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
     ],
     [
       "devastation",
