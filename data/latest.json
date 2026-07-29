@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T01:38:50.485Z",
+  "generated_at": "2026-07-29T01:53:52.151Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,14 +68,14 @@
       "fear"
     ],
     [
-      "forced",
-      4,
-      "fear"
-    ],
-    [
       "earthquake",
       4,
       "anger"
+    ],
+    [
+      "forced",
+      4,
+      "fear"
     ],
     [
       "authorities",
@@ -303,6 +303,11 @@
       "anger"
     ],
     [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
       "economy",
       1,
       "trust"
@@ -321,11 +326,6 @@
       "crippling",
       1,
       "fear"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
     ],
     [
       "bombed",
