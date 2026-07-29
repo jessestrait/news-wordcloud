@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T09:13:14.678Z",
+  "generated_at": "2026-07-29T09:28:16.577Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "authorities",
       5,
       "trust"
@@ -46,6 +41,11 @@
       "death",
       5,
       "sadness"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "government",
@@ -133,11 +133,6 @@
       "trust"
     ],
     [
-      "disaster",
-      2,
-      "anger"
-    ],
-    [
       "rescue",
       2,
       "surprise"
@@ -146,6 +141,11 @@
       "emergency",
       2,
       "fear"
+    ],
+    [
+      "disaster",
+      2,
+      "anger"
     ],
     [
       "strait",
@@ -278,21 +278,6 @@
       "joy"
     ],
     [
-      "shaking",
-      1,
-      "fear"
-    ],
-    [
-      "loss",
-      1,
-      "anger"
-    ],
-    [
-      "haunting",
-      1,
-      "fear"
-    ],
-    [
       "warnings",
       1,
       "fear"
@@ -321,6 +306,21 @@
       "powerful",
       1,
       "anger"
+    ],
+    [
+      "shaking",
+      1,
+      "fear"
+    ],
+    [
+      "loss",
+      1,
+      "anger"
+    ],
+    [
+      "haunting",
+      1,
+      "fear"
     ],
     [
       "buried",
