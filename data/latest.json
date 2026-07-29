@@ -1,26 +1,31 @@
 {
-  "generated_at": "2026-07-29T09:58:41.724Z",
+  "generated_at": "2026-07-29T10:13:43.669Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      15,
+      16,
       "fear"
     ],
     [
-      "attack",
-      9,
-      "anger"
-    ],
-    [
       "fire",
-      7,
+      8,
       "fear"
     ],
     [
       "war",
       7,
       "anger"
+    ],
+    [
+      "attack",
+      7,
+      "anger"
+    ],
+    [
+      "warn",
+      6,
+      "fear"
     ],
     [
       "earthquake",
@@ -36,16 +41,6 @@
       "death",
       5,
       "sadness"
-    ],
-    [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
-      "authorities",
-      5,
-      "trust"
     ],
     [
       "people",
@@ -68,9 +63,9 @@
       "trust"
     ],
     [
-      "warn",
-      5,
-      "fear"
+      "authorities",
+      4,
+      "trust"
     ],
     [
       "deep",
@@ -83,6 +78,11 @@
       "fear"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
       "blaze",
       4,
       "anger"
@@ -93,27 +93,22 @@
       "trust"
     ],
     [
-      "missile",
-      3,
-      "fear"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
-    ],
-    [
-      "killing",
-      3,
-      "anger"
-    ],
-    [
       "fear",
       3,
       "anger"
     ],
     [
       "hit",
+      3,
+      "anger"
+    ],
+    [
+      "emergency",
+      3,
+      "fear"
+    ],
+    [
+      "strike",
       3,
       "anger"
     ],
@@ -143,14 +138,19 @@
       "trust"
     ],
     [
+      "battle",
+      2,
+      "anger"
+    ],
+    [
+      "threat",
+      2,
+      "anger"
+    ],
+    [
       "rescue",
       2,
       "surprise"
-    ],
-    [
-      "emergency",
-      2,
-      "fear"
     ],
     [
       "strait",
@@ -243,38 +243,43 @@
       "anticipation"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "soldier",
       2,
       "anger"
     ],
     [
-      "police",
+      "killing",
       2,
-      "fear"
+      "anger"
     ],
     [
-      "berlin",
-      2,
-      "joy"
-    ],
-    [
-      "pride",
-      2,
-      "joy"
-    ],
-    [
-      "suspect",
+      "missile",
       2,
       "fear"
     ],
     [
       "home",
       2,
+      "joy"
+    ],
+    [
+      "progress",
+      1,
+      "joy"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
+      "growing",
+      1,
       "joy"
     ],
     [
@@ -288,12 +293,12 @@
       "anger"
     ],
     [
-      "thwarts",
+      "forces",
       1,
-      "surprise"
+      "anger"
     ],
     [
-      "forces",
+      "militias",
       1,
       "anger"
     ],
@@ -306,26 +311,6 @@
       "fighting",
       1,
       "anger"
-    ],
-    [
-      "warnings",
-      1,
-      "fear"
-    ],
-    [
-      "risk",
-      1,
-      "fear"
-    ],
-    [
-      "progress",
-      1,
-      "joy"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
     ],
     [
       "shaking",
@@ -376,16 +361,31 @@
       "escalating",
       1,
       "anger"
+    ],
+    [
+      "true",
+      1,
+      "joy"
+    ],
+    [
+      "mortality",
+      1,
+      "anger"
+    ],
+    [
+      "thought",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 24,
     "trust": 55,
-    "fear": 90,
-    "surprise": 12,
+    "fear": 87,
+    "surprise": 11,
     "sadness": 19,
     "disgust": 4,
-    "anger": 114,
+    "anger": 111,
     "anticipation": 20
   }
 }
