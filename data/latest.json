@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T07:57:41.883Z",
+  "generated_at": "2026-07-29T08:12:44.149Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,6 +26,11 @@
       "trump",
       6,
       "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "death",
@@ -63,9 +68,9 @@
       "fear"
     ],
     [
-      "government",
+      "deep",
       4,
-      "fear"
+      "joy"
     ],
     [
       "forced",
@@ -96,11 +101,6 @@
       "show",
       4,
       "trust"
-    ],
-    [
-      "deep",
-      3,
-      "joy"
     ],
     [
       "missile",
@@ -283,9 +283,14 @@
       "fear"
     ],
     [
-      "kill",
-      2,
+      "buried",
+      1,
       "fear"
+    ],
+    [
+      "fate",
+      1,
+      "anticipation"
     ],
     [
       "continuing",
@@ -371,21 +376,16 @@
       "economy",
       1,
       "trust"
-    ],
-    [
-      "banking",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 55,
-    "fear": 93,
+    "fear": 92,
     "surprise": 14,
     "sadness": 19,
     "disgust": 4,
-    "anger": 116,
-    "anticipation": 20
+    "anger": 111,
+    "anticipation": 21
   }
 }
