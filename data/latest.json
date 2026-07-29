@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:59:20.341Z",
+  "generated_at": "2026-07-29T11:14:22.920Z",
   "article_count": 50,
   "top_words": [
     [
@@ -123,11 +123,6 @@
       "anticipation"
     ],
     [
-      "world",
-      3,
-      "trust"
-    ],
-    [
       "president",
       3,
       "trust"
@@ -141,6 +136,16 @@
       "battle",
       2,
       "anger"
+    ],
+    [
+      "damage",
+      2,
+      "anger"
+    ],
+    [
+      "global",
+      2,
+      "anticipation"
     ],
     [
       "rescue",
@@ -213,14 +218,14 @@
       "anger"
     ],
     [
-      "beach",
-      2,
-      "joy"
-    ],
-    [
       "execution",
       2,
       "anger"
+    ],
+    [
+      "world",
+      2,
+      "trust"
     ],
     [
       "fight",
@@ -258,11 +263,6 @@
       "fear"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "progress",
       1,
       "joy"
@@ -271,6 +271,31 @@
       "expected",
       1,
       "anticipation"
+    ],
+    [
+      "bears",
+      1,
+      "anger"
+    ],
+    [
+      "brunt",
+      1,
+      "anger"
+    ],
+    [
+      "developing",
+      1,
+      "anticipation"
+    ],
+    [
+      "inform",
+      1,
+      "trust"
+    ],
+    [
+      "reparations",
+      1,
+      "trust"
     ],
     [
       "continuing",
@@ -343,11 +368,6 @@
       "fear"
     ],
     [
-      "global",
-      1,
-      "anticipation"
-    ],
-    [
       "exposed",
       1,
       "fear"
@@ -356,36 +376,16 @@
       "cabinet",
       1,
       "trust"
-    ],
-    [
-      "escalating",
-      1,
-      "anger"
-    ],
-    [
-      "true",
-      1,
-      "joy"
-    ],
-    [
-      "mortality",
-      1,
-      "anger"
-    ],
-    [
-      "thought",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 21,
     "trust": 55,
     "fear": 87,
-    "surprise": 11,
+    "surprise": 9,
     "sadness": 19,
     "disgust": 4,
-    "anger": 111,
-    "anticipation": 20
+    "anger": 114,
+    "anticipation": 22
   }
 }
