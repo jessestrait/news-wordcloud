@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-29T08:58:12.532Z",
+  "generated_at": "2026-07-29T09:13:14.678Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      16,
+      15,
       "fear"
     ],
     [
@@ -14,7 +14,7 @@
     ],
     [
       "fire",
-      9,
+      7,
       "fear"
     ],
     [
@@ -23,9 +23,19 @@
       "anger"
     ],
     [
+      "earthquake",
+      6,
+      "anger"
+    ],
+    [
       "trump",
       6,
       "anger"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "authorities",
@@ -36,11 +46,6 @@
       "death",
       5,
       "sadness"
-    ],
-    [
-      "earthquake",
-      5,
-      "anger"
     ],
     [
       "government",
@@ -56,11 +61,6 @@
       "military",
       5,
       "fear"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "officials",
@@ -88,11 +88,6 @@
       "fear"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "blaze",
       4,
       "anger"
@@ -118,6 +113,11 @@
       "surprise"
     ],
     [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "world",
       3,
       "trust"
@@ -133,9 +133,9 @@
       "trust"
     ],
     [
-      "home",
-      3,
-      "joy"
+      "disaster",
+      2,
+      "anger"
     ],
     [
       "rescue",
@@ -253,11 +253,6 @@
       "anger"
     ],
     [
-      "battle",
-      2,
-      "anger"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -278,8 +273,23 @@
       "fear"
     ],
     [
-      "operation",
+      "home",
       2,
+      "joy"
+    ],
+    [
+      "shaking",
+      1,
+      "fear"
+    ],
+    [
+      "loss",
+      1,
+      "anger"
+    ],
+    [
+      "haunting",
+      1,
       "fear"
     ],
     [
@@ -366,26 +376,16 @@
       "surprise",
       1,
       "fear"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
-    ],
-    [
-      "spikes",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 25,
     "trust": 55,
-    "fear": 95,
+    "fear": 91,
     "surprise": 12,
     "sadness": 19,
     "disgust": 4,
     "anger": 113,
-    "anticipation": 21
+    "anticipation": 20
   }
 }
