@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:31:21.809Z",
+  "generated_at": "2026-07-29T14:46:23.609Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "fear"
     ],
     [
+      "emergency",
+      4,
+      "fear"
+    ],
+    [
       "authorities",
       4,
       "trust"
@@ -71,11 +76,6 @@
       "deep",
       4,
       "joy"
-    ],
-    [
-      "forced",
-      4,
-      "fear"
     ],
     [
       "iran",
@@ -93,11 +93,6 @@
       "trust"
     ],
     [
-      "emergency",
-      3,
-      "fear"
-    ],
-    [
       "fear",
       3,
       "anger"
@@ -111,6 +106,11 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "forced",
+      3,
+      "fear"
     ],
     [
       "shopping",
@@ -133,14 +133,14 @@
       "trust"
     ],
     [
-      "rescue",
-      2,
-      "surprise"
-    ],
-    [
       "invokes",
       2,
       "anticipation"
+    ],
+    [
+      "rescue",
+      2,
+      "surprise"
     ],
     [
       "damage",
@@ -253,6 +253,66 @@
       "fear"
     ],
     [
+      "hearing",
+      1,
+      "fear"
+    ],
+    [
+      "medical",
+      1,
+      "fear"
+    ],
+    [
+      "adviser",
+      1,
+      "trust"
+    ],
+    [
+      "senate",
+      1,
+      "trust"
+    ],
+    [
+      "committee",
+      1,
+      "trust"
+    ],
+    [
+      "obvious",
+      1,
+      "trust"
+    ],
+    [
+      "impossible",
+      1,
+      "sadness"
+    ],
+    [
+      "deny",
+      1,
+      "anger"
+    ],
+    [
+      "arrives",
+      1,
+      "anticipation"
+    ],
+    [
+      "grim",
+      1,
+      "anger"
+    ],
+    [
+      "regularity",
+      1,
+      "trust"
+    ],
+    [
+      "worse",
+      1,
+      "fear"
+    ],
+    [
       "continuing",
       1,
       "trust"
@@ -276,36 +336,6 @@
       "expected",
       1,
       "anticipation"
-    ],
-    [
-      "senate",
-      1,
-      "trust"
-    ],
-    [
-      "hearing",
-      1,
-      "fear"
-    ],
-    [
-      "medical",
-      1,
-      "fear"
-    ],
-    [
-      "adviser",
-      1,
-      "trust"
-    ],
-    [
-      "accusing",
-      1,
-      "anger"
-    ],
-    [
-      "obvious",
-      1,
-      "trust"
     ],
     [
       "bears",
@@ -346,46 +376,16 @@
       "forces",
       1,
       "anger"
-    ],
-    [
-      "militias",
-      1,
-      "anger"
-    ],
-    [
-      "spikes",
-      1,
-      "fear"
-    ],
-    [
-      "fighting",
-      1,
-      "anger"
-    ],
-    [
-      "shaking",
-      1,
-      "fear"
-    ],
-    [
-      "loss",
-      1,
-      "anger"
-    ],
-    [
-      "haunting",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 19,
     "trust": 57,
-    "fear": 89,
+    "fear": 90,
     "surprise": 9,
-    "sadness": 18,
-    "disgust": 4,
-    "anger": 115,
-    "anticipation": 24
+    "sadness": 19,
+    "disgust": 3,
+    "anger": 114,
+    "anticipation": 25
   }
 }
