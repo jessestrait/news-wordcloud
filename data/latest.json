@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T09:43:39.961Z",
+  "generated_at": "2026-07-29T09:58:41.724Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,19 @@
       "anger"
     ],
     [
-      "authorities",
-      5,
-      "trust"
-    ],
-    [
       "death",
       5,
       "sadness"
+    ],
+    [
+      "iran",
+      5,
+      "anger"
+    ],
+    [
+      "authorities",
+      5,
+      "trust"
     ],
     [
       "people",
@@ -51,11 +56,6 @@
       "government",
       5,
       "fear"
-    ],
-    [
-      "iran",
-      5,
-      "anger"
     ],
     [
       "military",
@@ -71,11 +71,6 @@
       "warn",
       5,
       "fear"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "deep",
@@ -98,14 +93,29 @@
       "trust"
     ],
     [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
+    ],
+    [
+      "killing",
+      3,
+      "anger"
+    ],
+    [
       "fear",
       3,
       "anger"
     ],
     [
-      "missile",
+      "hit",
       3,
-      "fear"
+      "anger"
     ],
     [
       "shopping",
@@ -143,11 +153,6 @@
       "fear"
     ],
     [
-      "disaster",
-      2,
-      "anger"
-    ],
-    [
       "strait",
       2,
       "fear"
@@ -156,6 +161,11 @@
       "hormuz",
       2,
       "fear"
+    ],
+    [
+      "disaster",
+      2,
+      "anger"
     ],
     [
       "missing",
@@ -208,11 +218,6 @@
       "joy"
     ],
     [
-      "strike",
-      2,
-      "anger"
-    ],
-    [
       "execution",
       2,
       "anger"
@@ -248,11 +253,6 @@
       "anger"
     ],
     [
-      "killing",
-      2,
-      "anger"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -278,6 +278,36 @@
       "joy"
     ],
     [
+      "continuing",
+      1,
+      "trust"
+    ],
+    [
+      "powerful",
+      1,
+      "anger"
+    ],
+    [
+      "thwarts",
+      1,
+      "surprise"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
+      "spikes",
+      1,
+      "fear"
+    ],
+    [
+      "fighting",
+      1,
+      "anger"
+    ],
+    [
       "warnings",
       1,
       "fear"
@@ -296,16 +326,6 @@
       "expected",
       1,
       "anticipation"
-    ],
-    [
-      "continuing",
-      1,
-      "trust"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
     ],
     [
       "shaking",
@@ -356,36 +376,16 @@
       "escalating",
       1,
       "anger"
-    ],
-    [
-      "true",
-      1,
-      "joy"
-    ],
-    [
-      "mortality",
-      1,
-      "anger"
-    ],
-    [
-      "thwarts",
-      1,
-      "surprise"
-    ],
-    [
-      "surprise",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 55,
-    "fear": 91,
+    "fear": 90,
     "surprise": 12,
     "sadness": 19,
     "disgust": 4,
-    "anger": 113,
+    "anger": 114,
     "anticipation": 20
   }
 }
