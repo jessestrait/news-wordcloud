@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T00:06:51.651Z",
+  "generated_at": "2026-07-30T00:21:53.805Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,9 +8,9 @@
       "fear"
     ],
     [
-      "fire",
+      "war",
       8,
-      "fear"
+      "anger"
     ],
     [
       "warn",
@@ -18,9 +18,9 @@
       "fear"
     ],
     [
-      "war",
+      "fire",
       7,
-      "anger"
+      "fear"
     ],
     [
       "authorities",
@@ -58,11 +58,6 @@
       "anticipation"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
       "military",
       5,
       "fear"
@@ -78,9 +73,9 @@
       "fear"
     ],
     [
-      "deep",
+      "strike",
       4,
-      "joy"
+      "anger"
     ],
     [
       "officials",
@@ -91,6 +86,11 @@
       "blaze",
       4,
       "anger"
+    ],
+    [
+      "found",
+      3,
+      "joy"
     ],
     [
       "struggle",
@@ -141,11 +141,6 @@
       "team",
       3,
       "trust"
-    ],
-    [
-      "found",
-      2,
-      "joy"
     ],
     [
       "building",
@@ -223,6 +218,11 @@
       "anger"
     ],
     [
+      "deep",
+      2,
+      "joy"
+    ],
+    [
       "missing",
       2,
       "fear"
@@ -263,11 +263,6 @@
       "trust"
     ],
     [
-      "fight",
-      2,
-      "anger"
-    ],
-    [
       "surveillance",
       2,
       "fear"
@@ -278,9 +273,29 @@
       "anger"
     ],
     [
-      "missile",
-      2,
+      "crashes",
+      1,
       "fear"
+    ],
+    [
+      "pilot",
+      1,
+      "trust"
+    ],
+    [
+      "safe",
+      1,
+      "joy"
+    ],
+    [
+      "medical",
+      1,
+      "fear"
+    ],
+    [
+      "shot",
+      1,
+      "anger"
     ],
     [
       "battles",
@@ -361,27 +376,12 @@
       "bad",
       1,
       "anger"
-    ],
-    [
-      "impossible",
-      1,
-      "sadness"
-    ],
-    [
-      "deny",
-      1,
-      "anger"
-    ],
-    [
-      "arrives",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 50,
-    "fear": 86,
+    "trust": 51,
+    "fear": 85,
     "surprise": 9,
     "sadness": 21,
     "disgust": 4,
