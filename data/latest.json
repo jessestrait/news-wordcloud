@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T10:12:04.764Z",
+  "generated_at": "2026-07-30T10:27:07.250Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "trust"
     ],
     [
-      "strike",
-      6,
-      "anger"
-    ],
-    [
       "missile",
       5,
       "fear"
@@ -68,6 +63,11 @@
       "trust"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
       "hit",
       4,
       "anger"
@@ -76,11 +76,6 @@
       "shopping",
       4,
       "surprise"
-    ],
-    [
-      "warn",
-      4,
-      "fear"
     ],
     [
       "happened",
@@ -113,6 +108,11 @@
       "joy"
     ],
     [
+      "warn",
+      3,
+      "fear"
+    ],
+    [
       "struggle",
       3,
       "anger"
@@ -143,7 +143,12 @@
       "anger"
     ],
     [
-      "launches",
+      "accused",
+      2,
+      "anger"
+    ],
+    [
+      "thought",
       2,
       "anticipation"
     ],
@@ -283,9 +288,24 @@
       "fear"
     ],
     [
+      "explodes",
+      1,
+      "anger"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
       "middle",
       1,
       "sadness"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
     ],
     [
       "guard",
@@ -356,32 +376,12 @@
       "humanity",
       1,
       "joy"
-    ],
-    [
-      "leader",
-      1,
-      "trust"
-    ],
-    [
-      "invasion",
-      1,
-      "anger"
-    ],
-    [
-      "haven",
-      1,
-      "trust"
-    ],
-    [
-      "soothing",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 52,
-    "fear": 83,
+    "fear": 82,
     "surprise": 11,
     "sadness": 22,
     "disgust": 3,
