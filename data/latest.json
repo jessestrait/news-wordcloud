@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T17:16:43.056Z",
+  "generated_at": "2026-07-30T17:31:45.220Z",
   "article_count": 50,
   "top_words": [
     [
@@ -148,6 +148,16 @@
       "anger"
     ],
     [
+      "accused",
+      2,
+      "anger"
+    ],
+    [
+      "thought",
+      2,
+      "anticipation"
+    ],
+    [
       "president",
       2,
       "trust"
@@ -181,16 +191,6 @@
       "rage",
       2,
       "anger"
-    ],
-    [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
-      "thought",
-      2,
-      "anticipation"
     ],
     [
       "leaving",
@@ -298,6 +298,16 @@
       "fear"
     ],
     [
+      "explosion",
+      1,
+      "fear"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
       "conflict",
       1,
       "anger"
@@ -366,16 +376,6 @@
       "official",
       1,
       "trust"
-    ],
-    [
-      "expose",
-      1,
-      "fear"
-    ],
-    [
-      "injuries",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
