@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-30T03:08:26.960Z",
+  "generated_at": "2026-07-30T03:23:28.703Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      14,
+      13,
       "fear"
     ],
     [
@@ -13,12 +13,32 @@
       "anger"
     ],
     [
+      "attack",
+      8,
+      "anger"
+    ],
+    [
       "fire",
+      8,
+      "fear"
+    ],
+    [
+      "death",
+      7,
+      "sadness"
+    ],
+    [
+      "earthquake",
+      7,
+      "anger"
+    ],
+    [
+      "warn",
       7,
       "fear"
     ],
     [
-      "attack",
+      "strike",
       7,
       "anger"
     ],
@@ -33,29 +53,14 @@
       "trust"
     ],
     [
-      "warn",
-      6,
-      "fear"
-    ],
-    [
       "people",
       6,
       "trust"
     ],
     [
-      "death",
-      6,
-      "sadness"
-    ],
-    [
-      "earthquake",
-      6,
-      "anger"
-    ],
-    [
-      "strike",
-      6,
-      "anger"
+      "emergency",
+      5,
+      "fear"
     ],
     [
       "happened",
@@ -68,9 +73,9 @@
       "anger"
     ],
     [
-      "emergency",
+      "shopping",
       4,
-      "fear"
+      "surprise"
     ],
     [
       "military",
@@ -83,9 +88,9 @@
       "anger"
     ],
     [
-      "blaze",
-      4,
-      "anger"
+      "rescue",
+      3,
+      "surprise"
     ],
     [
       "found",
@@ -128,24 +133,29 @@
       "fear"
     ],
     [
-      "shopping",
-      3,
-      "surprise"
-    ],
-    [
       "officials",
       3,
       "trust"
     ],
     [
-      "team",
+      "soldier",
       3,
-      "trust"
+      "anger"
+    ],
+    [
+      "blaze",
+      3,
+      "anger"
     ],
     [
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "launches",
+      2,
+      "anticipation"
     ],
     [
       "experts",
@@ -156,6 +166,11 @@
       "risk",
       2,
       "fear"
+    ],
+    [
+      "complicate",
+      2,
+      "anger"
     ],
     [
       "flu",
@@ -198,14 +213,9 @@
       "sadness"
     ],
     [
-      "rescue",
+      "teams",
       2,
-      "surprise"
-    ],
-    [
-      "damage",
-      2,
-      "anger"
+      "trust"
     ],
     [
       "global",
@@ -283,16 +293,6 @@
       "fear"
     ],
     [
-      "soldier",
-      2,
-      "anger"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
       "morning",
       1,
       "anticipation"
@@ -301,6 +301,41 @@
       "guard",
       1,
       "fear"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
+      "massive",
+      1,
+      "anger"
+    ],
+    [
+      "missile",
+      1,
+      "fear"
+    ],
+    [
+      "badly",
+      1,
+      "sadness"
+    ],
+    [
+      "damaged",
+      1,
+      "anger"
+    ],
+    [
+      "collapsed",
+      1,
+      "fear"
+    ],
+    [
+      "houses",
+      1,
+      "joy"
     ],
     [
       "loom",
@@ -341,51 +376,16 @@
       "battles",
       1,
       "anger"
-    ],
-    [
-      "analysts",
-      1,
-      "trust"
-    ],
-    [
-      "complicates",
-      1,
-      "anger"
-    ],
-    [
-      "unpredictable",
-      1,
-      "surprise"
-    ],
-    [
-      "devastation",
-      1,
-      "anger"
-    ],
-    [
-      "guilty",
-      1,
-      "anger"
-    ],
-    [
-      "murder",
-      1,
-      "anger"
-    ],
-    [
-      "unknown",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 49,
-    "fear": 86,
-    "surprise": 9,
-    "sadness": 22,
-    "disgust": 4,
-    "anger": 121,
-    "anticipation": 27
+    "joy": 19,
+    "trust": 48,
+    "fear": 90,
+    "surprise": 11,
+    "sadness": 24,
+    "disgust": 3,
+    "anger": 126,
+    "anticipation": 28
   }
 }
