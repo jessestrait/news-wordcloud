@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-07-30T18:02:06.480Z",
+  "generated_at": "2026-07-30T18:17:08.304Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
+      "fire",
       8,
-      "anger"
+      "fear"
     ],
     [
       "war",
       8,
       "anger"
-    ],
-    [
-      "fire",
-      8,
-      "fear"
     ],
     [
       "death",
@@ -28,9 +23,9 @@
       "fear"
     ],
     [
-      "missile",
+      "attack",
       7,
-      "fear"
+      "anger"
     ],
     [
       "people",
@@ -41,6 +36,11 @@
       "earthquake",
       7,
       "anger"
+    ],
+    [
+      "missile",
+      6,
+      "fear"
     ],
     [
       "iran",
@@ -78,11 +78,6 @@
       "anger"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "show",
       4,
       "trust"
@@ -98,14 +93,14 @@
       "surprise"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "blazes",
       3,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "leader",
@@ -173,6 +168,11 @@
       "anticipation"
     ],
     [
+      "unknown",
+      2,
+      "fear"
+    ],
+    [
       "economy",
       2,
       "trust"
@@ -181,6 +181,11 @@
       "crashes",
       2,
       "fear"
+    ],
+    [
+      "calls",
+      2,
+      "trust"
     ],
     [
       "guide",
@@ -283,6 +288,11 @@
       "sadness"
     ],
     [
+      "tensions",
+      1,
+      "anger"
+    ],
+    [
       "launches",
       1,
       "anticipation"
@@ -291,6 +301,16 @@
       "guard",
       1,
       "fear"
+    ],
+    [
+      "extinguish",
+      1,
+      "anger"
+    ],
+    [
+      "hot",
+      1,
+      "anger"
     ],
     [
       "planning",
@@ -323,9 +343,9 @@
       "anger"
     ],
     [
-      "president",
+      "police",
       1,
-      "trust"
+      "fear"
     ],
     [
       "conflict",
@@ -356,31 +376,11 @@
       "measures",
       1,
       "trust"
-    ],
-    [
-      "defend",
-      1,
-      "fear"
-    ],
-    [
-      "crashed",
-      1,
-      "fear"
-    ],
-    [
-      "extinguish",
-      1,
-      "anger"
-    ],
-    [
-      "hot",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 62,
+    "trust": 60,
     "fear": 80,
     "surprise": 12,
     "sadness": 21,
