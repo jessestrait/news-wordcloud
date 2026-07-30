@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T05:24:43.554Z",
+  "generated_at": "2026-07-30T05:39:45.524Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,19 +8,14 @@
       "fear"
     ],
     [
-      "war",
-      9,
-      "anger"
-    ],
-    [
       "attack",
-      9,
+      8,
       "anger"
     ],
     [
-      "fire",
+      "war",
       8,
-      "fear"
+      "anger"
     ],
     [
       "death",
@@ -38,9 +33,9 @@
       "fear"
     ],
     [
-      "strike",
+      "fire",
       7,
-      "anger"
+      "fear"
     ],
     [
       "iran",
@@ -48,9 +43,19 @@
       "anger"
     ],
     [
+      "military",
+      6,
+      "fear"
+    ],
+    [
       "people",
       6,
       "trust"
+    ],
+    [
+      "strike",
+      6,
+      "anger"
     ],
     [
       "hit",
@@ -78,14 +83,14 @@
       "surprise"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "trump",
       4,
       "anger"
+    ],
+    [
+      "missile",
+      3,
+      "fear"
     ],
     [
       "rescue",
@@ -126,16 +131,6 @@
       "launches",
       2,
       "anticipation"
-    ],
-    [
-      "experts",
-      2,
-      "trust"
-    ],
-    [
-      "risk",
-      2,
-      "fear"
     ],
     [
       "seized",
@@ -293,11 +288,6 @@
       "fear"
     ],
     [
-      "morning",
-      1,
-      "anticipation"
-    ],
-    [
       "guard",
       1,
       "fear"
@@ -376,16 +366,26 @@
       "massive",
       1,
       "anger"
+    ],
+    [
+      "loom",
+      1,
+      "fear"
+    ],
+    [
+      "bad",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 49,
-    "fear": 87,
+    "trust": 48,
+    "fear": 89,
     "surprise": 11,
     "sadness": 23,
     "disgust": 3,
-    "anger": 123,
-    "anticipation": 29
+    "anger": 120,
+    "anticipation": 28
   }
 }
