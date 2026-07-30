@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-30T03:53:49.073Z",
+  "generated_at": "2026-07-30T04:08:51.656Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      13,
+      12,
       "fear"
     ],
     [
-      "war",
+      "attack",
       9,
       "anger"
     ],
     [
-      "attack",
-      8,
+      "war",
+      9,
       "anger"
     ],
     [
@@ -58,6 +58,11 @@
       "trust"
     ],
     [
+      "hit",
+      5,
+      "anger"
+    ],
+    [
       "emergency",
       5,
       "fear"
@@ -66,11 +71,6 @@
       "happened",
       5,
       "anticipation"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "shopping",
@@ -108,16 +108,6 @@
       "anger"
     ],
     [
-      "home",
-      3,
-      "joy"
-    ],
-    [
-      "fear",
-      3,
-      "anger"
-    ],
-    [
       "government",
       3,
       "fear"
@@ -128,22 +118,12 @@
       "trust"
     ],
     [
-      "forced",
-      3,
-      "fear"
-    ],
-    [
       "officials",
       3,
       "trust"
     ],
     [
       "soldier",
-      3,
-      "anger"
-    ],
-    [
-      "blaze",
       3,
       "anger"
     ],
@@ -193,6 +173,11 @@
       "fear"
     ],
     [
+      "blazes",
+      2,
+      "anger"
+    ],
+    [
       "militia",
       2,
       "anger"
@@ -211,6 +196,16 @@
       "obituary",
       2,
       "sadness"
+    ],
+    [
+      "home",
+      2,
+      "joy"
+    ],
+    [
+      "fear",
+      2,
+      "anger"
     ],
     [
       "teams",
@@ -238,11 +233,6 @@
       "fear"
     ],
     [
-      "disaster",
-      2,
-      "anger"
-    ],
-    [
       "deep",
       2,
       "joy"
@@ -254,6 +244,11 @@
     ],
     [
       "quake",
+      2,
+      "fear"
+    ],
+    [
+      "forced",
       2,
       "fear"
     ],
@@ -291,6 +286,26 @@
       "surveillance",
       2,
       "fear"
+    ],
+    [
+      "haven",
+      1,
+      "trust"
+    ],
+    [
+      "soothing",
+      1,
+      "joy"
+    ],
+    [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "jihadist",
+      1,
+      "anger"
     ],
     [
       "morning",
@@ -361,31 +376,16 @@
       "safe",
       1,
       "joy"
-    ],
-    [
-      "medical",
-      1,
-      "fear"
-    ],
-    [
-      "shot",
-      1,
-      "anger"
-    ],
-    [
-      "battles",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 48,
-    "fear": 90,
+    "joy": 20,
+    "trust": 49,
+    "fear": 88,
     "surprise": 11,
-    "sadness": 24,
+    "sadness": 23,
     "disgust": 3,
-    "anger": 126,
+    "anger": 125,
     "anticipation": 28
   }
 }
