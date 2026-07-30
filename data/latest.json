@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T02:38:06.016Z",
+  "generated_at": "2026-07-30T02:53:08.458Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "anticipation"
     ],
     [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
       "emergency",
       4,
       "fear"
@@ -104,11 +109,6 @@
     ],
     [
       "fear",
-      3,
-      "anger"
-    ],
-    [
-      "hit",
       3,
       "anger"
     ],
@@ -293,6 +293,16 @@
       "anticipation"
     ],
     [
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
+      "guard",
+      1,
+      "fear"
+    ],
+    [
       "loom",
       1,
       "fear"
@@ -366,26 +376,16 @@
       "unknown",
       1,
       "fear"
-    ],
-    [
-      "gang",
-      1,
-      "anger"
-    ],
-    [
-      "john",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
     "trust": 49,
-    "fear": 85,
+    "fear": 86,
     "surprise": 9,
     "sadness": 22,
     "disgust": 4,
-    "anger": 120,
-    "anticipation": 26
+    "anger": 121,
+    "anticipation": 27
   }
 }
