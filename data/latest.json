@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-07-30T17:31:45.220Z",
+  "generated_at": "2026-07-30T17:46:47.344Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      8,
+      "anger"
+    ],
     [
       "fire",
       8,
@@ -18,6 +23,11 @@
       "fear"
     ],
     [
+      "missile",
+      7,
+      "fear"
+    ],
+    [
       "attack",
       7,
       "anger"
@@ -28,22 +38,17 @@
       "trust"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "earthquake",
       7,
       "anger"
     ],
     [
-      "missile",
+      "iran",
       6,
-      "fear"
+      "anger"
     ],
     [
-      "iran",
+      "strike",
       6,
       "anger"
     ],
@@ -61,11 +66,6 @@
       "authorities",
       5,
       "trust"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
     ],
     [
       "military",
@@ -158,11 +158,6 @@
       "anticipation"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "arrive",
       2,
       "anticipation"
@@ -171,11 +166,6 @@
       "economy",
       2,
       "trust"
-    ],
-    [
-      "anti",
-      2,
-      "anger"
     ],
     [
       "crashes",
@@ -298,6 +288,11 @@
       "fear"
     ],
     [
+      "terminal",
+      1,
+      "fear"
+    ],
+    [
       "explosion",
       1,
       "fear"
@@ -306,6 +301,11 @@
       "deadly",
       1,
       "anger"
+    ],
+    [
+      "president",
+      1,
+      "trust"
     ],
     [
       "conflict",
@@ -326,6 +326,11 @@
       "battlefield",
       1,
       "fear"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
     ],
     [
       "measures",
@@ -371,18 +376,13 @@
       "times",
       1,
       "anticipation"
-    ],
-    [
-      "official",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 65,
-    "fear": 79,
-    "surprise": 12,
+    "joy": 25,
+    "trust": 62,
+    "fear": 81,
+    "surprise": 11,
     "sadness": 21,
     "disgust": 3,
     "anger": 114,
