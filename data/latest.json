@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T04:24:11.977Z",
+  "generated_at": "2026-07-30T04:39:14.320Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "fear"
     ],
     [
-      "attack",
+      "war",
       9,
       "anger"
     ],
     [
-      "war",
+      "attack",
       9,
       "anger"
     ],
@@ -288,6 +288,16 @@
       "fear"
     ],
     [
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
+      "guard",
+      1,
+      "fear"
+    ],
+    [
       "haven",
       1,
       "trust"
@@ -306,16 +316,6 @@
       "jihadist",
       1,
       "anger"
-    ],
-    [
-      "morning",
-      1,
-      "anticipation"
-    ],
-    [
-      "guard",
-      1,
-      "fear"
     ],
     [
       "deadly",
