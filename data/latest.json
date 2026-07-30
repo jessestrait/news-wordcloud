@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T10:57:26.792Z",
+  "generated_at": "2026-07-30T11:12:28.572Z",
   "article_count": 50,
   "top_words": [
     [
@@ -308,9 +308,9 @@
       "fear"
     ],
     [
-      "explodes",
+      "explosion",
       1,
-      "anger"
+      "fear"
     ],
     [
       "deadly",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 22,
     "trust": 54,
-    "fear": 83,
+    "fear": 84,
     "surprise": 11,
     "sadness": 22,
     "disgust": 3,
-    "anger": 112,
+    "anger": 111,
     "anticipation": 27
   }
 }
