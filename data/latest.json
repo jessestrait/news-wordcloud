@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T10:42:24.912Z",
+  "generated_at": "2026-07-30T10:57:26.792Z",
   "article_count": 50,
   "top_words": [
     [
@@ -283,6 +283,16 @@
       "trust"
     ],
     [
+      "think",
+      1,
+      "trust"
+    ],
+    [
+      "crashed",
+      1,
+      "fear"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -294,16 +304,6 @@
     ],
     [
       "guard",
-      1,
-      "fear"
-    ],
-    [
-      "think",
-      1,
-      "trust"
-    ],
-    [
-      "crashed",
       1,
       "fear"
     ],
