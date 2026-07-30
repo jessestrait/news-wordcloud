@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T05:09:41.576Z",
+  "generated_at": "2026-07-30T05:24:43.554Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,11 +118,6 @@
       "trust"
     ],
     [
-      "seized",
-      2,
-      "fear"
-    ],
-    [
       "middle",
       2,
       "sadness"
@@ -139,6 +134,11 @@
     ],
     [
       "risk",
+      2,
+      "fear"
+    ],
+    [
+      "seized",
       2,
       "fear"
     ],
@@ -293,6 +293,16 @@
       "fear"
     ],
     [
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
+      "guard",
+      1,
+      "fear"
+    ],
+    [
       "enemy",
       1,
       "anger"
@@ -311,16 +321,6 @@
       "invasion",
       1,
       "anger"
-    ],
-    [
-      "morning",
-      1,
-      "anticipation"
-    ],
-    [
-      "guard",
-      1,
-      "fear"
     ],
     [
       "badly",
