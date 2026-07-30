@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T07:10:33.946Z",
+  "generated_at": "2026-07-30T07:25:35.867Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,14 +138,14 @@
       "anger"
     ],
     [
-      "fighting",
-      2,
-      "anger"
-    ],
-    [
       "launches",
       2,
       "anticipation"
+    ],
+    [
+      "fighting",
+      2,
+      "anger"
     ],
     [
       "justice",
@@ -283,6 +283,16 @@
       "anticipation"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "guard",
+      1,
+      "fear"
+    ],
+    [
       "precursor",
       1,
       "anticipation"
@@ -298,27 +308,12 @@
       "sadness"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "guard",
-      1,
-      "fear"
-    ],
-    [
       "soldiers",
       1,
       "anger"
     ],
     [
-      "badly",
-      1,
-      "sadness"
-    ],
-    [
-      "damaged",
+      "devastated",
       1,
       "anger"
     ],
@@ -376,6 +371,11 @@
       "haven",
       1,
       "trust"
+    ],
+    [
+      "soothing",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
@@ -383,7 +383,7 @@
     "trust": 52,
     "fear": 82,
     "surprise": 11,
-    "sadness": 23,
+    "sadness": 22,
     "disgust": 3,
     "anger": 115,
     "anticipation": 28
