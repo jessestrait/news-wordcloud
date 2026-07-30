@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-07-30T11:58:17.065Z",
+  "generated_at": "2026-07-30T12:13:19.519Z",
   "article_count": 50,
   "top_words": [
+    [
+      "fire",
+      9,
+      "fear"
+    ],
     [
       "wildfire",
       9,
@@ -9,7 +14,7 @@
     ],
     [
       "attack",
-      8,
+      7,
       "anger"
     ],
     [
@@ -23,19 +28,14 @@
       "anger"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
-      "fire",
-      7,
-      "fear"
-    ],
-    [
       "missile",
       6,
       "fear"
+    ],
+    [
+      "war",
+      6,
+      "anger"
     ],
     [
       "people",
@@ -46,11 +46,6 @@
       "iran",
       5,
       "anger"
-    ],
-    [
-      "military",
-      5,
-      "fear"
     ],
     [
       "emergency",
@@ -68,6 +63,16 @@
       "anger"
     ],
     [
+      "show",
+      4,
+      "trust"
+    ],
+    [
+      "military",
+      4,
+      "fear"
+    ],
+    [
       "hit",
       4,
       "anger"
@@ -81,6 +86,11 @@
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "blazes",
+      3,
+      "anger"
     ],
     [
       "rescue",
@@ -123,14 +133,19 @@
       "fear"
     ],
     [
-      "shows",
-      3,
-      "trust"
-    ],
-    [
       "trump",
       3,
       "anger"
+    ],
+    [
+      "beach",
+      2,
+      "joy"
+    ],
+    [
+      "crashes",
+      2,
+      "fear"
     ],
     [
       "accused",
@@ -173,19 +188,9 @@
       "anticipation"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "alarm",
       2,
       "fear"
-    ],
-    [
-      "blazes",
-      2,
-      "anger"
     ],
     [
       "militia",
@@ -221,21 +226,6 @@
       "global",
       2,
       "anticipation"
-    ],
-    [
-      "threat",
-      2,
-      "anger"
-    ],
-    [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
-      "hormuz",
-      2,
-      "fear"
     ],
     [
       "deep",
@@ -278,14 +268,39 @@
       "anger"
     ],
     [
-      "officials",
-      2,
+      "extinguish",
+      1,
+      "anger"
+    ],
+    [
+      "breaks",
+      1,
+      "surprise"
+    ],
+    [
+      "chancellor",
+      1,
       "trust"
     ],
     [
-      "think",
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
+      "guidance",
       1,
       "trust"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "defend",
+      1,
+      "fear"
     ],
     [
       "crashed",
@@ -361,31 +376,16 @@
       "sealed",
       1,
       "trust"
-    ],
-    [
-      "bases",
-      1,
-      "trust"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
-      "enemy",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 54,
+    "joy": 23,
+    "trust": 56,
     "fear": 84,
-    "surprise": 11,
-    "sadness": 22,
+    "surprise": 12,
+    "sadness": 20,
     "disgust": 3,
-    "anger": 111,
-    "anticipation": 27
+    "anger": 107,
+    "anticipation": 28
   }
 }
