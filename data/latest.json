@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T04:54:16.589Z",
+  "generated_at": "2026-07-30T05:09:18.958Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,14 +48,14 @@
       "anger"
     ],
     [
-      "authorities",
+      "people",
       6,
       "trust"
     ],
     [
-      "people",
-      6,
-      "trust"
+      "hit",
+      5,
+      "anger"
     ],
     [
       "emergency",
@@ -63,9 +63,9 @@
       "fear"
     ],
     [
-      "hit",
+      "authorities",
       5,
-      "anger"
+      "trust"
     ],
     [
       "happened",
@@ -103,11 +103,6 @@
       "anger"
     ],
     [
-      "killing",
-      3,
-      "anger"
-    ],
-    [
       "government",
       3,
       "fear"
@@ -123,14 +118,9 @@
       "trust"
     ],
     [
-      "soldier",
-      3,
-      "anger"
-    ],
-    [
-      "complicate",
+      "seized",
       2,
-      "anger"
+      "fear"
     ],
     [
       "middle",
@@ -151,6 +141,16 @@
       "risk",
       2,
       "fear"
+    ],
+    [
+      "complicate",
+      2,
+      "anger"
+    ],
+    [
+      "soldiers",
+      2,
+      "anger"
     ],
     [
       "flu",
@@ -186,6 +186,11 @@
       "evacuated",
       2,
       "fear"
+    ],
+    [
+      "killing",
+      2,
+      "anger"
     ],
     [
       "crime",
@@ -288,6 +293,36 @@
       "fear"
     ],
     [
+      "enemy",
+      1,
+      "anger"
+    ],
+    [
+      "humanity",
+      1,
+      "joy"
+    ],
+    [
+      "leader",
+      1,
+      "trust"
+    ],
+    [
+      "invasion",
+      1,
+      "anger"
+    ],
+    [
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
+      "guard",
+      1,
+      "fear"
+    ],
+    [
       "badly",
       1,
       "sadness"
@@ -311,16 +346,6 @@
       "houses",
       1,
       "joy"
-    ],
-    [
-      "morning",
-      1,
-      "anticipation"
-    ],
-    [
-      "guard",
-      1,
-      "fear"
     ],
     [
       "haven",
@@ -351,41 +376,16 @@
       "massive",
       1,
       "anger"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
-    ],
-    [
-      "loom",
-      1,
-      "fear"
-    ],
-    [
-      "bad",
-      1,
-      "anger"
-    ],
-    [
-      "crashes",
-      1,
-      "fear"
-    ],
-    [
-      "pilot",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 21,
     "trust": 49,
-    "fear": 88,
+    "fear": 87,
     "surprise": 11,
     "sadness": 23,
     "disgust": 3,
-    "anger": 125,
+    "anger": 123,
     "anticipation": 29
   }
 }
