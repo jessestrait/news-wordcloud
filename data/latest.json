@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T15:00:12.041Z",
+  "generated_at": "2026-07-30T15:15:15.561Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "fear"
     ],
     [
+      "death",
+      8,
+      "sadness"
+    ],
+    [
       "attack",
       7,
       "anger"
-    ],
-    [
-      "death",
-      7,
-      "sadness"
     ],
     [
       "earthquake",
@@ -63,6 +63,11 @@
       "anger"
     ],
     [
+      "show",
+      4,
+      "trust"
+    ],
+    [
       "military",
       4,
       "fear"
@@ -78,11 +83,6 @@
       "anger"
     ],
     [
-      "show",
-      4,
-      "trust"
-    ],
-    [
       "shopping",
       4,
       "surprise"
@@ -93,14 +93,14 @@
       "anticipation"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
       "blazes",
       3,
       "anger"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "rescue",
@@ -133,19 +133,14 @@
       "joy"
     ],
     [
-      "government",
-      3,
+      "crashes",
+      2,
       "fear"
     ],
     [
       "freedom",
       2,
       "joy"
-    ],
-    [
-      "crashes",
-      2,
-      "fear"
     ],
     [
       "guide",
@@ -248,6 +243,11 @@
       "joy"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "missing",
       2,
       "fear"
@@ -273,14 +273,69 @@
       "sadness"
     ],
     [
-      "threaten",
+      "execution",
       2,
       "anger"
     ],
     [
-      "execution",
-      2,
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "defend",
+      1,
+      "fear"
+    ],
+    [
+      "crashed",
+      1,
+      "fear"
+    ],
+    [
+      "extinguish",
+      1,
       "anger"
+    ],
+    [
+      "breaks",
+      1,
+      "surprise"
+    ],
+    [
+      "child",
+      1,
+      "joy"
+    ],
+    [
+      "times",
+      1,
+      "anticipation"
+    ],
+    [
+      "official",
+      1,
+      "trust"
+    ],
+    [
+      "expose",
+      1,
+      "fear"
+    ],
+    [
+      "casualty",
+      1,
+      "anger"
+    ],
+    [
+      "poor",
+      1,
+      "sadness"
+    ],
+    [
+      "wealthy",
+      1,
+      "anticipation"
     ],
     [
       "middle",
@@ -321,71 +376,16 @@
       "praises",
       1,
       "joy"
-    ],
-    [
-      "opportunity",
-      1,
-      "anticipation"
-    ],
-    [
-      "policies",
-      1,
-      "trust"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
-    ],
-    [
-      "defend",
-      1,
-      "fear"
-    ],
-    [
-      "crashed",
-      1,
-      "fear"
-    ],
-    [
-      "ferocious",
-      1,
-      "anger"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
-    ],
-    [
-      "chart",
-      1,
-      "trust"
-    ],
-    [
-      "destruction",
-      1,
-      "anger"
-    ],
-    [
-      "explosion",
-      1,
-      "fear"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 58,
+    "trust": 59,
     "fear": 84,
     "surprise": 12,
-    "sadness": 21,
+    "sadness": 22,
     "disgust": 3,
-    "anger": 110,
-    "anticipation": 27
+    "anger": 109,
+    "anticipation": 29
   }
 }
