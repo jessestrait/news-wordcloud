@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-30T06:10:03.850Z",
+  "generated_at": "2026-07-30T06:25:05.692Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
-      12,
+      9,
       "fear"
     ],
     [
@@ -28,11 +28,6 @@
       "anger"
     ],
     [
-      "warn",
-      7,
-      "fear"
-    ],
-    [
       "fire",
       7,
       "fear"
@@ -48,6 +43,11 @@
       "fear"
     ],
     [
+      "warn",
+      6,
+      "fear"
+    ],
+    [
       "people",
       6,
       "trust"
@@ -55,11 +55,6 @@
     [
       "strike",
       6,
-      "anger"
-    ],
-    [
-      "hit",
-      5,
       "anger"
     ],
     [
@@ -73,14 +68,19 @@
       "trust"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
+      "hit",
+      4,
+      "anger"
     ],
     [
       "shopping",
       4,
       "surprise"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "trump",
@@ -91,6 +91,11 @@
       "missile",
       3,
       "fear"
+    ],
+    [
+      "system",
+      3,
+      "trust"
     ],
     [
       "rescue",
@@ -118,11 +123,6 @@
       "trust"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
       "middle",
       2,
       "sadness"
@@ -131,6 +131,11 @@
       "launches",
       2,
       "anticipation"
+    ],
+    [
+      "justice",
+      2,
+      "trust"
     ],
     [
       "seized",
@@ -288,9 +293,39 @@
       "fear"
     ],
     [
+      "officials",
+      2,
+      "trust"
+    ],
+    [
       "guard",
       1,
       "fear"
+    ],
+    [
+      "special",
+      1,
+      "joy"
+    ],
+    [
+      "avoid",
+      1,
+      "fear"
+    ],
+    [
+      "sealed",
+      1,
+      "trust"
+    ],
+    [
+      "bases",
+      1,
+      "trust"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
     ],
     [
       "enemy",
@@ -341,51 +376,16 @@
       "haven",
       1,
       "trust"
-    ],
-    [
-      "soothing",
-      1,
-      "joy"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "jihadist",
-      1,
-      "anger"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "loom",
-      1,
-      "fear"
-    ],
-    [
-      "bad",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 48,
-    "fear": 89,
+    "joy": 22,
+    "trust": 53,
+    "fear": 86,
     "surprise": 11,
     "sadness": 23,
     "disgust": 3,
-    "anger": 120,
-    "anticipation": 28
+    "anger": 119,
+    "anticipation": 27
   }
 }
