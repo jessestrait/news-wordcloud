@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T18:47:31.385Z",
+  "generated_at": "2026-07-30T19:02:33.420Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,11 +278,6 @@
       "sadness"
     ],
     [
-      "police",
-      1,
-      "fear"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -299,6 +294,11 @@
     ],
     [
       "guard",
+      1,
+      "fear"
+    ],
+    [
+      "police",
       1,
       "fear"
     ],
