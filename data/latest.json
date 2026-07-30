@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-07-30T06:55:31.852Z",
+  "generated_at": "2026-07-30T07:10:33.946Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      10,
+      "anger"
+    ],
     [
       "wildfire",
       9,
       "fear"
-    ],
-    [
-      "attack",
-      8,
-      "anger"
-    ],
-    [
-      "war",
-      8,
-      "anger"
     ],
     [
       "death",
@@ -28,23 +23,13 @@
       "anger"
     ],
     [
-      "fire",
+      "war",
       7,
-      "fear"
-    ],
-    [
-      "iran",
-      6,
       "anger"
     ],
     [
-      "military",
-      6,
-      "fear"
-    ],
-    [
-      "warn",
-      6,
+      "fire",
+      7,
       "fear"
     ],
     [
@@ -58,6 +43,16 @@
       "anger"
     ],
     [
+      "iran",
+      5,
+      "anger"
+    ],
+    [
+      "military",
+      5,
+      "fear"
+    ],
+    [
       "emergency",
       5,
       "fear"
@@ -66,6 +61,11 @@
       "authorities",
       5,
       "trust"
+    ],
+    [
+      "missile",
+      4,
+      "fear"
     ],
     [
       "hit",
@@ -78,17 +78,17 @@
       "surprise"
     ],
     [
+      "warn",
+      4,
+      "fear"
+    ],
+    [
       "happened",
       4,
       "anticipation"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
-      "missile",
+      "killed",
       3,
       "fear"
     ],
@@ -133,19 +133,19 @@
       "trust"
     ],
     [
-      "middle",
+      "trump",
+      3,
+      "anger"
+    ],
+    [
+      "fighting",
       2,
-      "sadness"
+      "anger"
     ],
     [
       "launches",
       2,
       "anticipation"
-    ],
-    [
-      "soldiers",
-      2,
-      "anger"
     ],
     [
       "justice",
@@ -166,11 +166,6 @@
       "building",
       2,
       "anticipation"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "alarm",
@@ -268,24 +263,9 @@
       "anger"
     ],
     [
-      "serve",
-      2,
-      "trust"
-    ],
-    [
       "execution",
       2,
       "anger"
-    ],
-    [
-      "president",
-      2,
-      "trust"
-    ],
-    [
-      "surveillance",
-      2,
-      "fear"
     ],
     [
       "officials",
@@ -293,9 +273,44 @@
       "trust"
     ],
     [
+      "violation",
+      1,
+      "anger"
+    ],
+    [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
+      "precursor",
+      1,
+      "anticipation"
+    ],
+    [
+      "believed",
+      1,
+      "trust"
+    ],
+    [
+      "leaves",
+      1,
+      "sadness"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
       "guard",
       1,
       "fear"
+    ],
+    [
+      "soldiers",
+      1,
+      "anger"
     ],
     [
       "badly",
@@ -361,31 +376,16 @@
       "haven",
       1,
       "trust"
-    ],
-    [
-      "soothing",
-      1,
-      "joy"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "jihadist",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 54,
-    "fear": 85,
+    "trust": 52,
+    "fear": 82,
     "surprise": 11,
     "sadness": 23,
     "disgust": 3,
-    "anger": 118,
-    "anticipation": 27
+    "anger": 115,
+    "anticipation": 28
   }
 }
