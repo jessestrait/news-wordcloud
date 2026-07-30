@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T12:58:44.411Z",
+  "generated_at": "2026-07-30T13:13:47.209Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "wildfire",
-      8,
+      9,
       "fear"
     ],
     [
@@ -33,11 +33,6 @@
       "fear"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "people",
       6,
       "trust"
@@ -56,6 +51,11 @@
       "authorities",
       5,
       "trust"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "strike",
@@ -141,6 +141,11 @@
       "crashes",
       2,
       "fear"
+    ],
+    [
+      "rage",
+      2,
+      "anger"
     ],
     [
       "accused",
@@ -283,6 +288,21 @@
       "anger"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "guard",
+      1,
+      "fear"
+    ],
+    [
       "measures",
       1,
       "trust"
@@ -296,6 +316,31 @@
       "crashed",
       1,
       "fear"
+    ],
+    [
+      "guide",
+      1,
+      "trust"
+    ],
+    [
+      "ferocious",
+      1,
+      "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
+    ],
+    [
+      "chart",
+      1,
+      "trust"
+    ],
+    [
+      "destruction",
+      1,
+      "anger"
     ],
     [
       "explosion",
@@ -323,21 +368,6 @@
       "trust"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "guard",
-      1,
-      "fear"
-    ],
-    [
       "extinguish",
       1,
       "anger"
@@ -346,46 +376,16 @@
       "breaks",
       1,
       "surprise"
-    ],
-    [
-      "chancellor",
-      1,
-      "trust"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
-      "guidance",
-      1,
-      "trust"
-    ],
-    [
-      "precursor",
-      1,
-      "anticipation"
-    ],
-    [
-      "believed",
-      1,
-      "trust"
-    ],
-    [
-      "leaves",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 57,
-    "fear": 85,
+    "joy": 22,
+    "trust": 59,
+    "fear": 86,
     "surprise": 12,
     "sadness": 21,
     "disgust": 3,
-    "anger": 107,
-    "anticipation": 27
+    "anger": 108,
+    "anticipation": 26
   }
 }
