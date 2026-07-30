@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T07:40:52.111Z",
+  "generated_at": "2026-07-30T07:55:53.956Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "death",
-      7,
+      8,
       "sadness"
     ],
     [
@@ -86,11 +86,6 @@
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
     ],
     [
       "rescue",
@@ -166,6 +161,11 @@
       "building",
       2,
       "anticipation"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
     ],
     [
       "alarm",
@@ -273,16 +273,6 @@
       "trust"
     ],
     [
-      "violation",
-      1,
-      "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -291,6 +281,21 @@
       "guard",
       1,
       "fear"
+    ],
+    [
+      "injuries",
+      1,
+      "anger"
+    ],
+    [
+      "violation",
+      1,
+      "anger"
+    ],
+    [
+      "prepares",
+      1,
+      "anticipation"
     ],
     [
       "precursor",
@@ -371,21 +376,16 @@
       "haven",
       1,
       "trust"
-    ],
-    [
-      "soothing",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 52,
-    "fear": 82,
+    "fear": 81,
     "surprise": 11,
-    "sadness": 22,
+    "sadness": 23,
     "disgust": 3,
-    "anger": 115,
+    "anger": 116,
     "anticipation": 28
   }
 }
