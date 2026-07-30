@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T09:11:38.336Z",
+  "generated_at": "2026-07-30T09:26:40.147Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,14 +138,14 @@
       "anger"
     ],
     [
-      "force",
-      2,
-      "anger"
-    ],
-    [
       "launches",
       2,
       "anticipation"
+    ],
+    [
+      "force",
+      2,
+      "anger"
     ],
     [
       "fighting",
@@ -278,17 +278,17 @@
       "trust"
     ],
     [
-      "crashed",
-      1,
-      "fear"
-    ],
-    [
       "middle",
       1,
       "sadness"
     ],
     [
       "guard",
+      1,
+      "fear"
+    ],
+    [
+      "crashed",
       1,
       "fear"
     ],
