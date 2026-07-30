@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T00:37:10.134Z",
+  "generated_at": "2026-07-30T00:52:12.031Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,17 +58,17 @@
       "anger"
     ],
     [
-      "military",
-      5,
-      "fear"
-    ],
-    [
       "happened",
       5,
       "anticipation"
     ],
     [
       "emergency",
+      4,
+      "fear"
+    ],
+    [
+      "military",
       4,
       "fear"
     ],
@@ -146,6 +146,11 @@
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "experts",
+      2,
+      "trust"
     ],
     [
       "risk",
@@ -318,11 +323,6 @@
       "anger"
     ],
     [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
       "analysts",
       1,
       "trust"
@@ -380,8 +380,8 @@
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 48,
-    "fear": 85,
+    "trust": 49,
+    "fear": 84,
     "surprise": 9,
     "sadness": 22,
     "disgust": 4,
