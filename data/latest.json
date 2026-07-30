@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T11:42:52.586Z",
+  "generated_at": "2026-07-30T11:57:54.466Z",
   "article_count": 50,
   "top_words": [
     [
@@ -283,6 +283,16 @@
       "trust"
     ],
     [
+      "think",
+      1,
+      "trust"
+    ],
+    [
+      "crashed",
+      1,
+      "fear"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -306,16 +316,6 @@
       "deadly",
       1,
       "anger"
-    ],
-    [
-      "think",
-      1,
-      "trust"
-    ],
-    [
-      "crashed",
-      1,
-      "fear"
     ],
     [
       "precursor",
