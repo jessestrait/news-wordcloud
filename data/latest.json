@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T18:17:08.304Z",
+  "generated_at": "2026-07-30T18:32:10.182Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "fear"
     ],
     [
-      "attack",
-      7,
-      "anger"
-    ],
-    [
       "people",
       7,
       "trust"
+    ],
+    [
+      "attack",
+      7,
+      "anger"
     ],
     [
       "earthquake",
@@ -143,14 +143,19 @@
       "anger"
     ],
     [
+      "arrive",
+      2,
+      "anticipation"
+    ],
+    [
+      "unknown",
+      2,
+      "fear"
+    ],
+    [
       "forces",
       2,
       "anger"
-    ],
-    [
-      "break",
-      2,
-      "surprise"
     ],
     [
       "accused",
@@ -161,16 +166,6 @@
       "thought",
       2,
       "anticipation"
-    ],
-    [
-      "arrive",
-      2,
-      "anticipation"
-    ],
-    [
-      "unknown",
-      2,
-      "fear"
     ],
     [
       "economy",
@@ -283,6 +278,11 @@
       "sadness"
     ],
     [
+      "police",
+      1,
+      "fear"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -308,24 +308,24 @@
       "anger"
     ],
     [
+      "breaks",
+      1,
+      "surprise"
+    ],
+    [
       "hot",
       1,
       "anger"
     ],
     [
-      "planning",
+      "prepares",
       1,
-      "trust"
+      "anticipation"
     ],
     [
       "offensive",
       1,
       "anger"
-    ],
-    [
-      "preparing",
-      1,
-      "anticipation"
     ],
     [
       "terminal",
@@ -341,11 +341,6 @@
       "deadly",
       1,
       "anger"
-    ],
-    [
-      "police",
-      1,
-      "fear"
     ],
     [
       "conflict",
@@ -376,13 +371,18 @@
       "measures",
       1,
       "trust"
+    ],
+    [
+      "defend",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 60,
+    "trust": 59,
     "fear": 80,
-    "surprise": 12,
+    "surprise": 11,
     "sadness": 21,
     "disgust": 3,
     "anger": 111,
