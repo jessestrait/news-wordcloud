@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T14:44:50.696Z",
+  "generated_at": "2026-07-30T14:59:53.292Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "anger"
     ],
     [
+      "trump",
+      4,
+      "anger"
+    ],
+    [
       "military",
       4,
       "fear"
@@ -108,11 +113,6 @@
       "trust"
     ],
     [
-      "system",
-      3,
-      "trust"
-    ],
-    [
       "found",
       3,
       "joy"
@@ -138,9 +138,9 @@
       "fear"
     ],
     [
-      "trump",
-      3,
-      "anger"
+      "freedom",
+      2,
+      "joy"
     ],
     [
       "crashes",
@@ -179,6 +179,11 @@
     ],
     [
       "justice",
+      2,
+      "trust"
+    ],
+    [
+      "system",
       2,
       "trust"
     ],
@@ -278,6 +283,41 @@
       "anger"
     ],
     [
+      "invokes",
+      1,
+      "anticipation"
+    ],
+    [
+      "immigrant",
+      1,
+      "fear"
+    ],
+    [
+      "enslaved",
+      1,
+      "anger"
+    ],
+    [
+      "founding",
+      1,
+      "joy"
+    ],
+    [
+      "praises",
+      1,
+      "joy"
+    ],
+    [
+      "opportunity",
+      1,
+      "anticipation"
+    ],
+    [
+      "policies",
+      1,
+      "trust"
+    ],
+    [
       "measures",
       1,
       "trust"
@@ -336,56 +376,16 @@
       "deadly",
       1,
       "anger"
-    ],
-    [
-      "counting",
-      1,
-      "trust"
-    ],
-    [
-      "absence",
-      1,
-      "fear"
-    ],
-    [
-      "speculation",
-      1,
-      "fear"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
-    ],
-    [
-      "extinguish",
-      1,
-      "anger"
-    ],
-    [
-      "breaks",
-      1,
-      "surprise"
-    ],
-    [
-      "chancellor",
-      1,
-      "trust"
-    ],
-    [
-      "holiday",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 59,
-    "fear": 86,
+    "joy": 25,
+    "trust": 58,
+    "fear": 84,
     "surprise": 12,
     "sadness": 21,
     "disgust": 3,
-    "anger": 108,
-    "anticipation": 25
+    "anger": 110,
+    "anticipation": 27
   }
 }
