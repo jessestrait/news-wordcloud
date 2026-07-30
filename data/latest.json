@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T12:13:19.519Z",
+  "generated_at": "2026-07-30T12:28:21.809Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,11 +63,6 @@
       "anger"
     ],
     [
-      "show",
-      4,
-      "trust"
-    ],
-    [
       "military",
       4,
       "fear"
@@ -76,6 +71,11 @@
       "hit",
       4,
       "anger"
+    ],
+    [
+      "show",
+      4,
+      "trust"
     ],
     [
       "shopping",
@@ -268,6 +268,21 @@
       "anger"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "guard",
+      1,
+      "fear"
+    ],
+    [
       "extinguish",
       1,
       "anger"
@@ -304,21 +319,6 @@
     ],
     [
       "crashed",
-      1,
-      "fear"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "guard",
       1,
       "fear"
     ],
