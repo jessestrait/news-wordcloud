@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T16:15:46.661Z",
+  "generated_at": "2026-07-30T16:30:50.221Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "people",
+      7,
+      "trust"
+    ],
+    [
       "war",
       7,
       "anger"
@@ -41,11 +46,6 @@
       "iran",
       6,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "happened",
@@ -78,6 +78,11 @@
       "anger"
     ],
     [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "show",
       4,
       "trust"
@@ -91,11 +96,6 @@
       "shopping",
       4,
       "surprise"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "blazes",
@@ -141,6 +141,16 @@
       "fear",
       3,
       "anger"
+    ],
+    [
+      "president",
+      2,
+      "trust"
+    ],
+    [
+      "arrive",
+      2,
+      "anticipation"
     ],
     [
       "economy",
@@ -238,11 +248,6 @@
       "anger"
     ],
     [
-      "crime",
-      2,
-      "anger"
-    ],
-    [
       "obituary",
       2,
       "sadness"
@@ -256,11 +261,6 @@
       "deep",
       2,
       "joy"
-    ],
-    [
-      "missing",
-      2,
-      "fear"
     ],
     [
       "quake",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 61,
-    "fear": 82,
+    "trust": 62,
+    "fear": 81,
     "surprise": 12,
-    "sadness": 21,
+    "sadness": 20,
     "disgust": 3,
-    "anger": 117,
-    "anticipation": 30
+    "anger": 115,
+    "anticipation": 29
   }
 }
