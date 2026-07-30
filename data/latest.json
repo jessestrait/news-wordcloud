@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T14:59:53.292Z",
+  "generated_at": "2026-07-30T15:00:12.041Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,17 +63,17 @@
       "anger"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
       "military",
       4,
       "fear"
     ],
     [
       "hit",
+      4,
+      "anger"
+    ],
+    [
+      "trump",
       4,
       "anger"
     ],
@@ -283,6 +283,21 @@
       "anger"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "guard",
+      1,
+      "fear"
+    ],
+    [
       "invokes",
       1,
       "anticipation"
@@ -329,21 +344,6 @@
     ],
     [
       "crashed",
-      1,
-      "fear"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "guard",
       1,
       "fear"
     ],
