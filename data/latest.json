@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:29:15.833Z",
+  "generated_at": "2026-07-30T13:44:18.329Z",
   "article_count": 50,
   "top_words": [
     [
@@ -148,6 +148,11 @@
       "fear"
     ],
     [
+      "guide",
+      2,
+      "trust"
+    ],
+    [
       "rage",
       2,
       "anger"
@@ -166,11 +171,6 @@
       "leaving",
       2,
       "sadness"
-    ],
-    [
-      "beach",
-      2,
-      "joy"
     ],
     [
       "fighting",
@@ -278,21 +278,6 @@
       "anger"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "guard",
-      1,
-      "fear"
-    ],
-    [
       "measures",
       1,
       "trust"
@@ -308,9 +293,19 @@
       "fear"
     ],
     [
-      "guide",
+      "middle",
       1,
-      "trust"
+      "sadness"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "guard",
+      1,
+      "fear"
     ],
     [
       "ferocious",
@@ -376,6 +371,11 @@
       "chancellor",
       1,
       "trust"
+    ],
+    [
+      "holiday",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 21,
     "disgust": 3,
     "anger": 108,
-    "anticipation": 26
+    "anticipation": 25
   }
 }
