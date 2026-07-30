@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:13:47.209Z",
+  "generated_at": "2026-07-30T13:28:49.833Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,6 +88,11 @@
       "anticipation"
     ],
     [
+      "leader",
+      3,
+      "trust"
+    ],
+    [
       "blazes",
       3,
       "anger"
@@ -158,16 +163,6 @@
       "anticipation"
     ],
     [
-      "world",
-      2,
-      "trust"
-    ],
-    [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "leaving",
       2,
       "sadness"
@@ -184,11 +179,6 @@
     ],
     [
       "justice",
-      2,
-      "trust"
-    ],
-    [
-      "leader",
       2,
       "trust"
     ],
@@ -353,6 +343,11 @@
       "anger"
     ],
     [
+      "counting",
+      1,
+      "trust"
+    ],
+    [
       "absence",
       1,
       "fear"
@@ -376,6 +371,11 @@
       "breaks",
       1,
       "surprise"
+    ],
+    [
+      "chancellor",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
