@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T14:43:33.327Z",
+  "generated_at": "2026-07-31T14:58:35.594Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "fear"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
       "iran",
       6,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "attack",
@@ -143,6 +143,21 @@
       "anger"
     ],
     [
+      "hormuz",
+      2,
+      "fear"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "cabinet",
+      2,
+      "trust"
+    ],
+    [
       "middle",
       2,
       "sadness"
@@ -161,21 +176,6 @@
       "peace",
       2,
       "joy"
-    ],
-    [
-      "hormuz",
-      2,
-      "fear"
-    ],
-    [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
-      "cabinet",
-      2,
-      "trust"
     ],
     [
       "killed",
@@ -298,6 +298,31 @@
       "joy"
     ],
     [
+      "escort",
+      1,
+      "trust"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "depends",
+      1,
+      "trust"
+    ],
+    [
+      "established",
+      1,
+      "joy"
+    ],
+    [
       "blames",
       1,
       "anger"
@@ -321,31 +346,6 @@
       "arriving",
       1,
       "anticipation"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "depends",
-      1,
-      "trust"
-    ],
-    [
-      "established",
-      1,
-      "joy"
-    ],
-    [
-      "escort",
-      1,
-      "trust"
     ],
     [
       "daughter",
