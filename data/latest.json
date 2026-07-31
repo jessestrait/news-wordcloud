@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-31T14:13:06.324Z",
+  "generated_at": "2026-07-31T14:28:08.788Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
-      8,
+      "war",
+      7,
       "anger"
     ],
     [
@@ -13,19 +13,19 @@
       "fear"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "people",
       6,
       "trust"
     ],
     [
-      "fire",
+      "iran",
       6,
-      "fear"
+      "anger"
+    ],
+    [
+      "attack",
+      6,
+      "anger"
     ],
     [
       "missile",
@@ -33,24 +33,29 @@
       "fear"
     ],
     [
+      "strike",
+      6,
+      "anger"
+    ],
+    [
       "death",
       6,
       "sadness"
     ],
     [
-      "strike",
+      "fire",
       5,
-      "anger"
+      "fear"
+    ],
+    [
+      "team",
+      4,
+      "trust"
     ],
     [
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
     ],
     [
       "home",
@@ -73,14 +78,29 @@
       "fear"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
+      "fighting",
+      3,
+      "anger"
+    ],
+    [
+      "conflict",
+      3,
+      "anger"
+    ],
+    [
       "calls",
       3,
       "trust"
     ],
     [
-      "show",
+      "found",
       3,
-      "trust"
+      "joy"
     ],
     [
       "global",
@@ -108,11 +128,6 @@
       "surprise"
     ],
     [
-      "teams",
-      3,
-      "trust"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -128,14 +143,14 @@
       "anger"
     ],
     [
+      "middle",
+      2,
+      "sadness"
+    ],
+    [
       "official",
       2,
       "trust"
-    ],
-    [
-      "trump",
-      2,
-      "anger"
     ],
     [
       "board",
@@ -148,6 +163,21 @@
       "joy"
     ],
     [
+      "hormuz",
+      2,
+      "fear"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "cabinet",
+      2,
+      "trust"
+    ],
+    [
       "killed",
       2,
       "fear"
@@ -156,6 +186,16 @@
       "leave",
       2,
       "sadness"
+    ],
+    [
+      "avalanche",
+      2,
+      "fear"
+    ],
+    [
+      "show",
+      2,
+      "trust"
     ],
     [
       "hot",
@@ -171,11 +211,6 @@
       "happen",
       2,
       "anticipation"
-    ],
-    [
-      "conflict",
-      2,
-      "anger"
     ],
     [
       "expected",
@@ -203,22 +238,12 @@
       "anger"
     ],
     [
-      "thought",
-      2,
-      "anticipation"
-    ],
-    [
       "threat",
       2,
       "anger"
     ],
     [
       "continuing",
-      2,
-      "trust"
-    ],
-    [
-      "economy",
       2,
       "trust"
     ],
@@ -231,11 +256,6 @@
       "guide",
       2,
       "trust"
-    ],
-    [
-      "fighting",
-      2,
-      "anger"
     ],
     [
       "justice",
@@ -251,11 +271,6 @@
       "flu",
       2,
       "fear"
-    ],
-    [
-      "found",
-      2,
-      "joy"
     ],
     [
       "warn",
@@ -308,11 +323,6 @@
       "anticipation"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
       "gaza",
       1,
       "anger"
@@ -333,6 +343,11 @@
       "joy"
     ],
     [
+      "escort",
+      1,
+      "trust"
+    ],
+    [
       "daughter",
       1,
       "joy"
@@ -348,44 +363,29 @@
       "sadness"
     ],
     [
-      "diplomatic",
+      "world",
       1,
       "trust"
     ],
     [
-      "destination",
+      "mountain",
       1,
-      "fear"
+      "anticipation"
     ],
     [
-      "hospitals",
-      1,
-      "fear"
-    ],
-    [
-      "legal",
+      "showed",
       1,
       "trust"
-    ],
-    [
-      "treated",
-      1,
-      "anger"
-    ],
-    [
-      "brutal",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 62,
-    "fear": 78,
-    "surprise": 7,
-    "sadness": 16,
+    "trust": 63,
+    "fear": 80,
+    "surprise": 8,
+    "sadness": 17,
     "disgust": 1,
-    "anger": 102,
+    "anger": 106,
     "anticipation": 30
   }
 }
