@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T07:39:31.578Z",
+  "generated_at": "2026-07-31T07:54:33.369Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,16 +43,6 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
-      "earthquake",
-      5,
-      "anger"
-    ],
-    [
       "show",
       4,
       "trust"
@@ -68,6 +58,11 @@
       "fear"
     ],
     [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "home",
       4,
       "joy"
@@ -78,9 +73,19 @@
       "trust"
     ],
     [
+      "earthquake",
+      4,
+      "anger"
+    ],
+    [
       "emergency",
       4,
       "fear"
+    ],
+    [
+      "expected",
+      3,
+      "anticipation"
     ],
     [
       "trump",
@@ -113,11 +118,6 @@
       "trust"
     ],
     [
-      "shopping",
-      3,
-      "surprise"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -135,6 +135,11 @@
     [
       "fear",
       3,
+      "anger"
+    ],
+    [
+      "demands",
+      2,
       "anger"
     ],
     [
@@ -171,11 +176,6 @@
       "conflict",
       2,
       "anger"
-    ],
-    [
-      "expected",
-      2,
-      "anticipation"
     ],
     [
       "police",
@@ -263,11 +263,6 @@
       "fear"
     ],
     [
-      "building",
-      2,
-      "anticipation"
-    ],
-    [
       "warn",
       2,
       "fear"
@@ -288,14 +283,9 @@
       "joy"
     ],
     [
-      "quake",
-      2,
+      "die",
+      1,
       "fear"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "middle",
@@ -376,16 +366,26 @@
       "build",
       1,
       "anticipation"
+    ],
+    [
+      "president",
+      1,
+      "trust"
+    ],
+    [
+      "plan",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 62,
+    "trust": 61,
     "fear": 77,
-    "surprise": 10,
+    "surprise": 8,
     "sadness": 18,
     "disgust": 2,
-    "anger": 113,
-    "anticipation": 32
+    "anger": 111,
+    "anticipation": 31
   }
 }
