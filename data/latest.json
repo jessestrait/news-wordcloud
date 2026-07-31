@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:55:06.273Z",
+  "generated_at": "2026-07-31T09:10:08.944Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "death",
-      8,
+      7,
       "sadness"
     ],
     [
@@ -31,11 +31,6 @@
       "missile",
       6,
       "fear"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "strike",
@@ -63,6 +58,11 @@
       "fear"
     ],
     [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "home",
       4,
       "joy"
@@ -83,14 +83,14 @@
       "fear"
     ],
     [
-      "expected",
-      3,
-      "anticipation"
-    ],
-    [
       "trump",
       3,
       "anger"
+    ],
+    [
+      "expected",
+      3,
+      "anticipation"
     ],
     [
       "global",
@@ -138,16 +138,6 @@
       "anger"
     ],
     [
-      "cross",
-      2,
-      "anger"
-    ],
-    [
-      "demands",
-      2,
-      "anger"
-    ],
-    [
       "official",
       2,
       "trust"
@@ -161,6 +151,16 @@
       "peace",
       2,
       "joy"
+    ],
+    [
+      "cross",
+      2,
+      "anger"
+    ],
+    [
+      "demands",
+      2,
+      "anger"
     ],
     [
       "hot",
@@ -380,10 +380,10 @@
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 61,
+    "trust": 60,
     "fear": 76,
     "surprise": 7,
-    "sadness": 19,
+    "sadness": 18,
     "disgust": 2,
     "anger": 106,
     "anticipation": 31
