@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T03:52:28.689Z",
+  "generated_at": "2026-07-31T04:07:30.694Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "sadness"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "attack",
       7,
       "anger"
@@ -26,6 +21,11 @@
       "earthquake",
       7,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "fire",
@@ -78,6 +78,11 @@
       "joy"
     ],
     [
+      "leader",
+      4,
+      "trust"
+    ],
+    [
       "emergency",
       4,
       "fear"
@@ -88,19 +93,19 @@
       "surprise"
     ],
     [
-      "blazes",
+      "force",
       3,
       "anger"
+    ],
+    [
+      "deal",
+      3,
+      "surprise"
     ],
     [
       "government",
       3,
       "fear"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
     ],
     [
       "rescue",
@@ -133,9 +138,9 @@
       "anger"
     ],
     [
-      "gaza",
+      "expected",
       2,
-      "anger"
+      "anticipation"
     ],
     [
       "president",
@@ -168,7 +173,7 @@
       "fear"
     ],
     [
-      "forces",
+      "blazes",
       2,
       "anger"
     ],
@@ -206,11 +211,6 @@
       "guide",
       2,
       "trust"
-    ],
-    [
-      "rage",
-      2,
-      "anger"
     ],
     [
       "leaving",
@@ -258,11 +258,6 @@
       "anger"
     ],
     [
-      "evacuated",
-      2,
-      "fear"
-    ],
-    [
       "obituary",
       2,
       "sadness"
@@ -288,22 +283,32 @@
       "anticipation"
     ],
     [
+      "brutal",
+      1,
+      "anger"
+    ],
+    [
+      "worry",
+      1,
+      "fear"
+    ],
+    [
+      "marine",
+      1,
+      "trust"
+    ],
+    [
+      "challenge",
+      1,
+      "anger"
+    ],
+    [
       "middle",
       1,
       "sadness"
     ],
     [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
-    ],
-    [
-      "armed",
+      "gaza",
       1,
       "anger"
     ],
@@ -371,21 +376,16 @@
       "extinguish",
       1,
       "anger"
-    ],
-    [
-      "breaks",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 60,
     "fear": 75,
-    "surprise": 11,
+    "surprise": 13,
     "sadness": 21,
     "disgust": 2,
-    "anger": 110,
+    "anger": 108,
     "anticipation": 30
   }
 }
