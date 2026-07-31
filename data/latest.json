@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-31T08:40:03.602Z",
+  "generated_at": "2026-07-31T08:55:06.273Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      10,
+      9,
       "anger"
     ],
     [
@@ -16,11 +16,6 @@
       "death",
       8,
       "sadness"
-    ],
-    [
-      "iran",
-      6,
-      "anger"
     ],
     [
       "wildfire",
@@ -38,14 +33,19 @@
       "fear"
     ],
     [
-      "strike",
-      6,
-      "anger"
-    ],
-    [
       "people",
       5,
       "trust"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
+      "iran",
+      5,
+      "anger"
     ],
     [
       "show",
@@ -148,19 +148,19 @@
       "anger"
     ],
     [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
-      "bases",
+      "official",
       2,
       "trust"
+    ],
+    [
+      "board",
+      2,
+      "anticipation"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "hot",
@@ -228,11 +228,6 @@
       "fear"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
       "calls",
       2,
       "trust"
@@ -293,24 +288,24 @@
       "sadness"
     ],
     [
-      "suggest",
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "depends",
       1,
       "trust"
     ],
     [
-      "obstacles",
+      "established",
       1,
-      "anger"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
+      "joy"
     ],
     [
       "hospitals",
@@ -376,16 +371,21 @@
       "plan",
       1,
       "anticipation"
+    ],
+    [
+      "doubt",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 62,
+    "joy": 28,
+    "trust": 61,
     "fear": 76,
-    "surprise": 8,
+    "surprise": 7,
     "sadness": 19,
     "disgust": 2,
-    "anger": 112,
+    "anger": 106,
     "anticipation": 31
   }
 }
