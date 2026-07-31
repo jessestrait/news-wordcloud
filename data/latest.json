@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T13:58:04.007Z",
+  "generated_at": "2026-07-31T14:13:06.324Z",
   "article_count": 50,
   "top_words": [
     [
@@ -283,31 +283,6 @@
       "joy"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "depends",
-      1,
-      "trust"
-    ],
-    [
-      "established",
-      1,
-      "joy"
-    ],
-    [
       "blames",
       1,
       "anger"
@@ -331,6 +306,31 @@
       "arriving",
       1,
       "anticipation"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "depends",
+      1,
+      "trust"
+    ],
+    [
+      "established",
+      1,
+      "joy"
     ],
     [
       "daughter",
