@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T05:53:19.893Z",
+  "generated_at": "2026-07-31T06:08:22.192Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,16 +133,6 @@
       "anger"
     ],
     [
-      "happen",
-      2,
-      "anticipation"
-    ],
-    [
-      "conflict",
-      2,
-      "anger"
-    ],
-    [
       "gaza",
       2,
       "anger"
@@ -156,6 +146,16 @@
       "bases",
       2,
       "trust"
+    ],
+    [
+      "happen",
+      2,
+      "anticipation"
+    ],
+    [
+      "conflict",
+      2,
+      "anger"
     ],
     [
       "expected",
@@ -293,21 +293,6 @@
       "anticipation"
     ],
     [
-      "hospitals",
-      1,
-      "fear"
-    ],
-    [
-      "legal",
-      1,
-      "trust"
-    ],
-    [
-      "treated",
-      1,
-      "anger"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -329,6 +314,21 @@
     ],
     [
       "retaliation",
+      1,
+      "anger"
+    ],
+    [
+      "hospitals",
+      1,
+      "fear"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
+    ],
+    [
+      "treated",
       1,
       "anger"
     ],
