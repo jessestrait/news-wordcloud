@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-07-31T15:59:26.373Z",
+  "generated_at": "2026-07-31T16:14:28.573Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      8,
+      "trust"
+    ],
     [
       "war",
       7,
@@ -11,16 +16,6 @@
       "wildfire",
       7,
       "fear"
-    ],
-    [
-      "death",
-      7,
-      "sadness"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "iran",
@@ -43,14 +38,14 @@
       "anger"
     ],
     [
+      "death",
+      6,
+      "sadness"
+    ],
+    [
       "fire",
       5,
       "fear"
-    ],
-    [
-      "team",
-      4,
-      "trust"
     ],
     [
       "happened",
@@ -68,14 +63,14 @@
       "trust"
     ],
     [
-      "earthquake",
-      4,
-      "anger"
-    ],
-    [
       "emergency",
       4,
       "fear"
+    ],
+    [
+      "cross",
+      3,
+      "anger"
     ],
     [
       "trump",
@@ -86,6 +81,11 @@
       "found",
       3,
       "joy"
+    ],
+    [
+      "team",
+      3,
+      "trust"
     ],
     [
       "fighting",
@@ -113,19 +113,14 @@
       "anger"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "government",
       3,
       "fear"
     ],
     [
-      "rescue",
+      "earthquake",
       3,
-      "surprise"
+      "anger"
     ],
     [
       "hit",
@@ -140,11 +135,6 @@
     [
       "fear",
       3,
-      "anger"
-    ],
-    [
-      "cross",
-      2,
       "anger"
     ],
     [
@@ -223,6 +213,11 @@
       "anticipation"
     ],
     [
+      "military",
+      2,
+      "fear"
+    ],
+    [
       "police",
       2,
       "fear"
@@ -261,6 +256,11 @@
       "guide",
       2,
       "trust"
+    ],
+    [
+      "rescue",
+      2,
+      "surprise"
     ],
     [
       "justice",
@@ -303,36 +303,6 @@
       "joy"
     ],
     [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
-      "resulted",
-      1,
-      "anticipation"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "depends",
-      1,
-      "trust"
-    ],
-    [
-      "established",
-      1,
-      "joy"
-    ],
-    [
       "blames",
       1,
       "anger"
@@ -358,34 +328,64 @@
       "anticipation"
     ],
     [
-      "world",
+      "die",
+      1,
+      "fear"
+    ],
+    [
+      "decries",
+      1,
+      "anger"
+    ],
+    [
+      "violation",
+      1,
+      "anger"
+    ],
+    [
+      "integrity",
       1,
       "trust"
     ],
     [
-      "mountain",
-      1,
-      "anticipation"
-    ],
-    [
-      "showed",
-      1,
-      "trust"
-    ],
-    [
-      "rapid",
+      "incident",
       1,
       "surprise"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "depends",
+      1,
+      "trust"
+    ],
+    [
+      "established",
+      1,
+      "joy"
+    ],
+    [
+      "attempted",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 62,
-    "fear": 80,
+    "trust": 64,
+    "fear": 79,
     "surprise": 8,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 1,
-    "anger": 107,
-    "anticipation": 31
+    "anger": 110,
+    "anticipation": 32
   }
 }
