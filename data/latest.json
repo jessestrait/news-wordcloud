@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T17:45:18.318Z",
+  "generated_at": "2026-07-31T18:00:20.455Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,12 +68,12 @@
       "fear"
     ],
     [
-      "trump",
+      "cross",
       3,
       "anger"
     ],
     [
-      "cross",
+      "trump",
       3,
       "anger"
     ],
@@ -303,26 +303,6 @@
       "joy"
     ],
     [
-      "happy",
-      1,
-      "joy"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
       "die",
       1,
       "fear"
@@ -346,6 +326,26 @@
       "incident",
       1,
       "surprise"
+    ],
+    [
+      "happy",
+      1,
+      "joy"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "agreement",
+      1,
+      "trust"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
     ],
     [
       "daughter",
