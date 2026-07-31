@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T11:26:27.353Z",
+  "generated_at": "2026-07-31T11:26:43.167Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,31 +273,6 @@
       "joy"
     ],
     [
-      "blames",
-      1,
-      "anger"
-    ],
-    [
-      "criminals",
-      1,
-      "anger"
-    ],
-    [
-      "court",
-      1,
-      "anger"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "arriving",
-      1,
-      "anticipation"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -321,6 +296,31 @@
       "established",
       1,
       "joy"
+    ],
+    [
+      "blames",
+      1,
+      "anger"
+    ],
+    [
+      "criminals",
+      1,
+      "anger"
+    ],
+    [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "ruling",
+      1,
+      "fear"
+    ],
+    [
+      "arriving",
+      1,
+      "anticipation"
     ],
     [
       "diplomatic",
