@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-31T10:10:57.185Z",
+  "generated_at": "2026-07-31T10:25:59.685Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      9,
+      8,
       "anger"
     ],
     [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -33,19 +33,14 @@
       "fear"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "strike",
       5,
       "anger"
-    ],
-    [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
-      "show",
-      4,
-      "trust"
     ],
     [
       "happened",
@@ -53,14 +48,9 @@
       "anticipation"
     ],
     [
-      "military",
+      "iran",
       4,
-      "fear"
-    ],
-    [
-      "people",
-      4,
-      "trust"
+      "anger"
     ],
     [
       "home",
@@ -88,9 +78,9 @@
       "anticipation"
     ],
     [
-      "trump",
+      "show",
       3,
-      "anger"
+      "trust"
     ],
     [
       "global",
@@ -101,6 +91,11 @@
       "force",
       3,
       "anger"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "government",
@@ -143,14 +138,14 @@
       "anger"
     ],
     [
-      "demands",
-      2,
-      "anger"
-    ],
-    [
       "official",
       2,
       "trust"
+    ],
+    [
+      "trump",
+      2,
+      "anger"
     ],
     [
       "board",
@@ -238,11 +233,6 @@
       "trust"
     ],
     [
-      "leaving",
-      2,
-      "sadness"
-    ],
-    [
       "fighting",
       2,
       "anger"
@@ -283,6 +273,11 @@
       "joy"
     ],
     [
+      "demands",
+      1,
+      "anger"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -306,6 +301,16 @@
       "established",
       1,
       "joy"
+    ],
+    [
+      "diplomatic",
+      1,
+      "trust"
+    ],
+    [
+      "destination",
+      1,
+      "fear"
     ],
     [
       "hospitals",
@@ -371,11 +376,6 @@
       "plan",
       1,
       "anticipation"
-    ],
-    [
-      "doubt",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 60,
     "fear": 76,
     "surprise": 7,
-    "sadness": 18,
+    "sadness": 15,
     "disgust": 2,
-    "anger": 106,
-    "anticipation": 31
+    "anger": 99,
+    "anticipation": 30
   }
 }
