@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T09:40:28.934Z",
+  "generated_at": "2026-07-31T09:55:31.090Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,14 +83,14 @@
       "fear"
     ],
     [
-      "expected",
-      3,
-      "anticipation"
-    ],
-    [
       "trump",
       3,
       "anger"
+    ],
+    [
+      "expected",
+      3,
+      "anticipation"
     ],
     [
       "global",
@@ -138,16 +138,6 @@
       "anger"
     ],
     [
-      "cross",
-      2,
-      "anger"
-    ],
-    [
-      "demands",
-      2,
-      "anger"
-    ],
-    [
       "official",
       2,
       "trust"
@@ -161,6 +151,16 @@
       "peace",
       2,
       "joy"
+    ],
+    [
+      "cross",
+      2,
+      "anger"
+    ],
+    [
+      "demands",
+      2,
+      "anger"
     ],
     [
       "hot",
