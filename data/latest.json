@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:03:57.012Z",
+  "generated_at": "2026-07-31T23:18:59.285Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "war",
       7,
       "anger"
+    ],
+    [
+      "happened",
+      6,
+      "anticipation"
     ],
     [
       "iran",
@@ -41,11 +46,6 @@
       "death",
       6,
       "sadness"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
     ],
     [
       "fire",
@@ -386,6 +386,6 @@
     "sadness": 17,
     "disgust": 2,
     "anger": 106,
-    "anticipation": 32
+    "anticipation": 33
   }
 }
