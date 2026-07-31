@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T13:27:40.532Z",
+  "generated_at": "2026-07-31T13:42:42.969Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,24 +8,19 @@
       "anger"
     ],
     [
+      "wildfire",
+      7,
+      "fear"
+    ],
+    [
       "war",
       7,
       "anger"
     ],
     [
-      "death",
-      7,
-      "sadness"
-    ],
-    [
       "people",
       6,
       "trust"
-    ],
-    [
-      "wildfire",
-      6,
-      "fear"
     ],
     [
       "fire",
@@ -36,6 +31,11 @@
       "missile",
       6,
       "fear"
+    ],
+    [
+      "death",
+      6,
+      "sadness"
     ],
     [
       "strike",
@@ -71,6 +71,11 @@
       "emergency",
       4,
       "fear"
+    ],
+    [
+      "calls",
+      3,
+      "trust"
     ],
     [
       "show",
@@ -118,14 +123,19 @@
       "trust"
     ],
     [
-      "found",
-      3,
-      "joy"
-    ],
-    [
       "fear",
       3,
       "anger"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
     ],
     [
       "official",
@@ -218,11 +228,6 @@
       "fear"
     ],
     [
-      "calls",
-      2,
-      "trust"
-    ],
-    [
       "guide",
       2,
       "trust"
@@ -246,6 +251,11 @@
       "flu",
       2,
       "fear"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "warn",
@@ -296,6 +306,21 @@
       "arriving",
       1,
       "anticipation"
+    ],
+    [
+      "daughter",
+      1,
+      "joy"
+    ],
+    [
+      "rejects",
+      1,
+      "anger"
+    ],
+    [
+      "late",
+      1,
+      "sadness"
     ],
     [
       "middle",
@@ -351,41 +376,16 @@
       "brutal",
       1,
       "anger"
-    ],
-    [
-      "worry",
-      1,
-      "fear"
-    ],
-    [
-      "marine",
-      1,
-      "trust"
-    ],
-    [
-      "challenge",
-      1,
-      "anger"
-    ],
-    [
-      "fearful",
-      1,
-      "fear"
-    ],
-    [
-      "fragile",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 61,
-    "fear": 77,
+    "trust": 62,
+    "fear": 78,
     "surprise": 7,
-    "sadness": 15,
-    "disgust": 2,
-    "anger": 101,
+    "sadness": 16,
+    "disgust": 1,
+    "anger": 102,
     "anticipation": 30
   }
 }
