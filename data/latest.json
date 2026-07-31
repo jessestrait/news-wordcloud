@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-07-31T05:38:17.458Z",
+  "generated_at": "2026-07-31T05:53:19.893Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      10,
+      "anger"
+    ],
     [
       "war",
       9,
@@ -9,23 +14,13 @@
     ],
     [
       "death",
-      8,
+      7,
       "sadness"
     ],
     [
-      "attack",
-      7,
-      "anger"
-    ],
-    [
-      "earthquake",
-      7,
-      "anger"
-    ],
-    [
-      "people",
+      "iran",
       6,
-      "trust"
+      "anger"
     ],
     [
       "fire",
@@ -38,17 +33,17 @@
       "fear"
     ],
     [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
       "strike",
-      5,
+      6,
       "anger"
     ],
     [
-      "iran",
+      "people",
+      5,
+      "trust"
+    ],
+    [
+      "earthquake",
       5,
       "anger"
     ],
@@ -58,19 +53,14 @@
       "fear"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
-      "show",
-      4,
-      "trust"
-    ],
-    [
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "military",
+      4,
+      "fear"
     ],
     [
       "home",
@@ -88,19 +78,19 @@
       "fear"
     ],
     [
-      "shopping",
-      4,
-      "surprise"
-    ],
-    [
-      "deal",
+      "trump",
       3,
-      "surprise"
+      "anger"
     ],
     [
       "force",
       3,
       "anger"
+    ],
+    [
+      "show",
+      3,
+      "trust"
     ],
     [
       "government",
@@ -116,6 +106,11 @@
       "teams",
       3,
       "trust"
+    ],
+    [
+      "shopping",
+      3,
+      "surprise"
     ],
     [
       "hit",
@@ -138,19 +133,29 @@
       "anger"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
-      "board",
+      "happen",
       2,
       "anticipation"
     ],
     [
-      "peace",
+      "conflict",
       2,
-      "joy"
+      "anger"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
+      "bases",
+      2,
+      "trust"
     ],
     [
       "expected",
@@ -201,6 +206,11 @@
       "crashes",
       2,
       "fear"
+    ],
+    [
+      "official",
+      2,
+      "trust"
     ],
     [
       "calls",
@@ -283,12 +293,42 @@
       "anticipation"
     ],
     [
+      "hospitals",
+      1,
+      "fear"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
+    ],
+    [
+      "treated",
+      1,
+      "anger"
+    ],
+    [
       "middle",
       1,
       "sadness"
     ],
     [
-      "gaza",
+      "suggest",
+      1,
+      "trust"
+    ],
+    [
+      "obstacles",
+      1,
+      "anger"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "retaliation",
       1,
       "anger"
     ],
@@ -333,59 +373,19 @@
       "anticipation"
     ],
     [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
-      "doubt",
-      1,
-      "fear"
-    ],
-    [
-      "riot",
-      1,
-      "anger"
-    ],
-    [
-      "charity",
-      1,
-      "joy"
-    ],
-    [
-      "officers",
+      "president",
       1,
       "trust"
-    ],
-    [
-      "boarding",
-      1,
-      "anticipation"
-    ],
-    [
-      "asylum",
-      1,
-      "fear"
-    ],
-    [
-      "cross",
-      1,
-      "anger"
-    ],
-    [
-      "extinguish",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 60,
-    "fear": 75,
-    "surprise": 13,
-    "sadness": 21,
+    "joy": 26,
+    "trust": 61,
+    "fear": 76,
+    "surprise": 10,
+    "sadness": 20,
     "disgust": 2,
-    "anger": 108,
+    "anger": 113,
     "anticipation": 30
   }
 }
