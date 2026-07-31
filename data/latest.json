@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T17:30:16.116Z",
+  "generated_at": "2026-07-31T17:45:18.318Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,14 +43,14 @@
       "sadness"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "fire",
       5,
       "fear"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "home",
@@ -386,6 +386,6 @@
     "sadness": 17,
     "disgust": 2,
     "anger": 106,
-    "anticipation": 31
+    "anticipation": 32
   }
 }
