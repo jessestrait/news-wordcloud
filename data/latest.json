@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:29:00.882Z",
+  "generated_at": "2026-07-31T15:44:02.905Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,6 +78,11 @@
       "fear"
     ],
     [
+      "found",
+      3,
+      "joy"
+    ],
+    [
       "trump",
       3,
       "anger"
@@ -96,11 +101,6 @@
       "calls",
       3,
       "trust"
-    ],
-    [
-      "found",
-      3,
-      "joy"
     ],
     [
       "global",
@@ -143,19 +143,9 @@
       "anger"
     ],
     [
-      "hormuz",
+      "avalanche",
       2,
       "fear"
-    ],
-    [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
-      "cabinet",
-      2,
-      "trust"
     ],
     [
       "middle",
@@ -178,6 +168,21 @@
       "joy"
     ],
     [
+      "hormuz",
+      2,
+      "fear"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "cabinet",
+      2,
+      "trust"
+    ],
+    [
       "killed",
       2,
       "fear"
@@ -186,11 +191,6 @@
       "leave",
       2,
       "sadness"
-    ],
-    [
-      "avalanche",
-      2,
-      "fear"
     ],
     [
       "show",
@@ -323,9 +323,29 @@
       "anticipation"
     ],
     [
-      "escort",
+      "world",
       1,
       "trust"
+    ],
+    [
+      "mountain",
+      1,
+      "anticipation"
+    ],
+    [
+      "showed",
+      1,
+      "trust"
+    ],
+    [
+      "rapid",
+      1,
+      "surprise"
+    ],
+    [
+      "descent",
+      1,
+      "fear"
     ],
     [
       "gaza",
@@ -348,34 +368,14 @@
       "joy"
     ],
     [
+      "escort",
+      1,
+      "trust"
+    ],
+    [
       "daughter",
       1,
       "joy"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "world",
-      1,
-      "trust"
-    ],
-    [
-      "mountain",
-      1,
-      "anticipation"
-    ],
-    [
-      "showed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
