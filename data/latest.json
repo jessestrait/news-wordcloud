@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T04:22:32.708Z",
+  "generated_at": "2026-07-31T04:37:34.681Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,14 +93,14 @@
       "surprise"
     ],
     [
-      "force",
-      3,
-      "anger"
-    ],
-    [
       "deal",
       3,
       "surprise"
+    ],
+    [
+      "force",
+      3,
+      "anger"
     ],
     [
       "government",
@@ -138,11 +138,6 @@
       "anger"
     ],
     [
-      "expected",
-      2,
-      "anticipation"
-    ],
-    [
       "president",
       2,
       "trust"
@@ -156,6 +151,11 @@
       "peace",
       2,
       "joy"
+    ],
+    [
+      "expected",
+      2,
+      "anticipation"
     ],
     [
       "police",
@@ -283,6 +283,16 @@
       "anticipation"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
       "brutal",
       1,
       "anger"
@@ -299,16 +309,6 @@
     ],
     [
       "challenge",
-      1,
-      "anger"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "gaza",
       1,
       "anger"
     ],
