@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T16:59:50.504Z",
+  "generated_at": "2026-07-31T17:14:52.419Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,6 +68,11 @@
       "fear"
     ],
     [
+      "cross",
+      3,
+      "anger"
+    ],
+    [
       "trump",
       3,
       "anger"
@@ -76,11 +81,6 @@
       "calls",
       3,
       "trust"
-    ],
-    [
-      "cross",
-      3,
-      "anger"
     ],
     [
       "found",
@@ -303,6 +303,31 @@
       "joy"
     ],
     [
+      "die",
+      1,
+      "fear"
+    ],
+    [
+      "decries",
+      1,
+      "anger"
+    ],
+    [
+      "violation",
+      1,
+      "anger"
+    ],
+    [
+      "integrity",
+      1,
+      "trust"
+    ],
+    [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
       "happy",
       1,
       "joy"
@@ -336,31 +361,6 @@
       "late",
       1,
       "sadness"
-    ],
-    [
-      "die",
-      1,
-      "fear"
-    ],
-    [
-      "decries",
-      1,
-      "anger"
-    ],
-    [
-      "violation",
-      1,
-      "anger"
-    ],
-    [
-      "integrity",
-      1,
-      "trust"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
     ],
     [
       "attempted",
