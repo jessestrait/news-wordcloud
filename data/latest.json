@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T11:11:25.147Z",
+  "generated_at": "2026-07-31T11:26:27.353Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "sadness"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
       "wildfire",
       6,
       "fear"
@@ -31,11 +36,6 @@
       "missile",
       6,
       "fear"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "strike",
@@ -146,11 +146,6 @@
       "peace",
       2,
       "joy"
-    ],
-    [
-      "legal",
-      2,
-      "trust"
     ],
     [
       "hot",
@@ -268,9 +263,39 @@
       "anger"
     ],
     [
+      "gang",
+      2,
+      "anger"
+    ],
+    [
       "deep",
       2,
       "joy"
+    ],
+    [
+      "blames",
+      1,
+      "anger"
+    ],
+    [
+      "criminals",
+      1,
+      "anger"
+    ],
+    [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "ruling",
+      1,
+      "fear"
+    ],
+    [
+      "arriving",
+      1,
+      "anticipation"
     ],
     [
       "middle",
@@ -298,21 +323,6 @@
       "joy"
     ],
     [
-      "establish",
-      1,
-      "trust"
-    ],
-    [
-      "expulsion",
-      1,
-      "anger"
-    ],
-    [
-      "demands",
-      1,
-      "anger"
-    ],
-    [
       "diplomatic",
       1,
       "trust"
@@ -326,6 +336,11 @@
       "hospitals",
       1,
       "fear"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
     ],
     [
       "treated",
@@ -361,31 +376,16 @@
       "fragile",
       1,
       "fear"
-    ],
-    [
-      "letting",
-      1,
-      "joy"
-    ],
-    [
-      "build",
-      1,
-      "anticipation"
-    ],
-    [
-      "president",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 62,
-    "fear": 76,
+    "trust": 61,
+    "fear": 77,
     "surprise": 7,
     "sadness": 15,
     "disgust": 2,
-    "anger": 99,
-    "anticipation": 29
+    "anger": 101,
+    "anticipation": 30
   }
 }
