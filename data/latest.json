@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T13:43:01.856Z",
+  "generated_at": "2026-07-31T13:58:04.007Z",
   "article_count": 50,
   "top_words": [
     [
@@ -128,16 +128,6 @@
       "anger"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
       "official",
       2,
       "trust"
@@ -156,6 +146,16 @@
       "peace",
       2,
       "joy"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
     ],
     [
       "hot",
@@ -283,6 +283,31 @@
       "joy"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "depends",
+      1,
+      "trust"
+    ],
+    [
+      "established",
+      1,
+      "joy"
+    ],
+    [
       "blames",
       1,
       "anger"
@@ -321,31 +346,6 @@
       "late",
       1,
       "sadness"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "depends",
-      1,
-      "trust"
-    ],
-    [
-      "established",
-      1,
-      "joy"
     ],
     [
       "diplomatic",
