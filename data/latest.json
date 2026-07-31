@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T06:54:05.947Z",
+  "generated_at": "2026-07-31T07:09:07.777Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      9,
+      8,
       "anger"
     ],
     [
@@ -21,6 +21,11 @@
       "iran",
       6,
       "anger"
+    ],
+    [
+      "wildfire",
+      6,
+      "fear"
     ],
     [
       "fire",
@@ -48,9 +53,9 @@
       "anger"
     ],
     [
-      "wildfire",
-      5,
-      "fear"
+      "show",
+      4,
+      "trust"
     ],
     [
       "happened",
@@ -83,14 +88,14 @@
       "anger"
     ],
     [
+      "global",
+      3,
+      "anticipation"
+    ],
+    [
       "force",
       3,
       "anger"
-    ],
-    [
-      "show",
-      3,
-      "trust"
     ],
     [
       "government",
@@ -146,6 +151,16 @@
       "bases",
       2,
       "trust"
+    ],
+    [
+      "hot",
+      2,
+      "anger"
+    ],
+    [
+      "times",
+      2,
+      "anticipation"
     ],
     [
       "happen",
@@ -268,16 +283,6 @@
       "anger"
     ],
     [
-      "obituary",
-      2,
-      "sadness"
-    ],
-    [
-      "global",
-      2,
-      "anticipation"
-    ],
-    [
       "deep",
       2,
       "joy"
@@ -371,21 +376,16 @@
       "build",
       1,
       "anticipation"
-    ],
-    [
-      "president",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 61,
-    "fear": 76,
+    "trust": 62,
+    "fear": 77,
     "surprise": 10,
-    "sadness": 20,
+    "sadness": 18,
     "disgust": 2,
     "anger": 113,
-    "anticipation": 30
+    "anticipation": 32
   }
 }
