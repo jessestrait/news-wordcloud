@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:56:22.864Z",
+  "generated_at": "2026-07-31T11:11:25.147Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,11 +73,6 @@
       "fear"
     ],
     [
-      "expected",
-      3,
-      "anticipation"
-    ],
-    [
       "show",
       3,
       "trust"
@@ -133,11 +128,6 @@
       "anger"
     ],
     [
-      "cross",
-      2,
-      "anger"
-    ],
-    [
       "official",
       2,
       "trust"
@@ -158,6 +148,11 @@
       "joy"
     ],
     [
+      "legal",
+      2,
+      "trust"
+    ],
+    [
       "hot",
       2,
       "anger"
@@ -176,6 +171,11 @@
       "conflict",
       2,
       "anger"
+    ],
+    [
+      "expected",
+      2,
+      "anticipation"
     ],
     [
       "police",
@@ -273,11 +273,6 @@
       "joy"
     ],
     [
-      "demands",
-      1,
-      "anger"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -303,6 +298,21 @@
       "joy"
     ],
     [
+      "establish",
+      1,
+      "trust"
+    ],
+    [
+      "expulsion",
+      1,
+      "anger"
+    ],
+    [
+      "demands",
+      1,
+      "anger"
+    ],
+    [
       "diplomatic",
       1,
       "trust"
@@ -316,11 +326,6 @@
       "hospitals",
       1,
       "fear"
-    ],
-    [
-      "legal",
-      1,
-      "trust"
     ],
     [
       "treated",
@@ -371,21 +376,16 @@
       "president",
       1,
       "trust"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 60,
+    "trust": 62,
     "fear": 76,
     "surprise": 7,
     "sadness": 15,
     "disgust": 2,
     "anger": 99,
-    "anticipation": 30
+    "anticipation": 29
   }
 }
