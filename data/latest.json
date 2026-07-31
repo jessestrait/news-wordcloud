@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-07-31T03:07:09.140Z",
+  "generated_at": "2026-07-31T03:22:10.834Z",
   "article_count": 50,
   "top_words": [
     [
-      "fire",
-      8,
-      "fear"
-    ],
-    [
       "war",
-      8,
+      9,
       "anger"
     ],
     [
@@ -18,8 +13,8 @@
       "sadness"
     ],
     [
-      "wildfire",
-      8,
+      "fire",
+      7,
       "fear"
     ],
     [
@@ -39,8 +34,18 @@
     ],
     [
       "missile",
-      5,
+      6,
       "fear"
+    ],
+    [
+      "wildfire",
+      6,
+      "fear"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "happened",
@@ -51,11 +56,6 @@
       "emergency",
       5,
       "fear"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
     ],
     [
       "show",
@@ -86,6 +86,11 @@
       "authorities",
       4,
       "trust"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "blazes",
@@ -128,11 +133,6 @@
       "fear"
     ],
     [
-      "struggle",
-      3,
-      "anger"
-    ],
-    [
       "fear",
       3,
       "anger"
@@ -141,6 +141,16 @@
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "president",
+      2,
+      "trust"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "arrive",
@@ -233,6 +243,11 @@
       "anger"
     ],
     [
+      "struggle",
+      2,
+      "anger"
+    ],
+    [
       "evacuated",
       2,
       "fear"
@@ -258,11 +273,6 @@
       "joy"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "quake",
       2,
       "fear"
@@ -273,11 +283,6 @@
       "anticipation"
     ],
     [
-      "america",
-      2,
-      "sadness"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -286,11 +291,6 @@
       "deal",
       1,
       "surprise"
-    ],
-    [
-      "president",
-      1,
-      "trust"
     ],
     [
       "board",
@@ -319,6 +319,21 @@
     ],
     [
       "fragile",
+      1,
+      "fear"
+    ],
+    [
+      "letting",
+      1,
+      "joy"
+    ],
+    [
+      "build",
+      1,
+      "anticipation"
+    ],
+    [
+      "doubt",
       1,
       "fear"
     ],
@@ -361,31 +376,16 @@
       "explosion",
       1,
       "fear"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "discontent",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 59,
     "fear": 77,
     "surprise": 11,
-    "sadness": 21,
+    "sadness": 20,
     "disgust": 3,
-    "anger": 109,
-    "anticipation": 29
+    "anger": 110,
+    "anticipation": 30
   }
 }
