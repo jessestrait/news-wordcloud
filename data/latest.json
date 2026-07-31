@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T16:14:28.573Z",
+  "generated_at": "2026-07-31T16:29:30.693Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,12 +68,12 @@
       "fear"
     ],
     [
-      "cross",
+      "trump",
       3,
       "anger"
     ],
     [
-      "trump",
+      "cross",
       3,
       "anger"
     ],
@@ -303,6 +303,26 @@
       "joy"
     ],
     [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "depends",
+      1,
+      "trust"
+    ],
+    [
+      "established",
+      1,
+      "joy"
+    ],
+    [
       "blames",
       1,
       "anger"
@@ -351,26 +371,6 @@
       "incident",
       1,
       "surprise"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "depends",
-      1,
-      "trust"
-    ],
-    [
-      "established",
-      1,
-      "joy"
     ],
     [
       "attempted",
