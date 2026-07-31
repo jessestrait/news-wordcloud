@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T02:21:40.229Z",
+  "generated_at": "2026-07-31T02:36:42.552Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "attack",
       7,
       "anger"
@@ -36,6 +31,11 @@
       "earthquake",
       7,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "missile",
@@ -51,11 +51,6 @@
       "emergency",
       5,
       "fear"
-    ],
-    [
-      "authorities",
-      5,
-      "trust"
     ],
     [
       "trump",
@@ -86,6 +81,11 @@
       "shopping",
       4,
       "surprise"
+    ],
+    [
+      "authorities",
+      4,
+      "trust"
     ],
     [
       "blazes",
@@ -213,11 +213,6 @@
       "trust"
     ],
     [
-      "seized",
-      2,
-      "fear"
-    ],
-    [
       "flu",
       2,
       "fear"
@@ -318,6 +313,16 @@
       "anger"
     ],
     [
+      "fearful",
+      1,
+      "fear"
+    ],
+    [
+      "fragile",
+      1,
+      "fear"
+    ],
+    [
       "police",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "discontent",
       1,
       "anger"
-    ],
-    [
-      "important",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 61,
-    "fear": 76,
-    "surprise": 12,
+    "joy": 25,
+    "trust": 59,
+    "fear": 77,
+    "surprise": 11,
     "sadness": 21,
     "disgust": 3,
-    "anger": 111,
+    "anger": 109,
     "anticipation": 29
   }
 }
