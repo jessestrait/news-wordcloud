@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T07:54:33.369Z",
+  "generated_at": "2026-07-31T08:09:35.143Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,14 +83,14 @@
       "fear"
     ],
     [
-      "expected",
-      3,
-      "anticipation"
-    ],
-    [
       "trump",
       3,
       "anger"
+    ],
+    [
+      "expected",
+      3,
+      "anticipation"
     ],
     [
       "global",
@@ -138,11 +138,6 @@
       "anger"
     ],
     [
-      "demands",
-      2,
-      "anger"
-    ],
-    [
       "gaza",
       2,
       "anger"
@@ -156,6 +151,11 @@
       "bases",
       2,
       "trust"
+    ],
+    [
+      "demands",
+      2,
+      "anger"
     ],
     [
       "hot",
@@ -283,11 +283,6 @@
       "joy"
     ],
     [
-      "die",
-      1,
-      "fear"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -311,6 +306,11 @@
       "retaliation",
       1,
       "anger"
+    ],
+    [
+      "die",
+      1,
+      "fear"
     ],
     [
       "hospitals",
