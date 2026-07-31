@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T03:37:12.433Z",
+  "generated_at": "2026-07-31T03:52:14.325Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,9 +13,9 @@
       "sadness"
     ],
     [
-      "fire",
+      "people",
       7,
-      "fear"
+      "trust"
     ],
     [
       "attack",
@@ -28,17 +28,12 @@
       "anger"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
-      "missile",
+      "fire",
       6,
       "fear"
     ],
     [
-      "wildfire",
+      "missile",
       6,
       "fear"
     ],
@@ -48,13 +43,23 @@
       "anger"
     ],
     [
-      "happened",
+      "strike",
       5,
-      "anticipation"
+      "anger"
     ],
     [
-      "emergency",
+      "iran",
       5,
+      "anger"
+    ],
+    [
+      "wildfire",
+      5,
+      "fear"
+    ],
+    [
+      "military",
+      4,
       "fear"
     ],
     [
@@ -63,14 +68,9 @@
       "trust"
     ],
     [
-      "strike",
+      "happened",
       4,
-      "anger"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
+      "anticipation"
     ],
     [
       "home",
@@ -78,19 +78,14 @@
       "joy"
     ],
     [
+      "emergency",
+      4,
+      "fear"
+    ],
+    [
       "shopping",
       4,
       "surprise"
-    ],
-    [
-      "authorities",
-      4,
-      "trust"
-    ],
-    [
-      "military",
-      3,
-      "fear"
     ],
     [
       "blazes",
@@ -123,14 +118,14 @@
       "anger"
     ],
     [
+      "authorities",
+      3,
+      "trust"
+    ],
+    [
       "found",
       3,
       "joy"
-    ],
-    [
-      "warn",
-      3,
-      "fear"
     ],
     [
       "fear",
@@ -148,9 +143,19 @@
       "trust"
     ],
     [
-      "plan",
+      "board",
       2,
       "anticipation"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "arrive",
@@ -168,14 +173,19 @@
       "anger"
     ],
     [
-      "accused",
+      "thought",
+      2,
+      "anticipation"
+    ],
+    [
+      "threat",
       2,
       "anger"
     ],
     [
-      "thought",
+      "continuing",
       2,
-      "anticipation"
+      "trust"
     ],
     [
       "economy",
@@ -233,7 +243,7 @@
       "anticipation"
     ],
     [
-      "alarm",
+      "warn",
       2,
       "fear"
     ],
@@ -251,11 +261,6 @@
       "evacuated",
       2,
       "fear"
-    ],
-    [
-      "killing",
-      2,
-      "anger"
     ],
     [
       "obituary",
@@ -293,16 +298,6 @@
       "surprise"
     ],
     [
-      "board",
-      1,
-      "anticipation"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
       "agreement",
       1,
       "trust"
@@ -333,14 +328,44 @@
       "anticipation"
     ],
     [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
       "doubt",
       1,
       "fear"
     ],
     [
-      "police",
+      "riot",
+      1,
+      "anger"
+    ],
+    [
+      "charity",
+      1,
+      "joy"
+    ],
+    [
+      "officers",
+      1,
+      "trust"
+    ],
+    [
+      "boarding",
+      1,
+      "anticipation"
+    ],
+    [
+      "asylum",
       1,
       "fear"
+    ],
+    [
+      "cross",
+      1,
+      "anger"
     ],
     [
       "extinguish",
@@ -351,40 +376,15 @@
       "breaks",
       1,
       "surprise"
-    ],
-    [
-      "hot",
-      1,
-      "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
-    ],
-    [
-      "offensive",
-      1,
-      "anger"
-    ],
-    [
-      "terminal",
-      1,
-      "fear"
-    ],
-    [
-      "explosion",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 59,
-    "fear": 77,
+    "joy": 28,
+    "trust": 60,
+    "fear": 75,
     "surprise": 11,
-    "sadness": 20,
-    "disgust": 3,
+    "sadness": 21,
+    "disgust": 2,
     "anger": 110,
     "anticipation": 30
   }
