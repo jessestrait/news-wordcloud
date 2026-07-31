@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:25:01.016Z",
+  "generated_at": "2026-07-31T08:40:03.602Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "death",
-      7,
+      8,
       "sadness"
     ],
     [
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "show",
       4,
       "trust"
@@ -56,11 +61,6 @@
       "military",
       4,
       "fear"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "home",
@@ -135,6 +135,11 @@
     [
       "fear",
       3,
+      "anger"
+    ],
+    [
+      "cross",
+      2,
       "anger"
     ],
     [
@@ -283,11 +288,6 @@
       "joy"
     ],
     [
-      "die",
-      1,
-      "fear"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 61,
-    "fear": 77,
+    "trust": 62,
+    "fear": 76,
     "surprise": 8,
-    "sadness": 18,
+    "sadness": 19,
     "disgust": 2,
-    "anger": 111,
+    "anger": 112,
     "anticipation": 31
   }
 }
