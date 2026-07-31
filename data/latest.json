@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T16:29:30.693Z",
+  "generated_at": "2026-07-31T16:44:32.600Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "trust"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "wildfire",
       7,
       "fear"
+    ],
+    [
+      "war",
+      7,
+      "anger"
     ],
     [
       "iran",
@@ -73,6 +73,11 @@
       "anger"
     ],
     [
+      "calls",
+      3,
+      "trust"
+    ],
+    [
       "cross",
       3,
       "anger"
@@ -96,11 +101,6 @@
       "conflict",
       3,
       "anger"
-    ],
-    [
-      "calls",
-      3,
-      "trust"
     ],
     [
       "global",
@@ -143,19 +143,34 @@
       "sadness"
     ],
     [
-      "official",
+      "peace",
       2,
-      "trust"
+      "joy"
     ],
     [
-      "board",
+      "plan",
       2,
       "anticipation"
     ],
     [
-      "peace",
+      "president",
       2,
-      "joy"
+      "trust"
+    ],
+    [
+      "measure",
+      2,
+      "trust"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
     ],
     [
       "avalanche",
@@ -176,16 +191,6 @@
       "cabinet",
       2,
       "trust"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
-      "leave",
-      2,
-      "sadness"
     ],
     [
       "show",
@@ -293,13 +298,13 @@
       "anger"
     ],
     [
-      "gang",
-      2,
-      "anger"
-    ],
-    [
       "deep",
       2,
+      "joy"
+    ],
+    [
+      "happy",
+      1,
       "joy"
     ],
     [
@@ -308,44 +313,29 @@
       "anger"
     ],
     [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "depends",
+      "agreement",
       1,
       "trust"
     ],
     [
-      "established",
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "daughter",
       1,
       "joy"
     ],
     [
-      "blames",
+      "rejects",
       1,
       "anger"
     ],
     [
-      "criminals",
+      "late",
       1,
-      "anger"
-    ],
-    [
-      "court",
-      1,
-      "anger"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "arriving",
-      1,
-      "anticipation"
+      "sadness"
     ],
     [
       "die",
@@ -376,16 +366,26 @@
       "attempted",
       1,
       "anticipation"
+    ],
+    [
+      "journey",
+      1,
+      "fear"
+    ],
+    [
+      "chaotic",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 64,
-    "fear": 79,
-    "surprise": 8,
+    "trust": 65,
+    "fear": 78,
+    "surprise": 7,
     "sadness": 17,
-    "disgust": 1,
-    "anger": 110,
-    "anticipation": 32
+    "disgust": 2,
+    "anger": 106,
+    "anticipation": 31
   }
 }
