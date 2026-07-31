@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T00:50:56.765Z",
+  "generated_at": "2026-07-31T01:05:59.214Z",
   "article_count": 50,
   "top_words": [
     [
@@ -288,6 +288,11 @@
       "sadness"
     ],
     [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
       "president",
       1,
       "trust"
@@ -371,18 +376,13 @@
       "important",
       1,
       "trust"
-    ],
-    [
-      "battlefield",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 61,
     "fear": 76,
-    "surprise": 11,
+    "surprise": 12,
     "sadness": 21,
     "disgust": 3,
     "anger": 111,
