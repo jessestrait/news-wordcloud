@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T16:44:32.600Z",
+  "generated_at": "2026-07-31T16:44:48.651Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,6 +138,11 @@
       "anger"
     ],
     [
+      "measure",
+      2,
+      "trust"
+    ],
+    [
       "middle",
       2,
       "sadness"
@@ -154,11 +159,6 @@
     ],
     [
       "president",
-      2,
-      "trust"
-    ],
-    [
-      "measure",
       2,
       "trust"
     ],
