@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-01T03:51:25.017Z",
+  "generated_at": "2026-08-01T04:06:27.626Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      8,
+      "anger"
+    ],
     [
       "people",
       8,
@@ -11,11 +16,6 @@
       "wildfire",
       7,
       "fear"
-    ],
-    [
-      "war",
-      7,
-      "anger"
     ],
     [
       "happened",
@@ -48,19 +48,24 @@
       "fear"
     ],
     [
+      "home",
+      5,
+      "joy"
+    ],
+    [
       "death",
       5,
       "sadness"
     ],
     [
+      "found",
+      4,
+      "joy"
+    ],
+    [
       "trump",
       4,
       "anger"
-    ],
-    [
-      "home",
-      4,
-      "joy"
     ],
     [
       "leader",
@@ -70,6 +75,16 @@
     [
       "emergency",
       4,
+      "fear"
+    ],
+    [
+      "blaze",
+      3,
+      "anger"
+    ],
+    [
+      "police",
+      3,
       "fear"
     ],
     [
@@ -88,11 +103,6 @@
       "trust"
     ],
     [
-      "found",
-      3,
-      "joy"
-    ],
-    [
       "team",
       3,
       "trust"
@@ -109,11 +119,6 @@
     ],
     [
       "force",
-      3,
-      "anger"
-    ],
-    [
-      "earthquake",
       3,
       "anger"
     ],
@@ -218,11 +223,6 @@
       "fear"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "arrive",
       2,
       "anticipation"
@@ -231,11 +231,6 @@
       "unknown",
       2,
       "fear"
-    ],
-    [
-      "blazes",
-      2,
-      "anger"
     ],
     [
       "threat",
@@ -248,11 +243,6 @@
       "trust"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "crashes",
       2,
       "fear"
@@ -261,6 +251,11 @@
       "guide",
       2,
       "trust"
+    ],
+    [
+      "earthquake",
+      2,
+      "anger"
     ],
     [
       "rescue",
@@ -298,6 +293,56 @@
       "anger"
     ],
     [
+      "stared",
+      1,
+      "joy"
+    ],
+    [
+      "abyss",
+      1,
+      "fear"
+    ],
+    [
+      "heroes",
+      1,
+      "surprise"
+    ],
+    [
+      "battling",
+      1,
+      "anger"
+    ],
+    [
+      "exhausted",
+      1,
+      "sadness"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "mystery",
+      1,
+      "surprise"
+    ],
+    [
+      "homicide",
+      1,
+      "anger"
+    ],
+    [
+      "explain",
+      1,
+      "trust"
+    ],
+    [
+      "fate",
+      1,
+      "anticipation"
+    ],
+    [
       "tensions",
       1,
       "anger"
@@ -331,61 +376,16 @@
       "media",
       1,
       "disgust"
-    ],
-    [
-      "die",
-      1,
-      "fear"
-    ],
-    [
-      "decries",
-      1,
-      "anger"
-    ],
-    [
-      "violation",
-      1,
-      "anger"
-    ],
-    [
-      "integrity",
-      1,
-      "trust"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
-    ],
-    [
-      "daughter",
-      1,
-      "joy"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "attempted",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 67,
-    "fear": 75,
-    "surprise": 7,
-    "sadness": 16,
+    "joy": 30,
+    "trust": 68,
+    "fear": 74,
+    "surprise": 9,
+    "sadness": 17,
     "disgust": 3,
-    "anger": 108,
+    "anger": 109,
     "anticipation": 32
   }
 }
