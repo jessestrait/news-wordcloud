@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T05:52:41.559Z",
+  "generated_at": "2026-08-01T06:07:43.752Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "trust"
     ],
     [
-      "wildfire",
-      7,
-      "fear"
-    ],
-    [
       "happened",
       6,
       "anticipation"
+    ],
+    [
+      "wildfire",
+      6,
+      "fear"
     ],
     [
       "iran",
@@ -30,11 +30,6 @@
     [
       "missile",
       6,
-      "fear"
-    ],
-    [
-      "fire",
-      5,
       "fear"
     ],
     [
@@ -68,14 +63,19 @@
       "anger"
     ],
     [
+      "fire",
+      4,
+      "fear"
+    ],
+    [
       "leader",
       4,
       "trust"
     ],
     [
-      "emergency",
-      4,
-      "fear"
+      "fear",
+      3,
+      "anger"
     ],
     [
       "blaze",
@@ -98,11 +98,6 @@
       "anger"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "team",
       3,
       "trust"
@@ -111,6 +106,11 @@
       "conflict",
       3,
       "anger"
+    ],
+    [
+      "emergency",
+      3,
+      "fear"
     ],
     [
       "hit",
@@ -173,6 +173,11 @@
       "sadness"
     ],
     [
+      "calls",
+      2,
+      "trust"
+    ],
+    [
       "avalanche",
       2,
       "fear"
@@ -233,11 +238,6 @@
       "fear"
     ],
     [
-      "threat",
-      2,
-      "anger"
-    ],
-    [
       "continuing",
       2,
       "trust"
@@ -283,9 +283,39 @@
       "fear"
     ],
     [
-      "fear",
-      2,
+      "resistance",
+      1,
       "anger"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "save",
+      1,
+      "joy"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
+      "supporters",
+      1,
+      "joy"
+    ],
+    [
+      "structure",
+      1,
+      "trust"
+    ],
+    [
+      "hazard",
+      1,
+      "fear"
     ],
     [
       "abuse",
@@ -346,46 +376,16 @@
       "homicide",
       1,
       "anger"
-    ],
-    [
-      "explain",
-      1,
-      "trust"
-    ],
-    [
-      "fate",
-      1,
-      "anticipation"
-    ],
-    [
-      "tensions",
-      1,
-      "anger"
-    ],
-    [
-      "accusations",
-      1,
-      "anger"
-    ],
-    [
-      "excluded",
-      1,
-      "disgust"
-    ],
-    [
-      "frustration",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 33,
     "trust": 70,
-    "fear": 71,
+    "fear": 69,
     "surprise": 9,
     "sadness": 18,
     "disgust": 3,
-    "anger": 106,
+    "anger": 107,
     "anticipation": 33
   }
 }
