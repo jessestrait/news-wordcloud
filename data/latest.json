@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T09:24:44.491Z",
+  "generated_at": "2026-08-01T09:39:46.509Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,6 +73,11 @@
       "trust"
     ],
     [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
       "flu",
       3,
       "fear"
@@ -93,11 +98,6 @@
       "anger"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "president",
       3,
       "trust"
@@ -113,19 +113,9 @@
       "anger"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "authorities",
       3,
       "trust"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "deadly",
@@ -161,6 +151,11 @@
       "peace",
       2,
       "joy"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "measure",
@@ -273,7 +268,22 @@
       "fear"
     ],
     [
-      "barrier",
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
+      "selfish",
+      1,
+      "anger"
+    ],
+    [
+      "letter",
+      1,
+      "anticipation"
+    ],
+    [
+      "illegal",
       1,
       "anger"
     ],
@@ -366,26 +376,16 @@
       "mystery",
       1,
       "surprise"
-    ],
-    [
-      "homicide",
-      1,
-      "anger"
-    ],
-    [
-      "explain",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
     "trust": 68,
-    "fear": 72,
+    "fear": 71,
     "surprise": 7,
     "sadness": 19,
     "disgust": 3,
-    "anger": 107,
+    "anger": 110,
     "anticipation": 31
   }
 }
