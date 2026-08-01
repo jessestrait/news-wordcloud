@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T12:56:18.692Z",
+  "generated_at": "2026-08-01T13:11:21.111Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "wildfire",
-      7,
+      6,
       "fear"
     ],
     [
@@ -48,8 +48,8 @@
       "joy"
     ],
     [
-      "blaze",
-      4,
+      "hit",
+      5,
       "anger"
     ],
     [
@@ -78,11 +78,6 @@
       "sadness"
     ],
     [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "calls",
       3,
       "trust"
@@ -101,6 +96,11 @@
       "police",
       3,
       "fear"
+    ],
+    [
+      "blaze",
+      3,
+      "anger"
     ],
     [
       "president",
@@ -123,9 +123,19 @@
       "trust"
     ],
     [
-      "continue",
+      "leaving",
       2,
-      "trust"
+      "sadness"
+    ],
+    [
+      "selfish",
+      2,
+      "anger"
+    ],
+    [
+      "crossing",
+      2,
+      "anger"
     ],
     [
       "measure",
@@ -263,22 +273,22 @@
       "fear"
     ],
     [
+      "interior",
+      1,
+      "disgust"
+    ],
+    [
+      "condemned",
+      1,
+      "anger"
+    ],
+    [
       "urgent",
       1,
       "fear"
     ],
     [
-      "selfish",
-      1,
-      "anger"
-    ],
-    [
       "unlawful",
-      1,
-      "anger"
-    ],
-    [
-      "crossing",
       1,
       "anger"
     ],
@@ -366,26 +376,16 @@
       "mystery",
       1,
       "surprise"
-    ],
-    [
-      "homicide",
-      1,
-      "anger"
-    ],
-    [
-      "explain",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 68,
-    "fear": 71,
+    "trust": 67,
+    "fear": 70,
     "surprise": 7,
-    "sadness": 17,
-    "disgust": 3,
-    "anger": 108,
+    "sadness": 18,
+    "disgust": 4,
+    "anger": 111,
     "anticipation": 29
   }
 }
