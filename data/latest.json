@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T18:59:52.199Z",
+  "generated_at": "2026-08-01T19:14:54.198Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "fear"
     ],
     [
-      "hit",
-      5,
-      "anger"
-    ],
-    [
       "attack",
       5,
       "anger"
@@ -51,6 +46,11 @@
       "president",
       4,
       "trust"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
     ],
     [
       "happened",
@@ -76,11 +76,6 @@
       "death",
       4,
       "sadness"
-    ],
-    [
-      "calls",
-      3,
-      "trust"
     ],
     [
       "avalanche",
@@ -115,11 +110,6 @@
     [
       "conflict",
       3,
-      "anger"
-    ],
-    [
-      "selfish",
-      2,
       "anger"
     ],
     [
@@ -176,6 +166,11 @@
       "leave",
       2,
       "sadness"
+    ],
+    [
+      "calls",
+      2,
+      "trust"
     ],
     [
       "team",
@@ -263,9 +258,9 @@
       "fear"
     ],
     [
-      "unlawful",
+      "interior",
       1,
-      "anger"
+      "disgust"
     ],
     [
       "crossing",
@@ -279,6 +274,11 @@
     ],
     [
       "condemned",
+      1,
+      "anger"
+    ],
+    [
+      "selfish",
       1,
       "anger"
     ],
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 71,
-    "fear": 68,
+    "trust": 70,
+    "fear": 67,
     "surprise": 7,
     "sadness": 17,
-    "disgust": 3,
-    "anger": 109,
+    "disgust": 4,
+    "anger": 106,
     "anticipation": 28
   }
 }
