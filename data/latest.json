@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:11:38.495Z",
+  "generated_at": "2026-08-01T13:26:40.537Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,9 +28,9 @@
       "fear"
     ],
     [
-      "happened",
+      "hit",
       5,
-      "anticipation"
+      "anger"
     ],
     [
       "attack",
@@ -48,9 +48,14 @@
       "joy"
     ],
     [
-      "hit",
-      5,
-      "anger"
+      "avalanche",
+      4,
+      "fear"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "found",
@@ -63,11 +68,6 @@
       "anger"
     ],
     [
-      "fire",
-      4,
-      "fear"
-    ],
-    [
       "leader",
       4,
       "trust"
@@ -78,6 +78,11 @@
       "sadness"
     ],
     [
+      "world",
+      3,
+      "trust"
+    ],
+    [
       "calls",
       3,
       "trust"
@@ -86,11 +91,6 @@
       "flu",
       3,
       "fear"
-    ],
-    [
-      "fear",
-      3,
-      "anger"
     ],
     [
       "police",
@@ -118,11 +118,6 @@
       "anger"
     ],
     [
-      "authorities",
-      3,
-      "trust"
-    ],
-    [
       "leaving",
       2,
       "sadness"
@@ -148,14 +143,14 @@
       "anger"
     ],
     [
+      "fear",
+      2,
+      "anger"
+    ],
+    [
       "prepares",
       2,
       "anticipation"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "holiday",
@@ -193,11 +188,6 @@
       "sadness"
     ],
     [
-      "avalanche",
-      2,
-      "fear"
-    ],
-    [
       "team",
       2,
       "trust"
@@ -233,17 +223,17 @@
       "anger"
     ],
     [
-      "expected",
-      2,
-      "anticipation"
-    ],
-    [
       "military",
       2,
       "fear"
     ],
     [
       "unknown",
+      2,
+      "fear"
+    ],
+    [
+      "fire",
       2,
       "fear"
     ],
@@ -268,9 +258,34 @@
       "trust"
     ],
     [
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
       "warn",
       2,
       "fear"
+    ],
+    [
+      "top",
+      1,
+      "trust"
+    ],
+    [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
+      "leading",
+      1,
+      "trust"
+    ],
+    [
+      "expedition",
+      1,
+      "anticipation"
     ],
     [
       "interior",
@@ -361,31 +376,16 @@
       "allegations",
       1,
       "anger"
-    ],
-    [
-      "class",
-      1,
-      "sadness"
-    ],
-    [
-      "focus",
-      1,
-      "trust"
-    ],
-    [
-      "mystery",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 67,
-    "fear": 70,
+    "joy": 32,
+    "trust": 70,
+    "fear": 69,
     "surprise": 7,
     "sadness": 18,
     "disgust": 4,
-    "anger": 111,
-    "anticipation": 29
+    "anger": 110,
+    "anticipation": 28
   }
 }
