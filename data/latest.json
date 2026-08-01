@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T03:36:22.735Z",
+  "generated_at": "2026-08-01T03:51:25.017Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,14 +43,19 @@
       "anger"
     ],
     [
-      "death",
-      6,
-      "sadness"
-    ],
-    [
       "fire",
       5,
       "fear"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "home",
@@ -68,9 +73,9 @@
       "fear"
     ],
     [
-      "trump",
+      "president",
       3,
-      "anger"
+      "trust"
     ],
     [
       "cross",
@@ -103,19 +108,9 @@
       "anger"
     ],
     [
-      "global",
-      3,
-      "anticipation"
-    ],
-    [
       "force",
       3,
       "anger"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "earthquake",
@@ -133,14 +128,19 @@
       "trust"
     ],
     [
-      "fear",
-      3,
-      "anger"
+      "holiday",
+      2,
+      "joy"
     ],
     [
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
     ],
     [
       "peace",
@@ -151,11 +151,6 @@
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "president",
-      2,
-      "trust"
     ],
     [
       "measure",
@@ -188,14 +183,14 @@
       "fear"
     ],
     [
-      "cabinet",
+      "show",
       2,
       "trust"
     ],
     [
-      "show",
+      "global",
       2,
-      "trust"
+      "anticipation"
     ],
     [
       "hot",
@@ -253,6 +248,11 @@
       "trust"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "crashes",
       2,
       "fear"
@@ -293,24 +293,34 @@
       "anger"
     ],
     [
-      "struggle",
+      "fear",
       2,
       "anger"
     ],
     [
-      "deep",
-      2,
-      "joy"
+      "tensions",
+      1,
+      "anger"
+    ],
+    [
+      "accusations",
+      1,
+      "anger"
+    ],
+    [
+      "excluded",
+      1,
+      "disgust"
+    ],
+    [
+      "frustration",
+      1,
+      "anger"
     ],
     [
       "happy",
       1,
       "joy"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
     ],
     [
       "agreement",
@@ -366,26 +376,16 @@
       "attempted",
       1,
       "anticipation"
-    ],
-    [
-      "journey",
-      1,
-      "fear"
-    ],
-    [
-      "chaotic",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 65,
-    "fear": 78,
+    "trust": 67,
+    "fear": 75,
     "surprise": 7,
-    "sadness": 17,
-    "disgust": 2,
-    "anger": 106,
-    "anticipation": 33
+    "sadness": 16,
+    "disgust": 3,
+    "anger": 108,
+    "anticipation": 32
   }
 }
