@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T14:12:07.411Z",
+  "generated_at": "2026-08-01T14:27:09.580Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "fear"
     ],
     [
+      "hit",
+      5,
+      "anger"
+    ],
+    [
       "attack",
       5,
       "anger"
@@ -43,9 +48,9 @@
       "joy"
     ],
     [
-      "avalanche",
+      "president",
       4,
-      "fear"
+      "trust"
     ],
     [
       "happened",
@@ -73,9 +78,9 @@
       "sadness"
     ],
     [
-      "hit",
-      4,
-      "anger"
+      "avalanche",
+      3,
+      "fear"
     ],
     [
       "world",
@@ -103,11 +108,6 @@
       "anger"
     ],
     [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "cross",
       3,
       "anger"
@@ -118,17 +118,7 @@
       "anger"
     ],
     [
-      "leaving",
-      2,
-      "sadness"
-    ],
-    [
       "selfish",
-      2,
-      "anger"
-    ],
-    [
-      "crossing",
       2,
       "anger"
     ],
@@ -268,9 +258,9 @@
       "fear"
     ],
     [
-      "interior",
+      "commission",
       1,
-      "disgust"
+      "trust"
     ],
     [
       "condemned",
@@ -288,11 +278,6 @@
       "trust"
     ],
     [
-      "leading",
-      1,
-      "trust"
-    ],
-    [
       "expedition",
       1,
       "anticipation"
@@ -304,6 +289,11 @@
     ],
     [
       "unlawful",
+      1,
+      "anger"
+    ],
+    [
+      "crossing",
       1,
       "anger"
     ],
@@ -376,15 +366,25 @@
       "allegations",
       1,
       "anger"
+    ],
+    [
+      "class",
+      1,
+      "sadness"
+    ],
+    [
+      "focus",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 70,
-    "fear": 69,
+    "trust": 71,
+    "fear": 68,
     "surprise": 7,
-    "sadness": 18,
-    "disgust": 4,
+    "sadness": 17,
+    "disgust": 3,
     "anger": 109,
     "anticipation": 28
   }
