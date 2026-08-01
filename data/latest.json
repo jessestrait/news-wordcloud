@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:40:09.626Z",
+  "generated_at": "2026-08-01T10:55:11.495Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,6 +118,11 @@
       "trust"
     ],
     [
+      "measure",
+      2,
+      "trust"
+    ],
+    [
       "deadly",
       2,
       "anger"
@@ -156,11 +161,6 @@
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "measure",
-      2,
-      "trust"
     ],
     [
       "killed",
