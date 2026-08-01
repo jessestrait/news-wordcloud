@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T14:27:09.580Z",
+  "generated_at": "2026-08-01T14:42:11.978Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,17 +78,17 @@
       "sadness"
     ],
     [
+      "calls",
+      3,
+      "trust"
+    ],
+    [
       "avalanche",
       3,
       "fear"
     ],
     [
       "world",
-      3,
-      "trust"
-    ],
-    [
-      "calls",
       3,
       "trust"
     ],
@@ -258,6 +258,21 @@
       "fear"
     ],
     [
+      "urgent",
+      1,
+      "fear"
+    ],
+    [
+      "unlawful",
+      1,
+      "anger"
+    ],
+    [
+      "crossing",
+      1,
+      "anger"
+    ],
+    [
       "commission",
       1,
       "trust"
@@ -281,21 +296,6 @@
       "expedition",
       1,
       "anticipation"
-    ],
-    [
-      "urgent",
-      1,
-      "fear"
-    ],
-    [
-      "unlawful",
-      1,
-      "anger"
-    ],
-    [
-      "crossing",
-      1,
-      "anger"
     ],
     [
       "mortality",
