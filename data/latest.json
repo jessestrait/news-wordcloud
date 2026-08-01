@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:26:40.537Z",
+  "generated_at": "2026-08-01T13:41:42.473Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,11 +26,6 @@
       "missile",
       6,
       "fear"
-    ],
-    [
-      "hit",
-      5,
-      "anger"
     ],
     [
       "attack",
@@ -76,6 +71,11 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
     ],
     [
       "world",
@@ -268,6 +268,16 @@
       "fear"
     ],
     [
+      "interior",
+      1,
+      "disgust"
+    ],
+    [
+      "condemned",
+      1,
+      "anger"
+    ],
+    [
       "top",
       1,
       "trust"
@@ -286,16 +296,6 @@
       "expedition",
       1,
       "anticipation"
-    ],
-    [
-      "interior",
-      1,
-      "disgust"
-    ],
-    [
-      "condemned",
-      1,
-      "anger"
     ],
     [
       "urgent",
@@ -385,7 +385,7 @@
     "surprise": 7,
     "sadness": 18,
     "disgust": 4,
-    "anger": 110,
+    "anger": 109,
     "anticipation": 28
   }
 }
