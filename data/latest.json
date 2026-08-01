@@ -1,21 +1,31 @@
 {
-  "generated_at": "2026-08-01T08:23:55.802Z",
+  "generated_at": "2026-08-01T08:38:57.611Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      9,
+      "trust"
+    ],
     [
       "war",
       8,
       "anger"
     ],
     [
-      "people",
-      8,
-      "trust"
+      "missile",
+      7,
+      "fear"
     ],
     [
-      "happened",
+      "strike",
       6,
-      "anticipation"
+      "anger"
+    ],
+    [
+      "attack",
+      6,
+      "anger"
     ],
     [
       "wildfire",
@@ -28,29 +38,14 @@
       "anger"
     ],
     [
-      "missile",
-      6,
-      "fear"
-    ],
-    [
-      "attack",
+      "happened",
       5,
-      "anger"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
+      "anticipation"
     ],
     [
       "home",
       5,
       "joy"
-    ],
-    [
-      "death",
-      5,
-      "sadness"
     ],
     [
       "found",
@@ -71,6 +66,11 @@
       "leader",
       4,
       "trust"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "flu",
@@ -103,19 +103,9 @@
       "anger"
     ],
     [
-      "team",
-      3,
-      "trust"
-    ],
-    [
       "conflict",
       3,
       "anger"
-    ],
-    [
-      "emergency",
-      3,
-      "fear"
     ],
     [
       "hit",
@@ -126,6 +116,11 @@
       "authorities",
       3,
       "trust"
+    ],
+    [
+      "warn",
+      3,
+      "fear"
     ],
     [
       "deadly",
@@ -193,6 +188,11 @@
       "fear"
     ],
     [
+      "team",
+      2,
+      "trust"
+    ],
+    [
       "fighting",
       2,
       "anger"
@@ -243,11 +243,6 @@
       "fear"
     ],
     [
-      "continuing",
-      2,
-      "trust"
-    ],
-    [
       "crashes",
       2,
       "fear"
@@ -258,14 +253,9 @@
       "trust"
     ],
     [
-      "earthquake",
+      "emergency",
       2,
-      "anger"
-    ],
-    [
-      "rescue",
-      2,
-      "surprise"
+      "fear"
     ],
     [
       "justice",
@@ -278,9 +268,24 @@
       "trust"
     ],
     [
-      "warn",
-      2,
+      "supplies",
+      1,
       "fear"
+    ],
+    [
+      "kills",
+      1,
+      "fear"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "shoot",
+      1,
+      "anger"
     ],
     [
       "mortality",
@@ -371,21 +376,16 @@
       "homicide",
       1,
       "anger"
-    ],
-    [
-      "explain",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 69,
-    "fear": 72,
-    "surprise": 8,
-    "sadness": 19,
+    "trust": 68,
+    "fear": 76,
+    "surprise": 7,
+    "sadness": 18,
     "disgust": 3,
-    "anger": 107,
-    "anticipation": 31
+    "anger": 108,
+    "anticipation": 30
   }
 }
