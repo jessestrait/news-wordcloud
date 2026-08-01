@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T08:08:53.970Z",
+  "generated_at": "2026-08-01T08:23:55.802Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,14 +83,14 @@
       "anger"
     ],
     [
-      "blaze",
-      3,
-      "anger"
-    ],
-    [
       "police",
       3,
       "fear"
+    ],
+    [
+      "blaze",
+      3,
+      "anger"
     ],
     [
       "president",
@@ -363,26 +363,26 @@
       "trust"
     ],
     [
-      "stared",
-      1,
-      "joy"
-    ],
-    [
-      "abyss",
-      1,
-      "fear"
-    ],
-    [
-      "heroes",
+      "mystery",
       1,
       "surprise"
+    ],
+    [
+      "homicide",
+      1,
+      "anger"
+    ],
+    [
+      "explain",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 68,
+    "trust": 69,
     "fear": 72,
-    "surprise": 9,
+    "surprise": 8,
     "sadness": 19,
     "disgust": 3,
     "anger": 107,
