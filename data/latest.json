@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-08-02T01:49:10.423Z",
+  "generated_at": "2026-08-02T02:04:12.439Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      9,
+      "anger"
+    ],
     [
       "people",
       8,
       "trust"
     ],
     [
-      "war",
-      8,
+      "strike",
+      7,
       "anger"
     ],
     [
@@ -31,16 +36,6 @@
       "attack",
       5,
       "anger"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
-      "home",
-      5,
-      "joy"
     ],
     [
       "president",
@@ -68,6 +63,11 @@
       "anger"
     ],
     [
+      "home",
+      4,
+      "joy"
+    ],
+    [
       "leader",
       4,
       "trust"
@@ -76,6 +76,11 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "avalanche",
@@ -253,6 +258,16 @@
       "fear"
     ],
     [
+      "ship",
+      1,
+      "anticipation"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
       "urgent",
       1,
       "fear"
@@ -361,31 +376,16 @@
       "abuse",
       1,
       "anger"
-    ],
-    [
-      "allegations",
-      1,
-      "anger"
-    ],
-    [
-      "class",
-      1,
-      "sadness"
-    ],
-    [
-      "focus",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 30,
     "trust": 70,
-    "fear": 67,
+    "fear": 68,
     "surprise": 7,
-    "sadness": 17,
-    "disgust": 4,
-    "anger": 106,
-    "anticipation": 28
+    "sadness": 16,
+    "disgust": 3,
+    "anger": 109,
+    "anticipation": 32
   }
 }
