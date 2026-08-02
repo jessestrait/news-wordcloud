@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-08-02T03:04:55.856Z",
+  "generated_at": "2026-08-02T03:19:57.716Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      10,
       "anger"
     ],
     [
-      "people",
+      "missile",
       8,
+      "fear"
+    ],
+    [
+      "people",
+      7,
       "trust"
+    ],
+    [
+      "attack",
+      7,
+      "anger"
     ],
     [
       "strike",
@@ -18,22 +28,22 @@
       "anger"
     ],
     [
-      "wildfire",
-      6,
-      "fear"
-    ],
-    [
-      "iran",
+      "hit",
       6,
       "anger"
     ],
     [
-      "missile",
-      6,
+      "trump",
+      5,
+      "anger"
+    ],
+    [
+      "wildfire",
+      5,
       "fear"
     ],
     [
-      "attack",
+      "iran",
       5,
       "anger"
     ],
@@ -43,27 +53,12 @@
       "trust"
     ],
     [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "happened",
       4,
       "anticipation"
     ],
     [
       "found",
-      4,
-      "joy"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
-      "home",
       4,
       "joy"
     ],
@@ -116,6 +111,21 @@
       "conflict",
       3,
       "anger"
+    ],
+    [
+      "home",
+      3,
+      "joy"
+    ],
+    [
+      "earthquake",
+      2,
+      "anger"
+    ],
+    [
+      "hospital",
+      2,
+      "fear"
     ],
     [
       "measure",
@@ -218,16 +228,6 @@
       "fear"
     ],
     [
-      "unknown",
-      2,
-      "fear"
-    ],
-    [
-      "fire",
-      2,
-      "fear"
-    ],
-    [
       "crashes",
       2,
       "fear"
@@ -298,6 +298,26 @@
       "anger"
     ],
     [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "swarm",
+      1,
+      "disgust"
+    ],
+    [
+      "evacuated",
+      1,
+      "fear"
+    ],
+    [
+      "quake",
+      1,
+      "fear"
+    ],
+    [
       "top",
       1,
       "trust"
@@ -356,36 +376,16 @@
       "berlin",
       1,
       "joy"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
-    ],
-    [
-      "structure",
-      1,
-      "trust"
-    ],
-    [
-      "hazard",
-      1,
-      "fear"
-    ],
-    [
-      "abuse",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 70,
-    "fear": 68,
+    "joy": 29,
+    "trust": 69,
+    "fear": 71,
     "surprise": 7,
     "sadness": 16,
-    "disgust": 3,
-    "anger": 109,
-    "anticipation": 32
+    "disgust": 4,
+    "anger": 108,
+    "anticipation": 33
   }
 }
