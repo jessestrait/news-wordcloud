@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:37:20.895Z",
+  "generated_at": "2026-08-02T07:52:23.180Z",
   "article_count": 50,
   "top_words": [
     [
@@ -116,6 +116,11 @@
       "home",
       3,
       "joy"
+    ],
+    [
+      "seeks",
+      2,
+      "anticipation"
     ],
     [
       "anti",
@@ -253,9 +258,19 @@
       "trust"
     ],
     [
-      "heroes",
+      "bee",
       1,
-      "surprise"
+      "anger"
+    ],
+    [
+      "competition",
+      1,
+      "anticipation"
+    ],
+    [
+      "notes",
+      1,
+      "sadness"
     ],
     [
       "opportunity",
@@ -361,31 +376,16 @@
       "quake",
       1,
       "fear"
-    ],
-    [
-      "top",
-      1,
-      "trust"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
-      "expedition",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 70,
     "fear": 70,
-    "surprise": 7,
-    "sadness": 17,
+    "surprise": 6,
+    "sadness": 18,
     "disgust": 4,
-    "anger": 103,
-    "anticipation": 35
+    "anger": 104,
+    "anticipation": 37
   }
 }
