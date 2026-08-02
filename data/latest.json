@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T12:24:51.313Z",
+  "generated_at": "2026-08-02T12:39:53.571Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "anger"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "power",
       4,
       "anticipation"
@@ -46,11 +51,6 @@
       "president",
       4,
       "trust"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "wildfire",
@@ -113,6 +113,11 @@
       "joy"
     ],
     [
+      "measure",
+      2,
+      "trust"
+    ],
+    [
       "fight",
       2,
       "anger"
@@ -141,11 +146,6 @@
       "hospital",
       2,
       "fear"
-    ],
-    [
-      "measure",
-      2,
-      "trust"
     ],
     [
       "deadly",
