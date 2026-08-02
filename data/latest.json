@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:51:29.462Z",
+  "generated_at": "2026-08-02T06:06:31.809Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "anticipation"
     ],
     [
-      "found",
-      4,
-      "joy"
-    ],
-    [
       "wildfire",
       4,
       "fear"
@@ -83,11 +78,6 @@
       "sadness"
     ],
     [
-      "authorities",
-      3,
-      "trust"
-    ],
-    [
       "avalanche",
       3,
       "fear"
@@ -101,6 +91,11 @@
       "flu",
       3,
       "fear"
+    ],
+    [
+      "found",
+      3,
+      "joy"
     ],
     [
       "police",
@@ -126,6 +121,11 @@
       "anti",
       2,
       "anger"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
     ],
     [
       "earthquake",
@@ -253,6 +253,26 @@
       "trust"
     ],
     [
+      "heroes",
+      1,
+      "surprise"
+    ],
+    [
+      "opportunity",
+      1,
+      "anticipation"
+    ],
+    [
+      "neutral",
+      1,
+      "trust"
+    ],
+    [
+      "building",
+      1,
+      "anticipation"
+    ],
+    [
       "laws",
       1,
       "trust"
@@ -356,36 +376,16 @@
       "expedition",
       1,
       "anticipation"
-    ],
-    [
-      "mortality",
-      1,
-      "anger"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
-    ],
-    [
-      "escalates",
-      1,
-      "anger"
-    ],
-    [
-      "surveillance",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 28,
     "trust": 70,
     "fear": 70,
-    "surprise": 6,
+    "surprise": 7,
     "sadness": 17,
     "disgust": 4,
     "anger": 103,
-    "anticipation": 34
+    "anticipation": 35
   }
 }
