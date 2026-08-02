@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T16:11:52.546Z",
+  "generated_at": "2026-08-02T16:26:54.712Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "anger"
     ],
     [
+      "power",
+      5,
+      "anticipation"
+    ],
+    [
       "trump",
       5,
       "anger"
@@ -39,11 +44,6 @@
     ],
     [
       "happened",
-      4,
-      "anticipation"
-    ],
-    [
-      "power",
       4,
       "anticipation"
     ],
@@ -68,11 +68,6 @@
       "trust"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "crashes",
       3,
       "fear"
@@ -86,11 +81,6 @@
       "world",
       3,
       "trust"
-    ],
-    [
-      "flu",
-      3,
-      "fear"
     ],
     [
       "police",
@@ -113,6 +103,16 @@
       "joy"
     ],
     [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
+      "letter",
+      2,
+      "anticipation"
+    ],
+    [
       "measure",
       2,
       "trust"
@@ -131,11 +131,6 @@
       "anti",
       2,
       "anger"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "earthquake",
@@ -338,6 +333,11 @@
       "sadness"
     ],
     [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
       "urgent",
       1,
       "fear"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 70,
-    "fear": 68,
+    "trust": 69,
+    "fear": 65,
     "surprise": 6,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 4,
-    "anger": 103,
-    "anticipation": 37
+    "anger": 102,
+    "anticipation": 40
   }
 }
