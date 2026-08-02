@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-02T07:52:23.180Z",
+  "generated_at": "2026-08-02T08:07:25.558Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      9,
-      "anger"
-    ],
     [
       "people",
       8,
       "trust"
+    ],
+    [
+      "war",
+      8,
+      "anger"
     ],
     [
       "missile",
@@ -43,11 +43,6 @@
       "anticipation"
     ],
     [
-      "crashes",
-      4,
-      "fear"
-    ],
-    [
       "president",
       4,
       "trust"
@@ -78,6 +73,11 @@
       "sadness"
     ],
     [
+      "crashes",
+      3,
+      "fear"
+    ],
+    [
       "avalanche",
       3,
       "fear"
@@ -91,11 +91,6 @@
       "flu",
       3,
       "fear"
-    ],
-    [
-      "found",
-      3,
-      "joy"
     ],
     [
       "police",
@@ -116,6 +111,11 @@
       "home",
       3,
       "joy"
+    ],
+    [
+      "fight",
+      2,
+      "anger"
     ],
     [
       "seeks",
@@ -161,6 +161,11 @@
       "prepares",
       2,
       "anticipation"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "blaze",
@@ -256,6 +261,16 @@
       "system",
       2,
       "trust"
+    ],
+    [
+      "followers",
+      1,
+      "trust"
+    ],
+    [
+      "ruling",
+      1,
+      "fear"
     ],
     [
       "bee",
@@ -361,31 +376,16 @@
       "injured",
       1,
       "fear"
-    ],
-    [
-      "swarm",
-      1,
-      "disgust"
-    ],
-    [
-      "evacuated",
-      1,
-      "fear"
-    ],
-    [
-      "quake",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 26,
     "trust": 70,
-    "fear": 70,
+    "fear": 69,
     "surprise": 6,
     "sadness": 18,
     "disgust": 4,
-    "anger": 104,
+    "anger": 103,
     "anticipation": 37
   }
 }
