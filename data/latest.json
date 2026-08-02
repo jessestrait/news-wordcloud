@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T23:00:52.330Z",
+  "generated_at": "2026-08-02T23:15:54.340Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,11 +19,6 @@
     ],
     [
       "attack",
-      7,
-      "anger"
-    ],
-    [
-      "hit",
       6,
       "anger"
     ],
@@ -31,6 +26,11 @@
       "power",
       5,
       "anticipation"
+    ],
+    [
+      "hit",
+      5,
+      "anger"
     ],
     [
       "trump",
@@ -106,6 +106,21 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "abuse",
+      2,
+      "anger"
+    ],
+    [
+      "confirmed",
+      2,
+      "trust"
+    ],
+    [
+      "victims",
+      2,
+      "anger"
     ],
     [
       "letter",
@@ -258,6 +273,16 @@
       "trust"
     ],
     [
+      "associates",
+      1,
+      "trust"
+    ],
+    [
+      "crimes",
+      1,
+      "anger"
+    ],
+    [
       "followers",
       1,
       "trust"
@@ -351,36 +376,11 @@
       "crossing",
       1,
       "anger"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "condemned",
-      1,
-      "anger"
-    ],
-    [
-      "selfish",
-      1,
-      "anger"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "swarm",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 69,
+    "joy": 24,
+    "trust": 70,
     "fear": 65,
     "surprise": 6,
     "sadness": 17,
