@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:48:03.179Z",
+  "generated_at": "2026-08-03T22:03:05.367Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "people",
-      7,
+      8,
       "trust"
     ],
     [
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
       "attack",
       5,
       "anger"
@@ -56,11 +61,6 @@
       "found",
       4,
       "joy"
-    ],
-    [
-      "strikes",
-      4,
-      "anger"
     ],
     [
       "death",
@@ -86,11 +86,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "deadly",
-      3,
-      "anger"
     ],
     [
       "media",
@@ -131,11 +126,6 @@
       "denies",
       2,
       "anger"
-    ],
-    [
-      "ministry",
-      2,
-      "joy"
     ],
     [
       "attempted",
@@ -193,6 +183,11 @@
       "anger"
     ],
     [
+      "kill",
+      2,
+      "fear"
+    ],
+    [
       "americans",
       2,
       "sadness"
@@ -211,6 +206,11 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
     ],
     [
       "abuse",
@@ -279,6 +279,11 @@
     ],
     [
       "house",
+      1,
+      "joy"
+    ],
+    [
+      "ministry",
       1,
       "joy"
     ],
@@ -371,21 +376,16 @@
       "negotiating",
       1,
       "trust"
-    ],
-    [
-      "ground",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 61,
-    "fear": 57,
+    "trust": 62,
+    "fear": 58,
     "surprise": 12,
-    "sadness": 17,
-    "disgust": 7,
-    "anger": 112,
+    "sadness": 18,
+    "disgust": 8,
+    "anger": 110,
     "anticipation": 34
   }
 }
