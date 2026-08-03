@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T19:01:43.075Z",
+  "generated_at": "2026-08-03T19:16:45.566Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "trump",
-      9,
+      8,
       "anger"
     ],
     [
       "president",
-      9,
+      8,
       "trust"
     ],
     [
@@ -76,6 +76,11 @@
       "middle",
       3,
       "sadness"
+    ],
+    [
+      "letter",
+      3,
+      "anticipation"
     ],
     [
       "suicide",
@@ -223,11 +228,6 @@
       "surprise"
     ],
     [
-      "letter",
-      2,
-      "anticipation"
-    ],
-    [
       "fight",
       2,
       "anger"
@@ -253,11 +253,6 @@
       "fear"
     ],
     [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
       "wildfire",
       2,
       "fear"
@@ -281,6 +276,16 @@
       "house",
       1,
       "joy"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
+    ],
+    [
+      "commonplace",
+      1,
+      "trust"
     ],
     [
       "duplicity",
@@ -371,21 +376,16 @@
       "encouraged",
       1,
       "joy"
-    ],
-    [
-      "demands",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 63,
+    "joy": 22,
+    "trust": 61,
     "fear": 57,
     "surprise": 9,
-    "sadness": 16,
+    "sadness": 17,
     "disgust": 7,
-    "anger": 116,
-    "anticipation": 32
+    "anger": 113,
+    "anticipation": 33
   }
 }
