@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-03T15:59:42.953Z",
+  "generated_at": "2026-08-03T16:00:00.127Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      8,
+      9,
       "anger"
     ],
     [
@@ -71,6 +71,11 @@
       "middle",
       3,
       "sadness"
+    ],
+    [
+      "deal",
+      3,
+      "surprise"
     ],
     [
       "suicide",
@@ -178,11 +183,6 @@
       "trust"
     ],
     [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
       "abuse",
       2,
       "anger"
@@ -248,14 +248,34 @@
       "anger"
     ],
     [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
-      "denies",
+      "blockade",
       1,
       "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
+    ],
+    [
+      "surrender",
+      1,
+      "fear"
+    ],
+    [
+      "lashes",
+      1,
+      "anger"
+    ],
+    [
+      "truth",
+      1,
+      "trust"
+    ],
+    [
+      "denied",
+      1,
+      "sadness"
     ],
     [
       "bullying",
@@ -356,36 +376,16 @@
       "blames",
       1,
       "anger"
-    ],
-    [
-      "bombing",
-      1,
-      "anger"
-    ],
-    [
-      "ministry",
-      1,
-      "joy"
-    ],
-    [
-      "abandoned",
-      1,
-      "anger"
-    ],
-    [
-      "surge",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 59,
-    "fear": 56,
-    "surprise": 9,
-    "sadness": 16,
+    "trust": 61,
+    "fear": 57,
+    "surprise": 10,
+    "sadness": 17,
     "disgust": 7,
-    "anger": 110,
-    "anticipation": 35
+    "anger": 112,
+    "anticipation": 34
   }
 }
