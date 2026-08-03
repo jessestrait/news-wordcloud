@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:07:54.230Z",
+  "generated_at": "2026-08-03T09:10:21.065Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "war",
       7,
       "anger"
+    ],
+    [
+      "power",
+      6,
+      "anticipation"
     ],
     [
       "iran",
@@ -46,11 +51,6 @@
       "force",
       5,
       "anger"
-    ],
-    [
-      "power",
-      5,
-      "anticipation"
     ],
     [
       "cross",
@@ -228,19 +228,19 @@
       "anticipation"
     ],
     [
-      "forecast",
+      "crunch",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "falling",
+      "detonates",
       1,
-      "sadness"
+      "fear"
     ],
     [
-      "levels",
+      "explosives",
       1,
-      "trust"
+      "anger"
     ],
     [
       "denies",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 16,
-    "trust": 61,
-    "fear": 59,
+    "trust": 59,
+    "fear": 60,
     "surprise": 9,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 7,
-    "anger": 102,
-    "anticipation": 38
+    "anger": 104,
+    "anticipation": 39
   }
 }
