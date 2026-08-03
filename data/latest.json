@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:02:10.281Z",
+  "generated_at": "2026-08-03T20:17:12.452Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "trust"
     ],
     [
-      "iran",
+      "trump",
       8,
       "anger"
     ],
     [
-      "trump",
+      "iran",
       8,
       "anger"
     ],
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "found",
-      5,
-      "joy"
-    ],
-    [
       "force",
       5,
       "anger"
@@ -58,9 +53,19 @@
       "anger"
     ],
     [
+      "found",
+      4,
+      "joy"
+    ],
+    [
       "strikes",
       4,
       "anger"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "police",
@@ -108,21 +113,6 @@
       "trust"
     ],
     [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
-      "inquiries",
-      2,
-      "anticipation"
-    ],
-    [
-      "alive",
-      2,
-      "joy"
-    ],
-    [
       "middle",
       2,
       "sadness"
@@ -138,9 +128,19 @@
       "fear"
     ],
     [
+      "denies",
+      2,
+      "anger"
+    ],
+    [
       "ministry",
       2,
       "joy"
+    ],
+    [
+      "killing",
+      2,
+      "anger"
     ],
     [
       "commission",
@@ -181,11 +181,6 @@
       "flu",
       2,
       "fear"
-    ],
-    [
-      "deaths",
-      2,
-      "sadness"
     ],
     [
       "journey",
@@ -273,6 +268,21 @@
       "fear"
     ],
     [
+      "tomorrow",
+      1,
+      "anticipation"
+    ],
+    [
+      "white",
+      1,
+      "joy"
+    ],
+    [
+      "house",
+      1,
+      "joy"
+    ],
+    [
       "chance",
       1,
       "surprise"
@@ -298,34 +308,29 @@
       "anticipation"
     ],
     [
+      "suspect",
+      1,
+      "fear"
+    ],
+    [
+      "hiding",
+      1,
+      "fear"
+    ],
+    [
       "murder",
       1,
       "anger"
     ],
     [
-      "focused",
+      "focusing",
       1,
       "trust"
     ],
     [
-      "tomorrow",
+      "hope",
       1,
-      "anticipation"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
-    ],
-    [
-      "white",
-      1,
-      "joy"
-    ],
-    [
-      "house",
-      1,
-      "joy"
+      "surprise"
     ],
     [
       "obituary",
@@ -371,21 +376,16 @@
       "gained",
       1,
       "joy"
-    ],
-    [
-      "bullying",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 62,
-    "fear": 55,
-    "surprise": 11,
-    "sadness": 16,
+    "joy": 22,
+    "trust": 61,
+    "fear": 57,
+    "surprise": 12,
+    "sadness": 17,
     "disgust": 7,
-    "anger": 110,
-    "anticipation": 35
+    "anger": 112,
+    "anticipation": 34
   }
 }
