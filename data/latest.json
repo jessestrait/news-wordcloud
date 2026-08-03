@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-03T18:16:18.097Z",
+  "generated_at": "2026-08-03T18:31:20.297Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      9,
+      10,
       "anger"
     ],
     [
       "trump",
-      8,
+      9,
       "anger"
     ],
     [
       "president",
-      8,
+      9,
       "trust"
     ],
     [
@@ -53,6 +53,16 @@
       "anger"
     ],
     [
+      "strait",
+      4,
+      "fear"
+    ],
+    [
+      "hormuz",
+      4,
+      "fear"
+    ],
+    [
       "cross",
       4,
       "anger"
@@ -68,11 +78,6 @@
       "sadness"
     ],
     [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "suicide",
       3,
       "anger"
@@ -81,16 +86,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "strait",
-      3,
-      "fear"
-    ],
-    [
-      "hormuz",
-      3,
-      "fear"
     ],
     [
       "deadly",
@@ -118,9 +113,9 @@
       "trust"
     ],
     [
-      "wildfire",
-      3,
-      "fear"
+      "ministry",
+      2,
+      "joy"
     ],
     [
       "commission",
@@ -193,6 +188,11 @@
       "trust"
     ],
     [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
       "abuse",
       2,
       "anger"
@@ -258,34 +258,49 @@
       "anger"
     ],
     [
-      "blockade",
-      1,
-      "anger"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
-    ],
-    [
-      "surrender",
-      1,
+      "wildfire",
+      2,
       "fear"
     ],
     [
-      "lashes",
+      "duplicity",
       1,
       "anger"
     ],
     [
-      "truth",
+      "struggles",
+      1,
+      "anger"
+    ],
+    [
+      "negotiating",
       1,
       "trust"
     ],
     [
-      "denied",
+      "ground",
       1,
-      "sadness"
+      "trust"
+    ],
+    [
+      "tomorrow",
+      1,
+      "anticipation"
+    ],
+    [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "white",
+      1,
+      "joy"
+    ],
+    [
+      "house",
+      1,
+      "joy"
     ],
     [
       "flees",
@@ -361,31 +376,16 @@
       "demands",
       1,
       "anger"
-    ],
-    [
-      "solidarity",
-      1,
-      "trust"
-    ],
-    [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "alive",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 23,
     "trust": 63,
     "fear": 57,
-    "surprise": 10,
-    "sadness": 17,
+    "surprise": 9,
+    "sadness": 16,
     "disgust": 7,
-    "anger": 114,
-    "anticipation": 33
+    "anger": 116,
+    "anticipation": 32
   }
 }
