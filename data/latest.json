@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:56:51.747Z",
+  "generated_at": "2026-08-03T10:11:54.169Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,17 +18,22 @@
       "trust"
     ],
     [
-      "iran",
-      6,
-      "anger"
-    ],
-    [
       "power",
       6,
       "anticipation"
     ],
     [
+      "iran",
+      6,
+      "anger"
+    ],
+    [
       "war",
+      6,
+      "anger"
+    ],
+    [
+      "attack",
       6,
       "anger"
     ],
@@ -44,11 +49,6 @@
     ],
     [
       "strikes",
-      5,
-      "anger"
-    ],
-    [
-      "attack",
       5,
       "anger"
     ],
@@ -88,11 +88,6 @@
       "fear"
     ],
     [
-      "fire",
-      3,
-      "fear"
-    ],
-    [
       "happened",
       3,
       "anticipation"
@@ -118,14 +113,19 @@
       "anticipation"
     ],
     [
-      "leader",
+      "americans",
       2,
-      "trust"
+      "sadness"
     ],
     [
       "military",
       2,
       "fear"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
     ],
     [
       "suspected",
@@ -198,6 +198,11 @@
       "anticipation"
     ],
     [
+      "fire",
+      2,
+      "fear"
+    ],
+    [
       "incident",
       2,
       "surprise"
@@ -233,11 +238,6 @@
       "fear"
     ],
     [
-      "blaze",
-      2,
-      "anger"
-    ],
-    [
       "gaza",
       2,
       "anger"
@@ -248,34 +248,9 @@
       "anger"
     ],
     [
-      "show",
-      2,
-      "trust"
-    ],
-    [
-      "hot",
-      2,
-      "anger"
-    ],
-    [
       "board",
       2,
       "anticipation"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
-    ],
-    [
-      "coup",
-      1,
-      "anger"
     ],
     [
       "crunch",
@@ -289,6 +264,51 @@
     ],
     [
       "explosives",
+      1,
+      "anger"
+    ],
+    [
+      "abandoned",
+      1,
+      "anger"
+    ],
+    [
+      "surge",
+      1,
+      "surprise"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "ambassador",
+      1,
+      "trust"
+    ],
+    [
+      "witnessed",
+      1,
+      "trust"
+    ],
+    [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "alive",
+      1,
+      "joy"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "coup",
       1,
       "anger"
     ],
@@ -356,34 +376,14 @@
       "ridiculed",
       1,
       "anger"
-    ],
-    [
-      "pathetic",
-      1,
-      "disgust"
-    ],
-    [
-      "pointless",
-      1,
-      "sadness"
-    ],
-    [
-      "fact",
-      1,
-      "trust"
-    ],
-    [
-      "mind",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 61,
-    "fear": 64,
+    "joy": 18,
+    "trust": 62,
+    "fear": 63,
     "surprise": 9,
-    "sadness": 14,
+    "sadness": 16,
     "disgust": 7,
     "anger": 103,
     "anticipation": 38
