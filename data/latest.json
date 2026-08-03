@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T05:34:11.325Z",
+  "generated_at": "2026-08-03T05:49:13.527Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,11 +16,6 @@
       "people",
       8,
       "trust"
-    ],
-    [
-      "missile",
-      8,
-      "fear"
     ],
     [
       "iran",
@@ -58,6 +53,11 @@
       "anticipation"
     ],
     [
+      "missile",
+      5,
+      "fear"
+    ],
+    [
       "cross",
       4,
       "anger"
@@ -66,11 +66,6 @@
       "police",
       4,
       "fear"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "wildfire",
@@ -98,9 +93,9 @@
       "joy"
     ],
     [
-      "crashes",
+      "happened",
       3,
-      "fear"
+      "anticipation"
     ],
     [
       "avalanche",
@@ -115,6 +110,11 @@
     [
       "conflict",
       3,
+      "anger"
+    ],
+    [
+      "allegations",
+      2,
       "anger"
     ],
     [
@@ -168,11 +168,6 @@
       "anticipation"
     ],
     [
-      "measure",
-      2,
-      "trust"
-    ],
-    [
       "fight",
       2,
       "anger"
@@ -186,6 +181,11 @@
       "anti",
       2,
       "anger"
+    ],
+    [
+      "crashes",
+      2,
+      "fear"
     ],
     [
       "hospital",
@@ -238,11 +238,6 @@
       "anger"
     ],
     [
-      "leaders",
-      2,
-      "trust"
-    ],
-    [
       "military",
       2,
       "fear"
@@ -251,6 +246,21 @@
       "board",
       2,
       "anticipation"
+    ],
+    [
+      "guide",
+      1,
+      "trust"
+    ],
+    [
+      "scandals",
+      1,
+      "fear"
+    ],
+    [
+      "alleged",
+      1,
+      "fear"
     ],
     [
       "america",
@@ -363,29 +373,19 @@
       "trust"
     ],
     [
-      "followers",
+      "measure",
       1,
       "trust"
-    ],
-    [
-      "bee",
-      1,
-      "anger"
-    ],
-    [
-      "competition",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 60,
-    "fear": 66,
+    "trust": 59,
+    "fear": 62,
     "surprise": 8,
     "sadness": 13,
     "disgust": 6,
-    "anger": 112,
-    "anticipation": 38
+    "anger": 113,
+    "anticipation": 37
   }
 }
