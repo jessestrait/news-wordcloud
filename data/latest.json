@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T18:31:20.297Z",
+  "generated_at": "2026-08-03T18:46:22.494Z",
   "article_count": 50,
   "top_words": [
     [
@@ -263,26 +263,6 @@
       "fear"
     ],
     [
-      "duplicity",
-      1,
-      "anger"
-    ],
-    [
-      "struggles",
-      1,
-      "anger"
-    ],
-    [
-      "negotiating",
-      1,
-      "trust"
-    ],
-    [
-      "ground",
-      1,
-      "trust"
-    ],
-    [
       "tomorrow",
       1,
       "anticipation"
@@ -301,6 +281,26 @@
       "house",
       1,
       "joy"
+    ],
+    [
+      "duplicity",
+      1,
+      "anger"
+    ],
+    [
+      "struggles",
+      1,
+      "anger"
+    ],
+    [
+      "negotiating",
+      1,
+      "trust"
+    ],
+    [
+      "ground",
+      1,
+      "trust"
     ],
     [
       "flees",
