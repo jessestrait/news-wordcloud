@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-03T19:31:49.119Z",
+  "generated_at": "2026-08-03T19:46:51.567Z",
   "article_count": 50,
   "top_words": [
     [
+      "president",
+      9,
+      "trust"
+    ],
+    [
       "iran",
-      10,
+      8,
       "anger"
     ],
     [
       "trump",
       8,
       "anger"
-    ],
-    [
-      "president",
-      8,
-      "trust"
     ],
     [
       "people",
@@ -38,6 +38,11 @@
       "anger"
     ],
     [
+      "found",
+      5,
+      "joy"
+    ],
+    [
       "force",
       5,
       "anger"
@@ -48,34 +53,19 @@
       "anger"
     ],
     [
-      "strikes",
-      5,
-      "anger"
-    ],
-    [
-      "strait",
-      4,
-      "fear"
-    ],
-    [
-      "hormuz",
-      4,
-      "fear"
-    ],
-    [
       "cross",
       4,
       "anger"
     ],
     [
-      "found",
+      "strikes",
       4,
-      "joy"
+      "anger"
     ],
     [
-      "middle",
+      "police",
       3,
-      "sadness"
+      "fear"
     ],
     [
       "letter",
@@ -116,6 +106,36 @@
       "world",
       3,
       "trust"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
+      "inquiries",
+      2,
+      "anticipation"
+    ],
+    [
+      "alive",
+      2,
+      "joy"
+    ],
+    [
+      "middle",
+      2,
+      "sadness"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "hormuz",
+      2,
+      "fear"
     ],
     [
       "ministry",
@@ -208,11 +228,6 @@
       "trust"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "building",
       2,
       "anticipation"
@@ -256,6 +271,41 @@
       "wildfire",
       2,
       "fear"
+    ],
+    [
+      "chance",
+      1,
+      "surprise"
+    ],
+    [
+      "avoid",
+      1,
+      "fear"
+    ],
+    [
+      "escalating",
+      1,
+      "anger"
+    ],
+    [
+      "expects",
+      1,
+      "surprise"
+    ],
+    [
+      "reviving",
+      1,
+      "anticipation"
+    ],
+    [
+      "murder",
+      1,
+      "anger"
+    ],
+    [
+      "focused",
+      1,
+      "trust"
     ],
     [
       "tomorrow",
@@ -326,66 +376,16 @@
       "bullying",
       1,
       "anger"
-    ],
-    [
-      "government",
-      1,
-      "fear"
-    ],
-    [
-      "attempt",
-      1,
-      "anticipation"
-    ],
-    [
-      "inquiries",
-      1,
-      "anticipation"
-    ],
-    [
-      "crunch",
-      1,
-      "anger"
-    ],
-    [
-      "detonates",
-      1,
-      "fear"
-    ],
-    [
-      "explosives",
-      1,
-      "anger"
-    ],
-    [
-      "blasts",
-      1,
-      "anger"
-    ],
-    [
-      "levels",
-      1,
-      "trust"
-    ],
-    [
-      "atrocity",
-      1,
-      "anger"
-    ],
-    [
-      "encouraged",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 61,
-    "fear": 57,
-    "surprise": 9,
-    "sadness": 17,
+    "joy": 24,
+    "trust": 62,
+    "fear": 55,
+    "surprise": 11,
+    "sadness": 16,
     "disgust": 7,
-    "anger": 113,
-    "anticipation": 33
+    "anger": 110,
+    "anticipation": 35
   }
 }
