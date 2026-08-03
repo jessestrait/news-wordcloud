@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:01:55.737Z",
+  "generated_at": "2026-08-03T01:16:57.803Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,11 +63,6 @@
       "anger"
     ],
     [
-      "leader",
-      4,
-      "trust"
-    ],
-    [
       "crashes",
       3,
       "fear"
@@ -103,9 +98,24 @@
       "joy"
     ],
     [
+      "leader",
+      3,
+      "trust"
+    ],
+    [
       "death",
       3,
       "sadness"
+    ],
+    [
+      "media",
+      2,
+      "disgust"
+    ],
+    [
+      "rescue",
+      2,
+      "surprise"
     ],
     [
       "abuse",
@@ -258,6 +268,11 @@
       "fear"
     ],
     [
+      "official",
+      2,
+      "trust"
+    ],
+    [
       "guide",
       2,
       "trust"
@@ -271,6 +286,26 @@
       "system",
       2,
       "trust"
+    ],
+    [
+      "jump",
+      1,
+      "joy"
+    ],
+    [
+      "compressed",
+      1,
+      "anger"
+    ],
+    [
+      "tackling",
+      1,
+      "anger"
+    ],
+    [
+      "demanding",
+      1,
+      "anger"
     ],
     [
       "associates",
@@ -341,51 +376,16 @@
       "supplies",
       1,
       "fear"
-    ],
-    [
-      "lines",
-      1,
-      "fear"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
-      "departing",
-      1,
-      "sadness"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "urgent",
-      1,
-      "fear"
-    ],
-    [
-      "interior",
-      1,
-      "disgust"
-    ],
-    [
-      "crossing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 70,
-    "fear": 65,
-    "surprise": 6,
+    "fear": 64,
+    "surprise": 7,
     "sadness": 17,
-    "disgust": 4,
-    "anger": 102,
+    "disgust": 5,
+    "anger": 103,
     "anticipation": 40
   }
 }
