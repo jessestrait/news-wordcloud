@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T07:35:44.300Z",
+  "generated_at": "2026-08-03T07:50:46.744Z",
   "article_count": 50,
   "top_words": [
     [
@@ -29,17 +29,17 @@
     ],
     [
       "strike",
-      7,
+      6,
       "anger"
     ],
     [
       "iran",
-      6,
+      5,
       "anger"
     ],
     [
       "hit",
-      6,
+      5,
       "anger"
     ],
     [
@@ -203,11 +203,6 @@
       "anger"
     ],
     [
-      "peace",
-      2,
-      "joy"
-    ],
-    [
       "plan",
       2,
       "anticipation"
@@ -228,14 +223,24 @@
       "anger"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "board",
       2,
       "anticipation"
+    ],
+    [
+      "forecast",
+      1,
+      "trust"
+    ],
+    [
+      "falling",
+      1,
+      "sadness"
+    ],
+    [
+      "levels",
+      1,
+      "trust"
     ],
     [
       "hide",
@@ -371,21 +376,16 @@
       "expectation",
       1,
       "anticipation"
-    ],
-    [
-      "delay",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
+    "joy": 16,
     "trust": 60,
-    "fear": 62,
+    "fear": 61,
     "surprise": 9,
     "sadness": 13,
     "disgust": 7,
-    "anger": 106,
+    "anger": 102,
     "anticipation": 38
   }
 }
