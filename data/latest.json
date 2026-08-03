@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:29:14.389Z",
+  "generated_at": "2026-08-03T14:44:16.592Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anger"
     ],
     [
+      "power",
+      7,
+      "anticipation"
+    ],
+    [
       "president",
       7,
       "trust"
@@ -23,9 +28,14 @@
       "anger"
     ],
     [
-      "power",
+      "hit",
       6,
-      "anticipation"
+      "anger"
+    ],
+    [
+      "force",
+      6,
+      "anger"
     ],
     [
       "people",
@@ -33,17 +43,7 @@
       "trust"
     ],
     [
-      "force",
-      5,
-      "anger"
-    ],
-    [
       "war",
-      5,
-      "anger"
-    ],
-    [
-      "hit",
       5,
       "anger"
     ],
@@ -68,14 +68,14 @@
       "fear"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
       "middle",
       3,
       "sadness"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "strait",
@@ -248,6 +248,16 @@
       "anger"
     ],
     [
+      "blasts",
+      1,
+      "anger"
+    ],
+    [
+      "levels",
+      1,
+      "trust"
+    ],
+    [
       "crunch",
       1,
       "anger"
@@ -259,6 +269,11 @@
     ],
     [
       "explosives",
+      1,
+      "anger"
+    ],
+    [
+      "denies",
       1,
       "anger"
     ],
@@ -281,11 +296,6 @@
       "solidarity",
       1,
       "trust"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
     ],
     [
       "military",
@@ -366,26 +376,16 @@
       "pain",
       1,
       "fear"
-    ],
-    [
-      "cube",
-      1,
-      "trust"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 60,
-    "fear": 58,
+    "trust": 61,
+    "fear": 56,
     "surprise": 9,
     "sadness": 16,
     "disgust": 7,
-    "anger": 109,
-    "anticipation": 32
+    "anger": 112,
+    "anticipation": 33
   }
 }
