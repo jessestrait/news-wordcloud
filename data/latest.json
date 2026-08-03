@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T03:33:00.353Z",
+  "generated_at": "2026-08-03T03:48:02.528Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,9 +48,19 @@
       "anger"
     ],
     [
+      "force",
+      5,
+      "anger"
+    ],
+    [
       "power",
       5,
       "anticipation"
+    ],
+    [
+      "wildfire",
+      5,
+      "fear"
     ],
     [
       "cross",
@@ -58,9 +68,9 @@
       "anger"
     ],
     [
-      "force",
+      "police",
       4,
-      "anger"
+      "fear"
     ],
     [
       "happened",
@@ -68,14 +78,24 @@
       "anticipation"
     ],
     [
-      "wildfire",
-      4,
-      "fear"
-    ],
-    [
       "deadly",
       3,
       "anger"
+    ],
+    [
+      "fire",
+      3,
+      "fear"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
+      "found",
+      3,
+      "joy"
     ],
     [
       "crashes",
@@ -93,19 +113,9 @@
       "trust"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
       "conflict",
       3,
       "anger"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
     ],
     [
       "strait",
@@ -128,16 +138,6 @@
       "disgust"
     ],
     [
-      "fire",
-      2,
-      "fear"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "abuse",
       2,
       "anger"
@@ -146,6 +146,16 @@
       "confirmed",
       2,
       "trust"
+    ],
+    [
+      "building",
+      2,
+      "anticipation"
+    ],
+    [
+      "incident",
+      2,
+      "surprise"
     ],
     [
       "letter",
@@ -188,19 +198,9 @@
       "anticipation"
     ],
     [
-      "found",
-      2,
-      "joy"
-    ],
-    [
       "blaze",
       2,
       "anger"
-    ],
-    [
-      "holiday",
-      2,
-      "joy"
     ],
     [
       "middle",
@@ -253,6 +253,11 @@
       "anticipation"
     ],
     [
+      "leaders",
+      2,
+      "trust"
+    ],
+    [
       "military",
       2,
       "fear"
@@ -271,11 +276,6 @@
       "home",
       2,
       "joy"
-    ],
-    [
-      "guide",
-      2,
-      "trust"
     ],
     [
       "provide",
@@ -343,6 +343,21 @@
       "anger"
     ],
     [
+      "believed",
+      1,
+      "trust"
+    ],
+    [
+      "battles",
+      1,
+      "anger"
+    ],
+    [
+      "crew",
+      1,
+      "trust"
+    ],
+    [
       "followers",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "notes",
       1,
       "sadness"
-    ],
-    [
-      "opportunity",
-      1,
-      "anticipation"
-    ],
-    [
-      "neutral",
-      1,
-      "trust"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 67,
-    "fear": 66,
-    "surprise": 7,
-    "sadness": 15,
+    "trust": 64,
+    "fear": 68,
+    "surprise": 8,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 113,
-    "anticipation": 40
+    "anger": 115,
+    "anticipation": 41
   }
 }
