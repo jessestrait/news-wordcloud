@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-03T08:36:16.892Z",
+  "generated_at": "2026-08-03T08:51:48.204Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      8,
+      9,
       "anger"
     ],
     [
-      "people",
+      "president",
       8,
       "trust"
     ],
     [
-      "president",
-      7,
+      "people",
+      8,
       "trust"
     ],
     [
@@ -23,18 +23,18 @@
       "anger"
     ],
     [
+      "iran",
+      6,
+      "anger"
+    ],
+    [
       "attack",
-      7,
+      6,
       "anger"
     ],
     [
       "strike",
       6,
-      "anger"
-    ],
-    [
-      "iran",
-      5,
       "anger"
     ],
     [
@@ -53,11 +53,6 @@
       "anticipation"
     ],
     [
-      "missile",
-      5,
-      "fear"
-    ],
-    [
       "cross",
       4,
       "anger"
@@ -68,19 +63,24 @@
       "fear"
     ],
     [
+      "missile",
+      4,
+      "fear"
+    ],
+    [
       "wildfire",
       4,
       "fear"
     ],
     [
+      "middle",
+      3,
+      "sadness"
+    ],
+    [
       "media",
       3,
       "disgust"
-    ],
-    [
-      "deadly",
-      3,
-      "anger"
     ],
     [
       "killed",
@@ -113,6 +113,11 @@
       "trust"
     ],
     [
+      "plan",
+      3,
+      "anticipation"
+    ],
+    [
       "allegations",
       2,
       "anger"
@@ -136,6 +141,11 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
     ],
     [
       "abuse",
@@ -193,19 +203,9 @@
       "anger"
     ],
     [
-      "middle",
-      2,
-      "sadness"
-    ],
-    [
       "gaza",
       2,
       "anger"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "conflict",
@@ -241,6 +241,11 @@
       "levels",
       1,
       "trust"
+    ],
+    [
+      "denies",
+      1,
+      "anger"
     ],
     [
       "hide",
@@ -371,19 +376,14 @@
       "crimes",
       1,
       "anger"
-    ],
-    [
-      "expectation",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 16,
-    "trust": 60,
-    "fear": 61,
+    "trust": 61,
+    "fear": 59,
     "surprise": 9,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 7,
     "anger": 102,
     "anticipation": 38
