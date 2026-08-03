@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:47:35.579Z",
+  "generated_at": "2026-08-03T21:02:37.901Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,16 +113,6 @@
       "trust"
     ],
     [
-      "attempted",
-      2,
-      "anticipation"
-    ],
-    [
-      "journey",
-      2,
-      "fear"
-    ],
-    [
       "middle",
       2,
       "sadness"
@@ -146,6 +136,16 @@
       "ministry",
       2,
       "joy"
+    ],
+    [
+      "attempted",
+      2,
+      "anticipation"
+    ],
+    [
+      "journey",
+      2,
+      "fear"
     ],
     [
       "killing",
@@ -268,21 +268,6 @@
       "fear"
     ],
     [
-      "chaotic",
-      1,
-      "anger"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
-      "resulted",
-      1,
-      "anticipation"
-    ],
-    [
       "tomorrow",
       1,
       "anticipation"
@@ -296,6 +281,21 @@
       "house",
       1,
       "joy"
+    ],
+    [
+      "chaotic",
+      1,
+      "anger"
+    ],
+    [
+      "dangerous",
+      1,
+      "fear"
+    ],
+    [
+      "resulted",
+      1,
+      "anticipation"
     ],
     [
       "chance",
