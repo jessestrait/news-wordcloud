@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T11:12:20.397Z",
+  "generated_at": "2026-08-03T11:27:22.615Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,21 +253,6 @@
       "anticipation"
     ],
     [
-      "alive",
-      1,
-      "joy"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
-    ],
-    [
-      "coup",
-      1,
-      "anger"
-    ],
-    [
       "crunch",
       1,
       "anger"
@@ -284,6 +269,21 @@
     ],
     [
       "denies",
+      1,
+      "anger"
+    ],
+    [
+      "alive",
+      1,
+      "joy"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "coup",
       1,
       "anger"
     ],
