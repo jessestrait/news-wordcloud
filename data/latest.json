@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:26:56.700Z",
+  "generated_at": "2026-08-03T10:41:59.176Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "trust"
     ],
     [
-      "people",
-      8,
-      "trust"
+      "attack",
+      7,
+      "anger"
     ],
     [
-      "power",
-      6,
-      "anticipation"
+      "people",
+      7,
+      "trust"
     ],
     [
       "iran",
@@ -28,13 +28,18 @@
       "anger"
     ],
     [
+      "power",
+      6,
+      "anticipation"
+    ],
+    [
       "war",
       6,
       "anger"
     ],
     [
-      "attack",
-      6,
+      "force",
+      5,
       "anger"
     ],
     [
@@ -58,16 +63,6 @@
       "joy"
     ],
     [
-      "force",
-      4,
-      "anger"
-    ],
-    [
-      "police",
-      4,
-      "fear"
-    ],
-    [
       "wildfire",
       4,
       "fear"
@@ -78,12 +73,22 @@
       "sadness"
     ],
     [
+      "deadly",
+      3,
+      "anger"
+    ],
+    [
       "media",
       3,
       "disgust"
     ],
     [
       "killed",
+      3,
+      "fear"
+    ],
+    [
+      "police",
       3,
       "fear"
     ],
@@ -113,21 +118,6 @@
       "anticipation"
     ],
     [
-      "americans",
-      2,
-      "sadness"
-    ],
-    [
-      "military",
-      2,
-      "fear"
-    ],
-    [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
       "suspected",
       2,
       "fear"
@@ -153,6 +143,21 @@
       "anger"
     ],
     [
+      "americans",
+      2,
+      "sadness"
+    ],
+    [
+      "military",
+      2,
+      "fear"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "allegations",
       2,
       "anger"
@@ -176,11 +181,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "deadly",
-      2,
-      "anger"
     ],
     [
       "abuse",
@@ -253,6 +253,36 @@
       "anticipation"
     ],
     [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "difficult",
+      1,
+      "fear"
+    ],
+    [
+      "blames",
+      1,
+      "anger"
+    ],
+    [
+      "bombing",
+      1,
+      "anger"
+    ],
+    [
+      "ministry",
+      1,
+      "joy"
+    ],
+    [
       "crunch",
       1,
       "anger"
@@ -293,11 +323,6 @@
       "trust"
     ],
     [
-      "denies",
-      1,
-      "anger"
-    ],
-    [
       "alive",
       1,
       "joy"
@@ -311,16 +336,6 @@
       "coup",
       1,
       "anger"
-    ],
-    [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
     ],
     [
       "hide",
@@ -361,31 +376,16 @@
       "scandals",
       1,
       "fear"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
-    ],
-    [
-      "america",
-      1,
-      "sadness"
-    ],
-    [
-      "ridiculed",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 62,
-    "fear": 63,
+    "joy": 19,
+    "trust": 61,
+    "fear": 61,
     "surprise": 9,
     "sadness": 16,
     "disgust": 7,
-    "anger": 103,
-    "anticipation": 38
+    "anger": 108,
+    "anticipation": 37
   }
 }
