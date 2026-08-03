@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:59:18.903Z",
+  "generated_at": "2026-08-03T15:14:20.930Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
-      "force",
-      6,
-      "anger"
-    ],
-    [
       "people",
       6,
       "trust"
+    ],
+    [
+      "force",
+      5,
+      "anger"
     ],
     [
       "war",
@@ -63,19 +63,14 @@
       "joy"
     ],
     [
-      "wildfire",
-      4,
-      "fear"
+      "suicide",
+      3,
+      "anger"
     ],
     [
       "middle",
       3,
       "sadness"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
     ],
     [
       "strait",
@@ -115,6 +110,26 @@
     [
       "world",
       3,
+      "trust"
+    ],
+    [
+      "wildfire",
+      3,
+      "fear"
+    ],
+    [
+      "alleged",
+      2,
+      "fear"
+    ],
+    [
+      "attempted",
+      2,
+      "anticipation"
+    ],
+    [
+      "leader",
+      2,
       "trust"
     ],
     [
@@ -248,14 +263,24 @@
       "anger"
     ],
     [
-      "blasts",
+      "bullying",
       1,
       "anger"
     ],
     [
-      "levels",
+      "government",
       1,
-      "trust"
+      "fear"
+    ],
+    [
+      "attempt",
+      1,
+      "anticipation"
+    ],
+    [
+      "inquiries",
+      1,
+      "anticipation"
     ],
     [
       "crunch",
@@ -271,6 +296,16 @@
       "explosives",
       1,
       "anger"
+    ],
+    [
+      "blasts",
+      1,
+      "anger"
+    ],
+    [
+      "levels",
+      1,
+      "trust"
     ],
     [
       "denies",
@@ -341,51 +376,16 @@
       "ministry",
       1,
       "joy"
-    ],
-    [
-      "abandoned",
-      1,
-      "anger"
-    ],
-    [
-      "surge",
-      1,
-      "surprise"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "ambassador",
-      1,
-      "trust"
-    ],
-    [
-      "witnessed",
-      1,
-      "trust"
-    ],
-    [
-      "hide",
-      1,
-      "fear"
-    ],
-    [
-      "pain",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 61,
+    "trust": 59,
     "fear": 56,
     "surprise": 9,
     "sadness": 16,
     "disgust": 7,
-    "anger": 112,
-    "anticipation": 33
+    "anger": 113,
+    "anticipation": 35
   }
 }
