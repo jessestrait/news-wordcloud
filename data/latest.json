@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:00:00.127Z",
+  "generated_at": "2026-08-03T16:15:03.177Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,12 +23,12 @@
       "anticipation"
     ],
     [
-      "hit",
+      "war",
       6,
       "anger"
     ],
     [
-      "attack",
+      "hit",
       6,
       "anger"
     ],
@@ -43,7 +43,7 @@
       "anger"
     ],
     [
-      "war",
+      "attack",
       5,
       "anger"
     ],
@@ -51,11 +51,6 @@
       "strikes",
       5,
       "anger"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "cross",
@@ -81,6 +76,11 @@
       "suicide",
       3,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "strait",
@@ -121,6 +121,11 @@
       "wildfire",
       3,
       "fear"
+    ],
+    [
+      "anti",
+      2,
+      "anger"
     ],
     [
       "alleged",
@@ -278,6 +283,21 @@
       "sadness"
     ],
     [
+      "flees",
+      1,
+      "fear"
+    ],
+    [
+      "crackdown",
+      1,
+      "anger"
+    ],
+    [
+      "gained",
+      1,
+      "joy"
+    ],
+    [
       "bullying",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "ousted",
       1,
       "anger"
-    ],
-    [
-      "coup",
-      1,
-      "anger"
-    ],
-    [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
-    ],
-    [
-      "blames",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 21,
     "trust": 61,
-    "fear": 57,
+    "fear": 58,
     "surprise": 10,
     "sadness": 17,
     "disgust": 7,
-    "anger": 112,
-    "anticipation": 34
+    "anger": 114,
+    "anticipation": 33
   }
 }
