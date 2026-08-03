@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T11:42:42.909Z",
+  "generated_at": "2026-08-03T11:57:45.050Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "power",
-      6,
-      "anticipation"
-    ],
-    [
       "iran",
       6,
       "anger"
+    ],
+    [
+      "power",
+      6,
+      "anticipation"
     ],
     [
       "war",
@@ -253,6 +253,11 @@
       "anticipation"
     ],
     [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
       "crunch",
       1,
       "anger"
@@ -264,11 +269,6 @@
     ],
     [
       "explosives",
-      1,
-      "anger"
-    ],
-    [
-      "denies",
       1,
       "anger"
     ],
