@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:42:15.997Z",
+  "generated_at": "2026-08-03T10:57:18.189Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "iran",
-      6,
-      "anger"
-    ],
-    [
       "power",
       6,
       "anticipation"
+    ],
+    [
+      "iran",
+      6,
+      "anger"
     ],
     [
       "war",
@@ -253,6 +253,21 @@
       "anticipation"
     ],
     [
+      "crunch",
+      1,
+      "anger"
+    ],
+    [
+      "detonates",
+      1,
+      "fear"
+    ],
+    [
+      "explosives",
+      1,
+      "anger"
+    ],
+    [
       "denies",
       1,
       "anger"
@@ -281,21 +296,6 @@
       "ministry",
       1,
       "joy"
-    ],
-    [
-      "crunch",
-      1,
-      "anger"
-    ],
-    [
-      "detonates",
-      1,
-      "fear"
-    ],
-    [
-      "explosives",
-      1,
-      "anger"
     ],
     [
       "abandoned",
