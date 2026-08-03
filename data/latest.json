@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:30:05.723Z",
+  "generated_at": "2026-08-03T16:45:07.927Z",
   "article_count": 50,
   "top_words": [
     [
@@ -258,11 +258,6 @@
       "anger"
     ],
     [
-      "barriers",
-      1,
-      "anger"
-    ],
-    [
       "blockade",
       1,
       "anger"
@@ -376,6 +371,11 @@
       "military",
       1,
       "fear"
+    ],
+    [
+      "alive",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 10,
     "sadness": 17,
     "disgust": 7,
-    "anger": 115,
+    "anger": 114,
     "anticipation": 33
   }
 }
