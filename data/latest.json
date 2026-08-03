@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-03T14:13:56.512Z",
+  "generated_at": "2026-08-03T14:28:58.663Z",
   "article_count": 50,
   "top_words": [
-    [
-      "trump",
-      9,
-      "anger"
-    ],
     [
       "iran",
       8,
       "anger"
     ],
     [
-      "president",
+      "trump",
       8,
+      "anger"
+    ],
+    [
+      "president",
+      7,
       "trust"
     ],
     [
@@ -28,17 +28,17 @@
       "anticipation"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "people",
       6,
       "trust"
     ],
     [
       "force",
+      5,
+      "anger"
+    ],
+    [
+      "war",
       5,
       "anger"
     ],
@@ -66,6 +66,11 @@
       "wildfire",
       4,
       "fear"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "middle",
@@ -113,24 +118,9 @@
       "trust"
     ],
     [
-      "missile",
-      3,
-      "fear"
-    ],
-    [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
-      "military",
+      "crossing",
       2,
-      "fear"
-    ],
-    [
-      "leader",
-      2,
-      "trust"
+      "anger"
     ],
     [
       "suspected",
@@ -238,9 +228,19 @@
       "fear"
     ],
     [
+      "missile",
+      2,
+      "fear"
+    ],
+    [
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "conflict",
@@ -263,9 +263,34 @@
       "anger"
     ],
     [
+      "atrocity",
+      1,
+      "anger"
+    ],
+    [
+      "encouraged",
+      1,
+      "joy"
+    ],
+    [
+      "demands",
+      1,
+      "anger"
+    ],
+    [
+      "solidarity",
+      1,
+      "trust"
+    ],
+    [
       "denies",
       1,
       "anger"
+    ],
+    [
+      "military",
+      1,
+      "fear"
     ],
     [
       "alive",
@@ -351,41 +376,16 @@
       "elected",
       1,
       "trust"
-    ],
-    [
-      "public",
-      1,
-      "anticipation"
-    ],
-    [
-      "bizarre",
-      1,
-      "surprise"
-    ],
-    [
-      "guide",
-      1,
-      "trust"
-    ],
-    [
-      "scandals",
-      1,
-      "fear"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 59,
-    "fear": 61,
+    "trust": 60,
+    "fear": 58,
     "surprise": 9,
     "sadness": 16,
     "disgust": 7,
-    "anger": 108,
-    "anticipation": 34
+    "anger": 109,
+    "anticipation": 32
   }
 }
