@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:57:18.189Z",
+  "generated_at": "2026-08-03T11:12:20.397Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,12 +38,12 @@
       "anger"
     ],
     [
-      "force",
+      "cross",
       5,
       "anger"
     ],
     [
-      "cross",
+      "force",
       5,
       "anger"
     ],
@@ -118,6 +118,16 @@
       "anticipation"
     ],
     [
+      "military",
+      2,
+      "fear"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "suspected",
       2,
       "fear"
@@ -146,16 +156,6 @@
       "americans",
       2,
       "sadness"
-    ],
-    [
-      "military",
-      2,
-      "fear"
-    ],
-    [
-      "leader",
-      2,
-      "trust"
     ],
     [
       "allegations",
@@ -253,6 +253,21 @@
       "anticipation"
     ],
     [
+      "alive",
+      1,
+      "joy"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "coup",
+      1,
+      "anger"
+    ],
+    [
       "crunch",
       1,
       "anger"
@@ -321,21 +336,6 @@
       "witnessed",
       1,
       "trust"
-    ],
-    [
-      "alive",
-      1,
-      "joy"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
-    ],
-    [
-      "coup",
-      1,
-      "anger"
     ],
     [
       "hide",
