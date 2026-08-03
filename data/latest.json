@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T15:44:40.861Z",
+  "generated_at": "2026-08-03T15:59:42.953Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,22 +13,22 @@
       "anger"
     ],
     [
-      "power",
-      7,
-      "anticipation"
-    ],
-    [
       "president",
       7,
       "trust"
     ],
     [
-      "attack",
+      "power",
       7,
-      "anger"
+      "anticipation"
     ],
     [
       "hit",
+      6,
+      "anger"
+    ],
+    [
+      "attack",
       6,
       "anger"
     ],
@@ -68,14 +68,14 @@
       "joy"
     ],
     [
-      "suicide",
-      3,
-      "anger"
-    ],
-    [
       "middle",
       3,
       "sadness"
+    ],
+    [
+      "suicide",
+      3,
+      "anger"
     ],
     [
       "strait",
@@ -238,11 +238,6 @@
       "fear"
     ],
     [
-      "hospital",
-      2,
-      "fear"
-    ],
-    [
       "missile",
       2,
       "fear"
@@ -258,8 +253,8 @@
       "anticipation"
     ],
     [
-      "conflict",
-      2,
+      "denies",
+      1,
       "anger"
     ],
     [
@@ -306,11 +301,6 @@
       "levels",
       1,
       "trust"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
     ],
     [
       "atrocity",
@@ -376,16 +366,26 @@
       "ministry",
       1,
       "joy"
+    ],
+    [
+      "abandoned",
+      1,
+      "anger"
+    ],
+    [
+      "surge",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
+    "joy": 20,
     "trust": 59,
     "fear": 56,
     "surprise": 9,
     "sadness": 16,
     "disgust": 7,
-    "anger": 113,
-    "anticipation": 36
+    "anger": 110,
+    "anticipation": 35
   }
 }
