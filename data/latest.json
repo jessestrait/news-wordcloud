@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:43:05.960Z",
+  "generated_at": "2026-08-03T12:58:07.954Z",
   "article_count": 50,
   "top_words": [
     [
@@ -248,11 +248,6 @@
       "anger"
     ],
     [
-      "denies",
-      1,
-      "anger"
-    ],
-    [
       "crunch",
       1,
       "anger"
@@ -264,6 +259,11 @@
     ],
     [
       "explosives",
+      1,
+      "anger"
+    ],
+    [
+      "denies",
       1,
       "anger"
     ],
