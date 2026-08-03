@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T03:48:18.900Z",
+  "generated_at": "2026-08-03T04:03:21.353Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "anticipation"
     ],
     [
-      "wildfire",
-      5,
-      "fear"
-    ],
-    [
       "cross",
       4,
       "anger"
@@ -76,6 +71,11 @@
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "wildfire",
+      4,
+      "fear"
     ],
     [
       "deadly",
@@ -278,6 +278,16 @@
       "joy"
     ],
     [
+      "fact",
+      1,
+      "trust"
+    ],
+    [
+      "mind",
+      1,
+      "trust"
+    ],
+    [
       "provide",
       1,
       "trust"
@@ -366,26 +376,16 @@
       "bee",
       1,
       "anger"
-    ],
-    [
-      "competition",
-      1,
-      "anticipation"
-    ],
-    [
-      "notes",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 64,
-    "fear": 68,
+    "trust": 63,
+    "fear": 67,
     "surprise": 8,
     "sadness": 14,
     "disgust": 5,
-    "anger": 115,
+    "anger": 112,
     "anticipation": 41
   }
 }
