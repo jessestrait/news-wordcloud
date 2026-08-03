@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:10:21.065Z",
+  "generated_at": "2026-08-03T09:25:55.182Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "trust"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "power",
       6,
       "anticipation"
@@ -33,12 +28,12 @@
       "anger"
     ],
     [
-      "attack",
+      "war",
       6,
       "anger"
     ],
     [
-      "strike",
+      "attack",
       6,
       "anger"
     ],
@@ -48,9 +43,19 @@
       "anger"
     ],
     [
+      "strikes",
+      5,
+      "anger"
+    ],
+    [
       "force",
       5,
       "anger"
+    ],
+    [
+      "found",
+      4,
+      "joy"
     ],
     [
       "cross",
@@ -59,11 +64,6 @@
     ],
     [
       "police",
-      4,
-      "fear"
-    ],
-    [
-      "missile",
       4,
       "fear"
     ],
@@ -88,11 +88,6 @@
       "fear"
     ],
     [
-      "found",
-      3,
-      "joy"
-    ],
-    [
       "fire",
       3,
       "fear"
@@ -113,9 +108,39 @@
       "trust"
     ],
     [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "suspected",
+      2,
+      "fear"
+    ],
+    [
+      "flu",
+      2,
+      "fear"
+    ],
+    [
+      "deaths",
+      2,
+      "sadness"
+    ],
+    [
+      "journey",
+      2,
+      "fear"
+    ],
+    [
+      "mortality",
+      2,
+      "anger"
     ],
     [
       "allegations",
@@ -183,6 +208,11 @@
       "anticipation"
     ],
     [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
       "crashes",
       2,
       "fear"
@@ -241,6 +271,16 @@
       "explosives",
       1,
       "anger"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "difficult",
+      1,
+      "fear"
     ],
     [
       "denies",
@@ -336,56 +376,16 @@
       "rescue",
       1,
       "surprise"
-    ],
-    [
-      "compressed",
-      1,
-      "anger"
-    ],
-    [
-      "tackling",
-      1,
-      "anger"
-    ],
-    [
-      "demanding",
-      1,
-      "anger"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "exchanges",
-      1,
-      "trust"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
-      "associates",
-      1,
-      "trust"
-    ],
-    [
-      "crimes",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 16,
-    "trust": 59,
-    "fear": 60,
+    "joy": 17,
+    "trust": 60,
+    "fear": 63,
     "surprise": 9,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 7,
-    "anger": 104,
+    "anger": 103,
     "anticipation": 39
   }
 }
