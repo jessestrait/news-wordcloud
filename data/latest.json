@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-08-03T06:04:40.013Z",
+  "generated_at": "2026-08-03T06:19:43.297Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      9,
-      "anger"
-    ],
     [
       "trump",
       8,
@@ -18,7 +13,12 @@
       "trust"
     ],
     [
-      "iran",
+      "president",
+      7,
+      "trust"
+    ],
+    [
+      "war",
       7,
       "anger"
     ],
@@ -33,9 +33,9 @@
       "anger"
     ],
     [
-      "president",
+      "iran",
       6,
-      "trust"
+      "anger"
     ],
     [
       "hit",
@@ -73,6 +73,11 @@
       "fear"
     ],
     [
+      "media",
+      3,
+      "disgust"
+    ],
+    [
       "deadly",
       3,
       "anger"
@@ -108,11 +113,6 @@
       "trust"
     ],
     [
-      "conflict",
-      3,
-      "anger"
-    ],
-    [
       "allegations",
       2,
       "anger"
@@ -136,11 +136,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "media",
-      2,
-      "disgust"
     ],
     [
       "abuse",
@@ -178,11 +173,6 @@
       "anticipation"
     ],
     [
-      "anti",
-      2,
-      "anger"
-    ],
-    [
       "crashes",
       2,
       "fear"
@@ -191,11 +181,6 @@
       "hospital",
       2,
       "fear"
-    ],
-    [
-      "fear",
-      2,
-      "anger"
     ],
     [
       "prepares",
@@ -228,6 +213,11 @@
       "anticipation"
     ],
     [
+      "conflict",
+      2,
+      "anger"
+    ],
+    [
       "show",
       2,
       "trust"
@@ -246,6 +236,36 @@
       "board",
       2,
       "anticipation"
+    ],
+    [
+      "hide",
+      1,
+      "fear"
+    ],
+    [
+      "pain",
+      1,
+      "fear"
+    ],
+    [
+      "cube",
+      1,
+      "trust"
+    ],
+    [
+      "elected",
+      1,
+      "trust"
+    ],
+    [
+      "public",
+      1,
+      "anticipation"
+    ],
+    [
+      "bizarre",
+      1,
+      "surprise"
     ],
     [
       "guide",
@@ -356,36 +376,16 @@
       "delay",
       1,
       "anger"
-    ],
-    [
-      "believed",
-      1,
-      "trust"
-    ],
-    [
-      "battles",
-      1,
-      "anger"
-    ],
-    [
-      "crew",
-      1,
-      "trust"
-    ],
-    [
-      "measure",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 59,
+    "trust": 60,
     "fear": 62,
-    "surprise": 8,
+    "surprise": 9,
     "sadness": 13,
-    "disgust": 6,
-    "anger": 113,
-    "anticipation": 37
+    "disgust": 7,
+    "anger": 106,
+    "anticipation": 38
   }
 }
