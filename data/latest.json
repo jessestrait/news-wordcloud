@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:25:55.182Z",
+  "generated_at": "2026-08-03T09:41:32.190Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,8 +33,8 @@
       "anger"
     ],
     [
-      "attack",
-      6,
+      "cross",
+      5,
       "anger"
     ],
     [
@@ -48,7 +48,7 @@
       "anger"
     ],
     [
-      "force",
+      "attack",
       5,
       "anger"
     ],
@@ -58,7 +58,7 @@
       "joy"
     ],
     [
-      "cross",
+      "force",
       4,
       "anger"
     ],
@@ -116,6 +116,16 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "suspected",
@@ -223,11 +233,6 @@
       "fear"
     ],
     [
-      "prepares",
-      2,
-      "anticipation"
-    ],
-    [
       "blaze",
       2,
       "anger"
@@ -256,6 +261,16 @@
       "board",
       2,
       "anticipation"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "coup",
+      1,
+      "anger"
     ],
     [
       "crunch",
@@ -361,31 +376,16 @@
       "mind",
       1,
       "trust"
-    ],
-    [
-      "provide",
-      1,
-      "trust"
-    ],
-    [
-      "jump",
-      1,
-      "joy"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 60,
-    "fear": 63,
+    "trust": 61,
+    "fear": 64,
     "surprise": 9,
     "sadness": 14,
     "disgust": 7,
     "anger": 103,
-    "anticipation": 39
+    "anticipation": 38
   }
 }
