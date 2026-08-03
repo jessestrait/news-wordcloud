@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:15:03.177Z",
+  "generated_at": "2026-08-03T16:30:05.723Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,17 @@
       "anger"
     ],
     [
+      "president",
+      8,
+      "trust"
+    ],
+    [
       "trump",
       8,
       "anger"
     ],
     [
-      "president",
+      "people",
       7,
       "trust"
     ],
@@ -31,11 +36,6 @@
       "hit",
       6,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "force",
@@ -121,6 +121,11 @@
       "wildfire",
       3,
       "fear"
+    ],
+    [
+      "commission",
+      2,
+      "trust"
     ],
     [
       "anti",
@@ -253,6 +258,11 @@
       "anger"
     ],
     [
+      "barriers",
+      1,
+      "anger"
+    ],
+    [
       "blockade",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "military",
       1,
       "fear"
-    ],
-    [
-      "alive",
-      1,
-      "joy"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 61,
-    "fear": 58,
+    "joy": 20,
+    "trust": 63,
+    "fear": 57,
     "surprise": 10,
     "sadness": 17,
     "disgust": 7,
-    "anger": 114,
+    "anger": 115,
     "anticipation": 33
   }
 }
