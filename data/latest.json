@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:32:33.142Z",
+  "generated_at": "2026-08-03T20:47:35.579Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,6 +113,16 @@
       "trust"
     ],
     [
+      "attempted",
+      2,
+      "anticipation"
+    ],
+    [
+      "journey",
+      2,
+      "fear"
+    ],
+    [
       "middle",
       2,
       "sadness"
@@ -158,11 +168,6 @@
       "fear"
     ],
     [
-      "attempted",
-      2,
-      "anticipation"
-    ],
-    [
       "leader",
       2,
       "trust"
@@ -179,11 +184,6 @@
     ],
     [
       "flu",
-      2,
-      "fear"
-    ],
-    [
-      "journey",
       2,
       "fear"
     ],
@@ -266,6 +266,21 @@
       "wildfire",
       2,
       "fear"
+    ],
+    [
+      "chaotic",
+      1,
+      "anger"
+    ],
+    [
+      "dangerous",
+      1,
+      "fear"
+    ],
+    [
+      "resulted",
+      1,
+      "anticipation"
     ],
     [
       "tomorrow",
@@ -361,21 +376,6 @@
       "ground",
       1,
       "trust"
-    ],
-    [
-      "flees",
-      1,
-      "fear"
-    ],
-    [
-      "crackdown",
-      1,
-      "anger"
-    ],
-    [
-      "gained",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
