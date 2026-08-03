@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:03:05.367Z",
+  "generated_at": "2026-08-03T22:03:29.808Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anger"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "cross",
       4,
       "anger"
@@ -83,11 +88,6 @@
       "anger"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "media",
       3,
       "disgust"
@@ -106,11 +106,6 @@
       "world",
       3,
       "trust"
-    ],
-    [
-      "middle",
-      2,
-      "sadness"
     ],
     [
       "strait",
@@ -376,6 +371,11 @@
       "negotiating",
       1,
       "trust"
+    ],
+    [
+      "ground",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 62,
     "fear": 58,
     "surprise": 12,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 8,
     "anger": 110,
-    "anticipation": 34
+    "anticipation": 35
   }
 }
