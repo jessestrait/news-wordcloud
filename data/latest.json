@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-08-03T04:33:49.044Z",
+  "generated_at": "2026-08-03T04:48:50.836Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       9,
+      "anger"
+    ],
+    [
+      "trump",
+      8,
       "anger"
     ],
     [
@@ -16,11 +21,6 @@
       "missile",
       8,
       "fear"
-    ],
-    [
-      "trump",
-      7,
-      "anger"
     ],
     [
       "iran",
@@ -78,11 +78,6 @@
       "fear"
     ],
     [
-      "official",
-      3,
-      "trust"
-    ],
-    [
       "deadly",
       3,
       "anger"
@@ -121,6 +116,11 @@
       "conflict",
       3,
       "anger"
+    ],
+    [
+      "official",
+      2,
+      "trust"
     ],
     [
       "strait",
@@ -228,11 +228,6 @@
       "anticipation"
     ],
     [
-      "deaths",
-      2,
-      "sadness"
-    ],
-    [
       "show",
       2,
       "trust"
@@ -241,11 +236,6 @@
       "hot",
       2,
       "anger"
-    ],
-    [
-      "times",
-      2,
-      "anticipation"
     ],
     [
       "leaders",
@@ -261,6 +251,11 @@
       "board",
       2,
       "anticipation"
+    ],
+    [
+      "america",
+      1,
+      "sadness"
     ],
     [
       "ridiculed",
@@ -376,16 +371,21 @@
       "bee",
       1,
       "anger"
+    ],
+    [
+      "competition",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 61,
-    "fear": 67,
+    "joy": 17,
+    "trust": 60,
+    "fear": 66,
     "surprise": 8,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 6,
-    "anger": 113,
-    "anticipation": 40
+    "anger": 112,
+    "anticipation": 38
   }
 }
