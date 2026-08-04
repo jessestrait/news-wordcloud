@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:28:31.867Z",
+  "generated_at": "2026-08-04T16:43:35.329Z",
   "article_count": 50,
   "top_words": [
     [
@@ -116,6 +116,16 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "official",
+      3,
+      "trust"
+    ],
+    [
+      "progress",
+      2,
+      "joy"
     ],
     [
       "tomorrow",
@@ -238,11 +248,6 @@
       "trust"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
       "building",
       2,
       "anticipation"
@@ -271,11 +276,6 @@
       "shortly",
       1,
       "anticipation"
-    ],
-    [
-      "progress",
-      1,
-      "joy"
     ],
     [
       "optimism",
@@ -379,8 +379,8 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 16,
-    "trust": 66,
+    "joy": 17,
+    "trust": 67,
     "fear": 52,
     "surprise": 18,
     "sadness": 14,
