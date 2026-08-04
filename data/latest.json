@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T17:14:06.322Z",
+  "generated_at": "2026-08-04T17:29:08.783Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,17 +28,17 @@
       "anticipation"
     ],
     [
+      "strike",
+      6,
+      "anger"
+    ],
+    [
       "deal",
       5,
       "surprise"
     ],
     [
       "war",
-      5,
-      "anger"
-    ],
-    [
-      "strike",
       5,
       "anger"
     ],
@@ -68,14 +68,14 @@
       "anger"
     ],
     [
+      "victims",
+      3,
+      "anger"
+    ],
+    [
       "strait",
       3,
       "fear"
-    ],
-    [
-      "crossing",
-      3,
-      "anger"
     ],
     [
       "anti",
@@ -126,6 +126,11 @@
       "tomorrow",
       2,
       "anticipation"
+    ],
+    [
+      "crossing",
+      2,
+      "anger"
     ],
     [
       "white",
@@ -263,6 +268,46 @@
       "fear"
     ],
     [
+      "funeral",
+      1,
+      "sadness"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "remains",
+      1,
+      "fear"
+    ],
+    [
+      "rubble",
+      1,
+      "fear"
+    ],
+    [
+      "destroyed",
+      1,
+      "anger"
+    ],
+    [
+      "optimism",
+      1,
+      "surprise"
+    ],
+    [
+      "mediators",
+      1,
+      "trust"
+    ],
+    [
+      "exchanging",
+      1,
+      "trust"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -281,21 +326,6 @@
       "good",
       1,
       "surprise"
-    ],
-    [
-      "optimism",
-      1,
-      "surprise"
-    ],
-    [
-      "mediators",
-      1,
-      "trust"
-    ],
-    [
-      "exchanging",
-      1,
-      "trust"
     ],
     [
       "reporters",
@@ -346,46 +376,16 @@
       "senate",
       1,
       "trust"
-    ],
-    [
-      "jury",
-      1,
-      "trust"
-    ],
-    [
-      "mother",
-      1,
-      "sadness"
-    ],
-    [
-      "erratic",
-      1,
-      "surprise"
-    ],
-    [
-      "leaning",
-      1,
-      "trust"
-    ],
-    [
-      "convince",
-      1,
-      "trust"
-    ],
-    [
-      "unpopular",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
     "trust": 66,
-    "fear": 52,
+    "fear": 53,
     "surprise": 19,
-    "sadness": 14,
-    "disgust": 9,
-    "anger": 93,
+    "sadness": 15,
+    "disgust": 8,
+    "anger": 97,
     "anticipation": 32
   }
 }
