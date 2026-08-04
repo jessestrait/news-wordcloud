@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-04T14:12:09.314Z",
+  "generated_at": "2026-08-04T14:27:12.678Z",
   "article_count": 50,
   "top_words": [
-    [
-      "iran",
-      10,
-      "anger"
-    ],
     [
       "people",
       9,
       "trust"
+    ],
+    [
+      "iran",
+      9,
+      "anger"
     ],
     [
       "president",
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "deal",
+      4,
+      "surprise"
+    ],
+    [
       "killed",
       4,
       "fear"
@@ -58,19 +63,14 @@
       "anger"
     ],
     [
-      "hormuz",
-      3,
-      "fear"
-    ],
-    [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "crossing",
       3,
       "anger"
+    ],
+    [
+      "hormuz",
+      3,
+      "fear"
     ],
     [
       "anti",
@@ -193,6 +193,11 @@
       "fear"
     ],
     [
+      "hope",
+      2,
+      "surprise"
+    ],
+    [
       "killing",
       2,
       "anger"
@@ -258,24 +263,19 @@
       "fear"
     ],
     [
+      "reporters",
+      1,
+      "trust"
+    ],
+    [
       "middle",
       1,
       "sadness"
     ],
     [
-      "statements",
-      1,
-      "trust"
-    ],
-    [
-      "denying",
+      "shortly",
       1,
       "anticipation"
-    ],
-    [
-      "reporters",
-      1,
-      "trust"
     ],
     [
       "important",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 15,
-    "trust": 65,
+    "trust": 64,
     "fear": 54,
-    "surprise": 14,
+    "surprise": 16,
     "sadness": 14,
     "disgust": 10,
-    "anger": 98,
+    "anger": 97,
     "anticipation": 30
   }
 }
