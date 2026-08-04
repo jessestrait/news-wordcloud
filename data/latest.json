@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-04T02:20:32.020Z",
+  "generated_at": "2026-08-04T02:35:34.739Z",
   "article_count": 50,
   "top_words": [
     [
-      "president",
+      "people",
       9,
       "trust"
     ],
     [
-      "people",
-      8,
+      "president",
+      9,
       "trust"
     ],
     [
@@ -63,11 +63,6 @@
       "anger"
     ],
     [
-      "found",
-      4,
-      "joy"
-    ],
-    [
       "death",
       3,
       "sadness"
@@ -88,6 +83,11 @@
       "anger"
     ],
     [
+      "found",
+      3,
+      "joy"
+    ],
+    [
       "media",
       3,
       "disgust"
@@ -96,16 +96,6 @@
       "killed",
       3,
       "fear"
-    ],
-    [
-      "avalanche",
-      3,
-      "fear"
-    ],
-    [
-      "world",
-      3,
-      "trust"
     ],
     [
       "kill",
@@ -253,6 +243,11 @@
       "fear"
     ],
     [
+      "world",
+      2,
+      "trust"
+    ],
+    [
       "missile",
       2,
       "fear"
@@ -261,6 +256,21 @@
       "wildfire",
       2,
       "fear"
+    ],
+    [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "trucks",
+      1,
+      "trust"
+    ],
+    [
+      "nurses",
+      1,
+      "trust"
     ],
     [
       "black",
@@ -366,26 +376,16 @@
       "obituary",
       1,
       "sadness"
-    ],
-    [
-      "commonplace",
-      1,
-      "trust"
-    ],
-    [
-      "duplicity",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 21,
     "trust": 62,
-    "fear": 58,
-    "surprise": 12,
+    "fear": 56,
+    "surprise": 11,
     "sadness": 17,
     "disgust": 8,
     "anger": 109,
-    "anticipation": 35
+    "anticipation": 34
   }
 }
