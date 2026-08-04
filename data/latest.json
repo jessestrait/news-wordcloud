@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-04T06:07:24.257Z",
+  "generated_at": "2026-08-04T06:22:26.631Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      9,
+      8,
       "trust"
     ],
     [
@@ -23,11 +23,6 @@
       "anticipation"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "trump",
       6,
       "anger"
@@ -35,6 +30,11 @@
     [
       "hit",
       6,
+      "anger"
+    ],
+    [
+      "war",
+      5,
       "anger"
     ],
     [
@@ -51,6 +51,11 @@
       "force",
       4,
       "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "battles",
@@ -238,11 +243,6 @@
       "anger"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "abuse",
       2,
       "anger"
@@ -281,6 +281,11 @@
       "world",
       2,
       "trust"
+    ],
+    [
+      "erratic",
+      1,
+      "surprise"
     ],
     [
       "leaning",
@@ -371,21 +376,16 @@
       "tomorrow",
       1,
       "anticipation"
-    ],
-    [
-      "white",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 66,
-    "fear": 55,
-    "surprise": 13,
-    "sadness": 15,
+    "joy": 18,
+    "trust": 64,
+    "fear": 54,
+    "surprise": 14,
+    "sadness": 14,
     "disgust": 8,
-    "anger": 104,
+    "anger": 101,
     "anticipation": 31
   }
 }
