@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-04T12:41:16.152Z",
+  "generated_at": "2026-08-04T12:56:18.494Z",
   "article_count": 50,
   "top_words": [
+    [
+      "iran",
+      10,
+      "anger"
+    ],
     [
       "people",
       9,
       "trust"
-    ],
-    [
-      "iran",
-      8,
-      "anger"
     ],
     [
       "president",
@@ -58,6 +58,16 @@
       "anger"
     ],
     [
+      "hormuz",
+      3,
+      "fear"
+    ],
+    [
+      "deal",
+      3,
+      "surprise"
+    ],
+    [
       "crossing",
       3,
       "anger"
@@ -66,11 +76,6 @@
       "anti",
       3,
       "anger"
-    ],
-    [
-      "suspected",
-      3,
-      "fear"
     ],
     [
       "battles",
@@ -108,6 +113,11 @@
       "anger"
     ],
     [
+      "tomorrow",
+      2,
+      "anticipation"
+    ],
+    [
       "white",
       2,
       "joy"
@@ -121,6 +131,11 @@
       "tackling",
       2,
       "anger"
+    ],
+    [
+      "suspected",
+      2,
+      "fear"
     ],
     [
       "cancer",
@@ -154,11 +169,6 @@
     ],
     [
       "strait",
-      2,
-      "fear"
-    ],
-    [
-      "hormuz",
       2,
       "fear"
     ],
@@ -208,19 +218,9 @@
       "trust"
     ],
     [
-      "flu",
-      2,
-      "fear"
-    ],
-    [
       "found",
       2,
       "joy"
-    ],
-    [
-      "mortality",
-      2,
-      "anger"
     ],
     [
       "americans",
@@ -241,16 +241,6 @@
       "official",
       2,
       "trust"
-    ],
-    [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
-      "deadly",
-      2,
-      "anger"
     ],
     [
       "confirmed",
@@ -276,6 +266,21 @@
       "crashes",
       2,
       "fear"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "statements",
+      1,
+      "trust"
+    ],
+    [
+      "denying",
+      1,
+      "anticipation"
     ],
     [
       "reporters",
@@ -371,21 +376,16 @@
       "suggests",
       1,
       "trust"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 15,
-    "trust": 65,
-    "fear": 54,
-    "surprise": 13,
+    "trust": 66,
+    "fear": 52,
+    "surprise": 14,
     "sadness": 14,
     "disgust": 10,
-    "anger": 98,
-    "anticipation": 29
+    "anger": 97,
+    "anticipation": 31
   }
 }
