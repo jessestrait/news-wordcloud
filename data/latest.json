@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T13:11:43.658Z",
+  "generated_at": "2026-08-04T13:26:45.368Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "anger"
     ],
     [
+      "crossing",
+      3,
+      "anger"
+    ],
+    [
       "hormuz",
       3,
       "fear"
@@ -66,11 +71,6 @@
       "deal",
       3,
       "surprise"
-    ],
-    [
-      "crossing",
-      3,
-      "anger"
     ],
     [
       "anti",
@@ -111,6 +111,11 @@
       "suicide",
       3,
       "anger"
+    ],
+    [
+      "warn",
+      3,
+      "fear"
     ],
     [
       "tomorrow",
@@ -248,14 +253,49 @@
       "fear"
     ],
     [
-      "warn",
+      "crashes",
       2,
       "fear"
     ],
     [
-      "crashes",
-      2,
+      "reporters",
+      1,
+      "trust"
+    ],
+    [
+      "important",
+      1,
+      "trust"
+    ],
+    [
+      "imminent",
+      1,
       "fear"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "world",
+      1,
+      "trust"
+    ],
+    [
+      "fearing",
+      1,
+      "fear"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
     ],
     [
       "middle",
@@ -271,36 +311,6 @@
       "denying",
       1,
       "anticipation"
-    ],
-    [
-      "reporters",
-      1,
-      "trust"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "mosque",
-      1,
-      "anger"
-    ],
-    [
-      "imminent",
-      1,
-      "fear"
-    ],
-    [
-      "threat",
-      1,
-      "anger"
     ],
     [
       "swears",
@@ -366,26 +376,16 @@
       "nurses",
       1,
       "trust"
-    ],
-    [
-      "top",
-      1,
-      "trust"
-    ],
-    [
-      "quoted",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 15,
-    "trust": 63,
-    "fear": 53,
+    "trust": 65,
+    "fear": 55,
     "surprise": 14,
     "sadness": 14,
     "disgust": 10,
-    "anger": 99,
+    "anger": 98,
     "anticipation": 30
   }
 }
