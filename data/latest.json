@@ -1,21 +1,11 @@
 {
-  "generated_at": "2026-08-04T04:51:54.333Z",
+  "generated_at": "2026-08-04T05:06:56.712Z",
   "article_count": 50,
   "top_words": [
     [
-      "president",
+      "people",
       9,
       "trust"
-    ],
-    [
-      "people",
-      8,
-      "trust"
-    ],
-    [
-      "trump",
-      8,
-      "anger"
     ],
     [
       "iran",
@@ -23,7 +13,17 @@
       "anger"
     ],
     [
+      "president",
+      8,
+      "trust"
+    ],
+    [
       "war",
+      7,
+      "anger"
+    ],
+    [
+      "trump",
       7,
       "anger"
     ],
@@ -53,19 +53,24 @@
       "sadness"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "force",
       4,
+      "anger"
+    ],
+    [
+      "battles",
+      3,
       "anger"
     ],
     [
       "military",
       3,
       "fear"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "cross",
@@ -93,9 +98,24 @@
       "joy"
     ],
     [
-      "media",
-      3,
-      "disgust"
+      "cancer",
+      2,
+      "anger"
+    ],
+    [
+      "discrimination",
+      2,
+      "anger"
+    ],
+    [
+      "dance",
+      2,
+      "joy"
+    ],
+    [
+      "coup",
+      2,
+      "anger"
     ],
     [
       "top",
@@ -193,6 +213,11 @@
       "sadness"
     ],
     [
+      "media",
+      2,
+      "disgust"
+    ],
+    [
       "allegations",
       2,
       "anger"
@@ -273,6 +298,16 @@
       "fear"
     ],
     [
+      "bank",
+      1,
+      "trust"
+    ],
+    [
+      "pop",
+      1,
+      "surprise"
+    ],
+    [
       "trucks",
       1,
       "trust"
@@ -341,51 +376,16 @@
       "ministry",
       1,
       "joy"
-    ],
-    [
-      "chaotic",
-      1,
-      "anger"
-    ],
-    [
-      "resulted",
-      1,
-      "anticipation"
-    ],
-    [
-      "avoid",
-      1,
-      "fear"
-    ],
-    [
-      "escalating",
-      1,
-      "anger"
-    ],
-    [
-      "expects",
-      1,
-      "surprise"
-    ],
-    [
-      "reviving",
-      1,
-      "anticipation"
-    ],
-    [
-      "suspect",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
+    "joy": 20,
     "trust": 64,
     "fear": 57,
-    "surprise": 12,
-    "sadness": 16,
-    "disgust": 9,
-    "anger": 106,
-    "anticipation": 34
+    "surprise": 13,
+    "sadness": 15,
+    "disgust": 7,
+    "anger": 108,
+    "anticipation": 32
   }
 }
