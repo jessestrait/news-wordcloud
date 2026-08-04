@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T18:29:57.228Z",
+  "generated_at": "2026-08-04T18:45:00.566Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,6 +253,16 @@
       "fear"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "shortly",
+      1,
+      "anticipation"
+    ],
+    [
       "threatening",
       1,
       "anger"
@@ -276,16 +286,6 @@
       "futile",
       1,
       "sadness"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "shortly",
-      1,
-      "anticipation"
     ],
     [
       "ruling",
