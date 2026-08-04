@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T04:51:35.768Z",
+  "generated_at": "2026-08-04T04:51:54.333Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anger"
     ],
     [
+      "death",
+      4,
+      "sadness"
+    ],
+    [
       "happened",
       4,
       "anticipation"
@@ -66,11 +71,6 @@
       "cross",
       3,
       "anger"
-    ],
-    [
-      "death",
-      3,
-      "sadness"
     ],
     [
       "police",
@@ -273,11 +273,6 @@
       "fear"
     ],
     [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
       "trucks",
       1,
       "trust"
@@ -376,14 +371,19 @@
       "reviving",
       1,
       "anticipation"
+    ],
+    [
+      "suspect",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
     "trust": 64,
-    "fear": 58,
+    "fear": 57,
     "surprise": 12,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 9,
     "anger": 106,
     "anticipation": 34
