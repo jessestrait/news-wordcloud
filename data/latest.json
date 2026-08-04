@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T12:56:18.494Z",
+  "generated_at": "2026-08-04T13:11:20.995Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,17 +28,17 @@
       "anger"
     ],
     [
-      "hit",
-      6,
-      "anger"
-    ],
-    [
       "war",
       5,
       "anger"
     ],
     [
       "strike",
+      5,
+      "anger"
+    ],
+    [
+      "hit",
       5,
       "anger"
     ],
@@ -158,11 +158,6 @@
       "anger"
     ],
     [
-      "top",
-      2,
-      "trust"
-    ],
-    [
       "chance",
       2,
       "surprise"
@@ -243,11 +238,6 @@
       "trust"
     ],
     [
-      "confirmed",
-      2,
-      "trust"
-    ],
-    [
       "building",
       2,
       "anticipation"
@@ -286,6 +276,31 @@
       "reporters",
       1,
       "trust"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
+    ],
+    [
+      "mosque",
+      1,
+      "anger"
+    ],
+    [
+      "imminent",
+      1,
+      "fear"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
     ],
     [
       "swears",
@@ -353,39 +368,24 @@
       "trust"
     ],
     [
+      "top",
+      1,
+      "trust"
+    ],
+    [
       "quoted",
       1,
       "surprise"
-    ],
-    [
-      "alliance",
-      1,
-      "trust"
-    ],
-    [
-      "stalls",
-      1,
-      "disgust"
-    ],
-    [
-      "advances",
-      1,
-      "fear"
-    ],
-    [
-      "suggests",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 15,
-    "trust": 66,
-    "fear": 52,
+    "trust": 63,
+    "fear": 53,
     "surprise": 14,
     "sadness": 14,
     "disgust": 10,
-    "anger": 97,
-    "anticipation": 31
+    "anger": 99,
+    "anticipation": 30
   }
 }
