@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-04T15:12:39.204Z",
+  "generated_at": "2026-08-04T15:27:41.891Z",
   "article_count": 50,
   "top_words": [
-    [
-      "people",
-      9,
-      "trust"
-    ],
     [
       "iran",
       9,
       "anger"
+    ],
+    [
+      "people",
+      9,
+      "trust"
     ],
     [
       "president",
@@ -63,14 +63,14 @@
       "anger"
     ],
     [
-      "crossing",
-      3,
-      "anger"
-    ],
-    [
       "hormuz",
       3,
       "fear"
+    ],
+    [
+      "crossing",
+      3,
+      "anger"
     ],
     [
       "anti",
@@ -263,11 +263,6 @@
       "fear"
     ],
     [
-      "reporters",
-      1,
-      "trust"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -276,6 +271,11 @@
       "shortly",
       1,
       "anticipation"
+    ],
+    [
+      "reporters",
+      1,
+      "trust"
     ],
     [
       "important",
