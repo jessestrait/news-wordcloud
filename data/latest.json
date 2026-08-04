@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-08-04T11:55:47.081Z",
+  "generated_at": "2026-08-04T12:10:48.916Z",
   "article_count": 50,
   "top_words": [
     [
-      "power",
-      8,
-      "anticipation"
-    ],
-    [
       "people",
-      8,
+      9,
       "trust"
     ],
     [
@@ -23,6 +18,11 @@
       "trust"
     ],
     [
+      "power",
+      7,
+      "anticipation"
+    ],
+    [
       "trump",
       6,
       "anger"
@@ -31,6 +31,11 @@
       "hit",
       6,
       "anger"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
     ],
     [
       "war",
@@ -48,13 +53,13 @@
       "fear"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "force",
       4,
+      "anger"
+    ],
+    [
+      "crossing",
+      3,
       "anger"
     ],
     [
@@ -101,16 +106,6 @@
       "suicide",
       3,
       "anger"
-    ],
-    [
-      "crunch",
-      2,
-      "anger"
-    ],
-    [
-      "levels",
-      2,
-      "trust"
     ],
     [
       "white",
@@ -213,11 +208,6 @@
       "trust"
     ],
     [
-      "crossing",
-      2,
-      "anger"
-    ],
-    [
       "flu",
       2,
       "fear"
@@ -286,11 +276,6 @@
       "crashes",
       2,
       "fear"
-    ],
-    [
-      "challenges",
-      1,
-      "anger"
     ],
     [
       "swears",
@@ -376,6 +361,21 @@
       "advances",
       1,
       "fear"
+    ],
+    [
+      "suggests",
+      1,
+      "trust"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
+      "kill",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 64,
     "fear": 54,
     "surprise": 13,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 10,
-    "anger": 99,
-    "anticipation": 30
+    "anger": 98,
+    "anticipation": 29
   }
 }
