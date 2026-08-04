@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:58:11.119Z",
+  "generated_at": "2026-08-04T16:13:13.171Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "surprise"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "killed",
       4,
       "fear"
@@ -91,11 +96,6 @@
       "attacks",
       3,
       "anger"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "cross",
@@ -386,6 +386,6 @@
     "sadness": 14,
     "disgust": 10,
     "anger": 97,
-    "anticipation": 30
+    "anticipation": 31
   }
 }
