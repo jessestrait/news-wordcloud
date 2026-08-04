@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T12:10:48.916Z",
+  "generated_at": "2026-08-04T12:25:50.915Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anger"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "war",
       5,
       "anger"
@@ -51,6 +46,11 @@
       "killed",
       4,
       "fear"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "force",
@@ -278,6 +278,11 @@
       "fear"
     ],
     [
+      "reporters",
+      1,
+      "trust"
+    ],
+    [
       "swears",
       1,
       "trust"
@@ -371,19 +376,14 @@
       "black",
       1,
       "sadness"
-    ],
-    [
-      "kill",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 15,
-    "trust": 64,
+    "trust": 65,
     "fear": 54,
     "surprise": 13,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 10,
     "anger": 98,
     "anticipation": 29
