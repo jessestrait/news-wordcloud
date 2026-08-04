@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T17:44:33.493Z",
+  "generated_at": "2026-08-04T17:59:35.979Z",
   "article_count": 50,
   "top_words": [
     [
@@ -128,6 +128,11 @@
       "anticipation"
     ],
     [
+      "wildfire",
+      2,
+      "fear"
+    ],
+    [
       "crossing",
       2,
       "anger"
@@ -208,11 +213,6 @@
       "surprise"
     ],
     [
-      "killing",
-      2,
-      "anger"
-    ],
-    [
       "alleged",
       2,
       "fear"
@@ -243,11 +243,6 @@
       "disgust"
     ],
     [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
       "building",
       2,
       "anticipation"
@@ -263,11 +258,6 @@
       "fear"
     ],
     [
-      "crashes",
-      2,
-      "fear"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -276,6 +266,11 @@
       "shortly",
       1,
       "anticipation"
+    ],
+    [
+      "risk",
+      1,
+      "fear"
     ],
     [
       "funeral",
@@ -376,16 +371,21 @@
       "senate",
       1,
       "trust"
+    ],
+    [
+      "jury",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 66,
-    "fear": 53,
+    "trust": 65,
+    "fear": 52,
     "surprise": 19,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 8,
-    "anger": 97,
+    "anger": 96,
     "anticipation": 32
   }
 }
