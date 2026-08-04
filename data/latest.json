@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T13:26:45.368Z",
+  "generated_at": "2026-08-04T13:41:47.170Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "anger"
     ],
     [
-      "crossing",
-      3,
-      "anger"
-    ],
-    [
       "hormuz",
       3,
       "fear"
@@ -71,6 +66,11 @@
       "deal",
       3,
       "surprise"
+    ],
+    [
+      "crossing",
+      3,
+      "anger"
     ],
     [
       "anti",
@@ -111,11 +111,6 @@
       "suicide",
       3,
       "anger"
-    ],
-    [
-      "warn",
-      3,
-      "fear"
     ],
     [
       "tomorrow",
@@ -253,9 +248,29 @@
       "fear"
     ],
     [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
       "crashes",
       2,
       "fear"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "statements",
+      1,
+      "trust"
+    ],
+    [
+      "denying",
+      1,
+      "anticipation"
     ],
     [
       "reporters",
@@ -296,21 +311,6 @@
       "conflict",
       1,
       "anger"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "statements",
-      1,
-      "trust"
-    ],
-    [
-      "denying",
-      1,
-      "anticipation"
     ],
     [
       "swears",
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 15,
     "trust": 65,
-    "fear": 55,
+    "fear": 54,
     "surprise": 14,
     "sadness": 14,
     "disgust": 10,
