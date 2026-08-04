@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-08-04T18:14:38.399Z",
+  "generated_at": "2026-08-04T18:29:41.025Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      10,
+      11,
       "anger"
     ],
     [
       "people",
-      10,
+      9,
+      "trust"
+    ],
+    [
+      "president",
+      8,
       "trust"
     ],
     [
@@ -18,9 +23,9 @@
       "anger"
     ],
     [
-      "president",
-      7,
-      "trust"
+      "hormuz",
+      5,
+      "fear"
     ],
     [
       "deal",
@@ -28,7 +33,7 @@
       "surprise"
     ],
     [
-      "hormuz",
+      "strait",
       4,
       "fear"
     ],
@@ -58,27 +63,17 @@
       "anger"
     ],
     [
-      "power",
-      4,
-      "anticipation"
-    ],
-    [
       "force",
       4,
       "anger"
     ],
     [
-      "victims",
+      "denies",
       3,
       "anger"
     ],
     [
-      "strait",
-      3,
-      "fear"
-    ],
-    [
-      "anti",
+      "victims",
       3,
       "anger"
     ],
@@ -113,6 +108,11 @@
       "anger"
     ],
     [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
       "official",
       3,
       "trust"
@@ -141,6 +141,11 @@
       "white",
       2,
       "joy"
+    ],
+    [
+      "anti",
+      2,
+      "anger"
     ],
     [
       "corruption",
@@ -181,11 +186,6 @@
       "chance",
       2,
       "surprise"
-    ],
-    [
-      "denies",
-      2,
-      "anger"
     ],
     [
       "attempted",
@@ -253,9 +253,29 @@
       "fear"
     ],
     [
-      "warn",
-      2,
-      "fear"
+      "threatening",
+      1,
+      "anger"
+    ],
+    [
+      "resign",
+      1,
+      "anger"
+    ],
+    [
+      "assembly",
+      1,
+      "trust"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
+      "futile",
+      1,
+      "sadness"
     ],
     [
       "middle",
@@ -273,7 +293,7 @@
       "fear"
     ],
     [
-      "loss",
+      "loses",
       1,
       "anger"
     ],
@@ -356,36 +376,16 @@
       "important",
       1,
       "trust"
-    ],
-    [
-      "imminent",
-      1,
-      "fear"
-    ],
-    [
-      "threat",
-      1,
-      "anger"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "world",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 65,
-    "fear": 53,
+    "trust": 66,
+    "fear": 54,
     "surprise": 19,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 8,
-    "anger": 95,
-    "anticipation": 28
+    "anger": 97,
+    "anticipation": 27
   }
 }
