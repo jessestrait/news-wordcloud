@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T06:52:55.466Z",
+  "generated_at": "2026-08-04T07:07:57.861Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "killed",
+      4,
+      "fear"
+    ],
+    [
       "death",
       4,
       "sadness"
@@ -53,7 +58,7 @@
       "anger"
     ],
     [
-      "killed",
+      "suspected",
       3,
       "fear"
     ],
@@ -83,11 +88,6 @@
       "anger"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
       "letter",
       3,
       "anticipation"
@@ -96,11 +96,6 @@
       "suicide",
       3,
       "anger"
-    ],
-    [
-      "found",
-      3,
-      "joy"
     ],
     [
       "cancer",
@@ -163,6 +158,11 @@
       "fear"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
       "killing",
       2,
       "anger"
@@ -193,14 +193,14 @@
       "anger"
     ],
     [
-      "suspected",
+      "flu",
       2,
       "fear"
     ],
     [
-      "flu",
+      "found",
       2,
-      "fear"
+      "joy"
     ],
     [
       "mortality",
@@ -283,6 +283,21 @@
       "trust"
     ],
     [
+      "corruption",
+      1,
+      "disgust"
+    ],
+    [
+      "jury",
+      1,
+      "trust"
+    ],
+    [
+      "mother",
+      1,
+      "sadness"
+    ],
+    [
       "erratic",
       1,
       "surprise"
@@ -361,31 +376,16 @@
       "kill",
       1,
       "fear"
-    ],
-    [
-      "debris",
-      1,
-      "disgust"
-    ],
-    [
-      "beach",
-      1,
-      "joy"
-    ],
-    [
-      "tomorrow",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
+    "joy": 17,
     "trust": 64,
-    "fear": 54,
-    "surprise": 14,
-    "sadness": 14,
-    "disgust": 8,
-    "anger": 101,
-    "anticipation": 31
+    "fear": 55,
+    "surprise": 13,
+    "sadness": 15,
+    "disgust": 9,
+    "anger": 100,
+    "anticipation": 30
   }
 }
