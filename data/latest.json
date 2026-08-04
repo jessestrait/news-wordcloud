@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T09:54:38.385Z",
+  "generated_at": "2026-08-04T10:09:40.867Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "anger"
     ],
     [
+      "anti",
+      3,
+      "anger"
+    ],
+    [
       "suspected",
       3,
       "fear"
@@ -95,6 +100,16 @@
     [
       "suicide",
       3,
+      "anger"
+    ],
+    [
+      "corruption",
+      2,
+      "disgust"
+    ],
+    [
+      "tackling",
+      2,
       "anger"
     ],
     [
@@ -178,11 +193,6 @@
       "trust"
     ],
     [
-      "anti",
-      2,
-      "anger"
-    ],
-    [
       "alleged",
       2,
       "fear"
@@ -258,11 +268,6 @@
       "fear"
     ],
     [
-      "fight",
-      2,
-      "anger"
-    ],
-    [
       "warn",
       2,
       "fear"
@@ -273,6 +278,11 @@
       "fear"
     ],
     [
+      "senate",
+      1,
+      "trust"
+    ],
+    [
       "forced",
       1,
       "fear"
@@ -281,11 +291,6 @@
       "challenges",
       1,
       "anger"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
     ],
     [
       "jury",
@@ -371,21 +376,16 @@
       "black",
       1,
       "sadness"
-    ],
-    [
-      "kill",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
+    "joy": 14,
     "trust": 63,
-    "fear": 56,
+    "fear": 55,
     "surprise": 13,
     "sadness": 14,
-    "disgust": 9,
-    "anger": 99,
+    "disgust": 10,
+    "anger": 98,
     "anticipation": 30
   }
 }
