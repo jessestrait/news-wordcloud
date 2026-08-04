@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-04T03:36:13.638Z",
+  "generated_at": "2026-08-04T03:51:15.464Z",
   "article_count": 50,
   "top_words": [
     [
-      "people",
+      "president",
       9,
       "trust"
     ],
     [
-      "president",
-      9,
+      "people",
+      8,
       "trust"
     ],
     [
@@ -53,11 +53,6 @@
       "anticipation"
     ],
     [
-      "cross",
-      4,
-      "anger"
-    ],
-    [
       "force",
       4,
       "anger"
@@ -66,6 +61,11 @@
       "military",
       3,
       "fear"
+    ],
+    [
+      "cross",
+      3,
+      "anger"
     ],
     [
       "death",
@@ -138,6 +138,11 @@
       "fear"
     ],
     [
+      "dangerous",
+      2,
+      "fear"
+    ],
+    [
       "killing",
       2,
       "anger"
@@ -193,6 +198,11 @@
       "anger"
     ],
     [
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
       "official",
       2,
       "trust"
@@ -231,11 +241,6 @@
       "fire",
       2,
       "fear"
-    ],
-    [
-      "incident",
-      2,
-      "surprise"
     ],
     [
       "fight",
@@ -348,11 +353,6 @@
       "anger"
     ],
     [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
       "resulted",
       1,
       "anticipation"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 65,
-    "fear": 57,
-    "surprise": 13,
+    "joy": 21,
+    "trust": 64,
+    "fear": 58,
+    "surprise": 12,
     "sadness": 15,
     "disgust": 9,
-    "anger": 109,
+    "anger": 106,
     "anticipation": 34
   }
 }
