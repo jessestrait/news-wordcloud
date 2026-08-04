@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:10:03.394Z",
+  "generated_at": "2026-08-04T10:25:05.256Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,11 @@
       "anger"
     ],
     [
+      "levels",
+      2,
+      "trust"
+    ],
+    [
       "corruption",
       2,
       "disgust"
@@ -111,11 +116,6 @@
       "tackling",
       2,
       "anger"
-    ],
-    [
-      "levels",
-      2,
-      "trust"
     ],
     [
       "cancer",
@@ -278,11 +278,6 @@
       "fear"
     ],
     [
-      "senate",
-      1,
-      "trust"
-    ],
-    [
       "forced",
       1,
       "fear"
@@ -291,6 +286,11 @@
       "challenges",
       1,
       "anger"
+    ],
+    [
+      "senate",
+      1,
+      "trust"
     ],
     [
       "jury",
