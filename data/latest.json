@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:59:03.905Z",
+  "generated_at": "2026-08-04T17:14:06.322Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,18 +9,18 @@
     ],
     [
       "people",
-      9,
-      "trust"
-    ],
-    [
-      "president",
-      8,
+      10,
       "trust"
     ],
     [
       "trump",
       7,
       "anger"
+    ],
+    [
+      "president",
+      7,
+      "trust"
     ],
     [
       "power",
@@ -109,11 +109,6 @@
     ],
     [
       "suicide",
-      3,
-      "anger"
-    ],
-    [
-      "hit",
       3,
       "anger"
     ],
@@ -213,14 +208,14 @@
       "anger"
     ],
     [
-      "commission",
-      2,
-      "trust"
-    ],
-    [
       "alleged",
       2,
       "fear"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
     ],
     [
       "leader",
@@ -276,6 +271,16 @@
       "shortly",
       1,
       "anticipation"
+    ],
+    [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "good",
+      1,
+      "surprise"
     ],
     [
       "optimism",
@@ -371,21 +376,16 @@
       "unpopular",
       1,
       "disgust"
-    ],
-    [
-      "seriousness",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 67,
+    "trust": 66,
     "fear": 52,
-    "surprise": 18,
+    "surprise": 19,
     "sadness": 14,
     "disgust": 9,
-    "anger": 96,
-    "anticipation": 31
+    "anger": 93,
+    "anticipation": 32
   }
 }
