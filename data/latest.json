@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:25:05.256Z",
+  "generated_at": "2026-08-04T10:40:07.035Z",
   "article_count": 50,
   "top_words": [
     [
@@ -100,6 +100,11 @@
     [
       "suicide",
       3,
+      "anger"
+    ],
+    [
+      "crunch",
+      2,
       "anger"
     ],
     [
@@ -278,11 +283,6 @@
       "fear"
     ],
     [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
       "challenges",
       1,
       "anger"
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 14,
     "trust": 63,
-    "fear": 55,
+    "fear": 54,
     "surprise": 13,
     "sadness": 14,
     "disgust": 10,
-    "anger": 98,
+    "anger": 99,
     "anticipation": 30
   }
 }
