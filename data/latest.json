@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T17:59:35.979Z",
+  "generated_at": "2026-08-04T18:14:38.399Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,29 +23,19 @@
       "trust"
     ],
     [
-      "power",
-      7,
-      "anticipation"
-    ],
-    [
-      "strike",
-      6,
-      "anger"
-    ],
-    [
       "deal",
       5,
       "surprise"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "hormuz",
       4,
       "fear"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
     ],
     [
       "happened",
@@ -61,6 +51,16 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "war",
+      4,
+      "anger"
+    ],
+    [
+      "power",
+      4,
+      "anticipation"
     ],
     [
       "force",
@@ -268,6 +268,31 @@
       "anticipation"
     ],
     [
+      "ruling",
+      1,
+      "fear"
+    ],
+    [
+      "loss",
+      1,
+      "anger"
+    ],
+    [
+      "opposition",
+      1,
+      "anger"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "resignation",
+      1,
+      "sadness"
+    ],
+    [
       "risk",
       1,
       "fear"
@@ -351,41 +376,16 @@
       "world",
       1,
       "trust"
-    ],
-    [
-      "fearing",
-      1,
-      "fear"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "swears",
-      1,
-      "trust"
-    ],
-    [
-      "senate",
-      1,
-      "trust"
-    ],
-    [
-      "jury",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
     "trust": 65,
-    "fear": 52,
+    "fear": 53,
     "surprise": 19,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 8,
-    "anger": 96,
-    "anticipation": 32
+    "anger": 95,
+    "anticipation": 28
   }
 }
