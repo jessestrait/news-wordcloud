@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T03:21:11.955Z",
+  "generated_at": "2026-08-04T03:36:13.638Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
       "power",
       7,
       "anticipation"
-    ],
-    [
-      "war",
-      6,
-      "anger"
     ],
     [
       "hit",
@@ -63,6 +63,11 @@
       "anger"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "death",
       3,
       "sadness"
@@ -93,9 +98,14 @@
       "disgust"
     ],
     [
-      "killed",
-      3,
-      "fear"
+      "top",
+      2,
+      "trust"
+    ],
+    [
+      "chance",
+      2,
+      "surprise"
     ],
     [
       "kill",
@@ -198,6 +208,11 @@
       "anger"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
       "abuse",
       2,
       "anger"
@@ -253,11 +268,6 @@
       "fear"
     ],
     [
-      "wildfire",
-      2,
-      "fear"
-    ],
-    [
       "warning",
       1,
       "fear"
@@ -269,6 +279,31 @@
     ],
     [
       "nurses",
+      1,
+      "trust"
+    ],
+    [
+      "quoted",
+      1,
+      "surprise"
+    ],
+    [
+      "alliance",
+      1,
+      "trust"
+    ],
+    [
+      "stalls",
+      1,
+      "disgust"
+    ],
+    [
+      "advances",
+      1,
+      "fear"
+    ],
+    [
+      "suggests",
       1,
       "trust"
     ],
@@ -323,11 +358,6 @@
       "anticipation"
     ],
     [
-      "chance",
-      1,
-      "surprise"
-    ],
-    [
       "avoid",
       1,
       "fear"
@@ -346,45 +376,15 @@
       "reviving",
       1,
       "anticipation"
-    ],
-    [
-      "suspect",
-      1,
-      "fear"
-    ],
-    [
-      "hiding",
-      1,
-      "fear"
-    ],
-    [
-      "murder",
-      1,
-      "anger"
-    ],
-    [
-      "focusing",
-      1,
-      "trust"
-    ],
-    [
-      "hope",
-      1,
-      "surprise"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 62,
-    "fear": 56,
-    "surprise": 11,
-    "sadness": 17,
-    "disgust": 8,
+    "joy": 20,
+    "trust": 65,
+    "fear": 57,
+    "surprise": 13,
+    "sadness": 15,
+    "disgust": 9,
     "anger": 109,
     "anticipation": 34
   }
