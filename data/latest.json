@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:55:23.561Z",
+  "generated_at": "2026-08-04T11:10:25.650Z",
   "article_count": 50,
   "top_words": [
     [
@@ -111,6 +111,11 @@
       "levels",
       2,
       "trust"
+    ],
+    [
+      "white",
+      2,
+      "joy"
     ],
     [
       "corruption",
@@ -288,6 +293,11 @@
       "anger"
     ],
     [
+      "swears",
+      1,
+      "trust"
+    ],
+    [
       "senate",
       1,
       "trust"
@@ -366,21 +376,11 @@
       "advances",
       1,
       "fear"
-    ],
-    [
-      "suggests",
-      1,
-      "trust"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 14,
-    "trust": 63,
+    "joy": 15,
+    "trust": 64,
     "fear": 54,
     "surprise": 13,
     "sadness": 14,
