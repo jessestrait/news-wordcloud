@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T11:09:56.898Z",
+  "generated_at": "2026-08-05T11:24:59.103Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,14 +98,14 @@
       "anger"
     ],
     [
-      "true",
-      2,
-      "joy"
-    ],
-    [
       "police",
       2,
       "fear"
+    ],
+    [
+      "true",
+      2,
+      "joy"
     ],
     [
       "shoots",
@@ -313,6 +313,21 @@
       "trust"
     ],
     [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
+      "flying",
+      1,
+      "fear"
+    ],
+    [
       "believers",
       1,
       "trust"
@@ -336,21 +351,6 @@
       "raid",
       1,
       "anger"
-    ],
-    [
-      "airport",
-      1,
-      "anticipation"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
-    ],
-    [
-      "flying",
-      1,
-      "fear"
     ],
     [
       "cheating",
