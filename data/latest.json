@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T19:29:50.235Z",
+  "generated_at": "2026-08-05T19:44:52.430Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "hormuz",
       5,
       "fear"
+    ],
+    [
+      "happened",
+      5,
+      "anticipation"
     ],
     [
       "president",
@@ -36,11 +41,6 @@
       "attack",
       4,
       "anger"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "war",
@@ -328,11 +328,6 @@
       "fear"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
       "announcement",
       1,
       "anticipation"
@@ -376,6 +371,11 @@
       "blazes",
       1,
       "anger"
+    ],
+    [
+      "accused",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 63,
     "fear": 64,
     "surprise": 19,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 8,
     "anger": 97,
-    "anticipation": 30
+    "anticipation": 31
   }
 }
