@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T20:45:26.450Z",
+  "generated_at": "2026-08-05T21:00:29.184Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,14 +28,14 @@
       "trust"
     ],
     [
+      "threat",
+      4,
+      "anger"
+    ],
+    [
       "strait",
       4,
       "fear"
-    ],
-    [
-      "airport",
-      4,
-      "anticipation"
     ],
     [
       "attack",
@@ -63,14 +63,9 @@
       "anger"
     ],
     [
-      "threat",
+      "airport",
       3,
-      "anger"
-    ],
-    [
-      "bomb",
-      3,
-      "anger"
+      "anticipation"
     ],
     [
       "killed",
@@ -113,9 +108,19 @@
       "anticipation"
     ],
     [
+      "incident",
+      2,
+      "surprise"
+    ],
+    [
       "ministry",
       2,
       "joy"
+    ],
+    [
+      "bomb",
+      2,
+      "anger"
     ],
     [
       "dangerous",
@@ -126,11 +131,6 @@
       "suggests",
       2,
       "trust"
-    ],
-    [
-      "found",
-      2,
-      "joy"
     ],
     [
       "media",
@@ -328,6 +328,31 @@
       "fear"
     ],
     [
+      "level",
+      1,
+      "trust"
+    ],
+    [
+      "danger",
+      1,
+      "fear"
+    ],
+    [
+      "interior",
+      1,
+      "disgust"
+    ],
+    [
+      "treating",
+      1,
+      "anger"
+    ],
+    [
+      "professional",
+      1,
+      "trust"
+    ],
+    [
       "announcement",
       1,
       "anticipation"
@@ -351,41 +376,16 @@
       "ousted",
       1,
       "anger"
-    ],
-    [
-      "bloody",
-      1,
-      "anger"
-    ],
-    [
-      "uprising",
-      1,
-      "anger"
-    ],
-    [
-      "shot",
-      1,
-      "anger"
-    ],
-    [
-      "blazes",
-      1,
-      "anger"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 63,
-    "fear": 64,
-    "surprise": 19,
+    "joy": 28,
+    "trust": 64,
+    "fear": 63,
+    "surprise": 20,
     "sadness": 12,
-    "disgust": 8,
-    "anger": 97,
-    "anticipation": 31
+    "disgust": 9,
+    "anger": 98,
+    "anticipation": 30
   }
 }
