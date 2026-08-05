@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T13:41:14.747Z",
+  "generated_at": "2026-08-05T13:56:16.935Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "trust"
     ],
     [
-      "hormuz",
-      5,
-      "fear"
-    ],
-    [
       "attack",
       5,
       "anger"
+    ],
+    [
+      "hormuz",
+      5,
+      "fear"
     ],
     [
       "death",
@@ -50,6 +50,16 @@
     [
       "trump",
       4,
+      "anger"
+    ],
+    [
+      "airport",
+      3,
+      "anticipation"
+    ],
+    [
+      "explosive",
+      3,
       "anger"
     ],
     [
@@ -103,22 +113,17 @@
       "anger"
     ],
     [
-      "explosive",
+      "shoots",
       2,
       "anger"
     ],
     [
-      "airport",
+      "bomb",
       2,
-      "anticipation"
+      "anger"
     ],
     [
-      "incident",
-      2,
-      "surprise"
-    ],
-    [
-      "true",
+      "found",
       2,
       "joy"
     ],
@@ -126,6 +131,11 @@
       "flee",
       2,
       "fear"
+    ],
+    [
+      "true",
+      2,
+      "joy"
     ],
     [
       "attempt",
@@ -136,26 +146,6 @@
       "continue",
       2,
       "trust"
-    ],
-    [
-      "found",
-      2,
-      "joy"
-    ],
-    [
-      "forced",
-      2,
-      "fear"
-    ],
-    [
-      "emergency",
-      2,
-      "fear"
-    ],
-    [
-      "shoots",
-      2,
-      "anger"
     ],
     [
       "top",
@@ -333,6 +323,36 @@
       "surprise"
     ],
     [
+      "terror",
+      1,
+      "fear"
+    ],
+    [
+      "team",
+      1,
+      "trust"
+    ],
+    [
+      "unknown",
+      1,
+      "fear"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "striking",
+      1,
+      "anger"
+    ],
+    [
       "terrorism",
       1,
       "anger"
@@ -348,44 +368,24 @@
       "anticipation"
     ],
     [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
       "believers",
       1,
       "trust"
-    ],
-    [
-      "vow",
-      1,
-      "joy"
-    ],
-    [
-      "intervention",
-      1,
-      "sadness"
-    ],
-    [
-      "proud",
-      1,
-      "joy"
-    ],
-    [
-      "defiant",
-      1,
-      "anger"
-    ],
-    [
-      "raid",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 66,
+    "trust": 67,
     "fear": 63,
-    "surprise": 22,
+    "surprise": 21,
     "sadness": 16,
     "disgust": 7,
-    "anger": 97,
-    "anticipation": 29
+    "anger": 99,
+    "anticipation": 30
   }
 }
