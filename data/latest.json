@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T03:50:16.479Z",
+  "generated_at": "2026-08-05T04:05:18.704Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "anger"
     ],
     [
-      "president",
-      8,
+      "people",
+      9,
       "trust"
     ],
     [
-      "people",
+      "president",
       8,
       "trust"
     ],
@@ -21,6 +21,11 @@
       "trump",
       7,
       "anger"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
     ],
     [
       "war",
@@ -58,18 +63,13 @@
       "anger"
     ],
     [
-      "killed",
-      4,
-      "fear"
+      "hope",
+      3,
+      "surprise"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
-      "force",
-      4,
+      "crossing",
+      3,
       "anger"
     ],
     [
@@ -88,9 +88,9 @@
       "anger"
     ],
     [
-      "battles",
+      "killed",
       3,
-      "anger"
+      "fear"
     ],
     [
       "military",
@@ -108,14 +108,34 @@
       "anger"
     ],
     [
+      "force",
+      3,
+      "anger"
+    ],
+    [
       "official",
       3,
+      "trust"
+    ],
+    [
+      "government",
+      2,
+      "fear"
+    ],
+    [
+      "authorities",
+      2,
       "trust"
     ],
     [
       "world",
       2,
       "trust"
+    ],
+    [
+      "home",
+      2,
+      "joy"
     ],
     [
       "threat",
@@ -158,16 +178,6 @@
       "anticipation"
     ],
     [
-      "wildfire",
-      2,
-      "fear"
-    ],
-    [
-      "crossing",
-      2,
-      "anger"
-    ],
-    [
       "white",
       2,
       "joy"
@@ -203,6 +213,16 @@
       "anger"
     ],
     [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
+      "battles",
+      2,
+      "anger"
+    ],
+    [
       "dance",
       2,
       "joy"
@@ -233,16 +253,6 @@
       "fear"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
-      "hope",
-      2,
-      "surprise"
-    ],
-    [
       "alleged",
       2,
       "fear"
@@ -256,11 +266,6 @@
       "leader",
       2,
       "trust"
-    ],
-    [
-      "found",
-      2,
-      "joy"
     ],
     [
       "americans",
@@ -278,9 +283,49 @@
       "disgust"
     ],
     [
-      "fire",
+      "provide",
       2,
+      "trust"
+    ],
+    [
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "school",
+      1,
+      "trust"
+    ],
+    [
+      "anxious",
+      1,
       "fear"
+    ],
+    [
+      "wait",
+      1,
+      "anticipation"
+    ],
+    [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
+      "loved",
+      1,
+      "joy"
+    ],
+    [
+      "friends",
+      1,
+      "joy"
+    ],
+    [
+      "relatives",
+      1,
+      "trust"
     ],
     [
       "delights",
@@ -308,11 +353,6 @@
       "fear"
     ],
     [
-      "home",
-      1,
-      "joy"
-    ],
-    [
       "dolphins",
       1,
       "surprise"
@@ -336,56 +376,16 @@
       "parrots",
       1,
       "disgust"
-    ],
-    [
-      "seals",
-      1,
-      "trust"
-    ],
-    [
-      "shoots",
-      1,
-      "anger"
-    ],
-    [
-      "comrades",
-      1,
-      "trust"
-    ],
-    [
-      "shooting",
-      1,
-      "anger"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
-    ],
-    [
-      "shortly",
-      1,
-      "anticipation"
-    ],
-    [
-      "threatening",
-      1,
-      "anger"
-    ],
-    [
-      "resign",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 66,
-    "fear": 59,
+    "joy": 24,
+    "trust": 70,
+    "fear": 58,
     "surprise": 22,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 9,
-    "anger": 105,
+    "anger": 104,
     "anticipation": 20
   }
 }
