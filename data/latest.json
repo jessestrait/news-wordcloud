@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T16:28:06.543Z",
+  "generated_at": "2026-08-05T16:43:08.449Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "trust"
     ],
     [
-      "strait",
-      4,
-      "fear"
-    ],
-    [
       "attack",
       4,
       "anger"
+    ],
+    [
+      "strait",
+      4,
+      "fear"
     ],
     [
       "war",
@@ -113,6 +113,11 @@
       "anger"
     ],
     [
+      "shoots",
+      2,
+      "anger"
+    ],
+    [
       "bomb",
       2,
       "anger"
@@ -151,11 +156,6 @@
       "policy",
       2,
       "trust"
-    ],
-    [
-      "shoots",
-      2,
-      "anger"
     ],
     [
       "true",
