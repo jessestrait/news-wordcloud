@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T11:24:59.103Z",
+  "generated_at": "2026-08-05T11:40:01.034Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,7 +98,32 @@
       "anger"
     ],
     [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
+      "incident",
+      2,
+      "surprise"
+    ],
+    [
       "police",
+      2,
+      "fear"
+    ],
+    [
+      "found",
+      2,
+      "joy"
+    ],
+    [
+      "forced",
+      2,
+      "fear"
+    ],
+    [
+      "emergency",
       2,
       "fear"
     ],
@@ -308,21 +333,6 @@
       "surprise"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
-      "airport",
-      1,
-      "anticipation"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
-    ],
-    [
       "flying",
       1,
       "fear"
@@ -366,26 +376,16 @@
       "debacle",
       1,
       "fear"
-    ],
-    [
-      "hardened",
-      1,
-      "anger"
-    ],
-    [
-      "policy",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 67,
-    "fear": 61,
-    "surprise": 21,
-    "sadness": 16,
-    "disgust": 8,
-    "anger": 94,
-    "anticipation": 25
+    "joy": 26,
+    "trust": 66,
+    "fear": 63,
+    "surprise": 22,
+    "sadness": 15,
+    "disgust": 7,
+    "anger": 93,
+    "anticipation": 26
   }
 }
