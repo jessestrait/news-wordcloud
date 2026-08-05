@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T07:37:40.540Z",
+  "generated_at": "2026-08-05T07:52:42.665Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,8 +14,13 @@
     ],
     [
       "president",
-      7,
+      8,
       "trust"
+    ],
+    [
+      "attack",
+      6,
+      "anger"
     ],
     [
       "trump",
@@ -38,7 +43,7 @@
       "fear"
     ],
     [
-      "attack",
+      "anti",
       4,
       "anger"
     ],
@@ -58,6 +63,11 @@
       "fear"
     ],
     [
+      "deadly",
+      3,
+      "anger"
+    ],
+    [
       "hit",
       3,
       "anger"
@@ -74,11 +84,6 @@
     ],
     [
       "denies",
-      3,
-      "anger"
-    ],
-    [
-      "victims",
       3,
       "anger"
     ],
@@ -116,6 +121,11 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "missile",
+      2,
+      "fear"
     ],
     [
       "ground",
@@ -168,11 +178,6 @@
       "fear"
     ],
     [
-      "deadly",
-      2,
-      "anger"
-    ],
-    [
       "progress",
       2,
       "joy"
@@ -183,14 +188,14 @@
       "anticipation"
     ],
     [
+      "victims",
+      2,
+      "anger"
+    ],
+    [
       "white",
       2,
       "joy"
-    ],
-    [
-      "anti",
-      2,
-      "anger"
     ],
     [
       "corruption",
@@ -298,6 +303,36 @@
       "trust"
     ],
     [
+      "rails",
+      1,
+      "anger"
+    ],
+    [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "saved",
+      1,
+      "joy"
+    ],
+    [
+      "die",
+      1,
+      "fear"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
       "hardened",
       1,
       "anger"
@@ -328,11 +363,6 @@
       "anger"
     ],
     [
-      "missile",
-      1,
-      "fear"
-    ],
-    [
       "food",
       1,
       "joy"
@@ -346,46 +376,16 @@
       "anxious",
       1,
       "fear"
-    ],
-    [
-      "wait",
-      1,
-      "anticipation"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
-    ],
-    [
-      "loved",
-      1,
-      "joy"
-    ],
-    [
-      "friends",
-      1,
-      "joy"
-    ],
-    [
-      "relatives",
-      1,
-      "trust"
-    ],
-    [
-      "delights",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 73,
-    "fear": 58,
+    "joy": 25,
+    "trust": 74,
+    "fear": 61,
     "surprise": 21,
     "sadness": 16,
     "disgust": 9,
-    "anger": 100,
+    "anger": 103,
     "anticipation": 19
   }
 }
