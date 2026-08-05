@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-05T13:26:12.801Z",
+  "generated_at": "2026-08-05T13:41:14.747Z",
   "article_count": 50,
   "top_words": [
-    [
-      "iran",
-      10,
-      "anger"
-    ],
     [
       "people",
       10,
       "trust"
+    ],
+    [
+      "iran",
+      9,
+      "anger"
     ],
     [
       "president",
@@ -23,16 +23,6 @@
       "fear"
     ],
     [
-      "deal",
-      5,
-      "surprise"
-    ],
-    [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
       "attack",
       5,
       "anger"
@@ -43,19 +33,24 @@
       "sadness"
     ],
     [
-      "hope",
-      4,
-      "surprise"
-    ],
-    [
       "war",
       4,
       "anger"
     ],
     [
+      "home",
+      4,
+      "joy"
+    ],
+    [
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "power",
@@ -68,14 +63,19 @@
       "fear"
     ],
     [
+      "hope",
+      3,
+      "surprise"
+    ],
+    [
       "crossing",
       3,
       "anger"
     ],
     [
-      "home",
+      "deal",
       3,
-      "joy"
+      "surprise"
     ],
     [
       "denies",
@@ -88,6 +88,11 @@
       "fear"
     ],
     [
+      "strike",
+      3,
+      "anger"
+    ],
+    [
       "military",
       3,
       "fear"
@@ -96,11 +101,6 @@
       "suicide",
       3,
       "anger"
-    ],
-    [
-      "suggests",
-      2,
-      "trust"
     ],
     [
       "explosive",
@@ -118,9 +118,24 @@
       "surprise"
     ],
     [
+      "true",
+      2,
+      "joy"
+    ],
+    [
+      "flee",
+      2,
+      "fear"
+    ],
+    [
       "attempt",
       2,
       "anticipation"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
     ],
     [
       "found",
@@ -136,11 +151,6 @@
       "emergency",
       2,
       "fear"
-    ],
-    [
-      "true",
-      2,
-      "joy"
     ],
     [
       "shoots",
@@ -229,11 +239,6 @@
     ],
     [
       "victims",
-      2,
-      "anger"
-    ],
-    [
-      "strike",
       2,
       "anger"
     ],
@@ -328,16 +333,6 @@
       "surprise"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "ongoing",
-      1,
-      "anticipation"
-    ],
-    [
       "terrorism",
       1,
       "anger"
@@ -353,39 +348,44 @@
       "anticipation"
     ],
     [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "bomb",
-      1,
-      "anger"
-    ],
-    [
-      "assassination",
-      1,
-      "anger"
-    ],
-    [
-      "continue",
+      "believers",
       1,
       "trust"
     ],
     [
-      "operations",
+      "vow",
       1,
-      "fear"
+      "joy"
+    ],
+    [
+      "intervention",
+      1,
+      "sadness"
+    ],
+    [
+      "proud",
+      1,
+      "joy"
+    ],
+    [
+      "defiant",
+      1,
+      "anger"
+    ],
+    [
+      "raid",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 28,
     "trust": 66,
-    "fear": 61,
-    "surprise": 25,
-    "sadness": 15,
+    "fear": 63,
+    "surprise": 22,
+    "sadness": 16,
     "disgust": 7,
-    "anger": 98,
-    "anticipation": 30
+    "anger": 97,
+    "anticipation": 29
   }
 }
