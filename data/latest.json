@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T15:42:41.533Z",
+  "generated_at": "2026-08-05T15:57:43.713Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "strait",
+      4,
+      "fear"
+    ],
+    [
       "attack",
       4,
       "anger"
@@ -36,11 +41,6 @@
       "war",
       4,
       "anger"
-    ],
-    [
-      "home",
-      4,
-      "joy"
     ],
     [
       "happened",
@@ -88,22 +88,17 @@
       "anger"
     ],
     [
+      "home",
+      3,
+      "joy"
+    ],
+    [
       "deal",
       3,
       "surprise"
     ],
     [
       "denies",
-      3,
-      "anger"
-    ],
-    [
-      "strait",
-      3,
-      "fear"
-    ],
-    [
-      "strike",
       3,
       "anger"
     ],
@@ -128,9 +123,9 @@
       "trust"
     ],
     [
-      "flee",
+      "ministry",
       2,
-      "fear"
+      "joy"
     ],
     [
       "show",
@@ -166,11 +161,6 @@
       "attempt",
       2,
       "anticipation"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "top",
@@ -254,6 +244,11 @@
     ],
     [
       "victims",
+      2,
+      "anger"
+    ],
+    [
+      "strike",
       2,
       "anger"
     ],
@@ -376,16 +371,21 @@
       "preventing",
       1,
       "fear"
+    ],
+    [
+      "wrongdoing",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 67,
-    "fear": 66,
+    "fear": 65,
     "surprise": 20,
     "sadness": 14,
     "disgust": 6,
-    "anger": 98,
-    "anticipation": 29
+    "anger": 96,
+    "anticipation": 30
   }
 }
