@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T16:58:10.427Z",
+  "generated_at": "2026-08-05T17:13:12.688Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,19 +23,9 @@
       "anticipation"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "president",
       5,
       "trust"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "strait",
@@ -43,13 +33,28 @@
       "fear"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "war",
       4,
       "anger"
     ],
     [
+      "death",
+      4,
+      "sadness"
+    ],
+    [
       "trump",
       4,
+      "anger"
+    ],
+    [
+      "killing",
+      3,
       "anger"
     ],
     [
@@ -73,9 +78,9 @@
       "anticipation"
     ],
     [
-      "suspected",
+      "hit",
       3,
-      "fear"
+      "anger"
     ],
     [
       "hope",
@@ -103,14 +108,29 @@
       "anger"
     ],
     [
-      "military",
+      "strike",
       3,
-      "fear"
+      "anger"
     ],
     [
       "suicide",
       3,
       "anger"
+    ],
+    [
+      "ministry",
+      2,
+      "joy"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
+      "shortly",
+      2,
+      "anticipation"
     ],
     [
       "shoots",
@@ -126,16 +146,6 @@
       "attempt",
       2,
       "anticipation"
-    ],
-    [
-      "found",
-      2,
-      "joy"
-    ],
-    [
-      "ministry",
-      2,
-      "joy"
     ],
     [
       "alleged",
@@ -173,6 +183,11 @@
       "anticipation"
     ],
     [
+      "suspected",
+      2,
+      "fear"
+    ],
+    [
       "ground",
       2,
       "trust"
@@ -186,11 +201,6 @@
       "missile",
       2,
       "fear"
-    ],
-    [
-      "hit",
-      2,
-      "anger"
     ],
     [
       "deadly",
@@ -218,16 +228,6 @@
       "anger"
     ],
     [
-      "flu",
-      2,
-      "fear"
-    ],
-    [
-      "warns",
-      2,
-      "fear"
-    ],
-    [
       "risk",
       2,
       "fear"
@@ -244,11 +244,6 @@
     ],
     [
       "victims",
-      2,
-      "anger"
-    ],
-    [
-      "strike",
       2,
       "anger"
     ],
@@ -298,9 +293,9 @@
       "joy"
     ],
     [
-      "coup",
+      "military",
       2,
-      "anger"
+      "fear"
     ],
     [
       "chance",
@@ -313,24 +308,54 @@
       "fear"
     ],
     [
-      "cross",
-      2,
-      "anger"
-    ],
-    [
       "attempted",
       2,
       "anticipation"
     ],
     [
-      "journey",
-      2,
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
+    ],
+    [
+      "guarantee",
+      1,
+      "trust"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "rules",
+      1,
       "fear"
     ],
     [
-      "leader",
-      2,
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "covered",
+      1,
       "trust"
+    ],
+    [
+      "injuring",
+      1,
+      "anger"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
     ],
     [
       "injured",
@@ -351,41 +376,16 @@
       "operations",
       1,
       "fear"
-    ],
-    [
-      "deep",
-      1,
-      "joy"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "team",
-      1,
-      "trust"
-    ],
-    [
-      "unknown",
-      1,
-      "fear"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 26,
     "trust": 67,
-    "fear": 65,
+    "fear": 60,
     "surprise": 20,
-    "sadness": 14,
-    "disgust": 6,
-    "anger": 96,
-    "anticipation": 31
+    "sadness": 13,
+    "disgust": 7,
+    "anger": 98,
+    "anticipation": 33
   }
 }
