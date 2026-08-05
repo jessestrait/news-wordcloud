@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T03:19:55.882Z",
+  "generated_at": "2026-08-05T03:34:57.709Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,23 +103,18 @@
       "anger"
     ],
     [
-      "letter",
-      3,
-      "anticipation"
-    ],
-    [
       "suicide",
       3,
       "anger"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "official",
       3,
+      "trust"
+    ],
+    [
+      "world",
+      2,
       "trust"
     ],
     [
@@ -253,6 +248,11 @@
       "fear"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "leader",
       2,
       "trust"
@@ -281,6 +281,21 @@
       "fire",
       2,
       "fear"
+    ],
+    [
+      "delights",
+      1,
+      "joy"
+    ],
+    [
+      "falls",
+      1,
+      "sadness"
+    ],
+    [
+      "blanketed",
+      1,
+      "trust"
     ],
     [
       "champion",
@@ -361,31 +376,16 @@
       "resign",
       1,
       "anger"
-    ],
-    [
-      "assembly",
-      1,
-      "trust"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
-      "futile",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 64,
+    "joy": 21,
+    "trust": 66,
     "fear": 59,
     "surprise": 22,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 9,
     "anger": 105,
-    "anticipation": 23
+    "anticipation": 20
   }
 }
