@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-05T09:08:44.942Z",
+  "generated_at": "2026-08-05T09:23:48.199Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      9,
+      11,
       "trust"
     ],
     [
@@ -14,17 +14,12 @@
     ],
     [
       "president",
-      8,
+      7,
       "trust"
     ],
     [
       "trump",
       6,
-      "anger"
-    ],
-    [
-      "attack",
-      5,
       "anger"
     ],
     [
@@ -38,7 +33,7 @@
       "fear"
     ],
     [
-      "anti",
+      "attack",
       4,
       "anger"
     ],
@@ -63,6 +58,21 @@
       "fear"
     ],
     [
+      "anti",
+      3,
+      "anger"
+    ],
+    [
+      "deadly",
+      3,
+      "anger"
+    ],
+    [
+      "warns",
+      3,
+      "fear"
+    ],
+    [
       "suspected",
       3,
       "fear"
@@ -78,7 +88,17 @@
       "anger"
     ],
     [
+      "home",
+      3,
+      "joy"
+    ],
+    [
       "denies",
+      3,
+      "anger"
+    ],
+    [
+      "strike",
       3,
       "anger"
     ],
@@ -93,19 +113,14 @@
       "anger"
     ],
     [
-      "official",
-      3,
-      "trust"
-    ],
-    [
       "missile",
       2,
       "fear"
     ],
     [
-      "deadly",
+      "kill",
       2,
-      "anger"
+      "fear"
     ],
     [
       "top",
@@ -133,6 +148,11 @@
       "anger"
     ],
     [
+      "erratic",
+      2,
+      "surprise"
+    ],
+    [
       "government",
       2,
       "fear"
@@ -148,22 +168,12 @@
       "trust"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "threat",
       2,
       "anger"
     ],
     [
       "flu",
-      2,
-      "fear"
-    ],
-    [
-      "warns",
       2,
       "fear"
     ],
@@ -188,11 +198,6 @@
       "anger"
     ],
     [
-      "strike",
-      2,
-      "anger"
-    ],
-    [
       "white",
       2,
       "joy"
@@ -201,11 +206,6 @@
       "corruption",
       2,
       "disgust"
-    ],
-    [
-      "tackling",
-      2,
-      "anger"
     ],
     [
       "killed",
@@ -283,6 +283,11 @@
       "trust"
     ],
     [
+      "atrocity",
+      2,
+      "anger"
+    ],
+    [
       "americans",
       2,
       "sadness"
@@ -293,9 +298,9 @@
       "surprise"
     ],
     [
-      "media",
+      "official",
       2,
-      "disgust"
+      "trust"
     ],
     [
       "fact",
@@ -313,29 +318,19 @@
       "anger"
     ],
     [
-      "allies",
-      1,
-      "trust"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
-    ],
-    [
-      "saved",
+      "pay",
       1,
       "joy"
     ],
     [
-      "die",
+      "condemns",
       1,
-      "fear"
+      "anger"
     ],
     [
-      "injured",
+      "horrible",
       1,
-      "fear"
+      "anger"
     ],
     [
       "cheating",
@@ -376,16 +371,21 @@
       "comrades",
       1,
       "trust"
+    ],
+    [
+      "shooting",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 73,
-    "fear": 61,
+    "trust": 71,
+    "fear": 62,
     "surprise": 21,
     "sadness": 16,
-    "disgust": 9,
-    "anger": 96,
-    "anticipation": 22
+    "disgust": 8,
+    "anger": 98,
+    "anticipation": 23
   }
 }
