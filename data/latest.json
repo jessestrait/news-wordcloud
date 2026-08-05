@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T01:33:57.372Z",
+  "generated_at": "2026-08-05T01:48:59.258Z",
   "article_count": 50,
   "top_words": [
     [
@@ -121,6 +121,26 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "threat",
+      2,
+      "anger"
+    ],
+    [
+      "flu",
+      2,
+      "fear"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
     ],
     [
       "soldier",
@@ -253,6 +273,36 @@
       "fear"
     ],
     [
+      "dolphins",
+      1,
+      "surprise"
+    ],
+    [
+      "true",
+      1,
+      "joy"
+    ],
+    [
+      "disaster",
+      1,
+      "anger"
+    ],
+    [
+      "assessment",
+      1,
+      "surprise"
+    ],
+    [
+      "parrots",
+      1,
+      "disgust"
+    ],
+    [
+      "seals",
+      1,
+      "trust"
+    ],
+    [
       "shoots",
       1,
       "anger"
@@ -326,66 +376,16 @@
       "resignation",
       1,
       "sadness"
-    ],
-    [
-      "risk",
-      1,
-      "fear"
-    ],
-    [
-      "funeral",
-      1,
-      "sadness"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "remains",
-      1,
-      "fear"
-    ],
-    [
-      "rubble",
-      1,
-      "fear"
-    ],
-    [
-      "destroyed",
-      1,
-      "anger"
-    ],
-    [
-      "optimism",
-      1,
-      "surprise"
-    ],
-    [
-      "mediators",
-      1,
-      "trust"
-    ],
-    [
-      "exchanging",
-      1,
-      "trust"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
+    "joy": 18,
     "trust": 66,
-    "fear": 55,
-    "surprise": 19,
+    "fear": 57,
+    "surprise": 21,
     "sadness": 14,
-    "disgust": 8,
-    "anger": 103,
+    "disgust": 9,
+    "anger": 105,
     "anticipation": 24
   }
 }
