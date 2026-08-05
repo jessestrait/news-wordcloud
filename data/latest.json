@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T15:12:14.002Z",
+  "generated_at": "2026-08-05T15:27:17.171Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "fear"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "death",
       5,
       "sadness"
@@ -31,6 +26,11 @@
       "president",
       5,
       "trust"
+    ],
+    [
+      "attack",
+      4,
+      "anger"
     ],
     [
       "war",
@@ -61,6 +61,11 @@
       "airport",
       3,
       "anticipation"
+    ],
+    [
+      "police",
+      3,
+      "fear"
     ],
     [
       "power",
@@ -111,6 +116,16 @@
       "suicide",
       3,
       "anger"
+    ],
+    [
+      "alleged",
+      2,
+      "fear"
+    ],
+    [
+      "official",
+      2,
+      "trust"
     ],
     [
       "flee",
@@ -323,16 +338,6 @@
       "trust"
     ],
     [
-      "americans",
-      2,
-      "sadness"
-    ],
-    [
-      "surge",
-      2,
-      "surprise"
-    ],
-    [
       "terrorism",
       1,
       "anger"
@@ -353,39 +358,34 @@
       "surprise"
     ],
     [
-      "middle",
+      "officers",
       1,
-      "sadness"
+      "trust"
     ],
     [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "striking",
+      "rape",
       1,
       "anger"
     ],
     [
-      "isolated",
+      "responsible",
       1,
-      "fear"
+      "trust"
     ],
     [
-      "humanitarian",
+      "preventing",
       1,
-      "surprise"
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 66,
-    "fear": 62,
-    "surprise": 21,
-    "sadness": 16,
+    "trust": 67,
+    "fear": 66,
+    "surprise": 20,
+    "sadness": 14,
     "disgust": 6,
-    "anger": 99,
+    "anger": 98,
     "anticipation": 29
   }
 }
