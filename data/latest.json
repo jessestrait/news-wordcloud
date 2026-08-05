@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-05T10:09:12.799Z",
+  "generated_at": "2026-08-05T10:24:14.712Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      11,
+      10,
       "trust"
     ],
     [
@@ -33,11 +33,6 @@
       "fear"
     ],
     [
-      "attack",
-      4,
-      "anger"
-    ],
-    [
       "war",
       4,
       "anger"
@@ -58,24 +53,14 @@
       "fear"
     ],
     [
-      "anti",
-      3,
-      "anger"
-    ],
-    [
-      "deadly",
-      3,
-      "anger"
-    ],
-    [
-      "warns",
-      3,
-      "fear"
-    ],
-    [
       "suspected",
       3,
       "fear"
+    ],
+    [
+      "attack",
+      3,
+      "anger"
     ],
     [
       "hope",
@@ -98,11 +83,6 @@
       "anger"
     ],
     [
-      "strike",
-      3,
-      "anger"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -113,12 +93,7 @@
       "anger"
     ],
     [
-      "missile",
-      2,
-      "fear"
-    ],
-    [
-      "kill",
+      "police",
       2,
       "fear"
     ],
@@ -144,6 +119,11 @@
     ],
     [
       "hit",
+      2,
+      "anger"
+    ],
+    [
+      "deadly",
       2,
       "anger"
     ],
@@ -178,6 +158,11 @@
       "fear"
     ],
     [
+      "warns",
+      2,
+      "fear"
+    ],
+    [
       "risk",
       2,
       "fear"
@@ -198,9 +183,19 @@
       "anger"
     ],
     [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
       "white",
       2,
       "joy"
+    ],
+    [
+      "anti",
+      2,
+      "anger"
     ],
     [
       "corruption",
@@ -283,11 +278,6 @@
       "trust"
     ],
     [
-      "atrocity",
-      2,
-      "anger"
-    ],
-    [
       "americans",
       2,
       "sadness"
@@ -313,24 +303,19 @@
       "trust"
     ],
     [
-      "rails",
+      "airport",
       1,
-      "anger"
+      "anticipation"
     ],
     [
-      "pay",
+      "incident",
       1,
-      "joy"
+      "surprise"
     ],
     [
-      "condemns",
+      "flying",
       1,
-      "anger"
-    ],
-    [
-      "horrible",
-      1,
-      "anger"
+      "fear"
     ],
     [
       "cheating",
@@ -376,16 +361,31 @@
       "shooting",
       1,
       "anger"
+    ],
+    [
+      "missile",
+      1,
+      "fear"
+    ],
+    [
+      "devastate",
+      1,
+      "anger"
+    ],
+    [
+      "mountain",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 71,
-    "fear": 62,
-    "surprise": 21,
+    "joy": 23,
+    "trust": 70,
+    "fear": 61,
+    "surprise": 22,
     "sadness": 16,
     "disgust": 8,
-    "anger": 98,
-    "anticipation": 23
+    "anger": 90,
+    "anticipation": 24
   }
 }
