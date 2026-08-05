@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T04:20:42.549Z",
+  "generated_at": "2026-08-05T04:35:44.899Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "war",
       5,
       "anger"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
     ],
     [
       "hormuz",
@@ -63,17 +63,17 @@
       "anger"
     ],
     [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
       "hope",
       3,
       "surprise"
     ],
     [
       "crossing",
-      3,
-      "anger"
-    ],
-    [
-      "hit",
       3,
       "anger"
     ],
@@ -118,6 +118,11 @@
       "trust"
     ],
     [
+      "soldier",
+      2,
+      "anger"
+    ],
+    [
       "government",
       2,
       "fear"
@@ -159,11 +164,6 @@
     ],
     [
       "deadly",
-      2,
-      "anger"
-    ],
-    [
-      "soldier",
       2,
       "anger"
     ],
@@ -288,6 +288,26 @@
       "trust"
     ],
     [
+      "shoots",
+      1,
+      "anger"
+    ],
+    [
+      "comrades",
+      1,
+      "trust"
+    ],
+    [
+      "shooting",
+      1,
+      "anger"
+    ],
+    [
+      "missile",
+      1,
+      "fear"
+    ],
+    [
       "food",
       1,
       "joy"
@@ -356,26 +376,6 @@
       "dolphins",
       1,
       "surprise"
-    ],
-    [
-      "true",
-      1,
-      "joy"
-    ],
-    [
-      "disaster",
-      1,
-      "anger"
-    ],
-    [
-      "assessment",
-      1,
-      "surprise"
-    ],
-    [
-      "parrots",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
