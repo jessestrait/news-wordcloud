@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:28:32.088Z",
+  "generated_at": "2026-08-05T17:43:33.910Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "fear"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "president",
       5,
       "trust"
@@ -33,9 +28,19 @@
       "fear"
     ],
     [
+      "airport",
+      4,
+      "anticipation"
+    ],
+    [
       "attack",
       4,
       "anger"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "war",
@@ -58,17 +63,17 @@
       "anger"
     ],
     [
-      "killing",
+      "bomb",
       3,
       "anger"
     ],
     [
-      "airport",
+      "killed",
       3,
-      "anticipation"
+      "fear"
     ],
     [
-      "explosive",
+      "killing",
       3,
       "anger"
     ],
@@ -76,16 +81,6 @@
       "police",
       3,
       "fear"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "hope",
@@ -113,6 +108,36 @@
       "anger"
     ],
     [
+      "ministry",
+      2,
+      "joy"
+    ],
+    [
+      "dangerous",
+      2,
+      "fear"
+    ],
+    [
+      "suggests",
+      2,
+      "trust"
+    ],
+    [
+      "found",
+      2,
+      "joy"
+    ],
+    [
+      "media",
+      2,
+      "disgust"
+    ],
+    [
+      "food",
+      2,
+      "joy"
+    ],
+    [
       "suspect",
       2,
       "fear"
@@ -138,19 +163,9 @@
       "fear"
     ],
     [
-      "ministry",
-      2,
-      "joy"
-    ],
-    [
       "authorities",
       2,
       "trust"
-    ],
-    [
-      "shortly",
-      2,
-      "anticipation"
     ],
     [
       "shoots",
@@ -158,14 +173,14 @@
       "anger"
     ],
     [
-      "bomb",
-      2,
-      "anger"
-    ],
-    [
       "attempt",
       2,
       "anticipation"
+    ],
+    [
+      "explosive",
+      2,
+      "anger"
     ],
     [
       "alleged",
@@ -223,6 +238,11 @@
       "fear"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "deadly",
       2,
       "anger"
@@ -273,6 +293,11 @@
       "anger"
     ],
     [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
       "white",
       2,
       "joy"
@@ -286,11 +311,6 @@
       "corruption",
       2,
       "disgust"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "cancer",
@@ -338,26 +358,6 @@
       "anticipation"
     ],
     [
-      "blazes",
-      1,
-      "anger"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "starting",
-      1,
-      "anticipation"
-    ],
-    [
-      "fire",
-      1,
-      "fear"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -373,19 +373,19 @@
       "trust"
     ],
     [
-      "media",
+      "shot",
       1,
-      "disgust"
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 65,
-    "fear": 65,
+    "joy": 28,
+    "trust": 64,
+    "fear": 66,
     "surprise": 20,
     "sadness": 13,
-    "disgust": 7,
-    "anger": 98,
-    "anticipation": 34
+    "disgust": 8,
+    "anger": 95,
+    "anticipation": 32
   }
 }
