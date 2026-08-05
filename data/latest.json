@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T15:57:43.713Z",
+  "generated_at": "2026-08-05T16:12:45.957Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "hormuz",
       5,
       "fear"
+    ],
+    [
+      "happened",
+      5,
+      "anticipation"
     ],
     [
       "death",
@@ -41,11 +46,6 @@
       "war",
       4,
       "anger"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "trump",
@@ -113,6 +113,11 @@
       "anger"
     ],
     [
+      "ministry",
+      2,
+      "joy"
+    ],
+    [
       "alleged",
       2,
       "fear"
@@ -121,11 +126,6 @@
       "official",
       2,
       "trust"
-    ],
-    [
-      "ministry",
-      2,
-      "joy"
     ],
     [
       "show",
@@ -333,6 +333,21 @@
       "trust"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
+    ],
+    [
+      "guarantee",
+      1,
+      "trust"
+    ],
+    [
       "terrorism",
       1,
       "anger"
@@ -361,21 +376,6 @@
       "rape",
       1,
       "anger"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
-    ],
-    [
-      "preventing",
-      1,
-      "fear"
-    ],
-    [
-      "wrongdoing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 14,
     "disgust": 6,
     "anger": 96,
-    "anticipation": 30
+    "anticipation": 31
   }
 }
