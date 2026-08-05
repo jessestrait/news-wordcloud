@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:58:53.850Z",
+  "generated_at": "2026-08-05T18:13:57.326Z",
   "article_count": 50,
   "top_words": [
     [
@@ -338,6 +338,21 @@
       "fear"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
+    ],
+    [
+      "guarantee",
+      1,
+      "trust"
+    ],
+    [
       "exiled",
       1,
       "anger"
@@ -361,21 +376,6 @@
       "uprising",
       1,
       "anger"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "guarantee",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
