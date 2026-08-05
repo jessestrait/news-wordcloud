@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T02:04:25.260Z",
+  "generated_at": "2026-08-05T02:19:27.280Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "anger"
     ],
     [
-      "people",
-      9,
+      "president",
+      8,
       "trust"
     ],
     [
-      "president",
+      "people",
       8,
       "trust"
     ],
@@ -38,14 +38,14 @@
       "surprise"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "attack",
       4,
       "anger"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "strait",
@@ -268,6 +268,11 @@
       "sadness"
     ],
     [
+      "surge",
+      2,
+      "surprise"
+    ],
+    [
       "media",
       2,
       "disgust"
@@ -276,6 +281,21 @@
       "fire",
       2,
       "fear"
+    ],
+    [
+      "champion",
+      1,
+      "joy"
+    ],
+    [
+      "fever",
+      1,
+      "fear"
+    ],
+    [
+      "home",
+      1,
+      "joy"
     ],
     [
       "dolphins",
@@ -356,36 +376,16 @@
       "futile",
       1,
       "sadness"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "loses",
-      1,
-      "anger"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 66,
-    "fear": 58,
-    "surprise": 21,
+    "joy": 20,
+    "trust": 64,
+    "fear": 59,
+    "surprise": 22,
     "sadness": 14,
     "disgust": 9,
     "anger": 105,
-    "anticipation": 24
+    "anticipation": 23
   }
 }
