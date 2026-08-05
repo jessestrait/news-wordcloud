@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:11:40.626Z",
+  "generated_at": "2026-08-05T14:26:42.982Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,14 +53,14 @@
       "anger"
     ],
     [
-      "airport",
-      3,
-      "anticipation"
-    ],
-    [
       "explosive",
       3,
       "anger"
+    ],
+    [
+      "airport",
+      3,
+      "anticipation"
     ],
     [
       "power",
@@ -323,6 +323,26 @@
       "surprise"
     ],
     [
+      "terrorism",
+      1,
+      "anger"
+    ],
+    [
+      "prevention",
+      1,
+      "anticipation"
+    ],
+    [
+      "investigation",
+      1,
+      "anticipation"
+    ],
+    [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -351,26 +371,6 @@
       "unknown",
       1,
       "fear"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "prevention",
-      1,
-      "anticipation"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
     ],
     [
       "believers",
