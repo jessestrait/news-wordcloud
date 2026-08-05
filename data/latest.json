@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-05T05:51:37.831Z",
+  "generated_at": "2026-08-05T06:06:40.049Z",
   "article_count": 50,
   "top_words": [
-    [
-      "iran",
-      11,
-      "anger"
-    ],
     [
       "people",
       9,
       "trust"
     ],
     [
+      "iran",
+      9,
+      "anger"
+    ],
+    [
       "president",
-      8,
+      7,
       "trust"
     ],
     [
       "trump",
-      7,
+      6,
       "anger"
     ],
     [
@@ -38,14 +38,14 @@
       "fear"
     ],
     [
-      "deal",
-      5,
-      "surprise"
-    ],
-    [
       "attack",
       4,
       "anger"
+    ],
+    [
+      "deal",
+      4,
+      "surprise"
     ],
     [
       "happened",
@@ -56,11 +56,6 @@
       "strait",
       4,
       "fear"
-    ],
-    [
-      "strike",
-      4,
-      "anger"
     ],
     [
       "hit",
@@ -84,6 +79,11 @@
     ],
     [
       "victims",
+      3,
+      "anger"
+    ],
+    [
+      "strike",
       3,
       "anger"
     ],
@@ -115,6 +115,11 @@
     [
       "official",
       3,
+      "trust"
+    ],
+    [
+      "ground",
+      2,
       "trust"
     ],
     [
@@ -283,8 +288,28 @@
       "disgust"
     ],
     [
+      "fact",
+      2,
+      "trust"
+    ],
+    [
       "provide",
       2,
+      "trust"
+    ],
+    [
+      "hardened",
+      1,
+      "anger"
+    ],
+    [
+      "policy",
+      1,
+      "trust"
+    ],
+    [
+      "shows",
+      1,
       "trust"
     ],
     [
@@ -351,41 +376,16 @@
       "delights",
       1,
       "joy"
-    ],
-    [
-      "falls",
-      1,
-      "sadness"
-    ],
-    [
-      "blanketed",
-      1,
-      "trust"
-    ],
-    [
-      "champion",
-      1,
-      "joy"
-    ],
-    [
-      "fever",
-      1,
-      "fear"
-    ],
-    [
-      "dolphins",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 70,
+    "trust": 73,
     "fear": 58,
-    "surprise": 22,
+    "surprise": 21,
     "sadness": 16,
     "disgust": 9,
-    "anger": 104,
-    "anticipation": 20
+    "anger": 100,
+    "anticipation": 19
   }
 }
