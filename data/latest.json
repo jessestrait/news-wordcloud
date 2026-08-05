@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:26:42.982Z",
+  "generated_at": "2026-08-05T14:41:45.369Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "iran",
       9,
       "anger"
-    ],
-    [
-      "president",
-      6,
-      "trust"
     ],
     [
       "hormuz",
@@ -31,6 +26,11 @@
       "death",
       5,
       "sadness"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "war",
@@ -116,6 +116,16 @@
       "flee",
       2,
       "fear"
+    ],
+    [
+      "show",
+      2,
+      "trust"
+    ],
+    [
+      "policy",
+      2,
+      "trust"
     ],
     [
       "shoots",
@@ -323,6 +333,21 @@
       "surprise"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "striking",
+      1,
+      "anger"
+    ],
+    [
       "terrorism",
       1,
       "anger"
@@ -343,49 +368,24 @@
       "surprise"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "warning",
+      "isolated",
       1,
       "fear"
     ],
     [
-      "striking",
+      "humanitarian",
       1,
-      "anger"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "team",
-      1,
-      "trust"
-    ],
-    [
-      "unknown",
-      1,
-      "fear"
-    ],
-    [
-      "believers",
-      1,
-      "trust"
+      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 67,
-    "fear": 63,
+    "trust": 66,
+    "fear": 62,
     "surprise": 21,
     "sadness": 16,
-    "disgust": 7,
+    "disgust": 6,
     "anger": 99,
-    "anticipation": 30
+    "anticipation": 29
   }
 }
