@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T01:48:59.258Z",
+  "generated_at": "2026-08-05T02:04:01.091Z",
   "article_count": 50,
   "top_words": [
     [
@@ -129,6 +129,11 @@
     ],
     [
       "flu",
+      2,
+      "fear"
+    ],
+    [
+      "warns",
       2,
       "fear"
     ],
@@ -371,17 +376,12 @@
       "forced",
       1,
       "fear"
-    ],
-    [
-      "resignation",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
     "trust": 66,
-    "fear": 57,
+    "fear": 58,
     "surprise": 21,
     "sadness": 14,
     "disgust": 9,
