@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T13:56:16.935Z",
+  "generated_at": "2026-08-05T14:11:18.709Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "trust"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "hormuz",
       5,
       "fear"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
     ],
     [
       "death",
@@ -113,6 +113,11 @@
       "anger"
     ],
     [
+      "flee",
+      2,
+      "fear"
+    ],
+    [
       "shoots",
       2,
       "anger"
@@ -126,11 +131,6 @@
       "found",
       2,
       "joy"
-    ],
-    [
-      "flee",
-      2,
-      "fear"
     ],
     [
       "true",
@@ -323,21 +323,6 @@
       "surprise"
     ],
     [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "team",
-      1,
-      "trust"
-    ],
-    [
-      "unknown",
-      1,
-      "fear"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -351,6 +336,21 @@
       "striking",
       1,
       "anger"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
+    ],
+    [
+      "team",
+      1,
+      "trust"
+    ],
+    [
+      "unknown",
+      1,
+      "fear"
     ],
     [
       "terrorism",
