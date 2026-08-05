@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:43:33.910Z",
+  "generated_at": "2026-08-05T17:58:35.791Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "anger"
     ],
     [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
       "bomb",
       3,
       "anger"
@@ -103,9 +108,9 @@
       "anger"
     ],
     [
-      "suicide",
+      "plan",
       3,
-      "anger"
+      "anticipation"
     ],
     [
       "ministry",
@@ -173,19 +178,9 @@
       "anger"
     ],
     [
-      "attempt",
-      2,
-      "anticipation"
-    ],
-    [
       "explosive",
       2,
       "anger"
-    ],
-    [
-      "alleged",
-      2,
-      "fear"
     ],
     [
       "official",
@@ -204,6 +199,11 @@
     ],
     [
       "true",
+      2,
+      "joy"
+    ],
+    [
+      "vow",
       2,
       "joy"
     ],
@@ -253,11 +253,6 @@
       "surprise"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "crossing",
       2,
       "anger"
@@ -266,11 +261,6 @@
       "world",
       2,
       "trust"
-    ],
-    [
-      "threat",
-      2,
-      "anger"
     ],
     [
       "risk",
@@ -291,11 +281,6 @@
       "victims",
       2,
       "anger"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "white",
@@ -353,9 +338,29 @@
       "fear"
     ],
     [
-      "attempted",
-      2,
-      "anticipation"
+      "exiled",
+      1,
+      "anger"
+    ],
+    [
+      "execution",
+      1,
+      "anger"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "bloody",
+      1,
+      "anger"
+    ],
+    [
+      "uprising",
+      1,
+      "anger"
     ],
     [
       "middle",
@@ -371,21 +376,16 @@
       "guarantee",
       1,
       "trust"
-    ],
-    [
-      "shot",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 29,
     "trust": 64,
-    "fear": 66,
+    "fear": 64,
     "surprise": 20,
     "sadness": 13,
     "disgust": 8,
-    "anger": 95,
-    "anticipation": 32
+    "anger": 97,
+    "anticipation": 30
   }
 }
