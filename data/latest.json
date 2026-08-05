@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:16:32.023Z",
+  "generated_at": "2026-08-05T22:31:33.957Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,11 +43,6 @@
       "anger"
     ],
     [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "death",
       4,
       "sadness"
@@ -83,6 +78,16 @@
       "fear"
     ],
     [
+      "official",
+      3,
+      "trust"
+    ],
+    [
+      "war",
+      3,
+      "anger"
+    ],
+    [
       "hope",
       3,
       "surprise"
@@ -106,6 +111,16 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "calf",
+      2,
+      "joy"
+    ],
+    [
+      "mother",
+      2,
+      "sadness"
     ],
     [
       "incident",
@@ -163,11 +178,6 @@
       "fear"
     ],
     [
-      "flee",
-      2,
-      "fear"
-    ],
-    [
       "authorities",
       2,
       "trust"
@@ -181,11 +191,6 @@
       "explosive",
       2,
       "anger"
-    ],
-    [
-      "official",
-      2,
-      "trust"
     ],
     [
       "true",
@@ -278,11 +283,6 @@
       "joy"
     ],
     [
-      "anti",
-      2,
-      "anger"
-    ],
-    [
       "corruption",
       2,
       "disgust"
@@ -328,6 +328,21 @@
       "fear"
     ],
     [
+      "birth",
+      1,
+      "fear"
+    ],
+    [
+      "rates",
+      1,
+      "fear"
+    ],
+    [
+      "challenging",
+      1,
+      "anger"
+    ],
+    [
       "level",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "guarantee",
       1,
       "trust"
-    ],
-    [
-      "exiled",
-      1,
-      "anger"
-    ],
-    [
-      "execution",
-      1,
-      "anger"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 64,
-    "fear": 63,
+    "joy": 29,
+    "trust": 65,
+    "fear": 64,
     "surprise": 20,
-    "sadness": 12,
+    "sadness": 13,
     "disgust": 9,
-    "anger": 98,
+    "anger": 96,
     "anticipation": 30
   }
 }
