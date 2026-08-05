@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:24:32.952Z",
+  "generated_at": "2026-08-05T10:39:35.627Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,17 +9,17 @@
     ],
     [
       "iran",
-      9,
+      8,
       "anger"
     ],
     [
       "president",
-      7,
+      6,
       "trust"
     ],
     [
-      "trump",
-      6,
+      "attack",
+      5,
       "anger"
     ],
     [
@@ -28,9 +28,9 @@
       "sadness"
     ],
     [
-      "hormuz",
+      "trump",
       5,
-      "fear"
+      "anger"
     ],
     [
       "war",
@@ -38,9 +38,9 @@
       "anger"
     ],
     [
-      "deal",
+      "hormuz",
       4,
-      "surprise"
+      "fear"
     ],
     [
       "happened",
@@ -48,19 +48,9 @@
       "anticipation"
     ],
     [
-      "strait",
-      4,
-      "fear"
-    ],
-    [
       "suspected",
       3,
       "fear"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
     ],
     [
       "hope",
@@ -78,9 +68,19 @@
       "joy"
     ],
     [
+      "deal",
+      3,
+      "surprise"
+    ],
+    [
       "denies",
       3,
       "anger"
+    ],
+    [
+      "strait",
+      3,
+      "fear"
     ],
     [
       "military",
@@ -96,6 +96,11 @@
       "police",
       2,
       "fear"
+    ],
+    [
+      "shoots",
+      2,
+      "anger"
     ],
     [
       "top",
@@ -116,6 +121,11 @@
       "soldier",
       2,
       "anger"
+    ],
+    [
+      "missile",
+      2,
+      "fear"
     ],
     [
       "hit",
@@ -243,6 +253,11 @@
       "surprise"
     ],
     [
+      "kill",
+      2,
+      "fear"
+    ],
+    [
       "cross",
       2,
       "anger"
@@ -298,11 +313,6 @@
       "trust"
     ],
     [
-      "provide",
-      2,
-      "trust"
-    ],
-    [
       "airport",
       1,
       "anticipation"
@@ -348,11 +358,6 @@
       "trust"
     ],
     [
-      "shoots",
-      1,
-      "anger"
-    ],
-    [
       "comrades",
       1,
       "trust"
@@ -361,11 +366,6 @@
       "shooting",
       1,
       "anger"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
     ],
     [
       "devastate",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 70,
+    "trust": 68,
     "fear": 61,
-    "surprise": 22,
+    "surprise": 21,
     "sadness": 16,
     "disgust": 8,
-    "anger": 90,
+    "anger": 91,
     "anticipation": 24
   }
 }
