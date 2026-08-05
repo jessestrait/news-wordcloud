@@ -1,21 +1,36 @@
 {
-  "generated_at": "2026-08-05T12:10:28.737Z",
+  "generated_at": "2026-08-05T12:25:31.243Z",
   "article_count": 50,
   "top_words": [
+    [
+      "iran",
+      10,
+      "anger"
+    ],
     [
       "people",
       10,
       "trust"
     ],
     [
-      "iran",
-      8,
-      "anger"
-    ],
-    [
       "president",
       6,
       "trust"
+    ],
+    [
+      "hormuz",
+      5,
+      "fear"
+    ],
+    [
+      "deal",
+      5,
+      "surprise"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "attack",
@@ -28,19 +43,14 @@
       "sadness"
     ],
     [
-      "trump",
-      5,
-      "anger"
+      "hope",
+      4,
+      "surprise"
     ],
     [
       "war",
       4,
       "anger"
-    ],
-    [
-      "hormuz",
-      4,
-      "fear"
     ],
     [
       "happened",
@@ -58,11 +68,6 @@
       "fear"
     ],
     [
-      "hope",
-      3,
-      "surprise"
-    ],
-    [
       "crossing",
       3,
       "anger"
@@ -71,11 +76,6 @@
       "home",
       3,
       "joy"
-    ],
-    [
-      "deal",
-      3,
-      "surprise"
     ],
     [
       "denies",
@@ -98,6 +98,16 @@
       "anger"
     ],
     [
+      "suggests",
+      2,
+      "trust"
+    ],
+    [
+      "explosive",
+      2,
+      "anger"
+    ],
+    [
       "airport",
       2,
       "anticipation"
@@ -108,9 +118,9 @@
       "surprise"
     ],
     [
-      "police",
+      "attempt",
       2,
-      "fear"
+      "anticipation"
     ],
     [
       "found",
@@ -181,11 +191,6 @@
       "government",
       2,
       "fear"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "world",
@@ -308,16 +313,6 @@
       "fear"
     ],
     [
-      "dangerous",
-      2,
-      "fear"
-    ],
-    [
-      "alleged",
-      2,
-      "fear"
-    ],
-    [
       "leader",
       2,
       "trust"
@@ -333,47 +328,52 @@
       "surprise"
     ],
     [
-      "flying",
+      "middle",
       1,
-      "fear"
+      "sadness"
     ],
     [
-      "believers",
-      1,
-      "trust"
-    ],
-    [
-      "revolution",
-      1,
-      "anger"
-    ],
-    [
-      "proud",
-      1,
-      "joy"
-    ],
-    [
-      "defiant",
-      1,
-      "anger"
-    ],
-    [
-      "raid",
-      1,
-      "anger"
-    ],
-    [
-      "cheating",
-      1,
-      "anger"
-    ],
-    [
-      "applicants",
+      "ongoing",
       1,
       "anticipation"
     ],
     [
-      "debacle",
+      "terrorism",
+      1,
+      "anger"
+    ],
+    [
+      "prevention",
+      1,
+      "anticipation"
+    ],
+    [
+      "investigation",
+      1,
+      "anticipation"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "bomb",
+      1,
+      "anger"
+    ],
+    [
+      "assassination",
+      1,
+      "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
+    ],
+    [
+      "operations",
       1,
       "fear"
     ]
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 26,
     "trust": 66,
-    "fear": 63,
-    "surprise": 22,
+    "fear": 61,
+    "surprise": 25,
     "sadness": 15,
     "disgust": 7,
-    "anger": 93,
-    "anticipation": 26
+    "anger": 98,
+    "anticipation": 30
   }
 }
