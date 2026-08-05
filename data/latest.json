@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T18:28:59.766Z",
+  "generated_at": "2026-08-05T18:44:01.764Z",
   "article_count": 50,
   "top_words": [
     [
@@ -188,16 +188,6 @@
       "trust"
     ],
     [
-      "show",
-      2,
-      "trust"
-    ],
-    [
-      "policy",
-      2,
-      "trust"
-    ],
-    [
       "true",
       2,
       "joy"
@@ -376,13 +366,23 @@
       "uprising",
       1,
       "anger"
+    ],
+    [
+      "shot",
+      1,
+      "anger"
+    ],
+    [
+      "blazes",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 64,
+    "trust": 63,
     "fear": 64,
-    "surprise": 20,
+    "surprise": 19,
     "sadness": 13,
     "disgust": 8,
     "anger": 97,
