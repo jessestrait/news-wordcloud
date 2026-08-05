@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:54:38.063Z",
+  "generated_at": "2026-08-05T11:09:40.576Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anticipation"
     ],
     [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
       "suspected",
       3,
       "fear"
@@ -91,6 +96,11 @@
       "suicide",
       3,
       "anger"
+    ],
+    [
+      "true",
+      2,
+      "joy"
     ],
     [
       "police",
@@ -283,11 +293,6 @@
       "fear"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "leader",
       2,
       "trust"
@@ -308,9 +313,29 @@
       "trust"
     ],
     [
-      "fact",
-      2,
+      "believers",
+      1,
       "trust"
+    ],
+    [
+      "revolution",
+      1,
+      "anger"
+    ],
+    [
+      "proud",
+      1,
+      "joy"
+    ],
+    [
+      "defiant",
+      1,
+      "anger"
+    ],
+    [
+      "raid",
+      1,
+      "anger"
     ],
     [
       "airport",
@@ -351,41 +376,16 @@
       "policy",
       1,
       "trust"
-    ],
-    [
-      "shows",
-      1,
-      "trust"
-    ],
-    [
-      "comrades",
-      1,
-      "trust"
-    ],
-    [
-      "shooting",
-      1,
-      "anger"
-    ],
-    [
-      "devastate",
-      1,
-      "anger"
-    ],
-    [
-      "mountain",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 68,
+    "joy": 25,
+    "trust": 67,
     "fear": 61,
     "surprise": 21,
     "sadness": 16,
     "disgust": 8,
-    "anger": 91,
-    "anticipation": 24
+    "anger": 94,
+    "anticipation": 25
   }
 }
