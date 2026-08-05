@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T16:12:45.957Z",
+  "generated_at": "2026-08-05T16:27:48.658Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,14 +53,14 @@
       "anger"
     ],
     [
-      "explosive",
-      3,
-      "anger"
-    ],
-    [
       "airport",
       3,
       "anticipation"
+    ],
+    [
+      "explosive",
+      3,
+      "anger"
     ],
     [
       "police",
@@ -113,6 +113,21 @@
       "anger"
     ],
     [
+      "bomb",
+      2,
+      "anger"
+    ],
+    [
+      "attempt",
+      2,
+      "anticipation"
+    ],
+    [
+      "found",
+      2,
+      "joy"
+    ],
+    [
       "ministry",
       2,
       "joy"
@@ -143,24 +158,9 @@
       "anger"
     ],
     [
-      "bomb",
-      2,
-      "anger"
-    ],
-    [
-      "found",
-      2,
-      "joy"
-    ],
-    [
       "true",
       2,
       "joy"
-    ],
-    [
-      "attempt",
-      2,
-      "anticipation"
     ],
     [
       "top",
@@ -333,49 +333,49 @@
       "trust"
     ],
     [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "assassination",
+      1,
+      "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
+    ],
+    [
+      "operations",
+      1,
+      "fear"
+    ],
+    [
+      "deep",
+      1,
+      "joy"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
+    ],
+    [
+      "team",
+      1,
+      "trust"
+    ],
+    [
+      "unknown",
+      1,
+      "fear"
+    ],
+    [
       "middle",
       1,
       "sadness"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "guarantee",
-      1,
-      "trust"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "prevention",
-      1,
-      "anticipation"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
-    ],
-    [
-      "rape",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
