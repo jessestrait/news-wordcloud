@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:57:07.652Z",
+  "generated_at": "2026-08-05T15:12:14.002Z",
   "article_count": 50,
   "top_words": [
     [
@@ -333,21 +333,6 @@
       "surprise"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "striking",
-      1,
-      "anger"
-    ],
-    [
       "terrorism",
       1,
       "anger"
@@ -366,6 +351,21 @@
       "incident",
       1,
       "surprise"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "striking",
+      1,
+      "anger"
     ],
     [
       "isolated",
