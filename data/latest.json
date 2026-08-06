@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:10:39.505Z",
+  "generated_at": "2026-08-06T14:25:42.117Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "deal",
       5,
       "surprise"
+    ],
+    [
+      "happened",
+      5,
+      "anticipation"
     ],
     [
       "missile",
@@ -56,11 +61,6 @@
       "threat",
       4,
       "anger"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "official",
@@ -386,6 +386,6 @@
     "sadness": 12,
     "disgust": 7,
     "anger": 95,
-    "anticipation": 32
+    "anticipation": 33
   }
 }
