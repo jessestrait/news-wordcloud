@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-06T03:19:24.114Z",
+  "generated_at": "2026-08-06T03:34:25.882Z",
   "article_count": 50,
   "top_words": [
-    [
-      "iran",
-      9,
-      "anger"
-    ],
     [
       "people",
       9,
       "trust"
     ],
     [
-      "trump",
-      5,
+      "iran",
+      8,
       "anger"
+    ],
+    [
+      "missile",
+      5,
+      "fear"
     ],
     [
       "hormuz",
@@ -28,7 +28,17 @@
       "anticipation"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "war",
+      4,
+      "anger"
+    ],
+    [
+      "trump",
       4,
       "anger"
     ],
@@ -58,14 +68,9 @@
       "joy"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
-      "missile",
+      "shoot",
       3,
-      "fear"
+      "anger"
     ],
     [
       "forced",
@@ -121,6 +126,21 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "warns",
+      2,
+      "fear"
+    ],
+    [
+      "surge",
+      2,
+      "surprise"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
     ],
     [
       "continue",
@@ -193,11 +213,6 @@
       "trust"
     ],
     [
-      "shoots",
-      2,
-      "anger"
-    ],
-    [
       "explosive",
       2,
       "anger"
@@ -226,11 +241,6 @@
       "suspected",
       2,
       "fear"
-    ],
-    [
-      "ground",
-      2,
-      "trust"
     ],
     [
       "soldier",
@@ -333,6 +343,21 @@
       "fear"
     ],
     [
+      "production",
+      1,
+      "anticipation"
+    ],
+    [
+      "fired",
+      1,
+      "fear"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
       "building",
       1,
       "anticipation"
@@ -351,41 +376,16 @@
       "rates",
       1,
       "fear"
-    ],
-    [
-      "challenging",
-      1,
-      "anger"
-    ],
-    [
-      "level",
-      1,
-      "trust"
-    ],
-    [
-      "danger",
-      1,
-      "fear"
-    ],
-    [
-      "interior",
-      1,
-      "disgust"
-    ],
-    [
-      "treating",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 63,
-    "fear": 67,
-    "surprise": 20,
+    "trust": 62,
+    "fear": 72,
+    "surprise": 21,
     "sadness": 13,
     "disgust": 9,
-    "anger": 98,
-    "anticipation": 31
+    "anger": 95,
+    "anticipation": 32
   }
 }
