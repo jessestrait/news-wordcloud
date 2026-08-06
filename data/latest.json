@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T17:12:21.596Z",
+  "generated_at": "2026-08-06T17:27:24.044Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "fear"
     ],
     [
+      "official",
+      5,
+      "trust"
+    ],
+    [
       "strait",
       4,
       "fear"
@@ -58,14 +63,14 @@
       "anger"
     ],
     [
-      "official",
-      4,
-      "trust"
-    ],
-    [
       "home",
       4,
       "joy"
+    ],
+    [
+      "plan",
+      4,
+      "anticipation"
     ],
     [
       "bomb",
@@ -86,11 +91,6 @@
       "strike",
       3,
       "anger"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
     ],
     [
       "war",
@@ -123,9 +123,19 @@
       "anger"
     ],
     [
-      "plan",
+      "school",
       3,
+      "trust"
+    ],
+    [
+      "letters",
+      2,
       "anticipation"
+    ],
+    [
+      "suggests",
+      2,
+      "trust"
     ],
     [
       "found",
@@ -183,6 +193,11 @@
       "anticipation"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
       "investigation",
       2,
       "anticipation"
@@ -231,11 +246,6 @@
       "calf",
       2,
       "joy"
-    ],
-    [
-      "mother",
-      2,
-      "sadness"
     ],
     [
       "incident",
@@ -293,11 +303,6 @@
       "anticipation"
     ],
     [
-      "suspected",
-      2,
-      "fear"
-    ],
-    [
       "soldier",
       2,
       "anger"
@@ -333,11 +338,6 @@
       "anger"
     ],
     [
-      "corruption",
-      2,
-      "disgust"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -348,6 +348,26 @@
       "trust"
     ],
     [
+      "charitable",
+      1,
+      "joy"
+    ],
+    [
+      "endowed",
+      1,
+      "trust"
+    ],
+    [
+      "offering",
+      1,
+      "trust"
+    ],
+    [
+      "chance",
+      1,
+      "surprise"
+    ],
+    [
       "words",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "barricades",
       1,
       "fear"
-    ],
-    [
-      "letters",
-      1,
-      "anticipation"
-    ],
-    [
-      "laugh",
-      1,
-      "surprise"
-    ],
-    [
-      "self",
-      1,
-      "trust"
-    ],
-    [
-      "convicted",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 61,
-    "fear": 74,
-    "surprise": 20,
-    "sadness": 12,
-    "disgust": 6,
-    "anger": 94,
-    "anticipation": 34
+    "trust": 65,
+    "fear": 73,
+    "surprise": 21,
+    "sadness": 11,
+    "disgust": 4,
+    "anger": 93,
+    "anticipation": 37
   }
 }
