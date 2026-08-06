@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-08-06T13:25:14.563Z",
+  "generated_at": "2026-08-06T13:40:16.591Z",
   "article_count": 50,
   "top_words": [
-    [
-      "people",
-      6,
-      "trust"
-    ],
     [
       "iran",
       6,
@@ -16,6 +11,11 @@
       "hormuz",
       6,
       "fear"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "deal",
@@ -28,14 +28,14 @@
       "fear"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "strait",
       4,
       "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "trump",
@@ -343,6 +343,16 @@
       "trust"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "agreement",
+      1,
+      "trust"
+    ],
+    [
       "helpless",
       1,
       "fear"
@@ -356,16 +366,6 @@
       "lies",
       1,
       "anger"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
     ],
     [
       "forces",
