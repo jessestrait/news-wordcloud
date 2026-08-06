@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T16:52:04.004Z",
+  "generated_at": "2026-08-06T17:12:21.596Z",
   "article_count": 50,
   "top_words": [
     [
@@ -338,6 +338,16 @@
       "disgust"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "agreement",
+      1,
+      "trust"
+    ],
+    [
       "words",
       1,
       "anger"
@@ -359,16 +369,6 @@
     ],
     [
       "self",
-      1,
-      "trust"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "agreement",
       1,
       "trust"
     ],
