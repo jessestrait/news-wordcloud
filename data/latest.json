@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T05:35:53.497Z",
+  "generated_at": "2026-08-06T05:50:55.953Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,9 +63,9 @@
       "anger"
     ],
     [
-      "death",
+      "official",
       4,
-      "sadness"
+      "trust"
     ],
     [
       "shoot",
@@ -88,34 +88,14 @@
       "fear"
     ],
     [
-      "killing",
+      "death",
       3,
-      "anger"
-    ],
-    [
-      "police",
-      3,
-      "fear"
-    ],
-    [
-      "official",
-      3,
-      "trust"
-    ],
-    [
-      "hope",
-      3,
-      "surprise"
+      "sadness"
     ],
     [
       "deal",
       3,
       "surprise"
-    ],
-    [
-      "denies",
-      3,
-      "anger"
     ],
     [
       "strike",
@@ -126,6 +106,21 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "resign",
+      2,
+      "anger"
+    ],
+    [
+      "highest",
+      2,
+      "fear"
+    ],
+    [
+      "level",
+      2,
+      "trust"
     ],
     [
       "warns",
@@ -193,11 +188,6 @@
       "joy"
     ],
     [
-      "suspect",
-      2,
-      "fear"
-    ],
-    [
       "wildfire",
       2,
       "fear"
@@ -213,9 +203,19 @@
       "trust"
     ],
     [
+      "killing",
+      2,
+      "anger"
+    ],
+    [
       "explosive",
       2,
       "anger"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "true",
@@ -263,6 +263,11 @@
       "surprise"
     ],
     [
+      "hope",
+      2,
+      "surprise"
+    ],
+    [
       "crossing",
       2,
       "anger"
@@ -286,6 +291,11 @@
       "tomorrow",
       2,
       "anticipation"
+    ],
+    [
+      "denies",
+      2,
+      "anger"
     ],
     [
       "victims",
@@ -343,49 +353,39 @@
       "fear"
     ],
     [
-      "pay",
+      "global",
+      1,
+      "anticipation"
+    ],
+    [
+      "football",
       1,
       "joy"
     ],
     [
-      "leaders",
-      1,
-      "trust"
-    ],
-    [
-      "diplomacy",
-      1,
-      "trust"
-    ],
-    [
-      "production",
-      1,
-      "anticipation"
-    ],
-    [
-      "fired",
+      "exposing",
       1,
       "fear"
     ],
     [
-      "supplies",
+      "history",
       1,
-      "fear"
+      "trust"
     ],
     [
-      "building",
+      "structural",
       1,
-      "anticipation"
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 63,
-    "fear": 72,
-    "surprise": 21,
+    "joy": 32,
+    "trust": 66,
+    "fear": 71,
+    "surprise": 20,
     "sadness": 12,
     "disgust": 9,
-    "anger": 96,
-    "anticipation": 31
+    "anger": 95,
+    "anticipation": 32
   }
 }
