@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:38:13.949Z",
+  "generated_at": "2026-08-06T09:53:15.859Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "fear"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "strait",
       4,
       "fear"
@@ -68,9 +63,19 @@
       "trust"
     ],
     [
-      "hit",
+      "plan",
+      4,
+      "anticipation"
+    ],
+    [
+      "warns",
       3,
-      "anger"
+      "fear"
+    ],
+    [
+      "allies",
+      3,
+      "trust"
     ],
     [
       "deadly",
@@ -93,11 +98,6 @@
       "anger"
     ],
     [
-      "continue",
-      3,
-      "trust"
-    ],
-    [
       "forced",
       3,
       "fear"
@@ -113,9 +113,14 @@
       "fear"
     ],
     [
-      "plan",
+      "attack",
       3,
-      "anticipation"
+      "anger"
+    ],
+    [
+      "exchanging",
+      2,
+      "trust"
     ],
     [
       "blazes",
@@ -153,11 +158,6 @@
       "trust"
     ],
     [
-      "warns",
-      2,
-      "fear"
-    ],
-    [
       "surge",
       2,
       "surprise"
@@ -168,7 +168,7 @@
       "trust"
     ],
     [
-      "allies",
+      "continue",
       2,
       "trust"
     ],
@@ -258,6 +258,11 @@
       "anger"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "erratic",
       2,
       "surprise"
@@ -328,16 +333,6 @@
       "joy"
     ],
     [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "managed",
-      1,
-      "trust"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -376,6 +371,11 @@
       "football",
       1,
       "joy"
+    ],
+    [
+      "exposing",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 18,
     "sadness": 12,
     "disgust": 7,
-    "anger": 93,
-    "anticipation": 29
+    "anger": 90,
+    "anticipation": 30
   }
 }
