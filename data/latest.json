@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:26:05.313Z",
+  "generated_at": "2026-08-06T14:41:08.365Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "fear"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
       "deal",
       5,
       "surprise"
@@ -26,6 +21,11 @@
       "happened",
       5,
       "anticipation"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "missile",
@@ -73,6 +73,11 @@
       "joy"
     ],
     [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
       "strike",
       3,
       "anger"
@@ -111,6 +116,11 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "exiled",
+      2,
+      "anger"
     ],
     [
       "anxious",
@@ -283,11 +293,6 @@
       "anger"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "erratic",
       2,
       "surprise"
@@ -328,19 +333,9 @@
       "disgust"
     ],
     [
-      "cancer",
-      2,
+      "convicted",
+      1,
       "anger"
-    ],
-    [
-      "discrimination",
-      2,
-      "anger"
-    ],
-    [
-      "bank",
-      2,
-      "trust"
     ],
     [
       "middle",
@@ -376,16 +371,21 @@
       "hostages",
       1,
       "anger"
+    ],
+    [
+      "hails",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 64,
+    "trust": 62,
     "fear": 74,
     "surprise": 20,
     "sadness": 12,
     "disgust": 7,
-    "anger": 95,
+    "anger": 94,
     "anticipation": 33
   }
 }
