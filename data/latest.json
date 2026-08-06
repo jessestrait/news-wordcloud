@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T03:49:49.375Z",
+  "generated_at": "2026-08-06T04:04:51.624Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,16 @@
       "iran",
       8,
       "anger"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
+    ],
+    [
+      "home",
+      5,
+      "joy"
     ],
     [
       "missile",
@@ -38,11 +48,6 @@
       "anger"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
       "threat",
       4,
       "anger"
@@ -61,11 +66,6 @@
       "death",
       4,
       "sadness"
-    ],
-    [
-      "home",
-      4,
-      "joy"
     ],
     [
       "shoot",
@@ -343,6 +343,21 @@
       "fear"
     ],
     [
+      "pay",
+      1,
+      "joy"
+    ],
+    [
+      "leaders",
+      1,
+      "trust"
+    ],
+    [
+      "diplomacy",
+      1,
+      "trust"
+    ],
+    [
       "production",
       1,
       "anticipation"
@@ -361,31 +376,16 @@
       "building",
       1,
       "anticipation"
-    ],
-    [
-      "doubt",
-      1,
-      "fear"
-    ],
-    [
-      "birth",
-      1,
-      "fear"
-    ],
-    [
-      "rates",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 62,
+    "joy": 31,
+    "trust": 63,
     "fear": 72,
     "surprise": 21,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 9,
-    "anger": 95,
-    "anticipation": 32
+    "anger": 96,
+    "anticipation": 31
   }
 }
