@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T10:08:33.662Z",
+  "generated_at": "2026-08-06T10:23:35.873Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "hormuz",
       6,
       "fear"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "deal",
@@ -33,12 +28,27 @@
       "fear"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
       "strait",
       4,
       "fear"
     ],
     [
-      "strike",
+      "trump",
+      4,
+      "anger"
+    ],
+    [
+      "deadly",
       4,
       "anger"
     ],
@@ -78,17 +88,7 @@
       "trust"
     ],
     [
-      "deadly",
-      3,
-      "anger"
-    ],
-    [
       "war",
-      3,
-      "anger"
-    ],
-    [
-      "trump",
       3,
       "anger"
     ],
@@ -121,6 +121,11 @@
       "exchanging",
       2,
       "trust"
+    ],
+    [
+      "disaster",
+      2,
+      "anger"
     ],
     [
       "blazes",
@@ -273,11 +278,6 @@
       "surprise"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "crossing",
       2,
       "anger"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 66,
+    "trust": 63,
     "fear": 69,
     "surprise": 18,
-    "sadness": 12,
+    "sadness": 11,
     "disgust": 7,
-    "anger": 90,
+    "anger": 93,
     "anticipation": 30
   }
 }
