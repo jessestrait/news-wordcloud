@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T15:26:38.644Z",
+  "generated_at": "2026-08-06T15:41:41.113Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,9 +78,9 @@
       "anger"
     ],
     [
-      "authorities",
+      "police",
       3,
-      "trust"
+      "fear"
     ],
     [
       "hit",
@@ -258,6 +258,11 @@
       "anger"
     ],
     [
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
       "killing",
       2,
       "anger"
@@ -266,11 +271,6 @@
       "explosive",
       2,
       "anger"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "true",
@@ -380,8 +380,8 @@
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 61,
-    "fear": 73,
+    "trust": 60,
+    "fear": 74,
     "surprise": 20,
     "sadness": 12,
     "disgust": 6,
