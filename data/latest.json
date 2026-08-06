@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T11:54:20.856Z",
+  "generated_at": "2026-08-06T12:09:22.954Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "fear"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
       "deal",
       5,
       "surprise"
@@ -28,14 +23,24 @@
       "fear"
     ],
     [
-      "strike",
-      4,
-      "anger"
+      "people",
+      5,
+      "trust"
     ],
     [
       "strait",
       4,
       "fear"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
     ],
     [
       "deadly",
@@ -83,11 +88,6 @@
       "trust"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "war",
       3,
       "anger"
@@ -116,6 +116,16 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "building",
+      2,
+      "anticipation"
     ],
     [
       "exchanging",
@@ -278,11 +288,6 @@
       "surprise"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "crossing",
       2,
       "anger"
@@ -348,44 +353,39 @@
       "trust"
     ],
     [
-      "crime",
+      "board",
       1,
-      "anger"
+      "anticipation"
     ],
     [
-      "watch",
+      "peace",
+      1,
+      "joy"
+    ],
+    [
+      "military",
       1,
       "fear"
     ],
     [
-      "amnesty",
-      1,
-      "joy"
-    ],
-    [
-      "legal",
+      "base",
       1,
       "trust"
     ],
     [
-      "attacked",
+      "awarded",
       1,
-      "anger"
-    ],
-    [
-      "football",
-      1,
-      "joy"
+      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 64,
-    "fear": 69,
-    "surprise": 18,
-    "sadness": 12,
+    "joy": 30,
+    "trust": 62,
+    "fear": 71,
+    "surprise": 19,
+    "sadness": 11,
     "disgust": 7,
-    "anger": 92,
-    "anticipation": 30
+    "anger": 94,
+    "anticipation": 33
   }
 }
