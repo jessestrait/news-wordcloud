@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T16:47:35.408Z",
+  "generated_at": "2026-08-06T16:52:04.004Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,11 +53,6 @@
       "anger"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "threat",
       4,
       "anger"
@@ -91,6 +86,11 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "war",
@@ -303,11 +303,6 @@
       "anger"
     ],
     [
-      "erratic",
-      2,
-      "surprise"
-    ],
-    [
       "hope",
       2,
       "surprise"
@@ -343,6 +338,31 @@
       "disgust"
     ],
     [
+      "words",
+      1,
+      "anger"
+    ],
+    [
+      "barricades",
+      1,
+      "fear"
+    ],
+    [
+      "letters",
+      1,
+      "anticipation"
+    ],
+    [
+      "laugh",
+      1,
+      "surprise"
+    ],
+    [
+      "self",
+      1,
+      "trust"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -356,36 +376,16 @@
       "convicted",
       1,
       "anger"
-    ],
-    [
-      "helpless",
-      1,
-      "fear"
-    ],
-    [
-      "humanitarian",
-      1,
-      "surprise"
-    ],
-    [
-      "lies",
-      1,
-      "anger"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 60,
+    "trust": 61,
     "fear": 74,
     "surprise": 20,
     "sadness": 12,
     "disgust": 6,
-    "anger": 93,
-    "anticipation": 33
+    "anger": 94,
+    "anticipation": 34
   }
 }
