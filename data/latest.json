@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T10:38:55.631Z",
+  "generated_at": "2026-08-06T10:53:57.623Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,24 +13,19 @@
       "fear"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
       "deal",
       5,
       "surprise"
     ],
     [
-      "home",
-      5,
-      "joy"
-    ],
-    [
       "missile",
       5,
       "fear"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "strike",
@@ -41,11 +36,6 @@
       "strait",
       4,
       "fear"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
     ],
     [
       "deadly",
@@ -73,6 +63,11 @@
       "trust"
     ],
     [
+      "home",
+      4,
+      "joy"
+    ],
+    [
       "plan",
       4,
       "anticipation"
@@ -86,6 +81,11 @@
       "allies",
       3,
       "trust"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "war",
@@ -278,6 +278,11 @@
       "surprise"
     ],
     [
+      "death",
+      2,
+      "sadness"
+    ],
+    [
       "crossing",
       2,
       "anger"
@@ -371,21 +376,16 @@
       "football",
       1,
       "joy"
-    ],
-    [
-      "exposing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 63,
+    "joy": 27,
+    "trust": 64,
     "fear": 69,
     "surprise": 18,
-    "sadness": 11,
+    "sadness": 12,
     "disgust": 7,
-    "anger": 93,
+    "anger": 92,
     "anticipation": 30
   }
 }
