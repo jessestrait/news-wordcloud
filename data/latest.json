@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:08:10.085Z",
+  "generated_at": "2026-08-06T09:23:12.062Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,12 +68,12 @@
       "trust"
     ],
     [
-      "deadly",
+      "hit",
       3,
       "anger"
     ],
     [
-      "hit",
+      "deadly",
       3,
       "anger"
     ],
@@ -328,22 +328,22 @@
       "joy"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
-    ],
-    [
       "military",
       1,
       "fear"
     ],
     [
       "managed",
+      1,
+      "trust"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "agreement",
       1,
       "trust"
     ],
