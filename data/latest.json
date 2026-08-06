@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T12:39:51.631Z",
+  "generated_at": "2026-08-06T12:54:54.054Z",
   "article_count": 50,
   "top_words": [
     [
@@ -76,6 +76,11 @@
       "plan",
       4,
       "anticipation"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "warns",
@@ -176,11 +181,6 @@
       "surge",
       2,
       "surprise"
-    ],
-    [
-      "president",
-      2,
-      "trust"
     ],
     [
       "continue",
@@ -333,59 +333,59 @@
       "trust"
     ],
     [
-      "battles",
-      2,
+      "forces",
+      1,
       "anger"
     ],
     [
-      "dance",
-      2,
-      "joy"
-    ],
-    [
-      "middle",
+      "hostages",
       1,
-      "sadness"
+      "anger"
     ],
     [
-      "agreement",
+      "hails",
       1,
       "trust"
     ],
     [
-      "board",
-      1,
-      "anticipation"
-    ],
-    [
-      "peace",
+      "successful",
       1,
       "joy"
     ],
     [
-      "military",
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
+      "battles",
+      1,
+      "anger"
+    ],
+    [
+      "endemic",
       1,
       "fear"
     ],
     [
-      "base",
+      "ransom",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "awarded",
+      "insecurity",
       1,
-      "surprise"
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 62,
-    "fear": 71,
+    "joy": 29,
+    "trust": 64,
+    "fear": 73,
     "surprise": 19,
     "sadness": 11,
     "disgust": 7,
-    "anger": 94,
+    "anger": 95,
     "anticipation": 33
   }
 }
