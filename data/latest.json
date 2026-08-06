@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:56:10.819Z",
+  "generated_at": "2026-08-06T15:11:12.910Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,6 +73,16 @@
       "joy"
     ],
     [
+      "bomb",
+      3,
+      "anger"
+    ],
+    [
+      "authorities",
+      3,
+      "trust"
+    ],
+    [
       "hit",
       3,
       "anger"
@@ -116,6 +126,11 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "exiled",
@@ -228,11 +243,6 @@
       "trust"
     ],
     [
-      "bomb",
-      2,
-      "anger"
-    ],
-    [
       "media",
       2,
       "disgust"
@@ -246,11 +256,6 @@
       "destroyed",
       2,
       "anger"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "killing",
@@ -333,11 +338,6 @@
       "disgust"
     ],
     [
-      "convicted",
-      1,
-      "anger"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -346,6 +346,11 @@
       "agreement",
       1,
       "trust"
+    ],
+    [
+      "convicted",
+      1,
+      "anger"
     ],
     [
       "helpless",
@@ -371,21 +376,16 @@
       "hostages",
       1,
       "anger"
-    ],
-    [
-      "hails",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 62,
-    "fear": 74,
+    "joy": 30,
+    "trust": 61,
+    "fear": 73,
     "surprise": 20,
     "sadness": 12,
-    "disgust": 7,
-    "anger": 94,
+    "disgust": 6,
+    "anger": 95,
     "anticipation": 33
   }
 }
