@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T12:55:10.867Z",
+  "generated_at": "2026-08-06T13:10:12.674Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "fear"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
       "deal",
       5,
       "surprise"
@@ -23,19 +28,14 @@
       "fear"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
-      "strike",
-      4,
-      "anger"
-    ],
-    [
       "strait",
       4,
       "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "trump",
@@ -73,24 +73,9 @@
       "joy"
     ],
     [
-      "plan",
-      4,
-      "anticipation"
-    ],
-    [
-      "president",
+      "strike",
       3,
-      "trust"
-    ],
-    [
-      "warns",
-      3,
-      "fear"
-    ],
-    [
-      "allies",
-      3,
-      "trust"
+      "anger"
     ],
     [
       "war",
@@ -123,9 +108,24 @@
       "anger"
     ],
     [
-      "exchanging",
+      "plan",
+      3,
+      "anticipation"
+    ],
+    [
+      "anxious",
       2,
-      "trust"
+      "fear"
+    ],
+    [
+      "emergency",
+      2,
+      "fear"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
     ],
     [
       "gaza",
@@ -178,9 +178,19 @@
       "trust"
     ],
     [
+      "warns",
+      2,
+      "fear"
+    ],
+    [
       "surge",
       2,
       "surprise"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
     ],
     [
       "continue",
@@ -333,6 +343,31 @@
       "trust"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "agreement",
+      1,
+      "trust"
+    ],
+    [
+      "helpless",
+      1,
+      "fear"
+    ],
+    [
+      "humanitarian",
+      1,
+      "surprise"
+    ],
+    [
+      "lies",
+      1,
+      "anger"
+    ],
+    [
       "forces",
       1,
       "anger"
@@ -341,51 +376,16 @@
       "hostages",
       1,
       "anger"
-    ],
-    [
-      "hails",
-      1,
-      "trust"
-    ],
-    [
-      "successful",
-      1,
-      "joy"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
-    ],
-    [
-      "battles",
-      1,
-      "anger"
-    ],
-    [
-      "endemic",
-      1,
-      "fear"
-    ],
-    [
-      "ransom",
-      1,
-      "anger"
-    ],
-    [
-      "insecurity",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 64,
-    "fear": 73,
-    "surprise": 19,
-    "sadness": 11,
+    "fear": 74,
+    "surprise": 20,
+    "sadness": 12,
     "disgust": 7,
     "anger": 95,
-    "anticipation": 33
+    "anticipation": 32
   }
 }
