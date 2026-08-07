@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T05:36:58.082Z",
+  "generated_at": "2026-08-07T05:52:00.342Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "joy"
     ],
     [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
       "authorities",
       3,
       "trust"
@@ -123,19 +128,9 @@
       "anger"
     ],
     [
-      "wildfire",
-      3,
-      "fear"
-    ],
-    [
       "school",
       3,
       "trust"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "kill",
@@ -283,6 +278,11 @@
       "joy"
     ],
     [
+      "wildfire",
+      2,
+      "fear"
+    ],
+    [
       "killing",
       2,
       "anger"
@@ -318,8 +318,33 @@
       "surprise"
     ],
     [
-      "risk",
-      2,
+      "row",
+      1,
+      "anger"
+    ],
+    [
+      "equality",
+      1,
+      "joy"
+    ],
+    [
+      "elite",
+      1,
+      "joy"
+    ],
+    [
+      "public",
+      1,
+      "anticipation"
+    ],
+    [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "scandals",
+      1,
       "fear"
     ],
     [
@@ -351,41 +376,16 @@
       "storm",
       1,
       "anger"
-    ],
-    [
-      "cyclones",
-      1,
-      "fear"
-    ],
-    [
-      "culinary",
-      1,
-      "trust"
-    ],
-    [
-      "charitable",
-      1,
-      "joy"
-    ],
-    [
-      "endowed",
-      1,
-      "trust"
-    ],
-    [
-      "offering",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 31,
     "trust": 61,
-    "fear": 73,
+    "fear": 72,
     "surprise": 19,
     "sadness": 10,
     "disgust": 4,
-    "anger": 89,
-    "anticipation": 40
+    "anger": 90,
+    "anticipation": 42
   }
 }
