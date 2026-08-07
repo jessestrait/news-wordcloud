@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-07T12:26:07.302Z",
+  "generated_at": "2026-08-07T12:41:09.557Z",
   "article_count": 50,
   "top_words": [
+    [
+      "official",
+      7,
+      "trust"
+    ],
     [
       "attack",
       6,
@@ -23,16 +28,6 @@
       "fear"
     ],
     [
-      "official",
-      6,
-      "trust"
-    ],
-    [
-      "deadly",
-      5,
-      "anger"
-    ],
-    [
       "iran",
       5,
       "anger"
@@ -41,6 +36,11 @@
       "trump",
       5,
       "anger"
+    ],
+    [
+      "home",
+      5,
+      "joy"
     ],
     [
       "school",
@@ -53,14 +53,14 @@
       "trust"
     ],
     [
+      "deadly",
+      4,
+      "anger"
+    ],
+    [
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "home",
-      4,
-      "joy"
     ],
     [
       "suspect",
@@ -89,11 +89,6 @@
     ],
     [
       "forced",
-      3,
-      "fear"
-    ],
-    [
-      "warns",
       3,
       "fear"
     ],
@@ -133,11 +128,6 @@
       "anticipation"
     ],
     [
-      "threat",
-      3,
-      "anger"
-    ],
-    [
       "vow",
       3,
       "joy"
@@ -153,12 +143,27 @@
       "fear"
     ],
     [
+      "house",
+      2,
+      "joy"
+    ],
+    [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "military",
       2,
       "fear"
     ],
     [
       "kill",
+      2,
+      "fear"
+    ],
+    [
+      "warns",
       2,
       "fear"
     ],
@@ -223,11 +228,6 @@
       "anticipation"
     ],
     [
-      "disaster",
-      2,
-      "anger"
-    ],
-    [
       "blazes",
       2,
       "anger"
@@ -283,6 +283,11 @@
       "surprise"
     ],
     [
+      "threat",
+      2,
+      "anger"
+    ],
+    [
       "guarantee",
       2,
       "trust"
@@ -313,11 +318,6 @@
       "anger"
     ],
     [
-      "true",
-      2,
-      "joy"
-    ],
-    [
       "university",
       2,
       "anticipation"
@@ -328,11 +328,6 @@
       "anger"
     ],
     [
-      "hope",
-      2,
-      "surprise"
-    ],
-    [
       "gun",
       1,
       "anger"
@@ -341,6 +336,26 @@
       "laws",
       1,
       "trust"
+    ],
+    [
+      "eviction",
+      1,
+      "anger"
+    ],
+    [
+      "save",
+      1,
+      "joy"
+    ],
+    [
+      "collapse",
+      1,
+      "fear"
+    ],
+    [
+      "crackdown",
+      1,
+      "anger"
     ],
     [
       "entangled",
@@ -361,31 +376,16 @@
       "bruised",
       1,
       "anticipation"
-    ],
-    [
-      "prolong",
-      1,
-      "disgust"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 34,
     "trust": 64,
-    "fear": 72,
-    "surprise": 18,
+    "fear": 71,
+    "surprise": 15,
     "sadness": 8,
-    "disgust": 5,
-    "anger": 99,
+    "disgust": 3,
+    "anger": 98,
     "anticipation": 42
   }
 }
