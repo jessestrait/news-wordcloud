@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-08-07T13:56:57.333Z",
+  "generated_at": "2026-08-07T14:12:00.226Z",
   "article_count": 50,
   "top_words": [
-    [
-      "attack",
-      6,
-      "anger"
-    ],
     [
       "war",
       6,
@@ -18,6 +13,11 @@
       "trust"
     ],
     [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
       "missile",
       6,
       "fear"
@@ -26,6 +26,11 @@
       "official",
       6,
       "trust"
+    ],
+    [
+      "happened",
+      5,
+      "anticipation"
     ],
     [
       "deadly",
@@ -56,11 +61,6 @@
       "iran",
       4,
       "anger"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "suspect",
@@ -133,6 +133,11 @@
       "joy"
     ],
     [
+      "military",
+      2,
+      "fear"
+    ],
+    [
       "shooting",
       2,
       "anger"
@@ -149,11 +154,6 @@
     ],
     [
       "government",
-      2,
-      "fear"
-    ],
-    [
-      "military",
       2,
       "fear"
     ],
@@ -318,6 +318,36 @@
       "anger"
     ],
     [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
+      "vowing",
+      1,
+      "joy"
+    ],
+    [
+      "offensive",
+      1,
+      "anger"
+    ],
+    [
+      "rebels",
+      1,
+      "anger"
+    ],
+    [
+      "ready",
+      1,
+      "anticipation"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
       "gun",
       1,
       "anger"
@@ -346,36 +376,6 @@
       "save",
       1,
       "joy"
-    ],
-    [
-      "collapse",
-      1,
-      "fear"
-    ],
-    [
-      "crackdown",
-      1,
-      "anger"
-    ],
-    [
-      "entangled",
-      1,
-      "anger"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
-    ],
-    [
-      "fear",
-      1,
-      "anger"
-    ],
-    [
-      "bruised",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 7,
     "disgust": 3,
     "anger": 98,
-    "anticipation": 42
+    "anticipation": 43
   }
 }
