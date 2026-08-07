@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:08:58.140Z",
+  "generated_at": "2026-08-07T09:24:00.257Z",
   "article_count": 50,
   "top_words": [
     [
@@ -66,11 +66,6 @@
       "home",
       4,
       "joy"
-    ],
-    [
-      "shooting",
-      3,
-      "anger"
     ],
     [
       "suspect",
@@ -143,9 +138,19 @@
       "anger"
     ],
     [
+      "shooting",
+      2,
+      "anger"
+    ],
+    [
       "shot",
       2,
       "anger"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
     ],
     [
       "military",
@@ -371,21 +376,16 @@
       "equality",
       1,
       "joy"
-    ],
-    [
-      "elite",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
     "trust": 62,
-    "fear": 72,
+    "fear": 73,
     "surprise": 19,
     "sadness": 8,
     "disgust": 4,
-    "anger": 92,
+    "anger": 91,
     "anticipation": 44
   }
 }
