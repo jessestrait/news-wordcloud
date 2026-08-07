@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:34:32.723Z",
+  "generated_at": "2026-08-07T00:49:35.046Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "anger"
     ],
     [
-      "threat",
-      4,
-      "anger"
-    ],
-    [
       "home",
       4,
       "joy"
@@ -113,6 +108,11 @@
       "anticipation"
     ],
     [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
       "wildfire",
       3,
       "fear"
@@ -149,11 +149,6 @@
     ],
     [
       "anxious",
-      2,
-      "fear"
-    ],
-    [
-      "emergency",
       2,
       "fear"
     ],
@@ -318,11 +313,6 @@
       "anger"
     ],
     [
-      "world",
-      2,
-      "trust"
-    ],
-    [
       "risk",
       2,
       "fear"
@@ -336,6 +326,26 @@
       "victims",
       2,
       "anger"
+    ],
+    [
+      "typhoon",
+      1,
+      "fear"
+    ],
+    [
+      "storm",
+      1,
+      "anger"
+    ],
+    [
+      "cyclones",
+      1,
+      "fear"
+    ],
+    [
+      "culinary",
+      1,
+      "trust"
     ],
     [
       "charitable",
@@ -366,26 +376,16 @@
       "barricades",
       1,
       "fear"
-    ],
-    [
-      "laugh",
-      1,
-      "surprise"
-    ],
-    [
-      "self",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 64,
-    "fear": 73,
+    "trust": 63,
+    "fear": 72,
     "surprise": 21,
     "sadness": 10,
     "disgust": 4,
-    "anger": 93,
+    "anger": 92,
     "anticipation": 38
   }
 }
