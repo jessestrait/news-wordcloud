@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:29:06.787Z",
+  "generated_at": "2026-08-07T17:44:09.101Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,11 +43,6 @@
       "anger"
     ],
     [
-      "home",
-      5,
-      "joy"
-    ],
-    [
       "school",
       4,
       "trust"
@@ -58,8 +53,18 @@
       "trust"
     ],
     [
+      "homes",
+      4,
+      "joy"
+    ],
+    [
       "iran",
       4,
+      "anger"
+    ],
+    [
+      "killing",
+      3,
       "anger"
     ],
     [
@@ -131,6 +136,11 @@
       "vow",
       3,
       "joy"
+    ],
+    [
+      "convicted",
+      2,
+      "anger"
     ],
     [
       "military",
@@ -248,11 +258,6 @@
       "trust"
     ],
     [
-      "surge",
-      2,
-      "surprise"
-    ],
-    [
       "allies",
       2,
       "trust"
@@ -298,11 +303,6 @@
       "fear"
     ],
     [
-      "killing",
-      2,
-      "anger"
-    ],
-    [
       "explosive",
       2,
       "anger"
@@ -315,6 +315,21 @@
     [
       "soldier",
       2,
+      "anger"
+    ],
+    [
+      "preparing",
+      1,
+      "anticipation"
+    ],
+    [
+      "murder",
+      1,
+      "anger"
+    ],
+    [
+      "court",
+      1,
       "anger"
     ],
     [
@@ -361,31 +376,16 @@
       "pact",
       1,
       "trust"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
-    ],
-    [
-      "eviction",
-      1,
-      "anger"
-    ],
-    [
-      "save",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 32,
     "trust": 65,
-    "fear": 69,
-    "surprise": 15,
+    "fear": 68,
+    "surprise": 14,
     "sadness": 7,
     "disgust": 3,
-    "anger": 98,
-    "anticipation": 43
+    "anger": 102,
+    "anticipation": 44
   }
 }
