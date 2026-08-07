@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:04:37.210Z",
+  "generated_at": "2026-08-07T01:19:39.523Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,19 +13,14 @@
       "fear"
     ],
     [
-      "happened",
-      6,
-      "anticipation"
-    ],
-    [
       "deal",
       5,
       "surprise"
     ],
     [
-      "people",
+      "happened",
       5,
-      "trust"
+      "anticipation"
     ],
     [
       "missile",
@@ -44,6 +39,11 @@
     ],
     [
       "president",
+      4,
+      "trust"
+    ],
+    [
+      "people",
       4,
       "trust"
     ],
@@ -126,6 +126,11 @@
       "school",
       3,
       "trust"
+    ],
+    [
+      "production",
+      2,
+      "anticipation"
     ],
     [
       "letters",
@@ -308,11 +313,6 @@
       "surprise"
     ],
     [
-      "crossing",
-      2,
-      "anger"
-    ],
-    [
       "risk",
       2,
       "fear"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 63,
+    "trust": 61,
     "fear": 72,
     "surprise": 21,
     "sadness": 10,
     "disgust": 4,
-    "anger": 92,
+    "anger": 91,
     "anticipation": 38
   }
 }
