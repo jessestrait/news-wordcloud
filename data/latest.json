@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:23:12.916Z",
+  "generated_at": "2026-08-07T07:38:15.019Z",
   "article_count": 50,
   "top_words": [
     [
@@ -41,11 +41,6 @@
       "attack",
       5,
       "anger"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "police",
@@ -116,6 +111,11 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "trump",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 63,
+    "trust": 62,
     "fear": 73,
     "surprise": 19,
     "sadness": 8,
