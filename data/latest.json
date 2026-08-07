@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:29:32.797Z",
+  "generated_at": "2026-08-07T18:44:34.790Z",
   "article_count": 50,
   "top_words": [
     [
@@ -61,6 +61,26 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
+    ],
+    [
+      "operation",
+      3,
+      "fear"
+    ],
+    [
+      "media",
+      3,
+      "disgust"
+    ],
+    [
+      "shows",
+      3,
+      "trust"
     ],
     [
       "killing",
@@ -163,11 +183,6 @@
       "joy"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "build",
       2,
       "anticipation"
@@ -218,11 +233,6 @@
       "sadness"
     ],
     [
-      "operation",
-      2,
-      "fear"
-    ],
-    [
       "building",
       2,
       "anticipation"
@@ -241,11 +251,6 @@
       "investigation",
       2,
       "anticipation"
-    ],
-    [
-      "shows",
-      2,
-      "trust"
     ],
     [
       "highest",
@@ -288,11 +293,6 @@
       "trust"
     ],
     [
-      "media",
-      2,
-      "disgust"
-    ],
-    [
       "food",
       2,
       "joy"
@@ -316,6 +316,11 @@
       "soldier",
       2,
       "anger"
+    ],
+    [
+      "ice",
+      1,
+      "fear"
     ],
     [
       "preparing",
@@ -371,20 +376,15 @@
       "laws",
       1,
       "trust"
-    ],
-    [
-      "pact",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 65,
-    "fear": 68,
+    "joy": 31,
+    "trust": 64,
+    "fear": 71,
     "surprise": 14,
-    "sadness": 7,
-    "disgust": 3,
+    "sadness": 6,
+    "disgust": 4,
     "anger": 102,
     "anticipation": 44
   }
