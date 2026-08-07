@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T04:51:34.240Z",
+  "generated_at": "2026-08-07T05:06:36.662Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "anger"
     ],
     [
+      "forced",
+      4,
+      "fear"
+    ],
+    [
       "war",
       4,
       "anger"
@@ -53,14 +58,14 @@
       "anger"
     ],
     [
-      "strike",
-      4,
-      "anger"
-    ],
-    [
       "home",
       4,
       "joy"
+    ],
+    [
+      "authorities",
+      3,
+      "trust"
     ],
     [
       "warns",
@@ -98,14 +103,14 @@
       "anger"
     ],
     [
-      "shoot",
+      "strike",
       3,
       "anger"
     ],
     [
-      "forced",
+      "shoot",
       3,
-      "fear"
+      "anger"
     ],
     [
       "airport",
@@ -126,6 +131,11 @@
       "school",
       3,
       "trust"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "kill",
@@ -181,11 +191,6 @@
       "operation",
       2,
       "fear"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
     ],
     [
       "building",
@@ -278,16 +283,6 @@
       "joy"
     ],
     [
-      "destroyed",
-      2,
-      "anger"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
       "killing",
       2,
       "anger"
@@ -328,9 +323,9 @@
       "fear"
     ],
     [
-      "victims",
-      2,
-      "anger"
+      "breaks",
+      1,
+      "surprise"
     ],
     [
       "middle",
@@ -376,16 +371,21 @@
       "endowed",
       1,
       "trust"
+    ],
+    [
+      "offering",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 60,
+    "trust": 61,
     "fear": 73,
-    "surprise": 18,
-    "sadness": 11,
+    "surprise": 19,
+    "sadness": 10,
     "disgust": 4,
-    "anger": 94,
-    "anticipation": 39
+    "anger": 89,
+    "anticipation": 40
   }
 }
