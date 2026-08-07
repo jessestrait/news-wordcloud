@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-08-07T06:52:41.763Z",
+  "generated_at": "2026-08-07T07:07:44.194Z",
   "article_count": 50,
   "top_words": [
-    [
-      "iran",
-      6,
-      "anger"
-    ],
     [
       "missile",
       6,
@@ -18,14 +13,24 @@
       "trust"
     ],
     [
+      "school",
+      5,
+      "trust"
+    ],
+    [
+      "war",
+      5,
+      "anger"
+    ],
+    [
       "president",
       5,
       "trust"
     ],
     [
-      "hormuz",
+      "iran",
       5,
-      "fear"
+      "anger"
     ],
     [
       "happened",
@@ -38,19 +43,24 @@
       "anger"
     ],
     [
-      "forced",
+      "people",
       4,
-      "fear"
+      "trust"
     ],
     [
-      "war",
+      "police",
       4,
-      "anger"
+      "fear"
     ],
     [
       "deal",
       4,
       "surprise"
+    ],
+    [
+      "hormuz",
+      4,
+      "fear"
     ],
     [
       "deadly",
@@ -63,6 +73,21 @@
       "joy"
     ],
     [
+      "shooting",
+      3,
+      "anger"
+    ],
+    [
+      "suspect",
+      3,
+      "fear"
+    ],
+    [
+      "killing",
+      3,
+      "anger"
+    ],
+    [
       "power",
       3,
       "anticipation"
@@ -73,12 +98,12 @@
       "trust"
     ],
     [
-      "warns",
+      "forced",
       3,
       "fear"
     ],
     [
-      "strait",
+      "warns",
       3,
       "fear"
     ],
@@ -88,19 +113,9 @@
       "anger"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
       "hit",
       3,
       "anger"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "trump",
@@ -128,9 +143,19 @@
       "anger"
     ],
     [
-      "school",
-      3,
-      "trust"
+      "shot",
+      2,
+      "anger"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "kill",
@@ -146,6 +171,11 @@
       "production",
       2,
       "anticipation"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
     ],
     [
       "letters",
@@ -223,11 +253,6 @@
       "trust"
     ],
     [
-      "resign",
-      2,
-      "anger"
-    ],
-    [
       "highest",
       2,
       "fear"
@@ -283,11 +308,6 @@
       "fear"
     ],
     [
-      "killing",
-      2,
-      "anger"
-    ],
-    [
       "explosive",
       2,
       "anger"
@@ -318,6 +338,36 @@
       "surprise"
     ],
     [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
+      "vowing",
+      1,
+      "joy"
+    ],
+    [
+      "offensive",
+      1,
+      "anger"
+    ],
+    [
+      "rebels",
+      1,
+      "anger"
+    ],
+    [
+      "ready",
+      1,
+      "anticipation"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
       "row",
       1,
       "anger"
@@ -326,66 +376,16 @@
       "equality",
       1,
       "joy"
-    ],
-    [
-      "elite",
-      1,
-      "joy"
-    ],
-    [
-      "public",
-      1,
-      "anticipation"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "scandals",
-      1,
-      "fear"
-    ],
-    [
-      "breaks",
-      1,
-      "surprise"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "results",
-      1,
-      "anticipation"
-    ],
-    [
-      "developing",
-      1,
-      "anticipation"
-    ],
-    [
-      "typhoon",
-      1,
-      "fear"
-    ],
-    [
-      "storm",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 61,
-    "fear": 72,
+    "joy": 32,
+    "trust": 63,
+    "fear": 73,
     "surprise": 19,
-    "sadness": 10,
+    "sadness": 8,
     "disgust": 4,
-    "anger": 90,
-    "anticipation": 42
+    "anger": 92,
+    "anticipation": 44
   }
 }
