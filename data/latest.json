@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-08-07T12:56:30.714Z",
+  "generated_at": "2026-08-07T13:11:33.222Z",
   "article_count": 50,
   "top_words": [
-    [
-      "official",
-      7,
-      "trust"
-    ],
     [
       "attack",
       6,
@@ -28,7 +23,12 @@
       "fear"
     ],
     [
-      "iran",
+      "official",
+      6,
+      "trust"
+    ],
+    [
+      "deadly",
       5,
       "anger"
     ],
@@ -53,7 +53,7 @@
       "trust"
     ],
     [
-      "deadly",
+      "iran",
       4,
       "anger"
     ],
@@ -154,16 +154,6 @@
     ],
     [
       "military",
-      2,
-      "fear"
-    ],
-    [
-      "kill",
-      2,
-      "fear"
-    ],
-    [
-      "warns",
       2,
       "fear"
     ],
@@ -338,6 +328,16 @@
       "trust"
     ],
     [
+      "pact",
+      1,
+      "trust"
+    ],
+    [
+      "agreement",
+      1,
+      "trust"
+    ],
+    [
       "eviction",
       1,
       "anger"
@@ -380,10 +380,10 @@
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 64,
-    "fear": 71,
+    "trust": 65,
+    "fear": 69,
     "surprise": 15,
-    "sadness": 8,
+    "sadness": 7,
     "disgust": 3,
     "anger": 98,
     "anticipation": 42
