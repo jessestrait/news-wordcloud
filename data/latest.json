@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-08-07T11:40:35.930Z",
+  "generated_at": "2026-08-07T11:55:38.545Z",
   "article_count": 50,
   "top_words": [
-    [
-      "official",
-      7,
-      "trust"
-    ],
     [
       "attack",
       6,
       "anger"
+    ],
+    [
+      "war",
+      6,
+      "anger"
+    ],
+    [
+      "president",
+      6,
+      "trust"
     ],
     [
       "missile",
@@ -18,14 +23,14 @@
       "fear"
     ],
     [
-      "war",
-      5,
-      "anger"
+      "official",
+      6,
+      "trust"
     ],
     [
-      "president",
+      "deadly",
       5,
-      "trust"
+      "anger"
     ],
     [
       "iran",
@@ -33,9 +38,9 @@
       "anger"
     ],
     [
-      "happened",
+      "trump",
       5,
-      "anticipation"
+      "anger"
     ],
     [
       "school",
@@ -48,19 +53,9 @@
       "trust"
     ],
     [
-      "deal",
+      "happened",
       4,
-      "surprise"
-    ],
-    [
-      "hormuz",
-      4,
-      "fear"
-    ],
-    [
-      "deadly",
-      4,
-      "anger"
+      "anticipation"
     ],
     [
       "home",
@@ -76,6 +71,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "deal",
+      3,
+      "surprise"
     ],
     [
       "power",
@@ -98,6 +98,11 @@
       "fear"
     ],
     [
+      "hormuz",
+      3,
+      "fear"
+    ],
+    [
       "bomb",
       3,
       "anger"
@@ -109,11 +114,6 @@
     ],
     [
       "hit",
-      3,
-      "anger"
-    ],
-    [
-      "trump",
       3,
       "anger"
     ],
@@ -136,6 +136,11 @@
       "threat",
       3,
       "anger"
+    ],
+    [
+      "vow",
+      3,
+      "joy"
     ],
     [
       "shooting",
@@ -313,11 +318,6 @@
       "joy"
     ],
     [
-      "vow",
-      2,
-      "joy"
-    ],
-    [
       "university",
       2,
       "anticipation"
@@ -333,59 +333,59 @@
       "surprise"
     ],
     [
+      "gun",
+      1,
+      "anger"
+    ],
+    [
+      "laws",
+      1,
+      "trust"
+    ],
+    [
+      "entangled",
+      1,
+      "anger"
+    ],
+    [
+      "damage",
+      1,
+      "anger"
+    ],
+    [
+      "fear",
+      1,
+      "anger"
+    ],
+    [
+      "bruised",
+      1,
+      "anticipation"
+    ],
+    [
+      "prolong",
+      1,
+      "disgust"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
+    ],
+    [
       "prepares",
       1,
       "anticipation"
-    ],
-    [
-      "vowing",
-      1,
-      "joy"
-    ],
-    [
-      "offensive",
-      1,
-      "anger"
-    ],
-    [
-      "rebels",
-      1,
-      "anger"
-    ],
-    [
-      "ready",
-      1,
-      "anticipation"
-    ],
-    [
-      "fight",
-      1,
-      "anger"
-    ],
-    [
-      "row",
-      1,
-      "anger"
-    ],
-    [
-      "equality",
-      1,
-      "joy"
-    ],
-    [
-      "elite",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 63,
-    "fear": 73,
-    "surprise": 19,
+    "trust": 64,
+    "fear": 72,
+    "surprise": 18,
     "sadness": 8,
-    "disgust": 4,
-    "anger": 90,
-    "anticipation": 44
+    "disgust": 5,
+    "anger": 99,
+    "anticipation": 42
   }
 }
