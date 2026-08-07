@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-07T11:25:33.432Z",
+  "generated_at": "2026-08-07T11:40:35.930Z",
   "article_count": 50,
   "top_words": [
+    [
+      "official",
+      7,
+      "trust"
+    ],
     [
       "attack",
       6,
@@ -11,21 +16,6 @@
       "missile",
       6,
       "fear"
-    ],
-    [
-      "official",
-      6,
-      "trust"
-    ],
-    [
-      "school",
-      5,
-      "trust"
-    ],
-    [
-      "deadly",
-      5,
-      "anger"
     ],
     [
       "war",
@@ -48,6 +38,16 @@
       "anticipation"
     ],
     [
+      "school",
+      4,
+      "trust"
+    ],
+    [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "deal",
       4,
       "surprise"
@@ -58,12 +58,22 @@
       "fear"
     ],
     [
+      "deadly",
+      4,
+      "anger"
+    ],
+    [
       "home",
       4,
       "joy"
     ],
     [
       "suspect",
+      3,
+      "fear"
+    ],
+    [
+      "killed",
       3,
       "fear"
     ],
@@ -101,11 +111,6 @@
       "hit",
       3,
       "anger"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "trump",
@@ -226,11 +231,6 @@
       "global",
       2,
       "anticipation"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "investigation",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 62,
-    "fear": 72,
+    "trust": 63,
+    "fear": 73,
     "surprise": 19,
     "sadness": 8,
     "disgust": 4,
-    "anger": 91,
+    "anger": 90,
     "anticipation": 44
   }
 }
