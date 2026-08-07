@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T03:05:46.852Z",
+  "generated_at": "2026-08-07T03:20:48.805Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,24 @@
       "anger"
     ],
     [
-      "hormuz",
+      "missile",
       6,
       "fear"
     ],
     [
-      "deal",
+      "official",
+      6,
+      "trust"
+    ],
+    [
+      "president",
       5,
-      "surprise"
+      "trust"
+    ],
+    [
+      "hormuz",
+      5,
+      "fear"
     ],
     [
       "happened",
@@ -23,37 +33,27 @@
       "anticipation"
     ],
     [
-      "missile",
+      "attack",
       5,
-      "fear"
+      "anger"
     ],
     [
-      "official",
-      5,
-      "trust"
-    ],
-    [
-      "strait",
-      4,
-      "fear"
-    ],
-    [
-      "president",
-      4,
-      "trust"
-    ],
-    [
-      "people",
-      4,
-      "trust"
-    ],
-    [
-      "trump",
+      "war",
       4,
       "anger"
     ],
     [
+      "deal",
+      4,
+      "surprise"
+    ],
+    [
       "deadly",
+      4,
+      "anger"
+    ],
+    [
+      "strike",
       4,
       "anger"
     ],
@@ -63,9 +63,14 @@
       "joy"
     ],
     [
-      "plan",
-      4,
-      "anticipation"
+      "warns",
+      3,
+      "fear"
+    ],
+    [
+      "strait",
+      3,
+      "fear"
     ],
     [
       "bomb",
@@ -83,12 +88,12 @@
       "anger"
     ],
     [
-      "strike",
+      "people",
       3,
-      "anger"
+      "trust"
     ],
     [
-      "war",
+      "trump",
       3,
       "anger"
     ],
@@ -118,14 +123,19 @@
       "fear"
     ],
     [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
       "school",
       3,
       "trust"
+    ],
+    [
+      "kill",
+      2,
+      "fear"
+    ],
+    [
+      "build",
+      2,
+      "anticipation"
     ],
     [
       "production",
@@ -141,6 +151,11 @@
       "suggests",
       2,
       "trust"
+    ],
+    [
+      "plans",
+      2,
+      "anticipation"
     ],
     [
       "found",
@@ -221,11 +236,6 @@
       "level",
       2,
       "trust"
-    ],
-    [
-      "warns",
-      2,
-      "fear"
     ],
     [
       "surge",
@@ -318,14 +328,24 @@
       "fear"
     ],
     [
-      "progress",
-      2,
-      "joy"
-    ],
-    [
       "victims",
       2,
       "anger"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "results",
+      1,
+      "anticipation"
+    ],
+    [
+      "developing",
+      1,
+      "anticipation"
     ],
     [
       "typhoon",
@@ -356,36 +376,16 @@
       "endowed",
       1,
       "trust"
-    ],
-    [
-      "offering",
-      1,
-      "trust"
-    ],
-    [
-      "chance",
-      1,
-      "surprise"
-    ],
-    [
-      "words",
-      1,
-      "anger"
-    ],
-    [
-      "barricades",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 61,
-    "fear": 72,
-    "surprise": 21,
-    "sadness": 10,
+    "joy": 28,
+    "trust": 60,
+    "fear": 73,
+    "surprise": 18,
+    "sadness": 11,
     "disgust": 4,
-    "anger": 91,
-    "anticipation": 38
+    "anger": 94,
+    "anticipation": 39
   }
 }
