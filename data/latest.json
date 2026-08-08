@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-08T03:19:35.083Z",
+  "generated_at": "2026-08-08T03:34:37.329Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      6,
+      7,
+      "anger"
+    ],
+    [
+      "attack",
+      7,
       "anger"
     ],
     [
       "president",
       6,
       "trust"
-    ],
-    [
-      "attack",
-      6,
-      "anger"
     ],
     [
       "missile",
@@ -43,24 +43,14 @@
       "anger"
     ],
     [
-      "school",
+      "hit",
       4,
-      "trust"
-    ],
-    [
-      "homes",
-      4,
-      "joy"
+      "anger"
     ],
     [
       "iran",
       4,
       "anger"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "operation",
@@ -83,6 +73,11 @@
       "anger"
     ],
     [
+      "school",
+      3,
+      "trust"
+    ],
+    [
       "suspect",
       3,
       "fear"
@@ -98,6 +93,11 @@
       "trust"
     ],
     [
+      "homes",
+      3,
+      "joy"
+    ],
+    [
       "deal",
       3,
       "surprise"
@@ -106,11 +106,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "authorities",
-      3,
-      "trust"
     ],
     [
       "forced",
@@ -133,11 +128,6 @@
       "fear"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "strike",
       3,
       "anger"
@@ -156,6 +146,11 @@
       "vow",
       3,
       "joy"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "convicted",
@@ -181,6 +176,11 @@
       "house",
       2,
       "joy"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
     ],
     [
       "build",
@@ -283,11 +283,6 @@
       "trust"
     ],
     [
-      "food",
-      2,
-      "joy"
-    ],
-    [
       "wildfire",
       2,
       "fear"
@@ -306,6 +301,16 @@
       "soldier",
       2,
       "anger"
+    ],
+    [
+      "evacuated",
+      1,
+      "fear"
+    ],
+    [
+      "giant",
+      1,
+      "fear"
     ],
     [
       "grieving",
@@ -371,21 +376,16 @@
       "fight",
       1,
       "anger"
-    ],
-    [
-      "gun",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 62,
-    "fear": 71,
+    "joy": 28,
+    "trust": 58,
+    "fear": 72,
     "surprise": 13,
     "sadness": 5,
     "disgust": 4,
-    "anger": 101,
+    "anger": 104,
     "anticipation": 43
   }
 }
