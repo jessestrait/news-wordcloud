@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-08T04:50:29.189Z",
+  "generated_at": "2026-08-08T05:05:31.163Z",
   "article_count": 50,
   "top_words": [
+    [
+      "trump",
+      6,
+      "anger"
+    ],
     [
       "war",
       6,
@@ -38,11 +43,6 @@
       "anticipation"
     ],
     [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
       "missile",
       5,
       "fear"
@@ -61,6 +61,16 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
+    ],
+    [
+      "authorities",
+      3,
+      "trust"
     ],
     [
       "hit",
@@ -128,9 +138,9 @@
       "joy"
     ],
     [
-      "government",
+      "prepares",
       2,
-      "fear"
+      "anticipation"
     ],
     [
       "shows",
@@ -146,11 +156,6 @@
       "shooting",
       2,
       "anger"
-    ],
-    [
-      "suspected",
-      2,
-      "fear"
     ],
     [
       "fire",
@@ -193,9 +198,9 @@
       "joy"
     ],
     [
-      "authorities",
+      "fear",
       2,
-      "trust"
+      "anger"
     ],
     [
       "build",
@@ -258,11 +263,6 @@
       "anticipation"
     ],
     [
-      "highest",
-      2,
-      "fear"
-    ],
-    [
       "level",
       2,
       "trust"
@@ -313,8 +313,33 @@
       "anger"
     ],
     [
-      "university",
-      2,
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "blankets",
+      1,
+      "trust"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
+    ],
+    [
+      "brutal",
+      1,
+      "anger"
+    ],
+    [
+      "crossing",
+      1,
+      "anger"
+    ],
+    [
+      "happen",
+      1,
       "anticipation"
     ],
     [
@@ -351,41 +376,16 @@
       "loved",
       1,
       "joy"
-    ],
-    [
-      "tragedy",
-      1,
-      "fear"
-    ],
-    [
-      "ice",
-      1,
-      "fear"
-    ],
-    [
-      "preparing",
-      1,
-      "anticipation"
-    ],
-    [
-      "murder",
-      1,
-      "anger"
-    ],
-    [
-      "court",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 56,
-    "fear": 77,
+    "trust": 57,
+    "fear": 76,
     "surprise": 12,
     "sadness": 6,
     "disgust": 4,
-    "anger": 97,
-    "anticipation": 42
+    "anger": 101,
+    "anticipation": 41
   }
 }
