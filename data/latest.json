@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T19:58:26.489Z",
+  "generated_at": "2026-08-08T20:13:28.637Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,19 +43,34 @@
       "trust"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "missile",
       5,
       "fear"
     ],
     [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "deadly",
       4,
       "anger"
+    ],
+    [
+      "global",
+      3,
+      "anticipation"
+    ],
+    [
+      "shows",
+      3,
+      "trust"
     ],
     [
       "government",
@@ -66,11 +81,6 @@
       "authorities",
       3,
       "trust"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "operation",
@@ -118,11 +128,6 @@
       "anger"
     ],
     [
-      "airport",
-      3,
-      "anticipation"
-    ],
-    [
       "threat",
       3,
       "anger"
@@ -131,11 +136,6 @@
       "prepares",
       2,
       "anticipation"
-    ],
-    [
-      "shows",
-      2,
-      "trust"
     ],
     [
       "convicted",
@@ -258,16 +258,6 @@
       "anger"
     ],
     [
-      "global",
-      2,
-      "anticipation"
-    ],
-    [
-      "investigation",
-      2,
-      "anticipation"
-    ],
-    [
       "level",
       2,
       "trust"
@@ -288,9 +278,9 @@
       "joy"
     ],
     [
-      "incident",
+      "airport",
       2,
-      "surprise"
+      "anticipation"
     ],
     [
       "guarantee",
@@ -303,9 +293,39 @@
       "fear"
     ],
     [
-      "explosive",
-      2,
+      "flu",
+      1,
+      "fear"
+    ],
+    [
+      "suffering",
+      1,
+      "fear"
+    ],
+    [
+      "wild",
+      1,
+      "surprise"
+    ],
+    [
+      "mortalities",
+      1,
       "anger"
+    ],
+    [
+      "risk",
+      1,
+      "fear"
+    ],
+    [
+      "loss",
+      1,
+      "anger"
+    ],
+    [
+      "based",
+      1,
+      "trust"
     ],
     [
       "world",
@@ -356,36 +376,16 @@
       "celestial",
       1,
       "joy"
-    ],
-    [
-      "challenges",
-      1,
-      "anger"
-    ],
-    [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "blankets",
-      1,
-      "trust"
-    ],
-    [
-      "struggle",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 57,
-    "fear": 73,
+    "trust": 59,
+    "fear": 76,
     "surprise": 12,
     "sadness": 6,
     "disgust": 4,
-    "anger": 103,
-    "anticipation": 41
+    "anger": 104,
+    "anticipation": 38
   }
 }
