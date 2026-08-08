@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:51:43.992Z",
+  "generated_at": "2026-08-08T07:06:45.837Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,11 +103,6 @@
       "surprise"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "forced",
       3,
       "fear"
@@ -131,11 +126,6 @@
       "airport",
       3,
       "anticipation"
-    ],
-    [
-      "vow",
-      3,
-      "joy"
     ],
     [
       "prepares",
@@ -178,6 +168,11 @@
       "fear"
     ],
     [
+      "vows",
+      2,
+      "joy"
+    ],
+    [
       "death",
       2,
       "sadness"
@@ -201,6 +196,11 @@
       "fear",
       2,
       "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "build",
@@ -313,6 +313,21 @@
       "anger"
     ],
     [
+      "mountain",
+      1,
+      "anticipation"
+    ],
+    [
+      "celestial",
+      1,
+      "joy"
+    ],
+    [
+      "challenges",
+      1,
+      "anger"
+    ],
+    [
       "warning",
       1,
       "fear"
@@ -361,31 +376,16 @@
       "evacuated",
       1,
       "fear"
-    ],
-    [
-      "giant",
-      1,
-      "fear"
-    ],
-    [
-      "grieving",
-      1,
-      "fear"
-    ],
-    [
-      "loved",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 57,
+    "joy": 26,
+    "trust": 56,
     "fear": 76,
     "surprise": 12,
-    "sadness": 6,
+    "sadness": 5,
     "disgust": 4,
-    "anger": 101,
+    "anger": 100,
     "anticipation": 41
   }
 }
