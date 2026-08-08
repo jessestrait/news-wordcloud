@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:49:56.347Z",
+  "generated_at": "2026-08-08T04:04:58.397Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,11 +78,6 @@
       "disgust"
     ],
     [
-      "shows",
-      3,
-      "trust"
-    ],
-    [
       "killing",
       3,
       "anger"
@@ -136,6 +131,11 @@
       "government",
       2,
       "fear"
+    ],
+    [
+      "shows",
+      2,
+      "trust"
     ],
     [
       "convicted",
@@ -318,6 +318,21 @@
       "anticipation"
     ],
     [
+      "poll",
+      1,
+      "trust"
+    ],
+    [
+      "worse",
+      1,
+      "fear"
+    ],
+    [
+      "share",
+      1,
+      "joy"
+    ],
+    [
       "evacuated",
       1,
       "fear"
@@ -361,31 +376,16 @@
       "court",
       1,
       "anger"
-    ],
-    [
-      "wounded",
-      1,
-      "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
-    ],
-    [
-      "vowing",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 59,
-    "fear": 76,
+    "joy": 28,
+    "trust": 56,
+    "fear": 77,
     "surprise": 12,
     "sadness": 6,
     "disgust": 4,
-    "anger": 98,
+    "anger": 97,
     "anticipation": 42
   }
 }
