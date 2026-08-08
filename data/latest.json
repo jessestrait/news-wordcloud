@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T10:53:54.136Z",
+  "generated_at": "2026-08-08T11:08:56.634Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "anger"
     ],
     [
-      "official",
-      6,
-      "trust"
-    ],
-    [
       "iran",
       5,
       "anger"
@@ -43,6 +38,11 @@
       "fear"
     ],
     [
+      "officials",
+      5,
+      "trust"
+    ],
+    [
       "happened",
       5,
       "anticipation"
@@ -50,11 +50,6 @@
     [
       "missile",
       5,
-      "fear"
-    ],
-    [
-      "police",
-      4,
       "fear"
     ],
     [
@@ -151,6 +146,11 @@
       "shooting",
       2,
       "anger"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "fire",
@@ -308,6 +308,36 @@
       "anger"
     ],
     [
+      "world",
+      1,
+      "trust"
+    ],
+    [
+      "spooks",
+      1,
+      "fear"
+    ],
+    [
+      "quiet",
+      1,
+      "sadness"
+    ],
+    [
+      "secret",
+      1,
+      "trust"
+    ],
+    [
+      "intelligence",
+      1,
+      "fear"
+    ],
+    [
+      "top",
+      1,
+      "trust"
+    ],
+    [
       "enemy",
       1,
       "anger"
@@ -346,46 +376,16 @@
       "struggle",
       1,
       "anger"
-    ],
-    [
-      "brutal",
-      1,
-      "anger"
-    ],
-    [
-      "crossing",
-      1,
-      "anger"
-    ],
-    [
-      "happen",
-      1,
-      "anticipation"
-    ],
-    [
-      "poll",
-      1,
-      "trust"
-    ],
-    [
-      "worse",
-      1,
-      "fear"
-    ],
-    [
-      "share",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 57,
-    "fear": 75,
+    "fear": 73,
     "surprise": 12,
-    "sadness": 5,
+    "sadness": 6,
     "disgust": 4,
-    "anger": 105,
+    "anger": 103,
     "anticipation": 41
   }
 }
