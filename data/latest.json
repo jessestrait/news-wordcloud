@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:47:40.680Z",
+  "generated_at": "2026-08-08T00:02:42.929Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "trust"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "homes",
       4,
       "joy"
@@ -96,6 +91,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "deal",
@@ -223,16 +223,6 @@
       "anger"
     ],
     [
-      "anxious",
-      2,
-      "fear"
-    ],
-    [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "building",
       2,
       "anticipation"
@@ -318,6 +308,21 @@
       "anger"
     ],
     [
+      "grieving",
+      1,
+      "fear"
+    ],
+    [
+      "loved",
+      1,
+      "joy"
+    ],
+    [
+      "tragedy",
+      1,
+      "fear"
+    ],
+    [
       "ice",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "gun",
       1,
       "anger"
-    ],
-    [
-      "laws",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 64,
+    "joy": 30,
+    "trust": 62,
     "fear": 71,
-    "surprise": 14,
-    "sadness": 6,
+    "surprise": 13,
+    "sadness": 5,
     "disgust": 4,
-    "anger": 102,
-    "anticipation": 44
+    "anger": 101,
+    "anticipation": 43
   }
 }
