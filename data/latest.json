@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:40:11.499Z",
+  "generated_at": "2026-08-09T18:55:13.853Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,14 +63,14 @@
       "anger"
     ],
     [
-      "public",
-      3,
-      "anticipation"
-    ],
-    [
       "vows",
       3,
       "joy"
+    ],
+    [
+      "public",
+      3,
+      "anticipation"
     ],
     [
       "global",
@@ -273,11 +273,6 @@
       "anticipation"
     ],
     [
-      "withdraw",
-      1,
-      "sadness"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -286,6 +281,11 @@
       "hailed",
       1,
       "trust"
+    ],
+    [
+      "withdraw",
+      1,
+      "sadness"
     ],
     [
       "flee",
