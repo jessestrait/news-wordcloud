@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T17:54:48.243Z",
+  "generated_at": "2026-08-09T18:09:50.606Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,12 +13,12 @@
       "anger"
     ],
     [
-      "president",
-      8,
+      "school",
+      7,
       "trust"
     ],
     [
-      "school",
+      "president",
       7,
       "trust"
     ],
@@ -43,19 +43,14 @@
       "trust"
     ],
     [
-      "global",
+      "government",
       4,
-      "anticipation"
+      "fear"
     ],
     [
       "shooting",
       4,
       "anger"
-    ],
-    [
-      "missile",
-      4,
-      "fear"
     ],
     [
       "killed",
@@ -83,11 +78,6 @@
       "joy"
     ],
     [
-      "crime",
-      3,
-      "anger"
-    ],
-    [
       "ship",
       3,
       "anticipation"
@@ -113,9 +103,9 @@
       "anger"
     ],
     [
-      "government",
+      "global",
       3,
-      "fear"
+      "anticipation"
     ],
     [
       "happened",
@@ -126,6 +116,11 @@
       "build",
       3,
       "anticipation"
+    ],
+    [
+      "hostages",
+      2,
+      "anger"
     ],
     [
       "gaza",
@@ -148,9 +143,14 @@
       "trust"
     ],
     [
-      "game",
+      "crime",
       2,
-      "anticipation"
+      "anger"
+    ],
+    [
+      "bomb",
+      2,
+      "anger"
     ],
     [
       "public",
@@ -183,6 +183,11 @@
       "fear"
     ],
     [
+      "missile",
+      2,
+      "fear"
+    ],
+    [
       "prepares",
       2,
       "anticipation"
@@ -193,14 +198,14 @@
       "anger"
     ],
     [
-      "ally",
-      2,
-      "trust"
-    ],
-    [
       "operation",
       2,
       "fear"
+    ],
+    [
+      "court",
+      2,
+      "anger"
     ],
     [
       "convicted",
@@ -238,11 +243,6 @@
       "anticipation"
     ],
     [
-      "production",
-      2,
-      "anticipation"
-    ],
-    [
       "letters",
       2,
       "anticipation"
@@ -251,6 +251,41 @@
       "strike",
       2,
       "anger"
+    ],
+    [
+      "honeymoon",
+      1,
+      "surprise"
+    ],
+    [
+      "surprise",
+      1,
+      "fear"
+    ],
+    [
+      "cabinet",
+      1,
+      "trust"
+    ],
+    [
+      "thought",
+      1,
+      "anticipation"
+    ],
+    [
+      "safe",
+      1,
+      "joy"
+    ],
+    [
+      "book",
+      1,
+      "trust"
+    ],
+    [
+      "holiday",
+      1,
+      "joy"
     ],
     [
       "middle",
@@ -298,14 +333,24 @@
       "fear"
     ],
     [
-      "boxing",
+      "arrived",
+      1,
+      "anticipation"
+    ],
+    [
+      "proof",
+      1,
+      "trust"
+    ],
+    [
+      "criminal",
       1,
       "anger"
     ],
     [
-      "exile",
+      "justice",
       1,
-      "anger"
+      "trust"
     ],
     [
       "trust",
@@ -331,61 +376,16 @@
       "family",
       1,
       "joy"
-    ],
-    [
-      "denied",
-      1,
-      "sadness"
-    ],
-    [
-      "asylum",
-      1,
-      "fear"
-    ],
-    [
-      "reprisals",
-      1,
-      "anger"
-    ],
-    [
-      "persecuted",
-      1,
-      "anger"
-    ],
-    [
-      "convince",
-      1,
-      "trust"
-    ],
-    [
-      "general",
-      1,
-      "trust"
-    ],
-    [
-      "blame",
-      1,
-      "anger"
-    ],
-    [
-      "shady",
-      1,
-      "fear"
-    ],
-    [
-      "vision",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 63,
-    "fear": 69,
+    "joy": 28,
+    "trust": 64,
+    "fear": 66,
     "surprise": 11,
     "sadness": 11,
     "disgust": 1,
     "anger": 104,
-    "anticipation": 41
+    "anticipation": 40
   }
 }
