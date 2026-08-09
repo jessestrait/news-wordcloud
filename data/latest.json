@@ -1,19 +1,24 @@
 {
-  "generated_at": "2026-08-09T03:17:27.429Z",
+  "generated_at": "2026-08-09T03:32:29.442Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      7,
+      8,
       "anger"
     ],
     [
       "trump",
-      7,
+      8,
       "anger"
     ],
     [
       "president",
+      8,
+      "trust"
+    ],
+    [
+      "school",
       7,
       "trust"
     ],
@@ -24,13 +29,13 @@
     ],
     [
       "iran",
-      5,
+      6,
       "anger"
     ],
     [
-      "school",
+      "missile",
       5,
-      "trust"
+      "fear"
     ],
     [
       "killed",
@@ -43,14 +48,24 @@
       "trust"
     ],
     [
-      "missile",
-      5,
+      "shooting",
+      4,
+      "anger"
+    ],
+    [
+      "police",
+      4,
       "fear"
     ],
     [
-      "hit",
+      "hormuz",
       4,
-      "anger"
+      "fear"
+    ],
+    [
+      "deal",
+      4,
+      "surprise"
     ],
     [
       "happened",
@@ -60,6 +75,16 @@
     [
       "deadly",
       4,
+      "anger"
+    ],
+    [
+      "strait",
+      3,
+      "fear"
+    ],
+    [
+      "hit",
+      3,
       "anger"
     ],
     [
@@ -78,24 +103,9 @@
       "fear"
     ],
     [
-      "authorities",
+      "vows",
       3,
-      "trust"
-    ],
-    [
-      "operation",
-      3,
-      "fear"
-    ],
-    [
-      "media",
-      3,
-      "disgust"
-    ],
-    [
-      "killing",
-      3,
-      "anger"
+      "joy"
     ],
     [
       "suspect",
@@ -103,29 +113,9 @@
       "fear"
     ],
     [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "forced",
       3,
       "fear"
-    ],
-    [
-      "hormuz",
-      3,
-      "fear"
-    ],
-    [
-      "bomb",
-      3,
-      "anger"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "threat",
@@ -133,24 +123,49 @@
       "anger"
     ],
     [
+      "black",
+      2,
+      "sadness"
+    ],
+    [
+      "ships",
+      2,
+      "anticipation"
+    ],
+    [
       "prepares",
       2,
       "anticipation"
     ],
     [
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
+      "crackdown",
+      2,
+      "anger"
+    ],
+    [
+      "ally",
+      2,
+      "trust"
+    ],
+    [
+      "operation",
+      2,
+      "fear"
+    ],
+    [
+      "media",
+      2,
+      "disgust"
+    ],
+    [
       "convicted",
       2,
       "anger"
-    ],
-    [
-      "shooting",
-      2,
-      "anger"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "fire",
@@ -168,24 +183,9 @@
       "trust"
     ],
     [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
-      "vows",
-      2,
-      "joy"
-    ],
-    [
       "death",
       2,
       "sadness"
-    ],
-    [
-      "kill",
-      2,
-      "fear"
     ],
     [
       "house",
@@ -218,11 +218,6 @@
       "anticipation"
     ],
     [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
       "letters",
       2,
       "anticipation"
@@ -236,6 +231,11 @@
       "plans",
       2,
       "anticipation"
+    ],
+    [
+      "bomb",
+      2,
+      "anger"
     ],
     [
       "found",
@@ -258,17 +258,12 @@
       "anger"
     ],
     [
-      "level",
-      2,
-      "trust"
-    ],
-    [
-      "shoot",
+      "strike",
       2,
       "anger"
     ],
     [
-      "continue",
+      "level",
       2,
       "trust"
     ],
@@ -291,6 +286,41 @@
       "wildfire",
       2,
       "fear"
+    ],
+    [
+      "dies",
+      1,
+      "fear"
+    ],
+    [
+      "treated",
+      1,
+      "anger"
+    ],
+    [
+      "hospital",
+      1,
+      "fear"
+    ],
+    [
+      "calls",
+      1,
+      "trust"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
+    ],
+    [
+      "tough",
+      1,
+      "sadness"
+    ],
+    [
+      "demands",
+      1,
+      "anger"
     ],
     [
       "flu",
@@ -346,46 +376,16 @@
       "secret",
       1,
       "trust"
-    ],
-    [
-      "intelligence",
-      1,
-      "fear"
-    ],
-    [
-      "top",
-      1,
-      "trust"
-    ],
-    [
-      "enemy",
-      1,
-      "anger"
-    ],
-    [
-      "analysts",
-      1,
-      "trust"
-    ],
-    [
-      "mountain",
-      1,
-      "anticipation"
-    ],
-    [
-      "celestial",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 59,
-    "fear": 76,
-    "surprise": 12,
-    "sadness": 6,
-    "disgust": 4,
+    "joy": 28,
+    "trust": 61,
+    "fear": 78,
+    "surprise": 13,
+    "sadness": 9,
+    "disgust": 3,
     "anger": 104,
-    "anticipation": 38
+    "anticipation": 39
   }
 }
