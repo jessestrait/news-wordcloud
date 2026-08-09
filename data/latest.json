@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:55:53.332Z",
+  "generated_at": "2026-08-09T20:10:55.413Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      7,
+      8,
       "anger"
     ],
     [
@@ -63,14 +63,14 @@
       "anger"
     ],
     [
-      "vows",
-      3,
-      "joy"
-    ],
-    [
       "public",
       3,
       "anticipation"
+    ],
+    [
+      "vows",
+      3,
+      "joy"
     ],
     [
       "global",
@@ -273,6 +273,11 @@
       "anticipation"
     ],
     [
+      "withdraw",
+      1,
+      "sadness"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -281,11 +286,6 @@
       "hailed",
       1,
       "trust"
-    ],
-    [
-      "withdraw",
-      1,
-      "sadness"
     ],
     [
       "flee",
@@ -385,7 +385,7 @@
     "surprise": 12,
     "sadness": 11,
     "disgust": 1,
-    "anger": 103,
+    "anger": 104,
     "anticipation": 41
   }
 }
