@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:09:50.606Z",
+  "generated_at": "2026-08-09T18:24:52.771Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,14 +38,14 @@
       "anger"
     ],
     [
-      "shows",
-      4,
-      "trust"
-    ],
-    [
       "government",
       4,
       "fear"
+    ],
+    [
+      "shows",
+      4,
+      "trust"
     ],
     [
       "shooting",
@@ -58,14 +58,19 @@
       "fear"
     ],
     [
-      "officials",
-      4,
-      "trust"
-    ],
-    [
       "deadly",
       4,
       "anger"
+    ],
+    [
+      "crime",
+      3,
+      "anger"
+    ],
+    [
+      "global",
+      3,
+      "anticipation"
     ],
     [
       "plan",
@@ -103,9 +108,9 @@
       "anger"
     ],
     [
-      "global",
+      "officials",
       3,
-      "anticipation"
+      "trust"
     ],
     [
       "happened",
@@ -118,12 +123,27 @@
       "anticipation"
     ],
     [
-      "hostages",
+      "wildfires",
+      2,
+      "fear"
+    ],
+    [
+      "force",
       2,
       "anger"
     ],
     [
+      "game",
+      2,
+      "anticipation"
+    ],
+    [
       "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "hostages",
       2,
       "anger"
     ],
@@ -141,16 +161,6 @@
       "based",
       2,
       "trust"
-    ],
-    [
-      "crime",
-      2,
-      "anger"
-    ],
-    [
-      "bomb",
-      2,
-      "anger"
     ],
     [
       "public",
@@ -203,14 +213,14 @@
       "fear"
     ],
     [
-      "court",
+      "convicted",
       2,
       "anger"
     ],
     [
-      "convicted",
+      "fire",
       2,
-      "anger"
+      "fear"
     ],
     [
       "military",
@@ -253,6 +263,46 @@
       "anger"
     ],
     [
+      "flee",
+      1,
+      "fear"
+    ],
+    [
+      "battling",
+      1,
+      "anger"
+    ],
+    [
+      "alleged",
+      1,
+      "fear"
+    ],
+    [
+      "boxing",
+      1,
+      "anger"
+    ],
+    [
+      "exile",
+      1,
+      "anger"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "rejects",
+      1,
+      "anger"
+    ],
+    [
+      "hailed",
+      1,
+      "trust"
+    ],
+    [
       "honeymoon",
       1,
       "surprise"
@@ -288,21 +338,6 @@
       "joy"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "hailed",
-      1,
-      "trust"
-    ],
-    [
       "condemns",
       1,
       "anger"
@@ -328,31 +363,6 @@
       "fear"
     ],
     [
-      "alleged",
-      1,
-      "fear"
-    ],
-    [
-      "arrived",
-      1,
-      "anticipation"
-    ],
-    [
-      "proof",
-      1,
-      "trust"
-    ],
-    [
-      "criminal",
-      1,
-      "anger"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
-    ],
-    [
       "trust",
       1,
       "trust"
@@ -366,24 +376,14 @@
       "prison",
       1,
       "anger"
-    ],
-    [
-      "nightmare",
-      1,
-      "fear"
-    ],
-    [
-      "family",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 64,
-    "fear": 66,
+    "joy": 27,
+    "trust": 58,
+    "fear": 67,
     "surprise": 11,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 1,
     "anger": 104,
     "anticipation": 40
