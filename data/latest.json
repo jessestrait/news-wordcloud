@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-09T12:06:44.437Z",
+  "generated_at": "2026-08-09T12:21:46.971Z",
   "article_count": 50,
   "top_words": [
     [
-      "war",
-      10,
+      "trump",
+      9,
       "anger"
     ],
     [
-      "trump",
-      8,
+      "war",
+      9,
       "anger"
     ],
     [
@@ -23,11 +23,6 @@
       "trust"
     ],
     [
-      "iran",
-      6,
-      "anger"
-    ],
-    [
       "attack",
       6,
       "anger"
@@ -38,6 +33,11 @@
       "fear"
     ],
     [
+      "iran",
+      5,
+      "anger"
+    ],
+    [
       "missile",
       5,
       "fear"
@@ -46,6 +46,11 @@
       "officials",
       5,
       "trust"
+    ],
+    [
+      "global",
+      4,
+      "anticipation"
     ],
     [
       "shooting",
@@ -63,14 +68,19 @@
       "anger"
     ],
     [
-      "hormuz",
+      "plan",
       3,
-      "fear"
+      "anticipation"
     ],
     [
-      "strait",
+      "vows",
       3,
-      "fear"
+      "joy"
+    ],
+    [
+      "crime",
+      3,
+      "anger"
     ],
     [
       "ship",
@@ -98,11 +108,6 @@
       "anger"
     ],
     [
-      "global",
-      3,
-      "anticipation"
-    ],
-    [
       "shows",
       3,
       "trust"
@@ -120,6 +125,16 @@
     [
       "build",
       3,
+      "anticipation"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "game",
+      2,
       "anticipation"
     ],
     [
@@ -143,6 +158,16 @@
       "sadness"
     ],
     [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "hormuz",
+      2,
+      "fear"
+    ],
+    [
       "prepares",
       2,
       "anticipation"
@@ -156,11 +181,6 @@
       "ally",
       2,
       "trust"
-    ],
-    [
-      "vows",
-      2,
-      "joy"
     ],
     [
       "operation",
@@ -228,19 +248,9 @@
       "anger"
     ],
     [
-      "level",
-      2,
-      "trust"
-    ],
-    [
       "calf",
       2,
       "joy"
-    ],
-    [
-      "threat",
-      2,
-      "anger"
     ],
     [
       "middle",
@@ -248,9 +258,29 @@
       "sadness"
     ],
     [
-      "guards",
+      "rejects",
+      1,
+      "anger"
+    ],
+    [
+      "hailed",
+      1,
+      "trust"
+    ],
+    [
+      "alleged",
       1,
       "fear"
+    ],
+    [
+      "boxing",
+      1,
+      "anger"
+    ],
+    [
+      "exile",
+      1,
+      "anger"
     ],
     [
       "trust",
@@ -313,11 +343,6 @@
       "anger"
     ],
     [
-      "game",
-      1,
-      "anticipation"
-    ],
-    [
       "shady",
       1,
       "fear"
@@ -351,41 +376,16 @@
       "treated",
       1,
       "anger"
-    ],
-    [
-      "hospital",
-      1,
-      "fear"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "tough",
-      1,
-      "sadness"
-    ],
-    [
-      "demands",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 62,
-    "fear": 76,
-    "surprise": 12,
+    "joy": 27,
+    "trust": 61,
+    "fear": 73,
+    "surprise": 11,
     "sadness": 11,
-    "disgust": 2,
-    "anger": 101,
-    "anticipation": 39
+    "disgust": 1,
+    "anger": 103,
+    "anticipation": 42
   }
 }
