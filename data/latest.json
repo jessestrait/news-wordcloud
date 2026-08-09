@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-09T14:53:21.774Z",
+  "generated_at": "2026-08-09T15:08:23.779Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      10,
+      9,
       "anger"
     ],
     [
       "war",
-      9,
+      8,
       "anger"
     ],
     [
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "missile",
-      5,
-      "fear"
-    ],
-    [
       "shows",
       4,
       "trust"
@@ -56,6 +51,11 @@
       "shooting",
       4,
       "anger"
+    ],
+    [
+      "missile",
+      4,
+      "fear"
     ],
     [
       "killed",
@@ -128,6 +128,16 @@
       "anticipation"
     ],
     [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "row",
+      2,
+      "anger"
+    ],
+    [
       "accounts",
       2,
       "trust"
@@ -136,11 +146,6 @@
       "based",
       2,
       "trust"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
     ],
     [
       "game",
@@ -233,11 +238,6 @@
       "anticipation"
     ],
     [
-      "forced",
-      2,
-      "fear"
-    ],
-    [
       "production",
       2,
       "anticipation"
@@ -248,19 +248,9 @@
       "anticipation"
     ],
     [
-      "building",
-      2,
-      "anticipation"
-    ],
-    [
       "strike",
       2,
       "anger"
-    ],
-    [
-      "unrest",
-      1,
-      "fear"
     ],
     [
       "middle",
@@ -276,6 +266,41 @@
       "hailed",
       1,
       "trust"
+    ],
+    [
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
+      "unacceptable",
+      1,
+      "sadness"
+    ],
+    [
+      "ongoing",
+      1,
+      "anticipation"
+    ],
+    [
+      "retaliatory",
+      1,
+      "anger"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "visitors",
+      1,
+      "joy"
+    ],
+    [
+      "unrest",
+      1,
+      "fear"
     ],
     [
       "alleged",
@@ -351,41 +376,16 @@
       "blame",
       1,
       "anger"
-    ],
-    [
-      "shady",
-      1,
-      "fear"
-    ],
-    [
-      "vision",
-      1,
-      "anticipation"
-    ],
-    [
-      "heart",
-      1,
-      "joy"
-    ],
-    [
-      "wrangling",
-      1,
-      "anger"
-    ],
-    [
-      "rising",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 64,
-    "fear": 72,
+    "fear": 69,
     "surprise": 11,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 1,
-    "anger": 103,
+    "anger": 104,
     "anticipation": 42
   }
 }
