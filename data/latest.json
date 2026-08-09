@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-09T20:41:18.827Z",
+  "generated_at": "2026-08-09T20:56:21.158Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      10,
+      9,
       "anger"
     ],
     [
@@ -38,7 +38,7 @@
       "anger"
     ],
     [
-      "plan",
+      "happened",
       4,
       "anticipation"
     ],
@@ -61,6 +61,11 @@
       "gaza",
       3,
       "anger"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "public",
@@ -116,11 +121,6 @@
       "officials",
       3,
       "trust"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "build",
@@ -278,16 +278,6 @@
       "sadness"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "hailed",
-      1,
-      "trust"
-    ],
-    [
       "flee",
       1,
       "fear"
@@ -376,16 +366,26 @@
       "trust",
       1,
       "trust"
+    ],
+    [
+      "lost",
+      1,
+      "sadness"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 56,
+    "trust": 55,
     "fear": 65,
     "surprise": 12,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 1,
-    "anger": 104,
+    "anger": 103,
     "anticipation": 41
   }
 }
