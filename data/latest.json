@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T14:07:58.736Z",
+  "generated_at": "2026-08-09T14:23:01.257Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,8 +43,8 @@
       "fear"
     ],
     [
-      "officials",
-      5,
+      "shows",
+      4,
       "trust"
     ],
     [
@@ -61,6 +61,11 @@
       "killed",
       4,
       "fear"
+    ],
+    [
+      "officials",
+      4,
+      "trust"
     ],
     [
       "deadly",
@@ -108,11 +113,6 @@
       "anger"
     ],
     [
-      "shows",
-      3,
-      "trust"
-    ],
-    [
       "government",
       3,
       "fear"
@@ -126,6 +126,16 @@
       "build",
       3,
       "anticipation"
+    ],
+    [
+      "accounts",
+      2,
+      "trust"
+    ],
+    [
+      "based",
+      2,
+      "trust"
     ],
     [
       "gaza",
@@ -248,9 +258,9 @@
       "anger"
     ],
     [
-      "calf",
-      2,
-      "joy"
+      "unrest",
+      1,
+      "fear"
     ],
     [
       "middle",
@@ -366,26 +376,16 @@
       "rising",
       1,
       "joy"
-    ],
-    [
-      "dies",
-      1,
-      "fear"
-    ],
-    [
-      "treated",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 61,
-    "fear": 73,
+    "joy": 25,
+    "trust": 64,
+    "fear": 72,
     "surprise": 11,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 1,
-    "anger": 104,
+    "anger": 103,
     "anticipation": 42
   }
 }
