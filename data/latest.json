@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T09:50:31.640Z",
+  "generated_at": "2026-08-09T10:05:33.461Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,19 +18,24 @@
       "trust"
     ],
     [
-      "iran",
-      7,
-      "anger"
-    ],
-    [
       "school",
       7,
       "trust"
     ],
     [
+      "iran",
+      6,
+      "anger"
+    ],
+    [
       "attack",
       6,
       "anger"
+    ],
+    [
+      "police",
+      5,
+      "fear"
     ],
     [
       "missile",
@@ -46,21 +51,6 @@
       "shooting",
       4,
       "anger"
-    ],
-    [
-      "police",
-      4,
-      "fear"
-    ],
-    [
-      "hormuz",
-      4,
-      "fear"
-    ],
-    [
-      "deal",
-      4,
-      "surprise"
     ],
     [
       "killed",
@@ -98,6 +88,16 @@
       "fear"
     ],
     [
+      "hormuz",
+      3,
+      "fear"
+    ],
+    [
+      "deal",
+      3,
+      "surprise"
+    ],
+    [
       "hit",
       3,
       "anger"
@@ -121,6 +121,16 @@
       "build",
       3,
       "anticipation"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
+      "scandals",
+      2,
+      "fear"
     ],
     [
       "crews",
@@ -233,9 +243,14 @@
       "anger"
     ],
     [
-      "guarantee",
-      2,
+      "trust",
+      1,
       "trust"
+    ],
+    [
+      "lost",
+      1,
+      "sadness"
     ],
     [
       "prison",
@@ -361,31 +376,16 @@
       "suffering",
       1,
       "fear"
-    ],
-    [
-      "wild",
-      1,
-      "surprise"
-    ],
-    [
-      "mortalities",
-      1,
-      "anger"
-    ],
-    [
-      "risk",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 65,
-    "fear": 74,
-    "surprise": 13,
+    "trust": 63,
+    "fear": 75,
+    "surprise": 12,
     "sadness": 10,
     "disgust": 2,
-    "anger": 101,
-    "anticipation": 40
+    "anger": 100,
+    "anticipation": 41
   }
 }
