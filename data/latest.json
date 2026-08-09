@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-09T18:25:09.110Z",
+  "generated_at": "2026-08-09T18:40:11.499Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      9,
+      10,
       "anger"
     ],
     [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -38,14 +38,14 @@
       "anger"
     ],
     [
+      "plan",
+      4,
+      "anticipation"
+    ],
+    [
       "government",
       4,
       "fear"
-    ],
-    [
-      "shows",
-      4,
-      "trust"
     ],
     [
       "shooting",
@@ -53,27 +53,17 @@
       "anger"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "deadly",
       4,
       "anger"
     ],
     [
-      "crime",
+      "gaza",
       3,
       "anger"
     ],
     [
-      "global",
-      3,
-      "anticipation"
-    ],
-    [
-      "plan",
+      "public",
       3,
       "anticipation"
     ],
@@ -81,6 +71,16 @@
       "vows",
       3,
       "joy"
+    ],
+    [
+      "global",
+      3,
+      "anticipation"
+    ],
+    [
+      "shows",
+      3,
+      "trust"
     ],
     [
       "ship",
@@ -108,6 +108,11 @@
       "anger"
     ],
     [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
       "officials",
       3,
       "trust"
@@ -123,6 +128,21 @@
       "anticipation"
     ],
     [
+      "rejects",
+      2,
+      "anger"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
+      "break",
+      2,
+      "surprise"
+    ],
+    [
       "wildfires",
       2,
       "fear"
@@ -133,14 +153,14 @@
       "anger"
     ],
     [
+      "crime",
+      2,
+      "anger"
+    ],
+    [
       "game",
       2,
       "anticipation"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
     ],
     [
       "hostages",
@@ -161,11 +181,6 @@
       "based",
       2,
       "trust"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "scandals",
@@ -258,9 +273,19 @@
       "anticipation"
     ],
     [
-      "strike",
-      2,
-      "anger"
+      "withdraw",
+      1,
+      "sadness"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "hailed",
+      1,
+      "trust"
     ],
     [
       "flee",
@@ -286,21 +311,6 @@
       "exile",
       1,
       "anger"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "hailed",
-      1,
-      "trust"
     ],
     [
       "honeymoon",
@@ -366,26 +376,16 @@
       "trust",
       1,
       "trust"
-    ],
-    [
-      "lost",
-      1,
-      "sadness"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 58,
-    "fear": 67,
-    "surprise": 11,
-    "sadness": 10,
+    "trust": 56,
+    "fear": 65,
+    "surprise": 12,
+    "sadness": 11,
     "disgust": 1,
-    "anger": 104,
-    "anticipation": 40
+    "anger": 103,
+    "anticipation": 41
   }
 }
