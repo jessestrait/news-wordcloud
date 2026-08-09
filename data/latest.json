@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-09T11:51:41.962Z",
+  "generated_at": "2026-08-09T12:06:44.437Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      10,
       "anger"
     ],
     [
@@ -58,14 +58,19 @@
       "fear"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "deadly",
       4,
       "anger"
+    ],
+    [
+      "hormuz",
+      3,
+      "fear"
+    ],
+    [
+      "strait",
+      3,
+      "fear"
     ],
     [
       "ship",
@@ -81,16 +86,6 @@
       "authorities",
       3,
       "trust"
-    ],
-    [
-      "strait",
-      3,
-      "fear"
-    ],
-    [
-      "hormuz",
-      3,
-      "fear"
     ],
     [
       "deal",
@@ -116,6 +111,11 @@
       "government",
       3,
       "fear"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "build",
@@ -243,6 +243,16 @@
       "anger"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "guards",
+      1,
+      "fear"
+    ],
+    [
       "trust",
       1,
       "trust"
@@ -366,26 +376,16 @@
       "demands",
       1,
       "anger"
-    ],
-    [
-      "flu",
-      1,
-      "fear"
-    ],
-    [
-      "suffering",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 63,
-    "fear": 75,
+    "joy": 26,
+    "trust": 62,
+    "fear": 76,
     "surprise": 12,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 2,
-    "anger": 100,
-    "anticipation": 41
+    "anger": 101,
+    "anticipation": 39
   }
 }
