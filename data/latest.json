@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:48:52.765Z",
+  "generated_at": "2026-08-09T07:03:54.666Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "fear"
     ],
     [
-      "killed",
-      5,
-      "fear"
-    ],
-    [
       "officials",
       5,
       "trust"
@@ -68,6 +63,11 @@
       "surprise"
     ],
     [
+      "killed",
+      4,
+      "fear"
+    ],
+    [
       "happened",
       4,
       "anticipation"
@@ -76,6 +76,16 @@
       "deadly",
       4,
       "anger"
+    ],
+    [
+      "fear",
+      3,
+      "anger"
+    ],
+    [
+      "authorities",
+      3,
+      "trust"
     ],
     [
       "strait",
@@ -133,11 +143,6 @@
       "anticipation"
     ],
     [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
       "crackdown",
       2,
       "anger"
@@ -151,11 +156,6 @@
       "operation",
       2,
       "fear"
-    ],
-    [
-      "media",
-      2,
-      "disgust"
     ],
     [
       "convicted",
@@ -188,11 +188,6 @@
       "joy"
     ],
     [
-      "fear",
-      2,
-      "anger"
-    ],
-    [
       "power",
       2,
       "anticipation"
@@ -213,24 +208,9 @@
       "anticipation"
     ],
     [
-      "suggests",
-      2,
-      "trust"
-    ],
-    [
       "plans",
       2,
       "anticipation"
-    ],
-    [
-      "bomb",
-      2,
-      "anger"
-    ],
-    [
-      "found",
-      2,
-      "joy"
     ],
     [
       "exiled",
@@ -258,13 +238,43 @@
       "joy"
     ],
     [
-      "airport",
-      2,
-      "anticipation"
-    ],
-    [
       "guarantee",
       2,
+      "trust"
+    ],
+    [
+      "family",
+      1,
+      "joy"
+    ],
+    [
+      "denied",
+      1,
+      "sadness"
+    ],
+    [
+      "asylum",
+      1,
+      "fear"
+    ],
+    [
+      "reprisals",
+      1,
+      "anger"
+    ],
+    [
+      "persecuted",
+      1,
+      "anger"
+    ],
+    [
+      "convince",
+      1,
+      "trust"
+    ],
+    [
+      "general",
+      1,
       "trust"
     ],
     [
@@ -366,26 +376,16 @@
       "loss",
       1,
       "anger"
-    ],
-    [
-      "based",
-      1,
-      "trust"
-    ],
-    [
-      "world",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 61,
-    "fear": 74,
+    "joy": 28,
+    "trust": 63,
+    "fear": 73,
     "surprise": 13,
-    "sadness": 9,
-    "disgust": 3,
-    "anger": 103,
-    "anticipation": 41
+    "sadness": 10,
+    "disgust": 2,
+    "anger": 104,
+    "anticipation": 40
   }
 }
