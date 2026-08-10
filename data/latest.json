@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:50:22.058Z",
+  "generated_at": "2026-08-10T14:05:24.906Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "trust"
     ],
     [
-      "police",
-      5,
-      "fear"
-    ],
-    [
       "president",
       5,
       "trust"
@@ -56,6 +51,11 @@
       "strike",
       4,
       "anger"
+    ],
+    [
+      "police",
+      4,
+      "fear"
     ],
     [
       "shooting",
@@ -116,6 +116,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "prison",
+      2,
+      "anger"
     ],
     [
       "challenge",
@@ -278,6 +283,31 @@
       "anticipation"
     ],
     [
+      "luxury",
+      1,
+      "joy"
+    ],
+    [
+      "jail",
+      1,
+      "fear"
+    ],
+    [
+      "accused",
+      1,
+      "anger"
+    ],
+    [
+      "cocaine",
+      1,
+      "sadness"
+    ],
+    [
+      "supply",
+      1,
+      "fear"
+    ],
+    [
       "sounding",
       1,
       "joy"
@@ -346,46 +376,16 @@
       "magnet",
       1,
       "trust"
-    ],
-    [
-      "shoots",
-      1,
-      "anger"
-    ],
-    [
-      "ancient",
-      1,
-      "surprise"
-    ],
-    [
-      "provided",
-      1,
-      "trust"
-    ],
-    [
-      "soldiers",
-      1,
-      "anger"
-    ],
-    [
-      "artillery",
-      1,
-      "fear"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 56,
-    "fear": 68,
+    "fear": 69,
     "surprise": 11,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 1,
-    "anger": 102,
+    "anger": 103,
     "anticipation": 36
   }
 }
