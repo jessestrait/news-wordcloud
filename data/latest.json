@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T03:59:45.043Z",
+  "generated_at": "2026-08-10T04:14:47.073Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
       "attack",
       6,
       "anger"
+    ],
+    [
+      "authorities",
+      5,
+      "trust"
     ],
     [
       "police",
@@ -38,14 +38,14 @@
       "fear"
     ],
     [
-      "authorities",
-      4,
+      "president",
+      5,
       "trust"
     ],
     [
-      "happened",
+      "officials",
       4,
-      "anticipation"
+      "trust"
     ],
     [
       "government",
@@ -56,11 +56,6 @@
       "shooting",
       4,
       "anger"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "plan",
@@ -76,6 +71,11 @@
       "vows",
       3,
       "joy"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "strait",
@@ -123,14 +123,14 @@
       "fear"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
       "typhoon",
       2,
       "fear"
+    ],
+    [
+      "people",
+      2,
+      "trust"
     ],
     [
       "evacuated",
@@ -158,11 +158,6 @@
       "surprise"
     ],
     [
-      "force",
-      2,
-      "anger"
-    ],
-    [
       "crime",
       2,
       "anger"
@@ -176,11 +171,6 @@
       "game",
       2,
       "anticipation"
-    ],
-    [
-      "hostages",
-      2,
-      "anger"
     ],
     [
       "strike",
@@ -243,11 +233,6 @@
       "anger"
     ],
     [
-      "operation",
-      2,
-      "fear"
-    ],
-    [
       "convicted",
       2,
       "anger"
@@ -273,11 +258,6 @@
       "anger"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "power",
       2,
       "anticipation"
@@ -288,9 +268,49 @@
       "anticipation"
     ],
     [
+      "production",
+      2,
+      "anticipation"
+    ],
+    [
       "letters",
       2,
       "anticipation"
+    ],
+    [
+      "widow",
+      1,
+      "sadness"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
+    ],
+    [
+      "rules",
+      1,
+      "fear"
+    ],
+    [
+      "late",
+      1,
+      "sadness"
+    ],
+    [
+      "magnet",
+      1,
+      "trust"
+    ],
+    [
+      "shoots",
+      1,
+      "anger"
+    ],
+    [
+      "ancient",
+      1,
+      "surprise"
     ],
     [
       "dolphin",
@@ -356,36 +376,16 @@
       "wildfires",
       1,
       "fear"
-    ],
-    [
-      "flee",
-      1,
-      "fear"
-    ],
-    [
-      "battling",
-      1,
-      "anger"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
-    ],
-    [
-      "boxing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 58,
-    "fear": 72,
-    "surprise": 12,
-    "sadness": 11,
+    "trust": 57,
+    "fear": 68,
+    "surprise": 11,
+    "sadness": 13,
     "disgust": 1,
-    "anger": 105,
+    "anger": 103,
     "anticipation": 38
   }
 }
