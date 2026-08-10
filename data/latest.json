@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T16:37:09.813Z",
+  "generated_at": "2026-08-10T16:52:12.357Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,6 +298,21 @@
       "anticipation"
     ],
     [
+      "aftermath",
+      1,
+      "anger"
+    ],
+    [
+      "powerful",
+      1,
+      "anger"
+    ],
+    [
+      "quake",
+      1,
+      "fear"
+    ],
+    [
       "deep",
       1,
       "joy"
@@ -311,11 +326,6 @@
       "economy",
       1,
       "trust"
-    ],
-    [
-      "aftermath",
-      1,
-      "anger"
     ],
     [
       "airport",
@@ -346,16 +356,6 @@
       "responsible",
       1,
       "trust"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "quake",
-      1,
-      "fear"
     ],
     [
       "hoped",
