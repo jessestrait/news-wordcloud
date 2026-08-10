@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T05:45:57.126Z",
+  "generated_at": "2026-08-10T06:00:59.698Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "anger"
     ],
     [
+      "officials",
+      5,
+      "trust"
+    ],
+    [
       "authorities",
       5,
       "trust"
@@ -40,11 +45,6 @@
     [
       "president",
       5,
-      "trust"
-    ],
-    [
-      "officials",
-      4,
       "trust"
     ],
     [
@@ -113,14 +113,14 @@
       "fear"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "killed",
       3,
       "fear"
+    ],
+    [
+      "challenge",
+      2,
+      "anger"
     ],
     [
       "typhoon",
@@ -223,17 +223,17 @@
       "sadness"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "prepares",
       2,
       "anticipation"
     ],
     [
       "crackdown",
-      2,
-      "anger"
-    ],
-    [
-      "convicted",
       2,
       "anger"
     ],
@@ -276,6 +276,16 @@
       "letters",
       2,
       "anticipation"
+    ],
+    [
+      "sounding",
+      1,
+      "joy"
+    ],
+    [
+      "alarm",
+      1,
+      "fear"
     ],
     [
       "dolphin",
@@ -366,26 +376,16 @@
       "peace",
       1,
       "joy"
-    ],
-    [
-      "withdraw",
-      1,
-      "sadness"
-    ],
-    [
-      "wildfires",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 57,
-    "fear": 68,
+    "joy": 26,
+    "trust": 58,
+    "fear": 69,
     "surprise": 11,
     "sadness": 13,
     "disgust": 1,
-    "anger": 103,
+    "anger": 101,
     "anticipation": 38
   }
 }
