@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-08-10T12:19:24.823Z",
+  "generated_at": "2026-08-10T12:34:26.979Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       9,
-      "anger"
-    ],
-    [
-      "attack",
-      7,
       "anger"
     ],
     [
@@ -26,6 +21,11 @@
       "school",
       7,
       "trust"
+    ],
+    [
+      "attack",
+      6,
+      "anger"
     ],
     [
       "authorities",
@@ -53,6 +53,11 @@
       "fear"
     ],
     [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
       "shooting",
       4,
       "anger"
@@ -71,11 +76,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "strait",
@@ -278,11 +278,6 @@
       "anticipation"
     ],
     [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
       "sounding",
       1,
       "joy"
@@ -376,6 +371,11 @@
       "artillery",
       1,
       "fear"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 13,
     "disgust": 1,
     "anger": 102,
-    "anticipation": 37
+    "anticipation": 36
   }
 }
