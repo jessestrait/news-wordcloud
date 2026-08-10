@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:51:10.630Z",
+  "generated_at": "2026-08-10T15:06:13.308Z",
   "article_count": 50,
   "top_words": [
     [
@@ -121,11 +121,6 @@
       "killed",
       3,
       "fear"
-    ],
-    [
-      "damage",
-      2,
-      "anger"
     ],
     [
       "collapsed",
@@ -376,6 +371,11 @@
       "landslides",
       1,
       "fear"
+    ],
+    [
+      "widow",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 9,
     "sadness": 14,
     "disgust": 1,
-    "anger": 110,
+    "anger": 109,
     "anticipation": 35
   }
 }
