@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-08-10T08:02:14.535Z",
+  "generated_at": "2026-08-10T08:17:16.447Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       9,
+      "anger"
+    ],
+    [
+      "attack",
+      7,
       "anger"
     ],
     [
@@ -23,11 +28,6 @@
       "trust"
     ],
     [
-      "attack",
-      6,
-      "anger"
-    ],
-    [
       "officials",
       5,
       "trust"
@@ -38,17 +38,17 @@
       "trust"
     ],
     [
-      "police",
-      5,
-      "fear"
-    ],
-    [
       "president",
       5,
       "trust"
     ],
     [
       "government",
+      4,
+      "fear"
+    ],
+    [
+      "police",
       4,
       "fear"
     ],
@@ -76,6 +76,11 @@
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
     ],
     [
       "strait",
@@ -171,11 +176,6 @@
       "game",
       2,
       "anticipation"
-    ],
-    [
-      "strike",
-      2,
-      "anger"
     ],
     [
       "pact",
@@ -278,6 +278,11 @@
       "anticipation"
     ],
     [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
       "sounding",
       1,
       "joy"
@@ -371,21 +376,16 @@
       "artillery",
       1,
       "fear"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 25,
     "trust": 58,
-    "fear": 69,
+    "fear": 68,
     "surprise": 11,
     "sadness": 13,
     "disgust": 1,
-    "anger": 101,
-    "anticipation": 38
+    "anger": 102,
+    "anticipation": 39
   }
 }
