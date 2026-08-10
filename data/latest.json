@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:51:40.531Z",
+  "generated_at": "2026-08-10T16:06:43.139Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "anger"
     ],
     [
+      "government",
+      5,
+      "fear"
+    ],
+    [
       "authorities",
       5,
       "trust"
@@ -38,19 +43,9 @@
       "trust"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "officials",
       4,
       "trust"
-    ],
-    [
-      "government",
-      4,
-      "fear"
     ],
     [
       "police",
@@ -61,6 +56,11 @@
       "shooting",
       4,
       "anger"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "earthquake",
@@ -98,13 +98,13 @@
       "anger"
     ],
     [
-      "missile",
+      "killed",
       3,
       "fear"
     ],
     [
-      "killed",
-      3,
+      "intelligence",
+      2,
       "fear"
     ],
     [
@@ -233,6 +233,11 @@
       "surprise"
     ],
     [
+      "missile",
+      2,
+      "fear"
+    ],
+    [
       "hit",
       2,
       "anger"
@@ -288,11 +293,6 @@
       "anticipation"
     ],
     [
-      "build",
-      2,
-      "anticipation"
-    ],
-    [
       "collapsed",
       1,
       "fear"
@@ -301,6 +301,36 @@
       "aftermath",
       1,
       "anger"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
+      "bomb",
+      1,
+      "anger"
+    ],
+    [
+      "level",
+      1,
+      "trust"
+    ],
+    [
+      "danger",
+      1,
+      "fear"
+    ],
+    [
+      "thinks",
+      1,
+      "trust"
+    ],
+    [
+      "responsible",
+      1,
+      "trust"
     ],
     [
       "powerful",
@@ -318,9 +348,9 @@
       "joy"
     ],
     [
-      "launched",
+      "strangle",
       1,
-      "anticipation"
+      "anger"
     ],
     [
       "economy",
@@ -346,46 +376,16 @@
       "volunteers",
       1,
       "trust"
-    ],
-    [
-      "sick",
-      1,
-      "disgust"
-    ],
-    [
-      "shatters",
-      1,
-      "anger"
-    ],
-    [
-      "disease",
-      1,
-      "anger"
-    ],
-    [
-      "fearful",
-      1,
-      "fear"
-    ],
-    [
-      "angry",
-      1,
-      "anger"
-    ],
-    [
-      "suggest",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 54,
-    "fear": 71,
+    "trust": 56,
+    "fear": 73,
     "surprise": 9,
     "sadness": 14,
     "disgust": 2,
-    "anger": 112,
-    "anticipation": 35
+    "anger": 114,
+    "anticipation": 32
   }
 }
