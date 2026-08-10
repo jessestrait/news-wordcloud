@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:08:16.412Z",
+  "generated_at": "2026-08-10T18:23:18.939Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,19 @@
       "anger"
     ],
     [
+      "trump",
+      8,
+      "anger"
+    ],
+    [
       "attack",
       7,
       "anger"
     ],
     [
-      "trump",
-      7,
-      "anger"
+      "government",
+      6,
+      "fear"
     ],
     [
       "strike",
@@ -36,11 +41,6 @@
       "authorities",
       5,
       "trust"
-    ],
-    [
-      "government",
-      5,
-      "fear"
     ],
     [
       "school",
@@ -68,12 +68,17 @@
       "anger"
     ],
     [
-      "happened",
+      "deal",
       3,
-      "anticipation"
+      "surprise"
     ],
     [
-      "public",
+      "gaza",
+      3,
+      "anger"
+    ],
+    [
+      "happened",
       3,
       "anticipation"
     ],
@@ -108,9 +113,9 @@
       "fear"
     ],
     [
-      "force",
+      "ally",
       2,
-      "anger"
+      "trust"
     ],
     [
       "intelligence",
@@ -153,12 +158,12 @@
       "anger"
     ],
     [
-      "gaza",
+      "plan",
       2,
-      "anger"
+      "anticipation"
     ],
     [
-      "plan",
+      "public",
       2,
       "anticipation"
     ],
@@ -203,11 +208,6 @@
       "fear"
     ],
     [
-      "row",
-      2,
-      "anger"
-    ],
-    [
       "accounts",
       2,
       "trust"
@@ -216,11 +216,6 @@
       "based",
       2,
       "trust"
-    ],
-    [
-      "scandals",
-      2,
-      "fear"
     ],
     [
       "crews",
@@ -233,11 +228,6 @@
       "sadness"
     ],
     [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
       "missile",
       2,
       "fear"
@@ -246,6 +236,11 @@
       "hit",
       2,
       "anger"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
     ],
     [
       "prepares",
@@ -298,12 +293,42 @@
       "anger"
     ],
     [
-      "youth",
+      "powerful",
       1,
       "anger"
     ],
     [
-      "protesters",
+      "quake",
+      1,
+      "fear"
+    ],
+    [
+      "rejection",
+      1,
+      "anger"
+    ],
+    [
+      "risky",
+      1,
+      "fear"
+    ],
+    [
+      "unexpected",
+      1,
+      "fear"
+    ],
+    [
+      "alienating",
+      1,
+      "anger"
+    ],
+    [
+      "young",
+      1,
+      "surprise"
+    ],
+    [
+      "escalates",
       1,
       "anger"
     ],
@@ -316,16 +341,6 @@
       "tackle",
       1,
       "anger"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "quake",
-      1,
-      "fear"
     ],
     [
       "deep",
@@ -361,31 +376,16 @@
       "danger",
       1,
       "fear"
-    ],
-    [
-      "thinks",
-      1,
-      "trust"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
-    ],
-    [
-      "hoped",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 56,
-    "fear": 74,
-    "surprise": 8,
+    "joy": 23,
+    "trust": 57,
+    "fear": 77,
+    "surprise": 10,
     "sadness": 14,
     "disgust": 2,
-    "anger": 119,
-    "anticipation": 31
+    "anger": 120,
+    "anticipation": 29
   }
 }
