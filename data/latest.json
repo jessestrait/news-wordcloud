@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-10T01:13:34.700Z",
+  "generated_at": "2026-08-10T01:28:37.072Z",
   "article_count": 50,
   "top_words": [
     [
-      "trump",
+      "war",
       9,
       "anger"
     ],
     [
-      "war",
-      8,
+      "trump",
+      9,
       "anger"
     ],
     [
@@ -53,11 +53,6 @@
       "anger"
     ],
     [
-      "deadly",
-      4,
-      "anger"
-    ],
-    [
       "gaza",
       3,
       "anger"
@@ -76,11 +71,6 @@
       "vows",
       3,
       "joy"
-    ],
-    [
-      "global",
-      3,
-      "anticipation"
     ],
     [
       "shows",
@@ -108,6 +98,11 @@
       "surprise"
     ],
     [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
       "hit",
       3,
       "anger"
@@ -121,6 +116,11 @@
       "officials",
       3,
       "trust"
+    ],
+    [
+      "deadly",
+      3,
+      "anger"
     ],
     [
       "build",
@@ -143,11 +143,6 @@
       "surprise"
     ],
     [
-      "wildfires",
-      2,
-      "fear"
-    ],
-    [
       "force",
       2,
       "anger"
@@ -156,6 +151,11 @@
       "crime",
       2,
       "anger"
+    ],
+    [
+      "global",
+      2,
+      "anticipation"
     ],
     [
       "game",
@@ -208,11 +208,6 @@
       "fear"
     ],
     [
-      "missile",
-      2,
-      "fear"
-    ],
-    [
       "prepares",
       2,
       "anticipation"
@@ -241,6 +236,11 @@
       "military",
       2,
       "fear"
+    ],
+    [
+      "ready",
+      2,
+      "anticipation"
     ],
     [
       "suspect",
@@ -273,9 +273,29 @@
       "anticipation"
     ],
     [
+      "provided",
+      1,
+      "trust"
+    ],
+    [
+      "soldiers",
+      1,
+      "anger"
+    ],
+    [
+      "artillery",
+      1,
+      "fear"
+    ],
+    [
       "withdraw",
       1,
       "sadness"
+    ],
+    [
+      "wildfires",
+      1,
+      "fear"
     ],
     [
       "flee",
@@ -356,32 +376,12 @@
       "retaliation",
       1,
       "anger"
-    ],
-    [
-      "unrest",
-      1,
-      "fear"
-    ],
-    [
-      "trust",
-      1,
-      "trust"
-    ],
-    [
-      "lost",
-      1,
-      "sadness"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 55,
-    "fear": 65,
+    "trust": 56,
+    "fear": 66,
     "surprise": 12,
     "sadness": 10,
     "disgust": 1,
