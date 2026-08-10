@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T03:14:22.268Z",
+  "generated_at": "2026-08-10T03:29:24.518Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,12 @@
     ],
     [
       "trump",
-      9,
+      8,
+      "anger"
+    ],
+    [
+      "iran",
+      7,
       "anger"
     ],
     [
@@ -31,11 +36,6 @@
       "police",
       5,
       "fear"
-    ],
-    [
-      "iran",
-      5,
-      "anger"
     ],
     [
       "happened",
@@ -71,6 +71,16 @@
       "vows",
       3,
       "joy"
+    ],
+    [
+      "strait",
+      3,
+      "fear"
+    ],
+    [
+      "hormuz",
+      3,
+      "fear"
     ],
     [
       "shows",
@@ -118,11 +128,6 @@
       "trust"
     ],
     [
-      "deadly",
-      3,
-      "anger"
-    ],
-    [
       "build",
       3,
       "anticipation"
@@ -168,6 +173,26 @@
       "anger"
     ],
     [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
+      "pact",
+      2,
+      "trust"
+    ],
+    [
+      "tough",
+      2,
+      "sadness"
+    ],
+    [
+      "demands",
+      2,
+      "anger"
+    ],
+    [
       "row",
       2,
       "anger"
@@ -196,16 +221,6 @@
       "black",
       2,
       "sadness"
-    ],
-    [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
-      "hormuz",
-      2,
-      "fear"
     ],
     [
       "prepares",
@@ -251,6 +266,11 @@
       "people",
       2,
       "trust"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
     ],
     [
       "death",
@@ -356,36 +376,16 @@
       "holiday",
       1,
       "joy"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
-    ],
-    [
-      "unacceptable",
-      1,
-      "sadness"
-    ],
-    [
-      "visitors",
-      1,
-      "joy"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 56,
-    "fear": 66,
+    "trust": 57,
+    "fear": 68,
     "surprise": 12,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 1,
-    "anger": 103,
+    "anger": 105,
     "anticipation": 41
   }
 }
