@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:36:36.752Z",
+  "generated_at": "2026-08-10T15:51:40.531Z",
   "article_count": 50,
   "top_words": [
     [
@@ -105,11 +105,6 @@
     [
       "killed",
       3,
-      "fear"
-    ],
-    [
-      "collapsed",
-      2,
       "fear"
     ],
     [
@@ -278,6 +273,16 @@
       "fear"
     ],
     [
+      "collapse",
+      2,
+      "fear"
+    ],
+    [
+      "damage",
+      2,
+      "anger"
+    ],
+    [
       "power",
       2,
       "anticipation"
@@ -288,9 +293,24 @@
       "anticipation"
     ],
     [
+      "collapsed",
+      1,
+      "fear"
+    ],
+    [
       "aftermath",
       1,
       "anger"
+    ],
+    [
+      "powerful",
+      1,
+      "anger"
+    ],
+    [
+      "quake",
+      1,
+      "fear"
     ],
     [
       "deep",
@@ -356,32 +376,12 @@
       "suggest",
       1,
       "trust"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "damaged",
-      1,
-      "anger"
-    ],
-    [
-      "luxury",
-      1,
-      "joy"
-    ],
-    [
-      "jail",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 54,
-    "fear": 70,
+    "fear": 71,
     "surprise": 9,
     "sadness": 14,
     "disgust": 2,
