@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:32:18.372Z",
+  "generated_at": "2026-08-10T08:47:20.568Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,18 +28,23 @@
       "trust"
     ],
     [
-      "officials",
-      5,
-      "trust"
-    ],
-    [
       "authorities",
       5,
       "trust"
     ],
     [
+      "police",
+      5,
+      "fear"
+    ],
+    [
       "president",
       5,
+      "trust"
+    ],
+    [
+      "officials",
+      4,
       "trust"
     ],
     [
@@ -48,19 +53,9 @@
       "fear"
     ],
     [
-      "police",
-      4,
-      "fear"
-    ],
-    [
       "shooting",
       4,
       "anger"
-    ],
-    [
-      "plan",
-      3,
-      "anticipation"
     ],
     [
       "public",
@@ -156,6 +151,11 @@
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "break",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 58,
+    "joy": 26,
+    "trust": 56,
     "fear": 68,
     "surprise": 11,
     "sadness": 13,
     "disgust": 1,
     "anger": 102,
-    "anticipation": 39
+    "anticipation": 37
   }
 }
