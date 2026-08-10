@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:38:41.896Z",
+  "generated_at": "2026-08-10T18:53:44.742Z",
   "article_count": 50,
   "top_words": [
     [
@@ -288,6 +288,11 @@
       "anger"
     ],
     [
+      "scores",
+      1,
+      "surprise"
+    ],
+    [
       "powerful",
       1,
       "anger"
@@ -371,18 +376,13 @@
       "danger",
       1,
       "fear"
-    ],
-    [
-      "thinks",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 57,
     "fear": 76,
-    "surprise": 10,
+    "surprise": 11,
     "sadness": 14,
     "disgust": 2,
     "anger": 120,
