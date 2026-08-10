@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:20:46.386Z",
+  "generated_at": "2026-08-10T14:35:49.149Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "trust"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
       "president",
       5,
       "trust"
@@ -46,11 +51,6 @@
       "government",
       4,
       "fear"
-    ],
-    [
-      "strike",
-      4,
-      "anger"
     ],
     [
       "police",
@@ -278,9 +278,24 @@
       "anticipation"
     ],
     [
-      "letters",
-      2,
-      "anticipation"
+      "powerful",
+      1,
+      "anger"
+    ],
+    [
+      "earthquake",
+      1,
+      "anger"
+    ],
+    [
+      "collapsed",
+      1,
+      "fear"
+    ],
+    [
+      "damaged",
+      1,
+      "anger"
     ],
     [
       "luxury",
@@ -361,31 +376,16 @@
       "leave",
       1,
       "sadness"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "magnet",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 56,
+    "trust": 55,
     "fear": 69,
-    "surprise": 11,
+    "surprise": 10,
     "sadness": 14,
     "disgust": 1,
-    "anger": 103,
-    "anticipation": 36
+    "anger": 106,
+    "anticipation": 35
   }
 }
