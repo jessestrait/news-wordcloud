@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:23:18.939Z",
+  "generated_at": "2026-08-10T18:38:21.597Z",
   "article_count": 50,
   "top_words": [
     [
@@ -238,11 +238,6 @@
       "anger"
     ],
     [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
       "prepares",
       2,
       "anticipation"
@@ -318,7 +313,7 @@
       "fear"
     ],
     [
-      "alienating",
+      "alienate",
       1,
       "anger"
     ],
@@ -376,12 +371,17 @@
       "danger",
       1,
       "fear"
+    ],
+    [
+      "thinks",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 57,
-    "fear": 77,
+    "fear": 76,
     "surprise": 10,
     "sadness": 14,
     "disgust": 2,
