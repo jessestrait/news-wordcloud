@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:40:28.384Z",
+  "generated_at": "2026-08-10T21:55:30.820Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anger"
     ],
     [
+      "government",
+      7,
+      "fear"
+    ],
+    [
       "attack",
       7,
       "anger"
@@ -21,11 +26,6 @@
       "iran",
       6,
       "anger"
-    ],
-    [
-      "government",
-      6,
-      "fear"
     ],
     [
       "strike",
@@ -48,6 +48,11 @@
       "trust"
     ],
     [
+      "demands",
+      4,
+      "anger"
+    ],
+    [
       "president",
       4,
       "trust"
@@ -68,11 +73,6 @@
       "anger"
     ],
     [
-      "demands",
-      3,
-      "anger"
-    ],
-    [
       "strait",
       3,
       "fear"
@@ -83,9 +83,19 @@
       "fear"
     ],
     [
+      "rejects",
+      3,
+      "anger"
+    ],
+    [
       "gaza",
       3,
       "anger"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "happened",
@@ -123,16 +133,6 @@
       "anger"
     ],
     [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
-      "ally",
-      2,
-      "trust"
-    ],
-    [
       "intelligence",
       2,
       "fear"
@@ -166,16 +166,6 @@
       "evacuated",
       2,
       "fear"
-    ],
-    [
-      "rejects",
-      2,
-      "anger"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "public",
@@ -253,6 +243,11 @@
       "anger"
     ],
     [
+      "ally",
+      2,
+      "trust"
+    ],
+    [
       "fire",
       2,
       "fear"
@@ -328,22 +323,7 @@
       "sadness"
     ],
     [
-      "rejection",
-      1,
-      "anger"
-    ],
-    [
-      "risky",
-      1,
-      "fear"
-    ],
-    [
-      "unexpected",
-      1,
-      "fear"
-    ],
-    [
-      "alienate",
+      "incompatible",
       1,
       "anger"
     ],
@@ -376,16 +356,36 @@
       "strangle",
       1,
       "anger"
+    ],
+    [
+      "economy",
+      1,
+      "trust"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
+      "bomb",
+      1,
+      "anger"
+    ],
+    [
+      "level",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 58,
-    "fear": 78,
-    "surprise": 10,
+    "fear": 77,
+    "surprise": 9,
     "sadness": 16,
     "disgust": 3,
-    "anger": 116,
-    "anticipation": 28
+    "anger": 117,
+    "anticipation": 29
   }
 }
