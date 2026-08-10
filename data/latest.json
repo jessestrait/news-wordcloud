@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:45:09.451Z",
+  "generated_at": "2026-08-10T05:00:12.065Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,41 +278,6 @@
       "anticipation"
     ],
     [
-      "widow",
-      1,
-      "sadness"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "magnet",
-      1,
-      "trust"
-    ],
-    [
-      "shoots",
-      1,
-      "anger"
-    ],
-    [
-      "ancient",
-      1,
-      "surprise"
-    ],
-    [
       "dolphin",
       1,
       "surprise"
@@ -346,6 +311,41 @@
       "landslides",
       1,
       "fear"
+    ],
+    [
+      "widow",
+      1,
+      "sadness"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
+    ],
+    [
+      "rules",
+      1,
+      "fear"
+    ],
+    [
+      "late",
+      1,
+      "sadness"
+    ],
+    [
+      "magnet",
+      1,
+      "trust"
+    ],
+    [
+      "shoots",
+      1,
+      "anger"
+    ],
+    [
+      "ancient",
+      1,
+      "surprise"
     ],
     [
       "provided",
