@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T17:07:43.845Z",
+  "generated_at": "2026-08-10T17:22:46.637Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,7 +28,7 @@
       "anger"
     ],
     [
-      "government",
+      "police",
       5,
       "fear"
     ],
@@ -36,6 +36,11 @@
       "authorities",
       5,
       "trust"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "school",
@@ -46,11 +51,6 @@
       "officials",
       4,
       "trust"
-    ],
-    [
-      "police",
-      4,
-      "fear"
     ],
     [
       "shooting",
@@ -108,6 +108,11 @@
       "fear"
     ],
     [
+      "force",
+      2,
+      "anger"
+    ],
+    [
       "intelligence",
       2,
       "fear"
@@ -156,11 +161,6 @@
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "break",
-      2,
-      "surprise"
     ],
     [
       "crime",
@@ -293,12 +293,27 @@
       "anger"
     ],
     [
-      "power",
-      2,
-      "anticipation"
+      "aftermath",
+      1,
+      "anger"
     ],
     [
-      "aftermath",
+      "youth",
+      1,
+      "anger"
+    ],
+    [
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "failing",
+      1,
+      "anger"
+    ],
+    [
+      "tackle",
       1,
       "anger"
     ],
@@ -361,31 +376,16 @@
       "hoped",
       1,
       "surprise"
-    ],
-    [
-      "arrived",
-      1,
-      "anticipation"
-    ],
-    [
-      "trembling",
-      1,
-      "fear"
-    ],
-    [
-      "volunteers",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 56,
     "fear": 74,
-    "surprise": 9,
+    "surprise": 8,
     "sadness": 14,
     "disgust": 2,
-    "anger": 114,
-    "anticipation": 32
+    "anger": 119,
+    "anticipation": 31
   }
 }
