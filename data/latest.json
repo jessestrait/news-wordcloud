@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:55:30.820Z",
+  "generated_at": "2026-08-10T22:10:33.334Z",
   "article_count": 50,
   "top_words": [
     [
@@ -124,6 +124,11 @@
     ],
     [
       "collapsed",
+      2,
+      "fear"
+    ],
+    [
+      "quake",
       2,
       "fear"
     ],
@@ -313,11 +318,6 @@
       "anger"
     ],
     [
-      "quake",
-      1,
-      "fear"
-    ],
-    [
       "damages",
       1,
       "sadness"
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 24,
     "trust": 58,
-    "fear": 77,
+    "fear": 78,
     "surprise": 9,
     "sadness": 16,
     "disgust": 3,
