@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:35:49.149Z",
+  "generated_at": "2026-08-10T14:50:52.386Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "school",
-      7,
-      "trust"
-    ],
-    [
       "attack",
       6,
       "anger"
@@ -38,9 +33,19 @@
       "anger"
     ],
     [
+      "school",
+      5,
+      "trust"
+    ],
+    [
       "president",
       5,
       "trust"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "officials",
@@ -63,6 +68,11 @@
       "anger"
     ],
     [
+      "earthquake",
+      3,
+      "anger"
+    ],
+    [
       "public",
       3,
       "anticipation"
@@ -71,11 +81,6 @@
       "vows",
       3,
       "joy"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "strait",
@@ -115,6 +120,16 @@
     [
       "killed",
       3,
+      "fear"
+    ],
+    [
+      "damage",
+      2,
+      "anger"
+    ],
+    [
+      "collapsed",
+      2,
       "fear"
     ],
     [
@@ -278,19 +293,14 @@
       "anticipation"
     ],
     [
+      "aftermath",
+      1,
+      "anger"
+    ],
+    [
       "powerful",
       1,
       "anger"
-    ],
-    [
-      "earthquake",
-      1,
-      "anger"
-    ],
-    [
-      "collapsed",
-      1,
-      "fear"
     ],
     [
       "damaged",
@@ -366,26 +376,16 @@
       "landslides",
       1,
       "fear"
-    ],
-    [
-      "widow",
-      1,
-      "sadness"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 55,
-    "fear": 69,
-    "surprise": 10,
+    "joy": 25,
+    "trust": 50,
+    "fear": 70,
+    "surprise": 9,
     "sadness": 14,
     "disgust": 1,
-    "anger": 106,
+    "anger": 110,
     "anticipation": 35
   }
 }
