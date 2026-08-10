@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T03:44:42.954Z",
+  "generated_at": "2026-08-10T03:59:45.043Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "trump",
-      8,
+      7,
       "anger"
     ],
     [
@@ -38,6 +38,11 @@
       "fear"
     ],
     [
+      "authorities",
+      4,
+      "trust"
+    ],
+    [
       "happened",
       4,
       "anticipation"
@@ -53,9 +58,9 @@
       "anger"
     ],
     [
-      "gaza",
+      "people",
       3,
-      "anger"
+      "trust"
     ],
     [
       "plan",
@@ -98,11 +103,6 @@
       "anger"
     ],
     [
-      "authorities",
-      3,
-      "trust"
-    ],
-    [
       "deal",
       3,
       "surprise"
@@ -128,9 +128,19 @@
       "trust"
     ],
     [
-      "build",
-      3,
-      "anticipation"
+      "typhoon",
+      2,
+      "fear"
+    ],
+    [
+      "evacuated",
+      2,
+      "fear"
+    ],
+    [
+      "storm",
+      2,
+      "anger"
     ],
     [
       "rejects",
@@ -138,9 +148,9 @@
       "anger"
     ],
     [
-      "peace",
+      "gaza",
       2,
-      "joy"
+      "anger"
     ],
     [
       "break",
@@ -248,11 +258,6 @@
       "fear"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "ready",
       2,
       "anticipation"
@@ -261,11 +266,6 @@
       "suspect",
       2,
       "fear"
-    ],
-    [
-      "people",
-      2,
-      "trust"
     ],
     [
       "deadly",
@@ -278,12 +278,12 @@
       "sadness"
     ],
     [
-      "house",
+      "power",
       2,
-      "joy"
+      "anticipation"
     ],
     [
-      "power",
+      "build",
       2,
       "anticipation"
     ],
@@ -291,6 +291,41 @@
       "letters",
       2,
       "anticipation"
+    ],
+    [
+      "dolphin",
+      1,
+      "surprise"
+    ],
+    [
+      "shanghai",
+      1,
+      "fear"
+    ],
+    [
+      "warn",
+      1,
+      "fear"
+    ],
+    [
+      "intense",
+      1,
+      "anger"
+    ],
+    [
+      "rain",
+      1,
+      "joy"
+    ],
+    [
+      "flooding",
+      1,
+      "fear"
+    ],
+    [
+      "landslides",
+      1,
+      "fear"
     ],
     [
       "provided",
@@ -306,6 +341,11 @@
       "artillery",
       1,
       "fear"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
     ],
     [
       "withdraw",
@@ -336,56 +376,16 @@
       "boxing",
       1,
       "anger"
-    ],
-    [
-      "exile",
-      1,
-      "anger"
-    ],
-    [
-      "honeymoon",
-      1,
-      "surprise"
-    ],
-    [
-      "surprise",
-      1,
-      "fear"
-    ],
-    [
-      "cabinet",
-      1,
-      "trust"
-    ],
-    [
-      "thought",
-      1,
-      "anticipation"
-    ],
-    [
-      "safe",
-      1,
-      "joy"
-    ],
-    [
-      "book",
-      1,
-      "trust"
-    ],
-    [
-      "holiday",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 57,
-    "fear": 68,
+    "joy": 25,
+    "trust": 58,
+    "fear": 72,
     "surprise": 12,
     "sadness": 11,
     "disgust": 1,
     "anger": 105,
-    "anticipation": 41
+    "anticipation": 38
   }
 }
