@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:06:13.308Z",
+  "generated_at": "2026-08-10T15:21:15.519Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,17 +8,22 @@
       "anger"
     ],
     [
+      "attack",
+      7,
+      "anger"
+    ],
+    [
       "trump",
       7,
       "anger"
     ],
     [
-      "iran",
-      7,
+      "strike",
+      6,
       "anger"
     ],
     [
-      "attack",
+      "iran",
       6,
       "anger"
     ],
@@ -26,11 +31,6 @@
       "authorities",
       5,
       "trust"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
     ],
     [
       "school",
@@ -41,11 +41,6 @@
       "president",
       5,
       "trust"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "officials",
@@ -73,6 +68,11 @@
       "anger"
     ],
     [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "public",
       3,
       "anticipation"
@@ -81,16 +81,6 @@
       "vows",
       3,
       "joy"
-    ],
-    [
-      "strait",
-      3,
-      "fear"
-    ],
-    [
-      "hormuz",
-      3,
-      "fear"
     ],
     [
       "shows",
@@ -108,11 +98,6 @@
       "anger"
     ],
     [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "missile",
       3,
       "fear"
@@ -128,6 +113,16 @@
       "fear"
     ],
     [
+      "flu",
+      2,
+      "fear"
+    ],
+    [
+      "brain",
+      2,
+      "trust"
+    ],
+    [
       "prison",
       2,
       "anger"
@@ -138,11 +133,6 @@
       "anger"
     ],
     [
-      "typhoon",
-      2,
-      "fear"
-    ],
-    [
       "people",
       2,
       "trust"
@@ -151,11 +141,6 @@
       "evacuated",
       2,
       "fear"
-    ],
-    [
-      "storm",
-      2,
-      "anger"
     ],
     [
       "rejects",
@@ -208,6 +193,16 @@
       "anger"
     ],
     [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "hormuz",
+      2,
+      "fear"
+    ],
+    [
       "row",
       2,
       "anger"
@@ -236,6 +231,11 @@
       "black",
       2,
       "sadness"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
     ],
     [
       "hit",
@@ -273,6 +273,11 @@
       "anger"
     ],
     [
+      "kill",
+      2,
+      "fear"
+    ],
+    [
       "power",
       2,
       "anticipation"
@@ -283,14 +288,74 @@
       "anticipation"
     ],
     [
-      "production",
-      2,
-      "anticipation"
-    ],
-    [
       "aftermath",
       1,
       "anger"
+    ],
+    [
+      "deep",
+      1,
+      "joy"
+    ],
+    [
+      "launched",
+      1,
+      "anticipation"
+    ],
+    [
+      "economy",
+      1,
+      "trust"
+    ],
+    [
+      "hoped",
+      1,
+      "surprise"
+    ],
+    [
+      "arrived",
+      1,
+      "anticipation"
+    ],
+    [
+      "trembling",
+      1,
+      "fear"
+    ],
+    [
+      "volunteers",
+      1,
+      "trust"
+    ],
+    [
+      "sick",
+      1,
+      "disgust"
+    ],
+    [
+      "shatters",
+      1,
+      "anger"
+    ],
+    [
+      "disease",
+      1,
+      "anger"
+    ],
+    [
+      "fearful",
+      1,
+      "fear"
+    ],
+    [
+      "angry",
+      1,
+      "anger"
+    ],
+    [
+      "suggest",
+      1,
+      "trust"
     ],
     [
       "powerful",
@@ -311,81 +376,16 @@
       "jail",
       1,
       "fear"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "cocaine",
-      1,
-      "sadness"
-    ],
-    [
-      "supply",
-      1,
-      "fear"
-    ],
-    [
-      "sounding",
-      1,
-      "joy"
-    ],
-    [
-      "alarm",
-      1,
-      "fear"
-    ],
-    [
-      "dolphin",
-      1,
-      "surprise"
-    ],
-    [
-      "shanghai",
-      1,
-      "fear"
-    ],
-    [
-      "warn",
-      1,
-      "fear"
-    ],
-    [
-      "intense",
-      1,
-      "anger"
-    ],
-    [
-      "rain",
-      1,
-      "joy"
-    ],
-    [
-      "flooding",
-      1,
-      "fear"
-    ],
-    [
-      "landslides",
-      1,
-      "fear"
-    ],
-    [
-      "widow",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 50,
+    "joy": 26,
+    "trust": 54,
     "fear": 70,
     "surprise": 9,
     "sadness": 14,
-    "disgust": 1,
-    "anger": 109,
+    "disgust": 2,
+    "anger": 112,
     "anticipation": 35
   }
 }
