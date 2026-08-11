@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:02:05.601Z",
+  "generated_at": "2026-08-11T09:17:09.875Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "government",
-      8,
+      7,
       "fear"
     ],
     [
@@ -53,6 +53,11 @@
       "fear"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "officials",
       3,
       "trust"
@@ -61,6 +66,16 @@
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "typhoon",
+      3,
+      "fear"
+    ],
+    [
+      "dolphin",
+      3,
+      "surprise"
     ],
     [
       "school",
@@ -113,11 +128,6 @@
       "trust"
     ],
     [
-      "shows",
-      3,
-      "trust"
-    ],
-    [
       "ship",
       3,
       "anticipation"
@@ -128,14 +138,14 @@
       "fear"
     ],
     [
-      "people",
-      2,
-      "trust"
-    ],
-    [
       "quake",
       2,
       "fear"
+    ],
+    [
+      "storm",
+      2,
+      "anger"
     ],
     [
       "victim",
@@ -253,6 +263,11 @@
       "trust"
     ],
     [
+      "shows",
+      2,
+      "trust"
+    ],
+    [
       "fear",
       2,
       "anger"
@@ -361,31 +376,16 @@
       "hopes",
       1,
       "surprise"
-    ],
-    [
-      "catching",
-      1,
-      "surprise"
-    ],
-    [
-      "alone",
-      1,
-      "sadness"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
     "trust": 57,
-    "fear": 75,
-    "surprise": 13,
+    "fear": 74,
+    "surprise": 15,
     "sadness": 19,
-    "disgust": 3,
-    "anger": 108,
+    "disgust": 2,
+    "anger": 109,
     "anticipation": 29
   }
 }
