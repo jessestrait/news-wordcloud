@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-08-11T01:27:43.422Z",
+  "generated_at": "2026-08-11T01:42:45.889Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      12,
       "anger"
     ],
     [
       "trump",
       7,
       "anger"
-    ],
-    [
-      "government",
-      7,
-      "fear"
     ],
     [
       "attack",
@@ -26,6 +21,11 @@
       "iran",
       6,
       "anger"
+    ],
+    [
+      "government",
+      6,
+      "fear"
     ],
     [
       "strike",
@@ -54,11 +54,6 @@
     ],
     [
       "president",
-      4,
-      "trust"
-    ],
-    [
-      "officials",
       4,
       "trust"
     ],
@@ -103,6 +98,11 @@
       "anticipation"
     ],
     [
+      "officials",
+      3,
+      "trust"
+    ],
+    [
       "vows",
       3,
       "joy"
@@ -120,6 +120,11 @@
     [
       "killed",
       3,
+      "fear"
+    ],
+    [
+      "warning",
+      2,
       "fear"
     ],
     [
@@ -243,11 +248,6 @@
       "anticipation"
     ],
     [
-      "crackdown",
-      2,
-      "anger"
-    ],
-    [
       "ally",
       2,
       "trust"
@@ -283,9 +283,19 @@
       "fear"
     ],
     [
-      "collapse",
-      2,
-      "fear"
+      "voting",
+      1,
+      "anger"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "progress",
+      1,
+      "joy"
     ],
     [
       "aftermath",
@@ -316,6 +326,11 @@
       "powerful",
       1,
       "anger"
+    ],
+    [
+      "collapses",
+      1,
+      "fear"
     ],
     [
       "damages",
@@ -361,31 +376,16 @@
       "economy",
       1,
       "trust"
-    ],
-    [
-      "airport",
-      1,
-      "anticipation"
-    ],
-    [
-      "bomb",
-      1,
-      "anger"
-    ],
-    [
-      "level",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 58,
-    "fear": 78,
+    "joy": 22,
+    "trust": 57,
+    "fear": 77,
     "surprise": 9,
     "sadness": 16,
     "disgust": 3,
-    "anger": 117,
+    "anger": 120,
     "anticipation": 29
   }
 }
