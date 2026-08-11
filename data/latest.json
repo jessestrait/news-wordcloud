@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T02:13:07.021Z",
+  "generated_at": "2026-08-11T02:28:09.342Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,27 +8,17 @@
       "anger"
     ],
     [
+      "government",
+      7,
+      "fear"
+    ],
+    [
       "trump",
       7,
       "anger"
     ],
     [
-      "attack",
-      7,
-      "anger"
-    ],
-    [
       "iran",
-      6,
-      "anger"
-    ],
-    [
-      "government",
-      6,
-      "fear"
-    ],
-    [
-      "strike",
       6,
       "anger"
     ],
@@ -41,6 +31,16 @@
       "authorities",
       5,
       "trust"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
     ],
     [
       "school",
@@ -74,6 +74,16 @@
     ],
     [
       "building",
+      3,
+      "anticipation"
+    ],
+    [
+      "flu",
+      3,
+      "fear"
+    ],
+    [
+      "prepares",
       3,
       "anticipation"
     ],
@@ -148,6 +158,16 @@
       "fear"
     ],
     [
+      "mortalities",
+      2,
+      "anger"
+    ],
+    [
+      "wild",
+      2,
+      "surprise"
+    ],
+    [
       "warning",
       2,
       "fear"
@@ -159,11 +179,6 @@
     ],
     [
       "intelligence",
-      2,
-      "fear"
-    ],
-    [
-      "flu",
       2,
       "fear"
     ],
@@ -208,11 +223,6 @@
       "anticipation"
     ],
     [
-      "pact",
-      2,
-      "trust"
-    ],
-    [
       "tough",
       2,
       "sadness"
@@ -253,11 +263,6 @@
       "anger"
     ],
     [
-      "prepares",
-      2,
-      "anticipation"
-    ],
-    [
       "ally",
       2,
       "trust"
@@ -276,11 +281,6 @@
       "suspect",
       2,
       "fear"
-    ],
-    [
-      "deadly",
-      2,
-      "anger"
     ],
     [
       "death",
@@ -313,6 +313,41 @@
       "anger"
     ],
     [
+      "scores",
+      1,
+      "surprise"
+    ],
+    [
+      "damages",
+      1,
+      "sadness"
+    ],
+    [
+      "captivity",
+      1,
+      "sadness"
+    ],
+    [
+      "hopes",
+      1,
+      "surprise"
+    ],
+    [
+      "catching",
+      1,
+      "surprise"
+    ],
+    [
+      "alone",
+      1,
+      "sadness"
+    ],
+    [
+      "difficult",
+      1,
+      "fear"
+    ],
+    [
       "voting",
       1,
       "anger"
@@ -341,51 +376,16 @@
       "stalled",
       1,
       "disgust"
-    ],
-    [
-      "scores",
-      1,
-      "surprise"
-    ],
-    [
-      "damages",
-      1,
-      "sadness"
-    ],
-    [
-      "incompatible",
-      1,
-      "anger"
-    ],
-    [
-      "young",
-      1,
-      "surprise"
-    ],
-    [
-      "escalates",
-      1,
-      "anger"
-    ],
-    [
-      "failing",
-      1,
-      "anger"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 59,
-    "fear": 78,
-    "surprise": 9,
-    "sadness": 16,
+    "trust": 57,
+    "fear": 81,
+    "surprise": 12,
+    "sadness": 18,
     "disgust": 4,
-    "anger": 120,
-    "anticipation": 32
+    "anger": 117,
+    "anticipation": 33
   }
 }
