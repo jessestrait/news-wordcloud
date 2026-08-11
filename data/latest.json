@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:47:54.180Z",
+  "generated_at": "2026-08-11T11:02:56.228Z",
   "article_count": 50,
   "top_words": [
     [
@@ -143,14 +143,14 @@
       "fear"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "killed",
       2,
       "fear"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
     ],
     [
       "quake",
@@ -293,6 +293,11 @@
       "trust"
     ],
     [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
       "court",
       1,
       "anger"
@@ -313,9 +318,9 @@
       "anger"
     ],
     [
-      "injured",
+      "committed",
       1,
-      "fear"
+      "trust"
     ],
     [
       "scores",
@@ -371,16 +376,11 @@
       "enthusiasts",
       1,
       "surprise"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 59,
+    "trust": 60,
     "fear": 72,
     "surprise": 15,
     "sadness": 20,
