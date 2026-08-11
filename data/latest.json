@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T01:42:45.889Z",
+  "generated_at": "2026-08-11T01:57:48.433Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "trust"
     ],
     [
+      "killed",
+      4,
+      "fear"
+    ],
+    [
       "demands",
       4,
       "anger"
@@ -63,9 +68,14 @@
       "anger"
     ],
     [
-      "earthquake",
+      "people",
       3,
-      "anger"
+      "trust"
+    ],
+    [
+      "building",
+      3,
+      "anticipation"
     ],
     [
       "strait",
@@ -118,22 +128,27 @@
       "anticipation"
     ],
     [
-      "killed",
-      3,
+      "earthquake",
+      2,
+      "anger"
+    ],
+    [
+      "collapse",
+      2,
+      "fear"
+    ],
+    [
+      "powerful",
+      2,
+      "anger"
+    ],
+    [
+      "quake",
+      2,
       "fear"
     ],
     [
       "warning",
-      2,
-      "fear"
-    ],
-    [
-      "collapsed",
-      2,
-      "fear"
-    ],
-    [
-      "quake",
       2,
       "fear"
     ],
@@ -166,11 +181,6 @@
       "challenge",
       2,
       "anger"
-    ],
-    [
-      "people",
-      2,
-      "trust"
     ],
     [
       "evacuated",
@@ -283,6 +293,26 @@
       "fear"
     ],
     [
+      "rubble",
+      1,
+      "fear"
+    ],
+    [
+      "teams",
+      1,
+      "trust"
+    ],
+    [
+      "debris",
+      1,
+      "disgust"
+    ],
+    [
+      "damaged",
+      1,
+      "anger"
+    ],
+    [
       "voting",
       1,
       "anger"
@@ -296,11 +326,6 @@
       "progress",
       1,
       "joy"
-    ],
-    [
-      "aftermath",
-      1,
-      "anger"
     ],
     [
       "pay",
@@ -321,16 +346,6 @@
       "scores",
       1,
       "surprise"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "collapses",
-      1,
-      "fear"
     ],
     [
       "damages",
@@ -361,31 +376,16 @@
       "tackle",
       1,
       "anger"
-    ],
-    [
-      "deep",
-      1,
-      "joy"
-    ],
-    [
-      "strangle",
-      1,
-      "anger"
-    ],
-    [
-      "economy",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 57,
-    "fear": 77,
+    "trust": 59,
+    "fear": 78,
     "surprise": 9,
     "sadness": 16,
-    "disgust": 3,
+    "disgust": 4,
     "anger": 120,
-    "anticipation": 29
+    "anticipation": 32
   }
 }
