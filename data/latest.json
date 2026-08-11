@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:21:11.579Z",
+  "generated_at": "2026-08-11T16:36:14.225Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anger"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "president",
       4,
       "trust"
@@ -63,24 +58,24 @@
       "fear"
     ],
     [
-      "typhoon",
-      3,
-      "fear"
-    ],
-    [
-      "dolphin",
-      3,
-      "surprise"
-    ],
-    [
       "prison",
       3,
       "anger"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "quake",
       3,
       "fear"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "school",
@@ -143,9 +138,19 @@
       "anticipation"
     ],
     [
-      "storm",
+      "typhoon",
       2,
-      "anger"
+      "fear"
+    ],
+    [
+      "dolphin",
+      2,
+      "surprise"
+    ],
+    [
+      "flooding",
+      2,
+      "fear"
     ],
     [
       "sentence",
@@ -159,11 +164,6 @@
     ],
     [
       "earthquake",
-      2,
-      "anger"
-    ],
-    [
-      "hit",
       2,
       "anger"
     ],
@@ -243,6 +243,11 @@
       "trust"
     ],
     [
+      "rain",
+      2,
+      "joy"
+    ],
+    [
       "leave",
       2,
       "sadness"
@@ -308,6 +313,16 @@
       "fear"
     ],
     [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "worse",
+      1,
+      "fear"
+    ],
+    [
       "marine",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "committed",
       1,
       "trust"
-    ],
-    [
-      "scores",
-      1,
-      "surprise"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "collapses",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 62,
-    "fear": 71,
-    "surprise": 16,
+    "joy": 18,
+    "trust": 61,
+    "fear": 72,
+    "surprise": 15,
     "sadness": 20,
     "disgust": 2,
     "anger": 119,
-    "anticipation": 29
+    "anticipation": 30
   }
 }
