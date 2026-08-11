@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T04:59:23.126Z",
+  "generated_at": "2026-08-11T05:14:25.692Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,14 +63,9 @@
       "fear"
     ],
     [
-      "building",
+      "happened",
       3,
       "anticipation"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
     ],
     [
       "flu",
@@ -123,31 +118,6 @@
       "anticipation"
     ],
     [
-      "earthquake",
-      2,
-      "anger"
-    ],
-    [
-      "people",
-      2,
-      "trust"
-    ],
-    [
-      "collapse",
-      2,
-      "fear"
-    ],
-    [
-      "powerful",
-      2,
-      "anger"
-    ],
-    [
-      "quake",
-      2,
-      "fear"
-    ],
-    [
       "victim",
       2,
       "anger"
@@ -156,6 +126,11 @@
       "father",
       2,
       "trust"
+    ],
+    [
+      "quake",
+      2,
+      "fear"
     ],
     [
       "prepares",
@@ -198,11 +173,6 @@
       "trust"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "prison",
       2,
       "anger"
@@ -221,6 +191,11 @@
       "evacuated",
       2,
       "fear"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
     ],
     [
       "magnet",
@@ -293,6 +268,11 @@
       "trust"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
       "hunter",
       1,
       "fear"
@@ -328,26 +308,6 @@
       "trust"
     ],
     [
-      "rubble",
-      1,
-      "fear"
-    ],
-    [
-      "teams",
-      1,
-      "trust"
-    ],
-    [
-      "debris",
-      1,
-      "disgust"
-    ],
-    [
-      "damaged",
-      1,
-      "anger"
-    ],
-    [
       "mourn",
       1,
       "sadness"
@@ -363,6 +323,21 @@
       "surprise"
     ],
     [
+      "powerful",
+      1,
+      "anger"
+    ],
+    [
+      "earthquake",
+      1,
+      "anger"
+    ],
+    [
+      "collapses",
+      1,
+      "fear"
+    ],
+    [
       "damages",
       1,
       "sadness"
@@ -376,16 +351,41 @@
       "hopes",
       1,
       "surprise"
+    ],
+    [
+      "catching",
+      1,
+      "surprise"
+    ],
+    [
+      "alone",
+      1,
+      "sadness"
+    ],
+    [
+      "difficult",
+      1,
+      "fear"
+    ],
+    [
+      "voting",
+      1,
+      "anger"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 59,
-    "fear": 79,
+    "trust": 57,
+    "fear": 76,
     "surprise": 13,
-    "sadness": 18,
-    "disgust": 4,
-    "anger": 115,
-    "anticipation": 32
+    "sadness": 19,
+    "disgust": 3,
+    "anger": 112,
+    "anticipation": 30
   }
 }
