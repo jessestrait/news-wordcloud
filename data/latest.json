@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:51:32.543Z",
+  "generated_at": "2026-08-11T17:06:34.743Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,7 +24,7 @@
     ],
     [
       "authorities",
-      6,
+      5,
       "trust"
     ],
     [
@@ -136,6 +136,11 @@
       "ship",
       3,
       "anticipation"
+    ],
+    [
+      "young",
+      2,
+      "surprise"
     ],
     [
       "typhoon",
@@ -298,11 +303,6 @@
       "trust"
     ],
     [
-      "fear",
-      2,
-      "anger"
-    ],
-    [
       "black",
       2,
       "sadness"
@@ -311,6 +311,36 @@
       "missile",
       2,
       "fear"
+    ],
+    [
+      "combating",
+      1,
+      "anger"
+    ],
+    [
+      "letters",
+      1,
+      "anticipation"
+    ],
+    [
+      "armed",
+      1,
+      "anger"
+    ],
+    [
+      "resistance",
+      1,
+      "anger"
+    ],
+    [
+      "michael",
+      1,
+      "trust"
+    ],
+    [
+      "lodge",
+      1,
+      "surprise"
     ],
     [
       "expected",
@@ -346,46 +376,16 @@
       "deadly",
       1,
       "anger"
-    ],
-    [
-      "collapsed",
-      1,
-      "fear"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
-    ],
-    [
-      "verdict",
-      1,
-      "fear"
-    ],
-    [
-      "atrocities",
-      1,
-      "anger"
-    ],
-    [
-      "committed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 61,
+    "trust": 60,
     "fear": 72,
-    "surprise": 15,
+    "surprise": 17,
     "sadness": 20,
     "disgust": 2,
-    "anger": 119,
+    "anger": 118,
     "anticipation": 30
   }
 }
