@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:28:36.662Z",
+  "generated_at": "2026-08-11T03:43:39.264Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,16 +138,6 @@
       "anticipation"
     ],
     [
-      "victim",
-      2,
-      "anger"
-    ],
-    [
-      "father",
-      2,
-      "trust"
-    ],
-    [
       "earthquake",
       2,
       "anger"
@@ -166,6 +156,16 @@
       "quake",
       2,
       "fear"
+    ],
+    [
+      "victim",
+      2,
+      "anger"
+    ],
+    [
+      "father",
+      2,
+      "trust"
     ],
     [
       "mortalities",
@@ -293,16 +293,6 @@
       "fear"
     ],
     [
-      "mourn",
-      1,
-      "sadness"
-    ],
-    [
-      "shooter",
-      1,
-      "anger"
-    ],
-    [
       "rubble",
       1,
       "fear"
@@ -319,6 +309,16 @@
     ],
     [
       "damaged",
+      1,
+      "anger"
+    ],
+    [
+      "mourn",
+      1,
+      "sadness"
+    ],
+    [
+      "shooter",
       1,
       "anger"
     ],
