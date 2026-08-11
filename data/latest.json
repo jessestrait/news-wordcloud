@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:14:49.533Z",
+  "generated_at": "2026-08-11T05:29:52.004Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,6 +118,11 @@
       "anticipation"
     ],
     [
+      "quake",
+      2,
+      "fear"
+    ],
+    [
       "victim",
       2,
       "anger"
@@ -126,11 +131,6 @@
       "father",
       2,
       "trust"
-    ],
-    [
-      "quake",
-      2,
-      "fear"
     ],
     [
       "prepares",
