@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:06:09.129Z",
+  "generated_at": "2026-08-11T16:21:11.579Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,16 +63,6 @@
       "fear"
     ],
     [
-      "prison",
-      3,
-      "anger"
-    ],
-    [
-      "quake",
-      3,
-      "fear"
-    ],
-    [
       "typhoon",
       3,
       "fear"
@@ -81,6 +71,16 @@
       "dolphin",
       3,
       "surprise"
+    ],
+    [
+      "prison",
+      3,
+      "anger"
+    ],
+    [
+      "quake",
+      3,
+      "fear"
     ],
     [
       "school",
@@ -143,6 +143,11 @@
       "anticipation"
     ],
     [
+      "storm",
+      2,
+      "anger"
+    ],
+    [
       "sentence",
       2,
       "anger"
@@ -176,11 +181,6 @@
       "death",
       2,
       "sadness"
-    ],
-    [
-      "storm",
-      2,
-      "anger"
     ],
     [
       "victim",
