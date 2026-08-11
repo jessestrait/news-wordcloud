@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:47:29.799Z",
+  "generated_at": "2026-08-11T10:02:31.634Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
+      "authorities",
+      6,
+      "trust"
+    ],
+    [
       "strike",
       6,
       "anger"
-    ],
-    [
-      "authorities",
-      5,
-      "trust"
     ],
     [
       "attack",
@@ -138,6 +138,11 @@
       "fear"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
       "quake",
       2,
       "fear"
@@ -233,6 +238,11 @@
       "joy"
     ],
     [
+      "force",
+      2,
+      "anger"
+    ],
+    [
       "crime",
       2,
       "anger"
@@ -286,11 +296,6 @@
       "ally",
       2,
       "trust"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
     ],
     [
       "injured",
@@ -371,21 +376,16 @@
       "captivity",
       1,
       "sadness"
-    ],
-    [
-      "hopes",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 57,
-    "fear": 74,
+    "joy": 20,
+    "trust": 58,
+    "fear": 73,
     "surprise": 15,
     "sadness": 19,
     "disgust": 2,
-    "anger": 109,
+    "anger": 113,
     "anticipation": 29
   }
 }
