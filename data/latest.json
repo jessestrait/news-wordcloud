@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:18:14.674Z",
+  "generated_at": "2026-08-11T11:33:17.489Z",
   "article_count": 50,
   "top_words": [
     [
@@ -29,13 +29,8 @@
     ],
     [
       "strike",
-      6,
+      5,
       "anger"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "shooting",
@@ -53,12 +48,7 @@
       "fear"
     ],
     [
-      "attack",
-      4,
-      "anger"
-    ],
-    [
-      "officials",
+      "people",
       3,
       "trust"
     ],
@@ -118,6 +108,11 @@
       "anticipation"
     ],
     [
+      "attack",
+      3,
+      "anger"
+    ],
+    [
       "fire",
       3,
       "fear"
@@ -138,12 +133,7 @@
       "anticipation"
     ],
     [
-      "missile",
-      3,
-      "fear"
-    ],
-    [
-      "killed",
+      "risk",
       2,
       "fear"
     ],
@@ -223,6 +213,11 @@
       "anger"
     ],
     [
+      "officials",
+      2,
+      "trust"
+    ],
+    [
       "leave",
       2,
       "sadness"
@@ -288,14 +283,14 @@
       "sadness"
     ],
     [
+      "missile",
+      2,
+      "fear"
+    ],
+    [
       "ally",
       2,
       "trust"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
     ],
     [
       "court",
@@ -376,16 +371,21 @@
       "enthusiasts",
       1,
       "surprise"
+    ],
+    [
+      "confirmed",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 60,
-    "fear": 72,
+    "trust": 58,
+    "fear": 70,
     "surprise": 15,
     "sadness": 20,
     "disgust": 2,
-    "anger": 116,
+    "anger": 114,
     "anticipation": 29
   }
 }
