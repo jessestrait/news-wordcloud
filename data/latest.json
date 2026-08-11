@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:35:45.594Z",
+  "generated_at": "2026-08-11T15:50:47.722Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "trust"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "shooting",
       4,
       "anger"
@@ -61,11 +66,6 @@
       "quake",
       3,
       "fear"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "typhoon",
@@ -386,6 +386,6 @@
     "sadness": 20,
     "disgust": 2,
     "anger": 118,
-    "anticipation": 29
+    "anticipation": 30
   }
 }
