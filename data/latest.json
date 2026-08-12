@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T05:58:47.644Z",
+  "generated_at": "2026-08-12T06:13:50.020Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anticipation"
     ],
     [
-      "shooting",
-      4,
-      "anger"
-    ],
-    [
       "trump",
       4,
       "anger"
@@ -53,9 +48,9 @@
       "anger"
     ],
     [
-      "police",
-      4,
-      "fear"
+      "deadly",
+      3,
+      "anger"
     ],
     [
       "experts",
@@ -113,11 +108,6 @@
       "trust"
     ],
     [
-      "school",
-      3,
-      "trust"
-    ],
-    [
       "rejects",
       3,
       "anger"
@@ -148,6 +138,11 @@
       "anger"
     ],
     [
+      "blame",
+      2,
+      "anger"
+    ],
+    [
       "wildfires",
       2,
       "fear"
@@ -166,11 +161,6 @@
       "missiles",
       2,
       "fear"
-    ],
-    [
-      "deadly",
-      2,
-      "anger"
     ],
     [
       "attack",
@@ -213,6 +203,11 @@
       "sadness"
     ],
     [
+      "shooting",
+      2,
+      "anger"
+    ],
+    [
       "victim",
       2,
       "anger"
@@ -239,6 +234,11 @@
     ],
     [
       "hormuz",
+      2,
+      "fear"
+    ],
+    [
+      "police",
       2,
       "fear"
     ],
@@ -285,6 +285,11 @@
     [
       "accounts",
       2,
+      "trust"
+    ],
+    [
+      "world",
+      1,
       "trust"
     ],
     [
@@ -371,21 +376,16 @@
       "armed",
       1,
       "anger"
-    ],
-    [
-      "resistance",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 56,
-    "fear": 74,
+    "trust": 55,
+    "fear": 70,
     "surprise": 16,
     "sadness": 17,
     "disgust": 2,
-    "anger": 116,
+    "anger": 115,
     "anticipation": 29
   }
 }
