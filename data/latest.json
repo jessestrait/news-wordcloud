@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:04:39.460Z",
+  "generated_at": "2026-08-12T16:19:41.871Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,6 +138,11 @@
       "surprise"
     ],
     [
+      "wildfires",
+      2,
+      "fear"
+    ],
+    [
       "alleged",
       2,
       "fear"
@@ -161,11 +166,6 @@
       "allies",
       2,
       "trust"
-    ],
-    [
-      "wildfires",
-      2,
-      "fear"
     ],
     [
       "second",
@@ -288,6 +288,16 @@
       "trust"
     ],
     [
+      "starting",
+      1,
+      "anticipation"
+    ],
+    [
+      "military",
+      1,
+      "fear"
+    ],
+    [
       "attendants",
       1,
       "trust"
@@ -366,16 +376,6 @@
       "enemies",
       1,
       "anger"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "crashes",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
