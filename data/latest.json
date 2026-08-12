@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:33:50.948Z",
+  "generated_at": "2026-08-12T14:48:53.136Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,6 +138,16 @@
       "surprise"
     ],
     [
+      "alleged",
+      2,
+      "fear"
+    ],
+    [
+      "safe",
+      2,
+      "joy"
+    ],
+    [
       "world",
       2,
       "trust"
@@ -243,11 +253,6 @@
       "fear"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "battling",
       2,
       "anger"
@@ -273,11 +278,6 @@
       "trust"
     ],
     [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
       "force",
       2,
       "anger"
@@ -289,6 +289,31 @@
     ],
     [
       "witnessed",
+      1,
+      "trust"
+    ],
+    [
+      "attendants",
+      1,
+      "trust"
+    ],
+    [
+      "class",
+      1,
+      "sadness"
+    ],
+    [
+      "allegations",
+      1,
+      "anger"
+    ],
+    [
+      "assault",
+      1,
+      "anger"
+    ],
+    [
+      "pilot",
       1,
       "trust"
     ],
@@ -351,41 +376,16 @@
       "happens",
       1,
       "anticipation"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
-    ],
-    [
-      "starting",
-      1,
-      "anticipation"
-    ],
-    [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "dementia",
-      1,
-      "fear"
-    ],
-    [
-      "losing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 16,
-    "trust": 54,
-    "fear": 72,
+    "joy": 17,
+    "trust": 55,
+    "fear": 71,
     "surprise": 19,
     "sadness": 16,
     "disgust": 2,
-    "anger": 110,
-    "anticipation": 25
+    "anger": 112,
+    "anticipation": 24
   }
 }
