@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-08-12T21:22:48.915Z",
+  "generated_at": "2026-08-12T21:37:51.671Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       11,
       "anger"
-    ],
-    [
-      "government",
-      6,
-      "fear"
     ],
     [
       "happened",
@@ -26,6 +21,11 @@
       "people",
       5,
       "trust"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "prison",
@@ -113,6 +113,11 @@
       "trust"
     ],
     [
+      "soldier",
+      3,
+      "anger"
+    ],
+    [
       "rejects",
       3,
       "anger"
@@ -128,19 +133,19 @@
       "anticipation"
     ],
     [
-      "fire",
-      3,
-      "fear"
-    ],
-    [
-      "force",
-      3,
-      "anger"
+      "homes",
+      2,
+      "joy"
     ],
     [
       "enthusiasts",
       2,
       "surprise"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
     ],
     [
       "letters",
@@ -151,11 +156,6 @@
       "class",
       2,
       "sadness"
-    ],
-    [
-      "wildfires",
-      2,
-      "fear"
     ],
     [
       "intelligence",
@@ -203,6 +203,11 @@
       "anger"
     ],
     [
+      "family",
+      2,
+      "joy"
+    ],
+    [
       "earthquake",
       2,
       "anger"
@@ -238,14 +243,9 @@
       "fear"
     ],
     [
-      "soldier",
+      "fire",
       2,
-      "anger"
-    ],
-    [
-      "battling",
-      2,
-      "anger"
+      "fear"
     ],
     [
       "brain",
@@ -266,6 +266,21 @@
       "magnet",
       2,
       "trust"
+    ],
+    [
+      "bank",
+      1,
+      "trust"
+    ],
+    [
+      "medical",
+      1,
+      "fear"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
     ],
     [
       "watch",
@@ -333,6 +348,11 @@
       "anticipation"
     ],
     [
+      "wildfires",
+      1,
+      "fear"
+    ],
+    [
       "emergency",
       1,
       "fear"
@@ -356,36 +376,16 @@
       "safe",
       1,
       "joy"
-    ],
-    [
-      "allegations",
-      1,
-      "anger"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
-    ],
-    [
-      "pilot",
-      1,
-      "trust"
-    ],
-    [
-      "politics",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 14,
-    "trust": 54,
-    "fear": 72,
+    "joy": 17,
+    "trust": 55,
+    "fear": 70,
     "surprise": 19,
     "sadness": 17,
     "disgust": 4,
-    "anger": 106,
+    "anger": 105,
     "anticipation": 23
   }
 }
