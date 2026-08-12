@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:52:24.979Z",
+  "generated_at": "2026-08-12T21:07:27.452Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "government",
       6,
       "fear"
+    ],
+    [
+      "happened",
+      5,
+      "anticipation"
     ],
     [
       "trump",
@@ -26,11 +31,6 @@
       "prison",
       4,
       "anger"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "authorities",
@@ -386,6 +386,6 @@
     "sadness": 17,
     "disgust": 4,
     "anger": 106,
-    "anticipation": 22
+    "anticipation": 23
   }
 }
