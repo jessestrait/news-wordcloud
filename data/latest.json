@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-08-12T13:18:02.402Z",
+  "generated_at": "2026-08-12T13:33:05.115Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      12,
+      11,
       "anger"
     ],
     [
       "government",
       6,
       "fear"
-    ],
-    [
-      "prison",
-      5,
-      "anger"
     ],
     [
       "strike",
@@ -26,6 +21,11 @@
       "people",
       4,
       "trust"
+    ],
+    [
+      "prison",
+      4,
+      "anger"
     ],
     [
       "demands",
@@ -39,11 +39,6 @@
     ],
     [
       "trump",
-      4,
-      "anger"
-    ],
-    [
-      "iran",
       4,
       "anger"
     ],
@@ -108,6 +103,11 @@
       "trust"
     ],
     [
+      "iran",
+      3,
+      "anger"
+    ],
+    [
       "rejects",
       3,
       "anger"
@@ -128,14 +128,14 @@
       "fear"
     ],
     [
-      "crews",
-      3,
-      "trust"
-    ],
-    [
       "crime",
       3,
       "anger"
+    ],
+    [
+      "enthusiasts",
+      2,
+      "surprise"
     ],
     [
       "world",
@@ -288,6 +288,11 @@
       "trust"
     ],
     [
+      "witnessed",
+      1,
+      "trust"
+    ],
+    [
       "operation",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "losing",
       1,
       "anger"
-    ],
-    [
-      "case",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 16,
-    "trust": 55,
-    "fear": 73,
-    "surprise": 18,
+    "trust": 54,
+    "fear": 72,
+    "surprise": 19,
     "sadness": 16,
     "disgust": 2,
-    "anger": 113,
-    "anticipation": 26
+    "anger": 110,
+    "anticipation": 25
   }
 }
