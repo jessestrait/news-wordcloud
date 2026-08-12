@@ -1,20 +1,10 @@
 {
-  "generated_at": "2026-08-12T23:23:39.704Z",
+  "generated_at": "2026-08-12T23:38:41.809Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       11,
-      "anger"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
-      "trump",
-      5,
       "anger"
     ],
     [
@@ -26,6 +16,16 @@
       "government",
       5,
       "fear"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "prison",
@@ -116,21 +116,6 @@
       "soldier",
       3,
       "anger"
-    ],
-    [
-      "rejects",
-      3,
-      "anger"
-    ],
-    [
-      "gaza",
-      3,
-      "anger"
-    ],
-    [
-      "plan",
-      3,
-      "anticipation"
     ],
     [
       "homes",
@@ -243,6 +228,21 @@
       "fear"
     ],
     [
+      "rejects",
+      2,
+      "anger"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
       "fire",
       2,
       "fear"
@@ -266,6 +266,36 @@
       "magnet",
       2,
       "trust"
+    ],
+    [
+      "boil",
+      1,
+      "disgust"
+    ],
+    [
+      "ground",
+      1,
+      "trust"
+    ],
+    [
+      "suffering",
+      1,
+      "fear"
+    ],
+    [
+      "highest",
+      1,
+      "fear"
+    ],
+    [
+      "cruelly",
+      1,
+      "anger"
+    ],
+    [
+      "hot",
+      1,
+      "anger"
     ],
     [
       "bank",
@@ -346,46 +376,16 @@
       "starting",
       1,
       "anticipation"
-    ],
-    [
-      "wildfires",
-      1,
-      "fear"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "attendants",
-      1,
-      "trust"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
-    ],
-    [
-      "safe",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 55,
-    "fear": 70,
+    "joy": 16,
+    "trust": 56,
+    "fear": 72,
     "surprise": 19,
     "sadness": 17,
-    "disgust": 4,
-    "anger": 105,
-    "anticipation": 23
+    "disgust": 5,
+    "anger": 104,
+    "anticipation": 21
   }
 }
