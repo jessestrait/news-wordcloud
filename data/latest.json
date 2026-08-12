@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:36:03.197Z",
+  "generated_at": "2026-08-12T18:51:06.277Z",
   "article_count": 50,
   "top_words": [
     [
@@ -41,6 +41,11 @@
       "strike",
       4,
       "anger"
+    ],
+    [
+      "case",
+      3,
+      "fear"
     ],
     [
       "world",
@@ -133,11 +138,6 @@
       "anger"
     ],
     [
-      "crime",
-      3,
-      "anger"
-    ],
-    [
       "enthusiasts",
       2,
       "surprise"
@@ -154,11 +154,6 @@
     ],
     [
       "wildfires",
-      2,
-      "fear"
-    ],
-    [
-      "alleged",
       2,
       "fear"
     ],
@@ -273,9 +268,39 @@
       "trust"
     ],
     [
+      "watch",
+      1,
+      "fear"
+    ],
+    [
       "witnessed",
       1,
       "trust"
+    ],
+    [
+      "governor",
+      1,
+      "trust"
+    ],
+    [
+      "vanished",
+      1,
+      "fear"
+    ],
+    [
+      "indicted",
+      1,
+      "anger"
+    ],
+    [
+      "brutal",
+      1,
+      "anger"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
     ],
     [
       "delay",
@@ -323,6 +348,11 @@
       "trust"
     ],
     [
+      "alleged",
+      1,
+      "fear"
+    ],
+    [
       "safe",
       1,
       "joy"
@@ -346,46 +376,16 @@
       "politics",
       1,
       "anger"
-    ],
-    [
-      "usual",
-      1,
-      "trust"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "shrinks",
-      1,
-      "fear"
-    ],
-    [
-      "festival",
-      1,
-      "surprise"
-    ],
-    [
-      "directors",
-      1,
-      "trust"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 14,
-    "trust": 53,
-    "fear": 69,
+    "trust": 54,
+    "fear": 72,
     "surprise": 19,
     "sadness": 17,
     "disgust": 4,
-    "anger": 107,
-    "anticipation": 24
+    "anger": 106,
+    "anticipation": 22
   }
 }
