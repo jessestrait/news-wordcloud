@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:31:21.033Z",
+  "generated_at": "2026-08-12T10:46:23.539Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,11 +16,6 @@
       "prison",
       5,
       "anger"
-    ],
-    [
-      "authorities",
-      5,
-      "trust"
     ],
     [
       "strike",
@@ -46,6 +41,11 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "authorities",
+      4,
+      "trust"
     ],
     [
       "deadly",
@@ -138,9 +138,19 @@
       "anger"
     ],
     [
-      "blame",
+      "intelligence",
       2,
-      "anger"
+      "fear"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
+    ],
+    [
+      "world",
+      2,
+      "trust"
     ],
     [
       "wildfires",
@@ -181,11 +191,6 @@
       "sentence",
       2,
       "anger"
-    ],
-    [
-      "family",
-      2,
-      "joy"
     ],
     [
       "earthquake",
@@ -278,19 +283,69 @@
       "anger"
     ],
     [
-      "game",
-      2,
-      "anticipation"
-    ],
-    [
       "accounts",
       2,
       "trust"
     ],
     [
-      "world",
+      "approves",
       1,
-      "trust"
+      "joy"
+    ],
+    [
+      "revolution",
+      1,
+      "anger"
+    ],
+    [
+      "enemies",
+      1,
+      "anger"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "crashes",
+      1,
+      "fear"
+    ],
+    [
+      "surges",
+      1,
+      "surprise"
+    ],
+    [
+      "helmet",
+      1,
+      "fear"
+    ],
+    [
+      "injuries",
+      1,
+      "anger"
+    ],
+    [
+      "operation",
+      1,
+      "fear"
+    ],
+    [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
+      "blame",
+      1,
+      "anger"
     ],
     [
       "happens",
@@ -321,71 +376,16 @@
       "losing",
       1,
       "anger"
-    ],
-    [
-      "case",
-      1,
-      "fear"
-    ],
-    [
-      "deported",
-      1,
-      "fear"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "confidence",
-      1,
-      "fear"
-    ],
-    [
-      "vote",
-      1,
-      "anger"
-    ],
-    [
-      "speculation",
-      1,
-      "fear"
-    ],
-    [
-      "passenger",
-      1,
-      "anticipation"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
-      "combating",
-      1,
-      "anger"
-    ],
-    [
-      "letters",
-      1,
-      "anticipation"
-    ],
-    [
-      "armed",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 55,
-    "fear": 70,
-    "surprise": 16,
-    "sadness": 17,
+    "joy": 16,
+    "trust": 54,
+    "fear": 74,
+    "surprise": 18,
+    "sadness": 16,
     "disgust": 2,
-    "anger": 115,
-    "anticipation": 29
+    "anger": 113,
+    "anticipation": 26
   }
 }
