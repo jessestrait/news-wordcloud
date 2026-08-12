@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-12T01:11:19.065Z",
+  "generated_at": "2026-08-12T01:26:21.137Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      12,
+      14,
       "anger"
     ],
     [
       "government",
-      7,
-      "fear"
-    ],
-    [
-      "trump",
       6,
-      "anger"
+      "fear"
     ],
     [
       "iran",
       6,
+      "anger"
+    ],
+    [
+      "trump",
+      5,
       "anger"
     ],
     [
@@ -30,6 +30,16 @@
     [
       "strike",
       5,
+      "anger"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
+      "attack",
+      4,
       "anger"
     ],
     [
@@ -73,11 +83,6 @@
       "fear"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "school",
       3,
       "trust"
@@ -113,11 +118,6 @@
       "anticipation"
     ],
     [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
       "fire",
       3,
       "fear"
@@ -136,6 +136,16 @@
       "ship",
       3,
       "anticipation"
+    ],
+    [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
     ],
     [
       "young",
@@ -198,11 +208,6 @@
       "trust"
     ],
     [
-      "prepares",
-      2,
-      "anticipation"
-    ],
-    [
       "mortalities",
       2,
       "anger"
@@ -211,11 +216,6 @@
       "wild",
       2,
       "surprise"
-    ],
-    [
-      "warning",
-      2,
-      "fear"
     ],
     [
       "soldier",
@@ -246,6 +246,11 @@
       "officials",
       2,
       "trust"
+    ],
+    [
+      "warn",
+      2,
+      "fear"
     ],
     [
       "rain",
@@ -308,9 +313,9 @@
       "sadness"
     ],
     [
-      "missile",
-      2,
-      "fear"
+      "opposition",
+      1,
+      "anger"
     ],
     [
       "combating",
@@ -371,11 +376,6 @@
       "counts",
       1,
       "trust"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 17,
     "sadness": 20,
     "disgust": 2,
-    "anger": 118,
-    "anticipation": 30
+    "anger": 123,
+    "anticipation": 29
   }
 }
