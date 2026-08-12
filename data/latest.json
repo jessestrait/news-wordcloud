@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:50:35.294Z",
+  "generated_at": "2026-08-12T18:05:37.937Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "government",
       6,
       "fear"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "people",
@@ -26,11 +31,6 @@
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
     ],
     [
       "authorities",
@@ -128,6 +128,11 @@
       "fear"
     ],
     [
+      "force",
+      3,
+      "anger"
+    ],
+    [
       "crime",
       3,
       "anger"
@@ -156,11 +161,6 @@
       "alleged",
       2,
       "fear"
-    ],
-    [
-      "safe",
-      2,
-      "joy"
     ],
     [
       "intelligence",
@@ -273,14 +273,29 @@
       "trust"
     ],
     [
-      "force",
-      2,
-      "anger"
-    ],
-    [
       "witnessed",
       1,
       "trust"
+    ],
+    [
+      "delay",
+      1,
+      "anger"
+    ],
+    [
+      "defies",
+      1,
+      "anger"
+    ],
+    [
+      "americans",
+      1,
+      "sadness"
+    ],
+    [
+      "crude",
+      1,
+      "disgust"
     ],
     [
       "obituary",
@@ -311,6 +326,11 @@
       "attendants",
       1,
       "trust"
+    ],
+    [
+      "safe",
+      1,
+      "joy"
     ],
     [
       "allegations",
@@ -356,36 +376,16 @@
       "directors",
       1,
       "trust"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
-    ],
-    [
-      "approves",
-      1,
-      "joy"
-    ],
-    [
-      "revolution",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 16,
-    "trust": 55,
-    "fear": 70,
-    "surprise": 20,
-    "sadness": 16,
-    "disgust": 3,
-    "anger": 105,
-    "anticipation": 25
+    "joy": 14,
+    "trust": 53,
+    "fear": 69,
+    "surprise": 19,
+    "sadness": 17,
+    "disgust": 4,
+    "anger": 108,
+    "anticipation": 24
   }
 }
