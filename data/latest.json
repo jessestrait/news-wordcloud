@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:21:00.601Z",
+  "generated_at": "2026-08-12T18:36:03.197Z",
   "article_count": 50,
   "top_words": [
     [
@@ -283,11 +283,6 @@
       "anger"
     ],
     [
-      "defies",
-      1,
-      "anger"
-    ],
-    [
       "americans",
       1,
       "sadness"
@@ -376,6 +371,11 @@
       "directors",
       1,
       "trust"
+    ],
+    [
+      "operation",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 19,
     "sadness": 17,
     "disgust": 4,
-    "anger": 108,
+    "anger": 107,
     "anticipation": 24
   }
 }
