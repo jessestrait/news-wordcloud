@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:34:44.280Z",
+  "generated_at": "2026-08-12T16:49:46.661Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "fear"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "strike",
       5,
       "anger"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "prison",
@@ -45,6 +45,11 @@
     [
       "authorities",
       4,
+      "trust"
+    ],
+    [
+      "world",
+      3,
       "trust"
     ],
     [
@@ -151,11 +156,6 @@
       "safe",
       2,
       "joy"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "intelligence",
@@ -288,9 +288,19 @@
       "trust"
     ],
     [
+      "obituary",
+      1,
+      "sadness"
+    ],
+    [
       "starting",
       1,
       "anticipation"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
     ],
     [
       "military",
@@ -366,26 +376,16 @@
       "approves",
       1,
       "joy"
-    ],
-    [
-      "revolution",
-      1,
-      "anger"
-    ],
-    [
-      "enemies",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 53,
-    "fear": 71,
+    "joy": 16,
+    "trust": 55,
+    "fear": 72,
     "surprise": 20,
     "sadness": 16,
     "disgust": 3,
-    "anger": 113,
+    "anger": 110,
     "anticipation": 24
   }
 }
