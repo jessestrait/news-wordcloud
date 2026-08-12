@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T03:57:51.266Z",
+  "generated_at": "2026-08-12T04:12:53.728Z",
   "article_count": 50,
   "top_words": [
     [
@@ -25,11 +25,6 @@
     [
       "strike",
       5,
-      "anger"
-    ],
-    [
-      "hit",
-      4,
       "anger"
     ],
     [
@@ -63,7 +58,22 @@
       "fear"
     ],
     [
+      "leave",
+      3,
+      "sadness"
+    ],
+    [
+      "court",
+      3,
+      "anger"
+    ],
+    [
       "challenge",
+      3,
+      "anger"
+    ],
+    [
+      "hit",
       3,
       "anger"
     ],
@@ -91,11 +101,6 @@
       "school",
       3,
       "trust"
-    ],
-    [
-      "flu",
-      3,
-      "fear"
     ],
     [
       "strait",
@@ -145,6 +150,11 @@
     [
       "missile",
       3,
+      "fear"
+    ],
+    [
+      "wildfires",
+      2,
       "fear"
     ],
     [
@@ -208,11 +218,6 @@
       "surprise"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
       "death",
       2,
       "sadness"
@@ -228,24 +233,14 @@
       "trust"
     ],
     [
-      "mortalities",
+      "flu",
       2,
-      "anger"
-    ],
-    [
-      "wild",
-      2,
-      "surprise"
+      "fear"
     ],
     [
       "soldier",
       2,
       "anger"
-    ],
-    [
-      "intelligence",
-      2,
-      "fear"
     ],
     [
       "battling",
@@ -273,11 +268,6 @@
       "joy"
     ],
     [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
       "magnet",
       2,
       "trust"
@@ -291,11 +281,6 @@
       "force",
       2,
       "anger"
-    ],
-    [
-      "global",
-      2,
-      "anticipation"
     ],
     [
       "game",
@@ -313,19 +298,44 @@
       "trust"
     ],
     [
-      "based",
-      2,
-      "trust"
-    ],
-    [
-      "shows",
-      2,
-      "trust"
-    ],
-    [
       "black",
       2,
       "sadness"
+    ],
+    [
+      "starting",
+      1,
+      "anticipation"
+    ],
+    [
+      "military",
+      1,
+      "fear"
+    ],
+    [
+      "dementia",
+      1,
+      "fear"
+    ],
+    [
+      "losing",
+      1,
+      "anger"
+    ],
+    [
+      "case",
+      1,
+      "fear"
+    ],
+    [
+      "deported",
+      1,
+      "fear"
+    ],
+    [
+      "ruling",
+      1,
+      "fear"
     ],
     [
       "confidence",
@@ -366,26 +376,16 @@
       "armed",
       1,
       "anger"
-    ],
-    [
-      "resistance",
-      1,
-      "anger"
-    ],
-    [
-      "michael",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 60,
-    "fear": 74,
-    "surprise": 17,
+    "trust": 55,
+    "fear": 75,
+    "surprise": 16,
     "sadness": 20,
     "disgust": 2,
-    "anger": 120,
+    "anger": 119,
     "anticipation": 30
   }
 }
