@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:05:05.802Z",
+  "generated_at": "2026-08-12T17:20:08.404Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,17 +18,7 @@
       "trust"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
       "prison",
-      4,
-      "anger"
-    ],
-    [
-      "demands",
       4,
       "anger"
     ],
@@ -48,6 +38,11 @@
       "trust"
     ],
     [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
       "world",
       3,
       "trust"
@@ -61,6 +56,11 @@
       "experts",
       3,
       "trust"
+    ],
+    [
+      "demands",
+      3,
+      "anger"
     ],
     [
       "typhoon",
@@ -108,11 +108,6 @@
       "trust"
     ],
     [
-      "iran",
-      3,
-      "anger"
-    ],
-    [
       "rejects",
       3,
       "anger"
@@ -141,6 +136,16 @@
       "enthusiasts",
       2,
       "surprise"
+    ],
+    [
+      "letters",
+      2,
+      "anticipation"
+    ],
+    [
+      "class",
+      2,
+      "sadness"
     ],
     [
       "wildfires",
@@ -243,16 +248,6 @@
       "anger"
     ],
     [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
-      "hormuz",
-      2,
-      "fear"
-    ],
-    [
       "battling",
       2,
       "anger"
@@ -293,6 +288,11 @@
       "sadness"
     ],
     [
+      "explained",
+      1,
+      "trust"
+    ],
+    [
       "starting",
       1,
       "anticipation"
@@ -311,11 +311,6 @@
       "attendants",
       1,
       "trust"
-    ],
-    [
-      "class",
-      1,
-      "sadness"
     ],
     [
       "allegations",
@@ -376,16 +371,21 @@
       "approves",
       1,
       "joy"
+    ],
+    [
+      "revolution",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 16,
     "trust": 55,
-    "fear": 72,
+    "fear": 70,
     "surprise": 20,
     "sadness": 16,
     "disgust": 3,
-    "anger": 110,
-    "anticipation": 24
+    "anger": 105,
+    "anticipation": 25
   }
 }
