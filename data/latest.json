@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:03:21.491Z",
+  "generated_at": "2026-08-13T17:18:24.330Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "government",
-      6,
-      "fear"
-    ],
-    [
       "world",
       6,
       "trust"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "people",
@@ -28,14 +28,14 @@
       "anticipation"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "second",
       4,
       "trust"
-    ],
-    [
-      "airport",
-      4,
-      "anticipation"
     ],
     [
       "trump",
@@ -48,14 +48,14 @@
       "trust"
     ],
     [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
       "home",
       3,
       "joy"
+    ],
+    [
+      "airport",
+      3,
+      "anticipation"
     ],
     [
       "military",
@@ -138,14 +138,9 @@
       "fear"
     ],
     [
-      "level",
+      "deal",
       2,
-      "trust"
-    ],
-    [
-      "bomb",
-      2,
-      "anger"
+      "surprise"
     ],
     [
       "disputed",
@@ -181,11 +176,6 @@
       "class",
       2,
       "sadness"
-    ],
-    [
-      "intelligence",
-      2,
-      "fear"
     ],
     [
       "allies",
@@ -308,7 +298,42 @@
       "anger"
     ],
     [
+      "ships",
+      1,
+      "anticipation"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
+      "suggested",
+      1,
+      "trust"
+    ],
+    [
+      "agreement",
+      1,
+      "trust"
+    ],
+    [
+      "attempt",
+      1,
+      "anticipation"
+    ],
+    [
+      "crucial",
+      1,
+      "trust"
+    ],
+    [
       "diplomacy",
+      1,
+      "trust"
+    ],
+    [
+      "level",
       1,
       "trust"
     ],
@@ -316,6 +341,11 @@
       "overdue",
       1,
       "sadness"
+    ],
+    [
+      "bomb",
+      1,
+      "anger"
     ],
     [
       "friend",
@@ -346,46 +376,16 @@
       "condemns",
       1,
       "anger"
-    ],
-    [
-      "seized",
-      1,
-      "fear"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "law",
-      1,
-      "trust"
-    ],
-    [
-      "watchdog",
-      1,
-      "trust"
-    ],
-    [
-      "collision",
-      1,
-      "anger"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
     "trust": 61,
-    "fear": 67,
-    "surprise": 17,
-    "sadness": 16,
+    "fear": 64,
+    "surprise": 18,
+    "sadness": 17,
     "disgust": 4,
     "anger": 103,
-    "anticipation": 24
+    "anticipation": 25
   }
 }
