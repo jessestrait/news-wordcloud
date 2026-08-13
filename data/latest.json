@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T19:04:13.903Z",
+  "generated_at": "2026-08-13T19:19:16.425Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "people",
       5,
       "trust"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "letters",
@@ -71,11 +76,6 @@
       "military",
       3,
       "fear"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "case",
@@ -386,6 +386,6 @@
     "sadness": 17,
     "disgust": 4,
     "anger": 100,
-    "anticipation": 26
+    "anticipation": 27
   }
 }
