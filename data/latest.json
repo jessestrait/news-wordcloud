@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T08:58:41.605Z",
+  "generated_at": "2026-08-13T09:13:43.639Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anger"
     ],
     [
+      "warning",
+      3,
+      "fear"
+    ],
+    [
       "military",
       3,
       "fear"
@@ -93,11 +98,6 @@
       "anger"
     ],
     [
-      "challenge",
-      3,
-      "anger"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -108,9 +108,9 @@
       "fear"
     ],
     [
-      "official",
+      "expected",
       2,
-      "trust"
+      "anticipation"
     ],
     [
       "progress",
@@ -193,6 +193,11 @@
       "sadness"
     ],
     [
+      "challenge",
+      2,
+      "anger"
+    ],
+    [
       "prepares",
       2,
       "anticipation"
@@ -250,6 +255,11 @@
     [
       "brain",
       2,
+      "trust"
+    ],
+    [
+      "official",
+      1,
       "trust"
     ],
     [
@@ -366,26 +376,16 @@
       "governor",
       1,
       "trust"
-    ],
-    [
-      "vanished",
-      1,
-      "fear"
-    ],
-    [
-      "indicted",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 57,
-    "fear": 71,
+    "joy": 18,
+    "trust": 56,
+    "fear": 72,
     "surprise": 18,
     "sadness": 13,
     "disgust": 5,
-    "anger": 102,
-    "anticipation": 18
+    "anger": 101,
+    "anticipation": 19
   }
 }
