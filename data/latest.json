@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:31:41.453Z",
+  "generated_at": "2026-08-13T14:46:44.154Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,12 +113,12 @@
       "fear"
     ],
     [
-      "expected",
+      "force",
       2,
-      "anticipation"
+      "anger"
     ],
     [
-      "warning",
+      "wildfires",
       2,
       "fear"
     ],
@@ -283,6 +283,16 @@
       "fear"
     ],
     [
+      "battles",
+      1,
+      "anger"
+    ],
+    [
+      "fears",
+      1,
+      "anger"
+    ],
+    [
       "scientific",
       1,
       "trust"
@@ -366,16 +376,6 @@
       "middle",
       1,
       "sadness"
-    ],
-    [
-      "official",
-      1,
-      "trust"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 17,
     "sadness": 15,
     "disgust": 4,
-    "anger": 104,
-    "anticipation": 24
+    "anger": 107,
+    "anticipation": 23
   }
 }
