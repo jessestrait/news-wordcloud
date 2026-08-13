@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:33:26.998Z",
+  "generated_at": "2026-08-13T17:48:30.088Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,6 +298,11 @@
       "anger"
     ],
     [
+      "offering",
+      1,
+      "trust"
+    ],
+    [
       "ships",
       1,
       "anticipation"
@@ -371,16 +376,11 @@
       "unacceptable",
       1,
       "sadness"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 61,
+    "trust": 62,
     "fear": 64,
     "surprise": 18,
     "sadness": 17,
