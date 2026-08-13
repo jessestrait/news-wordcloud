@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:15:21.465Z",
+  "generated_at": "2026-08-13T12:30:23.987Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "trust"
     ],
     [
+      "airport",
+      4,
+      "anticipation"
+    ],
+    [
       "trump",
       4,
       "anger"
@@ -38,21 +43,6 @@
       "trust"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
-      "strike",
-      4,
-      "anger"
-    ],
-    [
-      "airport",
-      3,
-      "anticipation"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -61,6 +51,11 @@
       "family",
       3,
       "joy"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "case",
@@ -273,6 +268,16 @@
       "anger"
     ],
     [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
       "fire",
       2,
       "fear"
@@ -281,6 +286,16 @@
       "brain",
       2,
       "trust"
+    ],
+    [
+      "watchdog",
+      1,
+      "trust"
+    ],
+    [
+      "collision",
+      1,
+      "anger"
     ],
     [
       "scientific",
@@ -361,31 +376,16 @@
       "feud",
       1,
       "anger"
-    ],
-    [
-      "continues",
-      1,
-      "trust"
-    ],
-    [
-      "battlefield",
-      1,
-      "fear"
-    ],
-    [
-      "gains",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 59,
+    "trust": 60,
     "fear": 72,
     "surprise": 18,
     "sadness": 13,
     "disgust": 5,
-    "anger": 102,
-    "anticipation": 23
+    "anger": 101,
+    "anticipation": 24
   }
 }
