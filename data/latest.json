@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-13T11:14:53.721Z",
+  "generated_at": "2026-08-13T11:29:56.072Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       14,
       "anger"
+    ],
+    [
+      "government",
+      6,
+      "fear"
     ],
     [
       "world",
@@ -16,11 +21,6 @@
       "people",
       5,
       "trust"
-    ],
-    [
-      "government",
-      5,
-      "fear"
     ],
     [
       "trump",
@@ -46,11 +46,6 @@
       "strike",
       4,
       "anger"
-    ],
-    [
-      "warning",
-      3,
-      "fear"
     ],
     [
       "airport",
@@ -116,6 +111,21 @@
       "expected",
       2,
       "anticipation"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
+    ],
+    [
+      "warned",
+      2,
+      "fear"
+    ],
+    [
+      "worse",
+      2,
+      "fear"
     ],
     [
       "iran",
@@ -273,6 +283,21 @@
       "trust"
     ],
     [
+      "scientific",
+      1,
+      "trust"
+    ],
+    [
+      "adviser",
+      1,
+      "trust"
+    ],
+    [
+      "shattering",
+      1,
+      "anger"
+    ],
+    [
       "global",
       1,
       "anticipation"
@@ -351,41 +376,16 @@
       "gains",
       1,
       "joy"
-    ],
-    [
-      "plea",
-      1,
-      "fear"
-    ],
-    [
-      "boil",
-      1,
-      "disgust"
-    ],
-    [
-      "ground",
-      1,
-      "trust"
-    ],
-    [
-      "suffering",
-      1,
-      "fear"
-    ],
-    [
-      "highest",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 57,
-    "fear": 70,
+    "trust": 59,
+    "fear": 72,
     "surprise": 18,
     "sadness": 13,
     "disgust": 5,
-    "anger": 101,
+    "anger": 102,
     "anticipation": 23
   }
 }
