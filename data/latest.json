@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:42:27.878Z",
+  "generated_at": "2026-08-13T06:57:30.610Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,11 @@
       "fear"
     ],
     [
+      "homes",
+      2,
+      "joy"
+    ],
+    [
       "happens",
       2,
       "anticipation"
@@ -116,11 +121,6 @@
       "asylum",
       2,
       "fear"
-    ],
-    [
-      "homes",
-      2,
-      "joy"
     ],
     [
       "enthusiasts",
@@ -258,6 +258,21 @@
       "trust"
     ],
     [
+      "bank",
+      1,
+      "trust"
+    ],
+    [
+      "medical",
+      1,
+      "fear"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
+    ],
+    [
       "reality",
       1,
       "surprise"
@@ -331,21 +346,6 @@
       "hot",
       1,
       "anger"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
-      "medical",
-      1,
-      "fear"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
     ],
     [
       "watch",
