@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-13T13:00:44.762Z",
+  "generated_at": "2026-08-13T13:15:47.043Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      14,
+      15,
       "anger"
     ],
     [
@@ -14,6 +14,11 @@
     ],
     [
       "world",
+      6,
+      "trust"
+    ],
+    [
+      "second",
       5,
       "trust"
     ],
@@ -31,11 +36,6 @@
       "trump",
       4,
       "anger"
-    ],
-    [
-      "second",
-      4,
-      "trust"
     ],
     [
       "president",
@@ -121,6 +121,11 @@
       "worse",
       2,
       "fear"
+    ],
+    [
+      "disputed",
+      2,
+      "anger"
     ],
     [
       "iran",
@@ -283,21 +288,6 @@
       "fear"
     ],
     [
-      "brain",
-      2,
-      "trust"
-    ],
-    [
-      "watchdog",
-      1,
-      "trust"
-    ],
-    [
-      "collision",
-      1,
-      "anger"
-    ],
-    [
       "scientific",
       1,
       "trust"
@@ -309,6 +299,36 @@
     ],
     [
       "shattering",
+      1,
+      "anger"
+    ],
+    [
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
+      "seized",
+      1,
+      "fear"
+    ],
+    [
+      "late",
+      1,
+      "sadness"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
+      "watchdog",
+      1,
+      "trust"
+    ],
+    [
+      "collision",
       1,
       "anger"
     ],
@@ -356,26 +376,6 @@
       "reality",
       1,
       "surprise"
-    ],
-    [
-      "housed",
-      1,
-      "joy"
-    ],
-    [
-      "haunted",
-      1,
-      "fear"
-    ],
-    [
-      "ghost",
-      1,
-      "fear"
-    ],
-    [
-      "feud",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 60,
     "fear": 72,
     "surprise": 18,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 101,
+    "anger": 103,
     "anticipation": 24
   }
 }
