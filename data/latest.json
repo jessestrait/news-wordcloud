@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:47:00.647Z",
+  "generated_at": "2026-08-13T15:02:02.608Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,14 +43,14 @@
       "trust"
     ],
     [
-      "home",
-      3,
-      "joy"
-    ],
-    [
       "attack",
       3,
       "anger"
+    ],
+    [
+      "home",
+      3,
+      "joy"
     ],
     [
       "military",
@@ -131,6 +131,11 @@
       "worse",
       2,
       "fear"
+    ],
+    [
+      "bomb",
+      2,
+      "anger"
     ],
     [
       "disputed",
@@ -308,11 +313,6 @@
       "anger"
     ],
     [
-      "bombing",
-      1,
-      "anger"
-    ],
-    [
       "friend",
       1,
       "joy"
@@ -323,9 +323,14 @@
       "anger"
     ],
     [
-      "intended",
+      "confessed",
       1,
-      "anticipation"
+      "trust"
+    ],
+    [
+      "bombing",
+      1,
+      "anger"
     ],
     [
       "reporter",
@@ -371,21 +376,16 @@
       "global",
       1,
       "anticipation"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 60,
+    "trust": 61,
     "fear": 70,
     "surprise": 17,
     "sadness": 15,
     "disgust": 4,
-    "anger": 107,
-    "anticipation": 23
+    "anger": 108,
+    "anticipation": 22
   }
 }
