@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-13T10:14:26.528Z",
+  "generated_at": "2026-08-13T10:29:29.053Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      13,
+      14,
       "anger"
+    ],
+    [
+      "world",
+      5,
+      "trust"
     ],
     [
       "people",
@@ -28,11 +33,6 @@
       "trust"
     ],
     [
-      "world",
-      4,
-      "trust"
-    ],
-    [
       "president",
       4,
       "trust"
@@ -43,11 +43,6 @@
       "anticipation"
     ],
     [
-      "prison",
-      4,
-      "anger"
-    ],
-    [
       "strike",
       4,
       "anger"
@@ -56,6 +51,11 @@
       "warning",
       3,
       "fear"
+    ],
+    [
+      "airport",
+      3,
+      "anticipation"
     ],
     [
       "military",
@@ -74,6 +74,11 @@
     ],
     [
       "deadly",
+      3,
+      "anger"
+    ],
+    [
+      "prison",
       3,
       "anger"
     ],
@@ -111,6 +116,11 @@
       "expected",
       2,
       "anticipation"
+    ],
+    [
+      "iran",
+      2,
+      "anger"
     ],
     [
       "progress",
@@ -198,6 +208,11 @@
       "anger"
     ],
     [
+      "passenger",
+      2,
+      "anticipation"
+    ],
+    [
       "prepares",
       2,
       "anticipation"
@@ -256,6 +271,16 @@
       "brain",
       2,
       "trust"
+    ],
+    [
+      "global",
+      1,
+      "anticipation"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
     ],
     [
       "official",
@@ -351,41 +376,16 @@
       "highest",
       1,
       "fear"
-    ],
-    [
-      "cruelly",
-      1,
-      "anger"
-    ],
-    [
-      "hot",
-      1,
-      "anger"
-    ],
-    [
-      "watch",
-      1,
-      "fear"
-    ],
-    [
-      "witnessed",
-      1,
-      "trust"
-    ],
-    [
-      "governor",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 56,
-    "fear": 72,
+    "joy": 17,
+    "trust": 57,
+    "fear": 70,
     "surprise": 18,
     "sadness": 13,
     "disgust": 5,
     "anger": 101,
-    "anticipation": 19
+    "anticipation": 23
   }
 }
