@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T01:24:48.421Z",
+  "generated_at": "2026-08-13T01:39:50.477Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "anticipation"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
       "prison",
       4,
       "anger"
@@ -46,6 +41,11 @@
       "case",
       3,
       "fear"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "world",
@@ -198,11 +198,6 @@
       "anger"
     ],
     [
-      "break",
-      2,
-      "surprise"
-    ],
-    [
       "death",
       2,
       "sadness"
@@ -228,21 +223,6 @@
       "fear"
     ],
     [
-      "rejects",
-      2,
-      "anger"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
       "fire",
       2,
       "fear"
@@ -266,6 +246,21 @@
       "magnet",
       2,
       "trust"
+    ],
+    [
+      "battlefield",
+      1,
+      "fear"
+    ],
+    [
+      "gains",
+      1,
+      "joy"
+    ],
+    [
+      "plea",
+      1,
+      "fear"
     ],
     [
       "boil",
@@ -376,16 +371,21 @@
       "starting",
       1,
       "anticipation"
+    ],
+    [
+      "wildfires",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 16,
     "trust": 56,
-    "fear": 72,
-    "surprise": 19,
-    "sadness": 17,
+    "fear": 74,
+    "surprise": 18,
+    "sadness": 16,
     "disgust": 5,
-    "anger": 104,
-    "anticipation": 21
+    "anger": 101,
+    "anticipation": 19
   }
 }
