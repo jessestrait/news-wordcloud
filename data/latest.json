@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T16:32:56.321Z",
+  "generated_at": "2026-08-13T16:47:58.965Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,13 +18,18 @@
       "trust"
     ],
     [
-      "second",
+      "people",
       5,
       "trust"
     ],
     [
-      "people",
-      5,
+      "letters",
+      4,
+      "anticipation"
+    ],
+    [
+      "second",
+      4,
       "trust"
     ],
     [
@@ -133,6 +138,11 @@
       "fear"
     ],
     [
+      "level",
+      2,
+      "trust"
+    ],
+    [
       "bomb",
       2,
       "anger"
@@ -166,11 +176,6 @@
       "enthusiasts",
       2,
       "surprise"
-    ],
-    [
-      "letters",
-      2,
-      "anticipation"
     ],
     [
       "class",
@@ -283,11 +288,6 @@
       "anger"
     ],
     [
-      "fire",
-      2,
-      "fear"
-    ],
-    [
       "battles",
       1,
       "anger"
@@ -306,6 +306,16 @@
       "shattering",
       1,
       "anger"
+    ],
+    [
+      "diplomacy",
+      1,
+      "trust"
+    ],
+    [
+      "overdue",
+      1,
+      "sadness"
     ],
     [
       "friend",
@@ -366,26 +376,16 @@
       "global",
       1,
       "anticipation"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "official",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
     "trust": 61,
-    "fear": 70,
+    "fear": 67,
     "surprise": 17,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 4,
-    "anger": 106,
-    "anticipation": 22
+    "anger": 103,
+    "anticipation": 24
   }
 }
