@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:12:06.471Z",
+  "generated_at": "2026-08-13T06:27:08.480Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,21 +88,6 @@
       "anger"
     ],
     [
-      "typhoon",
-      3,
-      "fear"
-    ],
-    [
-      "dolphin",
-      3,
-      "surprise"
-    ],
-    [
-      "rain",
-      3,
-      "joy"
-    ],
-    [
       "court",
       3,
       "anger"
@@ -123,9 +108,14 @@
       "fear"
     ],
     [
-      "authorities",
-      3,
-      "trust"
+      "happens",
+      2,
+      "anticipation"
+    ],
+    [
+      "asylum",
+      2,
+      "fear"
     ],
     [
       "homes",
@@ -183,6 +173,21 @@
       "trust"
     ],
     [
+      "typhoon",
+      2,
+      "fear"
+    ],
+    [
+      "dolphin",
+      2,
+      "surprise"
+    ],
+    [
+      "rain",
+      2,
+      "joy"
+    ],
+    [
       "leave",
       2,
       "sadness"
@@ -201,11 +206,6 @@
       "young",
       2,
       "surprise"
-    ],
-    [
-      "flooding",
-      2,
-      "fear"
     ],
     [
       "sentence",
@@ -243,6 +243,11 @@
       "anger"
     ],
     [
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
       "fire",
       2,
       "fear"
@@ -253,9 +258,14 @@
       "trust"
     ],
     [
-      "warn",
-      2,
-      "fear"
+      "reality",
+      1,
+      "surprise"
+    ],
+    [
+      "housed",
+      1,
+      "joy"
     ],
     [
       "haunted",
@@ -366,26 +376,16 @@
       "brutal",
       1,
       "anger"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "delay",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 58,
-    "fear": 76,
+    "trust": 57,
+    "fear": 72,
     "surprise": 17,
     "sadness": 13,
     "disgust": 5,
-    "anger": 106,
-    "anticipation": 17
+    "anger": 104,
+    "anticipation": 18
   }
 }
