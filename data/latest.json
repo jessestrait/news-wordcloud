@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:12:53.118Z",
+  "generated_at": "2026-08-14T11:27:55.555Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,14 +58,14 @@
       "joy"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "continue",
       3,
       "trust"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "wildfires",
@@ -118,14 +118,14 @@
       "anger"
     ],
     [
-      "policies",
-      2,
-      "trust"
-    ],
-    [
       "fire",
       2,
       "fear"
+    ],
+    [
+      "policies",
+      2,
+      "trust"
     ],
     [
       "flooding",
@@ -248,11 +248,6 @@
       "trust"
     ],
     [
-      "broke",
-      1,
-      "fear"
-    ],
-    [
       "hospital",
       1,
       "fear"
@@ -266,6 +261,11 @@
       "treated",
       1,
       "anger"
+    ],
+    [
+      "broke",
+      1,
+      "fear"
     ],
     [
       "finally",
