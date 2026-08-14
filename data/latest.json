@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T06:55:30.964Z",
+  "generated_at": "2026-08-14T07:10:33.565Z",
   "article_count": 50,
   "top_words": [
     [
@@ -123,6 +123,21 @@
       "anger"
     ],
     [
+      "threat",
+      2,
+      "anger"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
+    ],
+    [
+      "losing",
+      2,
+      "anger"
+    ],
+    [
       "flooding",
       2,
       "fear"
@@ -233,14 +248,44 @@
       "anger"
     ],
     [
-      "earthquake",
-      2,
+      "hell",
+      1,
       "anger"
     ],
     [
-      "quake",
-      2,
+      "widow",
+      1,
+      "sadness"
+    ],
+    [
+      "sick",
+      1,
+      "disgust"
+    ],
+    [
+      "worry",
+      1,
       "fear"
+    ],
+    [
+      "removed",
+      1,
+      "anger"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "appeal",
+      1,
+      "anticipation"
+    ],
+    [
+      "deportation",
+      1,
+      "anger"
     ],
     [
       "finally",
@@ -293,11 +338,6 @@
       "anticipation"
     ],
     [
-      "threat",
-      1,
-      "anger"
-    ],
-    [
       "practiced",
       1,
       "surprise"
@@ -336,56 +376,16 @@
       "cover",
       1,
       "trust"
-    ],
-    [
-      "shortages",
-      1,
-      "anger"
-    ],
-    [
-      "respect",
-      1,
-      "joy"
-    ],
-    [
-      "smashing",
-      1,
-      "anger"
-    ],
-    [
-      "completing",
-      1,
-      "joy"
-    ],
-    [
-      "disruption",
-      1,
-      "anger"
-    ],
-    [
-      "battles",
-      1,
-      "anger"
-    ],
-    [
-      "government",
-      1,
-      "fear"
-    ],
-    [
-      "scientific",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
     "trust": 59,
     "fear": 62,
-    "surprise": 18,
-    "sadness": 12,
-    "disgust": 4,
-    "anger": 93,
-    "anticipation": 27
+    "surprise": 17,
+    "sadness": 13,
+    "disgust": 5,
+    "anger": 95,
+    "anticipation": 28
   }
 }
