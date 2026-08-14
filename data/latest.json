@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:13:45.219Z",
+  "generated_at": "2026-08-14T13:28:47.526Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "trust"
     ],
     [
-      "hit",
-      5,
-      "anger"
-    ],
-    [
       "people",
       5,
       "trust"
@@ -26,11 +21,6 @@
       "second",
       5,
       "trust"
-    ],
-    [
-      "rain",
-      4,
-      "joy"
     ],
     [
       "airport",
@@ -43,6 +33,11 @@
       "fear"
     ],
     [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
       "letters",
       4,
       "anticipation"
@@ -50,6 +45,11 @@
     [
       "home",
       4,
+      "joy"
+    ],
+    [
+      "rain",
+      3,
       "joy"
     ],
     [
@@ -113,11 +113,6 @@
       "anger"
     ],
     [
-      "flooding",
-      2,
-      "fear"
-    ],
-    [
       "fire",
       2,
       "fear"
@@ -126,6 +121,16 @@
       "continue",
       2,
       "trust"
+    ],
+    [
+      "flooding",
+      2,
+      "fear"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "losing",
@@ -243,16 +248,6 @@
       "anticipation"
     ],
     [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
-      "risks",
-      1,
-      "fear"
-    ],
-    [
       "hospital",
       1,
       "fear"
@@ -266,6 +261,21 @@
       "treated",
       1,
       "anger"
+    ],
+    [
+      "unprecedented",
+      1,
+      "surprise"
+    ],
+    [
+      "landslide",
+      1,
+      "fear"
+    ],
+    [
+      "warnings",
+      1,
+      "fear"
     ],
     [
       "avoid",
@@ -366,26 +376,16 @@
       "cables",
       1,
       "surprise"
-    ],
-    [
-      "defected",
-      1,
-      "anger"
-    ],
-    [
-      "explosions",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
+    "joy": 20,
     "trust": 60,
-    "fear": 65,
+    "fear": 66,
     "surprise": 18,
     "sadness": 10,
     "disgust": 4,
-    "anger": 86,
-    "anticipation": 26
+    "anger": 85,
+    "anticipation": 27
   }
 }
