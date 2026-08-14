@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:30:38.426Z",
+  "generated_at": "2026-08-14T16:45:40.868Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,6 +88,16 @@
       "fear"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "evacuated",
+      2,
+      "fear"
+    ],
+    [
       "deaths",
       2,
       "sadness"
@@ -96,11 +106,6 @@
       "government",
       2,
       "fear"
-    ],
-    [
-      "starting",
-      2,
-      "anticipation"
     ],
     [
       "injured",
@@ -166,11 +171,6 @@
       "policies",
       2,
       "trust"
-    ],
-    [
-      "blaze",
-      2,
-      "anger"
     ],
     [
       "hot",
@@ -258,6 +258,21 @@
       "anger"
     ],
     [
+      "suspected",
+      1,
+      "fear"
+    ],
+    [
+      "arson",
+      1,
+      "anger"
+    ],
+    [
+      "rage",
+      1,
+      "anger"
+    ],
+    [
       "launches",
       1,
       "anticipation"
@@ -273,21 +288,6 @@
       "fear"
     ],
     [
-      "suspicion",
-      1,
-      "fear"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
-    ],
-    [
-      "breaking",
-      1,
-      "surprise"
-    ],
-    [
       "strikes",
       1,
       "anger"
@@ -301,11 +301,6 @@
       "thought",
       1,
       "anticipation"
-    ],
-    [
-      "evacuated",
-      1,
-      "fear"
     ],
     [
       "hurt",
@@ -376,16 +371,21 @@
       "warnings",
       1,
       "fear"
+    ],
+    [
+      "avoid",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
     "trust": 56,
-    "fear": 66,
-    "surprise": 15,
+    "fear": 68,
+    "surprise": 14,
     "sadness": 16,
     "disgust": 5,
     "anger": 83,
-    "anticipation": 29
+    "anticipation": 28
   }
 }
