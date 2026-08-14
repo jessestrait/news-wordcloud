@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-08-14T08:41:20.685Z",
+  "generated_at": "2026-08-14T08:56:22.892Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       9,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "hit",
@@ -20,6 +15,11 @@
     [
       "world",
       6,
+      "trust"
+    ],
+    [
+      "people",
+      5,
       "trust"
     ],
     [
@@ -108,9 +108,9 @@
       "anger"
     ],
     [
-      "blaze",
+      "continues",
       2,
-      "anger"
+      "trust"
     ],
     [
       "threat",
@@ -248,17 +248,7 @@
       "joy"
     ],
     [
-      "fires",
-      1,
-      "fear"
-    ],
-    [
       "hospital",
-      1,
-      "fear"
-    ],
-    [
-      "evacuated",
       1,
       "fear"
     ],
@@ -343,6 +333,11 @@
       "surprise"
     ],
     [
+      "blaze",
+      1,
+      "anger"
+    ],
+    [
       "rehabilitation",
       1,
       "anticipation"
@@ -376,16 +371,21 @@
       "problems",
       1,
       "fear"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 57,
-    "fear": 65,
+    "fear": 63,
     "surprise": 17,
     "sadness": 12,
     "disgust": 5,
-    "anger": 89,
+    "anger": 88,
     "anticipation": 28
   }
 }
