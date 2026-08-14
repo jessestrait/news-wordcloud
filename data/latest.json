@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:42:57.949Z",
+  "generated_at": "2026-08-14T11:58:00.348Z",
   "article_count": 50,
   "top_words": [
     [
@@ -29,11 +29,6 @@
     ],
     [
       "airport",
-      4,
-      "anticipation"
-    ],
-    [
-      "passenger",
       4,
       "anticipation"
     ],
@@ -78,6 +73,11 @@
       "anger"
     ],
     [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "attack",
       3,
       "anger"
@@ -86,6 +86,11 @@
       "military",
       3,
       "fear"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "case",
@@ -151,21 +156,6 @@
       "bomb",
       2,
       "anger"
-    ],
-    [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
-      "injuries",
-      2,
-      "anger"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "warned",
@@ -236,6 +226,16 @@
       "dolphin",
       2,
       "surprise"
+    ],
+    [
+      "court",
+      2,
+      "anger"
+    ],
+    [
+      "passenger",
+      2,
+      "anticipation"
     ],
     [
       "diplomatic",
@@ -373,19 +373,19 @@
       "joy"
     ],
     [
-      "disruption",
+      "battles",
       1,
       "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 60,
-    "fear": 65,
-    "surprise": 17,
+    "trust": 63,
+    "fear": 64,
+    "surprise": 18,
     "sadness": 10,
     "disgust": 4,
-    "anger": 87,
-    "anticipation": 27
+    "anger": 86,
+    "anticipation": 26
   }
 }
