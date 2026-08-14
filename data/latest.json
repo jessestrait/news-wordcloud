@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:26:18.596Z",
+  "generated_at": "2026-08-14T08:41:20.685Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,11 +73,6 @@
       "anger"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "attack",
       3,
       "anger"
@@ -86,11 +81,6 @@
       "military",
       3,
       "fear"
-    ],
-    [
-      "president",
-      3,
-      "trust"
     ],
     [
       "case",
@@ -161,6 +151,11 @@
       "injuries",
       2,
       "anger"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "warned",
@@ -236,11 +231,6 @@
       "dolphin",
       2,
       "surprise"
-    ],
-    [
-      "court",
-      2,
-      "anger"
     ],
     [
       "diplomatic",
@@ -376,16 +366,26 @@
       "defected",
       1,
       "anger"
+    ],
+    [
+      "explosions",
+      1,
+      "fear"
+    ],
+    [
+      "problems",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 60,
-    "fear": 64,
-    "surprise": 18,
+    "joy": 23,
+    "trust": 57,
+    "fear": 65,
+    "surprise": 17,
     "sadness": 12,
     "disgust": 5,
-    "anger": 90,
+    "anger": 89,
     "anticipation": 28
   }
 }
