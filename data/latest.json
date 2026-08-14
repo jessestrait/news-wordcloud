@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T19:16:58.097Z",
+  "generated_at": "2026-08-14T19:32:00.493Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,8 +8,18 @@
       "anger"
     ],
     [
+      "wildfire",
+      6,
+      "fear"
+    ],
+    [
       "world",
       6,
+      "trust"
+    ],
+    [
+      "people",
+      5,
       "trust"
     ],
     [
@@ -18,19 +28,9 @@
       "trust"
     ],
     [
-      "wildfires",
-      5,
-      "fear"
-    ],
-    [
       "military",
       4,
       "fear"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "letter",
@@ -51,6 +51,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "risk",
+      3,
+      "fear"
     ],
     [
       "law",
@@ -103,6 +108,16 @@
       "joy"
     ],
     [
+      "emergency",
+      2,
+      "fear"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
+    ],
+    [
       "plan",
       2,
       "anticipation"
@@ -138,11 +153,6 @@
       "fear"
     ],
     [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
       "iran",
       2,
       "anger"
@@ -171,11 +181,6 @@
       "deadly",
       2,
       "anger"
-    ],
-    [
-      "rain",
-      2,
-      "joy"
     ],
     [
       "power",
@@ -211,11 +216,6 @@
       "bomb",
       2,
       "anger"
-    ],
-    [
-      "warned",
-      2,
-      "fear"
     ],
     [
       "terror",
@@ -271,6 +271,11 @@
       "gun",
       2,
       "anger"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
     ],
     [
       "police",
@@ -371,18 +376,13 @@
       "abandoned",
       1,
       "anger"
-    ],
-    [
-      "fall",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 63,
-    "fear": 63,
-    "surprise": 14,
+    "joy": 20,
+    "trust": 64,
+    "fear": 66,
+    "surprise": 13,
     "sadness": 15,
     "disgust": 6,
     "anger": 84,
