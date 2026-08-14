@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:09:35.448Z",
+  "generated_at": "2026-08-14T05:24:37.909Z",
   "article_count": 50,
   "top_words": [
     [
@@ -153,11 +153,6 @@
       "anger"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "warned",
       2,
       "fear"
@@ -226,6 +221,16 @@
       "dolphin",
       2,
       "surprise"
+    ],
+    [
+      "diplomatic",
+      2,
+      "trust"
+    ],
+    [
+      "ally",
+      2,
+      "trust"
     ],
     [
       "sentence",
@@ -371,17 +376,12 @@
       "battles",
       1,
       "anger"
-    ],
-    [
-      "scientific",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 54,
-    "fear": 64,
+    "trust": 60,
+    "fear": 63,
     "surprise": 18,
     "sadness": 12,
     "disgust": 3,
