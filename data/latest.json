@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T00:06:57.894Z",
+  "generated_at": "2026-08-14T00:21:59.941Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "trust"
     ],
     [
-      "government",
-      5,
-      "fear"
-    ],
-    [
       "people",
       5,
       "trust"
@@ -26,6 +21,11 @@
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "government",
+      4,
+      "fear"
     ],
     [
       "letters",
@@ -109,6 +109,11 @@
     ],
     [
       "court",
+      3,
+      "anger"
+    ],
+    [
+      "challenge",
       3,
       "anger"
     ],
@@ -233,11 +238,6 @@
       "sadness"
     ],
     [
-      "challenge",
-      2,
-      "anger"
-    ],
-    [
       "passenger",
       2,
       "anticipation"
@@ -246,11 +246,6 @@
       "prepares",
       2,
       "anticipation"
-    ],
-    [
-      "young",
-      2,
-      "surprise"
     ],
     [
       "sentence",
@@ -286,6 +281,21 @@
       "plan",
       2,
       "anticipation"
+    ],
+    [
+      "respect",
+      1,
+      "joy"
+    ],
+    [
+      "smashing",
+      1,
+      "anger"
+    ],
+    [
+      "completing",
+      1,
+      "joy"
     ],
     [
       "battles",
@@ -366,26 +376,16 @@
       "confessed",
       1,
       "trust"
-    ],
-    [
-      "bombing",
-      1,
-      "anger"
-    ],
-    [
-      "reporter",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 62,
-    "fear": 64,
-    "surprise": 18,
+    "joy": 22,
+    "trust": 61,
+    "fear": 62,
+    "surprise": 17,
     "sadness": 17,
     "disgust": 4,
-    "anger": 100,
+    "anger": 99,
     "anticipation": 27
   }
 }
