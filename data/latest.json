@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T17:46:07.697Z",
+  "generated_at": "2026-08-14T18:01:10.363Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,8 +13,18 @@
       "trust"
     ],
     [
+      "calls",
+      5,
+      "trust"
+    ],
+    [
       "wildfires",
       5,
+      "fear"
+    ],
+    [
+      "military",
+      4,
       "fear"
     ],
     [
@@ -26,11 +36,6 @@
       "letter",
       4,
       "anticipation"
-    ],
-    [
-      "calls",
-      4,
-      "trust"
     ],
     [
       "airport",
@@ -46,6 +51,21 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "law",
+      3,
+      "trust"
+    ],
+    [
+      "bank",
+      3,
+      "trust"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "hit",
@@ -78,34 +98,19 @@
       "anger"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "family",
       3,
       "joy"
     ],
     [
-      "case",
-      3,
-      "fear"
-    ],
-    [
-      "court",
+      "plan",
       2,
-      "anger"
+      "anticipation"
     ],
     [
       "media",
       2,
       "disgust"
-    ],
-    [
-      "president",
-      2,
-      "trust"
     ],
     [
       "killed",
@@ -178,11 +183,6 @@
       "anticipation"
     ],
     [
-      "losing",
-      2,
-      "anger"
-    ],
-    [
       "ally",
       2,
       "trust"
@@ -223,11 +223,6 @@
       "fear"
     ],
     [
-      "bank",
-      2,
-      "trust"
-    ],
-    [
       "attempt",
       2,
       "anticipation"
@@ -258,6 +253,11 @@
       "fear"
     ],
     [
+      "case",
+      2,
+      "fear"
+    ],
+    [
       "class",
       2,
       "sadness"
@@ -270,6 +270,26 @@
     [
       "gun",
       2,
+      "anger"
+    ],
+    [
+      "police",
+      1,
+      "fear"
+    ],
+    [
+      "flagrant",
+      1,
+      "anger"
+    ],
+    [
+      "violation",
+      1,
+      "anger"
+    ],
+    [
+      "court",
+      1,
       "anger"
     ],
     [
@@ -356,36 +376,16 @@
       "fall",
       1,
       "sadness"
-    ],
-    [
-      "arrived",
-      1,
-      "anticipation"
-    ],
-    [
-      "fear",
-      1,
-      "anger"
-    ],
-    [
-      "seal",
-      1,
-      "trust"
-    ],
-    [
-      "america",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 58,
-    "fear": 65,
+    "trust": 63,
+    "fear": 63,
     "surprise": 14,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 6,
     "anger": 84,
-    "anticipation": 27
+    "anticipation": 29
   }
 }
