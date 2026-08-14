@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:29:55.226Z",
+  "generated_at": "2026-08-14T15:44:57.562Z",
   "article_count": 50,
   "top_words": [
     [
@@ -41,6 +41,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "deadly",
@@ -181,11 +186,6 @@
       "bomb",
       2,
       "anger"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "warned",
@@ -386,6 +386,6 @@
     "sadness": 15,
     "disgust": 4,
     "anger": 87,
-    "anticipation": 26
+    "anticipation": 27
   }
 }
