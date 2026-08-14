@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-14T03:08:29.537Z",
+  "generated_at": "2026-08-14T03:23:31.876Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      15,
+      11,
       "anger"
     ],
     [
@@ -13,14 +13,19 @@
       "trust"
     ],
     [
+      "hit",
+      5,
+      "anger"
+    ],
+    [
       "people",
       5,
       "trust"
     ],
     [
-      "hit",
+      "passenger",
       4,
-      "anger"
+      "anticipation"
     ],
     [
       "happened",
@@ -43,11 +48,6 @@
       "trust"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "family",
       4,
       "joy"
@@ -56,11 +56,6 @@
       "force",
       3,
       "anger"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "attack",
@@ -73,14 +68,14 @@
       "anticipation"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "military",
       3,
       "fear"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "case",
@@ -133,7 +128,22 @@
       "fear"
     ],
     [
+      "injured",
+      2,
+      "fear"
+    ],
+    [
+      "injuries",
+      2,
+      "anger"
+    ],
+    [
       "wildfires",
+      2,
+      "fear"
+    ],
+    [
+      "government",
       2,
       "fear"
     ],
@@ -173,14 +183,9 @@
       "anger"
     ],
     [
-      "iran",
+      "trump",
       2,
       "anger"
-    ],
-    [
-      "progress",
-      2,
-      "joy"
     ],
     [
       "happens",
@@ -201,11 +206,6 @@
       "class",
       2,
       "sadness"
-    ],
-    [
-      "demands",
-      2,
-      "anger"
     ],
     [
       "gun",
@@ -243,16 +243,6 @@
       "sadness"
     ],
     [
-      "passenger",
-      2,
-      "anticipation"
-    ],
-    [
-      "prepares",
-      2,
-      "anticipation"
-    ],
-    [
       "sentence",
       2,
       "anger"
@@ -261,11 +251,6 @@
       "earthquake",
       2,
       "anger"
-    ],
-    [
-      "death",
-      2,
-      "sadness"
     ],
     [
       "victim",
@@ -278,9 +263,24 @@
       "trust"
     ],
     [
-      "soldier",
-      2,
+      "threat",
+      1,
       "anger"
+    ],
+    [
+      "practiced",
+      1,
+      "surprise"
+    ],
+    [
+      "cutting",
+      1,
+      "anger"
+    ],
+    [
+      "cables",
+      1,
+      "surprise"
     ],
     [
       "defected",
@@ -291,6 +291,26 @@
       "explosions",
       1,
       "fear"
+    ],
+    [
+      "problems",
+      1,
+      "fear"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "cover",
+      1,
+      "trust"
+    ],
+    [
+      "shortages",
+      1,
+      "anger"
     ],
     [
       "respect",
@@ -306,6 +326,11 @@
       "completing",
       1,
       "joy"
+    ],
+    [
+      "disruption",
+      1,
+      "anger"
     ],
     [
       "battles",
@@ -351,41 +376,16 @@
       "agreement",
       1,
       "trust"
-    ],
-    [
-      "crucial",
-      1,
-      "trust"
-    ],
-    [
-      "diplomacy",
-      1,
-      "trust"
-    ],
-    [
-      "level",
-      1,
-      "trust"
-    ],
-    [
-      "overdue",
-      1,
-      "sadness"
-    ],
-    [
-      "friend",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 60,
-    "fear": 64,
-    "surprise": 17,
-    "sadness": 17,
-    "disgust": 4,
-    "anger": 98,
-    "anticipation": 26
+    "joy": 20,
+    "trust": 59,
+    "fear": 60,
+    "surprise": 16,
+    "sadness": 14,
+    "disgust": 3,
+    "anger": 93,
+    "anticipation": 28
   }
 }
