@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T17:00:42.916Z",
+  "generated_at": "2026-08-14T17:15:45.109Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,11 +16,6 @@
       "wildfires",
       5,
       "fear"
-    ],
-    [
-      "second",
-      5,
-      "trust"
     ],
     [
       "people",
@@ -41,6 +36,11 @@
       "airport",
       4,
       "anticipation"
+    ],
+    [
+      "second",
+      4,
+      "trust"
     ],
     [
       "home",
@@ -91,6 +91,21 @@
       "case",
       3,
       "fear"
+    ],
+    [
+      "court",
+      2,
+      "anger"
+    ],
+    [
+      "media",
+      2,
+      "disgust"
+    ],
+    [
+      "president",
+      2,
+      "trust"
     ],
     [
       "killed",
@@ -258,9 +273,24 @@
       "anger"
     ],
     [
-      "challenge",
-      2,
-      "anger"
+      "constitutional",
+      1,
+      "trust"
+    ],
+    [
+      "council",
+      1,
+      "trust"
+    ],
+    [
+      "freedom",
+      1,
+      "joy"
+    ],
+    [
+      "vows",
+      1,
+      "joy"
     ],
     [
       "suspicion",
@@ -278,19 +308,9 @@
       "anger"
     ],
     [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
       "investigation",
       1,
       "anticipation"
-    ],
-    [
-      "unsafe",
-      1,
-      "fear"
     ],
     [
       "strikes",
@@ -356,36 +376,16 @@
       "america",
       1,
       "sadness"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
-      "flooding",
-      1,
-      "fear"
-    ],
-    [
-      "landslide",
-      1,
-      "fear"
-    ],
-    [
-      "warnings",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 56,
-    "fear": 68,
+    "joy": 21,
+    "trust": 58,
+    "fear": 65,
     "surprise": 14,
     "sadness": 16,
-    "disgust": 5,
-    "anger": 85,
-    "anticipation": 28
+    "disgust": 6,
+    "anger": 84,
+    "anticipation": 27
   }
 }
