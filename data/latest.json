@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-14T10:42:30.737Z",
+  "generated_at": "2026-08-14T10:57:33.238Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       9,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "hit",
@@ -48,14 +53,14 @@
       "trust"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "family",
       4,
       "joy"
+    ],
+    [
+      "continue",
+      3,
+      "trust"
     ],
     [
       "wildfires",
@@ -123,19 +128,14 @@
       "fear"
     ],
     [
-      "blaze",
-      2,
-      "anger"
-    ],
-    [
-      "continues",
-      2,
-      "trust"
-    ],
-    [
       "flooding",
       2,
       "fear"
+    ],
+    [
+      "blaze",
+      2,
+      "anger"
     ],
     [
       "hot",
@@ -248,7 +248,17 @@
       "trust"
     ],
     [
-      "devastation",
+      "hospital",
+      1,
+      "fear"
+    ],
+    [
+      "evacuated",
+      1,
+      "fear"
+    ],
+    [
+      "treated",
       1,
       "anger"
     ],
@@ -366,22 +376,12 @@
       "disruption",
       1,
       "anger"
-    ],
-    [
-      "battles",
-      1,
-      "anger"
-    ],
-    [
-      "government",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 59,
-    "fear": 62,
+    "trust": 62,
+    "fear": 64,
     "surprise": 18,
     "sadness": 10,
     "disgust": 4,
