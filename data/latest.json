@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:45:14.752Z",
+  "generated_at": "2026-08-14T16:00:17.294Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,16 +53,6 @@
       "anger"
     ],
     [
-      "ally",
-      3,
-      "trust"
-    ],
-    [
-      "diplomatic",
-      3,
-      "trust"
-    ],
-    [
       "trump",
       3,
       "anger"
@@ -113,6 +103,11 @@
       "anger"
     ],
     [
+      "starting",
+      2,
+      "anticipation"
+    ],
+    [
       "injured",
       2,
       "fear"
@@ -158,9 +153,9 @@
       "anger"
     ],
     [
-      "starting",
+      "ally",
       2,
-      "anticipation"
+      "trust"
     ],
     [
       "policies",
@@ -245,6 +240,36 @@
     [
       "passenger",
       2,
+      "anticipation"
+    ],
+    [
+      "suspicion",
+      1,
+      "fear"
+    ],
+    [
+      "tackle",
+      1,
+      "anger"
+    ],
+    [
+      "breaking",
+      1,
+      "surprise"
+    ],
+    [
+      "strikes",
+      1,
+      "anger"
+    ],
+    [
+      "sewers",
+      1,
+      "disgust"
+    ],
+    [
+      "thought",
+      1,
       "anticipation"
     ],
     [
@@ -338,21 +363,6 @@
       "anger"
     ],
     [
-      "suspicion",
-      1,
-      "fear"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
-    ],
-    [
-      "breaking",
-      1,
-      "surprise"
-    ],
-    [
       "attacking",
       1,
       "anger"
@@ -363,29 +373,19 @@
       "anger"
     ],
     [
-      "failure",
+      "diplomatic",
       1,
-      "fear"
-    ],
-    [
-      "broke",
-      1,
-      "fear"
-    ],
-    [
-      "finally",
-      1,
-      "disgust"
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 59,
+    "trust": 53,
     "fear": 65,
     "surprise": 15,
     "sadness": 15,
-    "disgust": 4,
-    "anger": 87,
-    "anticipation": 27
+    "disgust": 5,
+    "anger": 88,
+    "anticipation": 28
   }
 }
