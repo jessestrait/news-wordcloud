@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T09:11:41.145Z",
+  "generated_at": "2026-08-14T09:26:43.643Z",
   "article_count": 50,
   "top_words": [
     [
@@ -15,11 +15,6 @@
     [
       "world",
       6,
-      "trust"
-    ],
-    [
-      "people",
-      5,
       "trust"
     ],
     [
@@ -49,6 +44,11 @@
     ],
     [
       "second",
+      4,
+      "trust"
+    ],
+    [
+      "people",
       4,
       "trust"
     ],
@@ -105,6 +105,16 @@
     [
       "challenge",
       3,
+      "anger"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
+    ],
+    [
+      "blaze",
+      2,
       "anger"
     ],
     [
@@ -243,14 +253,9 @@
       "trust"
     ],
     [
-      "child",
+      "devastation",
       1,
-      "joy"
-    ],
-    [
-      "hospital",
-      1,
-      "fear"
+      "anger"
     ],
     [
       "hell",
@@ -333,11 +338,6 @@
       "surprise"
     ],
     [
-      "blaze",
-      1,
-      "anger"
-    ],
-    [
       "rehabilitation",
       1,
       "anticipation"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 57,
-    "fear": 63,
+    "joy": 22,
+    "trust": 56,
+    "fear": 64,
     "surprise": 17,
     "sadness": 12,
     "disgust": 5,
-    "anger": 88,
+    "anger": 90,
     "anticipation": 28
   }
 }
