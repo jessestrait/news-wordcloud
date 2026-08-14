@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:44:05.784Z",
+  "generated_at": "2026-08-14T13:59:07.702Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,9 +13,9 @@
       "trust"
     ],
     [
-      "people",
+      "wildfires",
       5,
-      "trust"
+      "fear"
     ],
     [
       "second",
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "airport",
       4,
       "anticipation"
-    ],
-    [
-      "wildfires",
-      4,
-      "fear"
     ],
     [
       "hit",
@@ -73,11 +73,6 @@
       "anger"
     ],
     [
-      "blaze",
-      3,
-      "anger"
-    ],
-    [
       "kill",
       3,
       "fear"
@@ -113,14 +108,9 @@
       "anger"
     ],
     [
-      "fire",
+      "injured",
       2,
       "fear"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "flooding",
@@ -146,6 +136,11 @@
       "policies",
       2,
       "trust"
+    ],
+    [
+      "blaze",
+      2,
+      "anger"
     ],
     [
       "hot",
@@ -248,17 +243,22 @@
       "anticipation"
     ],
     [
-      "hospital",
-      1,
-      "fear"
-    ],
-    [
       "evacuated",
       1,
       "fear"
     ],
     [
-      "treated",
+      "hurt",
+      1,
+      "anger"
+    ],
+    [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "threatening",
       1,
       "anger"
     ],
@@ -379,9 +379,9 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 60,
-    "fear": 66,
+    "joy": 21,
+    "trust": 58,
+    "fear": 65,
     "surprise": 18,
     "sadness": 10,
     "disgust": 4,
