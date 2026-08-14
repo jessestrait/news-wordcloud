@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T04:08:53.593Z",
+  "generated_at": "2026-08-14T04:23:56.049Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,19 @@
       "anger"
     ],
     [
+      "hit",
+      6,
+      "anger"
+    ],
+    [
       "world",
       6,
       "trust"
     ],
     [
-      "hit",
+      "airport",
       5,
-      "anger"
+      "anticipation"
     ],
     [
       "people",
@@ -23,17 +28,12 @@
       "trust"
     ],
     [
-      "airport",
+      "rain",
       4,
-      "anticipation"
+      "joy"
     ],
     [
       "passenger",
-      4,
-      "anticipation"
-    ],
-    [
-      "happened",
       4,
       "anticipation"
     ],
@@ -63,9 +63,19 @@
       "fear"
     ],
     [
+      "kill",
+      3,
+      "fear"
+    ],
+    [
       "force",
       3,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "attack",
@@ -113,8 +123,8 @@
       "anger"
     ],
     [
-      "quake",
-      3,
+      "flooding",
+      2,
       "fear"
     ],
     [
@@ -131,11 +141,6 @@
       "bomb",
       2,
       "anger"
-    ],
-    [
-      "kill",
-      2,
-      "fear"
     ],
     [
       "injured",
@@ -223,16 +228,6 @@
       "surprise"
     ],
     [
-      "rain",
-      2,
-      "joy"
-    ],
-    [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
       "sentence",
       2,
       "anger"
@@ -241,6 +236,21 @@
       "earthquake",
       2,
       "anger"
+    ],
+    [
+      "quake",
+      2,
+      "fear"
+    ],
+    [
+      "unprecedented",
+      1,
+      "surprise"
+    ],
+    [
+      "risks",
+      1,
+      "fear"
     ],
     [
       "threaten",
@@ -366,26 +376,16 @@
       "scientific",
       1,
       "trust"
-    ],
-    [
-      "adviser",
-      1,
-      "trust"
-    ],
-    [
-      "shattering",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
+    "joy": 21,
     "trust": 54,
-    "fear": 62,
-    "surprise": 17,
-    "sadness": 13,
+    "fear": 64,
+    "surprise": 18,
+    "sadness": 12,
     "disgust": 3,
-    "anger": 92,
+    "anger": 93,
     "anticipation": 29
   }
 }
