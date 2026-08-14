@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:28:23.007Z",
+  "generated_at": "2026-08-14T12:43:25.369Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,11 +113,6 @@
       "anger"
     ],
     [
-      "starting",
-      2,
-      "anticipation"
-    ],
-    [
       "fire",
       2,
       "fear"
@@ -126,6 +121,11 @@
       "continue",
       2,
       "trust"
+    ],
+    [
+      "starting",
+      2,
+      "anticipation"
     ],
     [
       "policies",
@@ -243,21 +243,6 @@
       "anticipation"
     ],
     [
-      "suspicion",
-      1,
-      "fear"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
-    ],
-    [
-      "breaking",
-      1,
-      "surprise"
-    ],
-    [
       "hospital",
       1,
       "fear"
@@ -271,6 +256,21 @@
       "treated",
       1,
       "anger"
+    ],
+    [
+      "suspicion",
+      1,
+      "fear"
+    ],
+    [
+      "tackle",
+      1,
+      "anger"
+    ],
+    [
+      "breaking",
+      1,
+      "surprise"
     ],
     [
       "attacking",
