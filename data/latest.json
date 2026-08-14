@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T03:23:31.876Z",
+  "generated_at": "2026-08-14T03:38:34.125Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "people",
       5,
       "trust"
+    ],
+    [
+      "airport",
+      4,
+      "anticipation"
     ],
     [
       "passenger",
@@ -63,11 +68,6 @@
       "anger"
     ],
     [
-      "airport",
-      3,
-      "anticipation"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -98,11 +98,6 @@
       "trust"
     ],
     [
-      "shooting",
-      3,
-      "anger"
-    ],
-    [
       "court",
       3,
       "anger"
@@ -116,6 +111,11 @@
       "quake",
       3,
       "fear"
+    ],
+    [
+      "planes",
+      2,
+      "anticipation"
     ],
     [
       "bomb",
@@ -213,16 +213,6 @@
       "anger"
     ],
     [
-      "shooter",
-      2,
-      "anger"
-    ],
-    [
-      "school",
-      2,
-      "trust"
-    ],
-    [
       "typhoon",
       2,
       "fear"
@@ -253,14 +243,29 @@
       "anger"
     ],
     [
-      "victim",
-      2,
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
+      "virgin",
+      1,
+      "trust"
+    ],
+    [
+      "apart",
+      1,
       "anger"
     ],
     [
-      "father",
-      2,
-      "trust"
+      "incursion",
+      1,
+      "fear"
+    ],
+    [
+      "concerned",
+      1,
+      "fear"
     ],
     [
       "threat",
@@ -371,21 +376,16 @@
       "suggested",
       1,
       "trust"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 59,
-    "fear": 60,
-    "surprise": 16,
-    "sadness": 14,
+    "trust": 57,
+    "fear": 62,
+    "surprise": 17,
+    "sadness": 13,
     "disgust": 3,
-    "anger": 93,
-    "anticipation": 28
+    "anger": 89,
+    "anticipation": 30
   }
 }
