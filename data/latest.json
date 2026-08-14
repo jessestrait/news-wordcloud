@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:03:09.516Z",
+  "generated_at": "2026-08-14T21:18:11.950Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "calls",
-      5,
-      "trust"
-    ],
-    [
       "military",
       4,
       "fear"
+    ],
+    [
+      "calls",
+      4,
+      "trust"
     ],
     [
       "letter",
@@ -108,6 +108,11 @@
       "joy"
     ],
     [
+      "court",
+      2,
+      "anger"
+    ],
+    [
       "emergency",
       2,
       "fear"
@@ -126,11 +131,6 @@
       "media",
       2,
       "disgust"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "evacuated",
@@ -263,13 +263,33 @@
       "sadness"
     ],
     [
+      "blame",
+      2,
+      "anger"
+    ],
+    [
       "prison",
       2,
       "anger"
     ],
     [
-      "gun",
-      2,
+      "top",
+      1,
+      "trust"
+    ],
+    [
+      "rules",
+      1,
+      "fear"
+    ],
+    [
+      "protected",
+      1,
+      "trust"
+    ],
+    [
+      "ills",
+      1,
       "anger"
     ],
     [
@@ -289,11 +309,6 @@
     ],
     [
       "violation",
-      1,
-      "anger"
-    ],
-    [
-      "court",
       1,
       "anger"
     ],
@@ -333,6 +348,11 @@
       "anger"
     ],
     [
+      "killed",
+      1,
+      "fear"
+    ],
+    [
       "investigation",
       1,
       "anticipation"
@@ -356,26 +376,6 @@
       "hurt",
       1,
       "anger"
-    ],
-    [
-      "reckless",
-      1,
-      "anger"
-    ],
-    [
-      "angered",
-      1,
-      "anger"
-    ],
-    [
-      "exiled",
-      1,
-      "anger"
-    ],
-    [
-      "abandoned",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 13,
     "sadness": 15,
     "disgust": 6,
-    "anger": 84,
+    "anger": 82,
     "anticipation": 29
   }
 }
