@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:45:40.868Z",
+  "generated_at": "2026-08-14T17:00:42.916Z",
   "article_count": 50,
   "top_words": [
     [
@@ -46,6 +46,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "happened",
@@ -173,6 +178,11 @@
       "trust"
     ],
     [
+      "blaze",
+      2,
+      "anger"
+    ],
+    [
       "hot",
       2,
       "anger"
@@ -184,11 +194,6 @@
     ],
     [
       "bomb",
-      2,
-      "anger"
-    ],
-    [
-      "hit",
       2,
       "anger"
     ],
@@ -258,7 +263,7 @@
       "anger"
     ],
     [
-      "suspected",
+      "suspicion",
       1,
       "fear"
     ],
@@ -371,11 +376,6 @@
       "warnings",
       1,
       "fear"
-    ],
-    [
-      "avoid",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 14,
     "sadness": 16,
     "disgust": 5,
-    "anger": 83,
+    "anger": 85,
     "anticipation": 28
   }
 }
