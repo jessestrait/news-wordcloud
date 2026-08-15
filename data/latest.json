@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:29:51.299Z",
+  "generated_at": "2026-08-15T19:44:53.841Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "wildfire",
       6,
       "fear"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
     ],
     [
       "president",
@@ -38,11 +43,6 @@
       "trust"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "airport",
       4,
       "anticipation"
@@ -61,6 +61,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "police",
@@ -141,11 +146,6 @@
       "ground",
       2,
       "trust"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "evacuated",
@@ -273,8 +273,8 @@
       "fear"
     ],
     [
-      "case",
-      2,
+      "accident",
+      1,
       "fear"
     ],
     [
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 62,
-    "fear": 70,
+    "trust": 61,
+    "fear": 69,
     "surprise": 10,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 4,
-    "anger": 84,
+    "anger": 81,
     "anticipation": 32
   }
 }
