@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:31:02.586Z",
+  "generated_at": "2026-08-15T21:46:05.280Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "sadness"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "president",
       5,
       "trust"
@@ -33,9 +38,9 @@
       "joy"
     ],
     [
-      "people",
+      "hit",
       4,
-      "trust"
+      "anger"
     ],
     [
       "calls",
@@ -74,11 +79,6 @@
     ],
     [
       "fear",
-      3,
-      "anger"
-    ],
-    [
-      "hit",
       3,
       "anger"
     ],
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 61,
+    "trust": 62,
     "fear": 69,
     "surprise": 10,
     "sadness": 16,
     "disgust": 4,
-    "anger": 81,
+    "anger": 82,
     "anticipation": 32
   }
 }
