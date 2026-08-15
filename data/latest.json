@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-15T03:06:35.458Z",
+  "generated_at": "2026-08-15T03:21:37.821Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      8,
+      9,
       "anger"
     ],
     [
@@ -13,13 +13,23 @@
       "fear"
     ],
     [
-      "world",
-      6,
+      "people",
+      5,
       "trust"
     ],
     [
-      "people",
+      "world",
       5,
+      "trust"
+    ],
+    [
+      "threat",
+      4,
+      "anger"
+    ],
+    [
+      "president",
+      4,
       "trust"
     ],
     [
@@ -53,6 +63,11 @@
       "joy"
     ],
     [
+      "black",
+      3,
+      "sadness"
+    ],
+    [
       "risk",
       3,
       "fear"
@@ -68,11 +83,6 @@
       "trust"
     ],
     [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -81,11 +91,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "experts",
-      3,
-      "trust"
     ],
     [
       "trump",
@@ -103,9 +108,19 @@
       "anger"
     ],
     [
+      "attack",
+      3,
+      "anger"
+    ],
+    [
       "family",
       3,
       "joy"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
     ],
     [
       "court",
@@ -119,6 +134,11 @@
     ],
     [
       "warning",
+      2,
+      "fear"
+    ],
+    [
+      "police",
       2,
       "fear"
     ],
@@ -178,9 +198,9 @@
       "fear"
     ],
     [
-      "deadly",
+      "experts",
       2,
-      "anger"
+      "trust"
     ],
     [
       "power",
@@ -208,11 +228,6 @@
       "anger"
     ],
     [
-      "threat",
-      2,
-      "anger"
-    ],
-    [
       "bomb",
       2,
       "anger"
@@ -233,19 +248,9 @@
       "surprise"
     ],
     [
-      "attack",
-      2,
-      "anger"
-    ],
-    [
       "incident",
       2,
       "surprise"
-    ],
-    [
-      "happens",
-      2,
-      "anticipation"
     ],
     [
       "asylum",
@@ -263,14 +268,19 @@
       "sadness"
     ],
     [
-      "blame",
-      2,
-      "anger"
+      "warns",
+      1,
+      "fear"
     ],
     [
-      "prison",
-      2,
-      "anger"
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "supply",
+      1,
+      "fear"
     ],
     [
       "top",
@@ -281,6 +291,11 @@
       "rules",
       1,
       "fear"
+    ],
+    [
+      "blames",
+      1,
+      "anger"
     ],
     [
       "protected",
@@ -294,11 +309,6 @@
     ],
     [
       "fire",
-      1,
-      "fear"
-    ],
-    [
-      "police",
       1,
       "fear"
     ],
@@ -358,11 +368,6 @@
       "anticipation"
     ],
     [
-      "strikes",
-      1,
-      "anger"
-    ],
-    [
       "sewer",
       1,
       "disgust"
@@ -371,21 +376,16 @@
       "thought",
       1,
       "anticipation"
-    ],
-    [
-      "hurt",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 64,
-    "fear": 66,
+    "joy": 21,
+    "trust": 63,
+    "fear": 69,
     "surprise": 13,
-    "sadness": 15,
+    "sadness": 17,
     "disgust": 6,
-    "anger": 82,
-    "anticipation": 29
+    "anger": 83,
+    "anticipation": 28
   }
 }
