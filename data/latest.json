@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T04:52:30.253Z",
+  "generated_at": "2026-08-15T05:07:32.860Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,6 +118,21 @@
       "joy"
     ],
     [
+      "global",
+      2,
+      "anticipation"
+    ],
+    [
+      "fear",
+      2,
+      "anger"
+    ],
+    [
+      "diplomatic",
+      2,
+      "trust"
+    ],
+    [
       "crucial",
       2,
       "trust"
@@ -213,11 +228,6 @@
       "anticipation"
     ],
     [
-      "ally",
-      2,
-      "trust"
-    ],
-    [
       "policies",
       2,
       "trust"
@@ -271,6 +281,21 @@
       "class",
       2,
       "sadness"
+    ],
+    [
+      "grow",
+      1,
+      "joy"
+    ],
+    [
+      "demands",
+      1,
+      "anger"
+    ],
+    [
+      "improvements",
+      1,
+      "joy"
     ],
     [
       "fight",
@@ -351,41 +376,16 @@
       "constitutional",
       1,
       "trust"
-    ],
-    [
-      "council",
-      1,
-      "trust"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
-    ],
-    [
-      "vows",
-      1,
-      "joy"
-    ],
-    [
-      "suspicion",
-      1,
-      "fear"
-    ],
-    [
-      "arson",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 23,
     "trust": 64,
-    "fear": 66,
+    "fear": 65,
     "surprise": 12,
     "sadness": 17,
     "disgust": 6,
     "anger": 84,
-    "anticipation": 30
+    "anticipation": 31
   }
 }
