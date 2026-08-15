@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-15T15:42:47.476Z",
+  "generated_at": "2026-08-15T15:57:49.929Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       9,
       "anger"
+    ],
+    [
+      "wildfire",
+      6,
+      "fear"
     ],
     [
       "president",
@@ -18,9 +23,9 @@
       "anger"
     ],
     [
-      "wildfire",
-      5,
-      "fear"
+      "people",
+      4,
+      "trust"
     ],
     [
       "calls",
@@ -31,11 +36,6 @@
       "death",
       4,
       "sadness"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "airport",
@@ -56,11 +56,6 @@
       "home",
       4,
       "joy"
-    ],
-    [
-      "world",
-      4,
-      "trust"
     ],
     [
       "fear",
@@ -131,6 +126,11 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "world",
+      3,
+      "trust"
     ],
     [
       "family",
@@ -278,6 +278,31 @@
       "fear"
     ],
     [
+      "alarmed",
+      1,
+      "fear"
+    ],
+    [
+      "alarm",
+      1,
+      "fear"
+    ],
+    [
+      "react",
+      1,
+      "anger"
+    ],
+    [
+      "complained",
+      1,
+      "anger"
+    ],
+    [
+      "lamented",
+      1,
+      "fear"
+    ],
+    [
       "powerful",
       1,
       "anger"
@@ -351,41 +376,16 @@
       "improvements",
       1,
       "joy"
-    ],
-    [
-      "fight",
-      1,
-      "anger"
-    ],
-    [
-      "save",
-      1,
-      "joy"
-    ],
-    [
-      "ageing",
-      1,
-      "anticipation"
-    ],
-    [
-      "daily",
-      1,
-      "anticipation"
-    ],
-    [
-      "warns",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 62,
-    "fear": 64,
+    "trust": 61,
+    "fear": 68,
     "surprise": 10,
-    "sadness": 17,
+    "sadness": 16,
     "disgust": 5,
-    "anger": 85,
+    "anger": 87,
     "anticipation": 31
   }
 }
