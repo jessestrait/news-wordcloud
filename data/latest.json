@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:11:30.161Z",
+  "generated_at": "2026-08-15T13:26:32.196Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,19 @@
       "anger"
     ],
     [
-      "wildfire",
-      6,
-      "fear"
+      "president",
+      5,
+      "trust"
     ],
     [
       "threat",
       5,
       "anger"
+    ],
+    [
+      "wildfire",
+      5,
+      "fear"
     ],
     [
       "calls",
@@ -28,19 +33,9 @@
       "sadness"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "people",
       4,
       "trust"
-    ],
-    [
-      "military",
-      4,
-      "fear"
     ],
     [
       "letter",
@@ -68,6 +63,11 @@
       "trust"
     ],
     [
+      "strikes",
+      3,
+      "anger"
+    ],
+    [
       "flu",
       3,
       "fear"
@@ -79,6 +79,11 @@
     ],
     [
       "risk",
+      3,
+      "fear"
+    ],
+    [
+      "military",
       3,
       "fear"
     ],
@@ -158,19 +163,9 @@
       "trust"
     ],
     [
-      "strikes",
-      2,
-      "anger"
-    ],
-    [
       "court",
       2,
       "anger"
-    ],
-    [
-      "emergency",
-      2,
-      "fear"
     ],
     [
       "warning",
@@ -278,6 +273,11 @@
       "fear"
     ],
     [
+      "launch",
+      1,
+      "anticipation"
+    ],
+    [
       "confirmed",
       1,
       "trust"
@@ -373,19 +373,19 @@
       "anger"
     ],
     [
-      "fire",
+      "emergency",
       1,
       "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 61,
-    "fear": 65,
+    "trust": 62,
+    "fear": 62,
     "surprise": 10,
     "sadness": 18,
     "disgust": 5,
-    "anger": 81,
+    "anger": 82,
     "anticipation": 31
   }
 }
