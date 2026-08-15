@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:53:36.942Z",
+  "generated_at": "2026-08-15T07:08:38.861Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "threat",
       5,
       "anger"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "president",
@@ -61,11 +66,6 @@
       "flu",
       3,
       "fear"
-    ],
-    [
-      "death",
-      3,
-      "sadness"
     ],
     [
       "black",
@@ -125,11 +125,6 @@
     [
       "family",
       3,
-      "joy"
-    ],
-    [
-      "found",
-      2,
       "joy"
     ],
     [
@@ -288,9 +283,19 @@
       "sadness"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
       "authorities",
       1,
       "trust"
+    ],
+    [
+      "found",
+      1,
+      "joy"
     ],
     [
       "parade",
@@ -371,19 +376,14 @@
       "ills",
       1,
       "anger"
-    ],
-    [
-      "fire",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 63,
+    "joy": 24,
+    "trust": 64,
     "fear": 66,
     "surprise": 11,
-    "sadness": 18,
+    "sadness": 19,
     "disgust": 6,
     "anger": 84,
     "anticipation": 31
