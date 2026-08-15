@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:10:29.940Z",
+  "generated_at": "2026-08-15T11:25:32.207Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "threat",
       5,
       "anger"
+    ],
+    [
+      "calls",
+      4,
+      "trust"
     ],
     [
       "death",
@@ -88,11 +93,6 @@
       "trust"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -126,6 +126,11 @@
       "family",
       3,
       "joy"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
     ],
     [
       "global",
@@ -181,11 +186,6 @@
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "media",
-      2,
-      "disgust"
     ],
     [
       "evacuated",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 64,
+    "trust": 63,
     "fear": 66,
-    "surprise": 11,
+    "surprise": 10,
     "sadness": 19,
-    "disgust": 6,
-    "anger": 84,
+    "disgust": 5,
+    "anger": 83,
     "anticipation": 31
   }
 }
