@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:56:28.265Z",
+  "generated_at": "2026-08-15T13:11:30.161Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,11 +278,6 @@
       "fear"
     ],
     [
-      "class",
-      2,
-      "sadness"
-    ],
-    [
       "confirmed",
       1,
       "trust"
@@ -376,16 +371,21 @@
       "ills",
       1,
       "anger"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 63,
-    "fear": 66,
+    "joy": 23,
+    "trust": 61,
+    "fear": 65,
     "surprise": 10,
-    "sadness": 19,
+    "sadness": 18,
     "disgust": 5,
-    "anger": 83,
+    "anger": 81,
     "anticipation": 31
   }
 }
