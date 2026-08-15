@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:08:15.944Z",
+  "generated_at": "2026-08-15T06:23:18.367Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,17 +18,12 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
-      "world",
-      5,
-      "trust"
-    ],
-    [
       "president",
+      4,
+      "trust"
+    ],
+    [
+      "people",
       4,
       "trust"
     ],
@@ -56,6 +51,21 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "world",
+      4,
+      "trust"
+    ],
+    [
+      "flu",
+      3,
+      "fear"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "black",
@@ -115,6 +125,11 @@
     [
       "family",
       3,
+      "joy"
+    ],
+    [
+      "found",
+      2,
       "joy"
     ],
     [
@@ -183,11 +198,6 @@
       "fear"
     ],
     [
-      "deaths",
-      2,
-      "sadness"
-    ],
-    [
       "government",
       2,
       "fear"
@@ -211,11 +221,6 @@
       "american",
       2,
       "sadness"
-    ],
-    [
-      "flu",
-      2,
-      "fear"
     ],
     [
       "experts",
@@ -281,6 +286,16 @@
       "class",
       2,
       "sadness"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "parade",
+      1,
+      "fear"
     ],
     [
       "grow",
@@ -361,29 +376,14 @@
       "fire",
       1,
       "fear"
-    ],
-    [
-      "flagrant",
-      1,
-      "anger"
-    ],
-    [
-      "violation",
-      1,
-      "anger"
-    ],
-    [
-      "constitutional",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 64,
-    "fear": 65,
-    "surprise": 12,
-    "sadness": 17,
+    "joy": 25,
+    "trust": 63,
+    "fear": 66,
+    "surprise": 11,
+    "sadness": 18,
     "disgust": 6,
     "anger": 84,
     "anticipation": 31
