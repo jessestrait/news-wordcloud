@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:27:45.141Z",
+  "generated_at": "2026-08-15T15:42:47.476Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,6 +68,11 @@
       "anger"
     ],
     [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
       "strikes",
       3,
       "anger"
@@ -101,11 +106,6 @@
       "bank",
       3,
       "trust"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "happened",
@@ -148,6 +148,11 @@
       "fear"
     ],
     [
+      "evacuated",
+      2,
+      "fear"
+    ],
+    [
       "global",
       2,
       "anticipation"
@@ -186,11 +191,6 @@
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "evacuated",
-      2,
-      "fear"
     ],
     [
       "government",
@@ -298,6 +298,21 @@
       "anticipation"
     ],
     [
+      "suspicion",
+      1,
+      "fear"
+    ],
+    [
+      "arson",
+      1,
+      "anger"
+    ],
+    [
+      "rage",
+      1,
+      "anger"
+    ],
+    [
       "launch",
       1,
       "anticipation"
@@ -361,21 +376,6 @@
       "warns",
       1,
       "fear"
-    ],
-    [
-      "food",
-      1,
-      "joy"
-    ],
-    [
-      "supply",
-      1,
-      "fear"
-    ],
-    [
-      "top",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
