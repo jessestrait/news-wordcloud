@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-08-16T18:27:06.873Z",
+  "generated_at": "2026-08-16T18:42:08.847Z",
   "article_count": 50,
   "top_words": [
     [
       "wildfire",
       7,
       "fear"
-    ],
-    [
-      "people",
-      7,
-      "trust"
     ],
     [
       "war",
@@ -21,6 +16,11 @@
       "kill",
       7,
       "fear"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "attack",
@@ -126,6 +126,11 @@
       "home",
       3,
       "joy"
+    ],
+    [
+      "die",
+      2,
+      "fear"
     ],
     [
       "threaten",
@@ -258,11 +263,6 @@
       "anger"
     ],
     [
-      "evacuate",
-      1,
-      "fear"
-    ],
-    [
       "breaking",
       1,
       "surprise"
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 58,
+    "trust": 57,
     "fear": 72,
     "surprise": 10,
     "sadness": 20,
