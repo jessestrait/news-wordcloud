@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-08-16T16:40:52.913Z",
+  "generated_at": "2026-08-16T16:55:55.799Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      7,
-      "anger"
-    ],
     [
       "wildfire",
       7,
@@ -16,6 +11,11 @@
       "people",
       7,
       "trust"
+    ],
+    [
+      "war",
+      7,
+      "anger"
     ],
     [
       "kill",
@@ -253,11 +253,6 @@
       "trust"
     ],
     [
-      "breaking",
-      1,
-      "surprise"
-    ],
-    [
       "battling",
       1,
       "anger"
@@ -266,6 +261,11 @@
       "evacuate",
       1,
       "fear"
+    ],
+    [
+      "breaking",
+      1,
+      "surprise"
     ],
     [
       "refused",
