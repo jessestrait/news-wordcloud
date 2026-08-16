@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:13:16.931Z",
+  "generated_at": "2026-08-16T21:28:18.888Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,14 +73,14 @@
       "trust"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "blaze",
       3,
       "anger"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "killed",
@@ -133,6 +133,11 @@
       "joy"
     ],
     [
+      "die",
+      2,
+      "fear"
+    ],
+    [
       "vows",
       2,
       "joy"
@@ -141,11 +146,6 @@
       "fight",
       2,
       "anger"
-    ],
-    [
-      "die",
-      2,
-      "fear"
     ],
     [
       "threaten",
@@ -248,6 +248,11 @@
       "anticipation"
     ],
     [
+      "battling",
+      1,
+      "anger"
+    ],
+    [
       "jailed",
       1,
       "fear"
@@ -261,11 +266,6 @@
       "system",
       1,
       "trust"
-    ],
-    [
-      "battling",
-      1,
-      "anger"
     ],
     [
       "breaking",
