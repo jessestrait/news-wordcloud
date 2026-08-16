@@ -1,11 +1,26 @@
 {
-  "generated_at": "2026-08-16T15:10:05.108Z",
+  "generated_at": "2026-08-16T15:25:07.060Z",
   "article_count": 50,
   "top_words": [
     [
+      "wildfire",
+      7,
+      "fear"
+    ],
+    [
+      "people",
+      7,
+      "trust"
+    ],
+    [
       "war",
-      8,
+      7,
       "anger"
+    ],
+    [
+      "kill",
+      7,
+      "fear"
     ],
     [
       "attack",
@@ -18,24 +33,9 @@
       "anger"
     ],
     [
-      "kill",
-      6,
-      "fear"
-    ],
-    [
-      "wildfire",
-      6,
-      "fear"
-    ],
-    [
       "police",
       5,
       "fear"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "strike",
@@ -51,6 +51,11 @@
       "threat",
       5,
       "anger"
+    ],
+    [
+      "fire",
+      4,
+      "fear"
     ],
     [
       "fear",
@@ -73,9 +78,9 @@
       "anticipation"
     ],
     [
-      "fire",
+      "blaze",
       3,
-      "fear"
+      "anger"
     ],
     [
       "killed",
@@ -233,16 +238,6 @@
       "trust"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
-      "blaze",
-      2,
-      "anger"
-    ],
-    [
       "bomb",
       2,
       "anger"
@@ -253,14 +248,24 @@
       "anticipation"
     ],
     [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
       "world",
       2,
       "trust"
+    ],
+    [
+      "tackle",
+      1,
+      "anger"
+    ],
+    [
+      "battling",
+      1,
+      "anger"
+    ],
+    [
+      "evacuate",
+      1,
+      "fear"
     ],
     [
       "refused",
@@ -371,21 +376,16 @@
       "alarmed",
       1,
       "fear"
-    ],
-    [
-      "alarm",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 57,
-    "fear": 68,
-    "surprise": 11,
+    "joy": 19,
+    "trust": 58,
+    "fear": 72,
+    "surprise": 10,
     "sadness": 20,
     "disgust": 3,
-    "anger": 91,
+    "anger": 92,
     "anticipation": 36
   }
 }
