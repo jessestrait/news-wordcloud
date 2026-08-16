@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:53:55.291Z",
+  "generated_at": "2026-08-16T13:08:57.779Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "fear"
     ],
     [
+      "police",
+      5,
+      "fear"
+    ],
+    [
       "people",
       5,
       "trust"
@@ -48,14 +53,9 @@
       "anger"
     ],
     [
-      "home",
-      5,
-      "joy"
-    ],
-    [
-      "police",
+      "fear",
       4,
-      "fear"
+      "anger"
     ],
     [
       "calls",
@@ -81,16 +81,6 @@
       "killed",
       3,
       "fear"
-    ],
-    [
-      "family",
-      3,
-      "joy"
-    ],
-    [
-      "fear",
-      3,
-      "anger"
     ],
     [
       "force",
@@ -123,17 +113,27 @@
       "trust"
     ],
     [
-      "bank",
-      3,
-      "trust"
-    ],
-    [
       "letter",
       3,
       "anticipation"
     ],
     [
+      "home",
+      3,
+      "joy"
+    ],
+    [
+      "threaten",
+      2,
+      "anger"
+    ],
+    [
       "found",
+      2,
+      "joy"
+    ],
+    [
+      "family",
       2,
       "joy"
     ],
@@ -183,6 +183,11 @@
       "fear"
     ],
     [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
       "plan",
       2,
       "anticipation"
@@ -199,11 +204,6 @@
     ],
     [
       "iran",
-      2,
-      "anger"
-    ],
-    [
-      "soldier",
       2,
       "anger"
     ],
@@ -248,11 +248,6 @@
       "anger"
     ],
     [
-      "terror",
-      2,
-      "fear"
-    ],
-    [
       "attempt",
       2,
       "anticipation"
@@ -266,6 +261,31 @@
       "world",
       2,
       "trust"
+    ],
+    [
+      "refused",
+      1,
+      "sadness"
+    ],
+    [
+      "loyal",
+      1,
+      "fear"
+    ],
+    [
+      "resulted",
+      1,
+      "anticipation"
+    ],
+    [
+      "constant",
+      1,
+      "trust"
+    ],
+    [
+      "reprisals",
+      1,
+      "anger"
     ],
     [
       "crashes",
@@ -356,36 +376,16 @@
       "alarm",
       1,
       "fear"
-    ],
-    [
-      "react",
-      1,
-      "anger"
-    ],
-    [
-      "complained",
-      1,
-      "anger"
-    ],
-    [
-      "lamented",
-      1,
-      "fear"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 21,
     "trust": 57,
     "fear": 68,
     "surprise": 11,
-    "sadness": 19,
+    "sadness": 20,
     "disgust": 3,
-    "anger": 89,
-    "anticipation": 35
+    "anger": 91,
+    "anticipation": 36
   }
 }
