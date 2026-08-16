@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-16T15:55:27.705Z",
+  "generated_at": "2026-08-16T16:10:30.146Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      7,
+      "anger"
+    ],
     [
       "wildfire",
       7,
@@ -11,11 +16,6 @@
       "people",
       7,
       "trust"
-    ],
-    [
-      "war",
-      7,
-      "anger"
     ],
     [
       "kill",
@@ -253,9 +253,9 @@
       "trust"
     ],
     [
-      "tackle",
+      "breaking",
       1,
-      "anger"
+      "surprise"
     ],
     [
       "battling",
@@ -306,16 +306,6 @@
       "veers",
       1,
       "fear"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "breaking",
-      1,
-      "surprise"
     ],
     [
       "gate",
@@ -376,6 +366,16 @@
       "alarmed",
       1,
       "fear"
+    ],
+    [
+      "alarm",
+      1,
+      "fear"
+    ],
+    [
+      "react",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 10,
     "sadness": 20,
     "disgust": 3,
-    "anger": 92,
+    "anger": 90,
     "anticipation": 36
   }
 }
