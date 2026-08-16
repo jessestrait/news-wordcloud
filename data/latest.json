@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:34:32.933Z",
+  "generated_at": "2026-08-16T04:49:35.413Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "fear"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "threat",
       5,
       "anger"
@@ -58,11 +53,6 @@
       "anger"
     ],
     [
-      "family",
-      4,
-      "joy"
-    ],
-    [
       "police",
       4,
       "fear"
@@ -73,19 +63,24 @@
       "trust"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "airport",
       4,
       "anticipation"
     ],
     [
-      "second",
-      4,
-      "trust"
-    ],
-    [
       "killed",
       3,
       "fear"
+    ],
+    [
+      "family",
+      3,
+      "joy"
     ],
     [
       "fear",
@@ -136,6 +131,11 @@
       "letter",
       3,
       "anticipation"
+    ],
+    [
+      "second",
+      3,
+      "trust"
     ],
     [
       "world",
@@ -273,6 +273,26 @@
       "fear"
     ],
     [
+      "gate",
+      1,
+      "trust"
+    ],
+    [
+      "focus",
+      1,
+      "trust"
+    ],
+    [
+      "class",
+      1,
+      "sadness"
+    ],
+    [
+      "frigate",
+      1,
+      "fear"
+    ],
+    [
       "missile",
       1,
       "fear"
@@ -356,36 +376,16 @@
       "ground",
       1,
       "trust"
-    ],
-    [
-      "suspicion",
-      1,
-      "fear"
-    ],
-    [
-      "arson",
-      1,
-      "anger"
-    ],
-    [
-      "rage",
-      1,
-      "anger"
-    ],
-    [
-      "truce",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 60,
-    "fear": 69,
+    "joy": 25,
+    "trust": 59,
+    "fear": 68,
     "surprise": 11,
-    "sadness": 17,
+    "sadness": 18,
     "disgust": 3,
-    "anger": 88,
+    "anger": 87,
     "anticipation": 35
   }
 }
