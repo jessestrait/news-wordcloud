@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-08-16T03:34:08.118Z",
+  "generated_at": "2026-08-16T03:49:10.211Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      9,
+      "anger"
+    ],
+    [
+      "hit",
+      6,
       "anger"
     ],
     [
       "wildfire",
       6,
       "fear"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
     ],
     [
       "death",
@@ -23,9 +33,9 @@
       "trust"
     ],
     [
-      "hit",
+      "kill",
       5,
-      "anger"
+      "fear"
     ],
     [
       "president",
@@ -38,12 +48,12 @@
       "anger"
     ],
     [
-      "attack",
-      4,
-      "anger"
+      "home",
+      5,
+      "joy"
     ],
     [
-      "strike",
+      "attack",
       4,
       "anger"
     ],
@@ -71,16 +81,6 @@
       "second",
       4,
       "trust"
-    ],
-    [
-      "kill",
-      4,
-      "fear"
-    ],
-    [
-      "home",
-      4,
-      "joy"
     ],
     [
       "killed",
@@ -373,19 +373,19 @@
       "anger"
     ],
     [
-      "launch",
+      "truce",
       1,
-      "anticipation"
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 60,
-    "fear": 70,
-    "surprise": 10,
+    "fear": 69,
+    "surprise": 11,
     "sadness": 17,
     "disgust": 3,
-    "anger": 87,
+    "anger": 88,
     "anticipation": 35
   }
 }
