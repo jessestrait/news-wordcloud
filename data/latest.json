@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:08:04.581Z",
+  "generated_at": "2026-08-16T11:23:06.427Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "fear"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "strike",
       5,
       "anger"
@@ -36,11 +41,6 @@
       "death",
       5,
       "sadness"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "threat",
@@ -268,8 +268,18 @@
       "trust"
     ],
     [
-      "asylum",
-      2,
+      "crashes",
+      1,
+      "fear"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
+      "veers",
+      1,
       "fear"
     ],
     [
@@ -366,26 +376,16 @@
       "powerful",
       1,
       "anger"
-    ],
-    [
-      "earthquake",
-      1,
-      "anger"
-    ],
-    [
-      "quake",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 24,
     "trust": 57,
     "fear": 68,
-    "surprise": 12,
-    "sadness": 18,
+    "surprise": 11,
+    "sadness": 19,
     "disgust": 3,
     "anger": 89,
-    "anticipation": 36
+    "anticipation": 35
   }
 }
