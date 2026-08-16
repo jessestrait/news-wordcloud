@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-08-16T10:53:02.483Z",
+  "generated_at": "2026-08-16T11:08:04.581Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      8,
+      "anger"
+    ],
+    [
+      "attack",
+      6,
       "anger"
     ],
     [
       "hit",
       6,
       "anger"
+    ],
+    [
+      "kill",
+      6,
+      "fear"
     ],
     [
       "wildfire",
@@ -33,11 +43,6 @@
       "trust"
     ],
     [
-      "kill",
-      5,
-      "fear"
-    ],
-    [
       "threat",
       5,
       "anger"
@@ -46,11 +51,6 @@
       "home",
       5,
       "joy"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "police",
@@ -71,6 +71,11 @@
       "airport",
       4,
       "anticipation"
+    ],
+    [
+      "fire",
+      3,
+      "fear"
     ],
     [
       "killed",
@@ -113,11 +118,6 @@
       "fear"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "law",
       3,
       "trust"
@@ -133,16 +133,6 @@
       "anticipation"
     ],
     [
-      "second",
-      3,
-      "trust"
-    ],
-    [
-      "world",
-      3,
-      "trust"
-    ],
-    [
       "found",
       2,
       "joy"
@@ -151,6 +141,11 @@
       "evacuated",
       2,
       "fear"
+    ],
+    [
+      "launch",
+      2,
+      "anticipation"
     ],
     [
       "investigation",
@@ -184,11 +179,6 @@
     ],
     [
       "warning",
-      2,
-      "fear"
-    ],
-    [
-      "fire",
       2,
       "fear"
     ],
@@ -233,6 +223,11 @@
       "anticipation"
     ],
     [
+      "second",
+      2,
+      "trust"
+    ],
+    [
       "policies",
       2,
       "trust"
@@ -268,9 +263,24 @@
       "surprise"
     ],
     [
+      "world",
+      2,
+      "trust"
+    ],
+    [
       "asylum",
       2,
       "fear"
+    ],
+    [
+      "massive",
+      1,
+      "anger"
+    ],
+    [
+      "breaking",
+      1,
+      "surprise"
     ],
     [
       "gate",
@@ -366,26 +376,16 @@
       "quake",
       1,
       "fear"
-    ],
-    [
-      "seek",
-      1,
-      "anticipation"
-    ],
-    [
-      "ground",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 59,
+    "trust": 57,
     "fear": 68,
-    "surprise": 11,
+    "surprise": 12,
     "sadness": 18,
     "disgust": 3,
-    "anger": 87,
-    "anticipation": 35
+    "anger": 89,
+    "anticipation": 36
   }
 }
