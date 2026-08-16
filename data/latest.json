@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-16T21:43:37.315Z",
+  "generated_at": "2026-08-16T21:58:39.369Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      7,
+      "trust"
+    ],
     [
       "wildfire",
       7,
@@ -13,9 +18,9 @@
       "fear"
     ],
     [
-      "people",
+      "police",
       6,
-      "trust"
+      "fear"
     ],
     [
       "attack",
@@ -38,11 +43,6 @@
       "trust"
     ],
     [
-      "police",
-      5,
-      "fear"
-    ],
-    [
       "strike",
       5,
       "anger"
@@ -56,6 +56,11 @@
       "threat",
       5,
       "anger"
+    ],
+    [
+      "killed",
+      4,
+      "fear"
     ],
     [
       "fire",
@@ -83,11 +88,6 @@
       "anticipation"
     ],
     [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
       "launch",
       3,
       "anticipation"
@@ -96,11 +96,6 @@
       "force",
       3,
       "anger"
-    ],
-    [
-      "incident",
-      3,
-      "surprise"
     ],
     [
       "flu",
@@ -131,6 +126,16 @@
       "home",
       3,
       "joy"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
+    ],
+    [
+      "crash",
+      2,
+      "fear"
     ],
     [
       "die",
@@ -223,11 +228,6 @@
       "trust"
     ],
     [
-      "airport",
-      2,
-      "anticipation"
-    ],
-    [
       "second",
       2,
       "trust"
@@ -246,6 +246,11 @@
       "attempt",
       2,
       "anticipation"
+    ],
+    [
+      "county",
+      1,
+      "trust"
     ],
     [
       "battling",
@@ -296,11 +301,6 @@
       "reprisals",
       1,
       "anger"
-    ],
-    [
-      "crashes",
-      1,
-      "fear"
     ],
     [
       "leaving",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 21,
     "trust": 58,
-    "fear": 73,
-    "surprise": 10,
+    "fear": 77,
+    "surprise": 8,
     "sadness": 19,
     "disgust": 3,
-    "anger": 89,
-    "anticipation": 34
+    "anger": 88,
+    "anticipation": 33
   }
 }
