@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-17T13:51:58.431Z",
+  "generated_at": "2026-08-17T14:07:01.008Z",
   "article_count": 50,
   "top_words": [
-    [
-      "wildfire",
-      9,
-      "fear"
-    ],
     [
       "president",
       8,
       "trust"
+    ],
+    [
+      "wildfire",
+      8,
+      "fear"
     ],
     [
       "war",
@@ -21,6 +21,11 @@
       "people",
       7,
       "trust"
+    ],
+    [
+      "death",
+      6,
+      "sadness"
     ],
     [
       "threat",
@@ -53,11 +58,6 @@
       "anger"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "trump",
       4,
       "anger"
@@ -71,11 +71,6 @@
       "fire",
       4,
       "fear"
-    ],
-    [
-      "threaten",
-      4,
-      "anger"
     ],
     [
       "fear",
@@ -113,6 +108,11 @@
       "trust"
     ],
     [
+      "threaten",
+      3,
+      "anger"
+    ],
+    [
       "calls",
       3,
       "trust"
@@ -133,14 +133,19 @@
       "fear"
     ],
     [
-      "ally",
+      "family",
       2,
-      "trust"
+      "joy"
     ],
     [
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "ally",
+      2,
+      "trust"
     ],
     [
       "economy",
@@ -228,17 +233,37 @@
       "trust"
     ],
     [
-      "blaze",
-      2,
-      "anger"
-    ],
-    [
-      "shit",
+      "deportation",
       1,
       "anger"
     ],
     [
-      "threatening",
+      "risked",
+      1,
+      "fear"
+    ],
+    [
+      "invasion",
+      1,
+      "anger"
+    ],
+    [
+      "mother",
+      1,
+      "sadness"
+    ],
+    [
+      "torture",
+      1,
+      "anger"
+    ],
+    [
+      "asylum",
+      1,
+      "fear"
+    ],
+    [
+      "rejected",
       1,
       "anger"
     ],
@@ -261,6 +286,16 @@
       "peace",
       1,
       "joy"
+    ],
+    [
+      "shit",
+      1,
+      "anger"
+    ],
+    [
+      "threatening",
+      1,
+      "anger"
     ],
     [
       "conflict",
@@ -341,51 +376,16 @@
       "collision",
       1,
       "anger"
-    ],
-    [
-      "county",
-      1,
-      "trust"
-    ],
-    [
-      "die",
-      1,
-      "fear"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
-    ],
-    [
-      "system",
-      1,
-      "trust"
-    ],
-    [
-      "breaking",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
+    "joy": 19,
     "trust": 58,
-    "fear": 77,
-    "surprise": 8,
-    "sadness": 18,
+    "fear": 78,
+    "surprise": 7,
+    "sadness": 20,
     "disgust": 3,
-    "anger": 92,
-    "anticipation": 26
+    "anger": 93,
+    "anticipation": 25
   }
 }
