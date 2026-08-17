@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-17T07:33:40.411Z",
+  "generated_at": "2026-08-17T07:48:42.518Z",
   "article_count": 50,
   "top_words": [
+    [
+      "wildfire",
+      8,
+      "fear"
+    ],
     [
       "hit",
       8,
@@ -19,11 +24,6 @@
     ],
     [
       "kill",
-      7,
-      "fear"
-    ],
-    [
-      "wildfire",
       7,
       "fear"
     ],
@@ -83,6 +83,11 @@
       "fear"
     ],
     [
+      "blaze",
+      3,
+      "anger"
+    ],
+    [
       "trump",
       3,
       "anger"
@@ -91,11 +96,6 @@
       "plan",
       3,
       "anticipation"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "power",
@@ -108,11 +108,6 @@
       "anticipation"
     ],
     [
-      "force",
-      3,
-      "anger"
-    ],
-    [
       "flu",
       3,
       "fear"
@@ -121,6 +116,21 @@
       "warning",
       3,
       "fear"
+    ],
+    [
+      "rage",
+      2,
+      "anger"
+    ],
+    [
+      "thought",
+      2,
+      "anticipation"
+    ],
+    [
+      "history",
+      2,
+      "trust"
     ],
     [
       "peace",
@@ -138,9 +148,19 @@
       "fear"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "injured",
       2,
       "fear"
+    ],
+    [
+      "tackle",
+      2,
+      "anger"
     ],
     [
       "vows",
@@ -173,6 +193,11 @@
       "fear"
     ],
     [
+      "force",
+      2,
+      "anger"
+    ],
+    [
       "investigation",
       2,
       "anticipation"
@@ -198,11 +223,6 @@
       "trust"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "experts",
       2,
       "trust"
@@ -211,11 +231,6 @@
       "policies",
       2,
       "trust"
-    ],
-    [
-      "blaze",
-      2,
-      "anger"
     ],
     [
       "board",
@@ -273,11 +288,6 @@
       "anger"
     ],
     [
-      "history",
-      1,
-      "trust"
-    ],
-    [
       "hormuz",
       1,
       "fear"
@@ -316,11 +326,6 @@
       "die",
       1,
       "fear"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
     ],
     [
       "jailed",
@@ -371,17 +376,12 @@
       "crashes",
       1,
       "fear"
-    ],
-    [
-      "leaving",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 51,
-    "fear": 83,
+    "trust": 50,
+    "fear": 81,
     "surprise": 8,
     "sadness": 17,
     "disgust": 3,
