@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:36:55.894Z",
+  "generated_at": "2026-08-17T13:51:58.431Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,14 +133,14 @@
       "fear"
     ],
     [
-      "middle",
-      2,
-      "sadness"
-    ],
-    [
       "ally",
       2,
       "trust"
+    ],
+    [
+      "middle",
+      2,
+      "sadness"
     ],
     [
       "economy",
@@ -233,6 +233,16 @@
       "anger"
     ],
     [
+      "shit",
+      1,
+      "anger"
+    ],
+    [
+      "threatening",
+      1,
+      "anger"
+    ],
+    [
       "deal",
       1,
       "surprise"
@@ -254,16 +264,6 @@
     ],
     [
       "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "shit",
-      1,
-      "anger"
-    ],
-    [
-      "threatening",
       1,
       "anger"
     ],
