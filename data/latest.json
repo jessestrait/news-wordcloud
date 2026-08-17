@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-17T00:14:41.907Z",
+  "generated_at": "2026-08-17T00:29:43.953Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      7,
+      "trust"
+    ],
     [
       "kill",
       7,
@@ -13,9 +18,19 @@
       "fear"
     ],
     [
-      "people",
+      "president",
       6,
       "trust"
+    ],
+    [
+      "war",
+      6,
+      "anger"
+    ],
+    [
+      "death",
+      6,
+      "sadness"
     ],
     [
       "police",
@@ -23,22 +38,17 @@
       "fear"
     ],
     [
-      "attack",
-      6,
-      "anger"
-    ],
-    [
       "hit",
       6,
       "anger"
     ],
     [
-      "president",
+      "killed",
       5,
-      "trust"
+      "fear"
     ],
     [
-      "war",
+      "attack",
       5,
       "anger"
     ],
@@ -48,19 +58,9 @@
       "anger"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "threat",
       5,
       "anger"
-    ],
-    [
-      "killed",
-      4,
-      "fear"
     ],
     [
       "fire",
@@ -88,6 +88,11 @@
       "fear"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "power",
       3,
       "anticipation"
@@ -108,22 +113,27 @@
       "sadness"
     ],
     [
+      "warning",
+      3,
+      "fear"
+    ],
+    [
       "letter",
       3,
       "anticipation"
     ],
     [
-      "home",
-      3,
-      "joy"
+      "trump",
+      2,
+      "anger"
     ],
     [
-      "injured",
+      "military",
       2,
       "fear"
     ],
     [
-      "die",
+      "injured",
       2,
       "fear"
     ],
@@ -158,6 +168,11 @@
       "fear"
     ],
     [
+      "homes",
+      2,
+      "joy"
+    ],
+    [
       "investigation",
       2,
       "anticipation"
@@ -183,11 +198,6 @@
       "anger"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "law",
       2,
       "trust"
@@ -201,11 +211,6 @@
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "happened",
@@ -228,14 +233,44 @@
       "anger"
     ],
     [
-      "bomb",
-      2,
-      "anger"
-    ],
-    [
       "attempt",
       2,
       "anticipation"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "battlefield",
+      1,
+      "fear"
+    ],
+    [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "good",
+      1,
+      "surprise"
+    ],
+    [
+      "officials",
+      1,
+      "trust"
+    ],
+    [
+      "combat",
+      1,
+      "anger"
+    ],
+    [
+      "history",
+      1,
+      "trust"
     ],
     [
       "hormuz",
@@ -271,6 +306,11 @@
       "county",
       1,
       "trust"
+    ],
+    [
+      "die",
+      1,
+      "fear"
     ],
     [
       "tackle",
@@ -336,56 +376,16 @@
       "veers",
       1,
       "fear"
-    ],
-    [
-      "gate",
-      1,
-      "trust"
-    ],
-    [
-      "focus",
-      1,
-      "trust"
-    ],
-    [
-      "class",
-      1,
-      "sadness"
-    ],
-    [
-      "frigate",
-      1,
-      "fear"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
-    ],
-    [
-      "network",
-      1,
-      "anticipation"
-    ],
-    [
-      "rocket",
-      1,
-      "anger"
-    ],
-    [
-      "accident",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 54,
-    "fear": 79,
-    "surprise": 8,
-    "sadness": 17,
+    "joy": 21,
+    "trust": 57,
+    "fear": 83,
+    "surprise": 9,
+    "sadness": 18,
     "disgust": 3,
     "anger": 86,
-    "anticipation": 33
+    "anticipation": 32
   }
 }
