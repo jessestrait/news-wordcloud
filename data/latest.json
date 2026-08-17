@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:09:05.223Z",
+  "generated_at": "2026-08-17T17:24:07.559Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,11 @@
       "anger"
     ],
     [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "law",
       3,
       "trust"
@@ -143,11 +148,6 @@
       "surprise"
     ],
     [
-      "middle",
-      2,
-      "sadness"
-    ],
-    [
       "gaza",
       2,
       "anger"
@@ -161,11 +161,6 @@
       "mother",
       2,
       "sadness"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "deadly",
@@ -376,6 +371,11 @@
       "invasion",
       1,
       "anger"
+    ],
+    [
+      "jail",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 59,
     "fear": 76,
     "surprise": 7,
-    "sadness": 24,
+    "sadness": 23,
     "disgust": 3,
     "anger": 94,
-    "anticipation": 25
+    "anticipation": 26
   }
 }
