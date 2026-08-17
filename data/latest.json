@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-17T16:23:39.590Z",
+  "generated_at": "2026-08-17T16:38:42.091Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      8,
+      "trust"
+    ],
     [
       "president",
       8,
@@ -11,11 +16,6 @@
       "wildfire",
       8,
       "fear"
-    ],
-    [
-      "people",
-      7,
-      "trust"
     ],
     [
       "war",
@@ -143,6 +143,11 @@
       "fear"
     ],
     [
+      "good",
+      2,
+      "surprise"
+    ],
+    [
       "middle",
       2,
       "sadness"
@@ -176,11 +181,6 @@
       "family",
       2,
       "joy"
-    ],
-    [
-      "ally",
-      2,
-      "trust"
     ],
     [
       "economy",
@@ -233,11 +233,6 @@
       "anticipation"
     ],
     [
-      "diplomatic",
-      2,
-      "trust"
-    ],
-    [
       "court",
       2,
       "anger"
@@ -246,6 +241,21 @@
       "american",
       2,
       "sadness"
+    ],
+    [
+      "animated",
+      1,
+      "joy"
+    ],
+    [
+      "challenges",
+      1,
+      "anger"
+    ],
+    [
+      "bad",
+      1,
+      "anger"
     ],
     [
       "deal",
@@ -366,23 +376,13 @@
       "shit",
       1,
       "anger"
-    ],
-    [
-      "threatening",
-      1,
-      "anger"
-    ],
-    [
-      "banker",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 59,
-    "fear": 82,
-    "surprise": 6,
+    "joy": 21,
+    "trust": 58,
+    "fear": 81,
+    "surprise": 7,
     "sadness": 21,
     "disgust": 2,
     "anger": 95,
