@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:49:48.107Z",
+  "generated_at": "2026-08-17T10:04:50.221Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "anger"
     ],
     [
-      "calls",
-      4,
-      "trust"
-    ],
-    [
       "killed",
       4,
       "fear"
@@ -83,19 +78,29 @@
       "fear"
     ],
     [
-      "history",
-      3,
-      "trust"
-    ],
-    [
       "trump",
       3,
       "anger"
     ],
     [
+      "law",
+      3,
+      "trust"
+    ],
+    [
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "blaze",
+      3,
+      "anger"
+    ],
+    [
+      "history",
+      3,
+      "trust"
     ],
     [
       "official",
@@ -106,6 +111,11 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "calls",
+      3,
+      "trust"
     ],
     [
       "launch",
@@ -123,19 +133,14 @@
       "fear"
     ],
     [
-      "thought",
-      2,
-      "anticipation"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
-    ],
-    [
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "thought",
+      2,
+      "anticipation"
     ],
     [
       "injured",
@@ -203,11 +208,6 @@
       "anger"
     ],
     [
-      "law",
-      2,
-      "trust"
-    ],
-    [
       "american",
       2,
       "sadness"
@@ -223,19 +223,19 @@
       "trust"
     ],
     [
-      "blaze",
-      2,
-      "anger"
-    ],
-    [
-      "board",
+      "leader",
       1,
-      "anticipation"
+      "trust"
     ],
     [
       "gaza",
       1,
       "anger"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
     ],
     [
       "dictator",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 52,
+    "joy": 18,
+    "trust": 53,
     "fear": 79,
     "surprise": 8,
     "sadness": 17,
     "disgust": 3,
-    "anger": 87,
-    "anticipation": 30
+    "anger": 88,
+    "anticipation": 29
   }
 }
