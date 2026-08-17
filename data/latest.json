@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:04:50.221Z",
+  "generated_at": "2026-08-17T10:19:52.415Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,6 +78,16 @@
       "fear"
     ],
     [
+      "blaze",
+      3,
+      "anger"
+    ],
+    [
+      "history",
+      3,
+      "trust"
+    ],
+    [
       "trump",
       3,
       "anger"
@@ -91,16 +101,6 @@
       "plan",
       3,
       "anticipation"
-    ],
-    [
-      "blaze",
-      3,
-      "anger"
-    ],
-    [
-      "history",
-      3,
-      "trust"
     ],
     [
       "official",
@@ -133,14 +133,14 @@
       "fear"
     ],
     [
-      "middle",
-      2,
-      "sadness"
-    ],
-    [
       "thought",
       2,
       "anticipation"
+    ],
+    [
+      "middle",
+      2,
+      "sadness"
     ],
     [
       "injured",
