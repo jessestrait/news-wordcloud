@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-17T03:16:20.493Z",
+  "generated_at": "2026-08-17T03:31:22.846Z",
   "article_count": 50,
   "top_words": [
+    [
+      "hit",
+      8,
+      "anger"
+    ],
+    [
+      "war",
+      7,
+      "anger"
+    ],
     [
       "people",
       7,
@@ -23,11 +33,6 @@
       "trust"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "death",
       6,
       "sadness"
@@ -38,7 +43,7 @@
       "fear"
     ],
     [
-      "hit",
+      "attack",
       6,
       "anger"
     ],
@@ -46,11 +51,6 @@
       "killed",
       5,
       "fear"
-    ],
-    [
-      "attack",
-      5,
-      "anger"
     ],
     [
       "strike",
@@ -118,11 +118,6 @@
       "fear"
     ],
     [
-      "letter",
-      3,
-      "anticipation"
-    ],
-    [
       "trump",
       2,
       "anger"
@@ -151,6 +146,11 @@
       "threaten",
       2,
       "anger"
+    ],
+    [
+      "missile",
+      2,
+      "fear"
     ],
     [
       "found",
@@ -268,6 +268,11 @@
       "anger"
     ],
     [
+      "massive",
+      1,
+      "anger"
+    ],
+    [
       "history",
       1,
       "trust"
@@ -371,21 +376,16 @@
       "leaving",
       1,
       "sadness"
-    ],
-    [
-      "veers",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 57,
-    "fear": 83,
+    "trust": 55,
+    "fear": 84,
     "surprise": 9,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 3,
-    "anger": 86,
-    "anticipation": 32
+    "anger": 91,
+    "anticipation": 30
   }
 }
