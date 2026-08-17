@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:04:26.412Z",
+  "generated_at": "2026-08-17T09:19:28.808Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "war",
       7,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "kill",
@@ -123,6 +123,16 @@
       "fear"
     ],
     [
+      "good",
+      2,
+      "surprise"
+    ],
+    [
+      "military",
+      2,
+      "fear"
+    ],
+    [
       "peace",
       2,
       "joy"
@@ -136,16 +146,6 @@
       "thought",
       2,
       "anticipation"
-    ],
-    [
-      "good",
-      2,
-      "surprise"
-    ],
-    [
-      "military",
-      2,
-      "fear"
     ],
     [
       "injured",
@@ -238,6 +238,26 @@
       "anger"
     ],
     [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "battlefield",
+      1,
+      "fear"
+    ],
+    [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "combat",
+      1,
+      "anger"
+    ],
+    [
       "board",
       1,
       "anticipation"
@@ -261,26 +281,6 @@
       "success",
       1,
       "joy"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
-      "battlefield",
-      1,
-      "fear"
-    ],
-    [
-      "based",
-      1,
-      "trust"
-    ],
-    [
-      "combat",
-      1,
-      "anger"
     ],
     [
       "massive",
