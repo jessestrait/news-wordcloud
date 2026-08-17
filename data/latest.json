@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-17T15:22:52.410Z",
+  "generated_at": "2026-08-17T15:37:54.984Z",
   "article_count": 50,
   "top_words": [
-    [
-      "wildfire",
-      8,
-      "fear"
-    ],
     [
       "president",
       8,
       "trust"
+    ],
+    [
+      "wildfire",
+      8,
+      "fear"
     ],
     [
       "people",
@@ -243,11 +243,6 @@
       "sadness"
     ],
     [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
       "deal",
       1,
       "surprise"
@@ -266,6 +261,11 @@
       "peace",
       1,
       "joy"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
     ],
     [
       "devastated",
