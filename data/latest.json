@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:49:24.331Z",
+  "generated_at": "2026-08-17T09:04:26.412Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,11 +83,6 @@
       "fear"
     ],
     [
-      "history",
-      3,
-      "trust"
-    ],
-    [
       "trump",
       3,
       "anger"
@@ -98,9 +93,14 @@
       "anticipation"
     ],
     [
-      "blaze",
+      "history",
       3,
-      "anger"
+      "trust"
+    ],
+    [
+      "official",
+      3,
+      "trust"
     ],
     [
       "power",
@@ -123,11 +123,6 @@
       "fear"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
       "peace",
       2,
       "joy"
@@ -138,14 +133,14 @@
       "sadness"
     ],
     [
-      "rage",
-      2,
-      "anger"
-    ],
-    [
       "thought",
       2,
       "anticipation"
+    ],
+    [
+      "good",
+      2,
+      "surprise"
     ],
     [
       "military",
@@ -223,6 +218,11 @@
       "trust"
     ],
     [
+      "american",
+      2,
+      "sadness"
+    ],
+    [
       "experts",
       2,
       "trust"
@@ -233,9 +233,9 @@
       "trust"
     ],
     [
-      "track",
-      1,
-      "anticipation"
+      "blaze",
+      2,
+      "anger"
     ],
     [
       "board",
@@ -246,6 +246,11 @@
       "gaza",
       1,
       "anger"
+    ],
+    [
+      "track",
+      1,
+      "anticipation"
     ],
     [
       "leading",
@@ -271,11 +276,6 @@
       "based",
       1,
       "trust"
-    ],
-    [
-      "good",
-      1,
-      "surprise"
     ],
     [
       "combat",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 52,
-    "fear": 79,
-    "surprise": 8,
-    "sadness": 16,
+    "joy": 20,
+    "trust": 53,
+    "fear": 80,
+    "surprise": 9,
+    "sadness": 17,
     "disgust": 3,
-    "anger": 91,
+    "anger": 88,
     "anticipation": 30
   }
 }
