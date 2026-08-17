@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:47:55.103Z",
+  "generated_at": "2026-08-17T06:02:57.375Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,14 +43,14 @@
       "fear"
     ],
     [
-      "attack",
-      6,
-      "anger"
-    ],
-    [
       "killed",
       5,
       "fear"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
     ],
     [
       "strike",
@@ -106,11 +106,6 @@
       "flu",
       3,
       "fear"
-    ],
-    [
-      "black",
-      3,
-      "sadness"
     ],
     [
       "warning",
@@ -183,14 +178,9 @@
       "trust"
     ],
     [
-      "crucial",
+      "black",
       2,
-      "trust"
-    ],
-    [
-      "offering",
-      2,
-      "trust"
+      "sadness"
     ],
     [
       "court",
@@ -233,9 +223,14 @@
       "anger"
     ],
     [
-      "attempt",
-      2,
-      "anticipation"
+      "leading",
+      1,
+      "trust"
+    ],
+    [
+      "success",
+      1,
+      "joy"
     ],
     [
       "growing",
@@ -376,16 +371,21 @@
       "leaving",
       1,
       "sadness"
+    ],
+    [
+      "veers",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 55,
+    "joy": 22,
+    "trust": 52,
     "fear": 84,
-    "surprise": 9,
-    "sadness": 17,
+    "surprise": 8,
+    "sadness": 16,
     "disgust": 3,
-    "anger": 91,
-    "anticipation": 30
+    "anger": 90,
+    "anticipation": 28
   }
 }
