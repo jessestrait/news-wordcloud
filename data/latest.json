@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-17T14:22:22.176Z",
+  "generated_at": "2026-08-17T14:37:24.692Z",
   "article_count": 50,
   "top_words": [
-    [
-      "wildfire",
-      8,
-      "fear"
-    ],
     [
       "president",
       8,
       "trust"
+    ],
+    [
+      "wildfire",
+      8,
+      "fear"
     ],
     [
       "people",
@@ -83,11 +83,6 @@
       "fear"
     ],
     [
-      "official",
-      3,
-      "trust"
-    ],
-    [
       "bomb",
       3,
       "anger"
@@ -106,6 +101,11 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "official",
+      3,
+      "trust"
     ],
     [
       "threaten",
@@ -133,6 +133,11 @@
       "fear"
     ],
     [
+      "middle",
+      2,
+      "sadness"
+    ],
+    [
       "history",
       2,
       "trust"
@@ -141,11 +146,6 @@
       "family",
       2,
       "joy"
-    ],
-    [
-      "middle",
-      2,
-      "sadness"
     ],
     [
       "ally",
@@ -233,6 +233,31 @@
       "trust"
     ],
     [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "leader",
+      1,
+      "trust"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
+    ],
+    [
       "track",
       1,
       "anticipation"
@@ -283,37 +308,12 @@
       "anger"
     ],
     [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "leader",
-      1,
-      "trust"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
       "shit",
       1,
       "anger"
     ],
     [
       "threatening",
-      1,
-      "anger"
-    ],
-    [
-      "conflict",
       1,
       "anger"
     ],
