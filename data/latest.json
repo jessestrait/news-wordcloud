@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:36:26.794Z",
+  "generated_at": "2026-08-17T12:51:29.279Z",
   "article_count": 50,
   "top_words": [
     [
@@ -223,11 +223,6 @@
       "anger"
     ],
     [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
       "bomb",
       1,
       "anger"
@@ -251,6 +246,11 @@
       "peace",
       1,
       "joy"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
     ],
     [
       "banker",
