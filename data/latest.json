@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:08:19.868Z",
+  "generated_at": "2026-08-17T16:23:22.031Z",
   "article_count": 50,
   "top_words": [
     [
@@ -146,6 +146,11 @@
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "deadly",
@@ -371,11 +376,6 @@
       "banker",
       1,
       "trust"
-    ],
-    [
-      "fired",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 21,
     "disgust": 2,
     "anger": 95,
-    "anticipation": 25
+    "anticipation": 26
   }
 }
