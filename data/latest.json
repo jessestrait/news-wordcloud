@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:07:49.924Z",
+  "generated_at": "2026-08-17T15:22:52.410Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,6 +243,11 @@
       "sadness"
     ],
     [
+      "conflict",
+      1,
+      "anger"
+    ],
+    [
       "deal",
       1,
       "surprise"
@@ -301,11 +306,6 @@
       "fatalities",
       1,
       "fear"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
     ],
     [
       "track",
