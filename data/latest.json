@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:26:49.260Z",
+  "generated_at": "2026-08-17T22:41:51.566Z",
   "article_count": 50,
   "top_words": [
     [
@@ -158,6 +158,11 @@
       "anger"
     ],
     [
+      "bad",
+      2,
+      "anger"
+    ],
+    [
       "good",
       2,
       "surprise"
@@ -303,16 +308,6 @@
       "sadness"
     ],
     [
-      "animated",
-      1,
-      "joy"
-    ],
-    [
-      "bad",
-      1,
-      "anger"
-    ],
-    [
       "conflict",
       1,
       "anger"
@@ -376,16 +371,21 @@
       "invasion",
       1,
       "anger"
+    ],
+    [
+      "jail",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 21,
     "trust": 60,
     "fear": 75,
     "surprise": 7,
     "sadness": 23,
     "disgust": 3,
-    "anger": 95,
+    "anger": 96,
     "anticipation": 26
   }
 }
