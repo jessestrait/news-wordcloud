@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:34:04.799Z",
+  "generated_at": "2026-08-17T08:49:07.382Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "people",
       7,
       "trust"
+    ],
+    [
+      "war",
+      7,
+      "anger"
     ],
     [
       "kill",
@@ -33,18 +33,8 @@
       "trust"
     ],
     [
-      "death",
-      6,
-      "sadness"
-    ],
-    [
       "police",
       6,
-      "fear"
-    ],
-    [
-      "killed",
-      5,
       "fear"
     ],
     [
@@ -58,6 +48,11 @@
       "anger"
     ],
     [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
       "threat",
       5,
       "anger"
@@ -66,6 +61,11 @@
       "calls",
       4,
       "trust"
+    ],
+    [
+      "killed",
+      4,
+      "fear"
     ],
     [
       "fire",
@@ -81,6 +81,11 @@
       "risk",
       4,
       "fear"
+    ],
+    [
+      "history",
+      3,
+      "trust"
     ],
     [
       "trump",
@@ -118,6 +123,11 @@
       "fear"
     ],
     [
+      "official",
+      2,
+      "trust"
+    ],
+    [
       "peace",
       2,
       "joy"
@@ -138,17 +148,7 @@
       "anticipation"
     ],
     [
-      "history",
-      2,
-      "trust"
-    ],
-    [
       "military",
-      2,
-      "fear"
-    ],
-    [
-      "government",
       2,
       "fear"
     ],
@@ -233,6 +233,11 @@
       "trust"
     ],
     [
+      "track",
+      1,
+      "anticipation"
+    ],
+    [
       "board",
       1,
       "anticipation"
@@ -271,11 +276,6 @@
       "good",
       1,
       "surprise"
-    ],
-    [
-      "officials",
-      1,
-      "trust"
     ],
     [
       "combat",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 50,
-    "fear": 81,
+    "trust": 52,
+    "fear": 79,
     "surprise": 8,
-    "sadness": 17,
+    "sadness": 16,
     "disgust": 3,
     "anger": 91,
-    "anticipation": 29
+    "anticipation": 30
   }
 }
