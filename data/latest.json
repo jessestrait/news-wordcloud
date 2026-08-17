@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-17T14:52:47.457Z",
+  "generated_at": "2026-08-17T15:07:49.924Z",
   "article_count": 50,
   "top_words": [
-    [
-      "president",
-      8,
-      "trust"
-    ],
     [
       "wildfire",
       8,
       "fear"
+    ],
+    [
+      "president",
+      8,
+      "trust"
     ],
     [
       "people",
@@ -23,11 +23,6 @@
       "anger"
     ],
     [
-      "threat",
-      6,
-      "anger"
-    ],
-    [
       "hit",
       6,
       "anger"
@@ -35,6 +30,16 @@
     [
       "police",
       6,
+      "fear"
+    ],
+    [
+      "threat",
+      5,
+      "anger"
+    ],
+    [
+      "risk",
+      5,
       "fear"
     ],
     [
@@ -58,9 +63,9 @@
       "sadness"
     ],
     [
-      "trump",
+      "flu",
       4,
-      "anger"
+      "fear"
     ],
     [
       "killed",
@@ -78,9 +83,9 @@
       "anger"
     ],
     [
-      "risk",
-      4,
-      "fear"
+      "trump",
+      3,
+      "anger"
     ],
     [
       "bomb",
@@ -103,6 +108,16 @@
       "anticipation"
     ],
     [
+      "black",
+      3,
+      "sadness"
+    ],
+    [
+      "experts",
+      3,
+      "trust"
+    ],
+    [
       "official",
       3,
       "trust"
@@ -123,11 +138,6 @@
       "anticipation"
     ],
     [
-      "flu",
-      3,
-      "fear"
-    ],
-    [
       "warning",
       3,
       "fear"
@@ -136,6 +146,21 @@
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
+    ],
+    [
+      "top",
+      2,
+      "trust"
+    ],
+    [
+      "crashes",
+      2,
+      "fear"
     ],
     [
       "history",
@@ -208,11 +233,6 @@
       "trust"
     ],
     [
-      "black",
-      2,
-      "sadness"
-    ],
-    [
       "court",
       2,
       "anger"
@@ -221,16 +241,6 @@
       "american",
       2,
       "sadness"
-    ],
-    [
-      "experts",
-      2,
-      "trust"
-    ],
-    [
-      "policies",
-      2,
-      "trust"
     ],
     [
       "deal",
@@ -251,6 +261,46 @@
       "peace",
       1,
       "joy"
+    ],
+    [
+      "devastated",
+      1,
+      "anger"
+    ],
+    [
+      "world",
+      1,
+      "trust"
+    ],
+    [
+      "uncertain",
+      1,
+      "anger"
+    ],
+    [
+      "worried",
+      1,
+      "sadness"
+    ],
+    [
+      "fatal",
+      1,
+      "anger"
+    ],
+    [
+      "distracted",
+      1,
+      "anger"
+    ],
+    [
+      "music",
+      1,
+      "joy"
+    ],
+    [
+      "fatalities",
+      1,
+      "fear"
     ],
     [
       "conflict",
@@ -326,66 +376,16 @@
       "fired",
       1,
       "fear"
-    ],
-    [
-      "falling",
-      1,
-      "sadness"
-    ],
-    [
-      "respects",
-      1,
-      "trust"
-    ],
-    [
-      "dictator",
-      1,
-      "fear"
-    ],
-    [
-      "leading",
-      1,
-      "trust"
-    ],
-    [
-      "success",
-      1,
-      "joy"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
-    ],
-    [
-      "promise",
-      1,
-      "joy"
-    ],
-    [
-      "peril",
-      1,
-      "fear"
-    ],
-    [
-      "ice",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 58,
-    "fear": 80,
-    "surprise": 7,
-    "sadness": 19,
-    "disgust": 3,
-    "anger": 93,
+    "joy": 20,
+    "trust": 59,
+    "fear": 82,
+    "surprise": 6,
+    "sadness": 21,
+    "disgust": 2,
+    "anger": 95,
     "anticipation": 25
   }
 }
