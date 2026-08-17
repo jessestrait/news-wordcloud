@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:19:28.808Z",
+  "generated_at": "2026-08-17T09:34:31.155Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,6 +83,11 @@
       "fear"
     ],
     [
+      "history",
+      3,
+      "trust"
+    ],
+    [
       "trump",
       3,
       "anger"
@@ -91,11 +96,6 @@
       "plan",
       3,
       "anticipation"
-    ],
-    [
-      "history",
-      3,
-      "trust"
     ],
     [
       "official",
@@ -123,14 +123,9 @@
       "fear"
     ],
     [
-      "good",
+      "thought",
       2,
-      "surprise"
-    ],
-    [
-      "military",
-      2,
-      "fear"
+      "anticipation"
     ],
     [
       "peace",
@@ -141,11 +136,6 @@
       "middle",
       2,
       "sadness"
-    ],
-    [
-      "thought",
-      2,
-      "anticipation"
     ],
     [
       "injured",
@@ -238,24 +228,9 @@
       "anger"
     ],
     [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
-      "battlefield",
+      "dictator",
       1,
       "fear"
-    ],
-    [
-      "based",
-      1,
-      "trust"
-    ],
-    [
-      "combat",
-      1,
-      "anger"
     ],
     [
       "board",
@@ -376,16 +351,41 @@
       "crashes",
       1,
       "fear"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
+      "veers",
+      1,
+      "fear"
+    ],
+    [
+      "gate",
+      1,
+      "trust"
+    ],
+    [
+      "focus",
+      1,
+      "trust"
+    ],
+    [
+      "class",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 53,
-    "fear": 80,
-    "surprise": 9,
+    "joy": 19,
+    "trust": 52,
+    "fear": 79,
+    "surprise": 8,
     "sadness": 17,
     "disgust": 3,
-    "anger": 88,
+    "anger": 87,
     "anticipation": 30
   }
 }
