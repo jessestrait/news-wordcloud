@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-08-18T04:59:59.804Z",
+  "generated_at": "2026-08-18T05:15:02.264Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      8,
-      "anger"
-    ],
     [
       "president",
       8,
@@ -21,6 +16,11 @@
       "wildfire",
       8,
       "fear"
+    ],
+    [
+      "war",
+      7,
+      "anger"
     ],
     [
       "hit",
@@ -46,11 +46,6 @@
       "police",
       5,
       "fear"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
     ],
     [
       "plan",
@@ -86,6 +81,16 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "die",
+      3,
+      "fear"
+    ],
+    [
+      "iran",
+      3,
+      "anger"
     ],
     [
       "trump",
@@ -130,6 +135,16 @@
     [
       "launch",
       3,
+      "anticipation"
+    ],
+    [
+      "taught",
+      2,
+      "trust"
+    ],
+    [
+      "building",
+      2,
       "anticipation"
     ],
     [
@@ -228,11 +243,6 @@
       "fear"
     ],
     [
-      "die",
-      2,
-      "fear"
-    ],
-    [
       "vows",
       2,
       "joy"
@@ -273,6 +283,21 @@
       "fear"
     ],
     [
+      "leave",
+      1,
+      "sadness"
+    ],
+    [
+      "hollow",
+      1,
+      "sadness"
+    ],
+    [
+      "genuine",
+      1,
+      "trust"
+    ],
+    [
       "show",
       1,
       "trust"
@@ -281,11 +306,6 @@
       "deluged",
       1,
       "fear"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
     ],
     [
       "spat",
@@ -356,36 +376,16 @@
       "world",
       1,
       "trust"
-    ],
-    [
-      "uncertain",
-      1,
-      "anger"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
-      "worried",
-      1,
-      "sadness"
-    ],
-    [
-      "fatal",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 58,
-    "fear": 75,
+    "trust": 61,
+    "fear": 76,
     "surprise": 6,
-    "sadness": 20,
+    "sadness": 19,
     "disgust": 3,
-    "anger": 99,
-    "anticipation": 27
+    "anger": 94,
+    "anticipation": 28
   }
 }
