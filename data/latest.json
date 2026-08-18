@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-18T17:06:23.242Z",
+  "generated_at": "2026-08-18T17:21:25.539Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      7,
+      "anger"
+    ],
     [
       "wildfire",
       7,
@@ -23,16 +28,6 @@
       "anger"
     ],
     [
-      "attack",
-      6,
-      "anger"
-    ],
-    [
-      "police",
-      6,
-      "fear"
-    ],
-    [
       "people",
       6,
       "trust"
@@ -46,6 +41,11 @@
       "strike",
       5,
       "anger"
+    ],
+    [
+      "police",
+      5,
+      "fear"
     ],
     [
       "trump",
@@ -65,6 +65,11 @@
     [
       "threat",
       4,
+      "anger"
+    ],
+    [
+      "fear",
+      3,
       "anger"
     ],
     [
@@ -253,19 +258,29 @@
       "trust"
     ],
     [
-      "fear",
-      2,
-      "anger"
-    ],
-    [
       "missile",
       2,
       "fear"
     ],
     [
-      "force",
-      2,
+      "suffering",
+      1,
+      "fear"
+    ],
+    [
+      "letters",
+      1,
+      "anticipation"
+    ],
+    [
+      "fleeces",
+      1,
       "anger"
+    ],
+    [
+      "creatures",
+      1,
+      "fear"
     ],
     [
       "alleged",
@@ -361,31 +376,16 @@
       "second",
       1,
       "trust"
-    ],
-    [
-      "shooting",
-      1,
-      "anger"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
-      "deep",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
     "trust": 57,
     "fear": 75,
-    "surprise": 9,
-    "sadness": 21,
+    "surprise": 8,
+    "sadness": 20,
     "disgust": 2,
-    "anger": 101,
-    "anticipation": 23
+    "anger": 102,
+    "anticipation": 21
   }
 }
