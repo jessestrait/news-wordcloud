@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:50:54.117Z",
+  "generated_at": "2026-08-18T16:05:56.819Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "anger"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "trump",
       5,
       "anger"
@@ -63,9 +58,19 @@
       "fear"
     ],
     [
+      "death",
+      4,
+      "sadness"
+    ],
+    [
       "threat",
       4,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "crash",
@@ -116,6 +121,11 @@
       "launch",
       3,
       "anticipation"
+    ],
+    [
+      "torture",
+      2,
+      "anger"
     ],
     [
       "blaze",
@@ -193,11 +203,6 @@
       "surprise"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "leader",
       2,
       "trust"
@@ -226,11 +231,6 @@
       "mother",
       2,
       "sadness"
-    ],
-    [
-      "flu",
-      2,
-      "fear"
     ],
     [
       "history",
@@ -263,14 +263,44 @@
       "fear"
     ],
     [
-      "found",
-      2,
-      "joy"
-    ],
-    [
       "force",
       2,
       "anger"
+    ],
+    [
+      "alleged",
+      1,
+      "fear"
+    ],
+    [
+      "detention",
+      1,
+      "sadness"
+    ],
+    [
+      "showing",
+      1,
+      "trust"
+    ],
+    [
+      "white",
+      1,
+      "joy"
+    ],
+    [
+      "helmets",
+      1,
+      "fear"
+    ],
+    [
+      "volunteer",
+      1,
+      "fear"
+    ],
+    [
+      "bruises",
+      1,
+      "anticipation"
     ],
     [
       "pine",
@@ -346,46 +376,16 @@
       "deep",
       1,
       "joy"
-    ],
-    [
-      "laugh",
-      1,
-      "surprise"
-    ],
-    [
-      "enemies",
-      1,
-      "anger"
-    ],
-    [
-      "soldiers",
-      1,
-      "anger"
-    ],
-    [
-      "reject",
-      1,
-      "anger"
-    ],
-    [
-      "moral",
-      1,
-      "anger"
-    ],
-    [
-      "waiting",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 58,
-    "fear": 74,
+    "trust": 57,
+    "fear": 75,
     "surprise": 9,
     "sadness": 21,
     "disgust": 2,
-    "anger": 100,
-    "anticipation": 21
+    "anger": 101,
+    "anticipation": 23
   }
 }
