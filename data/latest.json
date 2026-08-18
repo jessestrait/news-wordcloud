@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-18T07:16:05.556Z",
+  "generated_at": "2026-08-18T07:31:07.465Z",
   "article_count": 50,
   "top_words": [
     [
       "president",
       9,
       "trust"
+    ],
+    [
+      "attack",
+      7,
+      "anger"
     ],
     [
       "war",
@@ -28,17 +33,12 @@
       "anger"
     ],
     [
-      "strike",
-      6,
-      "anger"
-    ],
-    [
-      "attack",
-      6,
-      "anger"
-    ],
-    [
       "threat",
+      6,
+      "anger"
+    ],
+    [
+      "strike",
       5,
       "anger"
     ],
@@ -131,6 +131,11 @@
       "launch",
       3,
       "anticipation"
+    ],
+    [
+      "warns",
+      2,
+      "fear"
     ],
     [
       "case",
@@ -298,6 +303,11 @@
       "fear"
     ],
     [
+      "ministry",
+      1,
+      "joy"
+    ],
+    [
       "justice",
       1,
       "trust"
@@ -366,26 +376,16 @@
       "hollow",
       1,
       "sadness"
-    ],
-    [
-      "genuine",
-      1,
-      "trust"
-    ],
-    [
-      "deluged",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 66,
-    "fear": 75,
+    "fear": 76,
     "surprise": 7,
     "sadness": 19,
-    "disgust": 3,
-    "anger": 98,
-    "anticipation": 26
+    "disgust": 2,
+    "anger": 99,
+    "anticipation": 25
   }
 }
