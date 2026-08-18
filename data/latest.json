@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:04:17.870Z",
+  "generated_at": "2026-08-18T13:19:20.077Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,14 +68,14 @@
       "fear"
     ],
     [
-      "show",
-      3,
-      "trust"
-    ],
-    [
       "crash",
       3,
       "fear"
+    ],
+    [
+      "show",
+      3,
+      "trust"
     ],
     [
       "case",
@@ -283,6 +283,26 @@
       "anger"
     ],
     [
+      "fault",
+      1,
+      "sadness"
+    ],
+    [
+      "suspected",
+      1,
+      "fear"
+    ],
+    [
+      "pilot",
+      1,
+      "trust"
+    ],
+    [
+      "crashed",
+      1,
+      "fear"
+    ],
+    [
       "anger",
       1,
       "anger"
@@ -321,26 +341,6 @@
       "waiting",
       1,
       "anticipation"
-    ],
-    [
-      "fault",
-      1,
-      "sadness"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
-    ],
-    [
-      "pilot",
-      1,
-      "trust"
-    ],
-    [
-      "crashed",
-      1,
-      "fear"
     ],
     [
       "legal",
