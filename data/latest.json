@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:31:24.775Z",
+  "generated_at": "2026-08-18T07:46:27.320Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      7,
+      8,
       "anger"
     ],
     [
@@ -73,9 +73,9 @@
       "fear"
     ],
     [
-      "death",
+      "launch",
       4,
-      "sadness"
+      "anticipation"
     ],
     [
       "die",
@@ -128,14 +128,19 @@
       "anger"
     ],
     [
-      "launch",
+      "death",
       3,
-      "anticipation"
+      "sadness"
     ],
     [
       "warns",
       2,
       "fear"
+    ],
+    [
+      "invasion",
+      2,
+      "anger"
     ],
     [
       "case",
@@ -288,11 +293,6 @@
       "anger"
     ],
     [
-      "investigation",
-      2,
-      "anticipation"
-    ],
-    [
       "court",
       2,
       "anger"
@@ -303,9 +303,34 @@
       "fear"
     ],
     [
+      "surrounding",
+      1,
+      "anticipation"
+    ],
+    [
       "ministry",
       1,
       "joy"
+    ],
+    [
+      "committed",
+      1,
+      "trust"
+    ],
+    [
+      "providing",
+      1,
+      "joy"
+    ],
+    [
+      "defend",
+      1,
+      "fear"
+    ],
+    [
+      "illegal",
+      1,
+      "anger"
     ],
     [
       "justice",
@@ -351,41 +376,16 @@
       "simmer",
       1,
       "anger"
-    ],
-    [
-      "ambassador",
-      1,
-      "trust"
-    ],
-    [
-      "trip",
-      1,
-      "surprise"
-    ],
-    [
-      "disputed",
-      1,
-      "anger"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
-    ],
-    [
-      "hollow",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 66,
+    "joy": 27,
+    "trust": 67,
     "fear": 76,
     "surprise": 7,
-    "sadness": 19,
+    "sadness": 18,
     "disgust": 2,
-    "anger": 99,
-    "anticipation": 25
+    "anger": 102,
+    "anticipation": 26
   }
 }
