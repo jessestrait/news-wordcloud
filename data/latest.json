@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-18T11:33:24.648Z",
+  "generated_at": "2026-08-18T11:48:27.169Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      9,
-      "anger"
-    ],
-    [
-      "president",
       8,
-      "trust"
+      "anger"
     ],
     [
       "war",
       7,
       "anger"
+    ],
+    [
+      "president",
+      7,
+      "trust"
     ],
     [
       "hit",
@@ -33,11 +33,6 @@
       "fear"
     ],
     [
-      "threat",
-      6,
-      "anger"
-    ],
-    [
       "people",
       6,
       "trust"
@@ -48,19 +43,24 @@
       "fear"
     ],
     [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
       "trump",
       5,
       "anger"
     ],
     [
       "strike",
-      5,
+      4,
       "anger"
     ],
     [
-      "death",
+      "threat",
       4,
-      "sadness"
+      "anger"
     ],
     [
       "kill",
@@ -68,12 +68,17 @@
       "fear"
     ],
     [
-      "case",
+      "show",
+      3,
+      "trust"
+    ],
+    [
+      "crash",
       3,
       "fear"
     ],
     [
-      "crash",
+      "case",
       3,
       "fear"
     ],
@@ -103,11 +108,6 @@
       "anger"
     ],
     [
-      "black",
-      3,
-      "sadness"
-    ],
-    [
       "fire",
       3,
       "fear"
@@ -131,11 +131,6 @@
       "law",
       2,
       "trust"
-    ],
-    [
-      "warns",
-      2,
-      "fear"
     ],
     [
       "invasion",
@@ -181,11 +176,6 @@
       "building",
       2,
       "anticipation"
-    ],
-    [
-      "show",
-      2,
-      "trust"
     ],
     [
       "success",
@@ -293,22 +283,32 @@
       "anger"
     ],
     [
-      "condemned",
+      "laugh",
+      1,
+      "surprise"
+    ],
+    [
+      "enemies",
       1,
       "anger"
     ],
     [
-      "legal",
+      "soldiers",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "prosecution",
+      "reject",
       1,
-      "disgust"
+      "anger"
     ],
     [
-      "invoked",
+      "moral",
+      1,
+      "anger"
+    ],
+    [
+      "waiting",
       1,
       "anticipation"
     ],
@@ -333,6 +333,31 @@
       "fear"
     ],
     [
+      "condemned",
+      1,
+      "anger"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
+    ],
+    [
+      "prosecution",
+      1,
+      "disgust"
+    ],
+    [
+      "invoked",
+      1,
+      "anticipation"
+    ],
+    [
+      "warns",
+      1,
+      "fear"
+    ],
+    [
       "ministry",
       1,
       "joy"
@@ -351,41 +376,16 @@
       "defend",
       1,
       "fear"
-    ],
-    [
-      "illegal",
-      1,
-      "anger"
-    ],
-    [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "independence",
-      1,
-      "surprise"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
-    ],
-    [
-      "failing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 24,
     "trust": 61,
-    "fear": 77,
-    "surprise": 8,
-    "sadness": 20,
+    "fear": 75,
+    "surprise": 9,
+    "sadness": 19,
     "disgust": 3,
     "anger": 103,
-    "anticipation": 23
+    "anticipation": 24
   }
 }
