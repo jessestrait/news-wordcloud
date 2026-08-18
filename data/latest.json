@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T23:09:34.381Z",
+  "generated_at": "2026-08-18T23:24:36.956Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
       "hit",
       7,
       "anger"
+    ],
+    [
+      "president",
+      6,
+      "trust"
     ],
     [
       "people",
@@ -36,11 +36,6 @@
       "killed",
       5,
       "fear"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
     ],
     [
       "police",
@@ -64,6 +59,11 @@
     ],
     [
       "threat",
+      4,
+      "anger"
+    ],
+    [
+      "strike",
       4,
       "anger"
     ],
@@ -123,9 +123,9 @@
       "anger"
     ],
     [
-      "launch",
-      3,
-      "anticipation"
+      "invasion",
+      2,
+      "anger"
     ],
     [
       "torture",
@@ -258,9 +258,24 @@
       "trust"
     ],
     [
+      "launches",
+      2,
+      "anticipation"
+    ],
+    [
       "missile",
       2,
       "fear"
+    ],
+    [
+      "appeal",
+      1,
+      "anticipation"
+    ],
+    [
+      "challenge",
+      1,
+      "anger"
     ],
     [
       "suffering",
@@ -361,31 +376,16 @@
       "crashed",
       1,
       "fear"
-    ],
-    [
-      "shooter",
-      1,
-      "anger"
-    ],
-    [
-      "fellow",
-      1,
-      "trust"
-    ],
-    [
-      "second",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 57,
+    "trust": 56,
     "fear": 75,
     "surprise": 8,
     "sadness": 20,
     "disgust": 2,
-    "anger": 102,
+    "anger": 103,
     "anticipation": 21
   }
 }
