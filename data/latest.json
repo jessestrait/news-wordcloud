@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:34:37.590Z",
+  "generated_at": "2026-08-18T13:49:40.604Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,6 +273,11 @@
       "anger"
     ],
     [
+      "condemned",
+      1,
+      "anger"
+    ],
+    [
       "shooter",
       1,
       "anger"
@@ -289,11 +294,6 @@
     ],
     [
       "shooting",
-      1,
-      "anger"
-    ],
-    [
-      "condemned",
       1,
       "anger"
     ],
