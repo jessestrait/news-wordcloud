@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T12:33:53.331Z",
+  "generated_at": "2026-08-18T12:48:56.102Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,6 +278,11 @@
       "anger"
     ],
     [
+      "condemned",
+      1,
+      "anger"
+    ],
+    [
       "anger",
       1,
       "anger"
@@ -286,11 +291,6 @@
       "deep",
       1,
       "joy"
-    ],
-    [
-      "condemned",
-      1,
-      "anger"
     ],
     [
       "laugh",
