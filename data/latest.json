@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:00:40.898Z",
+  "generated_at": "2026-08-18T06:15:42.954Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,19 +8,19 @@
       "trust"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
       "wildfire",
-      8,
-      "fear"
-    ],
-    [
-      "war",
       7,
-      "anger"
+      "fear"
     ],
     [
       "hit",
@@ -45,6 +45,11 @@
     [
       "police",
       5,
+      "fear"
+    ],
+    [
+      "risk",
+      4,
       "fear"
     ],
     [
@@ -93,11 +98,6 @@
       "anger"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "law",
       3,
       "trust"
@@ -111,11 +111,6 @@
       "calls",
       3,
       "trust"
-    ],
-    [
-      "risk",
-      3,
-      "fear"
     ],
     [
       "black",
@@ -138,6 +133,16 @@
       "anticipation"
     ],
     [
+      "case",
+      2,
+      "fear"
+    ],
+    [
+      "system",
+      2,
+      "trust"
+    ],
+    [
       "diplomatic",
       2,
       "trust"
@@ -156,6 +161,11 @@
       "building",
       2,
       "anticipation"
+    ],
+    [
+      "show",
+      2,
+      "trust"
     ],
     [
       "success",
@@ -191,6 +201,11 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "leader",
@@ -248,11 +263,6 @@
       "trust"
     ],
     [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
       "vows",
       2,
       "joy"
@@ -266,11 +276,6 @@
       "found",
       2,
       "joy"
-    ],
-    [
-      "evacuated",
-      2,
-      "fear"
     ],
     [
       "force",
@@ -290,6 +295,36 @@
     [
       "warning",
       2,
+      "fear"
+    ],
+    [
+      "justice",
+      1,
+      "trust"
+    ],
+    [
+      "failing",
+      1,
+      "anger"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "murder",
+      1,
+      "anger"
+    ],
+    [
+      "sex",
+      1,
+      "joy"
+    ],
+    [
+      "change",
+      1,
       "fear"
     ],
     [
@@ -338,54 +373,19 @@
       "trust"
     ],
     [
-      "show",
-      1,
-      "trust"
-    ],
-    [
       "deluged",
       1,
       "fear"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
-      "nuns",
-      1,
-      "trust"
-    ],
-    [
-      "beach",
-      1,
-      "joy"
-    ],
-    [
-      "argue",
-      1,
-      "anger"
-    ],
-    [
-      "retain",
-      1,
-      "trust"
-    ],
-    [
-      "charitable",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 64,
+    "joy": 25,
+    "trust": 66,
     "fear": 75,
     "surprise": 7,
     "sadness": 19,
     "disgust": 3,
-    "anger": 96,
-    "anticipation": 27
+    "anger": 98,
+    "anticipation": 26
   }
 }
