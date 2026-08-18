@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:47:57.366Z",
+  "generated_at": "2026-08-18T11:02:59.873Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,16 +18,6 @@
       "anger"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
-      "wildfire",
-      7,
-      "fear"
-    ],
-    [
       "hit",
       7,
       "anger"
@@ -38,8 +28,28 @@
       "fear"
     ],
     [
+      "police",
+      6,
+      "fear"
+    ],
+    [
       "threat",
       6,
+      "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
+    ],
+    [
+      "wildfire",
+      6,
+      "fear"
+    ],
+    [
+      "trump",
+      5,
       "anger"
     ],
     [
@@ -48,19 +58,9 @@
       "anger"
     ],
     [
-      "police",
-      5,
-      "fear"
-    ],
-    [
-      "risk",
+      "death",
       4,
-      "fear"
-    ],
-    [
-      "plan",
-      4,
-      "anticipation"
+      "sadness"
     ],
     [
       "kill",
@@ -68,12 +68,17 @@
       "fear"
     ],
     [
-      "fire",
-      4,
+      "case",
+      3,
       "fear"
     ],
     [
       "crash",
+      3,
+      "fear"
+    ],
+    [
+      "risk",
       3,
       "fear"
     ],
@@ -88,19 +93,9 @@
       "anger"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "bomb",
       3,
       "anger"
-    ],
-    [
-      "law",
-      3,
-      "trust"
     ],
     [
       "fight",
@@ -108,14 +103,14 @@
       "anger"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "black",
       3,
       "sadness"
+    ],
+    [
+      "fire",
+      3,
+      "fear"
     ],
     [
       "threaten",
@@ -128,14 +123,14 @@
       "anger"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "launch",
       3,
       "anticipation"
+    ],
+    [
+      "law",
+      2,
+      "trust"
     ],
     [
       "warns",
@@ -146,11 +141,6 @@
       "invasion",
       2,
       "anger"
-    ],
-    [
-      "case",
-      2,
-      "fear"
     ],
     [
       "system",
@@ -164,6 +154,21 @@
     ],
     [
       "spat",
+      2,
+      "anger"
+    ],
+    [
+      "school",
+      2,
+      "trust"
+    ],
+    [
+      "shooting",
+      2,
+      "anger"
+    ],
+    [
+      "fatal",
       2,
       "anger"
     ],
@@ -233,6 +238,11 @@
       "anger"
     ],
     [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
       "bad",
       2,
       "anger"
@@ -246,11 +256,6 @@
       "flu",
       2,
       "fear"
-    ],
-    [
-      "top",
-      2,
-      "trust"
     ],
     [
       "history",
@@ -288,17 +293,27 @@
       "anger"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "launched",
       1,
       "anticipation"
     ],
     [
       "surrounding",
+      1,
+      "anticipation"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
+    ],
+    [
+      "prosecution",
+      1,
+      "disgust"
+    ],
+    [
+      "invoked",
       1,
       "anticipation"
     ],
@@ -348,44 +363,29 @@
       "anger"
     ],
     [
+      "military",
+      1,
+      "fear"
+    ],
+    [
+      "independence",
+      1,
+      "surprise"
+    ],
+    [
       "justice",
       1,
       "trust"
-    ],
-    [
-      "failing",
-      1,
-      "anger"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "murder",
-      1,
-      "anger"
-    ],
-    [
-      "sex",
-      1,
-      "joy"
-    ],
-    [
-      "change",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 65,
-    "fear": 81,
-    "surprise": 7,
-    "sadness": 19,
-    "disgust": 1,
+    "trust": 61,
+    "fear": 77,
+    "surprise": 8,
+    "sadness": 20,
+    "disgust": 3,
     "anger": 101,
-    "anticipation": 26
+    "anticipation": 25
   }
 }
