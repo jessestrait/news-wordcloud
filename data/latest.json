@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-18T12:03:48.099Z",
+  "generated_at": "2026-08-18T12:18:50.530Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      8,
+      7,
       "anger"
     ],
     [
@@ -43,6 +43,11 @@
       "fear"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
       "death",
       5,
       "sadness"
@@ -50,11 +55,6 @@
     [
       "trump",
       5,
-      "anger"
-    ],
-    [
-      "strike",
-      4,
       "anger"
     ],
     [
@@ -131,11 +131,6 @@
       "law",
       2,
       "trust"
-    ],
-    [
-      "invasion",
-      2,
-      "anger"
     ],
     [
       "system",
@@ -283,6 +278,16 @@
       "anger"
     ],
     [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "deep",
+      1,
+      "joy"
+    ],
+    [
       "condemned",
       1,
       "anger"
@@ -353,39 +358,34 @@
       "anticipation"
     ],
     [
-      "warns",
+      "military",
       1,
       "fear"
     ],
     [
-      "ministry",
+      "independence",
       1,
-      "joy"
+      "surprise"
     ],
     [
-      "committed",
+      "justice",
       1,
       "trust"
     ],
     [
-      "providing",
+      "failing",
       1,
-      "joy"
-    ],
-    [
-      "defend",
-      1,
-      "fear"
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 61,
-    "fear": 75,
+    "joy": 23,
+    "trust": 60,
+    "fear": 73,
     "surprise": 9,
     "sadness": 19,
     "disgust": 3,
-    "anger": 103,
+    "anger": 102,
     "anticipation": 24
   }
 }
