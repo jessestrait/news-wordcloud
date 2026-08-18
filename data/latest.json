@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-18T11:02:59.873Z",
+  "generated_at": "2026-08-18T11:18:02.057Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      8,
+      9,
       "anger"
     ],
     [
@@ -293,14 +293,9 @@
       "anger"
     ],
     [
-      "launched",
+      "condemned",
       1,
-      "anticipation"
-    ],
-    [
-      "surrounding",
-      1,
-      "anticipation"
+      "anger"
     ],
     [
       "legal",
@@ -376,6 +371,11 @@
       "justice",
       1,
       "trust"
+    ],
+    [
+      "failing",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 8,
     "sadness": 20,
     "disgust": 3,
-    "anger": 101,
-    "anticipation": 25
+    "anger": 103,
+    "anticipation": 23
   }
 }
