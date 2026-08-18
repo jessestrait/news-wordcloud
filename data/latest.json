@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-18T10:32:55.027Z",
+  "generated_at": "2026-08-18T10:47:57.366Z",
   "article_count": 50,
   "top_words": [
-    [
-      "president",
-      9,
-      "trust"
-    ],
     [
       "attack",
       8,
       "anger"
+    ],
+    [
+      "president",
+      8,
+      "trust"
     ],
     [
       "war",
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
+      "killed",
+      6,
+      "fear"
+    ],
+    [
       "threat",
       6,
       "anger"
-    ],
-    [
-      "killed",
-      5,
-      "fear"
     ],
     [
       "strike",
@@ -70,6 +70,11 @@
     [
       "fire",
       4,
+      "fear"
+    ],
+    [
+      "crash",
+      3,
       "fear"
     ],
     [
@@ -248,11 +253,6 @@
       "trust"
     ],
     [
-      "crashes",
-      2,
-      "fear"
-    ],
-    [
       "history",
       2,
       "trust"
@@ -273,11 +273,6 @@
       "trust"
     ],
     [
-      "vows",
-      2,
-      "joy"
-    ],
-    [
       "missile",
       2,
       "fear"
@@ -289,11 +284,6 @@
     ],
     [
       "force",
-      2,
-      "anger"
-    ],
-    [
-      "court",
       2,
       "anger"
     ],
@@ -311,6 +301,26 @@
       "surrounding",
       1,
       "anticipation"
+    ],
+    [
+      "fault",
+      1,
+      "sadness"
+    ],
+    [
+      "suspected",
+      1,
+      "fear"
+    ],
+    [
+      "pilot",
+      1,
+      "trust"
+    ],
+    [
+      "crashed",
+      1,
+      "fear"
     ],
     [
       "ministry",
@@ -366,26 +376,16 @@
       "change",
       1,
       "fear"
-    ],
-    [
-      "dispute",
-      1,
-      "anger"
-    ],
-    [
-      "continues",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 67,
-    "fear": 77,
+    "joy": 25,
+    "trust": 65,
+    "fear": 81,
     "surprise": 7,
-    "sadness": 18,
-    "disgust": 2,
-    "anger": 102,
+    "sadness": 19,
+    "disgust": 1,
+    "anger": 101,
     "anticipation": 26
   }
 }
