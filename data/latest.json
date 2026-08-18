@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:14:10.714Z",
+  "generated_at": "2026-08-18T03:29:12.999Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,12 +23,12 @@
       "fear"
     ],
     [
-      "strike",
-      6,
+      "hit",
+      7,
       "anger"
     ],
     [
-      "hit",
+      "strike",
       6,
       "anger"
     ],
@@ -43,19 +43,9 @@
       "anger"
     ],
     [
-      "risk",
-      5,
-      "fear"
-    ],
-    [
       "police",
       5,
       "fear"
-    ],
-    [
-      "death",
-      5,
-      "sadness"
     ],
     [
       "iran",
@@ -73,7 +63,7 @@
       "trust"
     ],
     [
-      "flu",
+      "risk",
       4,
       "fear"
     ],
@@ -93,9 +83,9 @@
       "fear"
     ],
     [
-      "fear",
+      "death",
       4,
-      "anger"
+      "sadness"
     ],
     [
       "trump",
@@ -133,6 +123,11 @@
       "anger"
     ],
     [
+      "fear",
+      3,
+      "anger"
+    ],
+    [
       "launch",
       3,
       "anticipation"
@@ -146,6 +141,26 @@
       "rocket",
       2,
       "anger"
+    ],
+    [
+      "rain",
+      2,
+      "joy"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
+    ],
+    [
+      "landslide",
+      2,
+      "fear"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "deal",
@@ -173,14 +188,9 @@
       "sadness"
     ],
     [
-      "deadly",
+      "flu",
       2,
-      "anger"
-    ],
-    [
-      "experts",
-      2,
-      "trust"
+      "fear"
     ],
     [
       "top",
@@ -214,6 +224,11 @@
     ],
     [
       "injured",
+      2,
+      "fear"
+    ],
+    [
+      "die",
       2,
       "fear"
     ],
@@ -261,6 +276,16 @@
       "show",
       1,
       "trust"
+    ],
+    [
+      "deluged",
+      1,
+      "fear"
+    ],
+    [
+      "building",
+      1,
+      "anticipation"
     ],
     [
       "spat",
@@ -338,6 +363,11 @@
       "anger"
     ],
     [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
       "worried",
       1,
       "sadness"
@@ -346,46 +376,16 @@
       "fatal",
       1,
       "anger"
-    ],
-    [
-      "distracted",
-      1,
-      "anger"
-    ],
-    [
-      "music",
-      1,
-      "joy"
-    ],
-    [
-      "fatalities",
-      1,
-      "fear"
-    ],
-    [
-      "track",
-      1,
-      "anticipation"
-    ],
-    [
-      "deportation",
-      1,
-      "anger"
-    ],
-    [
-      "risked",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 60,
-    "fear": 74,
+    "joy": 24,
+    "trust": 58,
+    "fear": 75,
     "surprise": 6,
-    "sadness": 22,
+    "sadness": 20,
     "disgust": 3,
     "anger": 99,
-    "anticipation": 26
+    "anticipation": 27
   }
 }
