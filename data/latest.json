@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:01:29.850Z",
+  "generated_at": "2026-08-18T08:16:32.453Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "anger"
     ],
     [
+      "killed",
+      5,
+      "fear"
+    ],
+    [
       "strike",
       5,
       "anger"
@@ -58,11 +63,6 @@
       "anticipation"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "kill",
       4,
       "fear"
@@ -71,11 +71,6 @@
       "fire",
       4,
       "fear"
-    ],
-    [
-      "launch",
-      4,
-      "anticipation"
     ],
     [
       "die",
@@ -131,6 +126,11 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "launch",
+      3,
+      "anticipation"
     ],
     [
       "warns",
@@ -303,6 +303,11 @@
       "fear"
     ],
     [
+      "launched",
+      1,
+      "anticipation"
+    ],
+    [
       "surrounding",
       1,
       "anticipation"
@@ -371,17 +376,12 @@
       "continues",
       1,
       "trust"
-    ],
-    [
-      "simmer",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
     "trust": 67,
-    "fear": 76,
+    "fear": 77,
     "surprise": 7,
     "sadness": 18,
     "disgust": 2,
