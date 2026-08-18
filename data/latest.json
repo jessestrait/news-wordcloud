@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T14:20:02.335Z",
+  "generated_at": "2026-08-18T14:35:05.490Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
-      8,
-      "anger"
+      "wildfire",
+      7,
+      "fear"
     ],
     [
       "war",
@@ -23,9 +23,9 @@
       "anger"
     ],
     [
-      "killed",
+      "attack",
       6,
-      "fear"
+      "anger"
     ],
     [
       "police",
@@ -38,8 +38,8 @@
       "trust"
     ],
     [
-      "wildfire",
-      6,
+      "killed",
+      5,
       "fear"
     ],
     [
@@ -121,6 +121,11 @@
       "launch",
       3,
       "anticipation"
+    ],
+    [
+      "blaze",
+      2,
+      "anger"
     ],
     [
       "school",
@@ -273,27 +278,12 @@
       "anger"
     ],
     [
-      "condemned",
+      "pine",
       1,
-      "anger"
+      "sadness"
     ],
     [
-      "shooter",
-      1,
-      "anger"
-    ],
-    [
-      "fellow",
-      1,
-      "trust"
-    ],
-    [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "shooting",
+      "trees",
       1,
       "anger"
     ],
@@ -316,6 +306,26 @@
       "crashed",
       1,
       "fear"
+    ],
+    [
+      "shooter",
+      1,
+      "anger"
+    ],
+    [
+      "fellow",
+      1,
+      "trust"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "shooting",
+      1,
+      "anger"
     ],
     [
       "anger",
@@ -366,16 +376,6 @@
       "prosecution",
       1,
       "disgust"
-    ],
-    [
-      "invoked",
-      1,
-      "anticipation"
-    ],
-    [
-      "military",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 59,
     "fear": 74,
     "surprise": 9,
-    "sadness": 19,
+    "sadness": 20,
     "disgust": 2,
-    "anger": 102,
+    "anger": 101,
     "anticipation": 22
   }
 }
