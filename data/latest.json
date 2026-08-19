@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:45:37.548Z",
+  "generated_at": "2026-08-19T11:00:39.300Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,23 +24,18 @@
     ],
     [
       "people",
-      6,
+      5,
       "trust"
     ],
     [
       "hit",
-      6,
+      5,
       "anger"
     ],
     [
       "wildfire",
       5,
       "fear"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "threat",
@@ -53,17 +48,17 @@
       "fear"
     ],
     [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
       "happened",
       3,
       "anticipation"
     ],
     [
       "crash",
-      3,
-      "fear"
-    ],
-    [
-      "killed",
       3,
       "fear"
     ],
@@ -156,6 +151,11 @@
       "torture",
       2,
       "anger"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
     ],
     [
       "school",
@@ -283,6 +283,21 @@
       "fear"
     ],
     [
+      "shaped",
+      1,
+      "trust"
+    ],
+    [
+      "suggest",
+      1,
+      "trust"
+    ],
+    [
+      "electorate",
+      1,
+      "trust"
+    ],
+    [
       "deputy",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "freedom",
       1,
       "joy"
-    ],
-    [
-      "bomber",
-      1,
-      "fear"
-    ],
-    [
-      "convicted",
-      1,
-      "anger"
-    ],
-    [
-      "court",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 61,
-    "fear": 67,
+    "trust": 63,
+    "fear": 65,
     "surprise": 8,
-    "sadness": 20,
+    "sadness": 19,
     "disgust": 4,
-    "anger": 106,
+    "anger": 105,
     "anticipation": 22
   }
 }
