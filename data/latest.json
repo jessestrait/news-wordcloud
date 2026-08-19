@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:47:53.223Z",
+  "generated_at": "2026-08-19T15:02:55.960Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,6 +26,11 @@
       "wildfire",
       5,
       "fear"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "kill",
@@ -56,11 +61,6 @@
       "death",
       3,
       "sadness"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "show",
@@ -288,16 +288,6 @@
       "anticipation"
     ],
     [
-      "government",
-      1,
-      "fear"
-    ],
-    [
-      "shatter",
-      1,
-      "anger"
-    ],
-    [
       "deputy",
       1,
       "trust"
@@ -324,6 +314,16 @@
     ],
     [
       "money",
+      1,
+      "anger"
+    ],
+    [
+      "government",
+      1,
+      "fear"
+    ],
+    [
+      "shatter",
       1,
       "anger"
     ],
@@ -386,6 +386,6 @@
     "sadness": 19,
     "disgust": 5,
     "anger": 101,
-    "anticipation": 21
+    "anticipation": 22
   }
 }
