@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:04:14.158Z",
+  "generated_at": "2026-08-19T17:19:17.103Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "president",
-      7,
+      6,
       "trust"
     ],
     [
@@ -46,6 +46,11 @@
       "threat",
       4,
       "anger"
+    ],
+    [
+      "corruption",
+      3,
+      "disgust"
     ],
     [
       "kill",
@@ -103,9 +108,9 @@
       "trust"
     ],
     [
-      "corruption",
+      "deputy",
       2,
-      "disgust"
+      "trust"
     ],
     [
       "shooting",
@@ -178,11 +183,6 @@
       "anger"
     ],
     [
-      "system",
-      2,
-      "trust"
-    ],
-    [
       "change",
       2,
       "fear"
@@ -223,11 +223,6 @@
       "fear"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "threatens",
       2,
       "anger"
@@ -246,11 +241,6 @@
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "fight",
-      2,
-      "anger"
     ],
     [
       "bad",
@@ -291,11 +281,6 @@
       "growing",
       1,
       "joy"
-    ],
-    [
-      "deputy",
-      1,
-      "trust"
     ],
     [
       "investigation",
@@ -376,16 +361,31 @@
       "unbearable",
       1,
       "disgust"
+    ],
+    [
+      "pain",
+      1,
+      "fear"
+    ],
+    [
+      "shaped",
+      1,
+      "trust"
+    ],
+    [
+      "suggest",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 64,
-    "fear": 61,
+    "joy": 19,
+    "trust": 63,
+    "fear": 60,
     "surprise": 7,
     "sadness": 19,
-    "disgust": 6,
-    "anger": 99,
-    "anticipation": 21
+    "disgust": 7,
+    "anger": 98,
+    "anticipation": 19
   }
 }
