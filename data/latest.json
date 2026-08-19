@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:19:17.103Z",
+  "generated_at": "2026-08-19T17:34:19.997Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,9 +18,9 @@
       "anger"
     ],
     [
-      "wildfire",
-      5,
-      "fear"
+      "death",
+      4,
+      "sadness"
     ],
     [
       "happened",
@@ -43,8 +43,23 @@
       "anger"
     ],
     [
+      "wildfire",
+      4,
+      "fear"
+    ],
+    [
       "threat",
       4,
+      "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
+      "gaza",
+      3,
       "anger"
     ],
     [
@@ -53,19 +68,9 @@
       "disgust"
     ],
     [
-      "kill",
-      3,
-      "fear"
-    ],
-    [
       "law",
       3,
       "trust"
-    ],
-    [
-      "death",
-      3,
-      "sadness"
     ],
     [
       "show",
@@ -88,11 +93,6 @@
       "fear"
     ],
     [
-      "die",
-      3,
-      "fear"
-    ],
-    [
       "iran",
       3,
       "anger"
@@ -108,9 +108,39 @@
       "trust"
     ],
     [
+      "soldiers",
+      2,
+      "anger"
+    ],
+    [
+      "fired",
+      2,
+      "fear"
+    ],
+    [
+      "military",
+      2,
+      "fear"
+    ],
+    [
+      "investigation",
+      2,
+      "anticipation"
+    ],
+    [
+      "family",
+      2,
+      "joy"
+    ],
+    [
       "deputy",
       2,
       "trust"
+    ],
+    [
+      "kill",
+      2,
+      "fear"
     ],
     [
       "shooting",
@@ -163,11 +193,6 @@
       "fear"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "school",
       2,
       "trust"
@@ -191,6 +216,11 @@
       "spat",
       2,
       "anger"
+    ],
+    [
+      "die",
+      2,
+      "fear"
     ],
     [
       "taught",
@@ -233,11 +263,6 @@
       "surprise"
     ],
     [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
       "plan",
       2,
       "anticipation"
@@ -268,6 +293,11 @@
       "trust"
     ],
     [
+      "criminal",
+      1,
+      "anger"
+    ],
+    [
       "opponent",
       1,
       "anger"
@@ -281,11 +311,6 @@
       "growing",
       1,
       "joy"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
     ],
     [
       "anti",
@@ -351,41 +376,16 @@
       "patients",
       1,
       "anticipation"
-    ],
-    [
-      "incurable",
-      1,
-      "anger"
-    ],
-    [
-      "unbearable",
-      1,
-      "disgust"
-    ],
-    [
-      "pain",
-      1,
-      "fear"
-    ],
-    [
-      "shaped",
-      1,
-      "trust"
-    ],
-    [
-      "suggest",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
+    "joy": 20,
     "trust": 63,
-    "fear": 60,
+    "fear": 59,
     "surprise": 7,
-    "sadness": 19,
+    "sadness": 20,
     "disgust": 7,
-    "anger": 98,
-    "anticipation": 19
+    "anger": 99,
+    "anticipation": 20
   }
 }
