@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-19T03:11:44.710Z",
+  "generated_at": "2026-08-19T03:26:47.075Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      8,
+      "anger"
+    ],
     [
       "attack",
       7,
@@ -11,16 +16,6 @@
       "wildfire",
       7,
       "fear"
-    ],
-    [
-      "war",
-      7,
-      "anger"
-    ],
-    [
-      "hit",
-      7,
-      "anger"
     ],
     [
       "trump",
@@ -38,17 +33,17 @@
       "trust"
     ],
     [
+      "hit",
+      6,
+      "anger"
+    ],
+    [
       "killed",
       5,
       "fear"
     ],
     [
       "police",
-      5,
-      "fear"
-    ],
-    [
-      "kill",
       5,
       "fear"
     ],
@@ -63,9 +58,9 @@
       "anger"
     ],
     [
-      "strike",
+      "kill",
       4,
-      "anger"
+      "fear"
     ],
     [
       "fear",
@@ -81,6 +76,11 @@
       "crash",
       3,
       "fear"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
     ],
     [
       "show",
@@ -273,6 +273,26 @@
       "joy"
     ],
     [
+      "bomber",
+      1,
+      "fear"
+    ],
+    [
+      "convicted",
+      1,
+      "anger"
+    ],
+    [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "exposed",
+      1,
+      "fear"
+    ],
+    [
       "appeal",
       1,
       "anticipation"
@@ -356,36 +376,16 @@
       "charity",
       1,
       "joy"
-    ],
-    [
-      "holocaust",
-      1,
-      "anger"
-    ],
-    [
-      "fault",
-      1,
-      "sadness"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
-    ],
-    [
-      "pilot",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 20,
     "trust": 56,
-    "fear": 75,
-    "surprise": 8,
+    "fear": 76,
+    "surprise": 7,
     "sadness": 20,
     "disgust": 2,
-    "anger": 104,
+    "anger": 105,
     "anticipation": 21
   }
 }
