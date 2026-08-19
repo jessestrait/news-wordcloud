@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-08-19T03:57:06.251Z",
+  "generated_at": "2026-08-19T04:12:08.125Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       8,
+      "anger"
+    ],
+    [
+      "hit",
+      7,
       "anger"
     ],
     [
@@ -33,16 +38,6 @@
       "trust"
     ],
     [
-      "hit",
-      6,
-      "anger"
-    ],
-    [
-      "killed",
-      5,
-      "fear"
-    ],
-    [
       "police",
       5,
       "fear"
@@ -51,6 +46,11 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "killed",
+      4,
+      "fear"
     ],
     [
       "threat",
@@ -268,6 +268,21 @@
       "fear"
     ],
     [
+      "pastry",
+      1,
+      "joy"
+    ],
+    [
+      "quest",
+      1,
+      "anticipation"
+    ],
+    [
+      "mountains",
+      1,
+      "anticipation"
+    ],
+    [
       "freedom",
       1,
       "joy"
@@ -361,31 +376,16 @@
       "pine",
       1,
       "sadness"
-    ],
-    [
-      "trees",
-      1,
-      "anger"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
-    ],
-    [
-      "charity",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 21,
     "trust": 56,
-    "fear": 76,
+    "fear": 75,
     "surprise": 7,
     "sadness": 20,
     "disgust": 2,
-    "anger": 105,
-    "anticipation": 21
+    "anger": 106,
+    "anticipation": 23
   }
 }
