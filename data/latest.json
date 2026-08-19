@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-08-19T05:42:48.270Z",
+  "generated_at": "2026-08-19T05:57:50.332Z",
   "article_count": 50,
   "top_words": [
+    [
+      "trump",
+      8,
+      "anger"
+    ],
+    [
+      "president",
+      8,
+      "trust"
+    ],
     [
       "war",
       8,
       "anger"
     ],
     [
-      "hit",
+      "people",
       7,
-      "anger"
+      "trust"
     ],
     [
       "attack",
@@ -18,24 +28,14 @@
       "anger"
     ],
     [
-      "wildfire",
-      7,
-      "fear"
-    ],
-    [
-      "trump",
+      "hit",
       6,
       "anger"
     ],
     [
-      "president",
+      "wildfire",
       6,
-      "trust"
-    ],
-    [
-      "people",
-      6,
-      "trust"
+      "fear"
     ],
     [
       "police",
@@ -48,23 +48,8 @@
       "sadness"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "threat",
       4,
-      "anger"
-    ],
-    [
-      "kill",
-      4,
-      "fear"
-    ],
-    [
-      "fear",
-      3,
       "anger"
     ],
     [
@@ -74,6 +59,11 @@
     ],
     [
       "crash",
+      3,
+      "fear"
+    ],
+    [
+      "killed",
       3,
       "fear"
     ],
@@ -113,6 +103,11 @@
       "anger"
     ],
     [
+      "kill",
+      3,
+      "fear"
+    ],
+    [
       "fire",
       3,
       "fear"
@@ -123,17 +118,32 @@
       "anger"
     ],
     [
+      "think",
+      2,
+      "trust"
+    ],
+    [
+      "crime",
+      2,
+      "anger"
+    ],
+    [
+      "alarm",
+      2,
+      "fear"
+    ],
+    [
       "invasion",
       2,
       "anger"
     ],
     [
-      "torture",
+      "fear",
       2,
       "anger"
     ],
     [
-      "blaze",
+      "torture",
       2,
       "anger"
     ],
@@ -268,6 +278,21 @@
       "fear"
     ],
     [
+      "measure",
+      1,
+      "trust"
+    ],
+    [
+      "cutting",
+      1,
+      "anger"
+    ],
+    [
+      "uneasy",
+      1,
+      "fear"
+    ],
+    [
       "pastry",
       1,
       "joy"
@@ -351,41 +376,16 @@
       "showing",
       1,
       "trust"
-    ],
-    [
-      "white",
-      1,
-      "joy"
-    ],
-    [
-      "helmets",
-      1,
-      "fear"
-    ],
-    [
-      "volunteer",
-      1,
-      "fear"
-    ],
-    [
-      "bruises",
-      1,
-      "anticipation"
-    ],
-    [
-      "pine",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 56,
-    "fear": 75,
+    "trust": 61,
+    "fear": 71,
     "surprise": 7,
     "sadness": 20,
     "disgust": 2,
-    "anger": 106,
-    "anticipation": 23
+    "anger": 104,
+    "anticipation": 22
   }
 }
