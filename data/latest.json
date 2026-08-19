@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:30:21.043Z",
+  "generated_at": "2026-08-19T10:45:22.944Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,11 +51,6 @@
       "police",
       4,
       "fear"
-    ],
-    [
-      "vote",
-      3,
-      "anger"
     ],
     [
       "happened",
@@ -121,6 +116,11 @@
       "threaten",
       3,
       "anger"
+    ],
+    [
+      "corruption",
+      2,
+      "disgust"
     ],
     [
       "warning",
@@ -283,9 +283,9 @@
       "fear"
     ],
     [
-      "corruption",
+      "deputy",
       1,
-      "disgust"
+      "trust"
     ],
     [
       "investigation",
@@ -293,14 +293,34 @@
       "anticipation"
     ],
     [
-      "parliament",
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "uncovered",
+      1,
+      "surprise"
+    ],
+    [
+      "responsible",
       1,
       "trust"
+    ],
+    [
+      "money",
+      1,
+      "anger"
     ],
     [
       "forced",
       1,
       "fear"
+    ],
+    [
+      "vote",
+      1,
+      "anger"
     ],
     [
       "measure",
@@ -356,35 +376,15 @@
       "court",
       1,
       "anger"
-    ],
-    [
-      "exposed",
-      1,
-      "fear"
-    ],
-    [
-      "appeal",
-      1,
-      "anticipation"
-    ],
-    [
-      "challenge",
-      1,
-      "anger"
-    ],
-    [
-      "suffering",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 60,
+    "trust": 61,
     "fear": 67,
-    "surprise": 7,
+    "surprise": 8,
     "sadness": 20,
-    "disgust": 3,
+    "disgust": 4,
     "anger": 106,
     "anticipation": 22
   }
