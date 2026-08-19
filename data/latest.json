@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T15:48:19.478Z",
+  "generated_at": "2026-08-19T16:03:23.049Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,11 +14,6 @@
     ],
     [
       "war",
-      7,
-      "anger"
-    ],
-    [
-      "attack",
       6,
       "anger"
     ],
@@ -33,11 +28,6 @@
       "anticipation"
     ],
     [
-      "kill",
-      4,
-      "fear"
-    ],
-    [
       "people",
       4,
       "trust"
@@ -48,9 +38,19 @@
       "anger"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "threat",
       4,
       "anger"
+    ],
+    [
+      "kill",
+      3,
+      "fear"
     ],
     [
       "law",
@@ -278,14 +278,19 @@
       "trust"
     ],
     [
-      "fire",
-      2,
-      "fear"
+      "opponent",
+      1,
+      "anger"
     ],
     [
-      "launches",
-      2,
-      "anticipation"
+      "blistering",
+      1,
+      "disgust"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
     ],
     [
       "deputy",
@@ -371,21 +376,16 @@
       "unbearable",
       1,
       "disgust"
-    ],
-    [
-      "pain",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 21,
     "trust": 64,
-    "fear": 63,
-    "surprise": 8,
+    "fear": 61,
+    "surprise": 7,
     "sadness": 19,
-    "disgust": 5,
-    "anger": 101,
-    "anticipation": 22
+    "disgust": 6,
+    "anger": 99,
+    "anticipation": 21
   }
 }
