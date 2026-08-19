@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-19T18:04:45.976Z",
+  "generated_at": "2026-08-19T18:19:49.465Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      9,
+      10,
       "anger"
     ],
     [
       "president",
-      6,
+      7,
       "trust"
     ],
     [
@@ -21,11 +21,6 @@
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "hit",
@@ -53,11 +48,6 @@
       "anger"
     ],
     [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
       "gaza",
       3,
       "anger"
@@ -73,14 +63,14 @@
       "trust"
     ],
     [
-      "show",
+      "people",
       3,
       "trust"
     ],
     [
-      "police",
+      "show",
       3,
-      "fear"
+      "trust"
     ],
     [
       "case",
@@ -108,12 +98,32 @@
       "trust"
     ],
     [
+      "plan",
+      3,
+      "anticipation"
+    ],
+    [
+      "dictator",
+      2,
+      "fear"
+    ],
+    [
+      "enemy",
+      2,
+      "anger"
+    ],
+    [
       "soldiers",
       2,
       "anger"
     ],
     [
       "fired",
+      2,
+      "fear"
+    ],
+    [
+      "killed",
       2,
       "fear"
     ],
@@ -208,6 +218,11 @@
       "anger"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
       "change",
       2,
       "fear"
@@ -263,11 +278,6 @@
       "surprise"
     ],
     [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
       "bad",
       2,
       "anger"
@@ -290,6 +300,16 @@
     [
       "economy",
       2,
+      "trust"
+    ],
+    [
+      "doubt",
+      1,
+      "fear"
+    ],
+    [
+      "secret",
+      1,
       "trust"
     ],
     [
@@ -356,36 +376,16 @@
       "suspicion",
       1,
       "fear"
-    ],
-    [
-      "lawyer",
-      1,
-      "anger"
-    ],
-    [
-      "constitutional",
-      1,
-      "trust"
-    ],
-    [
-      "assisted",
-      1,
-      "trust"
-    ],
-    [
-      "patients",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
     "trust": 63,
-    "fear": 59,
+    "fear": 58,
     "surprise": 7,
     "sadness": 20,
     "disgust": 7,
-    "anger": 99,
-    "anticipation": 20
+    "anger": 100,
+    "anticipation": 21
   }
 }
