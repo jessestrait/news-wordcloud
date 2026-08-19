@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:47:21.757Z",
+  "generated_at": "2026-08-19T14:02:24.062Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,14 +113,14 @@
       "anger"
     ],
     [
-      "shooting",
-      2,
-      "anger"
-    ],
-    [
       "corruption",
       2,
       "disgust"
+    ],
+    [
+      "shooting",
+      2,
+      "anger"
     ],
     [
       "dying",
@@ -288,26 +288,6 @@
       "anticipation"
     ],
     [
-      "adviser",
-      1,
-      "trust"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "suspicion",
-      1,
-      "fear"
-    ],
-    [
-      "lawyer",
-      1,
-      "anger"
-    ],
-    [
       "deputy",
       1,
       "trust"
@@ -334,6 +314,26 @@
     ],
     [
       "money",
+      1,
+      "anger"
+    ],
+    [
+      "adviser",
+      1,
+      "trust"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "suspicion",
+      1,
+      "fear"
+    ],
+    [
+      "lawyer",
       1,
       "anger"
     ],
