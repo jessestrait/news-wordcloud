@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:32:29.854Z",
+  "generated_at": "2026-08-19T14:32:50.499Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "wildfire",
       5,
       "fear"
@@ -36,6 +31,11 @@
       "kill",
       4,
       "fear"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "hit",
@@ -66,11 +66,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "crash",
-      3,
-      "fear"
     ],
     [
       "show",
@@ -166,6 +161,11 @@
       "torture",
       2,
       "anger"
+    ],
+    [
+      "crash",
+      2,
+      "fear"
     ],
     [
       "killed",
@@ -288,6 +288,11 @@
       "anticipation"
     ],
     [
+      "shatter",
+      1,
+      "anger"
+    ],
+    [
       "deputy",
       1,
       "trust"
@@ -371,21 +376,16 @@
       "shaped",
       1,
       "trust"
-    ],
-    [
-      "suggest",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 66,
-    "fear": 65,
+    "trust": 65,
+    "fear": 63,
     "surprise": 8,
-    "sadness": 21,
+    "sadness": 20,
     "disgust": 5,
-    "anger": 103,
+    "anger": 104,
     "anticipation": 22
   }
 }
