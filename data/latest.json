@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:15:41.318Z",
+  "generated_at": "2026-08-19T11:30:43.489Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,18 +8,18 @@
       "anger"
     ],
     [
-      "war",
-      8,
-      "anger"
-    ],
-    [
       "president",
       7,
       "trust"
     ],
     [
-      "attack",
+      "war",
       7,
+      "anger"
+    ],
+    [
+      "attack",
+      6,
       "anger"
     ],
     [
@@ -28,14 +28,14 @@
       "trust"
     ],
     [
-      "hit",
-      5,
-      "anger"
-    ],
-    [
       "wildfire",
       5,
       "fear"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
     ],
     [
       "threat",
@@ -46,6 +46,11 @@
       "police",
       4,
       "fear"
+    ],
+    [
+      "law",
+      3,
+      "trust"
     ],
     [
       "death",
@@ -61,11 +66,6 @@
       "crash",
       3,
       "fear"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "show",
@@ -103,11 +103,6 @@
       "fear"
     ],
     [
-      "fire",
-      3,
-      "fear"
-    ],
-    [
       "threaten",
       3,
       "anger"
@@ -116,6 +111,16 @@
       "corruption",
       2,
       "disgust"
+    ],
+    [
+      "dying",
+      2,
+      "sadness"
+    ],
+    [
+      "established",
+      2,
+      "joy"
     ],
     [
       "warning",
@@ -168,9 +173,9 @@
       "anger"
     ],
     [
-      "law",
+      "strike",
       2,
-      "trust"
+      "anger"
     ],
     [
       "system",
@@ -196,11 +201,6 @@
       "success",
       2,
       "joy"
-    ],
-    [
-      "rocket",
-      2,
-      "anger"
     ],
     [
       "rain",
@@ -273,29 +273,14 @@
       "trust"
     ],
     [
-      "launches",
-      2,
-      "anticipation"
-    ],
-    [
-      "missile",
+      "fire",
       2,
       "fear"
     ],
     [
-      "shaped",
-      1,
-      "trust"
-    ],
-    [
-      "suggest",
-      1,
-      "trust"
-    ],
-    [
-      "electorate",
-      1,
-      "trust"
+      "launches",
+      2,
+      "anticipation"
     ],
     [
       "deputy",
@@ -328,6 +313,51 @@
       "anger"
     ],
     [
+      "constitutional",
+      1,
+      "trust"
+    ],
+    [
+      "assisted",
+      1,
+      "trust"
+    ],
+    [
+      "patients",
+      1,
+      "anticipation"
+    ],
+    [
+      "incurable",
+      1,
+      "anger"
+    ],
+    [
+      "unbearable",
+      1,
+      "disgust"
+    ],
+    [
+      "pain",
+      1,
+      "fear"
+    ],
+    [
+      "shaped",
+      1,
+      "trust"
+    ],
+    [
+      "suggest",
+      1,
+      "trust"
+    ],
+    [
+      "electorate",
+      1,
+      "trust"
+    ],
+    [
       "forced",
       1,
       "fear"
@@ -346,46 +376,16 @@
       "cutting",
       1,
       "anger"
-    ],
-    [
-      "uneasy",
-      1,
-      "fear"
-    ],
-    [
-      "alarm",
-      1,
-      "fear"
-    ],
-    [
-      "pastry",
-      1,
-      "joy"
-    ],
-    [
-      "quest",
-      1,
-      "anticipation"
-    ],
-    [
-      "mountains",
-      1,
-      "anticipation"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 63,
-    "fear": 65,
+    "joy": 20,
+    "trust": 66,
+    "fear": 64,
     "surprise": 8,
-    "sadness": 19,
-    "disgust": 4,
-    "anger": 105,
+    "sadness": 21,
+    "disgust": 5,
+    "anger": 101,
     "anticipation": 22
   }
 }
