@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:31:57.727Z",
+  "generated_at": "2026-08-19T13:47:01.165Z",
   "article_count": 50,
   "top_words": [
     [
@@ -30,6 +30,11 @@
     [
       "wildfire",
       5,
+      "fear"
+    ],
+    [
+      "kill",
+      4,
       "fear"
     ],
     [
@@ -98,13 +103,18 @@
       "anger"
     ],
     [
-      "kill",
+      "leader",
       3,
-      "fear"
+      "trust"
     ],
     [
       "threaten",
       3,
+      "anger"
+    ],
+    [
+      "shooting",
+      2,
       "anger"
     ],
     [
@@ -228,11 +238,6 @@
       "surprise"
     ],
     [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
       "gaza",
       2,
       "anger"
@@ -281,6 +286,26 @@
       "launches",
       2,
       "anticipation"
+    ],
+    [
+      "adviser",
+      1,
+      "trust"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "suspicion",
+      1,
+      "fear"
+    ],
+    [
+      "lawyer",
+      1,
+      "anger"
     ],
     [
       "deputy",
@@ -351,41 +376,16 @@
       "suggest",
       1,
       "trust"
-    ],
-    [
-      "electorate",
-      1,
-      "trust"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
-      "vote",
-      1,
-      "anger"
-    ],
-    [
-      "measure",
-      1,
-      "trust"
-    ],
-    [
-      "cutting",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
     "trust": 66,
-    "fear": 64,
+    "fear": 65,
     "surprise": 8,
     "sadness": 21,
     "disgust": 5,
-    "anger": 101,
+    "anger": 103,
     "anticipation": 22
   }
 }
