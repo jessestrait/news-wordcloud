@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:13:37.024Z",
+  "generated_at": "2026-08-19T07:28:39.500Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,17 +8,17 @@
       "anger"
     ],
     [
-      "president",
-      8,
-      "trust"
-    ],
-    [
       "war",
       8,
       "anger"
     ],
     [
       "people",
+      7,
+      "trust"
+    ],
+    [
+      "president",
       7,
       "trust"
     ],
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 61,
+    "trust": 60,
     "fear": 71,
     "surprise": 7,
     "sadness": 20,
