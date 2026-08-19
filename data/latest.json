@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:59:03.551Z",
+  "generated_at": "2026-08-19T08:14:06.040Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "anger"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "president",
       7,
       "trust"
@@ -28,13 +23,18 @@
       "anger"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
       "hit",
       6,
       "anger"
     ],
     [
       "wildfire",
-      6,
+      5,
       "fear"
     ],
     [
@@ -118,6 +118,11 @@
       "anger"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "think",
       2,
       "trust"
@@ -126,11 +131,6 @@
       "crime",
       2,
       "anger"
-    ],
-    [
-      "alarm",
-      2,
-      "fear"
     ],
     [
       "invasion",
@@ -278,6 +278,21 @@
       "fear"
     ],
     [
+      "corruption",
+      1,
+      "disgust"
+    ],
+    [
+      "investigation",
+      1,
+      "anticipation"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
       "measure",
       1,
       "trust"
@@ -289,6 +304,11 @@
     ],
     [
       "uneasy",
+      1,
+      "fear"
+    ],
+    [
+      "alarm",
       1,
       "fear"
     ],
@@ -356,36 +376,16 @@
       "fleeces",
       1,
       "anger"
-    ],
-    [
-      "creatures",
-      1,
-      "fear"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
-    ],
-    [
-      "detention",
-      1,
-      "sadness"
-    ],
-    [
-      "showing",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
     "trust": 60,
-    "fear": 71,
+    "fear": 67,
     "surprise": 7,
     "sadness": 20,
-    "disgust": 2,
+    "disgust": 3,
     "anger": 104,
-    "anticipation": 22
+    "anticipation": 23
   }
 }
