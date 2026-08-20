@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:49:45.381Z",
+  "generated_at": "2026-08-20T13:04:47.881Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,14 +103,14 @@
       "trust"
     ],
     [
-      "convicted",
-      2,
-      "anger"
-    ],
-    [
       "deep",
       2,
       "joy"
+    ],
+    [
+      "convicted",
+      2,
+      "anger"
     ],
     [
       "missile",
@@ -278,6 +278,21 @@
       "joy"
     ],
     [
+      "warns",
+      1,
+      "fear"
+    ],
+    [
+      "escalating",
+      1,
+      "anger"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
       "gallows",
       1,
       "anger"
@@ -296,21 +311,6 @@
       "penalty",
       1,
       "anger"
-    ],
-    [
-      "warns",
-      1,
-      "fear"
-    ],
-    [
-      "escalating",
-      1,
-      "anger"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
     ],
     [
       "beasts",
