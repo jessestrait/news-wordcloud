@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:33:59.078Z",
+  "generated_at": "2026-08-20T11:49:01.311Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,9 +33,9 @@
       "anger"
     ],
     [
-      "people",
+      "hit",
       4,
-      "trust"
+      "anger"
     ],
     [
       "iran",
@@ -68,14 +68,14 @@
       "fear"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "case",
       3,
       "fear"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "gaza",
@@ -273,9 +273,34 @@
       "surprise"
     ],
     [
-      "bad",
-      2,
+      "beasts",
+      1,
       "anger"
+    ],
+    [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "accusation",
+      1,
+      "anger"
+    ],
+    [
+      "personal",
+      1,
+      "trust"
+    ],
+    [
+      "vendetta",
+      1,
+      "anger"
+    ],
+    [
+      "public",
+      1,
+      "anticipation"
     ],
     [
       "intense",
@@ -351,41 +376,16 @@
       "failure",
       1,
       "fear"
-    ],
-    [
-      "guarantee",
-      1,
-      "trust"
-    ],
-    [
-      "competition",
-      1,
-      "anticipation"
-    ],
-    [
-      "closures",
-      1,
-      "sadness"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "pivots",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 59,
     "fear": 64,
-    "surprise": 11,
-    "sadness": 21,
+    "surprise": 10,
+    "sadness": 20,
     "disgust": 10,
-    "anger": 95,
-    "anticipation": 26
+    "anger": 98,
+    "anticipation": 27
   }
 }
