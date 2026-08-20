@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:31:54.541Z",
+  "generated_at": "2026-08-20T07:46:56.398Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "death",
       6,
       "sadness"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
     ],
     [
       "strike",
@@ -44,11 +49,6 @@
     ],
     [
       "war",
-      4,
-      "anger"
-    ],
-    [
-      "attack",
       4,
       "anger"
     ],
@@ -143,9 +143,9 @@
       "fear"
     ],
     [
-      "world",
+      "missile",
       2,
-      "trust"
+      "fear"
     ],
     [
       "collapse",
@@ -233,11 +233,6 @@
       "fear"
     ],
     [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
       "change",
       2,
       "fear"
@@ -268,11 +263,6 @@
       "joy"
     ],
     [
-      "deadly",
-      2,
-      "anger"
-    ],
-    [
       "deal",
       2,
       "surprise"
@@ -281,6 +271,26 @@
       "bad",
       2,
       "anger"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "massive",
+      1,
+      "anger"
+    ],
+    [
+      "surrounding",
+      1,
+      "anticipation"
+    ],
+    [
+      "preparing",
+      1,
+      "anticipation"
     ],
     [
       "found",
@@ -366,26 +376,16 @@
       "pop",
       1,
       "surprise"
-    ],
-    [
-      "career",
-      1,
-      "anticipation"
-    ],
-    [
-      "miracle",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 59,
-    "fear": 62,
+    "trust": 57,
+    "fear": 61,
     "surprise": 11,
-    "sadness": 23,
+    "sadness": 21,
     "disgust": 10,
-    "anger": 92,
-    "anticipation": 25
+    "anger": 91,
+    "anticipation": 28
   }
 }
