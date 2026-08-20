@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:22:35.175Z",
+  "generated_at": "2026-08-20T17:37:37.332Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,11 +73,6 @@
       "trust"
     ],
     [
-      "plan",
-      4,
-      "anticipation"
-    ],
-    [
       "killed",
       3,
       "fear"
@@ -101,6 +96,11 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "deep",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 60,
+    "joy": 23,
+    "trust": 58,
     "fear": 66,
     "surprise": 9,
     "sadness": 20,
     "disgust": 9,
-    "anger": 101,
-    "anticipation": 26
+    "anger": 99,
+    "anticipation": 25
   }
 }
