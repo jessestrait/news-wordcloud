@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:33:05.549Z",
+  "generated_at": "2026-08-20T09:48:08.325Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,11 +68,6 @@
       "fear"
     ],
     [
-      "missile",
-      3,
-      "fear"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -111,6 +106,16 @@
       "surrounding",
       2,
       "anticipation"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
+    ],
+    [
+      "missile",
+      2,
+      "fear"
     ],
     [
       "young",
@@ -288,9 +293,9 @@
       "anger"
     ],
     [
-      "preparing",
+      "terror",
       1,
-      "anticipation"
+      "fear"
     ],
     [
       "improvements",
@@ -371,21 +376,16 @@
       "pivots",
       1,
       "trust"
-    ],
-    [
-      "crushing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 59,
     "fear": 63,
     "surprise": 11,
     "sadness": 21,
     "disgust": 10,
     "anger": 94,
-    "anticipation": 28
+    "anticipation": 27
   }
 }
