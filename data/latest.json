@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:34:42.926Z",
+  "generated_at": "2026-08-20T12:49:45.381Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,19 @@
       "anger"
     ],
     [
+      "death",
+      7,
+      "sadness"
+    ],
+    [
       "president",
       6,
       "trust"
     ],
     [
-      "death",
-      6,
-      "sadness"
+      "military",
+      5,
+      "fear"
     ],
     [
       "attack",
@@ -33,6 +38,11 @@
       "anger"
     ],
     [
+      "law",
+      4,
+      "trust"
+    ],
+    [
       "hit",
       4,
       "anger"
@@ -41,11 +51,6 @@
       "iran",
       4,
       "anger"
-    ],
-    [
-      "military",
-      4,
-      "fear"
     ],
     [
       "landslide",
@@ -83,11 +88,6 @@
       "trust"
     ],
     [
-      "gaza",
-      3,
-      "anger"
-    ],
-    [
       "corruption",
       3,
       "disgust"
@@ -98,14 +98,14 @@
       "anticipation"
     ],
     [
-      "law",
+      "leader",
       3,
       "trust"
     ],
     [
-      "leader",
-      3,
-      "trust"
+      "convicted",
+      2,
+      "anger"
     ],
     [
       "deep",
@@ -188,6 +188,11 @@
       "anticipation"
     ],
     [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
       "deputy",
       2,
       "trust"
@@ -219,6 +224,11 @@
     ],
     [
       "crime",
+      2,
+      "anger"
+    ],
+    [
+      "court",
       2,
       "anger"
     ],
@@ -268,9 +278,24 @@
       "joy"
     ],
     [
-      "deal",
-      2,
-      "surprise"
+      "gallows",
+      1,
+      "anger"
+    ],
+    [
+      "hanging",
+      1,
+      "anger"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
+    ],
+    [
+      "penalty",
+      1,
+      "anger"
     ],
     [
       "warns",
@@ -351,41 +376,16 @@
       "mortality",
       1,
       "anger"
-    ],
-    [
-      "epidemic",
-      1,
-      "anger"
-    ],
-    [
-      "opportunity",
-      1,
-      "anticipation"
-    ],
-    [
-      "failure",
-      1,
-      "fear"
-    ],
-    [
-      "guarantee",
-      1,
-      "trust"
-    ],
-    [
-      "competition",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 59,
-    "fear": 64,
-    "surprise": 10,
-    "sadness": 21,
-    "disgust": 10,
-    "anger": 97,
+    "trust": 60,
+    "fear": 66,
+    "surprise": 9,
+    "sadness": 20,
+    "disgust": 9,
+    "anger": 101,
     "anticipation": 25
   }
 }
