@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:18:57.039Z",
+  "generated_at": "2026-08-20T11:33:59.078Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,14 +108,14 @@
       "trust"
     ],
     [
-      "growing",
-      2,
-      "joy"
-    ],
-    [
       "missile",
       2,
       "fear"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "young",
@@ -278,6 +278,21 @@
       "anger"
     ],
     [
+      "intense",
+      1,
+      "anger"
+    ],
+    [
+      "bombardment",
+      1,
+      "anger"
+    ],
+    [
+      "hospital",
+      1,
+      "fear"
+    ],
+    [
       "launches",
       1,
       "anticipation"
@@ -294,21 +309,6 @@
     ],
     [
       "terror",
-      1,
-      "fear"
-    ],
-    [
-      "intense",
-      1,
-      "anger"
-    ],
-    [
-      "bombardment",
-      1,
-      "anger"
-    ],
-    [
-      "hospital",
       1,
       "fear"
     ],
