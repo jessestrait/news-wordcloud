@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:02:15.381Z",
+  "generated_at": "2026-08-20T08:17:17.503Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,6 +68,16 @@
       "anticipation"
     ],
     [
+      "family",
+      3,
+      "joy"
+    ],
+    [
+      "investigation",
+      3,
+      "anticipation"
+    ],
+    [
       "gaza",
       3,
       "anger"
@@ -96,6 +106,11 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "criminal",
+      2,
+      "anger"
     ],
     [
       "young",
@@ -173,11 +188,6 @@
       "fear"
     ],
     [
-      "investigation",
-      2,
-      "anticipation"
-    ],
-    [
       "deputy",
       2,
       "trust"
@@ -221,6 +231,11 @@
       "school",
       2,
       "trust"
+    ],
+    [
+      "reject",
+      2,
+      "anger"
     ],
     [
       "police",
@@ -270,6 +285,31 @@
     [
       "bad",
       2,
+      "anger"
+    ],
+    [
+      "deserved",
+      1,
+      "anger"
+    ],
+    [
+      "worded",
+      1,
+      "trust"
+    ],
+    [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
+    ],
+    [
+      "insult",
+      1,
       "anger"
     ],
     [
@@ -336,56 +376,16 @@
       "trade",
       1,
       "trust"
-    ],
-    [
-      "pivots",
-      1,
-      "trust"
-    ],
-    [
-      "crushing",
-      1,
-      "anger"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "trading",
-      1,
-      "trust"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "child",
-      1,
-      "joy"
-    ],
-    [
-      "star",
-      1,
-      "joy"
-    ],
-    [
-      "pop",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 57,
+    "joy": 25,
+    "trust": 59,
     "fear": 61,
     "surprise": 11,
     "sadness": 21,
     "disgust": 10,
-    "anger": 91,
-    "anticipation": 28
+    "anger": 94,
+    "anticipation": 30
   }
 }
