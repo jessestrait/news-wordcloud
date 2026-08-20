@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-08-20T11:49:19.202Z",
+  "generated_at": "2026-08-20T12:04:21.580Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
       9,
-      "anger"
-    ],
-    [
-      "attack",
-      6,
       "anger"
     ],
     [
@@ -21,6 +16,11 @@
       "death",
       6,
       "sadness"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
     ],
     [
       "war",
@@ -51,6 +51,11 @@
       "landslide",
       4,
       "fear"
+    ],
+    [
+      "threat",
+      4,
+      "anger"
     ],
     [
       "show",
@@ -98,24 +103,19 @@
       "trust"
     ],
     [
-      "threat",
-      3,
-      "anger"
-    ],
-    [
       "leader",
       3,
       "trust"
     ],
     [
+      "deep",
+      2,
+      "joy"
+    ],
+    [
       "missile",
       2,
       "fear"
-    ],
-    [
-      "growing",
-      2,
-      "joy"
     ],
     [
       "young",
@@ -273,17 +273,27 @@
       "surprise"
     ],
     [
+      "warns",
+      1,
+      "fear"
+    ],
+    [
+      "escalating",
+      1,
+      "anger"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
       "beasts",
       1,
       "anger"
     ],
     [
       "denies",
-      1,
-      "anger"
-    ],
-    [
-      "accusation",
       1,
       "anger"
     ],
@@ -314,26 +324,6 @@
     ],
     [
       "hospital",
-      1,
-      "fear"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "surrounding",
-      1,
-      "anticipation"
-    ],
-    [
-      "terror",
       1,
       "fear"
     ],
@@ -376,6 +366,16 @@
       "failure",
       1,
       "fear"
+    ],
+    [
+      "guarantee",
+      1,
+      "trust"
+    ],
+    [
+      "competition",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 59,
     "fear": 64,
     "surprise": 10,
-    "sadness": 20,
+    "sadness": 21,
     "disgust": 10,
-    "anger": 98,
-    "anticipation": 27
+    "anger": 97,
+    "anticipation": 25
   }
 }
