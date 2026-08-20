@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:36:35.969Z",
+  "generated_at": "2026-08-20T15:51:39.609Z",
   "article_count": 50,
   "top_words": [
     [
@@ -36,6 +36,11 @@
       "strike",
       5,
       "anger"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "law",
@@ -91,11 +96,6 @@
       "corruption",
       3,
       "disgust"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "leader",
@@ -386,6 +386,6 @@
     "sadness": 20,
     "disgust": 9,
     "anger": 101,
-    "anticipation": 25
+    "anticipation": 26
   }
 }
