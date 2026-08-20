@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:09:36.843Z",
+  "generated_at": "2026-08-20T03:24:39.355Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "death",
       5,
       "sadness"
+    ],
+    [
+      "landslide",
+      4,
+      "fear"
     ],
     [
       "attack",
@@ -46,11 +51,6 @@
       "strike",
       3,
       "anger"
-    ],
-    [
-      "landslide",
-      3,
-      "fear"
     ],
     [
       "gaza",
@@ -113,6 +113,16 @@
       "joy"
     ],
     [
+      "quake",
+      2,
+      "fear"
+    ],
+    [
+      "remains",
+      2,
+      "fear"
+    ],
+    [
       "government",
       2,
       "fear"
@@ -141,11 +151,6 @@
       "soldiers",
       2,
       "anger"
-    ],
-    [
-      "fired",
-      2,
-      "fear"
     ],
     [
       "killed",
@@ -308,11 +313,6 @@
       "trust"
     ],
     [
-      "economy",
-      2,
-      "trust"
-    ],
-    [
       "life",
       1,
       "joy"
@@ -338,6 +338,36 @@
       "anticipation"
     ],
     [
+      "miracle",
+      1,
+      "surprise"
+    ],
+    [
+      "alive",
+      1,
+      "joy"
+    ],
+    [
+      "rubble",
+      1,
+      "fear"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
+      "buried",
+      1,
+      "fear"
+    ],
+    [
+      "collapsed",
+      1,
+      "fear"
+    ],
+    [
       "arrives",
       1,
       "anticipation"
@@ -346,43 +376,13 @@
       "forces",
       1,
       "anger"
-    ],
-    [
-      "reversal",
-      1,
-      "anger"
-    ],
-    [
-      "petroleum",
-      1,
-      "disgust"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
-    ],
-    [
-      "flying",
-      1,
-      "fear"
-    ],
-    [
-      "doubt",
-      1,
-      "fear"
-    ],
-    [
-      "secret",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 63,
-    "fear": 58,
-    "surprise": 8,
+    "joy": 23,
+    "trust": 59,
+    "fear": 64,
+    "surprise": 9,
     "sadness": 21,
     "disgust": 10,
     "anger": 98,
