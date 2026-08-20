@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:10:21.369Z",
+  "generated_at": "2026-08-20T22:25:23.995Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "trust"
     ],
     [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -61,11 +66,6 @@
       "leader",
       3,
       "trust"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
     ],
     [
       "happened",
@@ -103,6 +103,11 @@
       "anger"
     ],
     [
+      "missile",
+      2,
+      "fear"
+    ],
+    [
       "hospital",
       2,
       "fear"
@@ -126,11 +131,6 @@
       "convicted",
       2,
       "anger"
-    ],
-    [
-      "missile",
-      2,
-      "fear"
     ],
     [
       "young",
@@ -273,6 +273,16 @@
       "joy"
     ],
     [
+      "intense",
+      1,
+      "anger"
+    ],
+    [
+      "bombardment",
+      1,
+      "anger"
+    ],
+    [
       "jailed",
       1,
       "fear"
@@ -364,16 +374,6 @@
     ],
     [
       "vendetta",
-      1,
-      "anger"
-    ],
-    [
-      "public",
-      1,
-      "anticipation"
-    ],
-    [
-      "intense",
       1,
       "anger"
     ]
