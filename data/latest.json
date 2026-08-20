@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-08-20T09:02:40.468Z",
+  "generated_at": "2026-08-20T09:17:42.766Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
       9,
+      "anger"
+    ],
+    [
+      "attack",
+      6,
       "anger"
     ],
     [
@@ -16,11 +21,6 @@
       "death",
       6,
       "sadness"
-    ],
-    [
-      "attack",
-      5,
-      "anger"
     ],
     [
       "strike",
@@ -53,19 +53,29 @@
       "anger"
     ],
     [
-      "happened",
+      "show",
       4,
-      "anticipation"
-    ],
-    [
-      "wildfire",
-      4,
-      "fear"
+      "trust"
     ],
     [
       "plan",
       4,
       "anticipation"
+    ],
+    [
+      "case",
+      3,
+      "fear"
+    ],
+    [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "gaza",
@@ -78,6 +88,11 @@
       "disgust"
     ],
     [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "law",
       3,
       "trust"
@@ -88,14 +103,14 @@
       "anger"
     ],
     [
-      "show",
+      "leader",
       3,
       "trust"
     ],
     [
-      "leader",
-      3,
-      "trust"
+      "surrounding",
+      2,
+      "anticipation"
     ],
     [
       "young",
@@ -139,11 +154,6 @@
     ],
     [
       "government",
-      2,
-      "fear"
-    ],
-    [
-      "missile",
       2,
       "fear"
     ],
@@ -213,9 +223,9 @@
       "anger"
     ],
     [
-      "hit",
+      "wildfire",
       2,
-      "anger"
+      "fear"
     ],
     [
       "school",
@@ -224,11 +234,6 @@
     ],
     [
       "police",
-      2,
-      "fear"
-    ],
-    [
-      "case",
       2,
       "fear"
     ],
@@ -273,16 +278,6 @@
       "anger"
     ],
     [
-      "found",
-      1,
-      "joy"
-    ],
-    [
-      "mortality",
-      1,
-      "anger"
-    ],
-    [
       "launches",
       1,
       "anticipation"
@@ -293,14 +288,49 @@
       "anger"
     ],
     [
-      "surrounding",
+      "preparing",
       1,
       "anticipation"
     ],
     [
-      "preparing",
+      "improvements",
       1,
-      "anticipation"
+      "joy"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
+    ],
+    [
+      "management",
+      1,
+      "trust"
+    ],
+    [
+      "found",
+      1,
+      "joy"
+    ],
+    [
+      "mortality",
+      1,
+      "anger"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
+    ],
+    [
+      "hospital",
+      1,
+      "fear"
+    ],
+    [
+      "bombardment",
+      1,
+      "anger"
     ],
     [
       "epidemic",
@@ -346,46 +376,16 @@
       "crushing",
       1,
       "anger"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "trading",
-      1,
-      "trust"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "child",
-      1,
-      "joy"
-    ],
-    [
-      "star",
-      1,
-      "joy"
-    ],
-    [
-      "pop",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 57,
-    "fear": 61,
+    "joy": 24,
+    "trust": 59,
+    "fear": 63,
     "surprise": 11,
     "sadness": 21,
     "disgust": 10,
-    "anger": 91,
+    "anger": 94,
     "anticipation": 28
   }
 }
