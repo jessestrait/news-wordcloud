@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-20T01:38:47.498Z",
+  "generated_at": "2026-08-20T01:53:49.626Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      10,
+      9,
       "anger"
     ],
     [
       "president",
-      7,
+      6,
       "trust"
     ],
     [
       "war",
-      6,
+      5,
       "anger"
     ],
     [
@@ -103,9 +103,14 @@
       "anticipation"
     ],
     [
-      "official",
-      3,
-      "trust"
+      "boy",
+      2,
+      "disgust"
+    ],
+    [
+      "baby",
+      2,
+      "joy"
     ],
     [
       "government",
@@ -126,11 +131,6 @@
       "continue",
       2,
       "trust"
-    ],
-    [
-      "dictator",
-      2,
-      "fear"
     ],
     [
       "enemy",
@@ -186,11 +186,6 @@
       "dying",
       2,
       "sadness"
-    ],
-    [
-      "warning",
-      2,
-      "fear"
     ],
     [
       "fellow",
@@ -308,9 +303,39 @@
       "trust"
     ],
     [
+      "official",
+      2,
+      "trust"
+    ],
+    [
       "economy",
       2,
       "trust"
+    ],
+    [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "child",
+      1,
+      "joy"
+    ],
+    [
+      "star",
+      1,
+      "joy"
+    ],
+    [
+      "pop",
+      1,
+      "surprise"
+    ],
+    [
+      "career",
+      1,
+      "anticipation"
     ],
     [
       "arrives",
@@ -351,41 +376,16 @@
       "secret",
       1,
       "trust"
-    ],
-    [
-      "remains",
-      1,
-      "fear"
-    ],
-    [
-      "criminal",
-      1,
-      "anger"
-    ],
-    [
-      "opponent",
-      1,
-      "anger"
-    ],
-    [
-      "blistering",
-      1,
-      "disgust"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 65,
-    "fear": 60,
-    "surprise": 7,
+    "joy": 22,
+    "trust": 63,
+    "fear": 58,
+    "surprise": 8,
     "sadness": 21,
-    "disgust": 8,
-    "anger": 100,
-    "anticipation": 22
+    "disgust": 10,
+    "anger": 98,
+    "anticipation": 23
   }
 }
