@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:08:00.900Z",
+  "generated_at": "2026-08-20T00:23:02.707Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,29 +13,19 @@
       "trust"
     ],
     [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
       "war",
-      6,
+      5,
       "anger"
     ],
     [
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "wildfire",
@@ -46,6 +36,11 @@
       "threat",
       4,
       "anger"
+    ],
+    [
+      "landslide",
+      3,
+      "fear"
     ],
     [
       "gaza",
@@ -68,17 +63,17 @@
       "trust"
     ],
     [
+      "attack",
+      3,
+      "anger"
+    ],
+    [
       "show",
       3,
       "trust"
     ],
     [
       "case",
-      3,
-      "fear"
-    ],
-    [
-      "risk",
       3,
       "fear"
     ],
@@ -101,6 +96,26 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "official",
+      3,
+      "trust"
+    ],
+    [
+      "world",
+      2,
+      "trust"
+    ],
+    [
+      "collapse",
+      2,
+      "fear"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
     ],
     [
       "dictator",
@@ -163,11 +178,6 @@
       "sadness"
     ],
     [
-      "established",
-      2,
-      "joy"
-    ],
-    [
       "warning",
       2,
       "fear"
@@ -184,6 +194,11 @@
     ],
     [
       "crime",
+      2,
+      "anger"
+    ],
+    [
+      "hit",
       2,
       "anger"
     ],
@@ -219,6 +234,11 @@
     ],
     [
       "police",
+      2,
+      "fear"
+    ],
+    [
+      "risk",
       2,
       "fear"
     ],
@@ -263,11 +283,6 @@
       "anger"
     ],
     [
-      "landslide",
-      2,
-      "fear"
-    ],
-    [
       "threatens",
       2,
       "anger"
@@ -293,14 +308,14 @@
       "trust"
     ],
     [
-      "official",
+      "economy",
       2,
       "trust"
     ],
     [
-      "economy",
-      2,
-      "trust"
+      "flying",
+      1,
+      "fear"
     ],
     [
       "doubt",
@@ -311,6 +326,11 @@
       "secret",
       1,
       "trust"
+    ],
+    [
+      "remains",
+      1,
+      "fear"
     ],
     [
       "criminal",
@@ -356,36 +376,16 @@
       "government",
       1,
       "fear"
-    ],
-    [
-      "shatter",
-      1,
-      "anger"
-    ],
-    [
-      "adviser",
-      1,
-      "trust"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "suspicion",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 63,
+    "joy": 18,
+    "trust": 66,
     "fear": 58,
     "surprise": 7,
-    "sadness": 20,
+    "sadness": 21,
     "disgust": 7,
-    "anger": 100,
+    "anger": 95,
     "anticipation": 21
   }
 }
