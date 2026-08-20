@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:16:08.072Z",
+  "generated_at": "2026-08-20T06:31:09.993Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "trust"
     ],
     [
+      "death",
+      6,
+      "sadness"
+    ],
+    [
       "strike",
       5,
       "anger"
-    ],
-    [
-      "death",
-      5,
-      "sadness"
     ],
     [
       "people",
@@ -218,19 +218,9 @@
       "anger"
     ],
     [
-      "crash",
-      2,
-      "fear"
-    ],
-    [
       "school",
       2,
       "trust"
-    ],
-    [
-      "fatal",
-      2,
-      "anger"
     ],
     [
       "police",
@@ -290,6 +280,16 @@
     [
       "bad",
       2,
+      "anger"
+    ],
+    [
+      "found",
+      1,
+      "joy"
+    ],
+    [
+      "mortality",
+      1,
       "anger"
     ],
     [
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 60,
-    "fear": 64,
+    "trust": 59,
+    "fear": 62,
     "surprise": 11,
-    "sadness": 22,
+    "sadness": 23,
     "disgust": 10,
-    "anger": 93,
+    "anger": 92,
     "anticipation": 25
   }
 }
