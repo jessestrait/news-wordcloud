@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:00:43.249Z",
+  "generated_at": "2026-08-20T05:15:45.364Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "fear"
     ],
     [
+      "plan",
+      4,
+      "anticipation"
+    ],
+    [
       "gaza",
       3,
       "anger"
@@ -88,19 +93,14 @@
       "trust"
     ],
     [
-      "case",
-      3,
-      "fear"
-    ],
-    [
       "leader",
       3,
       "trust"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
+      "charity",
+      2,
+      "joy"
     ],
     [
       "threatens",
@@ -168,11 +168,6 @@
       "anticipation"
     ],
     [
-      "family",
-      2,
-      "joy"
-    ],
-    [
       "deputy",
       2,
       "trust"
@@ -213,16 +208,6 @@
       "anger"
     ],
     [
-      "invasion",
-      2,
-      "anger"
-    ],
-    [
-      "torture",
-      2,
-      "anger"
-    ],
-    [
       "crash",
       2,
       "fear"
@@ -239,6 +224,11 @@
     ],
     [
       "police",
+      2,
+      "fear"
+    ],
+    [
+      "case",
       2,
       "fear"
     ],
@@ -293,11 +283,6 @@
       "anger"
     ],
     [
-      "mother",
-      2,
-      "sadness"
-    ],
-    [
       "history",
       2,
       "trust"
@@ -306,6 +291,21 @@
       "official",
       2,
       "trust"
+    ],
+    [
+      "guarantee",
+      1,
+      "trust"
+    ],
+    [
+      "competition",
+      1,
+      "anticipation"
+    ],
+    [
+      "closures",
+      1,
+      "sadness"
     ],
     [
       "trade",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 61,
-    "fear": 67,
+    "trust": 62,
+    "fear": 63,
     "surprise": 9,
     "sadness": 21,
     "disgust": 10,
-    "anger": 96,
-    "anticipation": 23
+    "anger": 92,
+    "anticipation": 25
   }
 }
