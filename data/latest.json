@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:40:42.433Z",
+  "generated_at": "2026-08-20T22:55:44.621Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,11 +53,6 @@
       "trust"
     ],
     [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
       "government",
       3,
       "fear"
@@ -66,6 +61,11 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "happened",
@@ -103,12 +103,12 @@
       "anger"
     ],
     [
-      "missile",
+      "hospital",
       2,
       "fear"
     ],
     [
-      "hospital",
+      "missile",
       2,
       "fear"
     ],
@@ -273,16 +273,6 @@
       "joy"
     ],
     [
-      "intense",
-      1,
-      "anger"
-    ],
-    [
-      "bombardment",
-      1,
-      "anger"
-    ],
-    [
       "jailed",
       1,
       "fear"
@@ -301,6 +291,16 @@
       "improve",
       1,
       "joy"
+    ],
+    [
+      "intense",
+      1,
+      "anger"
+    ],
+    [
+      "bombardment",
+      1,
+      "anger"
     ],
     [
       "fired",
