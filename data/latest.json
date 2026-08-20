@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:08:28.734Z",
+  "generated_at": "2026-08-20T19:23:32.569Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,21 @@
       "anticipation"
     ],
     [
+      "soldiers",
+      2,
+      "anger"
+    ],
+    [
+      "investigation",
+      2,
+      "anticipation"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
       "deep",
       2,
       "joy"
@@ -174,21 +189,6 @@
     ],
     [
       "enemy",
-      2,
-      "anger"
-    ],
-    [
-      "soldiers",
-      2,
-      "anger"
-    ],
-    [
-      "investigation",
-      2,
-      "anticipation"
-    ],
-    [
-      "gaza",
       2,
       "anger"
     ],
@@ -278,6 +278,21 @@
       "joy"
     ],
     [
+      "fired",
+      1,
+      "fear"
+    ],
+    [
+      "criminal",
+      1,
+      "anger"
+    ],
+    [
+      "family",
+      1,
+      "joy"
+    ],
+    [
       "warns",
       1,
       "fear"
@@ -361,21 +376,6 @@
       "fire",
       1,
       "fear"
-    ],
-    [
-      "management",
-      1,
-      "trust"
-    ],
-    [
-      "found",
-      1,
-      "joy"
-    ],
-    [
-      "mortality",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
