@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:11:04.502Z",
+  "generated_at": "2026-08-20T23:26:07.108Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "sadness"
     ],
     [
-      "military",
-      6,
-      "fear"
-    ],
-    [
       "attack",
       5,
       "anger"
@@ -26,6 +21,11 @@
       "war",
       5,
       "anger"
+    ],
+    [
+      "military",
+      5,
+      "fear"
     ],
     [
       "president",
@@ -53,9 +53,9 @@
       "trust"
     ],
     [
-      "government",
+      "court",
       3,
-      "fear"
+      "anger"
     ],
     [
       "leader",
@@ -106,6 +106,11 @@
       "hospital",
       2,
       "fear"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
     ],
     [
       "missile",
@@ -173,6 +178,11 @@
       "fear"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "collapse",
       2,
       "fear"
@@ -219,11 +229,6 @@
     ],
     [
       "crime",
-      2,
-      "anger"
-    ],
-    [
-      "court",
       2,
       "anger"
     ],
@@ -283,14 +288,9 @@
       "fear"
     ],
     [
-      "attempt",
+      "deteriorating",
       1,
-      "anticipation"
-    ],
-    [
-      "improve",
-      1,
-      "joy"
+      "fear"
     ],
     [
       "intense",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 22,
     "trust": 56,
-    "fear": 71,
+    "fear": 70,
     "surprise": 8,
     "sadness": 20,
     "disgust": 9,
-    "anger": 93,
+    "anger": 94,
     "anticipation": 24
   }
 }
