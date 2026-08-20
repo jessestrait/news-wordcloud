@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:03:54.763Z",
+  "generated_at": "2026-08-20T11:18:57.039Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "death",
       6,
       "sadness"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "strike",
@@ -48,11 +53,6 @@
       "fear"
     ],
     [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "show",
       4,
       "trust"
@@ -63,7 +63,7 @@
       "anticipation"
     ],
     [
-      "case",
+      "killed",
       3,
       "fear"
     ],
@@ -71,6 +71,11 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "case",
+      3,
+      "fear"
     ],
     [
       "gaza",
@@ -101,11 +106,6 @@
       "leader",
       3,
       "trust"
-    ],
-    [
-      "surrounding",
-      2,
-      "anticipation"
     ],
     [
       "growing",
@@ -181,11 +181,6 @@
       "soldiers",
       2,
       "anger"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "investigation",
@@ -293,7 +288,27 @@
       "anger"
     ],
     [
+      "surrounding",
+      1,
+      "anticipation"
+    ],
+    [
       "terror",
+      1,
+      "fear"
+    ],
+    [
+      "intense",
+      1,
+      "anger"
+    ],
+    [
+      "bombardment",
+      1,
+      "anger"
+    ],
+    [
+      "hospital",
       1,
       "fear"
     ],
@@ -319,21 +334,6 @@
     ],
     [
       "mortality",
-      1,
-      "anger"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
-      "hospital",
-      1,
-      "fear"
-    ],
-    [
-      "bombardment",
       1,
       "anger"
     ],
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 25,
     "trust": 59,
-    "fear": 63,
+    "fear": 64,
     "surprise": 11,
     "sadness": 21,
     "disgust": 10,
-    "anger": 94,
-    "anticipation": 27
+    "anger": 95,
+    "anticipation": 26
   }
 }
