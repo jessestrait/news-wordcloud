@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:45:25.600Z",
+  "generated_at": "2026-08-20T05:00:27.777Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,7 +13,7 @@
       "trust"
     ],
     [
-      "war",
+      "strike",
       5,
       "anger"
     ],
@@ -23,9 +23,24 @@
       "sadness"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
+      "military",
+      4,
+      "fear"
+    ],
+    [
       "landslide",
       4,
       "fear"
+    ],
+    [
+      "war",
+      4,
+      "anger"
     ],
     [
       "attack",
@@ -41,16 +56,6 @@
       "wildfire",
       4,
       "fear"
-    ],
-    [
-      "threat",
-      4,
-      "anger"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "gaza",
@@ -73,6 +78,11 @@
       "trust"
     ],
     [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
       "show",
       3,
       "trust"
@@ -83,16 +93,6 @@
       "fear"
     ],
     [
-      "iran",
-      3,
-      "anger"
-    ],
-    [
-      "bomb",
-      3,
-      "anger"
-    ],
-    [
       "leader",
       3,
       "trust"
@@ -101,6 +101,11 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "threatens",
+      2,
+      "anger"
     ],
     [
       "boy",
@@ -154,11 +159,6 @@
     ],
     [
       "killed",
-      2,
-      "fear"
-    ],
-    [
-      "military",
       2,
       "fear"
     ],
@@ -283,11 +283,6 @@
       "anger"
     ],
     [
-      "threatens",
-      2,
-      "anger"
-    ],
-    [
       "deal",
       2,
       "surprise"
@@ -310,6 +305,31 @@
     [
       "official",
       2,
+      "trust"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
+    ],
+    [
+      "pivots",
+      1,
+      "trust"
+    ],
+    [
+      "crushing",
+      1,
+      "anger"
+    ],
+    [
+      "operation",
+      1,
+      "fear"
+    ],
+    [
+      "trading",
+      1,
       "trust"
     ],
     [
@@ -356,36 +376,16 @@
       "leaving",
       1,
       "sadness"
-    ],
-    [
-      "buried",
-      1,
-      "fear"
-    ],
-    [
-      "collapsed",
-      1,
-      "fear"
-    ],
-    [
-      "arrives",
-      1,
-      "anticipation"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 59,
-    "fear": 64,
+    "trust": 61,
+    "fear": 67,
     "surprise": 9,
     "sadness": 21,
     "disgust": 10,
-    "anger": 98,
+    "anger": 96,
     "anticipation": 23
   }
 }
