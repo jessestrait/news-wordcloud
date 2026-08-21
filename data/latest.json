@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:19:53.945Z",
+  "generated_at": "2026-08-21T16:34:56.119Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "death",
       6,
       "sadness"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "war",
@@ -33,11 +38,6 @@
       "anger"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "charity",
       4,
       "joy"
@@ -48,11 +48,6 @@
       "fear"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "military",
       4,
       "fear"
@@ -61,6 +56,11 @@
       "criminal",
       3,
       "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "law",
@@ -96,6 +96,11 @@
       "wildfire",
       3,
       "fear"
+    ],
+    [
+      "obituary",
+      2,
+      "sadness"
     ],
     [
       "gaza",
@@ -233,6 +238,21 @@
       "anger"
     ],
     [
+      "john",
+      1,
+      "disgust"
+    ],
+    [
+      "advancing",
+      1,
+      "fear"
+    ],
+    [
+      "disabilities",
+      1,
+      "sadness"
+    ],
+    [
       "shameful",
       1,
       "sadness"
@@ -356,35 +376,15 @@
       "focus",
       1,
       "trust"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
-      "rule",
-      1,
-      "fear"
-    ],
-    [
-      "rising",
-      1,
-      "joy"
-    ],
-    [
-      "falling",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 51,
-    "fear": 72,
+    "fear": 69,
     "surprise": 6,
-    "sadness": 21,
-    "disgust": 8,
+    "sadness": 22,
+    "disgust": 9,
     "anger": 98,
     "anticipation": 22
   }
