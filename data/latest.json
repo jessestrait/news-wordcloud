@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-21T09:46:31.732Z",
+  "generated_at": "2026-08-21T10:01:33.876Z",
   "article_count": 50,
   "top_words": [
     [
-      "death",
+      "trump",
       7,
-      "sadness"
+      "anger"
     ],
     [
-      "war",
+      "death",
       6,
-      "anger"
+      "sadness"
     ],
     [
       "attack",
@@ -18,8 +18,8 @@
       "anger"
     ],
     [
-      "trump",
-      6,
+      "war",
+      5,
       "anger"
     ],
     [
@@ -138,11 +138,6 @@
       "trust"
     ],
     [
-      "soldiers",
-      2,
-      "anger"
-    ],
-    [
       "investigation",
       2,
       "anticipation"
@@ -213,11 +208,6 @@
       "fear"
     ],
     [
-      "enemy",
-      2,
-      "anger"
-    ],
-    [
       "deputy",
       2,
       "trust"
@@ -258,8 +248,23 @@
       "trust"
     ],
     [
-      "show",
-      2,
+      "strangers",
+      1,
+      "fear"
+    ],
+    [
+      "deported",
+      1,
+      "fear"
+    ],
+    [
+      "america",
+      1,
+      "sadness"
+    ],
+    [
+      "haven",
+      1,
       "trust"
     ],
     [
@@ -371,21 +376,16 @@
       "advised",
       1,
       "trust"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 51,
-    "fear": 67,
-    "surprise": 6,
+    "fear": 69,
+    "surprise": 5,
     "sadness": 20,
     "disgust": 8,
-    "anger": 99,
-    "anticipation": 21
+    "anger": 95,
+    "anticipation": 20
   }
 }
