@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:15:05.746Z",
+  "generated_at": "2026-08-21T07:30:08.315Z",
   "article_count": 50,
   "top_words": [
     [
@@ -263,9 +263,9 @@
       "trust"
     ],
     [
-      "heart",
+      "focus",
       1,
-      "joy"
+      "trust"
     ],
     [
       "bank",
@@ -273,14 +273,14 @@
       "trust"
     ],
     [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
       "rule",
       1,
       "fear"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
     ],
     [
       "rising",
@@ -379,8 +379,8 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 52,
+    "joy": 23,
+    "trust": 53,
     "fear": 67,
     "surprise": 6,
     "sadness": 20,
