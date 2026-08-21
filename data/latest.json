@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:31:57.383Z",
+  "generated_at": "2026-08-21T10:46:59.203Z",
   "article_count": 50,
   "top_words": [
     [
@@ -248,26 +248,6 @@
       "trust"
     ],
     [
-      "strangers",
-      1,
-      "fear"
-    ],
-    [
-      "deported",
-      1,
-      "fear"
-    ],
-    [
-      "america",
-      1,
-      "sadness"
-    ],
-    [
-      "haven",
-      1,
-      "trust"
-    ],
-    [
       "vigil",
       1,
       "anticipation"
@@ -296,6 +276,26 @@
       "convict",
       1,
       "anger"
+    ],
+    [
+      "strangers",
+      1,
+      "fear"
+    ],
+    [
+      "deported",
+      1,
+      "fear"
+    ],
+    [
+      "america",
+      1,
+      "sadness"
+    ],
+    [
+      "haven",
+      1,
+      "trust"
     ],
     [
       "focus",
