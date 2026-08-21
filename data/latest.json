@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:13:34.537Z",
+  "generated_at": "2026-08-21T04:28:37.056Z",
   "article_count": 50,
   "top_words": [
     [
@@ -126,11 +126,6 @@
       "hospital",
       2,
       "fear"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "missile",
@@ -373,6 +368,11 @@
       "fear"
     ],
     [
+      "prison",
+      1,
+      "anger"
+    ],
+    [
       "intense",
       1,
       "anger"
@@ -385,7 +385,7 @@
     "surprise": 7,
     "sadness": 19,
     "disgust": 9,
-    "anger": 97,
-    "anticipation": 22
+    "anger": 98,
+    "anticipation": 21
   }
 }
