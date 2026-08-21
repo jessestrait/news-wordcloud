@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:16:13.943Z",
+  "generated_at": "2026-08-21T09:31:15.939Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "trust"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
       "killed",
       3,
       "fear"
@@ -98,6 +93,11 @@
       "anger"
     ],
     [
+      "found",
+      2,
+      "joy"
+    ],
+    [
       "closure",
       2,
       "sadness"
@@ -111,11 +111,6 @@
       "cash",
       2,
       "anger"
-    ],
-    [
-      "found",
-      2,
-      "joy"
     ],
     [
       "die",
@@ -136,6 +131,11 @@
       "hospital",
       2,
       "fear"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
     ],
     [
       "soldiers",
@@ -263,6 +263,36 @@
       "trust"
     ],
     [
+      "vigil",
+      1,
+      "anticipation"
+    ],
+    [
+      "guilty",
+      1,
+      "anger"
+    ],
+    [
+      "inciting",
+      1,
+      "anger"
+    ],
+    [
+      "subversion",
+      1,
+      "anger"
+    ],
+    [
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
+      "convict",
+      1,
+      "anger"
+    ],
+    [
       "focus",
       1,
       "trust"
@@ -343,49 +373,19 @@
       "trust"
     ],
     [
-      "vigil",
-      1,
-      "anticipation"
-    ],
-    [
-      "guilty",
-      1,
-      "anger"
-    ],
-    [
-      "inciting",
-      1,
-      "anger"
-    ],
-    [
-      "subversion",
-      1,
-      "anger"
-    ],
-    [
-      "alliance",
-      1,
-      "trust"
-    ],
-    [
       "supporters",
       1,
       "joy"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 53,
+    "trust": 51,
     "fear": 67,
     "surprise": 6,
     "sadness": 20,
     "disgust": 8,
-    "anger": 97,
+    "anger": 99,
     "anticipation": 21
   }
 }
