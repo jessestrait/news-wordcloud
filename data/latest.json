@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:04:51.122Z",
+  "generated_at": "2026-08-21T16:19:53.945Z",
   "article_count": 50,
   "top_words": [
     [
@@ -111,6 +111,11 @@
       "expert",
       2,
       "trust"
+    ],
+    [
+      "gun",
+      2,
+      "anger"
     ],
     [
       "found",
@@ -228,11 +233,6 @@
       "anger"
     ],
     [
-      "threat",
-      2,
-      "anger"
-    ],
-    [
       "shameful",
       1,
       "sadness"
@@ -276,6 +276,31 @@
       "risk",
       1,
       "fear"
+    ],
+    [
+      "believed",
+      1,
+      "trust"
+    ],
+    [
+      "seeking",
+      1,
+      "anticipation"
+    ],
+    [
+      "suspect",
+      1,
+      "fear"
+    ],
+    [
+      "feared",
+      1,
+      "anger"
+    ],
+    [
+      "assassinations",
+      1,
+      "anger"
     ],
     [
       "vigil",
@@ -351,41 +376,16 @@
       "falling",
       1,
       "sadness"
-    ],
-    [
-      "economy",
-      1,
-      "trust"
-    ],
-    [
-      "disputed",
-      1,
-      "anger"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
-      "launched",
-      1,
-      "anticipation"
-    ],
-    [
-      "snake",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 50,
-    "fear": 71,
+    "trust": 51,
+    "fear": 72,
     "surprise": 6,
     "sadness": 21,
     "disgust": 8,
-    "anger": 95,
-    "anticipation": 21
+    "anger": 98,
+    "anticipation": 22
   }
 }
