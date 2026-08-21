@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T14:49:00.402Z",
+  "generated_at": "2026-08-21T15:04:02.916Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,17 +13,17 @@
       "sadness"
     ],
     [
-      "attack",
-      6,
-      "anger"
-    ],
-    [
       "war",
       5,
       "anger"
     ],
     [
       "court",
+      5,
+      "anger"
+    ],
+    [
+      "attack",
       5,
       "anger"
     ],
@@ -101,6 +101,16 @@
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "violence",
+      2,
+      "anger"
+    ],
+    [
+      "expert",
+      2,
+      "trust"
     ],
     [
       "found",
@@ -203,24 +213,9 @@
       "trust"
     ],
     [
-      "kill",
-      2,
-      "fear"
-    ],
-    [
-      "shooting",
-      2,
-      "anger"
-    ],
-    [
       "dying",
       2,
       "sadness"
-    ],
-    [
-      "fellow",
-      2,
-      "trust"
     ],
     [
       "think",
@@ -236,11 +231,6 @@
       "threat",
       2,
       "anger"
-    ],
-    [
-      "school",
-      2,
-      "trust"
     ],
     [
       "shameful",
@@ -261,6 +251,31 @@
       "humanitarian",
       1,
       "surprise"
+    ],
+    [
+      "assault",
+      1,
+      "anger"
+    ],
+    [
+      "allegations",
+      1,
+      "anger"
+    ],
+    [
+      "loyalty",
+      1,
+      "trust"
+    ],
+    [
+      "heighten",
+      1,
+      "fear"
+    ],
+    [
+      "risk",
+      1,
+      "fear"
     ],
     [
       "vigil",
@@ -328,11 +343,6 @@
       "fear"
     ],
     [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
       "rising",
       1,
       "joy"
@@ -366,26 +376,16 @@
       "snake",
       1,
       "fear"
-    ],
-    [
-      "cancer",
-      1,
-      "anger"
-    ],
-    [
-      "usual",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 52,
-    "fear": 70,
+    "trust": 50,
+    "fear": 71,
     "surprise": 6,
     "sadness": 21,
     "disgust": 8,
-    "anger": 96,
+    "anger": 95,
     "anticipation": 21
   }
 }
