@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T05:44:20.704Z",
+  "generated_at": "2026-08-21T05:59:22.704Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "sadness"
     ],
     [
-      "trump",
-      8,
+      "war",
+      6,
       "anger"
     ],
     [
-      "war",
+      "trump",
       6,
       "anger"
     ],
@@ -28,9 +28,9 @@
       "anger"
     ],
     [
-      "military",
-      5,
-      "fear"
+      "charity",
+      4,
+      "joy"
     ],
     [
       "missile",
@@ -48,9 +48,9 @@
       "trust"
     ],
     [
-      "president",
+      "military",
       4,
-      "trust"
+      "fear"
     ],
     [
       "strike",
@@ -78,6 +78,11 @@
       "anticipation"
     ],
     [
+      "president",
+      3,
+      "trust"
+    ],
+    [
       "corruption",
       3,
       "disgust"
@@ -91,6 +96,11 @@
       "threat",
       3,
       "anger"
+    ],
+    [
+      "closure",
+      2,
+      "sadness"
     ],
     [
       "anger",
@@ -161,11 +171,6 @@
       "leaving",
       2,
       "sadness"
-    ],
-    [
-      "charity",
-      2,
-      "joy"
     ],
     [
       "plans",
@@ -268,6 +273,21 @@
       "fear"
     ],
     [
+      "rising",
+      1,
+      "joy"
+    ],
+    [
+      "falling",
+      1,
+      "sadness"
+    ],
+    [
+      "economy",
+      1,
+      "trust"
+    ],
+    [
       "disputed",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "despicable",
       1,
       "anger"
-    ],
-    [
-      "ambassador",
-      1,
-      "trust"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
-    ],
-    [
-      "khan",
-      1,
-      "fear"
-    ],
-    [
-      "deteriorating",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 23,
     "trust": 53,
-    "fear": 70,
-    "surprise": 7,
-    "sadness": 19,
+    "fear": 69,
+    "surprise": 6,
+    "sadness": 21,
     "disgust": 9,
-    "anger": 97,
+    "anger": 95,
     "anticipation": 22
   }
 }
