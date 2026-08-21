@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:13:07.425Z",
+  "generated_at": "2026-08-21T03:28:09.298Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,16 +14,11 @@
     ],
     [
       "war",
-      6,
-      "anger"
-    ],
-    [
-      "court",
       5,
       "anger"
     ],
     [
-      "attack",
+      "court",
       5,
       "anger"
     ],
@@ -38,19 +33,29 @@
       "trust"
     ],
     [
-      "strike",
-      5,
+      "law",
+      4,
+      "trust"
+    ],
+    [
+      "attack",
+      4,
       "anger"
     ],
     [
-      "show",
+      "strike",
       4,
-      "trust"
+      "anger"
     ],
     [
       "die",
       3,
       "fear"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "killed",
@@ -66,11 +71,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "law",
-      3,
-      "trust"
     ],
     [
       "case",
@@ -93,6 +93,16 @@
       "anger"
     ],
     [
+      "show",
+      3,
+      "trust"
+    ],
+    [
+      "found",
+      2,
+      "joy"
+    ],
+    [
       "failure",
       2,
       "fear"
@@ -111,11 +121,6 @@
       "hospital",
       2,
       "fear"
-    ],
-    [
-      "leader",
-      2,
-      "trust"
     ],
     [
       "public",
@@ -278,6 +283,31 @@
       "trust"
     ],
     [
+      "vigil",
+      1,
+      "anticipation"
+    ],
+    [
+      "guilty",
+      1,
+      "anger"
+    ],
+    [
+      "inciting",
+      1,
+      "anger"
+    ],
+    [
+      "subversion",
+      1,
+      "anger"
+    ],
+    [
+      "alliance",
+      1,
+      "trust"
+    ],
+    [
       "supporters",
       1,
       "joy"
@@ -346,46 +376,16 @@
       "escalating",
       1,
       "anger"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
-    ],
-    [
-      "gallows",
-      1,
-      "anger"
-    ],
-    [
-      "hanging",
-      1,
-      "anger"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "penalty",
-      1,
-      "anger"
-    ],
-    [
-      "beasts",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 57,
+    "trust": 59,
     "fear": 69,
     "surprise": 8,
     "sadness": 21,
     "disgust": 9,
-    "anger": 96,
-    "anticipation": 22
+    "anger": 95,
+    "anticipation": 23
   }
 }
