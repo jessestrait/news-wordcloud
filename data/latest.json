@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:58:31.814Z",
+  "generated_at": "2026-08-21T04:13:34.537Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,11 +14,16 @@
     ],
     [
       "war",
-      5,
+      6,
       "anger"
     ],
     [
       "court",
+      5,
+      "anger"
+    ],
+    [
+      "attack",
       5,
       "anger"
     ],
@@ -28,8 +33,8 @@
       "fear"
     ],
     [
-      "president",
-      5,
+      "people",
+      4,
       "trust"
     ],
     [
@@ -38,19 +43,14 @@
       "trust"
     ],
     [
-      "attack",
+      "president",
       4,
-      "anger"
+      "trust"
     ],
     [
       "strike",
       4,
       "anger"
-    ],
-    [
-      "die",
-      3,
-      "fear"
     ],
     [
       "leader",
@@ -78,14 +78,14 @@
       "fear"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "corruption",
       3,
       "disgust"
+    ],
+    [
+      "wildfire",
+      3,
+      "fear"
     ],
     [
       "threat",
@@ -98,19 +98,24 @@
       "trust"
     ],
     [
+      "cash",
+      2,
+      "anger"
+    ],
+    [
       "found",
       2,
       "joy"
     ],
     [
-      "failure",
+      "die",
       2,
       "fear"
     ],
     [
-      "ambassador",
+      "failure",
       2,
-      "trust"
+      "fear"
     ],
     [
       "criminal",
@@ -213,11 +218,6 @@
       "fear"
     ],
     [
-      "continue",
-      2,
-      "trust"
-    ],
-    [
       "enemy",
       2,
       "anger"
@@ -258,11 +258,6 @@
       "anger"
     ],
     [
-      "wildfire",
-      2,
-      "fear"
-    ],
-    [
       "school",
       2,
       "trust"
@@ -278,8 +273,38 @@
       "fear"
     ],
     [
-      "taught",
-      2,
+      "snake",
+      1,
+      "fear"
+    ],
+    [
+      "cancer",
+      1,
+      "anger"
+    ],
+    [
+      "usual",
+      1,
+      "trust"
+    ],
+    [
+      "self",
+      1,
+      "trust"
+    ],
+    [
+      "tumour",
+      1,
+      "fear"
+    ],
+    [
+      "anxiety",
+      1,
+      "anger"
+    ],
+    [
+      "advised",
+      1,
       "trust"
     ],
     [
@@ -328,6 +353,11 @@
       "anger"
     ],
     [
+      "ambassador",
+      1,
+      "trust"
+    ],
+    [
       "jailed",
       1,
       "fear"
@@ -346,46 +376,16 @@
       "intense",
       1,
       "anger"
-    ],
-    [
-      "bombardment",
-      1,
-      "anger"
-    ],
-    [
-      "fired",
-      1,
-      "fear"
-    ],
-    [
-      "family",
-      1,
-      "joy"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "warns",
-      1,
-      "fear"
-    ],
-    [
-      "escalating",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 59,
-    "fear": 69,
-    "surprise": 8,
-    "sadness": 21,
+    "trust": 56,
+    "fear": 71,
+    "surprise": 7,
+    "sadness": 19,
     "disgust": 9,
-    "anger": 95,
-    "anticipation": 23
+    "anger": 97,
+    "anticipation": 22
   }
 }
