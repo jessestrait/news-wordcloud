@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:44:38.588Z",
+  "generated_at": "2026-08-22T10:59:40.676Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,19 +48,24 @@
       "trust"
     ],
     [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "court",
       4,
       "anger"
     ],
     [
+      "world",
+      3,
+      "trust"
+    ],
+    [
       "plans",
       3,
       "anticipation"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "criminal",
@@ -93,6 +98,16 @@
       "disgust"
     ],
     [
+      "shot",
+      2,
+      "anger"
+    ],
+    [
+      "home",
+      2,
+      "joy"
+    ],
+    [
       "trade",
       2,
       "trust"
@@ -104,11 +119,6 @@
     ],
     [
       "officials",
-      2,
-      "trust"
-    ],
-    [
-      "world",
       2,
       "trust"
     ],
@@ -253,6 +263,26 @@
       "trust"
     ],
     [
+      "boxing",
+      1,
+      "anger"
+    ],
+    [
+      "champion",
+      1,
+      "joy"
+    ],
+    [
+      "arriving",
+      1,
+      "anticipation"
+    ],
+    [
+      "house",
+      1,
+      "joy"
+    ],
+    [
       "letter",
       1,
       "anticipation"
@@ -328,11 +358,6 @@
       "surprise"
     ],
     [
-      "home",
-      1,
-      "joy"
-    ],
-    [
       "atrocity",
       1,
       "anger"
@@ -351,41 +376,16 @@
       "global",
       1,
       "anticipation"
-    ],
-    [
-      "created",
-      1,
-      "joy"
-    ],
-    [
-      "afraid",
-      1,
-      "fear"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
-    ],
-    [
-      "john",
-      1,
-      "disgust"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 57,
+    "joy": 29,
+    "trust": 58,
     "fear": 66,
     "surprise": 7,
     "sadness": 18,
     "disgust": 10,
-    "anger": 96,
-    "anticipation": 22
+    "anger": 98,
+    "anticipation": 21
   }
 }
