@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:10:56.183Z",
+  "generated_at": "2026-08-22T03:25:58.605Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,9 +8,14 @@
       "anger"
     ],
     [
-      "death",
+      "war",
       6,
-      "sadness"
+      "anger"
+    ],
+    [
+      "attack",
+      6,
+      "anger"
     ],
     [
       "people",
@@ -18,9 +23,14 @@
       "trust"
     ],
     [
-      "war",
+      "strike",
       5,
       "anger"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
     ],
     [
       "court",
@@ -28,17 +38,12 @@
       "anger"
     ],
     [
-      "attack",
-      5,
-      "anger"
+      "president",
+      4,
+      "trust"
     ],
     [
       "hit",
-      4,
-      "anger"
-    ],
-    [
-      "strike",
       4,
       "anger"
     ],
@@ -78,14 +83,14 @@
       "anticipation"
     ],
     [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "corruption",
       3,
       "disgust"
+    ],
+    [
+      "world",
+      2,
+      "trust"
     ],
     [
       "prison",
@@ -208,11 +213,6 @@
       "fear"
     ],
     [
-      "remains",
-      2,
-      "fear"
-    ],
-    [
       "government",
       2,
       "fear"
@@ -240,6 +240,31 @@
     [
       "crime",
       2,
+      "anger"
+    ],
+    [
+      "vows",
+      1,
+      "joy"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
+      "shopping",
+      1,
+      "surprise"
+    ],
+    [
+      "home",
+      1,
+      "joy"
+    ],
+    [
+      "atrocity",
+      1,
       "anger"
     ],
     [
@@ -351,41 +376,16 @@
       "feared",
       1,
       "anger"
-    ],
-    [
-      "assassinations",
-      1,
-      "anger"
-    ],
-    [
-      "vigil",
-      1,
-      "anticipation"
-    ],
-    [
-      "guilty",
-      1,
-      "anger"
-    ],
-    [
-      "inciting",
-      1,
-      "anger"
-    ],
-    [
-      "subversion",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 51,
-    "fear": 69,
-    "surprise": 6,
-    "sadness": 20,
+    "joy": 25,
+    "trust": 52,
+    "fear": 64,
+    "surprise": 7,
+    "sadness": 18,
     "disgust": 10,
-    "anger": 97,
-    "anticipation": 22
+    "anger": 101,
+    "anticipation": 21
   }
 }
