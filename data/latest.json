@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T09:28:52.224Z",
+  "generated_at": "2026-08-22T09:43:54.157Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,14 +93,14 @@
       "disgust"
     ],
     [
-      "growing",
-      2,
-      "joy"
-    ],
-    [
       "trade",
       2,
       "trust"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "officials",
@@ -253,9 +253,19 @@
       "trust"
     ],
     [
-      "fear",
+      "letter",
       1,
-      "anger"
+      "anticipation"
+    ],
+    [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
+      "wages",
+      1,
+      "joy"
     ],
     [
       "fighting",
@@ -271,11 +281,6 @@
       "dangers",
       1,
       "fear"
-    ],
-    [
-      "letter",
-      1,
-      "anticipation"
     ],
     [
       "structure",
@@ -371,21 +376,16 @@
       "obituary",
       1,
       "sadness"
-    ],
-    [
-      "advancing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 27,
     "trust": 57,
-    "fear": 65,
+    "fear": 66,
     "surprise": 7,
     "sadness": 18,
     "disgust": 10,
-    "anger": 97,
+    "anger": 96,
     "anticipation": 22
   }
 }
