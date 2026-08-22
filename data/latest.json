@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:53:59.294Z",
+  "generated_at": "2026-08-22T00:09:01.167Z",
   "article_count": 50,
   "top_words": [
     [
@@ -30,6 +30,11 @@
     [
       "attack",
       5,
+      "anger"
+    ],
+    [
+      "hit",
+      4,
       "anger"
     ],
     [
@@ -68,17 +73,7 @@
       "joy"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "investigation",
-      3,
-      "anticipation"
-    ],
-    [
-      "happened",
       3,
       "anticipation"
     ],
@@ -93,9 +88,9 @@
       "disgust"
     ],
     [
-      "wildfire",
-      3,
-      "fear"
+      "launched",
+      2,
+      "anticipation"
     ],
     [
       "prison",
@@ -138,6 +133,11 @@
       "sadness"
     ],
     [
+      "wildfires",
+      2,
+      "fear"
+    ],
+    [
       "cash",
       2,
       "anger"
@@ -161,6 +161,11 @@
       "leader",
       2,
       "trust"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "convicted",
@@ -241,6 +246,16 @@
       "crime",
       2,
       "anger"
+    ],
+    [
+      "fat",
+      1,
+      "disgust"
+    ],
+    [
+      "global",
+      1,
+      "anticipation"
     ],
     [
       "afraid",
@@ -361,31 +376,16 @@
       "condemns",
       1,
       "anger"
-    ],
-    [
-      "convict",
-      1,
-      "anger"
-    ],
-    [
-      "strangers",
-      1,
-      "fear"
-    ],
-    [
-      "deported",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 51,
-    "fear": 70,
+    "fear": 69,
     "surprise": 6,
-    "sadness": 21,
-    "disgust": 9,
-    "anger": 98,
-    "anticipation": 22
+    "sadness": 20,
+    "disgust": 10,
+    "anger": 97,
+    "anticipation": 23
   }
 }
