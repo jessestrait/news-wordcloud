@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:56:17.474Z",
+  "generated_at": "2026-08-22T04:11:19.536Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,16 @@
       "attack",
       6,
       "anger"
+    ],
+    [
+      "missile",
+      6,
+      "fear"
+    ],
+    [
+      "military",
+      5,
+      "fear"
     ],
     [
       "people",
@@ -46,16 +56,6 @@
       "hit",
       4,
       "anger"
-    ],
-    [
-      "missile",
-      4,
-      "fear"
-    ],
-    [
-      "military",
-      4,
-      "fear"
     ],
     [
       "criminal",
@@ -243,6 +243,21 @@
       "anger"
     ],
     [
+      "rain",
+      1,
+      "joy"
+    ],
+    [
+      "casualties",
+      1,
+      "anger"
+    ],
+    [
+      "darkens",
+      1,
+      "fear"
+    ],
+    [
       "vows",
       1,
       "joy"
@@ -361,31 +376,16 @@
       "believed",
       1,
       "trust"
-    ],
-    [
-      "seeking",
-      1,
-      "anticipation"
-    ],
-    [
-      "suspect",
-      1,
-      "fear"
-    ],
-    [
-      "feared",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 52,
-    "fear": 64,
+    "fear": 66,
     "surprise": 7,
     "sadness": 18,
     "disgust": 10,
-    "anger": 101,
-    "anticipation": 21
+    "anger": 100,
+    "anticipation": 20
   }
 }
