@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T02:40:33.101Z",
+  "generated_at": "2026-08-22T02:55:35.597Z",
   "article_count": 50,
   "top_words": [
     [
@@ -86,11 +86,6 @@
       "corruption",
       3,
       "disgust"
-    ],
-    [
-      "launched",
-      2,
-      "anticipation"
     ],
     [
       "prison",
@@ -253,9 +248,19 @@
       "disgust"
     ],
     [
+      "gained",
+      1,
+      "joy"
+    ],
+    [
       "global",
       1,
       "anticipation"
+    ],
+    [
+      "created",
+      1,
+      "joy"
     ],
     [
       "afraid",
@@ -371,21 +376,16 @@
       "subversion",
       1,
       "anger"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 24,
     "trust": 51,
     "fear": 69,
     "surprise": 6,
     "sadness": 20,
     "disgust": 10,
     "anger": 97,
-    "anticipation": 23
+    "anticipation": 22
   }
 }
