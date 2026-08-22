@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:12:44.365Z",
+  "generated_at": "2026-08-22T07:27:46.610Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "missile",
-      6,
-      "fear"
-    ],
-    [
       "military",
       5,
       "fear"
@@ -36,6 +31,11 @@
       "strike",
       5,
       "anger"
+    ],
+    [
+      "missile",
+      5,
+      "fear"
     ],
     [
       "death",
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 26,
     "trust": 54,
-    "fear": 67,
+    "fear": 66,
     "surprise": 7,
     "sadness": 18,
     "disgust": 10,
