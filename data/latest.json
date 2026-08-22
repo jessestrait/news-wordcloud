@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-22T08:58:32.903Z",
+  "generated_at": "2026-08-22T09:13:35.044Z",
   "article_count": 50,
   "top_words": [
     [
-      "trump",
-      7,
-      "anger"
+      "people",
+      6,
+      "trust"
     ],
     [
-      "war",
+      "attack",
       6,
       "anger"
     ],
     [
-      "attack",
+      "trump",
       6,
       "anger"
     ],
@@ -23,9 +23,9 @@
       "fear"
     ],
     [
-      "people",
+      "war",
       5,
-      "trust"
+      "anger"
     ],
     [
       "strike",
@@ -43,17 +43,17 @@
       "sadness"
     ],
     [
-      "court",
-      5,
-      "anger"
-    ],
-    [
       "president",
       4,
       "trust"
     ],
     [
       "hit",
+      4,
+      "anger"
+    ],
+    [
+      "court",
       4,
       "anger"
     ],
@@ -93,6 +93,16 @@
       "disgust"
     ],
     [
+      "growing",
+      2,
+      "joy"
+    ],
+    [
+      "trade",
+      2,
+      "trust"
+    ],
+    [
       "officials",
       2,
       "trust"
@@ -106,11 +116,6 @@
       "prison",
       2,
       "anger"
-    ],
-    [
-      "freedom",
-      2,
-      "joy"
     ],
     [
       "gaza",
@@ -178,11 +183,6 @@
       "anticipation"
     ],
     [
-      "convicted",
-      2,
-      "anger"
-    ],
-    [
       "young",
       2,
       "surprise"
@@ -246,6 +246,36 @@
       "crime",
       2,
       "anger"
+    ],
+    [
+      "measure",
+      2,
+      "trust"
+    ],
+    [
+      "fear",
+      1,
+      "anger"
+    ],
+    [
+      "fighting",
+      1,
+      "anger"
+    ],
+    [
+      "obstacles",
+      1,
+      "anger"
+    ],
+    [
+      "dangers",
+      1,
+      "fear"
+    ],
+    [
+      "letter",
+      1,
+      "anticipation"
     ],
     [
       "structure",
@@ -328,6 +358,11 @@
       "fear"
     ],
     [
+      "freedom",
+      1,
+      "joy"
+    ],
+    [
       "john",
       1,
       "disgust"
@@ -341,51 +376,16 @@
       "advancing",
       1,
       "fear"
-    ],
-    [
-      "disabilities",
-      1,
-      "sadness"
-    ],
-    [
-      "shameful",
-      1,
-      "sadness"
-    ],
-    [
-      "killings",
-      1,
-      "anger"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
-    ],
-    [
-      "humanitarian",
-      1,
-      "surprise"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
-    ],
-    [
-      "allegations",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 54,
-    "fear": 66,
+    "trust": 57,
+    "fear": 65,
     "surprise": 7,
     "sadness": 18,
     "disgust": 10,
-    "anger": 98,
-    "anticipation": 21
+    "anger": 97,
+    "anticipation": 22
   }
 }
