@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:59:40.676Z",
+  "generated_at": "2026-08-22T11:14:42.873Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,14 +108,14 @@
       "joy"
     ],
     [
-      "trade",
-      2,
-      "trust"
-    ],
-    [
       "growing",
       2,
       "joy"
+    ],
+    [
+      "trade",
+      2,
+      "trust"
     ],
     [
       "officials",
@@ -283,11 +283,6 @@
       "joy"
     ],
     [
-      "letter",
-      1,
-      "anticipation"
-    ],
-    [
       "missing",
       1,
       "fear"
@@ -311,6 +306,11 @@
       "dangers",
       1,
       "fear"
+    ],
+    [
+      "letter",
+      1,
+      "anticipation"
     ],
     [
       "structure",
