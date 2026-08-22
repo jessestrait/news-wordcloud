@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T05:57:06.066Z",
+  "generated_at": "2026-08-22T06:12:08.078Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "anger"
     ],
     [
+      "plans",
+      3,
+      "anticipation"
+    ],
+    [
       "criminal",
       3,
       "anger"
@@ -86,6 +91,11 @@
       "corruption",
       3,
       "disgust"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "world",
@@ -183,11 +193,6 @@
       "sadness"
     ],
     [
-      "plans",
-      2,
-      "anticipation"
-    ],
-    [
       "iran",
       2,
       "anger"
@@ -241,6 +246,21 @@
       "crime",
       2,
       "anger"
+    ],
+    [
+      "structure",
+      1,
+      "trust"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "revived",
+      1,
+      "anticipation"
     ],
     [
       "rain",
@@ -356,36 +376,16 @@
       "allegations",
       1,
       "anger"
-    ],
-    [
-      "loyalty",
-      1,
-      "trust"
-    ],
-    [
-      "heighten",
-      1,
-      "fear"
-    ],
-    [
-      "risk",
-      1,
-      "fear"
-    ],
-    [
-      "believed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 52,
-    "fear": 66,
+    "trust": 54,
+    "fear": 67,
     "surprise": 7,
     "sadness": 18,
     "disgust": 10,
-    "anger": 100,
-    "anticipation": 20
+    "anger": 98,
+    "anticipation": 21
   }
 }
