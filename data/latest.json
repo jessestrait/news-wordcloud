@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:57:45.632Z",
+  "generated_at": "2026-08-23T13:12:47.543Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,11 @@
       "joy"
     ],
     [
+      "ambassador",
+      2,
+      "trust"
+    ],
+    [
       "obituary",
       2,
       "sadness"
@@ -131,11 +136,6 @@
       "force",
       2,
       "anger"
-    ],
-    [
-      "ambassador",
-      2,
-      "trust"
     ],
     [
       "anger",
@@ -288,6 +288,16 @@
       "fear"
     ],
     [
+      "withdraws",
+      1,
+      "sadness"
+    ],
+    [
+      "diplomatic",
+      1,
+      "trust"
+    ],
+    [
       "chaplain",
       1,
       "trust"
@@ -336,16 +346,6 @@
       "attacked",
       1,
       "anger"
-    ],
-    [
-      "withdraws",
-      1,
-      "sadness"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
     ],
     [
       "blamed",
