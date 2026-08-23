@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T01:21:45.184Z",
+  "generated_at": "2026-08-23T01:36:47.554Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,9 +118,9 @@
       "trust"
     ],
     [
-      "mortality",
+      "warns",
       2,
-      "anger"
+      "fear"
     ],
     [
       "school",
@@ -273,6 +273,11 @@
       "fear"
     ],
     [
+      "losses",
+      1,
+      "anger"
+    ],
+    [
       "wounded",
       1,
       "anger"
@@ -371,17 +376,12 @@
       "structure",
       1,
       "trust"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
     "trust": 59,
-    "fear": 66,
+    "fear": 67,
     "surprise": 8,
     "sadness": 20,
     "disgust": 11,
