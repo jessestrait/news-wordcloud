@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:53:00.329Z",
+  "generated_at": "2026-08-23T04:08:02.734Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "killed",
+      5,
+      "fear"
+    ],
+    [
       "military",
       5,
       "fear"
@@ -38,14 +43,14 @@
       "anger"
     ],
     [
+      "plan",
+      4,
+      "anticipation"
+    ],
+    [
       "president",
       4,
       "trust"
-    ],
-    [
-      "killed",
-      4,
-      "fear"
     ],
     [
       "court",
@@ -81,11 +86,6 @@
       "world",
       3,
       "trust"
-    ],
-    [
-      "plans",
-      3,
-      "anticipation"
     ],
     [
       "hit",
@@ -238,11 +238,6 @@
       "fear"
     ],
     [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
       "happened",
       2,
       "anticipation"
@@ -280,6 +275,36 @@
     [
       "deputy",
       2,
+      "trust"
+    ],
+    [
+      "accused",
+      1,
+      "anger"
+    ],
+    [
+      "assassinating",
+      1,
+      "anger"
+    ],
+    [
+      "friends",
+      1,
+      "joy"
+    ],
+    [
+      "shocked",
+      1,
+      "anger"
+    ],
+    [
+      "bomb",
+      1,
+      "anger"
+    ],
+    [
+      "grit",
+      1,
       "trust"
     ],
     [
@@ -351,41 +376,16 @@
       "complained",
       1,
       "anger"
-    ],
-    [
-      "feeling",
-      1,
-      "anger"
-    ],
-    [
-      "father",
-      1,
-      "trust"
-    ],
-    [
-      "continued",
-      1,
-      "trust"
-    ],
-    [
-      "boxing",
-      1,
-      "anger"
-    ],
-    [
-      "champion",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 58,
-    "fear": 69,
+    "joy": 31,
+    "trust": 57,
+    "fear": 68,
     "surprise": 10,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 10,
-    "anger": 103,
-    "anticipation": 22
+    "anger": 105,
+    "anticipation": 23
   }
 }
