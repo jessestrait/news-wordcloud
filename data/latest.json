@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-23T06:54:39.548Z",
+  "generated_at": "2026-08-23T07:09:41.754Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       9,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "missile",
@@ -21,11 +26,6 @@
       "death",
       6,
       "sadness"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "killed",
@@ -56,6 +56,11 @@
       "court",
       4,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "found",
@@ -116,6 +121,11 @@
       "corruption",
       3,
       "disgust"
+    ],
+    [
+      "change",
+      2,
+      "fear"
     ],
     [
       "deadly",
@@ -268,14 +278,34 @@
       "fear"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "deputy",
       2,
       "trust"
+    ],
+    [
+      "devastating",
+      1,
+      "anger"
+    ],
+    [
+      "earthquake",
+      1,
+      "anger"
+    ],
+    [
+      "reconstruction",
+      1,
+      "anticipation"
+    ],
+    [
+      "delayed",
+      1,
+      "anger"
+    ],
+    [
+      "pandemic",
+      1,
+      "fear"
     ],
     [
       "accused",
@@ -346,46 +376,16 @@
       "tariffs",
       1,
       "anger"
-    ],
-    [
-      "goods",
-      1,
-      "surprise"
-    ],
-    [
-      "allies",
-      1,
-      "trust"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "leaves",
-      1,
-      "sadness"
-    ],
-    [
-      "highest",
-      1,
-      "fear"
-    ],
-    [
-      "complained",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 57,
-    "fear": 68,
+    "trust": 58,
+    "fear": 71,
     "surprise": 10,
     "sadness": 17,
     "disgust": 10,
-    "anger": 105,
-    "anticipation": 23
+    "anger": 107,
+    "anticipation": 24
   }
 }
