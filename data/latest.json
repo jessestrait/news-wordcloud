@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:31:10.309Z",
+  "generated_at": "2026-08-23T19:46:12.767Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,12 +43,12 @@
       "anger"
     ],
     [
-      "president",
+      "trade",
       4,
       "trust"
     ],
     [
-      "trade",
+      "president",
       4,
       "trust"
     ],
@@ -63,12 +63,12 @@
       "anger"
     ],
     [
-      "iran",
+      "trump",
       3,
       "anger"
     ],
     [
-      "trump",
+      "iran",
       3,
       "anger"
     ],
@@ -103,6 +103,16 @@
       "joy"
     ],
     [
+      "tariffs",
+      2,
+      "anger"
+    ],
+    [
+      "force",
+      2,
+      "anger"
+    ],
+    [
       "letter",
       2,
       "anticipation"
@@ -126,16 +136,6 @@
       "global",
       2,
       "anticipation"
-    ],
-    [
-      "tariffs",
-      2,
-      "anger"
-    ],
-    [
-      "force",
-      2,
-      "anger"
     ],
     [
       "anger",
@@ -293,6 +293,16 @@
       "fear"
     ],
     [
+      "lashes",
+      1,
+      "anger"
+    ],
+    [
+      "attacked",
+      1,
+      "anger"
+    ],
+    [
       "associated",
       1,
       "trust"
@@ -364,16 +374,6 @@
     ],
     [
       "trees",
-      1,
-      "anger"
-    ],
-    [
-      "inferno",
-      1,
-      "anger"
-    ],
-    [
-      "lashes",
       1,
       "anger"
     ]
