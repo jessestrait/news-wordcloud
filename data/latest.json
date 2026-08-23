@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:42:19.578Z",
+  "generated_at": "2026-08-23T11:57:21.383Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,9 +43,9 @@
       "anger"
     ],
     [
-      "trump",
+      "president",
       4,
-      "anger"
+      "trust"
     ],
     [
       "trade",
@@ -58,24 +58,24 @@
       "anger"
     ],
     [
-      "plan",
-      4,
-      "anticipation"
-    ],
-    [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "court",
       4,
+      "anger"
+    ],
+    [
+      "trump",
+      3,
       "anger"
     ],
     [
       "iran",
       3,
       "anger"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "found",
@@ -111,6 +111,11 @@
       "charity",
       3,
       "joy"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
     ],
     [
       "global",
@@ -293,6 +298,11 @@
       "fear"
     ],
     [
+      "destroying",
+      1,
+      "anger"
+    ],
+    [
       "pine",
       1,
       "sadness"
@@ -366,26 +376,16 @@
       "bases",
       1,
       "trust"
-    ],
-    [
-      "reconstruction",
-      1,
-      "anticipation"
-    ],
-    [
-      "devastated",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 59,
-    "fear": 69,
+    "trust": 58,
+    "fear": 68,
     "surprise": 10,
     "sadness": 19,
     "disgust": 6,
-    "anger": 117,
-    "anticipation": 25
+    "anger": 116,
+    "anticipation": 24
   }
 }
