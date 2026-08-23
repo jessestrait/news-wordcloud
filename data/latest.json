@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:57:21.383Z",
+  "generated_at": "2026-08-23T12:12:23.360Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "fear"
     ],
     [
-      "death",
-      6,
-      "sadness"
-    ],
-    [
       "people",
       6,
       "trust"
@@ -31,6 +26,11 @@
       "killed",
       5,
       "fear"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
     ],
     [
       "military",
@@ -83,11 +83,6 @@
       "joy"
     ],
     [
-      "collapse",
-      3,
-      "fear"
-    ],
-    [
       "young",
       3,
       "surprise"
@@ -111,6 +106,11 @@
       "charity",
       3,
       "joy"
+    ],
+    [
+      "obituary",
+      2,
+      "sadness"
     ],
     [
       "risk",
@@ -196,11 +196,6 @@
       "home",
       2,
       "joy"
-    ],
-    [
-      "officials",
-      2,
-      "trust"
     ],
     [
       "prison",
@@ -293,9 +288,9 @@
       "fear"
     ],
     [
-      "landslide",
-      2,
-      "fear"
+      "chaplain",
+      1,
+      "trust"
     ],
     [
       "destroying",
@@ -376,12 +371,17 @@
       "bases",
       1,
       "trust"
+    ],
+    [
+      "reconstruction",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 58,
-    "fear": 68,
+    "trust": 57,
+    "fear": 65,
     "surprise": 10,
     "sadness": 19,
     "disgust": 6,
