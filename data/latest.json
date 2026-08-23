@@ -1,10 +1,20 @@
 {
-  "generated_at": "2026-08-23T03:07:35.769Z",
+  "generated_at": "2026-08-23T03:22:37.711Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
+      9,
+      "anger"
+    ],
+    [
+      "missile",
       7,
+      "fear"
+    ],
+    [
+      "war",
+      6,
       "anger"
     ],
     [
@@ -23,19 +33,14 @@
       "fear"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "strike",
       5,
       "anger"
     ],
     [
-      "missile",
-      5,
-      "fear"
+      "president",
+      4,
+      "trust"
     ],
     [
       "killed",
@@ -51,6 +56,16 @@
       "found",
       3,
       "joy"
+    ],
+    [
+      "collapse",
+      3,
+      "fear"
+    ],
+    [
+      "trade",
+      3,
+      "trust"
     ],
     [
       "young",
@@ -73,11 +88,6 @@
       "anticipation"
     ],
     [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -86,11 +96,6 @@
       "criminal",
       3,
       "anger"
-    ],
-    [
-      "law",
-      3,
-      "trust"
     ],
     [
       "trump",
@@ -113,9 +118,24 @@
       "disgust"
     ],
     [
+      "deadly",
+      2,
+      "anger"
+    ],
+    [
+      "shopping",
+      2,
+      "surprise"
+    ],
+    [
       "seal",
       2,
       "trust"
+    ],
+    [
+      "losses",
+      2,
+      "anger"
     ],
     [
       "warns",
@@ -126,6 +146,11 @@
       "school",
       2,
       "trust"
+    ],
+    [
+      "vows",
+      2,
+      "joy"
     ],
     [
       "shot",
@@ -141,11 +166,6 @@
       "growing",
       2,
       "joy"
-    ],
-    [
-      "trade",
-      2,
-      "trust"
     ],
     [
       "officials",
@@ -176,6 +196,16 @@
       "gun",
       2,
       "anger"
+    ],
+    [
+      "law",
+      2,
+      "trust"
+    ],
+    [
+      "focus",
+      2,
+      "trust"
     ],
     [
       "closure",
@@ -248,19 +278,24 @@
       "fear"
     ],
     [
-      "collapse",
-      2,
-      "fear"
-    ],
-    [
       "deputy",
       2,
       "trust"
     ],
     [
-      "dying",
-      2,
-      "sadness"
+      "delivery",
+      1,
+      "anticipation"
+    ],
+    [
+      "system",
+      1,
+      "trust"
+    ],
+    [
+      "horror",
+      1,
+      "anger"
     ],
     [
       "fatality",
@@ -273,11 +308,6 @@
       "fear"
     ],
     [
-      "losses",
-      1,
-      "anger"
-    ],
-    [
       "wounded",
       1,
       "anger"
@@ -286,6 +316,26 @@
       "assail",
       1,
       "anger"
+    ],
+    [
+      "tariffs",
+      1,
+      "anger"
+    ],
+    [
+      "goods",
+      1,
+      "surprise"
+    ],
+    [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
     ],
     [
       "leaves",
@@ -326,66 +376,16 @@
       "champion",
       1,
       "joy"
-    ],
-    [
-      "arriving",
-      1,
-      "anticipation"
-    ],
-    [
-      "house",
-      1,
-      "joy"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
-    ],
-    [
-      "wages",
-      1,
-      "joy"
-    ],
-    [
-      "fighting",
-      1,
-      "anger"
-    ],
-    [
-      "obstacles",
-      1,
-      "anger"
-    ],
-    [
-      "dangers",
-      1,
-      "fear"
-    ],
-    [
-      "letter",
-      1,
-      "anticipation"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
-    ],
-    [
-      "structure",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 59,
-    "fear": 67,
-    "surprise": 8,
-    "sadness": 20,
-    "disgust": 11,
-    "anger": 97,
-    "anticipation": 21
+    "trust": 58,
+    "fear": 69,
+    "surprise": 10,
+    "sadness": 18,
+    "disgust": 10,
+    "anger": 103,
+    "anticipation": 22
   }
 }
