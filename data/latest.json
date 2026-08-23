@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-08-23T08:55:43.811Z",
+  "generated_at": "2026-08-23T09:10:46.311Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      9,
+      10,
       "anger"
-    ],
-    [
-      "people",
-      7,
-      "trust"
     ],
     [
       "missile",
@@ -28,6 +23,11 @@
       "sadness"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
       "killed",
       5,
       "fear"
@@ -40,6 +40,11 @@
     [
       "strike",
       5,
+      "anger"
+    ],
+    [
+      "hit",
+      4,
       "anger"
     ],
     [
@@ -58,9 +63,9 @@
       "anger"
     ],
     [
-      "government",
+      "iran",
       3,
-      "fear"
+      "anger"
     ],
     [
       "found",
@@ -93,11 +98,6 @@
       "trust"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "criminal",
       3,
       "anger"
@@ -123,9 +123,19 @@
       "disgust"
     ],
     [
-      "change",
+      "anger",
       2,
-      "fear"
+      "anger"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
+      "rising",
+      2,
+      "joy"
     ],
     [
       "deadly",
@@ -258,11 +268,6 @@
       "sadness"
     ],
     [
-      "iran",
-      2,
-      "anger"
-    ],
-    [
       "baby",
       2,
       "joy"
@@ -283,14 +288,29 @@
       "trust"
     ],
     [
-      "devastating",
+      "blamed",
       1,
       "anger"
     ],
     [
-      "earthquake",
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
+      "retaliation",
       1,
       "anger"
+    ],
+    [
+      "bases",
+      1,
+      "trust"
     ],
     [
       "reconstruction",
@@ -298,14 +318,14 @@
       "anticipation"
     ],
     [
-      "delayed",
+      "devastated",
       1,
       "anger"
     ],
     [
-      "pandemic",
+      "earthquake",
       1,
-      "fear"
+      "anger"
     ],
     [
       "accused",
@@ -356,36 +376,16 @@
       "fatality",
       1,
       "fear"
-    ],
-    [
-      "flu",
-      1,
-      "fear"
-    ],
-    [
-      "wounded",
-      1,
-      "anger"
-    ],
-    [
-      "assail",
-      1,
-      "anger"
-    ],
-    [
-      "tariffs",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 32,
     "trust": 58,
-    "fear": 71,
-    "surprise": 10,
+    "fear": 66,
+    "surprise": 11,
     "sadness": 17,
     "disgust": 10,
-    "anger": 107,
-    "anticipation": 24
+    "anger": 112,
+    "anticipation": 26
   }
 }
