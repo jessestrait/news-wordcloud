@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T10:56:57.059Z",
+  "generated_at": "2026-08-23T11:11:59.754Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,6 +113,11 @@
       "joy"
     ],
     [
+      "global",
+      2,
+      "anticipation"
+    ],
+    [
       "ambassador",
       2,
       "trust"
@@ -174,11 +179,6 @@
     ],
     [
       "home",
-      2,
-      "joy"
-    ],
-    [
-      "growing",
       2,
       "joy"
     ],
@@ -258,6 +258,11 @@
       "anticipation"
     ],
     [
+      "fire",
+      2,
+      "fear"
+    ],
+    [
       "leaving",
       2,
       "sadness"
@@ -276,6 +281,36 @@
       "landslide",
       2,
       "fear"
+    ],
+    [
+      "pine",
+      1,
+      "sadness"
+    ],
+    [
+      "grenades",
+      1,
+      "fear"
+    ],
+    [
+      "guide",
+      1,
+      "trust"
+    ],
+    [
+      "swamps",
+      1,
+      "fear"
+    ],
+    [
+      "trees",
+      1,
+      "anger"
+    ],
+    [
+      "inferno",
+      1,
+      "anger"
     ],
     [
       "withdraws",
@@ -341,51 +376,16 @@
       "friends",
       1,
       "joy"
-    ],
-    [
-      "shocked",
-      1,
-      "anger"
-    ],
-    [
-      "bomb",
-      1,
-      "anger"
-    ],
-    [
-      "grit",
-      1,
-      "trust"
-    ],
-    [
-      "delivery",
-      1,
-      "anticipation"
-    ],
-    [
-      "system",
-      1,
-      "trust"
-    ],
-    [
-      "horror",
-      1,
-      "anger"
-    ],
-    [
-      "fatality",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 58,
-    "fear": 66,
+    "joy": 31,
+    "trust": 59,
+    "fear": 69,
     "surprise": 10,
-    "sadness": 18,
-    "disgust": 8,
-    "anger": 110,
-    "anticipation": 24
+    "sadness": 19,
+    "disgust": 7,
+    "anger": 111,
+    "anticipation": 25
   }
 }
