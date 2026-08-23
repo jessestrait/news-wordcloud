@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:11:59.754Z",
+  "generated_at": "2026-08-23T11:27:02.150Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
       "missile",
       7,
       "fear"
-    ],
-    [
-      "war",
-      6,
-      "anger"
     ],
     [
       "death",
@@ -41,6 +41,16 @@
       "strike",
       5,
       "anger"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
+    ],
+    [
+      "trade",
+      4,
+      "trust"
     ],
     [
       "hit",
@@ -78,11 +88,6 @@
       "fear"
     ],
     [
-      "trade",
-      3,
-      "trust"
-    ],
-    [
       "young",
       3,
       "surprise"
@@ -103,11 +108,6 @@
       "anger"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "charity",
       3,
       "joy"
@@ -116,6 +116,16 @@
       "global",
       2,
       "anticipation"
+    ],
+    [
+      "tariffs",
+      2,
+      "anger"
+    ],
+    [
+      "force",
+      2,
+      "anger"
     ],
     [
       "ambassador",
@@ -313,6 +323,16 @@
       "anger"
     ],
     [
+      "lashes",
+      1,
+      "anger"
+    ],
+    [
+      "attacked",
+      1,
+      "anger"
+    ],
+    [
       "withdraws",
       1,
       "sadness"
@@ -356,26 +376,6 @@
       "devastated",
       1,
       "anger"
-    ],
-    [
-      "earthquake",
-      1,
-      "anger"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "assassinating",
-      1,
-      "anger"
-    ],
-    [
-      "friends",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
@@ -384,8 +384,8 @@
     "fear": 69,
     "surprise": 10,
     "sadness": 19,
-    "disgust": 7,
-    "anger": 111,
+    "disgust": 6,
+    "anger": 117,
     "anticipation": 25
   }
 }
