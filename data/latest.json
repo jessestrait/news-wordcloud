@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-23T01:06:42.832Z",
+  "generated_at": "2026-08-23T01:21:45.184Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       7,
       "anger"
+    ],
+    [
+      "death",
+      6,
+      "sadness"
     ],
     [
       "people",
@@ -33,24 +38,19 @@
       "fear"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "killed",
       4,
       "fear"
     ],
     [
-      "trump",
+      "court",
       4,
       "anger"
     ],
     [
-      "court",
-      4,
-      "anger"
+      "found",
+      3,
+      "joy"
     ],
     [
       "young",
@@ -93,6 +93,11 @@
       "trust"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "charity",
       3,
       "joy"
@@ -106,6 +111,16 @@
       "corruption",
       3,
       "disgust"
+    ],
+    [
+      "seal",
+      2,
+      "trust"
+    ],
+    [
+      "mortality",
+      2,
+      "anger"
     ],
     [
       "school",
@@ -161,11 +176,6 @@
       "gun",
       2,
       "anger"
-    ],
-    [
-      "found",
-      2,
-      "joy"
     ],
     [
       "closure",
@@ -251,6 +261,16 @@
       "dying",
       2,
       "sadness"
+    ],
+    [
+      "fatality",
+      1,
+      "fear"
+    ],
+    [
+      "flu",
+      1,
+      "fear"
     ],
     [
       "wounded",
@@ -356,36 +376,16 @@
       "strait",
       1,
       "fear"
-    ],
-    [
-      "revived",
-      1,
-      "anticipation"
-    ],
-    [
-      "rain",
-      1,
-      "joy"
-    ],
-    [
-      "casualties",
-      1,
-      "anger"
-    ],
-    [
-      "darkens",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 58,
+    "joy": 30,
+    "trust": 59,
     "fear": 66,
     "surprise": 8,
-    "sadness": 19,
+    "sadness": 20,
     "disgust": 11,
-    "anger": 98,
+    "anger": 97,
     "anticipation": 21
   }
 }
