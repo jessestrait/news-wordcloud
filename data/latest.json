@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T14:43:50.869Z",
+  "generated_at": "2026-08-23T14:58:52.877Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,12 +63,12 @@
       "anger"
     ],
     [
-      "trump",
+      "iran",
       3,
       "anger"
     ],
     [
-      "iran",
+      "trump",
       3,
       "anger"
     ],
@@ -288,6 +288,31 @@
       "fear"
     ],
     [
+      "blamed",
+      1,
+      "anger"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
+      "retaliation",
+      1,
+      "anger"
+    ],
+    [
+      "bases",
+      1,
+      "trust"
+    ],
+    [
       "withdraws",
       1,
       "sadness"
@@ -346,31 +371,6 @@
       "attacked",
       1,
       "anger"
-    ],
-    [
-      "blamed",
-      1,
-      "anger"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "bases",
-      1,
-      "trust"
     ],
     [
       "reconstruction",
