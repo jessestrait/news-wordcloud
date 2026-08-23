@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T10:26:35.839Z",
+  "generated_at": "2026-08-23T10:41:38.241Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,14 +113,9 @@
       "joy"
     ],
     [
-      "investigation",
-      3,
-      "anticipation"
-    ],
-    [
-      "corruption",
-      3,
-      "disgust"
+      "ambassador",
+      2,
+      "trust"
     ],
     [
       "anger",
@@ -258,7 +253,7 @@
       "fear"
     ],
     [
-      "happened",
+      "investigation",
       2,
       "anticipation"
     ],
@@ -283,8 +278,13 @@
       "fear"
     ],
     [
-      "deputy",
-      2,
+      "withdraws",
+      1,
+      "sadness"
+    ],
+    [
+      "diplomatic",
+      1,
       "trust"
     ],
     [
@@ -382,10 +382,10 @@
     "joy": 32,
     "trust": 58,
     "fear": 66,
-    "surprise": 11,
-    "sadness": 17,
-    "disgust": 10,
-    "anger": 112,
-    "anticipation": 26
+    "surprise": 10,
+    "sadness": 18,
+    "disgust": 8,
+    "anger": 110,
+    "anticipation": 24
   }
 }
