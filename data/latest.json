@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:39:31.068Z",
+  "generated_at": "2026-08-24T11:54:33.357Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,13 +8,18 @@
       "anger"
     ],
     [
+      "missile",
+      7,
+      "fear"
+    ],
+    [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
-      "missile",
-      7,
+      "fire",
+      5,
       "fear"
     ],
     [
@@ -28,24 +33,19 @@
       "trust"
     ],
     [
-      "killed",
+      "hit",
       5,
-      "fear"
+      "anger"
     ],
     [
-      "fire",
-      4,
+      "killed",
+      5,
       "fear"
     ],
     [
       "plan",
       4,
       "anticipation"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "death",
@@ -56,11 +56,6 @@
       "court",
       4,
       "anger"
-    ],
-    [
-      "warns",
-      3,
-      "fear"
     ],
     [
       "prison",
@@ -188,6 +183,11 @@
       "anger"
     ],
     [
+      "warns",
+      2,
+      "fear"
+    ],
+    [
       "school",
       2,
       "trust"
@@ -278,14 +278,14 @@
       "surprise"
     ],
     [
-      "fight",
-      1,
-      "anger"
-    ],
-    [
       "sharing",
       1,
       "joy"
+    ],
+    [
+      "started",
+      1,
+      "anticipation"
     ],
     [
       "wild",
@@ -385,7 +385,7 @@
     "surprise": 8,
     "sadness": 18,
     "disgust": 3,
-    "anger": 117,
-    "anticipation": 26
+    "anger": 116,
+    "anticipation": 27
   }
 }
