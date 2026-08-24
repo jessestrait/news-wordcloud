@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T04:20:53.952Z",
+  "generated_at": "2026-08-24T04:35:55.795Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,14 +38,14 @@
       "sadness"
     ],
     [
+      "fire",
+      4,
+      "fear"
+    ],
+    [
       "hit",
       4,
       "anger"
-    ],
-    [
-      "plan",
-      4,
-      "anticipation"
     ],
     [
       "court",
@@ -68,6 +68,11 @@
       "trust"
     ],
     [
+      "plan",
+      3,
+      "anticipation"
+    ],
+    [
       "found",
       3,
       "joy"
@@ -86,11 +91,6 @@
       "criminal",
       3,
       "anger"
-    ],
-    [
-      "charity",
-      3,
-      "joy"
     ],
     [
       "leaving",
@@ -248,9 +248,9 @@
       "trust"
     ],
     [
-      "closure",
+      "charity",
       2,
-      "sadness"
+      "joy"
     ],
     [
       "wildfires",
@@ -283,9 +283,24 @@
       "anticipation"
     ],
     [
-      "fire",
-      2,
-      "fear"
+      "diary",
+      1,
+      "joy"
+    ],
+    [
+      "linger",
+      1,
+      "anticipation"
+    ],
+    [
+      "shaped",
+      1,
+      "trust"
+    ],
+    [
+      "damage",
+      1,
+      "anger"
     ],
     [
       "prepares",
@@ -361,31 +376,16 @@
       "power",
       1,
       "anticipation"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "bases",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 57,
-    "fear": 56,
+    "fear": 58,
     "surprise": 8,
-    "sadness": 21,
+    "sadness": 20,
     "disgust": 3,
-    "anger": 111,
-    "anticipation": 25
+    "anger": 112,
+    "anticipation": 24
   }
 }
