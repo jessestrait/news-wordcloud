@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-24T03:05:08.527Z",
+  "generated_at": "2026-08-24T03:20:11.028Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      10,
+      9,
       "anger"
     ],
     [
@@ -13,14 +13,19 @@
       "anger"
     ],
     [
-      "missile",
+      "people",
       7,
-      "fear"
+      "trust"
     ],
     [
-      "people",
+      "president",
       6,
       "trust"
+    ],
+    [
+      "missile",
+      6,
+      "fear"
     ],
     [
       "killed",
@@ -38,22 +43,22 @@
       "fear"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
       "trade",
       4,
       "trust"
     ],
     [
-      "president",
+      "iran",
       4,
-      "trust"
+      "anger"
     ],
     [
       "hit",
+      4,
+      "anger"
+    ],
+    [
+      "strike",
       4,
       "anger"
     ],
@@ -64,11 +69,6 @@
     ],
     [
       "trump",
-      3,
-      "anger"
-    ],
-    [
-      "iran",
       3,
       "anger"
     ],
@@ -108,14 +108,14 @@
       "anger"
     ],
     [
-      "force",
-      2,
-      "anger"
-    ],
-    [
       "letter",
       2,
       "anticipation"
+    ],
+    [
+      "threat",
+      2,
+      "anger"
     ],
     [
       "ambassador",
@@ -278,19 +278,24 @@
       "fear"
     ],
     [
-      "leaving",
-      2,
-      "sadness"
-    ],
-    [
       "baby",
       2,
       "joy"
     ],
     [
-      "quake",
-      2,
-      "fear"
+      "planning",
+      1,
+      "trust"
+    ],
+    [
+      "execution",
+      1,
+      "anger"
+    ],
+    [
+      "sabotage",
+      1,
+      "anger"
     ],
     [
       "lashes",
@@ -299,6 +304,11 @@
     ],
     [
       "attacked",
+      1,
+      "anger"
+    ],
+    [
+      "force",
       1,
       "anger"
     ],
@@ -333,6 +343,11 @@
       "trust"
     ],
     [
+      "problems",
+      1,
+      "fear"
+    ],
+    [
       "withdraws",
       1,
       "sadness"
@@ -361,31 +376,16 @@
       "grenades",
       1,
       "fear"
-    ],
-    [
-      "guide",
-      1,
-      "trust"
-    ],
-    [
-      "swamps",
-      1,
-      "fear"
-    ],
-    [
-      "trees",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 57,
-    "fear": 64,
-    "surprise": 10,
-    "sadness": 19,
-    "disgust": 6,
+    "joy": 30,
+    "trust": 61,
+    "fear": 57,
+    "surprise": 9,
+    "sadness": 18,
+    "disgust": 5,
     "anger": 116,
-    "anticipation": 25
+    "anticipation": 24
   }
 }
