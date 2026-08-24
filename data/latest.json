@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:54:33.357Z",
+  "generated_at": "2026-08-24T11:54:50.765Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "trust"
     ],
     [
-      "hit",
-      5,
-      "anger"
-    ],
-    [
       "killed",
       5,
       "fear"
@@ -48,6 +43,16 @@
       "anticipation"
     ],
     [
+      "threat",
+      4,
+      "anger"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
       "death",
       4,
       "sadness"
@@ -56,6 +61,16 @@
       "court",
       4,
       "anger"
+    ],
+    [
+      "iran",
+      3,
+      "anger"
+    ],
+    [
+      "vows",
+      3,
+      "joy"
     ],
     [
       "prison",
@@ -76,11 +91,6 @@
       "trade",
       3,
       "trust"
-    ],
-    [
-      "threat",
-      3,
-      "anger"
     ],
     [
       "military",
@@ -118,11 +128,6 @@
       "anticipation"
     ],
     [
-      "iran",
-      2,
-      "anger"
-    ],
-    [
       "ambassador",
       2,
       "trust"
@@ -146,11 +151,6 @@
       "anger",
       2,
       "anger"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "rising",
@@ -191,11 +191,6 @@
       "school",
       2,
       "trust"
-    ],
-    [
-      "vows",
-      2,
-      "joy"
     ],
     [
       "world",
@@ -271,6 +266,21 @@
       "investigation",
       2,
       "anticipation"
+    ],
+    [
+      "retaliate",
+      1,
+      "anger"
+    ],
+    [
+      "nations",
+      1,
+      "trust"
+    ],
+    [
+      "credible",
+      1,
+      "trust"
     ],
     [
       "outrageous",
@@ -366,26 +376,16 @@
       "berlin",
       1,
       "joy"
-    ],
-    [
-      "rows",
-      1,
-      "anger"
-    ],
-    [
-      "seize",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 53,
+    "joy": 31,
+    "trust": 54,
     "fear": 59,
     "surprise": 8,
     "sadness": 18,
     "disgust": 3,
-    "anger": 116,
-    "anticipation": 27
+    "anger": 115,
+    "anticipation": 26
   }
 }
