@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T04:05:37.074Z",
+  "generated_at": "2026-08-24T04:20:39.345Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "trust"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "missile",
       6,
       "fear"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "killed",
@@ -38,29 +38,14 @@
       "sadness"
     ],
     [
-      "military",
-      5,
-      "fear"
-    ],
-    [
-      "trade",
-      4,
-      "trust"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
       "hit",
       4,
       "anger"
     ],
     [
-      "strike",
+      "plan",
       4,
-      "anger"
+      "anticipation"
     ],
     [
       "court",
@@ -73,14 +58,14 @@
       "joy"
     ],
     [
-      "trump",
+      "black",
       3,
-      "anger"
+      "sadness"
     ],
     [
-      "plan",
+      "trade",
       3,
-      "anticipation"
+      "trust"
     ],
     [
       "found",
@@ -91,6 +76,11 @@
       "young",
       3,
       "surprise"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "criminal",
@@ -108,6 +98,11 @@
       "sadness"
     ],
     [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "tariffs",
       2,
       "anger"
@@ -116,6 +111,11 @@
       "letter",
       2,
       "anticipation"
+    ],
+    [
+      "iran",
+      2,
+      "anger"
     ],
     [
       "threat",
@@ -218,6 +218,11 @@
       "anger"
     ],
     [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
       "violence",
       2,
       "anger"
@@ -298,6 +303,21 @@
       "anger"
     ],
     [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
+      "rows",
+      1,
+      "anger"
+    ],
+    [
+      "seize",
+      1,
+      "fear"
+    ],
+    [
       "planning",
       1,
       "trust"
@@ -356,36 +376,16 @@
       "bases",
       1,
       "trust"
-    ],
-    [
-      "problems",
-      1,
-      "fear"
-    ],
-    [
-      "withdraws",
-      1,
-      "sadness"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "chaplain",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 61,
-    "fear": 58,
+    "joy": 28,
+    "trust": 57,
+    "fear": 56,
     "surprise": 8,
-    "sadness": 19,
+    "sadness": 21,
     "disgust": 3,
-    "anger": 117,
-    "anticipation": 24
+    "anger": 111,
+    "anticipation": 25
   }
 }
