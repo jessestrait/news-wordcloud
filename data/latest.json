@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:56:36.135Z",
+  "generated_at": "2026-08-24T15:11:39.869Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anger"
     ],
     [
+      "losses",
+      3,
+      "anger"
+    ],
+    [
       "rising",
       3,
       "joy"
@@ -101,6 +106,21 @@
       "criminal",
       3,
       "anger"
+    ],
+    [
+      "flu",
+      2,
+      "fear"
+    ],
+    [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
+      "america",
+      2,
+      "sadness"
     ],
     [
       "accused",
@@ -183,11 +203,6 @@
       "joy"
     ],
     [
-      "losses",
-      2,
-      "anger"
-    ],
-    [
       "school",
       2,
       "trust"
@@ -261,6 +276,26 @@
       "investigation",
       2,
       "anticipation"
+    ],
+    [
+      "lions",
+      1,
+      "fear"
+    ],
+    [
+      "carnage",
+      1,
+      "anger"
+    ],
+    [
+      "await",
+      1,
+      "anticipation"
+    ],
+    [
+      "scientists",
+      1,
+      "trust"
     ],
     [
       "outrageous",
@@ -341,51 +376,16 @@
       "wild",
       1,
       "surprise"
-    ],
-    [
-      "arrived",
-      1,
-      "anticipation"
-    ],
-    [
-      "suppressing",
-      1,
-      "anger"
-    ],
-    [
-      "government",
-      1,
-      "fear"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
-    ],
-    [
-      "rehabilitation",
-      1,
-      "anticipation"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "diary",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 53,
-    "fear": 58,
+    "trust": 54,
+    "fear": 61,
     "surprise": 8,
-    "sadness": 16,
+    "sadness": 17,
     "disgust": 3,
-    "anger": 115,
-    "anticipation": 27
+    "anger": 117,
+    "anticipation": 28
   }
 }
