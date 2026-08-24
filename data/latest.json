@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:26:42.559Z",
+  "generated_at": "2026-08-24T15:41:46.332Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,18 +8,13 @@
       "anger"
     ],
     [
-      "missile",
-      7,
-      "fear"
-    ],
-    [
       "war",
-      7,
+      8,
       "anger"
     ],
     [
-      "fire",
-      5,
+      "missile",
+      6,
       "fear"
     ],
     [
@@ -46,11 +41,6 @@
       "plan",
       4,
       "anticipation"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "losses",
@@ -83,6 +73,11 @@
       "anger"
     ],
     [
+      "fire",
+      3,
+      "fear"
+    ],
+    [
       "family",
       3,
       "joy"
@@ -98,6 +93,11 @@
       "anger"
     ],
     [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
       "death",
       3,
       "sadness"
@@ -105,6 +105,16 @@
     [
       "criminal",
       3,
+      "anger"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
+    ],
+    [
+      "condemns",
+      2,
       "anger"
     ],
     [
@@ -233,11 +243,6 @@
       "anger"
     ],
     [
-      "strike",
-      2,
-      "anger"
-    ],
-    [
       "expert",
       2,
       "trust"
@@ -283,14 +288,14 @@
       "surprise"
     ],
     [
-      "sharing",
+      "pledges",
       1,
       "joy"
     ],
     [
-      "started",
+      "constraining",
       1,
-      "anticipation"
+      "fear"
     ],
     [
       "lions",
@@ -371,21 +376,16 @@
       "accidents",
       1,
       "fear"
-    ],
-    [
-      "wild",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
     "trust": 54,
-    "fear": 61,
+    "fear": 59,
     "surprise": 8,
     "sadness": 17,
     "disgust": 3,
-    "anger": 117,
-    "anticipation": 28
+    "anger": 119,
+    "anticipation": 27
   }
 }
