@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:51:43.615Z",
+  "generated_at": "2026-08-24T06:06:45.490Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "fear"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "plan",
       4,
       "anticipation"
@@ -51,6 +46,11 @@
       "hit",
       4,
       "anger"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "court",
@@ -76,11 +76,6 @@
       "trade",
       3,
       "trust"
-    ],
-    [
-      "found",
-      3,
-      "joy"
     ],
     [
       "military",
@@ -176,6 +171,11 @@
       "seal",
       2,
       "trust"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "losses",
@@ -278,6 +278,16 @@
       "anticipation"
     ],
     [
+      "wild",
+      1,
+      "surprise"
+    ],
+    [
+      "arrived",
+      1,
+      "anticipation"
+    ],
+    [
       "suppressing",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "execution",
       1,
       "anger"
-    ],
-    [
-      "sabotage",
-      1,
-      "anger"
-    ],
-    [
-      "lashes",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 30,
     "trust": 55,
     "fear": 59,
-    "surprise": 6,
-    "sadness": 19,
+    "surprise": 7,
+    "sadness": 18,
     "disgust": 3,
-    "anger": 115,
-    "anticipation": 25
+    "anger": 114,
+    "anticipation": 26
   }
 }
