@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:36:22.964Z",
+  "generated_at": "2026-08-24T05:51:25.469Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,17 +13,17 @@
       "anger"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "missile",
       6,
       "fear"
     ],
     [
       "president",
+      5,
+      "trust"
+    ],
+    [
+      "people",
       5,
       "trust"
     ],
@@ -38,6 +38,11 @@
       "sadness"
     ],
     [
+      "plan",
+      4,
+      "anticipation"
+    ],
+    [
       "fire",
       4,
       "fear"
@@ -50,6 +55,11 @@
     [
       "court",
       4,
+      "anger"
+    ],
+    [
+      "prison",
+      3,
       "anger"
     ],
     [
@@ -68,19 +78,9 @@
       "trust"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "found",
       3,
       "joy"
-    ],
-    [
-      "young",
-      3,
-      "surprise"
     ],
     [
       "military",
@@ -93,9 +93,14 @@
       "anger"
     ],
     [
-      "leaving",
+      "sex",
       2,
-      "sadness"
+      "joy"
+    ],
+    [
+      "offenders",
+      2,
+      "anger"
     ],
     [
       "trump",
@@ -208,11 +213,6 @@
       "joy"
     ],
     [
-      "prison",
-      2,
-      "anger"
-    ],
-    [
       "gaza",
       2,
       "anger"
@@ -268,11 +268,6 @@
       "fear"
     ],
     [
-      "failure",
-      2,
-      "fear"
-    ],
-    [
       "hospital",
       2,
       "fear"
@@ -281,6 +276,31 @@
       "investigation",
       2,
       "anticipation"
+    ],
+    [
+      "suppressing",
+      1,
+      "anger"
+    ],
+    [
+      "government",
+      1,
+      "fear"
+    ],
+    [
+      "difficult",
+      1,
+      "fear"
+    ],
+    [
+      "rehabilitation",
+      1,
+      "anticipation"
+    ],
+    [
+      "life",
+      1,
+      "joy"
     ],
     [
       "diary",
@@ -318,6 +338,11 @@
       "anger"
     ],
     [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
       "berlin",
       1,
       "joy"
@@ -351,41 +376,16 @@
       "lashes",
       1,
       "anger"
-    ],
-    [
-      "attacked",
-      1,
-      "anger"
-    ],
-    [
-      "force",
-      1,
-      "anger"
-    ],
-    [
-      "associated",
-      1,
-      "trust"
-    ],
-    [
-      "blamed",
-      1,
-      "anger"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 57,
-    "fear": 58,
-    "surprise": 8,
-    "sadness": 20,
+    "joy": 31,
+    "trust": 55,
+    "fear": 59,
+    "surprise": 6,
+    "sadness": 19,
     "disgust": 3,
-    "anger": 112,
-    "anticipation": 24
+    "anger": 115,
+    "anticipation": 25
   }
 }
