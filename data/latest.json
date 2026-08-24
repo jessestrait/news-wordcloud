@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:09:53.275Z",
+  "generated_at": "2026-08-24T12:24:56.172Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "fear"
     ],
     [
+      "court",
+      4,
+      "anger"
+    ],
+    [
       "plan",
       4,
       "anticipation"
@@ -49,16 +54,6 @@
     ],
     [
       "hit",
-      4,
-      "anger"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
-      "court",
       4,
       "anger"
     ],
@@ -93,9 +88,9 @@
       "trust"
     ],
     [
-      "military",
+      "death",
       3,
-      "fear"
+      "sadness"
     ],
     [
       "criminal",
@@ -208,6 +203,11 @@
       "joy"
     ],
     [
+      "military",
+      2,
+      "fear"
+    ],
+    [
       "gaza",
       2,
       "anger"
@@ -231,11 +231,6 @@
       "gun",
       2,
       "anger"
-    ],
-    [
-      "law",
-      2,
-      "trust"
     ],
     [
       "focus",
@@ -298,6 +293,31 @@
       "anticipation"
     ],
     [
+      "distracted",
+      1,
+      "anger"
+    ],
+    [
+      "cross",
+      1,
+      "anger"
+    ],
+    [
+      "draft",
+      1,
+      "anticipation"
+    ],
+    [
+      "blame",
+      1,
+      "anger"
+    ],
+    [
+      "accidents",
+      1,
+      "fear"
+    ],
+    [
       "wild",
       1,
       "surprise"
@@ -356,36 +376,16 @@
       "prepares",
       1,
       "anticipation"
-    ],
-    [
-      "evacuated",
-      1,
-      "fear"
-    ],
-    [
-      "shock",
-      1,
-      "anger"
-    ],
-    [
-      "leaving",
-      1,
-      "sadness"
-    ],
-    [
-      "berlin",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 54,
-    "fear": 59,
+    "trust": 53,
+    "fear": 58,
     "surprise": 8,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 3,
-    "anger": 115,
-    "anticipation": 26
+    "anger": 114,
+    "anticipation": 27
   }
 }
