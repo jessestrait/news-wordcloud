@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:07:10.338Z",
+  "generated_at": "2026-08-24T07:22:12.690Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,19 @@
       "anger"
     ],
     [
+      "missile",
+      8,
+      "fear"
+    ],
+    [
       "war",
       7,
       "anger"
     ],
     [
-      "missile",
-      6,
-      "fear"
+      "plan",
+      5,
+      "anticipation"
     ],
     [
       "president",
@@ -30,16 +35,6 @@
     [
       "killed",
       5,
-      "fear"
-    ],
-    [
-      "plan",
-      4,
-      "anticipation"
-    ],
-    [
-      "fire",
-      4,
       "fear"
     ],
     [
@@ -61,6 +56,11 @@
       "prison",
       3,
       "anger"
+    ],
+    [
+      "fire",
+      3,
+      "fear"
     ],
     [
       "family",
@@ -253,11 +253,6 @@
       "joy"
     ],
     [
-      "wildfires",
-      2,
-      "fear"
-    ],
-    [
       "cash",
       2,
       "anger"
@@ -276,6 +271,26 @@
       "investigation",
       2,
       "anticipation"
+    ],
+    [
+      "arrives",
+      1,
+      "anticipation"
+    ],
+    [
+      "share",
+      1,
+      "joy"
+    ],
+    [
+      "assembly",
+      1,
+      "trust"
+    ],
+    [
+      "lines",
+      1,
+      "fear"
     ],
     [
       "wild",
@@ -361,31 +376,16 @@
       "rows",
       1,
       "anger"
-    ],
-    [
-      "seize",
-      1,
-      "fear"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
-    ],
-    [
-      "execution",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 55,
+    "trust": 54,
     "fear": 59,
     "surprise": 7,
     "sadness": 18,
     "disgust": 3,
     "anger": 114,
-    "anticipation": 26
+    "anticipation": 28
   }
 }
