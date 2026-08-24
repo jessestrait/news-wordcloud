@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:24:28.791Z",
+  "generated_at": "2026-08-24T11:39:31.068Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,11 +16,6 @@
       "missile",
       7,
       "fear"
-    ],
-    [
-      "plan",
-      5,
-      "anticipation"
     ],
     [
       "president",
@@ -41,6 +36,11 @@
       "fire",
       4,
       "fear"
+    ],
+    [
+      "plan",
+      4,
+      "anticipation"
     ],
     [
       "hit",
@@ -83,6 +83,11 @@
       "trust"
     ],
     [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
       "military",
       3,
       "fear"
@@ -119,11 +124,6 @@
     ],
     [
       "iran",
-      2,
-      "anger"
-    ],
-    [
-      "threat",
       2,
       "anger"
     ],
@@ -273,12 +273,17 @@
       "anticipation"
     ],
     [
+      "outrageous",
+      1,
+      "surprise"
+    ],
+    [
       "fight",
       1,
       "anger"
     ],
     [
-      "share",
+      "sharing",
       1,
       "joy"
     ],
@@ -371,21 +376,16 @@
       "seize",
       1,
       "fear"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
     "trust": 53,
     "fear": 59,
-    "surprise": 7,
+    "surprise": 8,
     "sadness": 18,
     "disgust": 3,
-    "anger": 116,
-    "anticipation": 27
+    "anger": 117,
+    "anticipation": 26
   }
 }
