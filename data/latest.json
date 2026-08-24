@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T21:45:35.726Z",
+  "generated_at": "2026-08-24T22:00:38.207Z",
   "article_count": 50,
   "top_words": [
     [
@@ -91,6 +91,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "seal",
+      3,
+      "trust"
     ],
     [
       "strike",
@@ -196,11 +201,6 @@
       "shopping",
       2,
       "surprise"
-    ],
-    [
-      "seal",
-      2,
-      "trust"
     ],
     [
       "found",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 58,
+    "trust": 59,
     "fear": 48,
     "surprise": 9,
     "sadness": 17,
