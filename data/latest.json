@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:14:01.785Z",
+  "generated_at": "2026-08-24T19:29:05.573Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "fear"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
       "plan",
       4,
       "anticipation"
@@ -53,19 +58,9 @@
       "anger"
     ],
     [
-      "iran",
-      3,
-      "anger"
-    ],
-    [
       "vows",
       3,
       "joy"
-    ],
-    [
-      "court",
-      3,
-      "anger"
     ],
     [
       "fire",
@@ -101,6 +96,11 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "measures",
+      2,
+      "trust"
     ],
     [
       "self",
@@ -168,11 +168,6 @@
       "anger"
     ],
     [
-      "ambassador",
-      2,
-      "trust"
-    ],
-    [
       "obituary",
       2,
       "sadness"
@@ -208,11 +203,6 @@
       "trust"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "found",
       2,
       "joy"
@@ -231,11 +221,6 @@
       "home",
       2,
       "joy"
-    ],
-    [
-      "criminal",
-      2,
-      "anger"
     ],
     [
       "expert",
@@ -263,9 +248,19 @@
       "anger"
     ],
     [
-      "die",
-      2,
-      "fear"
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "isolate",
+      1,
+      "sadness"
     ],
     [
       "antidote",
@@ -376,16 +371,21 @@
       "retaliate",
       1,
       "anger"
+    ],
+    [
+      "nations",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
     "trust": 58,
-    "fear": 50,
+    "fear": 48,
     "surprise": 9,
     "sadness": 17,
     "disgust": 3,
-    "anger": 110,
-    "anticipation": 27
+    "anger": 107,
+    "anticipation": 28
   }
 }
