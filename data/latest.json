@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:24:56.172Z",
+  "generated_at": "2026-08-24T12:39:58.655Z",
   "article_count": 50,
   "top_words": [
     [
@@ -263,21 +263,6 @@
       "anticipation"
     ],
     [
-      "retaliate",
-      1,
-      "anger"
-    ],
-    [
-      "nations",
-      1,
-      "trust"
-    ],
-    [
-      "credible",
-      1,
-      "trust"
-    ],
-    [
       "outrageous",
       1,
       "surprise"
@@ -291,6 +276,21 @@
       "started",
       1,
       "anticipation"
+    ],
+    [
+      "retaliate",
+      1,
+      "anger"
+    ],
+    [
+      "nations",
+      1,
+      "trust"
+    ],
+    [
+      "credible",
+      1,
+      "trust"
     ],
     [
       "distracted",
