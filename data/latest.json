@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:55:21.660Z",
+  "generated_at": "2026-08-24T13:10:24.079Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,13 +48,18 @@
       "anticipation"
     ],
     [
-      "threat",
+      "hit",
       4,
       "anger"
     ],
     [
-      "hit",
-      4,
+      "rising",
+      3,
+      "joy"
+    ],
+    [
+      "violence",
+      3,
       "anger"
     ],
     [
@@ -78,14 +83,14 @@
       "joy"
     ],
     [
-      "black",
-      3,
-      "sadness"
-    ],
-    [
       "trade",
       3,
       "trust"
+    ],
+    [
+      "threat",
+      3,
+      "anger"
     ],
     [
       "death",
@@ -98,6 +103,11 @@
       "anger"
     ],
     [
+      "accused",
+      2,
+      "anger"
+    ],
+    [
       "sex",
       2,
       "joy"
@@ -106,6 +116,11 @@
       "offenders",
       2,
       "anger"
+    ],
+    [
+      "black",
+      2,
+      "sadness"
     ],
     [
       "trump",
@@ -148,11 +163,6 @@
       "anger"
     ],
     [
-      "rising",
-      2,
-      "joy"
-    ],
-    [
       "deadly",
       2,
       "anger"
@@ -176,11 +186,6 @@
       "losses",
       2,
       "anger"
-    ],
-    [
-      "warns",
-      2,
-      "fear"
     ],
     [
       "school",
@@ -214,11 +219,6 @@
     ],
     [
       "strike",
-      2,
-      "anger"
-    ],
-    [
-      "violence",
       2,
       "anger"
     ],
@@ -261,6 +261,26 @@
       "investigation",
       2,
       "anticipation"
+    ],
+    [
+      "police",
+      1,
+      "fear"
+    ],
+    [
+      "crackdown",
+      1,
+      "anger"
+    ],
+    [
+      "attempts",
+      1,
+      "anticipation"
+    ],
+    [
+      "beaches",
+      1,
+      "joy"
     ],
     [
       "outrageous",
@@ -356,36 +376,16 @@
       "diary",
       1,
       "joy"
-    ],
-    [
-      "linger",
-      1,
-      "anticipation"
-    ],
-    [
-      "shaped",
-      1,
-      "trust"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 32,
     "trust": 53,
     "fear": 58,
     "surprise": 8,
-    "sadness": 17,
+    "sadness": 16,
     "disgust": 3,
-    "anger": 114,
+    "anger": 115,
     "anticipation": 27
   }
 }
