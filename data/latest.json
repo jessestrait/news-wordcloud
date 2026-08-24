@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-24T17:43:02.953Z",
+  "generated_at": "2026-08-24T17:58:05.284Z",
   "article_count": 50,
   "top_words": [
     [
-      "war",
+      "attack",
       8,
       "anger"
     ],
     [
-      "attack",
-      8,
+      "war",
+      7,
       "anger"
     ],
     [
@@ -84,6 +84,11 @@
     ],
     [
       "threat",
+      3,
+      "anger"
+    ],
+    [
+      "hit",
       3,
       "anger"
     ],
@@ -184,11 +189,6 @@
     ],
     [
       "anger",
-      2,
-      "anger"
-    ],
-    [
-      "hit",
       2,
       "anger"
     ],
