@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-25T17:09:24.656Z",
+  "generated_at": "2026-08-25T17:24:27.160Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
+      "iran",
       7,
       "anger"
     ],
     [
-      "iran",
+      "attack",
       7,
       "anger"
     ],
@@ -33,12 +33,12 @@
       "trust"
     ],
     [
-      "trump",
+      "threat",
       4,
       "anger"
     ],
     [
-      "threat",
+      "trump",
       4,
       "anger"
     ],
@@ -48,14 +48,14 @@
       "fear"
     ],
     [
-      "tariffs",
-      3,
-      "anger"
-    ],
-    [
       "measures",
       3,
       "trust"
+    ],
+    [
+      "tariffs",
+      3,
+      "anger"
     ],
     [
       "world",
@@ -128,6 +128,11 @@
       "trust"
     ],
     [
+      "isolate",
+      2,
+      "sadness"
+    ],
+    [
       "goods",
       2,
       "surprise"
@@ -156,11 +161,6 @@
       "prison",
       2,
       "anger"
-    ],
-    [
-      "isolate",
-      2,
-      "sadness"
     ],
     [
       "breaks",
@@ -250,6 +250,11 @@
     [
       "shot",
       2,
+      "anger"
+    ],
+    [
+      "denounces",
+      1,
       "anger"
     ],
     [
@@ -371,11 +376,6 @@
       "detention",
       1,
       "sadness"
-    ],
-    [
-      "denounces",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
