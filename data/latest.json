@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:51:46.830Z",
+  "generated_at": "2026-08-25T13:06:49.020Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,14 +58,14 @@
       "fear"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "trump",
       3,
       "anger"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "measures",
@@ -143,14 +143,14 @@
       "trust"
     ],
     [
-      "found",
-      2,
-      "joy"
-    ],
-    [
       "continue",
       2,
       "trust"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "prison",
@@ -263,6 +263,21 @@
       "joy"
     ],
     [
+      "pleas",
+      1,
+      "fear"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
+      "wanting",
+      1,
+      "sadness"
+    ],
+    [
       "suspected",
       1,
       "fear"
@@ -286,21 +301,6 @@
       "attempted",
       1,
       "anticipation"
-    ],
-    [
-      "pleas",
-      1,
-      "fear"
-    ],
-    [
-      "supplies",
-      1,
-      "fear"
-    ],
-    [
-      "wanting",
-      1,
-      "sadness"
     ],
     [
       "jailed",
