@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-25T08:49:42.187Z",
+  "generated_at": "2026-08-25T09:04:44.886Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       8,
       "anger"
+    ],
+    [
+      "president",
+      7,
+      "trust"
     ],
     [
       "people",
@@ -23,11 +28,6 @@
       "anger"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "plan",
       4,
       "anticipation"
@@ -38,8 +38,18 @@
       "fear"
     ],
     [
+      "missile",
+      4,
+      "fear"
+    ],
+    [
       "strike",
       4,
+      "anger"
+    ],
+    [
+      "trump",
+      3,
       "anger"
     ],
     [
@@ -58,7 +68,17 @@
       "fear"
     ],
     [
+      "system",
+      3,
+      "trust"
+    ],
+    [
       "world",
+      3,
+      "trust"
+    ],
+    [
+      "leader",
       3,
       "trust"
     ],
@@ -123,22 +143,12 @@
       "fear"
     ],
     [
-      "missile",
-      3,
-      "fear"
-    ],
-    [
       "seal",
       3,
       "trust"
     ],
     [
-      "expert",
-      3,
-      "trust"
-    ],
-    [
-      "system",
+      "experts",
       2,
       "trust"
     ],
@@ -168,11 +178,6 @@
       "anger"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "earthquake",
       2,
       "anger"
@@ -191,11 +196,6 @@
       "rising",
       2,
       "joy"
-    ],
-    [
-      "violence",
-      2,
-      "anger"
     ],
     [
       "sex",
@@ -228,11 +228,6 @@
       "sadness"
     ],
     [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
       "global",
       2,
       "anticipation"
@@ -253,9 +248,14 @@
       "joy"
     ],
     [
-      "gun",
-      2,
-      "anger"
+      "pleas",
+      1,
+      "fear"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
     ],
     [
       "policy",
@@ -363,11 +363,6 @@
       "trust"
     ],
     [
-      "leader",
-      1,
-      "trust"
-    ],
-    [
       "operations",
       1,
       "fear"
@@ -376,16 +371,21 @@
       "track",
       1,
       "anticipation"
+    ],
+    [
+      "illegal",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 66,
+    "trust": 67,
     "fear": 52,
     "surprise": 12,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 3,
-    "anger": 110,
-    "anticipation": 28
+    "anger": 106,
+    "anticipation": 27
   }
 }
