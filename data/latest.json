@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-25T03:48:44.944Z",
+  "generated_at": "2026-08-25T04:03:46.742Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      9,
+      8,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "iran",
@@ -16,11 +21,6 @@
       "war",
       6,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "president",
@@ -73,11 +73,6 @@
       "anger"
     ],
     [
-      "violence",
-      3,
-      "anger"
-    ],
-    [
       "vows",
       3,
       "joy"
@@ -120,6 +115,11 @@
     [
       "seal",
       3,
+      "trust"
+    ],
+    [
+      "system",
+      2,
       "trust"
     ],
     [
@@ -181,6 +181,11 @@
       "rising",
       2,
       "joy"
+    ],
+    [
+      "violence",
+      2,
+      "anger"
     ],
     [
       "sex",
@@ -263,8 +268,23 @@
       "anger"
     ],
     [
-      "focus",
-      2,
+      "grows",
+      1,
+      "joy"
+    ],
+    [
+      "continues",
+      1,
+      "trust"
+    ],
+    [
+      "cash",
+      1,
+      "anger"
+    ],
+    [
+      "provide",
+      1,
       "trust"
     ],
     [
@@ -356,36 +376,16 @@
       "embrace",
       1,
       "surprise"
-    ],
-    [
-      "self",
-      1,
-      "trust"
-    ],
-    [
-      "outrageous",
-      1,
-      "surprise"
-    ],
-    [
-      "pledges",
-      1,
-      "joy"
-    ],
-    [
-      "constraining",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 64,
-    "fear": 45,
+    "joy": 32,
+    "trust": 66,
+    "fear": 44,
     "surprise": 9,
     "sadness": 15,
     "disgust": 3,
-    "anger": 114,
+    "anger": 113,
     "anticipation": 28
   }
 }
