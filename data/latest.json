@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:51:20.718Z",
+  "generated_at": "2026-08-25T12:06:23.197Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,17 +13,17 @@
       "trust"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
       "people",
       7,
       "trust"
     ],
     [
       "iran",
-      6,
-      "anger"
-    ],
-    [
-      "war",
       6,
       "anger"
     ],
@@ -135,6 +135,11 @@
     [
       "seal",
       3,
+      "trust"
+    ],
+    [
+      "continue",
+      2,
       "trust"
     ],
     [
@@ -263,6 +268,11 @@
       "fear"
     ],
     [
+      "wanting",
+      1,
+      "sadness"
+    ],
+    [
       "kitten",
       1,
       "joy"
@@ -358,11 +368,6 @@
       "joy"
     ],
     [
-      "continues",
-      1,
-      "trust"
-    ],
-    [
       "cash",
       1,
       "anger"
@@ -371,21 +376,16 @@
       "provide",
       1,
       "trust"
-    ],
-    [
-      "wary",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 67,
+    "trust": 68,
     "fear": 53,
     "surprise": 13,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 3,
-    "anger": 102,
+    "anger": 103,
     "anticipation": 26
   }
 }
