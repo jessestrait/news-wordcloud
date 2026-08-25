@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T16:08:36.114Z",
+  "generated_at": "2026-08-25T16:23:38.951Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,19 +28,19 @@
       "trust"
     ],
     [
-      "threat",
+      "trade",
+      5,
+      "trust"
+    ],
+    [
+      "trump",
       4,
       "anger"
     ],
     [
-      "trade",
+      "threat",
       4,
-      "trust"
-    ],
-    [
-      "plan",
-      4,
-      "anticipation"
+      "anger"
     ],
     [
       "fire",
@@ -48,7 +48,7 @@
       "fear"
     ],
     [
-      "trump",
+      "tariffs",
       3,
       "anger"
     ],
@@ -103,6 +103,11 @@
       "anger"
     ],
     [
+      "plan",
+      3,
+      "anticipation"
+    ],
+    [
       "family",
       3,
       "joy"
@@ -121,6 +126,11 @@
       "seal",
       3,
       "trust"
+    ],
+    [
+      "goods",
+      2,
+      "surprise"
     ],
     [
       "continue",
@@ -178,16 +188,6 @@
       "anger"
     ],
     [
-      "officials",
-      2,
-      "trust"
-    ],
-    [
-      "structure",
-      2,
-      "trust"
-    ],
-    [
       "crackdown",
       2,
       "anger"
@@ -238,11 +238,6 @@
       "sadness"
     ],
     [
-      "tariffs",
-      2,
-      "anger"
-    ],
-    [
       "hit",
       2,
       "anger"
@@ -256,6 +251,21 @@
       "shot",
       2,
       "anger"
+    ],
+    [
+      "retaliatory",
+      1,
+      "anger"
+    ],
+    [
+      "focused",
+      1,
+      "trust"
+    ],
+    [
+      "collapsed",
+      1,
+      "fear"
     ],
     [
       "pleas",
@@ -366,26 +376,16 @@
       "kitten",
       1,
       "joy"
-    ],
-    [
-      "anomaly",
-      1,
-      "fear"
-    ],
-    [
-      "illness",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
     "trust": 70,
     "fear": 53,
-    "surprise": 13,
+    "surprise": 14,
     "sadness": 16,
     "disgust": 2,
-    "anger": 102,
-    "anticipation": 27
+    "anger": 105,
+    "anticipation": 25
   }
 }
