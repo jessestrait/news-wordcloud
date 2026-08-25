@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:06:23.197Z",
+  "generated_at": "2026-08-25T12:21:26.318Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,24 @@
       "anger"
     ],
     [
-      "people",
+      "iran",
       7,
+      "anger"
+    ],
+    [
+      "people",
+      6,
       "trust"
     ],
     [
-      "iran",
-      6,
+      "threat",
+      4,
       "anger"
+    ],
+    [
+      "trade",
+      4,
+      "trust"
     ],
     [
       "world",
@@ -51,6 +61,11 @@
       "trump",
       3,
       "anger"
+    ],
+    [
+      "measures",
+      3,
+      "trust"
     ],
     [
       "young",
@@ -113,19 +128,9 @@
       "joy"
     ],
     [
-      "trade",
-      3,
-      "trust"
-    ],
-    [
       "letter",
       3,
       "anticipation"
-    ],
-    [
-      "threat",
-      3,
-      "anger"
     ],
     [
       "hit",
@@ -141,6 +146,16 @@
       "continue",
       2,
       "trust"
+    ],
+    [
+      "prison",
+      2,
+      "anger"
+    ],
+    [
+      "isolate",
+      2,
+      "sadness"
     ],
     [
       "breaks",
@@ -188,11 +203,6 @@
       "anger"
     ],
     [
-      "measures",
-      2,
-      "trust"
-    ],
-    [
       "flu",
       2,
       "fear"
@@ -213,11 +223,6 @@
       "anger"
     ],
     [
-      "prison",
-      2,
-      "anger"
-    ],
-    [
       "black",
       2,
       "sadness"
@@ -226,11 +231,6 @@
       "tariffs",
       2,
       "anger"
-    ],
-    [
-      "obituary",
-      2,
-      "sadness"
     ],
     [
       "global",
@@ -271,6 +271,41 @@
       "wanting",
       1,
       "sadness"
+    ],
+    [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
+      "slandering",
+      1,
+      "anger"
+    ],
+    [
+      "heroes",
+      1,
+      "surprise"
+    ],
+    [
+      "martyrs",
+      1,
+      "fear"
+    ],
+    [
+      "sentenced",
+      1,
+      "anger"
+    ],
+    [
+      "detention",
+      1,
+      "sadness"
+    ],
+    [
+      "denounces",
+      1,
+      "anger"
     ],
     [
       "kitten",
@@ -341,51 +376,16 @@
       "rules",
       1,
       "fear"
-    ],
-    [
-      "chokes",
-      1,
-      "anger"
-    ],
-    [
-      "haze",
-      1,
-      "fear"
-    ],
-    [
-      "blazes",
-      1,
-      "anger"
-    ],
-    [
-      "suffocating",
-      1,
-      "fear"
-    ],
-    [
-      "grows",
-      1,
-      "joy"
-    ],
-    [
-      "cash",
-      1,
-      "anger"
-    ],
-    [
-      "provide",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 68,
+    "joy": 33,
+    "trust": 69,
     "fear": 53,
-    "surprise": 13,
+    "surprise": 14,
     "sadness": 16,
-    "disgust": 3,
-    "anger": 103,
+    "disgust": 2,
+    "anger": 108,
     "anticipation": 26
   }
 }
