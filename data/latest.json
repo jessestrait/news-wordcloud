@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:03:46.742Z",
+  "generated_at": "2026-08-25T04:18:48.541Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "anticipation"
     ],
     [
+      "fire",
+      4,
+      "fear"
+    ],
+    [
       "strike",
       4,
       "anger"
@@ -46,11 +51,6 @@
       "ally",
       3,
       "trust"
-    ],
-    [
-      "trump",
-      3,
-      "anger"
     ],
     [
       "killing",
@@ -76,11 +76,6 @@
       "vows",
       3,
       "joy"
-    ],
-    [
-      "fire",
-      3,
-      "fear"
     ],
     [
       "trade",
@@ -148,6 +143,11 @@
       "anger"
     ],
     [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "earthquake",
       2,
       "anger"
@@ -171,11 +171,6 @@
       "warn",
       2,
       "fear"
-    ],
-    [
-      "america",
-      2,
-      "sadness"
     ],
     [
       "rising",
@@ -266,6 +261,26 @@
       "gun",
       2,
       "anger"
+    ],
+    [
+      "chokes",
+      1,
+      "anger"
+    ],
+    [
+      "haze",
+      1,
+      "fear"
+    ],
+    [
+      "blazes",
+      1,
+      "anger"
+    ],
+    [
+      "suffocating",
+      1,
+      "fear"
     ],
     [
       "grows",
@@ -361,31 +376,16 @@
       "don",
       1,
       "trust"
-    ],
-    [
-      "beauty",
-      1,
-      "joy"
-    ],
-    [
-      "advises",
-      1,
-      "trust"
-    ],
-    [
-      "embrace",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 66,
-    "fear": 44,
+    "trust": 65,
+    "fear": 45,
     "surprise": 9,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 3,
-    "anger": 113,
+    "anger": 114,
     "anticipation": 28
   }
 }
