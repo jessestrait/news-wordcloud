@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-25T03:33:25.557Z",
+  "generated_at": "2026-08-25T03:48:28.061Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      8,
+      9,
       "anger"
     ],
     [
@@ -18,19 +18,24 @@
       "anger"
     ],
     [
-      "president",
+      "people",
       6,
       "trust"
     ],
     [
-      "people",
-      5,
+      "president",
+      6,
       "trust"
     ],
     [
       "plan",
       4,
       "anticipation"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
     ],
     [
       "world",
@@ -48,6 +53,16 @@
       "anger"
     ],
     [
+      "killing",
+      3,
+      "anger"
+    ],
+    [
+      "accused",
+      3,
+      "anger"
+    ],
+    [
       "school",
       3,
       "trust"
@@ -56,11 +71,6 @@
       "losses",
       3,
       "anger"
-    ],
-    [
-      "rising",
-      3,
-      "joy"
     ],
     [
       "violence",
@@ -111,11 +121,6 @@
       "seal",
       3,
       "trust"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "threaten",
@@ -173,9 +178,9 @@
       "sadness"
     ],
     [
-      "accused",
+      "rising",
       2,
-      "anger"
+      "joy"
     ],
     [
       "sex",
@@ -261,11 +266,6 @@
       "focus",
       2,
       "trust"
-    ],
-    [
-      "charity",
-      2,
-      "joy"
     ],
     [
       "wary",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 31,
     "trust": 64,
     "fear": 45,
     "surprise": 9,
-    "sadness": 17,
+    "sadness": 15,
     "disgust": 3,
-    "anger": 109,
+    "anger": 114,
     "anticipation": 28
   }
 }
