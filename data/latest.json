@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:37:14.103Z",
+  "generated_at": "2026-08-25T13:52:16.360Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,6 +253,21 @@
       "anger"
     ],
     [
+      "pleas",
+      1,
+      "fear"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
+      "wanting",
+      1,
+      "sadness"
+    ],
+    [
       "enchanting",
       1,
       "joy"
@@ -276,21 +291,6 @@
       "history",
       1,
       "trust"
-    ],
-    [
-      "pleas",
-      1,
-      "fear"
-    ],
-    [
-      "supplies",
-      1,
-      "fear"
-    ],
-    [
-      "wanting",
-      1,
-      "sadness"
     ],
     [
       "suspected",
