@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:05:12.705Z",
+  "generated_at": "2026-08-25T10:20:15.152Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,6 +253,16 @@
       "joy"
     ],
     [
+      "pleas",
+      1,
+      "fear"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
       "kitten",
       1,
       "joy"
@@ -264,16 +274,6 @@
     ],
     [
       "illness",
-      1,
-      "fear"
-    ],
-    [
-      "pleas",
-      1,
-      "fear"
-    ],
-    [
-      "supplies",
       1,
       "fear"
     ],
