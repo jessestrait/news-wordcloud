@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T16:23:57.650Z",
+  "generated_at": "2026-08-25T16:39:00.588Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,6 +273,11 @@
       "fear"
     ],
     [
+      "happened",
+      1,
+      "anticipation"
+    ],
+    [
       "supplies",
       1,
       "fear"
@@ -371,11 +376,6 @@
       "denounces",
       1,
       "anger"
-    ],
-    [
-      "kitten",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 16,
     "disgust": 2,
     "anger": 105,
-    "anticipation": 25
+    "anticipation": 26
   }
 }
