@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-25T12:36:44.823Z",
+  "generated_at": "2026-08-25T12:51:46.830Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      8,
+      9,
       "anger"
     ],
     [
@@ -55,6 +55,11 @@
     [
       "missile",
       4,
+      "fear"
+    ],
+    [
+      "military",
+      3,
       "fear"
     ],
     [
@@ -133,14 +138,14 @@
       "anticipation"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "seal",
       3,
       "trust"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "continue",
@@ -233,9 +238,9 @@
       "anger"
     ],
     [
-      "global",
+      "hit",
       2,
-      "anticipation"
+      "anger"
     ],
     [
       "killed",
@@ -256,6 +261,31 @@
       "home",
       2,
       "joy"
+    ],
+    [
+      "suspected",
+      1,
+      "fear"
+    ],
+    [
+      "explosives",
+      1,
+      "anger"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "attempted",
+      1,
+      "anticipation"
     ],
     [
       "pleas",
@@ -346,46 +376,16 @@
       "crashes",
       1,
       "fear"
-    ],
-    [
-      "exposed",
-      1,
-      "fear"
-    ],
-    [
-      "failure",
-      1,
-      "fear"
-    ],
-    [
-      "grieving",
-      1,
-      "fear"
-    ],
-    [
-      "age",
-      1,
-      "anticipation"
-    ],
-    [
-      "lax",
-      1,
-      "sadness"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 32,
     "trust": 69,
-    "fear": 53,
+    "fear": 56,
     "surprise": 14,
     "sadness": 16,
     "disgust": 2,
-    "anger": 108,
-    "anticipation": 26
+    "anger": 109,
+    "anticipation": 27
   }
 }
