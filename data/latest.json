@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:28:09.347Z",
+  "generated_at": "2026-08-25T23:43:11.924Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,12 +23,12 @@
       "anger"
     ],
     [
-      "people",
-      6,
+      "trade",
+      5,
       "trust"
     ],
     [
-      "trade",
+      "people",
       5,
       "trust"
     ],
@@ -126,6 +126,11 @@
       "seal",
       3,
       "trust"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "isolate",
@@ -253,6 +258,31 @@
       "anger"
     ],
     [
+      "despair",
+      1,
+      "anger"
+    ],
+    [
+      "opportunity",
+      1,
+      "anticipation"
+    ],
+    [
+      "content",
+      1,
+      "joy"
+    ],
+    [
+      "politics",
+      1,
+      "anger"
+    ],
+    [
+      "usual",
+      1,
+      "trust"
+    ],
+    [
       "denounces",
       1,
       "anger"
@@ -346,46 +376,16 @@
       "attempted",
       1,
       "anticipation"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
-    ],
-    [
-      "slandering",
-      1,
-      "anger"
-    ],
-    [
-      "heroes",
-      1,
-      "surprise"
-    ],
-    [
-      "martyrs",
-      1,
-      "fear"
-    ],
-    [
-      "sentenced",
-      1,
-      "anger"
-    ],
-    [
-      "detention",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 33,
     "trust": 70,
-    "fear": 53,
+    "fear": 52,
     "surprise": 14,
     "sadness": 16,
     "disgust": 2,
     "anger": 105,
-    "anticipation": 26
+    "anticipation": 27
   }
 }
