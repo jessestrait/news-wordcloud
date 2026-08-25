@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-25T13:52:16.360Z",
+  "generated_at": "2026-08-25T14:07:18.783Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      8,
+      7,
       "anger"
     ],
     [
@@ -48,19 +48,9 @@
       "fear"
     ],
     [
-      "missile",
-      4,
-      "fear"
-    ],
-    [
       "trump",
       3,
       "anger"
-    ],
-    [
-      "military",
-      3,
-      "fear"
     ],
     [
       "measures",
@@ -123,6 +113,11 @@
       "anticipation"
     ],
     [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
       "seal",
       3,
       "trust"
@@ -131,6 +126,16 @@
       "continue",
       2,
       "trust"
+    ],
+    [
+      "churches",
+      2,
+      "joy"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "found",
@@ -268,6 +273,11 @@
       "sadness"
     ],
     [
+      "real",
+      1,
+      "trust"
+    ],
+    [
       "enchanting",
       1,
       "joy"
@@ -366,26 +376,16 @@
       "illness",
       1,
       "fear"
-    ],
-    [
-      "policy",
-      1,
-      "trust"
-    ],
-    [
-      "change",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 69,
-    "fear": 56,
+    "joy": 34,
+    "trust": 70,
+    "fear": 53,
     "surprise": 13,
     "sadness": 16,
     "disgust": 2,
-    "anger": 104,
+    "anger": 102,
     "anticipation": 27
   }
 }
