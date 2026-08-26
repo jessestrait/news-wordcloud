@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-26T02:14:47.084Z",
+  "generated_at": "2026-08-26T02:29:49.095Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      7,
+      "anger"
+    ],
+    [
+      "president",
+      7,
+      "trust"
+    ],
     [
       "iran",
       7,
@@ -16,16 +26,6 @@
       "people",
       6,
       "trust"
-    ],
-    [
-      "president",
-      6,
-      "trust"
-    ],
-    [
-      "war",
-      6,
-      "anger"
     ],
     [
       "young",
@@ -58,6 +58,11 @@
       "joy"
     ],
     [
+      "missile",
+      4,
+      "fear"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -66,11 +71,6 @@
       "tariffs",
       3,
       "anger"
-    ],
-    [
-      "world",
-      3,
-      "trust"
     ],
     [
       "warn",
@@ -111,11 +111,6 @@
       "plan",
       3,
       "anticipation"
-    ],
-    [
-      "missile",
-      3,
-      "fear"
     ],
     [
       "seal",
@@ -166,6 +161,11 @@
       "breaks",
       2,
       "surprise"
+    ],
+    [
+      "world",
+      2,
+      "trust"
     ],
     [
       "deadly",
@@ -253,9 +253,14 @@
       "fear"
     ],
     [
-      "shot",
-      2,
-      "anger"
+      "arrives",
+      1,
+      "anticipation"
+    ],
+    [
+      "share",
+      1,
+      "joy"
     ],
     [
       "fears",
@@ -371,21 +376,16 @@
       "football",
       1,
       "joy"
-    ],
-    [
-      "history",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
+    "joy": 33,
     "trust": 70,
-    "fear": 56,
+    "fear": 57,
     "surprise": 15,
     "sadness": 16,
     "disgust": 2,
-    "anger": 106,
+    "anger": 104,
     "anticipation": 26
   }
 }
