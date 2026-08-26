@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T17:04:03.965Z",
+  "generated_at": "2026-08-26T17:19:06.394Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,11 +68,6 @@
       "anger"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "government",
       3,
       "fear"
@@ -86,6 +81,16 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "prison",
+      3,
+      "anger"
+    ],
+    [
+      "escape",
+      2,
+      "fear"
     ],
     [
       "letter",
@@ -153,6 +158,11 @@
       "anticipation"
     ],
     [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
       "missiles",
       2,
       "fear"
@@ -181,11 +191,6 @@
       "military",
       2,
       "fear"
-    ],
-    [
-      "prison",
-      2,
-      "anger"
     ],
     [
       "breaks",
@@ -253,9 +258,19 @@
       "anger"
     ],
     [
-      "black",
-      2,
-      "sadness"
+      "wizard",
+      1,
+      "surprise"
+    ],
+    [
+      "broken",
+      1,
+      "anger"
+    ],
+    [
+      "criminal",
+      1,
+      "anger"
     ],
     [
       "flagrant",
@@ -361,31 +376,16 @@
       "food",
       1,
       "joy"
-    ],
-    [
-      "production",
-      1,
-      "anticipation"
-    ],
-    [
-      "challenges",
-      1,
-      "anger"
-    ],
-    [
-      "game",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 39,
+    "joy": 38,
     "trust": 66,
-    "fear": 68,
-    "surprise": 15,
-    "sadness": 13,
+    "fear": 69,
+    "surprise": 16,
+    "sadness": 11,
     "disgust": 6,
-    "anger": 90,
-    "anticipation": 25
+    "anger": 92,
+    "anticipation": 24
   }
 }
