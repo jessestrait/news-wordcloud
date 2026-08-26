@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T03:15:10.469Z",
+  "generated_at": "2026-08-26T03:30:12.842Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "trust"
     ],
     [
+      "people",
+      7,
+      "trust"
+    ],
+    [
       "iran",
       7,
       "anger"
@@ -21,16 +26,6 @@
       "attack",
       7,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
-    ],
-    [
-      "young",
-      4,
-      "surprise"
     ],
     [
       "threat",
@@ -66,6 +61,11 @@
       "government",
       3,
       "fear"
+    ],
+    [
+      "young",
+      3,
+      "surprise"
     ],
     [
       "tariffs",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 70,
-    "fear": 57,
-    "surprise": 15,
-    "sadness": 16,
-    "disgust": 2,
-    "anger": 104,
+    "trust": 69,
+    "fear": 56,
+    "surprise": 14,
+    "sadness": 15,
+    "disgust": 1,
+    "anger": 102,
     "anticipation": 26
   }
 }
