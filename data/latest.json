@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:03:33.982Z",
+  "generated_at": "2026-08-26T16:18:36.487Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,19 +13,14 @@
       "anger"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "fire",
       5,
       "fear"
     ],
     [
-      "president",
+      "war",
       5,
-      "trust"
+      "anger"
     ],
     [
       "flood",
@@ -44,6 +39,11 @@
     ],
     [
       "trade",
+      4,
+      "trust"
+    ],
+    [
+      "president",
       4,
       "trust"
     ],
@@ -86,6 +86,11 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "letter",
+      2,
+      "anticipation"
     ],
     [
       "police",
@@ -253,6 +258,21 @@
       "sadness"
     ],
     [
+      "flagrant",
+      1,
+      "anger"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
+      "pathetic",
+      1,
+      "disgust"
+    ],
+    [
       "smuggling",
       1,
       "fear"
@@ -356,36 +376,16 @@
       "game",
       1,
       "anticipation"
-    ],
-    [
-      "propaganda",
-      1,
-      "disgust"
-    ],
-    [
-      "arguments",
-      1,
-      "anger"
-    ],
-    [
-      "words",
-      1,
-      "anger"
-    ],
-    [
-      "guardian",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 39,
-    "trust": 67,
+    "trust": 66,
     "fear": 68,
     "surprise": 15,
     "sadness": 13,
-    "disgust": 5,
-    "anger": 92,
-    "anticipation": 24
+    "disgust": 6,
+    "anger": 90,
+    "anticipation": 25
   }
 }
