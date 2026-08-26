@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-08-26T14:36:53.629Z",
+  "generated_at": "2026-08-26T14:51:56.608Z",
   "article_count": 50,
   "top_words": [
-    [
-      "iran",
-      7,
-      "anger"
-    ],
     [
       "war",
       7,
@@ -16,6 +11,11 @@
       "people",
       6,
       "trust"
+    ],
+    [
+      "iran",
+      6,
+      "anger"
     ],
     [
       "trump",
@@ -48,9 +48,9 @@
       "anger"
     ],
     [
-      "attack",
+      "leader",
       4,
-      "anger"
+      "trust"
     ],
     [
       "family",
@@ -83,9 +83,19 @@
       "surprise"
     ],
     [
-      "leader",
+      "attack",
       3,
-      "trust"
+      "anger"
+    ],
+    [
+      "shock",
+      2,
+      "anger"
+    ],
+    [
+      "exposed",
+      2,
+      "fear"
     ],
     [
       "congressman",
@@ -233,8 +243,28 @@
       "sadness"
     ],
     [
-      "letter",
-      2,
+      "lethal",
+      1,
+      "fear"
+    ],
+    [
+      "wildfires",
+      1,
+      "fear"
+    ],
+    [
+      "demanding",
+      1,
+      "anger"
+    ],
+    [
+      "confront",
+      1,
+      "anger"
+    ],
+    [
+      "global",
+      1,
       "anticipation"
     ],
     [
@@ -346,46 +376,16 @@
       "voted",
       1,
       "anger"
-    ],
-    [
-      "dissolution",
-      1,
-      "anger"
-    ],
-    [
-      "independence",
-      1,
-      "surprise"
-    ],
-    [
-      "die",
-      1,
-      "fear"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "broke",
-      1,
-      "fear"
-    ],
-    [
-      "dispute",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
-    "trust": 69,
-    "fear": 62,
-    "surprise": 16,
+    "joy": 39,
+    "trust": 67,
+    "fear": 66,
+    "surprise": 15,
     "sadness": 13,
     "disgust": 4,
     "anger": 98,
-    "anticipation": 24
+    "anticipation": 23
   }
 }
