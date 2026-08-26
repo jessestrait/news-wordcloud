@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-26T10:34:34.157Z",
+  "generated_at": "2026-08-26T10:49:36.575Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
       8,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "president",
@@ -21,11 +26,6 @@
       "fire",
       6,
       "fear"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "trade",
@@ -183,11 +183,6 @@
       "trust"
     ],
     [
-      "earthquake",
-      2,
-      "anger"
-    ],
-    [
       "strikes",
       2,
       "anger"
@@ -196,11 +191,6 @@
       "accused",
       2,
       "anger"
-    ],
-    [
-      "rising",
-      2,
-      "joy"
     ],
     [
       "sex",
@@ -223,9 +213,29 @@
       "anticipation"
     ],
     [
-      "hit",
-      2,
+      "congress",
+      1,
+      "disgust"
+    ],
+    [
+      "deputies",
+      1,
+      "trust"
+    ],
+    [
+      "voted",
+      1,
       "anger"
+    ],
+    [
+      "dissolution",
+      1,
+      "anger"
+    ],
+    [
+      "independence",
+      1,
+      "surprise"
     ],
     [
       "die",
@@ -366,26 +376,16 @@
       "companion",
       1,
       "joy"
-    ],
-    [
-      "worries",
-      1,
-      "fear"
-    ],
-    [
-      "dependence",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 69,
+    "joy": 31,
+    "trust": 71,
     "fear": 59,
-    "surprise": 15,
+    "surprise": 16,
     "sadness": 16,
-    "disgust": 2,
-    "anger": 94,
-    "anticipation": 25
+    "disgust": 3,
+    "anger": 92,
+    "anticipation": 23
   }
 }
