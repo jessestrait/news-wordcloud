@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:02:26.875Z",
+  "generated_at": "2026-08-26T07:17:29.355Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "anger"
     ],
     [
+      "fire",
+      6,
+      "fear"
+    ],
+    [
       "people",
       6,
       "trust"
@@ -26,11 +31,6 @@
       "trade",
       5,
       "trust"
-    ],
-    [
-      "plan",
-      4,
-      "anticipation"
     ],
     [
       "threat",
@@ -48,11 +48,6 @@
       "anger"
     ],
     [
-      "fire",
-      4,
-      "fear"
-    ],
-    [
       "family",
       4,
       "joy"
@@ -61,6 +56,11 @@
       "killing",
       3,
       "anger"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "government",
@@ -78,9 +78,14 @@
       "trust"
     ],
     [
-      "accused",
-      3,
-      "anger"
+      "babies",
+      2,
+      "joy"
+    ],
+    [
+      "hospital",
+      2,
+      "fear"
     ],
     [
       "attempts",
@@ -188,6 +193,11 @@
       "anger"
     ],
     [
+      "accused",
+      2,
+      "anger"
+    ],
+    [
       "rising",
       2,
       "joy"
@@ -216,6 +226,21 @@
       "hit",
       2,
       "anger"
+    ],
+    [
+      "die",
+      1,
+      "fear"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "broke",
+      1,
+      "fear"
     ],
     [
       "dispute",
@@ -351,41 +376,16 @@
       "dependence",
       1,
       "fear"
-    ],
-    [
-      "marrying",
-      1,
-      "fear"
-    ],
-    [
-      "despair",
-      1,
-      "anger"
-    ],
-    [
-      "opportunity",
-      1,
-      "anticipation"
-    ],
-    [
-      "content",
-      1,
-      "joy"
-    ],
-    [
-      "politics",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 32,
     "trust": 69,
-    "fear": 54,
+    "fear": 59,
     "surprise": 15,
     "sadness": 16,
     "disgust": 2,
-    "anger": 98,
-    "anticipation": 26
+    "anger": 94,
+    "anticipation": 25
   }
 }
