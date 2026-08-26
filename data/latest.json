@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-26T23:23:02.852Z",
+  "generated_at": "2026-08-26T23:38:05.293Z",
   "article_count": 50,
   "top_words": [
+    [
+      "flood",
+      6,
+      "fear"
+    ],
     [
       "people",
       6,
@@ -23,7 +28,12 @@
       "anger"
     ],
     [
-      "flood",
+      "police",
+      4,
+      "fear"
+    ],
+    [
+      "missing",
       4,
       "fear"
     ],
@@ -53,14 +63,9 @@
       "trust"
     ],
     [
-      "family",
-      4,
-      "joy"
-    ],
-    [
-      "missing",
+      "house",
       3,
-      "fear"
+      "joy"
     ],
     [
       "killing",
@@ -88,6 +93,16 @@
       "anger"
     ],
     [
+      "found",
+      2,
+      "joy"
+    ],
+    [
+      "powerful",
+      2,
+      "anger"
+    ],
+    [
       "escape",
       2,
       "fear"
@@ -98,11 +113,6 @@
       "anticipation"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "airport",
       2,
       "anticipation"
@@ -111,11 +121,6 @@
       "officials",
       2,
       "trust"
-    ],
-    [
-      "shock",
-      2,
-      "anger"
     ],
     [
       "exposed",
@@ -129,11 +134,6 @@
     ],
     [
       "rising",
-      2,
-      "joy"
-    ],
-    [
-      "house",
       2,
       "joy"
     ],
@@ -166,6 +166,11 @@
       "missiles",
       2,
       "fear"
+    ],
+    [
+      "families",
+      2,
+      "joy"
     ],
     [
       "measures",
@@ -298,6 +303,11 @@
       "disgust"
     ],
     [
+      "shock",
+      1,
+      "anger"
+    ],
+    [
       "lethal",
       1,
       "fear"
@@ -348,11 +358,6 @@
       "anger"
     ],
     [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
       "white",
       1,
       "joy"
@@ -371,21 +376,16 @@
       "struggle",
       1,
       "anger"
-    ],
-    [
-      "food",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 38,
     "trust": 66,
-    "fear": 69,
+    "fear": 73,
     "surprise": 16,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 6,
     "anger": 92,
-    "anticipation": 24
+    "anticipation": 23
   }
 }
