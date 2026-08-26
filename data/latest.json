@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:50:53.289Z",
+  "generated_at": "2026-08-26T13:05:55.501Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,12 +78,22 @@
       "trust"
     ],
     [
+      "floods",
+      2,
+      "fear"
+    ],
+    [
       "congressman",
       2,
       "trust"
     ],
     [
       "rising",
+      2,
+      "joy"
+    ],
+    [
+      "house",
       2,
       "joy"
     ],
@@ -228,6 +238,11 @@
       "anticipation"
     ],
     [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
       "sounds",
       1,
       "joy"
@@ -259,11 +274,6 @@
     ],
     [
       "white",
-      1,
-      "joy"
-    ],
-    [
-      "house",
       1,
       "joy"
     ],
@@ -366,24 +376,14 @@
       "broke",
       1,
       "fear"
-    ],
-    [
-      "dispute",
-      1,
-      "anger"
-    ],
-    [
-      "collapsing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 74,
-    "fear": 56,
+    "joy": 37,
+    "trust": 72,
+    "fear": 59,
     "surprise": 16,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 4,
     "anger": 100,
     "anticipation": 24
