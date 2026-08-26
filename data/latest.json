@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T00:43:50.843Z",
+  "generated_at": "2026-08-26T00:58:53.279Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anger"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
       "president",
       6,
       "trust"
@@ -23,19 +28,19 @@
       "anger"
     ],
     [
-      "trade",
-      5,
-      "trust"
-    ],
-    [
-      "people",
-      5,
-      "trust"
+      "young",
+      4,
+      "surprise"
     ],
     [
       "threat",
       4,
       "anger"
+    ],
+    [
+      "trade",
+      4,
+      "trust"
     ],
     [
       "trump",
@@ -48,9 +53,14 @@
       "fear"
     ],
     [
-      "measures",
+      "family",
+      4,
+      "joy"
+    ],
+    [
+      "government",
       3,
-      "trust"
+      "fear"
     ],
     [
       "tariffs",
@@ -61,11 +71,6 @@
       "world",
       3,
       "trust"
-    ],
-    [
-      "young",
-      3,
-      "surprise"
     ],
     [
       "warn",
@@ -108,16 +113,6 @@
       "anticipation"
     ],
     [
-      "family",
-      3,
-      "joy"
-    ],
-    [
-      "letter",
-      3,
-      "anticipation"
-    ],
-    [
       "missile",
       3,
       "fear"
@@ -128,9 +123,9 @@
       "trust"
     ],
     [
-      "government",
+      "measures",
       2,
-      "fear"
+      "trust"
     ],
     [
       "isolate",
@@ -243,6 +238,11 @@
       "sadness"
     ],
     [
+      "letter",
+      2,
+      "anticipation"
+    ],
+    [
       "hit",
       2,
       "anger"
@@ -256,6 +256,31 @@
       "shot",
       2,
       "anger"
+    ],
+    [
+      "fears",
+      1,
+      "anger"
+    ],
+    [
+      "companion",
+      1,
+      "joy"
+    ],
+    [
+      "worries",
+      1,
+      "fear"
+    ],
+    [
+      "dependence",
+      1,
+      "fear"
+    ],
+    [
+      "marrying",
+      1,
+      "fear"
     ],
     [
       "despair",
@@ -351,41 +376,16 @@
       "history",
       1,
       "trust"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
-    ],
-    [
-      "explosives",
-      1,
-      "anger"
-    ],
-    [
-      "airport",
-      1,
-      "anticipation"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "attempted",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 35,
     "trust": 70,
-    "fear": 52,
-    "surprise": 14,
+    "fear": 56,
+    "surprise": 15,
     "sadness": 16,
     "disgust": 2,
-    "anger": 105,
-    "anticipation": 27
+    "anger": 106,
+    "anticipation": 26
   }
 }
