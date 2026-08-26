@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:49:36.575Z",
+  "generated_at": "2026-08-26T11:04:39.099Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,29 +13,29 @@
       "trust"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
       "war",
       7,
       "anger"
     ],
     [
-      "fire",
+      "president",
       6,
+      "trust"
+    ],
+    [
+      "threat",
+      5,
+      "anger"
+    ],
+    [
+      "fire",
+      5,
       "fear"
     ],
     [
       "trade",
       5,
       "trust"
-    ],
-    [
-      "threat",
-      4,
-      "anger"
     ],
     [
       "trump",
@@ -76,6 +76,11 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
     ],
     [
       "babies",
@@ -213,6 +218,66 @@
       "anticipation"
     ],
     [
+      "constant",
+      1,
+      "trust"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
+    ],
+    [
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "production",
+      1,
+      "anticipation"
+    ],
+    [
+      "challenges",
+      1,
+      "anger"
+    ],
+    [
+      "game",
+      1,
+      "anticipation"
+    ],
+    [
+      "propaganda",
+      1,
+      "disgust"
+    ],
+    [
+      "arguments",
+      1,
+      "anger"
+    ],
+    [
+      "words",
+      1,
+      "anger"
+    ],
+    [
+      "guardian",
+      1,
+      "trust"
+    ],
+    [
+      "shows",
+      1,
+      "trust"
+    ],
+    [
       "congress",
       1,
       "disgust"
@@ -311,81 +376,16 @@
       "havens",
       1,
       "trust"
-    ],
-    [
-      "thwarting",
-      1,
-      "surprise"
-    ],
-    [
-      "complicated",
-      1,
-      "anger"
-    ],
-    [
-      "expose",
-      1,
-      "fear"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
-    ],
-    [
-      "money",
-      1,
-      "anger"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
-    ],
-    [
-      "paradox",
-      1,
-      "surprise"
-    ],
-    [
-      "reliance",
-      1,
-      "trust"
-    ],
-    [
-      "arrives",
-      1,
-      "anticipation"
-    ],
-    [
-      "share",
-      1,
-      "joy"
-    ],
-    [
-      "fears",
-      1,
-      "anger"
-    ],
-    [
-      "companion",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 71,
-    "fear": 59,
+    "joy": 32,
+    "trust": 72,
+    "fear": 55,
     "surprise": 16,
-    "sadness": 16,
-    "disgust": 3,
-    "anger": 92,
-    "anticipation": 23
+    "sadness": 15,
+    "disgust": 4,
+    "anger": 96,
+    "anticipation": 24
   }
 }
