@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-08-26T14:51:56.608Z",
+  "generated_at": "2026-08-26T15:06:59.048Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      7,
-      "anger"
-    ],
     [
       "people",
       6,
@@ -18,19 +13,14 @@
       "anger"
     ],
     [
-      "trump",
-      5,
+      "war",
+      6,
       "anger"
     ],
     [
       "fire",
       5,
       "fear"
-    ],
-    [
-      "trade",
-      5,
-      "trust"
     ],
     [
       "president",
@@ -43,9 +33,19 @@
       "fear"
     ],
     [
+      "trump",
+      4,
+      "anger"
+    ],
+    [
       "threat",
       4,
       "anger"
+    ],
+    [
+      "trade",
+      4,
+      "trust"
     ],
     [
       "leader",
@@ -86,6 +86,21 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "police",
+      2,
+      "fear"
+    ],
+    [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "shock",
@@ -146,11 +161,6 @@
       "isolate",
       2,
       "sadness"
-    ],
-    [
-      "tariffs",
-      2,
-      "anger"
     ],
     [
       "continue",
@@ -241,6 +251,16 @@
       "black",
       2,
       "sadness"
+    ],
+    [
+      "smuggling",
+      1,
+      "fear"
+    ],
+    [
+      "parrot",
+      1,
+      "disgust"
     ],
     [
       "lethal",
@@ -356,36 +376,16 @@
       "guardian",
       1,
       "trust"
-    ],
-    [
-      "shows",
-      1,
-      "trust"
-    ],
-    [
-      "congress",
-      1,
-      "disgust"
-    ],
-    [
-      "deputies",
-      1,
-      "trust"
-    ],
-    [
-      "voted",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 39,
     "trust": 67,
-    "fear": 66,
+    "fear": 68,
     "surprise": 15,
     "sadness": 13,
-    "disgust": 4,
-    "anger": 98,
-    "anticipation": 23
+    "disgust": 5,
+    "anger": 92,
+    "anticipation": 24
   }
 }
