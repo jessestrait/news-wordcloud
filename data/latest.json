@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T19:19:42.793Z",
+  "generated_at": "2026-08-27T19:34:45.245Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,21 @@
       "trust"
     ],
     [
+      "fire",
+      3,
+      "fear"
+    ],
+    [
+      "attack",
+      3,
+      "anger"
+    ],
+    [
+      "missiles",
+      3,
+      "fear"
+    ],
+    [
       "killed",
       3,
       "fear"
@@ -59,21 +74,6 @@
     ],
     [
       "police",
-      3,
-      "fear"
-    ],
-    [
-      "fire",
-      3,
-      "fear"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
-      "missiles",
       3,
       "fear"
     ],
@@ -253,6 +253,26 @@
       "joy"
     ],
     [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
+      "retaliation",
+      1,
+      "anger"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
       "danger",
       1,
       "fear"
@@ -321,26 +341,6 @@
       "humanity",
       1,
       "joy"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
-    ],
-    [
-      "threatens",
-      1,
-      "anger"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
     ],
     [
       "butcher",
