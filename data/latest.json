@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T09:13:41.241Z",
+  "generated_at": "2026-08-27T09:28:43.931Z",
   "article_count": 50,
   "top_words": [
     [
@@ -238,6 +238,11 @@
       "trust"
     ],
     [
+      "devastating",
+      1,
+      "anger"
+    ],
+    [
       "lawyers",
       1,
       "anger"
@@ -256,11 +261,6 @@
       "plunged",
       1,
       "fear"
-    ],
-    [
-      "devastating",
-      1,
-      "anger"
     ],
     [
       "kills",
