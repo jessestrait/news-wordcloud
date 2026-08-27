@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T18:03:52.322Z",
+  "generated_at": "2026-08-27T18:18:55.266Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "trust"
     ],
     [
+      "officials",
+      3,
+      "trust"
+    ],
+    [
       "killed",
       3,
       "fear"
@@ -78,11 +83,6 @@
       "joy"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
       "fears",
       3,
       "anger"
@@ -110,6 +110,26 @@
     [
       "president",
       3,
+      "trust"
+    ],
+    [
+      "team",
+      2,
+      "trust"
+    ],
+    [
+      "experts",
+      2,
+      "trust"
+    ],
+    [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
+      "leading",
+      2,
       "trust"
     ],
     [
@@ -148,11 +168,6 @@
       "anticipation"
     ],
     [
-      "team",
-      2,
-      "trust"
-    ],
-    [
       "young",
       2,
       "surprise"
@@ -166,11 +181,6 @@
       "sentenced",
       2,
       "anger"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "system",
@@ -243,14 +253,34 @@
       "joy"
     ],
     [
-      "breaks",
-      2,
-      "surprise"
+      "clock",
+      1,
+      "anticipation"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
     ],
     [
       "homes",
       1,
       "joy"
+    ],
+    [
+      "mountain",
+      1,
+      "anticipation"
+    ],
+    [
+      "ice",
+      1,
+      "fear"
+    ],
+    [
+      "catastrophe",
+      1,
+      "anger"
     ],
     [
       "rescue",
@@ -346,46 +376,16 @@
       "guide",
       1,
       "trust"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "malaria",
-      1,
-      "fear"
-    ],
-    [
-      "mosquito",
-      1,
-      "anger"
-    ],
-    [
-      "doctors",
-      1,
-      "trust"
-    ],
-    [
-      "disease",
-      1,
-      "anger"
-    ],
-    [
-      "friends",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 56,
+    "joy": 34,
+    "trust": 57,
     "fear": 95,
-    "surprise": 14,
+    "surprise": 12,
     "sadness": 8,
     "disgust": 8,
-    "anger": 72,
-    "anticipation": 25
+    "anger": 73,
+    "anticipation": 26
   }
 }
