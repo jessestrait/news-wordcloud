@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-27T10:44:36.111Z",
+  "generated_at": "2026-08-27T10:59:38.653Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      17,
+      15,
       "fear"
     ],
     [
       "missing",
-      11,
+      12,
       "fear"
     ],
     [
@@ -21,11 +21,6 @@
       "people",
       5,
       "trust"
-    ],
-    [
-      "deadly",
-      4,
-      "anger"
     ],
     [
       "collapse",
@@ -55,6 +50,16 @@
     [
       "iran",
       4,
+      "anger"
+    ],
+    [
+      "officials",
+      3,
+      "trust"
+    ],
+    [
+      "deadly",
+      3,
       "anger"
     ],
     [
@@ -88,11 +93,6 @@
       "fear"
     ],
     [
-      "house",
-      3,
-      "joy"
-    ],
-    [
       "fire",
       3,
       "fear"
@@ -105,6 +105,11 @@
     [
       "leader",
       3,
+      "trust"
+    ],
+    [
+      "team",
+      2,
       "trust"
     ],
     [
@@ -153,11 +158,6 @@
       "fear"
     ],
     [
-      "powerful",
-      2,
-      "anger"
-    ],
-    [
       "policy",
       2,
       "trust"
@@ -193,11 +193,6 @@
       "anticipation"
     ],
     [
-      "officials",
-      2,
-      "trust"
-    ],
-    [
       "exposed",
       2,
       "fear"
@@ -206,6 +201,11 @@
       "congressman",
       2,
       "trust"
+    ],
+    [
+      "house",
+      2,
+      "joy"
     ],
     [
       "threat",
@@ -221,6 +221,11 @@
       "hospital",
       2,
       "fear"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "missiles",
@@ -253,6 +258,16 @@
       "trust"
     ],
     [
+      "clock",
+      1,
+      "anticipation"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
       "unfolded",
       1,
       "anticipation"
@@ -266,11 +281,6 @@
       "rescue",
       1,
       "surprise"
-    ],
-    [
-      "teams",
-      1,
-      "trust"
     ],
     [
       "pastries",
@@ -366,26 +376,16 @@
       "dismissal",
       1,
       "anger"
-    ],
-    [
-      "wizard",
-      1,
-      "surprise"
-    ],
-    [
-      "broken",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 63,
+    "joy": 31,
+    "trust": 65,
     "fear": 93,
     "surprise": 15,
     "sadness": 6,
     "disgust": 8,
-    "anger": 76,
-    "anticipation": 19
+    "anger": 74,
+    "anticipation": 21
   }
 }
