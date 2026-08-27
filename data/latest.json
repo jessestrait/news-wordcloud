@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:16:40.963Z",
+  "generated_at": "2026-08-27T14:31:43.574Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,23 +14,23 @@
     ],
     [
       "war",
-      6,
-      "anger"
-    ],
-    [
-      "fire",
-      4,
-      "fear"
-    ],
-    [
-      "attack",
-      4,
+      5,
       "anger"
     ],
     [
       "people",
       4,
       "trust"
+    ],
+    [
+      "prison",
+      4,
+      "anger"
+    ],
+    [
+      "fire",
+      4,
+      "fear"
     ],
     [
       "collapse",
@@ -53,14 +53,14 @@
       "anger"
     ],
     [
-      "missiles",
+      "killed",
       3,
       "fear"
     ],
     [
-      "killed",
+      "life",
       3,
-      "fear"
+      "joy"
     ],
     [
       "rising",
@@ -73,12 +73,17 @@
       "anger"
     ],
     [
-      "deadly",
+      "attack",
       3,
       "anger"
     ],
     [
-      "prison",
+      "missiles",
+      3,
+      "fear"
+    ],
+    [
+      "deadly",
       3,
       "anger"
     ],
@@ -113,19 +118,24 @@
       "anger"
     ],
     [
+      "die",
+      3,
+      "fear"
+    ],
+    [
       "president",
       3,
+      "trust"
+    ],
+    [
+      "authorities",
+      2,
       "trust"
     ],
     [
       "global",
       2,
       "anticipation"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "massive",
@@ -151,11 +161,6 @@
       "fears",
       2,
       "anger"
-    ],
-    [
-      "life",
-      2,
-      "joy"
     ],
     [
       "food",
@@ -273,6 +278,46 @@
       "anger"
     ],
     [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
+      "butcher",
+      1,
+      "anger"
+    ],
+    [
+      "responsible",
+      1,
+      "trust"
+    ],
+    [
+      "massacre",
+      1,
+      "anger"
+    ],
+    [
+      "serving",
+      1,
+      "trust"
+    ],
+    [
+      "sentence",
+      1,
+      "anger"
+    ],
+    [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "danger",
+      1,
+      "fear"
+    ],
+    [
       "warned",
       1,
       "fear"
@@ -299,21 +344,6 @@
     ],
     [
       "uncovered",
-      1,
-      "surprise"
-    ],
-    [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "danger",
-      1,
-      "fear"
-    ],
-    [
-      "rescue",
       1,
       "surprise"
     ],
@@ -346,46 +376,16 @@
       "engulfs",
       1,
       "anticipation"
-    ],
-    [
-      "clock",
-      1,
-      "anticipation"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "devastating",
-      1,
-      "anger"
-    ],
-    [
-      "pastries",
-      1,
-      "joy"
-    ],
-    [
-      "followers",
-      1,
-      "trust"
-    ],
-    [
-      "lawyers",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 59,
-    "fear": 95,
+    "joy": 33,
+    "trust": 60,
+    "fear": 97,
     "surprise": 16,
     "sadness": 8,
     "disgust": 8,
-    "anger": 74,
+    "anger": 76,
     "anticipation": 22
   }
 }
