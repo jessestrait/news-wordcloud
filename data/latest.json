@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T06:42:21.557Z",
+  "generated_at": "2026-08-27T06:57:24.136Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,12 +103,12 @@
       "anger"
     ],
     [
-      "massive",
+      "disaster",
       2,
       "anger"
     ],
     [
-      "disaster",
+      "massive",
       2,
       "anger"
     ],
@@ -253,6 +253,11 @@
       "trust"
     ],
     [
+      "kills",
+      1,
+      "fear"
+    ],
+    [
       "cap",
       1,
       "trust"
@@ -271,11 +276,6 @@
       "guide",
       1,
       "trust"
-    ],
-    [
-      "kills",
-      1,
-      "fear"
     ],
     [
       "torrent",
