@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-27T03:40:40.064Z",
+  "generated_at": "2026-08-27T03:55:42.594Z",
   "article_count": 50,
   "top_words": [
+    [
+      "missing",
+      8,
+      "fear"
+    ],
+    [
+      "flood",
+      7,
+      "fear"
+    ],
     [
       "people",
       7,
       "trust"
-    ],
-    [
-      "flood",
-      6,
-      "fear"
-    ],
-    [
-      "missing",
-      6,
-      "fear"
     ],
     [
       "war",
@@ -243,6 +243,21 @@
       "anger"
     ],
     [
+      "collapse",
+      1,
+      "fear"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
       "torrent",
       1,
       "fear"
@@ -361,31 +376,16 @@
       "argues",
       1,
       "anger"
-    ],
-    [
-      "theocratic",
-      1,
-      "anger"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "white",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
     "trust": 67,
-    "fear": 73,
+    "fear": 76,
     "surprise": 15,
-    "sadness": 10,
+    "sadness": 12,
     "disgust": 7,
-    "anger": 89,
-    "anticipation": 21
+    "anger": 85,
+    "anticipation": 20
   }
 }
