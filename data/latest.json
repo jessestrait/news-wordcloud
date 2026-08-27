@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-27T04:26:04.365Z",
+  "generated_at": "2026-08-27T04:41:06.523Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      8,
+      "trust"
+    ],
     [
       "missing",
       8,
@@ -11,11 +16,6 @@
       "flood",
       7,
       "fear"
-    ],
-    [
-      "people",
-      7,
-      "trust"
     ],
     [
       "war",
@@ -81,6 +81,11 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "collapse",
+      2,
+      "fear"
     ],
     [
       "policy",
@@ -248,11 +253,6 @@
       "joy"
     ],
     [
-      "collapse",
-      1,
-      "fear"
-    ],
-    [
       "leaving",
       1,
       "sadness"
@@ -380,8 +380,8 @@
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 67,
-    "fear": 76,
+    "trust": 68,
+    "fear": 77,
     "surprise": 15,
     "sadness": 12,
     "disgust": 7,
