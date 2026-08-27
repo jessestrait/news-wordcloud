@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:33:30.063Z",
+  "generated_at": "2026-08-27T17:48:32.304Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "people",
       4,
       "trust"
+    ],
+    [
+      "killed",
+      4,
+      "fear"
     ],
     [
       "prison",
@@ -248,6 +248,11 @@
       "surprise"
     ],
     [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
       "danger",
       1,
       "fear"
@@ -371,11 +376,6 @@
       "friends",
       1,
       "joy"
-    ],
-    [
-      "seek",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
