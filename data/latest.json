@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-27T16:48:04.780Z",
+  "generated_at": "2026-08-27T17:03:07.482Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      17,
+      18,
       "fear"
     ],
     [
@@ -58,6 +58,21 @@
       "joy"
     ],
     [
+      "fire",
+      3,
+      "fear"
+    ],
+    [
+      "attack",
+      3,
+      "anger"
+    ],
+    [
+      "missiles",
+      3,
+      "fear"
+    ],
+    [
       "life",
       3,
       "joy"
@@ -81,21 +96,6 @@
       "family",
       3,
       "joy"
-    ],
-    [
-      "fire",
-      3,
-      "fear"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
-      "missiles",
-      3,
-      "fear"
     ],
     [
       "government",
@@ -278,6 +278,26 @@
       "fear"
     ],
     [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
+      "retaliation",
+      1,
+      "anger"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
       "homes",
       1,
       "joy"
@@ -356,32 +376,12 @@
       "loved",
       1,
       "joy"
-    ],
-    [
-      "fled",
-      1,
-      "fear"
-    ],
-    [
-      "pray",
-      1,
-      "fear"
-    ],
-    [
-      "morning",
-      1,
-      "anticipation"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 36,
     "trust": 57,
-    "fear": 101,
+    "fear": 102,
     "surprise": 17,
     "sadness": 8,
     "disgust": 8,
