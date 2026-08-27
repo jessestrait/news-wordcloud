@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T13:16:13.534Z",
+  "generated_at": "2026-08-27T13:31:15.747Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,14 +118,14 @@
       "trust"
     ],
     [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
       "global",
       2,
       "anticipation"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
     ],
     [
       "massive",
@@ -273,16 +273,6 @@
       "anger"
     ],
     [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "danger",
-      1,
-      "fear"
-    ],
-    [
       "fell",
       1,
       "sadness"
@@ -296,6 +286,16 @@
       "uncovered",
       1,
       "surprise"
+    ],
+    [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "danger",
+      1,
+      "fear"
     ],
     [
       "rescue",
