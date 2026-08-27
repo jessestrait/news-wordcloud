@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T13:00:52.987Z",
+  "generated_at": "2026-08-27T13:15:55.596Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "people",
-      5,
+      4,
       "trust"
     ],
     [
@@ -78,11 +78,6 @@
       "fear"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
       "prison",
       3,
       "anger"
@@ -128,6 +123,11 @@
       "trust"
     ],
     [
+      "global",
+      2,
+      "anticipation"
+    ],
+    [
       "massive",
       2,
       "anger"
@@ -136,6 +136,11 @@
       "change",
       2,
       "fear"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "team",
@@ -278,6 +283,21 @@
       "fear"
     ],
     [
+      "fell",
+      1,
+      "sadness"
+    ],
+    [
+      "relics",
+      1,
+      "sadness"
+    ],
+    [
+      "uncovered",
+      1,
+      "surprise"
+    ],
+    [
       "rescue",
       1,
       "surprise"
@@ -356,36 +376,16 @@
       "lawyers",
       1,
       "anger"
-    ],
-    [
-      "leading",
-      1,
-      "trust"
-    ],
-    [
-      "crude",
-      1,
-      "disgust"
-    ],
-    [
-      "plunged",
-      1,
-      "fear"
-    ],
-    [
-      "cap",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 63,
+    "trust": 59,
     "fear": 95,
-    "surprise": 15,
-    "sadness": 6,
+    "surprise": 16,
+    "sadness": 8,
     "disgust": 8,
     "anger": 74,
-    "anticipation": 21
+    "anticipation": 22
   }
 }
