@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-27T09:44:06.511Z",
+  "generated_at": "2026-08-27T09:59:09.060Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      15,
+      17,
       "fear"
     ],
     [
       "missing",
-      9,
+      11,
       "fear"
     ],
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "young",
-      4,
-      "surprise"
-    ],
-    [
       "collapse",
       4,
       "fear"
+    ],
+    [
+      "young",
+      4,
+      "surprise"
     ],
     [
       "system",
@@ -59,11 +59,6 @@
     ],
     [
       "iran",
-      4,
-      "anger"
-    ],
-    [
-      "attack",
       4,
       "anger"
     ],
@@ -103,9 +98,14 @@
       "fear"
     ],
     [
-      "killing",
+      "attack",
       3,
       "anger"
+    ],
+    [
+      "kill",
+      2,
+      "fear"
     ],
     [
       "found",
@@ -238,6 +238,16 @@
       "trust"
     ],
     [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
+      "teams",
+      1,
+      "trust"
+    ],
+    [
       "devastating",
       1,
       "anger"
@@ -259,11 +269,6 @@
     ],
     [
       "plunged",
-      1,
-      "fear"
-    ],
-    [
-      "kills",
       1,
       "fear"
     ],
@@ -371,21 +376,16 @@
       "pathetic",
       1,
       "disgust"
-    ],
-    [
-      "smuggling",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 63,
-    "fear": 88,
-    "surprise": 14,
+    "trust": 64,
+    "fear": 93,
+    "surprise": 15,
     "sadness": 7,
     "disgust": 8,
-    "anger": 81,
+    "anger": 76,
     "anticipation": 19
   }
 }
