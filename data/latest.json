@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-27T05:41:52.943Z",
+  "generated_at": "2026-08-27T05:56:55.474Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      10,
+      11,
       "fear"
     ],
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
@@ -23,9 +23,19 @@
       "anger"
     ],
     [
+      "collapse",
+      5,
+      "fear"
+    ],
+    [
       "iran",
       5,
       "anger"
+    ],
+    [
+      "system",
+      4,
+      "trust"
     ],
     [
       "trump",
@@ -48,9 +58,14 @@
       "trust"
     ],
     [
-      "collapse",
+      "government",
       3,
       "fear"
+    ],
+    [
+      "experts",
+      3,
+      "trust"
     ],
     [
       "officials",
@@ -91,6 +106,26 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "massive",
+      2,
+      "anger"
+    ],
+    [
+      "disaster",
+      2,
+      "anger"
+    ],
+    [
+      "change",
+      2,
+      "fear"
+    ],
+    [
+      "warn",
+      2,
+      "fear"
     ],
     [
       "policy",
@@ -163,11 +198,6 @@
       "fear"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "families",
       2,
       "joy"
@@ -208,16 +238,6 @@
       "trust"
     ],
     [
-      "experts",
-      2,
-      "trust"
-    ],
-    [
-      "system",
-      2,
-      "trust"
-    ],
-    [
       "threaten",
       2,
       "anger"
@@ -233,6 +253,16 @@
       "anger"
     ],
     [
+      "cap",
+      1,
+      "trust"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
       "unfolded",
       1,
       "anticipation"
@@ -241,16 +271,6 @@
       "guide",
       1,
       "trust"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "disaster",
-      1,
-      "anger"
     ],
     [
       "kills",
@@ -356,36 +376,16 @@
       "wildfires",
       1,
       "fear"
-    ],
-    [
-      "demanding",
-      1,
-      "anger"
-    ],
-    [
-      "confront",
-      1,
-      "anger"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
-    ],
-    [
-      "sounds",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 67,
-    "fear": 78,
+    "trust": 70,
+    "fear": 83,
     "surprise": 15,
-    "sadness": 9,
+    "sadness": 8,
     "disgust": 7,
-    "anger": 81,
-    "anticipation": 20
+    "anger": 83,
+    "anticipation": 21
   }
 }
