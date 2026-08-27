@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T19:49:47.794Z",
+  "generated_at": "2026-08-27T20:04:51.907Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "trust"
     ],
     [
+      "rising",
+      3,
+      "joy"
+    ],
+    [
       "fire",
       3,
       "fear"
@@ -56,16 +61,6 @@
       "missiles",
       3,
       "fear"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
-      "rising",
-      3,
-      "joy"
     ],
     [
       "officials",
@@ -146,6 +141,11 @@
       "team",
       2,
       "trust"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
     ],
     [
       "deadly",
@@ -253,6 +253,16 @@
       "joy"
     ],
     [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
+      "danger",
+      1,
+      "fear"
+    ],
+    [
       "warned",
       1,
       "fear"
@@ -271,11 +281,6 @@
       "start",
       1,
       "anticipation"
-    ],
-    [
-      "danger",
-      1,
-      "fear"
     ],
     [
       "mountain",
@@ -371,19 +376,14 @@
       "unfolded",
       1,
       "anticipation"
-    ],
-    [
-      "guide",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
     "trust": 57,
-    "fear": 94,
+    "fear": 93,
     "surprise": 12,
-    "sadness": 8,
+    "sadness": 9,
     "disgust": 8,
     "anger": 73,
     "anticipation": 26
