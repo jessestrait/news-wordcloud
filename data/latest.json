@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-27T04:41:06.523Z",
+  "generated_at": "2026-08-27T04:56:08.685Z",
   "article_count": 50,
   "top_words": [
-    [
-      "people",
-      8,
-      "trust"
-    ],
     [
       "missing",
       8,
       "fear"
+    ],
+    [
+      "people",
+      8,
+      "trust"
     ],
     [
       "flood",
@@ -238,6 +238,21 @@
       "anger"
     ],
     [
+      "torrent",
+      1,
+      "fear"
+    ],
+    [
+      "debris",
+      1,
+      "disgust"
+    ],
+    [
+      "engulfs",
+      1,
+      "anticipation"
+    ],
+    [
       "poll",
       1,
       "trust"
@@ -261,21 +276,6 @@
       "death",
       1,
       "sadness"
-    ],
-    [
-      "torrent",
-      1,
-      "fear"
-    ],
-    [
-      "debris",
-      1,
-      "disgust"
-    ],
-    [
-      "engulfs",
-      1,
-      "anticipation"
     ],
     [
       "fortress",
