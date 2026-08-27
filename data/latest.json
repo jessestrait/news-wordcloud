@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T16:02:36.446Z",
+  "generated_at": "2026-08-27T16:17:39.463Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,9 +18,9 @@
       "anger"
     ],
     [
-      "airport",
+      "prison",
       4,
-      "anticipation"
+      "anger"
     ],
     [
       "collapse",
@@ -28,9 +28,9 @@
       "fear"
     ],
     [
-      "prison",
+      "airport",
       4,
-      "anger"
+      "anticipation"
     ],
     [
       "fire",
@@ -58,6 +58,16 @@
       "joy"
     ],
     [
+      "life",
+      3,
+      "joy"
+    ],
+    [
+      "deadly",
+      3,
+      "anger"
+    ],
+    [
       "officials",
       3,
       "trust"
@@ -78,11 +88,6 @@
       "trust"
     ],
     [
-      "life",
-      3,
-      "joy"
-    ],
-    [
       "attack",
       3,
       "anger"
@@ -91,11 +96,6 @@
       "missiles",
       3,
       "fear"
-    ],
-    [
-      "deadly",
-      3,
-      "anger"
     ],
     [
       "government",
@@ -278,6 +278,46 @@
       "fear"
     ],
     [
+      "butcher",
+      1,
+      "anger"
+    ],
+    [
+      "responsible",
+      1,
+      "trust"
+    ],
+    [
+      "massacre",
+      1,
+      "anger"
+    ],
+    [
+      "serving",
+      1,
+      "trust"
+    ],
+    [
+      "sentence",
+      1,
+      "anger"
+    ],
+    [
+      "unfolded",
+      1,
+      "anticipation"
+    ],
+    [
+      "guide",
+      1,
+      "trust"
+    ],
+    [
+      "massive",
+      1,
+      "anger"
+    ],
+    [
       "malaria",
       1,
       "fear"
@@ -333,49 +373,9 @@
       "surprise"
     ],
     [
-      "butcher",
-      1,
-      "anger"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
-    ],
-    [
-      "massacre",
-      1,
-      "anger"
-    ],
-    [
-      "serving",
-      1,
-      "trust"
-    ],
-    [
-      "sentence",
-      1,
-      "anger"
-    ],
-    [
       "warned",
       1,
       "fear"
-    ],
-    [
-      "threatens",
-      1,
-      "anger"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
