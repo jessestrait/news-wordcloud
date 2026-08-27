@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T08:58:38.631Z",
+  "generated_at": "2026-08-27T09:13:41.241Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,24 +13,24 @@
       "fear"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "war",
       6,
       "anger"
     ],
     [
-      "collapse",
+      "people",
       5,
-      "fear"
+      "trust"
     ],
     [
       "young",
       4,
       "surprise"
+    ],
+    [
+      "collapse",
+      4,
+      "fear"
     ],
     [
       "system",
@@ -380,8 +380,8 @@
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 65,
-    "fear": 89,
+    "trust": 63,
+    "fear": 88,
     "surprise": 14,
     "sadness": 7,
     "disgust": 8,
