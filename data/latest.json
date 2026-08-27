@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T12:00:24.301Z",
+  "generated_at": "2026-08-27T12:15:26.603Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "fear"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "young",
       4,
       "surprise"
@@ -48,6 +53,11 @@
       "anger"
     ],
     [
+      "disaster",
+      3,
+      "anger"
+    ],
+    [
       "killed",
       3,
       "fear"
@@ -56,11 +66,6 @@
       "rising",
       3,
       "joy"
-    ],
-    [
-      "disaster",
-      3,
-      "anger"
     ],
     [
       "missiles",
@@ -103,11 +108,6 @@
       "trust"
     ],
     [
-      "warn",
-      3,
-      "fear"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -123,19 +123,19 @@
       "trust"
     ],
     [
-      "attack",
-      3,
+      "massive",
+      2,
       "anger"
+    ],
+    [
+      "change",
+      2,
+      "fear"
     ],
     [
       "authorities",
       2,
       "trust"
-    ],
-    [
-      "massive",
-      2,
-      "anger"
     ],
     [
       "team",
@@ -163,7 +163,7 @@
       "anger"
     ],
     [
-      "change",
+      "warn",
       2,
       "fear"
     ],
@@ -268,17 +268,17 @@
       "anger"
     ],
     [
+      "kills",
+      1,
+      "fear"
+    ],
+    [
       "warning",
       1,
       "fear"
     ],
     [
       "danger",
-      1,
-      "fear"
-    ],
-    [
-      "kills",
       1,
       "fear"
     ],
@@ -301,6 +301,11 @@
       "rescue",
       1,
       "surprise"
+    ],
+    [
+      "warned",
+      1,
+      "fear"
     ],
     [
       "retaliation",
@@ -371,11 +376,6 @@
       "cap",
       1,
       "trust"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 15,
     "sadness": 6,
     "disgust": 8,
-    "anger": 73,
+    "anger": 74,
     "anticipation": 21
   }
 }
