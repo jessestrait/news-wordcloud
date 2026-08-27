@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:48:49.371Z",
+  "generated_at": "2026-08-27T18:03:52.322Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "trust"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "prison",
       4,
       "anger"
@@ -46,6 +41,16 @@
       "trade",
       4,
       "trust"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
+      "kill",
+      3,
+      "fear"
     ],
     [
       "rising",
@@ -126,11 +131,6 @@
       "deadly",
       2,
       "anger"
-    ],
-    [
-      "kills",
-      2,
-      "fear"
     ],
     [
       "family",
@@ -248,6 +248,11 @@
       "surprise"
     ],
     [
+      "homes",
+      1,
+      "joy"
+    ],
+    [
       "rescue",
       1,
       "surprise"
@@ -306,11 +311,6 @@
       "start",
       1,
       "anticipation"
-    ],
-    [
-      "homes",
-      1,
-      "joy"
     ],
     [
       "butcher",
