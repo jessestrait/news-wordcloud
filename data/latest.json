@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T10:59:55.268Z",
+  "generated_at": "2026-08-27T11:14:57.614Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "collapse",
-      4,
-      "fear"
-    ],
-    [
       "young",
       4,
       "surprise"
+    ],
+    [
+      "collapse",
+      4,
+      "fear"
     ],
     [
       "trump",
@@ -113,6 +113,16 @@
       "trust"
     ],
     [
+      "disaster",
+      2,
+      "anger"
+    ],
+    [
+      "fears",
+      2,
+      "anger"
+    ],
+    [
       "massive",
       2,
       "anger"
@@ -134,16 +144,6 @@
     ],
     [
       "sentenced",
-      2,
-      "anger"
-    ],
-    [
-      "found",
-      2,
-      "joy"
-    ],
-    [
-      "fears",
       2,
       "anger"
     ],
@@ -268,6 +268,11 @@
       "fear"
     ],
     [
+      "devastating",
+      1,
+      "anger"
+    ],
+    [
       "unfolded",
       1,
       "anticipation"
@@ -293,11 +298,6 @@
       "trust"
     ],
     [
-      "devastating",
-      1,
-      "anger"
-    ],
-    [
       "lawyers",
       1,
       "anger"
@@ -316,11 +316,6 @@
       "plunged",
       1,
       "fear"
-    ],
-    [
-      "disaster",
-      1,
-      "anger"
     ],
     [
       "cap",
@@ -376,16 +371,21 @@
       "dismissal",
       1,
       "anger"
+    ],
+    [
+      "wizard",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 30,
     "trust": 65,
     "fear": 93,
     "surprise": 15,
     "sadness": 6,
     "disgust": 8,
-    "anger": 74,
+    "anger": 75,
     "anticipation": 21
   }
 }
