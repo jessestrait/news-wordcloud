@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-27T23:06:54.556Z",
+  "generated_at": "2026-08-27T23:21:56.786Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      17,
+      18,
       "fear"
     ],
     [
@@ -258,6 +258,16 @@
       "fear"
     ],
     [
+      "greens",
+      1,
+      "joy"
+    ],
+    [
+      "labor",
+      1,
+      "surprise"
+    ],
+    [
       "warned",
       1,
       "fear"
@@ -366,23 +376,13 @@
       "sentence",
       1,
       "anger"
-    ],
-    [
-      "unfolded",
-      1,
-      "anticipation"
-    ],
-    [
-      "guide",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 35,
     "trust": 57,
-    "fear": 93,
-    "surprise": 11,
+    "fear": 94,
+    "surprise": 12,
     "sadness": 8,
     "disgust": 8,
     "anger": 70,
