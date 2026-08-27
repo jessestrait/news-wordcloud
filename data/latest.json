@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T06:11:57.944Z",
+  "generated_at": "2026-08-27T06:27:00.563Z",
   "article_count": 50,
   "top_words": [
     [
@@ -60,11 +60,6 @@
     [
       "leader",
       4,
-      "trust"
-    ],
-    [
-      "officials",
-      3,
       "trust"
     ],
     [
@@ -171,6 +166,11 @@
       "airport",
       2,
       "anticipation"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "exposed",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 70,
+    "trust": 69,
     "fear": 85,
     "surprise": 14,
     "sadness": 8,
