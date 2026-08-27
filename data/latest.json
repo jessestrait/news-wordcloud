@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T07:58:10.242Z",
+  "generated_at": "2026-08-27T08:13:12.779Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,8 +58,18 @@
       "trust"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "leader",
       4,
+      "trust"
+    ],
+    [
+      "world",
+      3,
       "trust"
     ],
     [
@@ -96,16 +106,6 @@
       "young",
       3,
       "surprise"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
-      "disaster",
-      2,
-      "anger"
     ],
     [
       "massive",
@@ -156,11 +156,6 @@
       "escape",
       2,
       "fear"
-    ],
-    [
-      "letter",
-      2,
-      "anticipation"
     ],
     [
       "airport",
@@ -238,11 +233,6 @@
       "surprise"
     ],
     [
-      "world",
-      2,
-      "trust"
-    ],
-    [
       "threaten",
       2,
       "anger"
@@ -253,9 +243,34 @@
       "trust"
     ],
     [
+      "lawyers",
+      1,
+      "anger"
+    ],
+    [
+      "leading",
+      1,
+      "trust"
+    ],
+    [
+      "crude",
+      1,
+      "disgust"
+    ],
+    [
+      "plunged",
+      1,
+      "fear"
+    ],
+    [
       "kills",
       1,
       "fear"
+    ],
+    [
+      "disaster",
+      1,
+      "anger"
     ],
     [
       "cap",
@@ -338,6 +353,11 @@
       "anger"
     ],
     [
+      "letter",
+      1,
+      "anticipation"
+    ],
+    [
       "flagrant",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "smuggling",
       1,
       "fear"
-    ],
-    [
-      "parrot",
-      1,
-      "disgust"
-    ],
-    [
-      "shock",
-      1,
-      "anger"
-    ],
-    [
-      "lethal",
-      1,
-      "fear"
-    ],
-    [
-      "wildfires",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 69,
-    "fear": 85,
-    "surprise": 14,
+    "joy": 27,
+    "trust": 66,
+    "fear": 86,
+    "surprise": 13,
     "sadness": 8,
-    "disgust": 7,
+    "disgust": 8,
     "anger": 81,
-    "anticipation": 21
+    "anticipation": 20
   }
 }
