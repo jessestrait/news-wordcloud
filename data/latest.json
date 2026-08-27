@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-27T16:17:59.031Z",
+  "generated_at": "2026-08-27T16:33:02.034Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      16,
+      17,
       "fear"
     ],
     [
@@ -16,6 +16,16 @@
       "war",
       5,
       "anger"
+    ],
+    [
+      "killed",
+      4,
+      "fear"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "prison",
@@ -33,11 +43,6 @@
       "anticipation"
     ],
     [
-      "fire",
-      4,
-      "fear"
-    ],
-    [
       "young",
       4,
       "surprise"
@@ -46,11 +51,6 @@
       "trade",
       4,
       "trust"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
     ],
     [
       "rising",
@@ -83,9 +83,9 @@
       "joy"
     ],
     [
-      "people",
+      "fire",
       3,
-      "trust"
+      "fear"
     ],
     [
       "attack",
@@ -121,6 +121,11 @@
       "president",
       3,
       "trust"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
     ],
     [
       "authorities",
@@ -268,14 +273,14 @@
       "surprise"
     ],
     [
-      "warning",
+      "danger",
       1,
       "fear"
     ],
     [
-      "danger",
+      "homes",
       1,
-      "fear"
+      "joy"
     ],
     [
       "butcher",
@@ -371,21 +376,16 @@
       "rescue",
       1,
       "surprise"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 56,
+    "joy": 36,
+    "trust": 57,
     "fear": 101,
     "surprise": 17,
     "sadness": 8,
     "disgust": 8,
-    "anger": 72,
+    "anger": 70,
     "anticipation": 26
   }
 }
