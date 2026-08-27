@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T12:30:47.505Z",
+  "generated_at": "2026-08-27T12:45:50.298Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,11 +53,6 @@
       "anger"
     ],
     [
-      "deadly",
-      3,
-      "anger"
-    ],
-    [
       "killed",
       3,
       "fear"
@@ -69,6 +64,11 @@
     ],
     [
       "disaster",
+      3,
+      "anger"
+    ],
+    [
+      "deadly",
       3,
       "anger"
     ],
@@ -123,14 +123,14 @@
       "trust"
     ],
     [
-      "massive",
-      2,
-      "anger"
-    ],
-    [
       "authorities",
       2,
       "trust"
+    ],
+    [
+      "massive",
+      2,
+      "anger"
     ],
     [
       "change",
@@ -268,16 +268,6 @@
       "anger"
     ],
     [
-      "unfolded",
-      1,
-      "anticipation"
-    ],
-    [
-      "guide",
-      1,
-      "trust"
-    ],
-    [
       "warning",
       1,
       "fear"
@@ -291,6 +281,16 @@
       "kills",
       1,
       "fear"
+    ],
+    [
+      "unfolded",
+      1,
+      "anticipation"
+    ],
+    [
+      "guide",
+      1,
+      "trust"
     ],
     [
       "torrent",
