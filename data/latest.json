@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:03:25.135Z",
+  "generated_at": "2026-08-27T17:18:27.800Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,11 +43,6 @@
       "anticipation"
     ],
     [
-      "young",
-      4,
-      "surprise"
-    ],
-    [
       "trade",
       4,
       "trust"
@@ -78,11 +73,6 @@
       "joy"
     ],
     [
-      "deadly",
-      3,
-      "anger"
-    ],
-    [
       "officials",
       3,
       "trust"
@@ -91,11 +81,6 @@
       "fears",
       3,
       "anger"
-    ],
-    [
-      "family",
-      3,
-      "joy"
     ],
     [
       "government",
@@ -138,9 +123,19 @@
       "anger"
     ],
     [
+      "deadly",
+      2,
+      "anger"
+    ],
+    [
       "kills",
       2,
       "fear"
+    ],
+    [
+      "family",
+      2,
+      "joy"
     ],
     [
       "good",
@@ -156,6 +151,11 @@
       "team",
       2,
       "trust"
+    ],
+    [
+      "young",
+      2,
+      "surprise"
     ],
     [
       "food",
@@ -178,29 +178,9 @@
       "trust"
     ],
     [
-      "experts",
-      2,
-      "trust"
-    ],
-    [
-      "warn",
-      2,
-      "fear"
-    ],
-    [
-      "policy",
-      2,
-      "trust"
-    ],
-    [
       "production",
       2,
       "anticipation"
-    ],
-    [
-      "rules",
-      2,
-      "fear"
     ],
     [
       "police",
@@ -221,11 +201,6 @@
       "leaders",
       2,
       "trust"
-    ],
-    [
-      "exposed",
-      2,
-      "fear"
     ],
     [
       "congressman",
@@ -276,6 +251,36 @@
       "danger",
       1,
       "fear"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
+    ],
+    [
+      "general",
+      1,
+      "trust"
+    ],
+    [
+      "convicted",
+      1,
+      "anger"
+    ],
+    [
+      "slaughter",
+      1,
+      "anger"
+    ],
+    [
+      "crimes",
+      1,
+      "anger"
+    ],
+    [
+      "humanity",
+      1,
+      "joy"
     ],
     [
       "warned",
@@ -371,21 +376,16 @@
       "seek",
       1,
       "anticipation"
-    ],
-    [
-      "loved",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 57,
-    "fear": 102,
-    "surprise": 17,
+    "joy": 35,
+    "trust": 56,
+    "fear": 95,
+    "surprise": 14,
     "sadness": 8,
     "disgust": 8,
-    "anger": 70,
-    "anticipation": 26
+    "anger": 72,
+    "anticipation": 25
   }
 }
