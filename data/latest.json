@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:01:38.154Z",
+  "generated_at": "2026-08-27T14:16:40.963Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,16 +18,6 @@
       "anger"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
-      "collapse",
-      4,
-      "fear"
-    ],
-    [
       "fire",
       4,
       "fear"
@@ -36,6 +26,16 @@
       "attack",
       4,
       "anger"
+    ],
+    [
+      "people",
+      4,
+      "trust"
+    ],
+    [
+      "collapse",
+      4,
+      "fear"
     ],
     [
       "young",
@@ -51,6 +51,11 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "missiles",
+      3,
+      "fear"
     ],
     [
       "killed",
@@ -71,11 +76,6 @@
       "deadly",
       3,
       "anger"
-    ],
-    [
-      "missiles",
-      3,
-      "fear"
     ],
     [
       "prison",
@@ -273,6 +273,21 @@
       "anger"
     ],
     [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "retaliation",
+      1,
+      "anger"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
       "fell",
       1,
       "sadness"
@@ -329,21 +344,6 @@
     ],
     [
       "engulfs",
-      1,
-      "anticipation"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "start",
       1,
       "anticipation"
     ],
