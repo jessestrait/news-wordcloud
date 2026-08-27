@@ -1,11 +1,21 @@
 {
-  "generated_at": "2026-08-27T03:10:16.162Z",
+  "generated_at": "2026-08-27T03:25:18.749Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
       7,
       "trust"
+    ],
+    [
+      "flood",
+      6,
+      "fear"
+    ],
+    [
+      "missing",
+      6,
+      "fear"
     ],
     [
       "war",
@@ -16,21 +26,6 @@
       "iran",
       6,
       "anger"
-    ],
-    [
-      "missing",
-      5,
-      "fear"
-    ],
-    [
-      "flood",
-      5,
-      "fear"
-    ],
-    [
-      "officials",
-      4,
-      "trust"
     ],
     [
       "trump",
@@ -58,9 +53,9 @@
       "trust"
     ],
     [
-      "warn",
+      "officials",
       3,
-      "fear"
+      "trust"
     ],
     [
       "military",
@@ -208,6 +203,11 @@
       "trust"
     ],
     [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
       "system",
       2,
       "trust"
@@ -243,9 +243,19 @@
       "anger"
     ],
     [
-      "death",
+      "torrent",
       1,
-      "sadness"
+      "fear"
+    ],
+    [
+      "debris",
+      1,
+      "disgust"
+    ],
+    [
+      "engulfs",
+      1,
+      "anticipation"
     ],
     [
       "fortress",
@@ -366,25 +376,15 @@
       "white",
       1,
       "joy"
-    ],
-    [
-      "constant",
-      1,
-      "trust"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 68,
-    "fear": 71,
-    "surprise": 16,
-    "sadness": 11,
-    "disgust": 6,
+    "trust": 67,
+    "fear": 73,
+    "surprise": 15,
+    "sadness": 10,
+    "disgust": 7,
     "anger": 89,
     "anticipation": 21
   }
