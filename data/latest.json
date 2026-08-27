@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T10:14:30.930Z",
+  "generated_at": "2026-08-27T10:29:33.545Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "surprise"
     ],
     [
-      "system",
-      4,
-      "trust"
-    ],
-    [
       "deadly",
       4,
       "anger"
@@ -63,9 +58,9 @@
       "anger"
     ],
     [
-      "leader",
-      4,
-      "trust"
+      "prison",
+      3,
+      "anger"
     ],
     [
       "world",
@@ -76,6 +71,11 @@
       "government",
       3,
       "fear"
+    ],
+    [
+      "system",
+      3,
+      "trust"
     ],
     [
       "experts",
@@ -103,9 +103,29 @@
       "anger"
     ],
     [
+      "leader",
+      3,
+      "trust"
+    ],
+    [
       "kill",
       2,
       "fear"
+    ],
+    [
+      "life",
+      2,
+      "joy"
+    ],
+    [
+      "food",
+      2,
+      "joy"
+    ],
+    [
+      "sentenced",
+      2,
+      "anger"
     ],
     [
       "found",
@@ -223,11 +243,6 @@
       "joy"
     ],
     [
-      "prison",
-      2,
-      "anger"
-    ],
-    [
       "breaks",
       2,
       "surprise"
@@ -244,6 +259,16 @@
     ],
     [
       "teams",
+      1,
+      "trust"
+    ],
+    [
+      "pastries",
+      1,
+      "joy"
+    ],
+    [
+      "followers",
       1,
       "trust"
     ],
@@ -351,39 +376,14 @@
       "broken",
       1,
       "anger"
-    ],
-    [
-      "criminal",
-      1,
-      "anger"
-    ],
-    [
-      "letter",
-      1,
-      "anticipation"
-    ],
-    [
-      "flagrant",
-      1,
-      "anger"
-    ],
-    [
-      "law",
-      1,
-      "trust"
-    ],
-    [
-      "pathetic",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 64,
+    "joy": 32,
+    "trust": 63,
     "fear": 93,
     "surprise": 15,
-    "sadness": 7,
+    "sadness": 6,
     "disgust": 8,
     "anger": 76,
     "anticipation": 19
