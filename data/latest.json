@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-08-27T05:56:55.474Z",
+  "generated_at": "2026-08-27T06:11:57.944Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      11,
+      13,
+      "fear"
+    ],
+    [
+      "missing",
+      8,
       "fear"
     ],
     [
@@ -13,13 +18,8 @@
       "trust"
     ],
     [
-      "missing",
-      7,
-      "fear"
-    ],
-    [
       "war",
-      7,
+      6,
       "anger"
     ],
     [
@@ -36,6 +36,11 @@
       "system",
       4,
       "trust"
+    ],
+    [
+      "deadly",
+      4,
+      "anger"
     ],
     [
       "trump",
@@ -58,6 +63,11 @@
       "trust"
     ],
     [
+      "officials",
+      3,
+      "trust"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -68,24 +78,14 @@
       "trust"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
-      "deadly",
-      3,
-      "anger"
-    ],
-    [
       "military",
       3,
       "fear"
     ],
     [
-      "threat",
+      "house",
       3,
-      "anger"
+      "joy"
     ],
     [
       "fire",
@@ -126,6 +126,11 @@
       "warn",
       2,
       "fear"
+    ],
+    [
+      "powerful",
+      2,
+      "anger"
     ],
     [
       "policy",
@@ -178,9 +183,9 @@
       "trust"
     ],
     [
-      "house",
+      "threat",
       2,
-      "joy"
+      "anger"
     ],
     [
       "babies",
@@ -246,11 +251,6 @@
       "ally",
       2,
       "trust"
-    ],
-    [
-      "strikes",
-      2,
-      "anger"
     ],
     [
       "cap",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 31,
     "trust": 70,
-    "fear": 83,
-    "surprise": 15,
+    "fear": 85,
+    "surprise": 14,
     "sadness": 8,
     "disgust": 7,
-    "anger": 83,
+    "anger": 81,
     "anticipation": 21
   }
 }
