@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-08-27T01:24:19.729Z",
+  "generated_at": "2026-08-27T01:39:22.151Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
       7,
       "trust"
+    ],
+    [
+      "war",
+      6,
+      "anger"
     ],
     [
       "iran",
@@ -21,11 +26,6 @@
       "missing",
       5,
       "fear"
-    ],
-    [
-      "war",
-      5,
-      "anger"
     ],
     [
       "officials",
@@ -58,6 +58,11 @@
       "trust"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "warn",
       3,
       "fear"
@@ -78,22 +83,12 @@
       "anger"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "young",
       3,
       "surprise"
     ],
     [
       "attack",
-      3,
-      "anger"
-    ],
-    [
-      "prison",
       3,
       "anger"
     ],
@@ -158,12 +153,12 @@
       "anticipation"
     ],
     [
-      "plan",
+      "missiles",
       2,
-      "anticipation"
+      "fear"
     ],
     [
-      "missiles",
+      "government",
       2,
       "fear"
     ],
@@ -193,9 +188,9 @@
       "joy"
     ],
     [
-      "military",
+      "prison",
       2,
-      "fear"
+      "anger"
     ],
     [
       "breaks",
@@ -248,13 +243,18 @@
       "anger"
     ],
     [
-      "sex",
-      2,
-      "joy"
+      "fortress",
+      1,
+      "fear"
     ],
     [
-      "offenders",
-      2,
+      "belt",
+      1,
+      "anger"
+    ],
+    [
+      "dismissal",
+      1,
       "anger"
     ],
     [
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
+    "joy": 32,
     "trust": 68,
     "fear": 71,
     "surprise": 16,
     "sadness": 11,
     "disgust": 6,
-    "anger": 90,
-    "anticipation": 23
+    "anger": 89,
+    "anticipation": 21
   }
 }
