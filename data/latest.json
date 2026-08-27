@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T01:39:22.151Z",
+  "generated_at": "2026-08-27T01:54:24.798Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,12 +58,12 @@
       "trust"
     ],
     [
-      "military",
+      "warn",
       3,
       "fear"
     ],
     [
-      "warn",
+      "military",
       3,
       "fear"
     ],
@@ -243,6 +243,11 @@
       "anger"
     ],
     [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
       "fortress",
       1,
       "fear"
@@ -256,11 +261,6 @@
       "dismissal",
       1,
       "anger"
-    ],
-    [
-      "death",
-      1,
-      "sadness"
     ],
     [
       "wizard",
