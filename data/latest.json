@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-27T19:04:23.899Z",
+  "generated_at": "2026-08-27T19:19:26.391Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      18,
+      17,
       "fear"
     ],
     [
@@ -58,7 +58,7 @@
       "trust"
     ],
     [
-      "kill",
+      "police",
       3,
       "fear"
     ],
@@ -153,6 +153,11 @@
       "anger"
     ],
     [
+      "kills",
+      2,
+      "fear"
+    ],
+    [
       "family",
       2,
       "joy"
@@ -191,11 +196,6 @@
       "production",
       2,
       "anticipation"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "happened",
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 34,
     "trust": 57,
-    "fear": 95,
+    "fear": 94,
     "surprise": 12,
     "sadness": 8,
     "disgust": 8,
