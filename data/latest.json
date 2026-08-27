@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-27T15:02:06.090Z",
+  "generated_at": "2026-08-27T15:17:08.377Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      15,
+      16,
       "fear"
     ],
     [
       "missing",
-      10,
+      11,
       "fear"
     ],
     [
@@ -48,17 +48,22 @@
       "trust"
     ],
     [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
       "killed",
       3,
       "fear"
     ],
     [
       "rising",
+      3,
+      "joy"
+    ],
+    [
+      "fears",
+      3,
+      "anger"
+    ],
+    [
+      "family",
       3,
       "joy"
     ],
@@ -83,22 +88,12 @@
       "anger"
     ],
     [
-      "world",
-      3,
-      "trust"
-    ],
-    [
       "government",
       3,
       "fear"
     ],
     [
       "system",
-      3,
-      "trust"
-    ],
-    [
-      "experts",
       3,
       "trust"
     ],
@@ -133,6 +128,11 @@
       "anger"
     ],
     [
+      "good",
+      2,
+      "surprise"
+    ],
+    [
       "global",
       2,
       "anticipation"
@@ -148,11 +148,6 @@
       "trust"
     ],
     [
-      "fears",
-      2,
-      "anger"
-    ],
-    [
       "food",
       2,
       "joy"
@@ -161,6 +156,16 @@
       "sentenced",
       2,
       "anger"
+    ],
+    [
+      "world",
+      2,
+      "trust"
+    ],
+    [
+      "experts",
+      2,
+      "trust"
     ],
     [
       "warn",
@@ -238,14 +243,14 @@
       "fear"
     ],
     [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "families",
-      2,
-      "joy"
     ],
     [
       "continue",
@@ -263,16 +268,6 @@
       "surprise"
     ],
     [
-      "threaten",
-      2,
-      "anger"
-    ],
-    [
-      "morning",
-      1,
-      "anticipation"
-    ],
-    [
       "warning",
       1,
       "fear"
@@ -281,6 +276,36 @@
       "danger",
       1,
       "fear"
+    ],
+    [
+      "friends",
+      1,
+      "joy"
+    ],
+    [
+      "seek",
+      1,
+      "anticipation"
+    ],
+    [
+      "loved",
+      1,
+      "joy"
+    ],
+    [
+      "fled",
+      1,
+      "fear"
+    ],
+    [
+      "pray",
+      1,
+      "fear"
+    ],
+    [
+      "morning",
+      1,
+      "anticipation"
     ],
     [
       "rescue",
@@ -318,6 +343,11 @@
       "fear"
     ],
     [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
       "retaliation",
       1,
       "anger"
@@ -346,46 +376,16 @@
       "kills",
       1,
       "fear"
-    ],
-    [
-      "unfolded",
-      1,
-      "anticipation"
-    ],
-    [
-      "guide",
-      1,
-      "trust"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "torrent",
-      1,
-      "fear"
-    ],
-    [
-      "debris",
-      1,
-      "disgust"
-    ],
-    [
-      "engulfs",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 60,
-    "fear": 96,
-    "surprise": 16,
+    "joy": 36,
+    "trust": 58,
+    "fear": 99,
+    "surprise": 17,
     "sadness": 8,
     "disgust": 8,
-    "anger": 74,
-    "anticipation": 23
+    "anger": 71,
+    "anticipation": 24
   }
 }
