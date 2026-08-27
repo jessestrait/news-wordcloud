@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T20:50:41.133Z",
+  "generated_at": "2026-08-27T21:05:44.923Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "missing",
-      11,
+      12,
       "fear"
     ],
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "people",
       4,
       "trust"
-    ],
-    [
-      "prison",
-      4,
-      "anger"
     ],
     [
       "collapse",
@@ -73,6 +73,11 @@
       "fear"
     ],
     [
+      "prison",
+      3,
+      "anger"
+    ],
+    [
       "life",
       3,
       "joy"
@@ -81,11 +86,6 @@
       "fears",
       3,
       "anger"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "military",
@@ -181,11 +181,6 @@
       "food",
       2,
       "joy"
-    ],
-    [
-      "sentenced",
-      2,
-      "anger"
     ],
     [
       "system",
@@ -376,16 +371,21 @@
       "unfolded",
       1,
       "anticipation"
+    ],
+    [
+      "guide",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
     "trust": 57,
     "fear": 93,
-    "surprise": 12,
-    "sadness": 9,
+    "surprise": 11,
+    "sadness": 8,
     "disgust": 8,
-    "anger": 73,
+    "anger": 70,
     "anticipation": 26
   }
 }
