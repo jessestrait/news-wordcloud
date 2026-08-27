@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-27T04:56:25.811Z",
+  "generated_at": "2026-08-27T05:11:28.265Z",
   "article_count": 50,
   "top_words": [
     [
-      "missing",
+      "flood",
       8,
       "fear"
     ],
@@ -13,7 +13,7 @@
       "trust"
     ],
     [
-      "flood",
+      "missing",
       7,
       "fear"
     ],
@@ -238,6 +238,16 @@
       "anger"
     ],
     [
+      "disaster",
+      1,
+      "anger"
+    ],
+    [
+      "kills",
+      1,
+      "fear"
+    ],
+    [
       "torrent",
       1,
       "fear"
@@ -266,16 +276,6 @@
       "promising",
       1,
       "joy"
-    ],
-    [
-      "leaving",
-      1,
-      "sadness"
-    ],
-    [
-      "death",
-      1,
-      "sadness"
     ],
     [
       "fortress",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 31,
     "trust": 68,
-    "fear": 77,
+    "fear": 78,
     "surprise": 15,
-    "sadness": 12,
+    "sadness": 10,
     "disgust": 7,
-    "anger": 80,
+    "anger": 81,
     "anticipation": 20
   }
 }
