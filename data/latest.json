@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T18:18:55.266Z",
+  "generated_at": "2026-08-27T18:33:58.166Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,17 +43,7 @@
       "trust"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
       "killed",
-      3,
-      "fear"
-    ],
-    [
-      "kill",
       3,
       "fear"
     ],
@@ -61,6 +51,16 @@
       "rising",
       3,
       "joy"
+    ],
+    [
+      "officials",
+      3,
+      "trust"
+    ],
+    [
+      "kill",
+      3,
+      "fear"
     ],
     [
       "fire",
@@ -113,9 +113,19 @@
       "trust"
     ],
     [
-      "team",
+      "warning",
+      2,
+      "fear"
+    ],
+    [
+      "authorities",
       2,
       "trust"
+    ],
+    [
+      "disaster",
+      2,
+      "anger"
     ],
     [
       "experts",
@@ -133,19 +143,9 @@
       "trust"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
-      "authorities",
+      "team",
       2,
       "trust"
-    ],
-    [
-      "disaster",
-      2,
-      "anger"
     ],
     [
       "deadly",
@@ -253,19 +253,9 @@
       "joy"
     ],
     [
-      "clock",
-      1,
-      "anticipation"
-    ],
-    [
-      "emergency",
+      "danger",
       1,
       "fear"
-    ],
-    [
-      "homes",
-      1,
-      "joy"
     ],
     [
       "mountain",
@@ -283,14 +273,24 @@
       "anger"
     ],
     [
+      "clock",
+      1,
+      "anticipation"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "homes",
+      1,
+      "joy"
+    ],
+    [
       "rescue",
       1,
       "surprise"
-    ],
-    [
-      "danger",
-      1,
-      "fear"
     ],
     [
       "obituary",
