@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T10:29:33.545Z",
+  "generated_at": "2026-08-27T10:44:36.111Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "trust"
     ],
     [
+      "deadly",
+      4,
+      "anger"
+    ],
+    [
       "collapse",
       4,
       "fear"
@@ -31,11 +36,6 @@
       "young",
       4,
       "surprise"
-    ],
-    [
-      "deadly",
-      4,
-      "anger"
     ],
     [
       "trump",
@@ -108,6 +108,11 @@
       "trust"
     ],
     [
+      "massive",
+      2,
+      "anger"
+    ],
+    [
       "kill",
       2,
       "fear"
@@ -134,11 +139,6 @@
     ],
     [
       "fears",
-      2,
-      "anger"
-    ],
-    [
-      "massive",
       2,
       "anger"
     ],
@@ -253,6 +253,16 @@
       "trust"
     ],
     [
+      "unfolded",
+      1,
+      "anticipation"
+    ],
+    [
+      "guide",
+      1,
+      "trust"
+    ],
+    [
       "rescue",
       1,
       "surprise"
@@ -311,16 +321,6 @@
       "power",
       1,
       "anticipation"
-    ],
-    [
-      "unfolded",
-      1,
-      "anticipation"
-    ],
-    [
-      "guide",
-      1,
-      "trust"
     ],
     [
       "torrent",
