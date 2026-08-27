@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T11:29:59.891Z",
+  "generated_at": "2026-08-27T11:45:02.453Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "trust"
     ],
     [
+      "fire",
+      4,
+      "fear"
+    ],
+    [
       "collapse",
       4,
       "fear"
@@ -33,17 +38,7 @@
       "surprise"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
       "trade",
-      4,
-      "trust"
-    ],
-    [
-      "president",
       4,
       "trust"
     ],
@@ -51,6 +46,11 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "missiles",
+      3,
+      "fear"
     ],
     [
       "deadly",
@@ -88,14 +88,24 @@
       "trust"
     ],
     [
+      "warn",
+      3,
+      "fear"
+    ],
+    [
       "military",
       3,
       "fear"
     ],
     [
-      "fire",
+      "trump",
       3,
-      "fear"
+      "anger"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "attack",
@@ -103,9 +113,9 @@
       "anger"
     ],
     [
-      "leader",
-      3,
-      "trust"
+      "kill",
+      2,
+      "fear"
     ],
     [
       "massive",
@@ -128,11 +138,6 @@
       "anger"
     ],
     [
-      "kill",
-      2,
-      "fear"
-    ],
-    [
       "life",
       2,
       "joy"
@@ -149,11 +154,6 @@
     ],
     [
       "change",
-      2,
-      "fear"
-    ],
-    [
-      "warn",
       2,
       "fear"
     ],
@@ -193,6 +193,11 @@
       "anticipation"
     ],
     [
+      "leaders",
+      2,
+      "trust"
+    ],
+    [
       "exposed",
       2,
       "fear"
@@ -228,11 +233,6 @@
       "anticipation"
     ],
     [
-      "missiles",
-      2,
-      "fear"
-    ],
-    [
       "families",
       2,
       "joy"
@@ -253,9 +253,39 @@
       "surprise"
     ],
     [
-      "ally",
+      "threaten",
       2,
-      "trust"
+      "anger"
+    ],
+    [
+      "torrent",
+      1,
+      "fear"
+    ],
+    [
+      "debris",
+      1,
+      "disgust"
+    ],
+    [
+      "engulfs",
+      1,
+      "anticipation"
+    ],
+    [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
+      "retaliation",
+      1,
+      "anger"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
     ],
     [
       "unfolded",
@@ -281,11 +311,6 @@
       "devastating",
       1,
       "anger"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
     ],
     [
       "pastries",
@@ -328,21 +353,6 @@
       "anticipation"
     ],
     [
-      "torrent",
-      1,
-      "fear"
-    ],
-    [
-      "debris",
-      1,
-      "disgust"
-    ],
-    [
-      "engulfs",
-      1,
-      "anticipation"
-    ],
-    [
       "poll",
       1,
       "trust"
@@ -366,26 +376,16 @@
       "belt",
       1,
       "anger"
-    ],
-    [
-      "dismissal",
-      1,
-      "anger"
-    ],
-    [
-      "wizard",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 65,
-    "fear": 93,
+    "trust": 62,
+    "fear": 94,
     "surprise": 15,
     "sadness": 6,
     "disgust": 8,
-    "anger": 75,
+    "anger": 72,
     "anticipation": 21
   }
 }
