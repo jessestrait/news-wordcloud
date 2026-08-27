@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T15:17:08.377Z",
+  "generated_at": "2026-08-27T15:32:10.665Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,19 @@
       "anger"
     ],
     [
+      "airport",
+      4,
+      "anticipation"
+    ],
+    [
+      "deadly",
+      4,
+      "anger"
+    ],
+    [
       "collapse",
       4,
       "fear"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "prison",
@@ -45,6 +50,11 @@
     [
       "trade",
       4,
+      "trust"
+    ],
+    [
+      "officials",
+      3,
       "trust"
     ],
     [
@@ -68,6 +78,11 @@
       "joy"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "life",
       3,
       "joy"
@@ -83,19 +98,9 @@
       "fear"
     ],
     [
-      "deadly",
-      3,
-      "anger"
-    ],
-    [
       "government",
       3,
       "fear"
-    ],
-    [
-      "system",
-      3,
-      "trust"
     ],
     [
       "military",
@@ -118,6 +123,11 @@
       "trust"
     ],
     [
+      "kills",
+      2,
+      "fear"
+    ],
+    [
       "authorities",
       2,
       "trust"
@@ -138,11 +148,6 @@
       "anticipation"
     ],
     [
-      "officials",
-      2,
-      "trust"
-    ],
-    [
       "team",
       2,
       "trust"
@@ -159,6 +164,11 @@
     ],
     [
       "world",
+      2,
+      "trust"
+    ],
+    [
+      "system",
       2,
       "trust"
     ],
@@ -201,11 +211,6 @@
       "escape",
       2,
       "fear"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
     ],
     [
       "leaders",
@@ -253,11 +258,6 @@
       "anticipation"
     ],
     [
-      "continue",
-      2,
-      "trust"
-    ],
-    [
       "churches",
       2,
       "joy"
@@ -266,6 +266,31 @@
       "breaks",
       2,
       "surprise"
+    ],
+    [
+      "malaria",
+      1,
+      "fear"
+    ],
+    [
+      "mosquito",
+      1,
+      "anger"
+    ],
+    [
+      "doctors",
+      1,
+      "trust"
+    ],
+    [
+      "watch",
+      1,
+      "fear"
+    ],
+    [
+      "disease",
+      1,
+      "anger"
     ],
     [
       "warning",
@@ -351,41 +376,16 @@
       "retaliation",
       1,
       "anger"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
-    ],
-    [
-      "fell",
-      1,
-      "sadness"
-    ],
-    [
-      "relics",
-      1,
-      "sadness"
-    ],
-    [
-      "uncovered",
-      1,
-      "surprise"
-    ],
-    [
-      "kills",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 58,
-    "fear": 99,
+    "joy": 35,
+    "trust": 56,
+    "fear": 102,
     "surprise": 17,
     "sadness": 8,
     "disgust": 8,
-    "anger": 71,
-    "anticipation": 24
+    "anger": 73,
+    "anticipation": 26
   }
 }
