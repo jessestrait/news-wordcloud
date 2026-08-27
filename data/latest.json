@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T12:45:50.298Z",
+  "generated_at": "2026-08-27T13:00:52.987Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,6 +278,11 @@
       "fear"
     ],
     [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
       "kills",
       1,
       "fear"
@@ -306,11 +311,6 @@
       "engulfs",
       1,
       "anticipation"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
     ],
     [
       "warned",
