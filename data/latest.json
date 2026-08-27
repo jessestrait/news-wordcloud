@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T11:45:22.169Z",
+  "generated_at": "2026-08-27T12:00:24.301Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "missing",
-      12,
+      10,
       "fear"
     ],
     [
@@ -23,12 +23,12 @@
       "trust"
     ],
     [
-      "fire",
+      "collapse",
       4,
       "fear"
     ],
     [
-      "collapse",
+      "fire",
       4,
       "fear"
     ],
@@ -45,6 +45,21 @@
     [
       "iran",
       4,
+      "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
+      "rising",
+      3,
+      "joy"
+    ],
+    [
+      "disaster",
+      3,
       "anger"
     ],
     [
@@ -113,9 +128,9 @@
       "anger"
     ],
     [
-      "kill",
+      "authorities",
       2,
-      "fear"
+      "trust"
     ],
     [
       "massive",
@@ -126,11 +141,6 @@
       "team",
       2,
       "trust"
-    ],
-    [
-      "disaster",
-      2,
-      "anger"
     ],
     [
       "fears",
@@ -258,6 +268,21 @@
       "anger"
     ],
     [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "danger",
+      1,
+      "fear"
+    ],
+    [
+      "kills",
+      1,
+      "fear"
+    ],
+    [
       "torrent",
       1,
       "fear"
@@ -351,41 +376,16 @@
       "power",
       1,
       "anticipation"
-    ],
-    [
-      "poll",
-      1,
-      "trust"
-    ],
-    [
-      "blossomed",
-      1,
-      "joy"
-    ],
-    [
-      "promising",
-      1,
-      "joy"
-    ],
-    [
-      "fortress",
-      1,
-      "fear"
-    ],
-    [
-      "belt",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 62,
-    "fear": 94,
+    "joy": 32,
+    "trust": 63,
+    "fear": 95,
     "surprise": 15,
     "sadness": 6,
     "disgust": 8,
-    "anger": 72,
+    "anger": 73,
     "anticipation": 21
   }
 }
