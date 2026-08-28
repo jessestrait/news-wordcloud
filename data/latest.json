@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T06:55:44.730Z",
+  "generated_at": "2026-08-28T07:10:47.081Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,11 +51,6 @@
       "global",
       3,
       "anticipation"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "war",
@@ -138,6 +133,11 @@
       "fear"
     ],
     [
+      "found",
+      2,
+      "joy"
+    ],
+    [
       "emergency",
       2,
       "fear"
@@ -154,6 +154,11 @@
     ],
     [
       "killed",
+      2,
+      "fear"
+    ],
+    [
+      "government",
       2,
       "fear"
     ],
@@ -353,19 +358,9 @@
       "fear"
     ],
     [
-      "based",
-      1,
-      "trust"
-    ],
-    [
       "evacuated",
       1,
       "fear"
-    ],
-    [
-      "prolonged",
-      1,
-      "disgust"
     ],
     [
       "don",
@@ -376,15 +371,20 @@
       "arrive",
       1,
       "anticipation"
+    ],
+    [
+      "advise",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 51,
-    "fear": 108,
+    "joy": 31,
+    "trust": 50,
+    "fear": 107,
     "surprise": 13,
     "sadness": 10,
-    "disgust": 10,
+    "disgust": 9,
     "anger": 65,
     "anticipation": 26
   }
