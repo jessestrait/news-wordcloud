@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T09:57:18.388Z",
+  "generated_at": "2026-08-28T10:12:20.946Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,22 +43,22 @@
       "fear"
     ],
     [
-      "flooding",
-      3,
-      "fear"
-    ],
-    [
-      "disaster",
-      3,
-      "anger"
-    ],
-    [
       "rescue",
       3,
       "surprise"
     ],
     [
       "fears",
+      3,
+      "anger"
+    ],
+    [
+      "flooding",
+      3,
+      "fear"
+    ],
+    [
+      "disaster",
       3,
       "anger"
     ],
@@ -113,16 +113,6 @@
       "anticipation"
     ],
     [
-      "loved",
-      2,
-      "joy"
-    ],
-    [
-      "pray",
-      2,
-      "fear"
-    ],
-    [
       "operations",
       2,
       "fear"
@@ -131,6 +121,16 @@
       "death",
       2,
       "sadness"
+    ],
+    [
+      "loved",
+      2,
+      "joy"
+    ],
+    [
+      "pray",
+      2,
+      "fear"
     ],
     [
       "government",
@@ -263,6 +263,16 @@
       "trust"
     ],
     [
+      "halting",
+      1,
+      "fear"
+    ],
+    [
+      "destruction",
+      1,
+      "anger"
+    ],
+    [
       "safe",
       1,
       "joy"
@@ -289,16 +299,6 @@
     ],
     [
       "aftermath",
-      1,
-      "anger"
-    ],
-    [
-      "halting",
-      1,
-      "fear"
-    ],
-    [
-      "destruction",
       1,
       "anger"
     ],
