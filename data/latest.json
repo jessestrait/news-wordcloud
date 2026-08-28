@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:29:51.359Z",
+  "generated_at": "2026-08-28T14:44:54.059Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "missing",
-      21,
+      22,
       "fear"
     ],
     [
@@ -30,6 +30,11 @@
     [
       "disaster",
       5,
+      "anger"
+    ],
+    [
+      "fears",
+      4,
       "anger"
     ],
     [
@@ -61,11 +66,6 @@
       "collapse",
       4,
       "fear"
-    ],
-    [
-      "fears",
-      3,
-      "anger"
     ],
     [
       "loved",
@@ -123,9 +123,9 @@
       "anticipation"
     ],
     [
-      "death",
+      "confirmed",
       2,
-      "sadness"
+      "trust"
     ],
     [
       "obituary",
@@ -141,6 +141,11 @@
       "relatives",
       2,
       "trust"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
     ],
     [
       "killed",
@@ -238,6 +243,11 @@
       "joy"
     ],
     [
+      "pledges",
+      1,
+      "joy"
+    ],
+    [
       "assessment",
       1,
       "surprise"
@@ -266,11 +276,6 @@
       "focus",
       1,
       "trust"
-    ],
-    [
-      "operations",
-      1,
-      "fear"
     ],
     [
       "public",
@@ -371,21 +376,16 @@
       "god",
       1,
       "surprise"
-    ],
-    [
-      "feared",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 47,
+    "joy": 32,
+    "trust": 49,
     "fear": 112,
     "surprise": 16,
     "sadness": 10,
     "disgust": 8,
-    "anger": 55,
+    "anger": 56,
     "anticipation": 25
   }
 }
