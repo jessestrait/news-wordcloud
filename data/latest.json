@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:16:43.708Z",
+  "generated_at": "2026-08-28T17:31:46.007Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,12 +14,12 @@
     ],
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
       "disaster",
-      5,
+      6,
       "anger"
     ],
     [
@@ -116,11 +116,6 @@
       "life",
       3,
       "joy"
-    ],
-    [
-      "confirmed",
-      2,
-      "trust"
     ],
     [
       "opposition",
@@ -238,7 +233,27 @@
       "anticipation"
     ],
     [
+      "authority",
+      1,
+      "trust"
+    ],
+    [
+      "jump",
+      1,
+      "joy"
+    ],
+    [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
       "losing",
+      1,
+      "anger"
+    ],
+    [
+      "casualty",
       1,
       "anger"
     ],
@@ -246,11 +261,6 @@
       "level",
       1,
       "trust"
-    ],
-    [
-      "casualties",
-      1,
-      "anger"
     ],
     [
       "gain",
@@ -366,26 +376,16 @@
       "worried",
       1,
       "sadness"
-    ],
-    [
-      "hopeful",
-      1,
-      "surprise"
-    ],
-    [
-      "wait",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 48,
+    "joy": 28,
+    "trust": 47,
     "fear": 106,
     "surprise": 15,
     "sadness": 11,
     "disgust": 7,
-    "anger": 54,
+    "anger": 55,
     "anticipation": 23
   }
 }
