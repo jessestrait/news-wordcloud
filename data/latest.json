@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:30:22.906Z",
+  "generated_at": "2026-08-28T15:45:25.897Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,17 +9,12 @@
     ],
     [
       "missing",
-      22,
+      21,
       "fear"
     ],
     [
-      "rescue",
-      6,
-      "surprise"
-    ],
-    [
       "people",
-      6,
+      7,
       "trust"
     ],
     [
@@ -28,13 +23,18 @@
       "joy"
     ],
     [
-      "fears",
+      "disaster",
       5,
       "anger"
     ],
     [
-      "disaster",
+      "rescue",
       5,
+      "surprise"
+    ],
+    [
+      "fears",
+      4,
       "anger"
     ],
     [
@@ -68,14 +68,14 @@
       "fear"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "loved",
       3,
       "joy"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "risk",
@@ -128,12 +128,12 @@
       "anticipation"
     ],
     [
-      "confirmed",
+      "relatives",
       2,
       "trust"
     ],
     [
-      "relatives",
+      "confirmed",
       2,
       "trust"
     ],
@@ -228,6 +228,11 @@
       "anticipation"
     ],
     [
+      "grow",
+      1,
+      "joy"
+    ],
+    [
       "cross",
       1,
       "anger"
@@ -236,16 +241,6 @@
       "continue",
       1,
       "trust"
-    ],
-    [
-      "pledges",
-      1,
-      "joy"
-    ],
-    [
-      "grow",
-      1,
-      "joy"
     ],
     [
       "assessment",
@@ -376,16 +371,21 @@
       "feared",
       1,
       "anger"
+    ],
+    [
+      "dolphin",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 47,
-    "fear": 112,
-    "surprise": 16,
+    "joy": 27,
+    "trust": 48,
+    "fear": 111,
+    "surprise": 15,
     "sadness": 11,
     "disgust": 8,
-    "anger": 54,
+    "anger": 53,
     "anticipation": 25
   }
 }
