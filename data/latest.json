@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T10:42:44.411Z",
+  "generated_at": "2026-08-28T10:57:47.017Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "missing",
-      21,
+      20,
       "fear"
     ],
     [
@@ -28,14 +28,14 @@
       "fear"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "disaster",
       4,
       "anger"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "officials",
@@ -253,6 +253,16 @@
       "fear"
     ],
     [
+      "foreigners",
+      1,
+      "fear"
+    ],
+    [
+      "guided",
+      1,
+      "trust"
+    ],
+    [
       "operations",
       1,
       "fear"
@@ -366,21 +376,11 @@
       "lawsuits",
       1,
       "anger"
-    ],
-    [
-      "don",
-      1,
-      "trust"
-    ],
-    [
-      "arrive",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 46,
+    "trust": 47,
     "fear": 113,
     "surprise": 15,
     "sadness": 11,
