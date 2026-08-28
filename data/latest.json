@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T07:10:47.081Z",
+  "generated_at": "2026-08-28T07:25:49.446Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "die",
       5,
       "fear"
+    ],
+    [
+      "officials",
+      4,
+      "trust"
     ],
     [
       "police",
@@ -78,11 +83,6 @@
       "fear"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
       "team",
       3,
       "trust"
@@ -103,14 +103,19 @@
       "anticipation"
     ],
     [
-      "operations",
+      "convicted",
+      2,
+      "anger"
+    ],
+    [
+      "government",
       2,
       "fear"
     ],
     [
-      "convicted",
+      "operations",
       2,
-      "anger"
+      "fear"
     ],
     [
       "loved",
@@ -154,11 +159,6 @@
     ],
     [
       "killed",
-      2,
-      "fear"
-    ],
-    [
-      "government",
       2,
       "fear"
     ],
@@ -263,16 +263,6 @@
       "trust"
     ],
     [
-      "death",
-      1,
-      "sadness"
-    ],
-    [
-      "destruction",
-      1,
-      "anger"
-    ],
-    [
       "leaving",
       1,
       "sadness"
@@ -299,6 +289,16 @@
     ],
     [
       "offender",
+      1,
+      "anger"
+    ],
+    [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
+      "destruction",
       1,
       "anger"
     ],
@@ -379,10 +379,10 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 50,
+    "joy": 30,
+    "trust": 51,
     "fear": 107,
-    "surprise": 13,
+    "surprise": 12,
     "sadness": 10,
     "disgust": 9,
     "anger": 65,
