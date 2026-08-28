@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T06:10:23.373Z",
+  "generated_at": "2026-08-28T06:25:25.475Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,11 +21,6 @@
       "police",
       5,
       "fear"
-    ],
-    [
-      "war",
-      4,
-      "anger"
     ],
     [
       "collapse",
@@ -53,14 +48,19 @@
       "disgust"
     ],
     [
+      "global",
+      3,
+      "anticipation"
+    ],
+    [
       "government",
       3,
       "fear"
     ],
     [
-      "plan",
+      "war",
       3,
-      "anticipation"
+      "anger"
     ],
     [
       "missiles",
@@ -116,6 +116,11 @@
       "disaster",
       2,
       "anger"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "devastating",
@@ -188,11 +193,6 @@
       "anger"
     ],
     [
-      "global",
-      2,
-      "anticipation"
-    ],
-    [
       "food",
       2,
       "joy"
@@ -251,6 +251,21 @@
       "death",
       1,
       "sadness"
+    ],
+    [
+      "child",
+      1,
+      "joy"
+    ],
+    [
+      "america",
+      1,
+      "sadness"
+    ],
+    [
+      "lawsuits",
+      1,
+      "anger"
     ],
     [
       "dolphin",
@@ -361,31 +376,16 @@
       "found",
       1,
       "joy"
-    ],
-    [
-      "danger",
-      1,
-      "fear"
-    ],
-    [
-      "shot",
-      1,
-      "anger"
-    ],
-    [
-      "bomb",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 53,
-    "fear": 111,
-    "surprise": 15,
-    "sadness": 8,
+    "joy": 28,
+    "trust": 52,
+    "fear": 109,
+    "surprise": 14,
+    "sadness": 9,
     "disgust": 13,
-    "anger": 62,
+    "anger": 61,
     "anticipation": 27
   }
 }
