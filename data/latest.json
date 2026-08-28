@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T12:28:39.650Z",
+  "generated_at": "2026-08-28T12:43:42.192Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,11 +63,6 @@
       "fear"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "risk",
       3,
       "fear"
@@ -121,6 +116,11 @@
       "airport",
       3,
       "anticipation"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
     ],
     [
       "killed",
@@ -383,7 +383,7 @@
     "trust": 47,
     "fear": 115,
     "surprise": 15,
-    "sadness": 10,
+    "sadness": 9,
     "disgust": 9,
     "anger": 59,
     "anticipation": 26
