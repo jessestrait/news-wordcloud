@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-08-28T01:38:06.063Z",
+  "generated_at": "2026-08-28T01:53:08.596Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      18,
+      19,
       "fear"
     ],
     [
       "missing",
-      12,
+      13,
       "fear"
     ],
     [
       "war",
       6,
       "anger"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "missiles",
@@ -28,11 +33,6 @@
       "fear"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "collapse",
       4,
       "fear"
@@ -41,6 +41,11 @@
       "trade",
       4,
       "trust"
+    ],
+    [
+      "rising",
+      3,
+      "joy"
     ],
     [
       "attack",
@@ -53,17 +58,17 @@
       "fear"
     ],
     [
-      "rising",
-      3,
-      "joy"
-    ],
-    [
       "fire",
       3,
       "fear"
     ],
     [
       "officials",
+      3,
+      "trust"
+    ],
+    [
+      "team",
       3,
       "trust"
     ],
@@ -123,6 +128,16 @@
       "anger"
     ],
     [
+      "debris",
+      2,
+      "disgust"
+    ],
+    [
+      "rescue",
+      2,
+      "surprise"
+    ],
+    [
       "experts",
       2,
       "trust"
@@ -134,11 +149,6 @@
     ],
     [
       "leading",
-      2,
-      "trust"
-    ],
-    [
-      "team",
       2,
       "trust"
     ],
@@ -243,6 +253,16 @@
       "joy"
     ],
     [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
+      "danger",
+      1,
+      "fear"
+    ],
+    [
       "greens",
       1,
       "joy"
@@ -253,6 +273,16 @@
       "surprise"
     ],
     [
+      "risks",
+      1,
+      "fear"
+    ],
+    [
+      "flooding",
+      1,
+      "fear"
+    ],
+    [
       "shot",
       1,
       "anger"
@@ -261,16 +291,6 @@
       "bomb",
       1,
       "anger"
-    ],
-    [
-      "death",
-      1,
-      "sadness"
-    ],
-    [
-      "danger",
-      1,
-      "fear"
     ],
     [
       "warned",
@@ -323,11 +343,6 @@
       "joy"
     ],
     [
-      "rescue",
-      1,
-      "surprise"
-    ],
-    [
       "obituary",
       1,
       "sadness"
@@ -361,30 +376,15 @@
       "butcher",
       1,
       "anger"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
-    ],
-    [
-      "massacre",
-      1,
-      "anger"
-    ],
-    [
-      "serving",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 31,
     "trust": 57,
-    "fear": 94,
-    "surprise": 12,
+    "fear": 98,
+    "surprise": 13,
     "sadness": 8,
-    "disgust": 7,
+    "disgust": 8,
     "anger": 72,
     "anticipation": 24
   }
