@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-28T18:17:11.930Z",
+  "generated_at": "2026-08-28T18:32:14.595Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      27,
+      28,
       "fear"
     ],
     [
@@ -63,6 +63,11 @@
       "fear"
     ],
     [
+      "relatives",
+      3,
+      "trust"
+    ],
+    [
       "death",
       3,
       "sadness"
@@ -118,6 +123,11 @@
       "joy"
     ],
     [
+      "homes",
+      2,
+      "joy"
+    ],
+    [
       "opposition",
       2,
       "anger"
@@ -141,11 +151,6 @@
       "devastating",
       2,
       "anger"
-    ],
-    [
-      "relatives",
-      2,
-      "trust"
     ],
     [
       "obituary",
@@ -246,6 +251,11 @@
       "confirmed",
       1,
       "trust"
+    ],
+    [
+      "grieve",
+      1,
+      "fear"
     ],
     [
       "gain",
@@ -366,26 +376,16 @@
       "surge",
       1,
       "surprise"
-    ],
-    [
-      "safe",
-      1,
-      "joy"
-    ],
-    [
-      "worried",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 29,
     "trust": 47,
-    "fear": 106,
+    "fear": 108,
     "surprise": 15,
     "sadness": 11,
-    "disgust": 7,
-    "anger": 55,
-    "anticipation": 23
+    "disgust": 6,
+    "anger": 54,
+    "anticipation": 22
   }
 }
