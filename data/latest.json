@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T01:23:03.664Z",
+  "generated_at": "2026-08-28T01:38:06.063Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,6 +243,16 @@
       "joy"
     ],
     [
+      "greens",
+      1,
+      "joy"
+    ],
+    [
+      "labor",
+      1,
+      "surprise"
+    ],
+    [
       "shot",
       1,
       "anger"
@@ -261,16 +271,6 @@
       "danger",
       1,
       "fear"
-    ],
-    [
-      "greens",
-      1,
-      "joy"
-    ],
-    [
-      "labor",
-      1,
-      "surprise"
     ],
     [
       "warned",
