@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T08:11:26.116Z",
+  "generated_at": "2026-08-28T08:26:28.368Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,6 +51,11 @@
       "disaster",
       3,
       "anger"
+    ],
+    [
+      "family",
+      3,
+      "joy"
     ],
     [
       "global",
@@ -108,6 +113,11 @@
       "fear"
     ],
     [
+      "death",
+      2,
+      "sadness"
+    ],
+    [
       "risk",
       2,
       "fear"
@@ -131,11 +141,6 @@
       "flooding",
       2,
       "fear"
-    ],
-    [
-      "convicted",
-      2,
-      "anger"
     ],
     [
       "government",
@@ -208,11 +213,6 @@
       "anger"
     ],
     [
-      "family",
-      2,
-      "joy"
-    ],
-    [
       "food",
       2,
       "joy"
@@ -261,11 +261,6 @@
       "trade",
       2,
       "trust"
-    ],
-    [
-      "death",
-      1,
-      "sadness"
     ],
     [
       "destruction",
@@ -318,34 +313,24 @@
       "anger"
     ],
     [
-      "leaving",
+      "age",
       1,
-      "sadness"
+      "anticipation"
     ],
     [
-      "stormy",
+      "turbulent",
       1,
       "fear"
+    ],
+    [
+      "association",
+      1,
+      "trust"
     ],
     [
       "epstein",
       1,
       "disgust"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "sex",
-      1,
-      "joy"
-    ],
-    [
-      "offender",
-      1,
-      "anger"
     ],
     [
       "child",
@@ -376,16 +361,31 @@
       "advise",
       1,
       "trust"
+    ],
+    [
+      "vigils",
+      1,
+      "anticipation"
+    ],
+    [
+      "homes",
+      1,
+      "joy"
+    ],
+    [
+      "scandal",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 51,
+    "trust": 52,
     "fear": 107,
     "surprise": 12,
-    "sadness": 10,
+    "sadness": 9,
     "disgust": 9,
-    "anger": 65,
-    "anticipation": 26
+    "anger": 63,
+    "anticipation": 27
   }
 }
