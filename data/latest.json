@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:00:17.565Z",
+  "generated_at": "2026-08-28T15:15:20.294Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,14 +68,14 @@
       "fear"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "loved",
       3,
       "joy"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "risk",
@@ -128,6 +128,11 @@
       "anticipation"
     ],
     [
+      "relatives",
+      2,
+      "trust"
+    ],
+    [
       "confirmed",
       2,
       "trust"
@@ -139,11 +144,6 @@
     ],
     [
       "leader",
-      2,
-      "trust"
-    ],
-    [
-      "relatives",
       2,
       "trust"
     ],
@@ -228,6 +228,11 @@
       "anticipation"
     ],
     [
+      "grow",
+      1,
+      "joy"
+    ],
+    [
       "pledges",
       1,
       "joy"
@@ -291,11 +296,6 @@
       "marine",
       1,
       "trust"
-    ],
-    [
-      "grow",
-      1,
-      "joy"
     ],
     [
       "turbulent",
