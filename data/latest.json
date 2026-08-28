@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:46:17.330Z",
+  "generated_at": "2026-08-28T17:01:20.231Z",
   "article_count": 50,
   "top_words": [
     [
@@ -128,6 +128,11 @@
       "trust"
     ],
     [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
       "massive",
       2,
       "anger"
@@ -233,11 +238,6 @@
       "anticipation"
     ],
     [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
       "gain",
       1,
       "joy"
@@ -308,11 +308,6 @@
       "trust"
     ],
     [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
       "leader",
       1,
       "trust"
@@ -376,6 +371,11 @@
       "praise",
       1,
       "joy"
+    ],
+    [
+      "god",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
