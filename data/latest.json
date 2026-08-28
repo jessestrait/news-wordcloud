@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T05:55:21.221Z",
+  "generated_at": "2026-08-28T06:10:23.373Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,16 +24,16 @@
     ],
     [
       "war",
-      5,
+      4,
       "anger"
     ],
     [
-      "missiles",
+      "collapse",
       4,
       "fear"
     ],
     [
-      "collapse",
+      "die",
       4,
       "fear"
     ],
@@ -43,14 +43,29 @@
       "surprise"
     ],
     [
+      "risk",
+      3,
+      "fear"
+    ],
+    [
       "debris",
       3,
       "disgust"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "missiles",
+      3,
+      "fear"
     ],
     [
       "attack",
@@ -93,21 +108,6 @@
       "anticipation"
     ],
     [
-      "die",
-      3,
-      "fear"
-    ],
-    [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
-      "arrive",
-      2,
-      "anticipation"
-    ],
-    [
       "emergency",
       2,
       "fear"
@@ -139,11 +139,6 @@
     ],
     [
       "flooding",
-      2,
-      "fear"
-    ],
-    [
-      "government",
       2,
       "fear"
     ],
@@ -248,11 +243,6 @@
       "trust"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "media",
       1,
       "disgust"
@@ -263,9 +253,39 @@
       "sadness"
     ],
     [
+      "dolphin",
+      1,
+      "surprise"
+    ],
+    [
+      "flu",
+      1,
+      "fear"
+    ],
+    [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "evacuated",
+      1,
+      "fear"
+    ],
+    [
+      "prolonged",
+      1,
+      "disgust"
+    ],
+    [
       "don",
       1,
       "trust"
+    ],
+    [
+      "arrive",
+      1,
+      "anticipation"
     ],
     [
       "advise",
@@ -356,36 +376,16 @@
       "bomb",
       1,
       "anger"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
-    ],
-    [
-      "threatens",
-      1,
-      "anger"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 27,
     "trust": 53,
-    "fear": 107,
-    "surprise": 14,
+    "fear": 111,
+    "surprise": 15,
     "sadness": 8,
-    "disgust": 12,
-    "anger": 63,
-    "anticipation": 28
+    "disgust": 13,
+    "anger": 62,
+    "anticipation": 27
   }
 }
