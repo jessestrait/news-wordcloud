@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:49:54.995Z",
+  "generated_at": "2026-08-28T23:04:57.403Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "missing",
-      23,
+      22,
       "fear"
     ],
     [
       "people",
-      7,
+      6,
       "trust"
     ],
     [
@@ -38,6 +38,11 @@
       "joy"
     ],
     [
+      "team",
+      5,
+      "trust"
+    ],
+    [
       "death",
       4,
       "sadness"
@@ -56,11 +61,6 @@
       "dies",
       4,
       "fear"
-    ],
-    [
-      "team",
-      4,
-      "trust"
     ],
     [
       "collapse",
@@ -111,6 +111,21 @@
       "life",
       3,
       "joy"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
+    ],
+    [
+      "morning",
+      2,
+      "anticipation"
+    ],
+    [
+      "arrive",
+      2,
+      "anticipation"
     ],
     [
       "americans",
@@ -233,9 +248,9 @@
       "trust"
     ],
     [
-      "power",
-      2,
-      "anticipation"
+      "rapid",
+      1,
+      "surprise"
     ],
     [
       "authority",
@@ -361,31 +376,16 @@
       "public",
       1,
       "anticipation"
-    ],
-    [
-      "father",
-      1,
-      "trust"
-    ],
-    [
-      "leader",
-      1,
-      "trust"
-    ],
-    [
-      "marine",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 48,
-    "fear": 109,
+    "fear": 108,
     "surprise": 14,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 6,
-    "anger": 51,
-    "anticipation": 22
+    "anger": 52,
+    "anticipation": 23
   }
 }
