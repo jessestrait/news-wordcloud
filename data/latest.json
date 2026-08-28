@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T11:13:07.423Z",
+  "generated_at": "2026-08-28T11:28:09.914Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "fear"
     ],
     [
+      "family",
+      4,
+      "joy"
+    ],
+    [
       "disaster",
       4,
       "anger"
@@ -41,11 +46,6 @@
       "officials",
       4,
       "trust"
-    ],
-    [
-      "family",
-      4,
-      "joy"
     ],
     [
       "police",
@@ -253,6 +253,26 @@
       "fear"
     ],
     [
+      "operations",
+      1,
+      "fear"
+    ],
+    [
+      "turbulent",
+      1,
+      "fear"
+    ],
+    [
+      "association",
+      1,
+      "trust"
+    ],
+    [
+      "epstein",
+      1,
+      "disgust"
+    ],
+    [
       "foreigners",
       1,
       "fear"
@@ -261,11 +281,6 @@
       "guided",
       1,
       "trust"
-    ],
-    [
-      "operations",
-      1,
-      "fear"
     ],
     [
       "forced",
@@ -311,21 +326,6 @@
       "aftermath",
       1,
       "anger"
-    ],
-    [
-      "turbulent",
-      1,
-      "fear"
-    ],
-    [
-      "association",
-      1,
-      "trust"
-    ],
-    [
-      "epstein",
-      1,
-      "disgust"
     ],
     [
       "praise",
