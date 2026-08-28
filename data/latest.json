@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T08:41:30.814Z",
+  "generated_at": "2026-08-28T08:56:33.110Z",
   "article_count": 50,
   "top_words": [
     [
@@ -123,16 +123,6 @@
       "sadness"
     ],
     [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
-      "found",
-      2,
-      "joy"
-    ],
-    [
       "loved",
       2,
       "joy"
@@ -141,6 +131,16 @@
       "pray",
       2,
       "fear"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "government",
@@ -263,14 +263,44 @@
       "trust"
     ],
     [
+      "halting",
+      1,
+      "fear"
+    ],
+    [
       "destruction",
       1,
       "anger"
     ],
     [
-      "age",
+      "safe",
+      1,
+      "joy"
+    ],
+    [
+      "relatives",
+      1,
+      "trust"
+    ],
+    [
+      "worried",
+      1,
+      "sadness"
+    ],
+    [
+      "hopeful",
+      1,
+      "surprise"
+    ],
+    [
+      "wait",
       1,
       "anticipation"
+    ],
+    [
+      "aftermath",
+      1,
+      "anger"
     ],
     [
       "turbulent",
@@ -318,36 +348,6 @@
       "fear"
     ],
     [
-      "safe",
-      1,
-      "joy"
-    ],
-    [
-      "relatives",
-      1,
-      "trust"
-    ],
-    [
-      "worried",
-      1,
-      "sadness"
-    ],
-    [
-      "hopeful",
-      1,
-      "surprise"
-    ],
-    [
-      "wait",
-      1,
-      "anticipation"
-    ],
-    [
-      "aftermath",
-      1,
-      "anger"
-    ],
-    [
       "child",
       1,
       "joy"
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 32,
     "trust": 49,
-    "fear": 109,
+    "fear": 110,
     "surprise": 13,
     "sadness": 8,
     "disgust": 9,
     "anger": 62,
-    "anticipation": 27
+    "anticipation": 26
   }
 }
