@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-28T06:25:25.475Z",
+  "generated_at": "2026-08-28T06:40:27.422Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      23,
+      22,
       "fear"
     ],
     [
       "missing",
-      19,
+      18,
       "fear"
     ],
     [
@@ -19,7 +19,7 @@
     ],
     [
       "police",
-      5,
+      4,
       "fear"
     ],
     [
@@ -38,14 +38,14 @@
       "surprise"
     ],
     [
-      "risk",
+      "fears",
       3,
-      "fear"
+      "anger"
     ],
     [
-      "debris",
+      "disaster",
       3,
-      "disgust"
+      "anger"
     ],
     [
       "global",
@@ -108,14 +108,34 @@
       "anticipation"
     ],
     [
-      "emergency",
+      "operations",
       2,
       "fear"
     ],
     [
-      "disaster",
+      "loved",
       2,
-      "anger"
+      "joy"
+    ],
+    [
+      "pray",
+      2,
+      "fear"
+    ],
+    [
+      "flooding",
+      2,
+      "fear"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
+      "emergency",
+      2,
+      "fear"
     ],
     [
       "plan",
@@ -129,21 +149,6 @@
     ],
     [
       "killed",
-      2,
-      "fear"
-    ],
-    [
-      "loved",
-      2,
-      "joy"
-    ],
-    [
-      "family",
-      2,
-      "joy"
-    ],
-    [
-      "flooding",
       2,
       "fear"
     ],
@@ -168,6 +173,11 @@
       "anticipation"
     ],
     [
+      "debris",
+      2,
+      "disgust"
+    ],
+    [
       "experts",
       2,
       "trust"
@@ -188,9 +198,9 @@
       "anger"
     ],
     [
-      "fears",
+      "family",
       2,
-      "anger"
+      "joy"
     ],
     [
       "food",
@@ -243,14 +253,44 @@
       "trust"
     ],
     [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
       "death",
       1,
       "sadness"
+    ],
+    [
+      "destruction",
+      1,
+      "anger"
+    ],
+    [
+      "safe",
+      1,
+      "joy"
+    ],
+    [
+      "relatives",
+      1,
+      "trust"
+    ],
+    [
+      "worried",
+      1,
+      "sadness"
+    ],
+    [
+      "hopeful",
+      1,
+      "surprise"
+    ],
+    [
+      "wait",
+      1,
+      "anticipation"
+    ],
+    [
+      "aftermath",
+      1,
+      "anger"
     ],
     [
       "child",
@@ -318,31 +358,6 @@
       "joy"
     ],
     [
-      "relatives",
-      1,
-      "trust"
-    ],
-    [
-      "wait",
-      1,
-      "anticipation"
-    ],
-    [
-      "boys",
-      1,
-      "disgust"
-    ],
-    [
-      "worried",
-      1,
-      "sadness"
-    ],
-    [
-      "hopeful",
-      1,
-      "surprise"
-    ],
-    [
       "greens",
       1,
       "joy"
@@ -361,31 +376,16 @@
       "officer",
       1,
       "trust"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "falsifying",
-      1,
-      "disgust"
-    ],
-    [
-      "found",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 29,
     "trust": 52,
-    "fear": 109,
+    "fear": 108,
     "surprise": 14,
     "sadness": 9,
-    "disgust": 13,
-    "anger": 61,
+    "disgust": 10,
+    "anger": 65,
     "anticipation": 27
   }
 }
