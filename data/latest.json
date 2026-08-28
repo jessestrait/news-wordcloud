@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T06:40:42.561Z",
+  "generated_at": "2026-08-28T06:55:44.730Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,17 +18,17 @@
       "trust"
     ],
     [
+      "die",
+      5,
+      "fear"
+    ],
+    [
       "police",
       4,
       "fear"
     ],
     [
       "collapse",
-      4,
-      "fear"
-    ],
-    [
-      "die",
       4,
       "fear"
     ],
@@ -111,6 +111,11 @@
       "operations",
       2,
       "fear"
+    ],
+    [
+      "convicted",
+      2,
+      "anger"
     ],
     [
       "loved",
@@ -263,6 +268,36 @@
       "anger"
     ],
     [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
+      "stormy",
+      1,
+      "fear"
+    ],
+    [
+      "epstein",
+      1,
+      "disgust"
+    ],
+    [
+      "late",
+      1,
+      "sadness"
+    ],
+    [
+      "sex",
+      1,
+      "joy"
+    ],
+    [
+      "offender",
+      1,
+      "anger"
+    ],
+    [
       "safe",
       1,
       "joy"
@@ -341,51 +376,16 @@
       "arrive",
       1,
       "anticipation"
-    ],
-    [
-      "advise",
-      1,
-      "trust"
-    ],
-    [
-      "vigils",
-      1,
-      "anticipation"
-    ],
-    [
-      "homes",
-      1,
-      "joy"
-    ],
-    [
-      "greens",
-      1,
-      "joy"
-    ],
-    [
-      "labor",
-      1,
-      "surprise"
-    ],
-    [
-      "scandal",
-      1,
-      "fear"
-    ],
-    [
-      "officer",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 52,
+    "joy": 30,
+    "trust": 51,
     "fear": 108,
-    "surprise": 14,
-    "sadness": 9,
+    "surprise": 13,
+    "sadness": 10,
     "disgust": 10,
     "anger": 65,
-    "anticipation": 27
+    "anticipation": 26
   }
 }
