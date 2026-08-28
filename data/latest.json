@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-28T05:09:57.425Z",
+  "generated_at": "2026-08-28T05:24:59.981Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      22,
+      23,
       "fear"
     ],
     [
@@ -28,11 +28,6 @@
       "anger"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "missiles",
       4,
       "fear"
@@ -53,9 +48,19 @@
       "disgust"
     ],
     [
+      "plan",
+      3,
+      "anticipation"
+    ],
+    [
       "family",
       3,
       "joy"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "attack",
@@ -111,6 +116,16 @@
       "risk",
       2,
       "fear"
+    ],
+    [
+      "disaster",
+      2,
+      "anger"
+    ],
+    [
+      "devastating",
+      2,
+      "anger"
     ],
     [
       "killed",
@@ -233,11 +248,6 @@
       "trust"
     ],
     [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
       "media",
       1,
       "disgust"
@@ -246,6 +256,11 @@
       "death",
       1,
       "sadness"
+    ],
+    [
+      "vigils",
+      1,
+      "anticipation"
     ],
     [
       "homes",
@@ -361,31 +376,16 @@
       "catastrophe",
       1,
       "anger"
-    ],
-    [
-      "clock",
-      1,
-      "anticipation"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 53,
+    "joy": 30,
+    "trust": 52,
     "fear": 110,
     "surprise": 15,
     "sadness": 8,
     "disgust": 12,
     "anger": 64,
-    "anticipation": 26
+    "anticipation": 27
   }
 }
