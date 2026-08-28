@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T03:23:57.818Z",
+  "generated_at": "2026-08-28T03:38:59.852Z",
   "article_count": 50,
   "top_words": [
     [
@@ -238,6 +238,11 @@
       "anticipation"
     ],
     [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
       "greens",
       1,
       "joy"
@@ -246,11 +251,6 @@
       "labor",
       1,
       "surprise"
-    ],
-    [
-      "death",
-      1,
-      "sadness"
     ],
     [
       "scandal",
