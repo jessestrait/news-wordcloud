@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:15:20.294Z",
+  "generated_at": "2026-08-28T15:30:22.906Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,14 +68,14 @@
       "fear"
     ],
     [
-      "loved",
-      3,
-      "joy"
-    ],
-    [
       "death",
       3,
       "sadness"
+    ],
+    [
+      "loved",
+      3,
+      "joy"
     ],
     [
       "risk",
@@ -128,12 +128,12 @@
       "anticipation"
     ],
     [
-      "relatives",
+      "confirmed",
       2,
       "trust"
     ],
     [
-      "confirmed",
+      "relatives",
       2,
       "trust"
     ],
@@ -228,16 +228,6 @@
       "anticipation"
     ],
     [
-      "grow",
-      1,
-      "joy"
-    ],
-    [
-      "pledges",
-      1,
-      "joy"
-    ],
-    [
       "cross",
       1,
       "anger"
@@ -246,6 +236,16 @@
       "continue",
       1,
       "trust"
+    ],
+    [
+      "pledges",
+      1,
+      "joy"
+    ],
+    [
+      "grow",
+      1,
+      "joy"
     ],
     [
       "assessment",
