@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T07:26:03.921Z",
+  "generated_at": "2026-08-28T07:41:06.342Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,17 +38,17 @@
       "fear"
     ],
     [
+      "disaster",
+      3,
+      "anger"
+    ],
+    [
       "rescue",
       3,
       "surprise"
     ],
     [
       "fears",
-      3,
-      "anger"
-    ],
-    [
-      "disaster",
       3,
       "anger"
     ],
@@ -103,19 +103,14 @@
       "anticipation"
     ],
     [
-      "convicted",
-      2,
-      "anger"
-    ],
-    [
-      "government",
+      "risk",
       2,
       "fear"
     ],
     [
-      "operations",
+      "found",
       2,
-      "fear"
+      "joy"
     ],
     [
       "loved",
@@ -133,14 +128,19 @@
       "fear"
     ],
     [
-      "risk",
+      "operations",
       2,
       "fear"
     ],
     [
-      "found",
+      "convicted",
       2,
-      "joy"
+      "anger"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "emergency",
@@ -263,44 +263,19 @@
       "trust"
     ],
     [
-      "leaving",
+      "dolphin",
       1,
-      "sadness"
+      "surprise"
     ],
     [
-      "stormy",
+      "flu",
       1,
       "fear"
     ],
     [
-      "epstein",
+      "evacuated",
       1,
-      "disgust"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "sex",
-      1,
-      "joy"
-    ],
-    [
-      "offender",
-      1,
-      "anger"
-    ],
-    [
-      "death",
-      1,
-      "sadness"
-    ],
-    [
-      "destruction",
-      1,
-      "anger"
+      "fear"
     ],
     [
       "safe",
@@ -333,6 +308,46 @@
       "anger"
     ],
     [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
+      "destruction",
+      1,
+      "anger"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
+      "stormy",
+      1,
+      "fear"
+    ],
+    [
+      "epstein",
+      1,
+      "disgust"
+    ],
+    [
+      "late",
+      1,
+      "sadness"
+    ],
+    [
+      "sex",
+      1,
+      "joy"
+    ],
+    [
+      "offender",
+      1,
+      "anger"
+    ],
+    [
       "child",
       1,
       "joy"
@@ -346,21 +361,6 @@
       "lawsuits",
       1,
       "anger"
-    ],
-    [
-      "dolphin",
-      1,
-      "surprise"
-    ],
-    [
-      "flu",
-      1,
-      "fear"
-    ],
-    [
-      "evacuated",
-      1,
-      "fear"
     ],
     [
       "don",
