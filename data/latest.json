@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-28T18:32:14.595Z",
+  "generated_at": "2026-08-28T18:47:17.201Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      28,
+      29,
       "fear"
     ],
     [
       "missing",
-      21,
+      23,
       "fear"
     ],
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "official",
+      5,
+      "trust"
+    ],
+    [
       "rescue",
       5,
       "surprise"
@@ -33,9 +38,14 @@
       "joy"
     ],
     [
-      "officials",
+      "death",
       4,
-      "trust"
+      "sadness"
+    ],
+    [
+      "flooding",
+      4,
+      "fear"
     ],
     [
       "fears",
@@ -44,11 +54,6 @@
     ],
     [
       "dies",
-      4,
-      "fear"
-    ],
-    [
-      "flooding",
       4,
       "fear"
     ],
@@ -63,27 +68,17 @@
       "fear"
     ],
     [
-      "relatives",
-      3,
-      "trust"
-    ],
-    [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "loved",
       3,
       "joy"
     ],
     [
-      "risk",
+      "relatives",
       3,
-      "fear"
+      "trust"
     ],
     [
-      "escape",
+      "risk",
       3,
       "fear"
     ],
@@ -113,14 +108,19 @@
       "fear"
     ],
     [
-      "prison",
-      3,
-      "anger"
-    ],
-    [
       "life",
       3,
       "joy"
+    ],
+    [
+      "americans",
+      2,
+      "sadness"
+    ],
+    [
+      "pray",
+      2,
+      "fear"
     ],
     [
       "homes",
@@ -159,11 +159,6 @@
     ],
     [
       "killed",
-      2,
-      "fear"
-    ],
-    [
-      "pray",
       2,
       "fear"
     ],
@@ -223,6 +218,11 @@
       "trust"
     ],
     [
+      "prison",
+      2,
+      "anger"
+    ],
+    [
       "airport",
       2,
       "anticipation"
@@ -236,6 +236,31 @@
       "power",
       2,
       "anticipation"
+    ],
+    [
+      "safe",
+      1,
+      "joy"
+    ],
+    [
+      "worried",
+      1,
+      "sadness"
+    ],
+    [
+      "hopeful",
+      1,
+      "surprise"
+    ],
+    [
+      "wait",
+      1,
+      "anticipation"
+    ],
+    [
+      "aftermath",
+      1,
+      "anger"
     ],
     [
       "authority",
@@ -351,41 +376,16 @@
       "marine",
       1,
       "trust"
-    ],
-    [
-      "foreigners",
-      1,
-      "fear"
-    ],
-    [
-      "guided",
-      1,
-      "trust"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
-      "withdraw",
-      1,
-      "sadness"
-    ],
-    [
-      "surge",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 47,
-    "fear": 108,
-    "surprise": 15,
-    "sadness": 11,
+    "trust": 48,
+    "fear": 109,
+    "surprise": 14,
+    "sadness": 14,
     "disgust": 6,
-    "anger": 54,
+    "anger": 51,
     "anticipation": 22
   }
 }
