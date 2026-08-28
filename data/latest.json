@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T07:56:08.323Z",
+  "generated_at": "2026-08-28T08:11:10.233Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,17 +38,17 @@
       "fear"
     ],
     [
-      "disaster",
-      3,
-      "anger"
-    ],
-    [
       "rescue",
       3,
       "surprise"
     ],
     [
       "fears",
+      3,
+      "anger"
+    ],
+    [
+      "disaster",
       3,
       "anger"
     ],
@@ -103,6 +103,11 @@
       "anticipation"
     ],
     [
+      "operations",
+      2,
+      "fear"
+    ],
+    [
       "risk",
       2,
       "fear"
@@ -124,11 +129,6 @@
     ],
     [
       "flooding",
-      2,
-      "fear"
-    ],
-    [
-      "operations",
       2,
       "fear"
     ],
@@ -263,6 +263,16 @@
       "trust"
     ],
     [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
+      "destruction",
+      1,
+      "anger"
+    ],
+    [
       "dolphin",
       1,
       "surprise"
@@ -304,16 +314,6 @@
     ],
     [
       "aftermath",
-      1,
-      "anger"
-    ],
-    [
-      "death",
-      1,
-      "sadness"
-    ],
-    [
-      "destruction",
       1,
       "anger"
     ],
