@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:45:46.479Z",
+  "generated_at": "2026-08-28T16:00:48.984Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "trust"
     ],
     [
-      "family",
-      6,
-      "joy"
-    ],
-    [
       "disaster",
       5,
       "anger"
@@ -31,6 +26,11 @@
       "rescue",
       5,
       "surprise"
+    ],
+    [
+      "family",
+      5,
+      "joy"
     ],
     [
       "fears",
@@ -68,14 +68,14 @@
       "fear"
     ],
     [
-      "loved",
-      3,
-      "joy"
-    ],
-    [
       "death",
       3,
       "sadness"
+    ],
+    [
+      "loved",
+      3,
+      "joy"
     ],
     [
       "risk",
@@ -128,12 +128,27 @@
       "anticipation"
     ],
     [
-      "relatives",
+      "scandal",
+      2,
+      "fear"
+    ],
+    [
+      "confirmed",
       2,
       "trust"
     ],
     [
-      "confirmed",
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
+      "devastating",
+      2,
+      "anger"
+    ],
+    [
+      "relatives",
       2,
       "trust"
     ],
@@ -171,16 +186,6 @@
       "emergency",
       2,
       "fear"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
-      "devastating",
-      2,
-      "anger"
     ],
     [
       "cases",
@@ -228,11 +233,6 @@
       "anticipation"
     ],
     [
-      "grow",
-      1,
-      "joy"
-    ],
-    [
       "cross",
       1,
       "anger"
@@ -241,6 +241,21 @@
       "continue",
       1,
       "trust"
+    ],
+    [
+      "epstein",
+      1,
+      "disgust"
+    ],
+    [
+      "vigils",
+      1,
+      "anticipation"
+    ],
+    [
+      "grow",
+      1,
+      "joy"
     ],
     [
       "assessment",
@@ -291,21 +306,6 @@
       "marine",
       1,
       "trust"
-    ],
-    [
-      "turbulent",
-      1,
-      "fear"
-    ],
-    [
-      "association",
-      1,
-      "trust"
-    ],
-    [
-      "epstein",
-      1,
-      "disgust"
     ],
     [
       "foreigners",
@@ -379,8 +379,8 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 48,
+    "joy": 26,
+    "trust": 47,
     "fear": 111,
     "surprise": 15,
     "sadness": 11,
