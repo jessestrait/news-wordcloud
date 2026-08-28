@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T08:56:49.779Z",
+  "generated_at": "2026-08-28T09:11:52.325Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "fear"
     ],
     [
-      "family",
-      4,
-      "joy"
-    ],
-    [
       "officials",
       4,
       "trust"
+    ],
+    [
+      "family",
+      4,
+      "joy"
     ],
     [
       "police",
@@ -113,6 +113,11 @@
       "anticipation"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "operations",
       2,
       "fear"
@@ -141,11 +146,6 @@
       "found",
       2,
       "joy"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "emergency",
