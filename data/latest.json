@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T10:57:47.017Z",
+  "generated_at": "2026-08-28T11:12:49.500Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,9 +33,9 @@
       "anger"
     ],
     [
-      "death",
+      "flooding",
       4,
-      "sadness"
+      "fear"
     ],
     [
       "officials",
@@ -63,17 +63,17 @@
       "fear"
     ],
     [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
       "risk",
       3,
       "fear"
     ],
     [
       "escape",
-      3,
-      "fear"
-    ],
-    [
-      "flooding",
       3,
       "fear"
     ],
@@ -268,14 +268,9 @@
       "fear"
     ],
     [
-      "hits",
+      "forced",
       1,
-      "anger"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
+      "fear"
     ],
     [
       "withdraw",
@@ -376,16 +371,21 @@
       "lawsuits",
       1,
       "anger"
+    ],
+    [
+      "don",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
     "trust": 47,
-    "fear": 113,
+    "fear": 115,
     "surprise": 15,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 9,
-    "anger": 61,
+    "anger": 59,
     "anticipation": 26
   }
 }
