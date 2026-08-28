@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T08:26:28.368Z",
+  "generated_at": "2026-08-28T08:41:30.814Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "missing",
-      18,
+      19,
       "fear"
     ],
     [
@@ -21,6 +21,11 @@
       "die",
       5,
       "fear"
+    ],
+    [
+      "family",
+      4,
+      "joy"
     ],
     [
       "officials",
@@ -48,14 +53,14 @@
       "anger"
     ],
     [
+      "flooding",
+      3,
+      "fear"
+    ],
+    [
       "disaster",
       3,
       "anger"
-    ],
-    [
-      "family",
-      3,
-      "joy"
     ],
     [
       "global",
@@ -134,11 +139,6 @@
     ],
     [
       "pray",
-      2,
-      "fear"
-    ],
-    [
-      "flooding",
       2,
       "fear"
     ],
@@ -268,6 +268,41 @@
       "anger"
     ],
     [
+      "age",
+      1,
+      "anticipation"
+    ],
+    [
+      "turbulent",
+      1,
+      "fear"
+    ],
+    [
+      "association",
+      1,
+      "trust"
+    ],
+    [
+      "epstein",
+      1,
+      "disgust"
+    ],
+    [
+      "praise",
+      1,
+      "joy"
+    ],
+    [
+      "god",
+      1,
+      "surprise"
+    ],
+    [
+      "feared",
+      1,
+      "anger"
+    ],
+    [
       "dolphin",
       1,
       "surprise"
@@ -313,26 +348,6 @@
       "anger"
     ],
     [
-      "age",
-      1,
-      "anticipation"
-    ],
-    [
-      "turbulent",
-      1,
-      "fear"
-    ],
-    [
-      "association",
-      1,
-      "trust"
-    ],
-    [
-      "epstein",
-      1,
-      "disgust"
-    ],
-    [
       "child",
       1,
       "joy"
@@ -361,31 +376,16 @@
       "advise",
       1,
       "trust"
-    ],
-    [
-      "vigils",
-      1,
-      "anticipation"
-    ],
-    [
-      "homes",
-      1,
-      "joy"
-    ],
-    [
-      "scandal",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 52,
-    "fear": 107,
-    "surprise": 12,
-    "sadness": 9,
+    "joy": 32,
+    "trust": 49,
+    "fear": 109,
+    "surprise": 13,
+    "sadness": 8,
     "disgust": 9,
-    "anger": 63,
+    "anger": 62,
     "anticipation": 27
   }
 }
