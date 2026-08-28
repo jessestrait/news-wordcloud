@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T05:24:59.981Z",
+  "generated_at": "2026-08-28T05:40:02.461Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
@@ -51,16 +51,6 @@
       "plan",
       3,
       "anticipation"
-    ],
-    [
-      "family",
-      3,
-      "joy"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "attack",
@@ -103,17 +93,22 @@
       "anticipation"
     ],
     [
-      "fears",
-      3,
-      "anger"
-    ],
-    [
       "die",
       3,
       "fear"
     ],
     [
       "risk",
+      2,
+      "fear"
+    ],
+    [
+      "arrive",
+      2,
+      "anticipation"
+    ],
+    [
+      "emergency",
       2,
       "fear"
     ],
@@ -138,7 +133,17 @@
       "joy"
     ],
     [
+      "family",
+      2,
+      "joy"
+    ],
+    [
       "flooding",
+      2,
+      "fear"
+    ],
+    [
+      "government",
       2,
       "fear"
     ],
@@ -183,14 +188,14 @@
       "anger"
     ],
     [
+      "fears",
+      2,
+      "anger"
+    ],
+    [
       "global",
       2,
       "anticipation"
-    ],
-    [
-      "young",
-      2,
-      "surprise"
     ],
     [
       "food",
@@ -256,6 +261,16 @@
       "death",
       1,
       "sadness"
+    ],
+    [
+      "don",
+      1,
+      "trust"
+    ],
+    [
+      "advise",
+      1,
+      "trust"
     ],
     [
       "vigils",
@@ -361,31 +376,16 @@
       "start",
       1,
       "anticipation"
-    ],
-    [
-      "mountain",
-      1,
-      "anticipation"
-    ],
-    [
-      "ice",
-      1,
-      "fear"
-    ],
-    [
-      "catastrophe",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 52,
-    "fear": 110,
-    "surprise": 15,
+    "joy": 28,
+    "trust": 53,
+    "fear": 107,
+    "surprise": 14,
     "sadness": 8,
     "disgust": 12,
-    "anger": 64,
-    "anticipation": 27
+    "anger": 63,
+    "anticipation": 28
   }
 }
