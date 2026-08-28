@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-28T10:12:20.946Z",
+  "generated_at": "2026-08-28T10:27:23.480Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      22,
+      24,
       "fear"
     ],
     [
       "missing",
-      19,
+      21,
       "fear"
     ],
     [
@@ -18,9 +18,24 @@
       "trust"
     ],
     [
+      "rescue",
+      5,
+      "surprise"
+    ],
+    [
       "die",
       5,
       "fear"
+    ],
+    [
+      "disaster",
+      4,
+      "anger"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "officials",
@@ -38,29 +53,29 @@
       "fear"
     ],
     [
+      "team",
+      4,
+      "trust"
+    ],
+    [
       "collapse",
       4,
       "fear"
     ],
     [
-      "rescue",
+      "risk",
       3,
-      "surprise"
+      "fear"
     ],
     [
-      "fears",
+      "escape",
       3,
-      "anger"
+      "fear"
     ],
     [
       "flooding",
       3,
       "fear"
-    ],
-    [
-      "disaster",
-      3,
-      "anger"
     ],
     [
       "global",
@@ -93,11 +108,6 @@
       "fear"
     ],
     [
-      "team",
-      3,
-      "trust"
-    ],
-    [
       "prison",
       3,
       "anger"
@@ -113,14 +123,9 @@
       "anticipation"
     ],
     [
-      "operations",
+      "killed",
       2,
       "fear"
-    ],
-    [
-      "death",
-      2,
-      "sadness"
     ],
     [
       "loved",
@@ -134,11 +139,6 @@
     ],
     [
       "government",
-      2,
-      "fear"
-    ],
-    [
-      "risk",
       2,
       "fear"
     ],
@@ -161,11 +161,6 @@
       "devastating",
       2,
       "anger"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "cases",
@@ -213,6 +208,11 @@
       "anger"
     ],
     [
+      "fears",
+      2,
+      "anger"
+    ],
+    [
       "food",
       2,
       "joy"
@@ -231,11 +231,6 @@
       "production",
       2,
       "anticipation"
-    ],
-    [
-      "escape",
-      2,
-      "fear"
     ],
     [
       "congressman",
@@ -258,19 +253,29 @@
       "fear"
     ],
     [
-      "trade",
-      2,
-      "trust"
-    ],
-    [
-      "halting",
+      "operations",
       1,
       "fear"
     ],
     [
-      "destruction",
+      "hits",
       1,
       "anger"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
+      "withdraw",
+      1,
+      "sadness"
+    ],
+    [
+      "surge",
+      1,
+      "surprise"
     ],
     [
       "safe",
@@ -371,21 +376,16 @@
       "arrive",
       1,
       "anticipation"
-    ],
-    [
-      "advise",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 49,
-    "fear": 110,
-    "surprise": 13,
-    "sadness": 8,
+    "joy": 30,
+    "trust": 46,
+    "fear": 113,
+    "surprise": 15,
+    "sadness": 11,
     "disgust": 9,
-    "anger": 62,
+    "anger": 61,
     "anticipation": 26
   }
 }
