@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:31:14.724Z",
+  "generated_at": "2026-08-28T16:46:17.330Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,11 +88,6 @@
       "fear"
     ],
     [
-      "global",
-      3,
-      "anticipation"
-    ],
-    [
       "war",
       3,
       "anger"
@@ -133,6 +128,11 @@
       "trust"
     ],
     [
+      "massive",
+      2,
+      "anger"
+    ],
+    [
       "scandal",
       2,
       "fear"
@@ -158,11 +158,6 @@
       "sadness"
     ],
     [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
       "killed",
       2,
       "fear"
@@ -181,6 +176,11 @@
       "found",
       2,
       "joy"
+    ],
+    [
+      "global",
+      2,
+      "anticipation"
     ],
     [
       "emergency",
@@ -231,6 +231,16 @@
       "power",
       2,
       "anticipation"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "gain",
+      1,
+      "joy"
     ],
     [
       "cross",
@@ -303,6 +313,11 @@
       "anger"
     ],
     [
+      "leader",
+      1,
+      "trust"
+    ],
+    [
       "marine",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "praise",
       1,
       "joy"
-    ],
-    [
-      "god",
-      1,
-      "surprise"
-    ],
-    [
-      "feared",
-      1,
-      "anger"
-    ],
-    [
-      "dolphin",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 47,
-    "fear": 111,
+    "joy": 27,
+    "trust": 46,
+    "fear": 108,
     "surprise": 15,
     "sadness": 11,
     "disgust": 8,
-    "anger": 53,
-    "anticipation": 25
+    "anger": 52,
+    "anticipation": 24
   }
 }
