@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T04:54:39.276Z",
+  "generated_at": "2026-08-28T05:09:41.571Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,12 +108,12 @@
       "fear"
     ],
     [
-      "killed",
+      "risk",
       2,
       "fear"
     ],
     [
-      "risk",
+      "killed",
       2,
       "fear"
     ],
@@ -238,11 +238,6 @@
       "anticipation"
     ],
     [
-      "homes",
-      1,
-      "joy"
-    ],
-    [
       "media",
       1,
       "disgust"
@@ -251,6 +246,11 @@
       "death",
       1,
       "sadness"
+    ],
+    [
+      "homes",
+      1,
+      "joy"
     ],
     [
       "relatives",
