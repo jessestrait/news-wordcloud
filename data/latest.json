@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-28T14:44:54.059Z",
+  "generated_at": "2026-08-28T14:59:56.856Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      26,
+      27,
       "fear"
     ],
     [
@@ -28,13 +28,13 @@
       "joy"
     ],
     [
-      "disaster",
+      "fears",
       5,
       "anger"
     ],
     [
-      "fears",
-      4,
+      "disaster",
+      5,
       "anger"
     ],
     [
@@ -66,6 +66,11 @@
       "collapse",
       4,
       "fear"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "loved",
@@ -143,11 +148,6 @@
       "trust"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "killed",
       2,
       "fear"
@@ -193,11 +193,6 @@
       "fear"
     ],
     [
-      "rising",
-      2,
-      "joy"
-    ],
-    [
       "happened",
       2,
       "anticipation"
@@ -233,14 +228,14 @@
       "anticipation"
     ],
     [
-      "congressman",
-      2,
-      "trust"
+      "cross",
+      1,
+      "anger"
     ],
     [
-      "house",
-      2,
-      "joy"
+      "continue",
+      1,
+      "trust"
     ],
     [
       "pledges",
@@ -376,16 +371,21 @@
       "god",
       1,
       "surprise"
+    ],
+    [
+      "feared",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 49,
+    "joy": 28,
+    "trust": 47,
     "fear": 112,
     "surprise": 16,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 8,
-    "anger": 56,
+    "anger": 54,
     "anticipation": 25
   }
 }
