@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-28T13:29:22.922Z",
+  "generated_at": "2026-08-28T13:44:25.381Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      24,
+      25,
       "fear"
     ],
     [
       "missing",
-      20,
+      21,
       "fear"
     ],
     [
@@ -23,14 +23,14 @@
       "surprise"
     ],
     [
-      "die",
+      "family",
       5,
-      "fear"
+      "joy"
     ],
     [
-      "family",
+      "dies",
       4,
-      "joy"
+      "fear"
     ],
     [
       "disaster",
@@ -61,6 +61,16 @@
       "collapse",
       4,
       "fear"
+    ],
+    [
+      "fears",
+      3,
+      "anger"
+    ],
+    [
+      "loved",
+      3,
+      "joy"
     ],
     [
       "risk",
@@ -98,11 +108,6 @@
       "fear"
     ],
     [
-      "fire",
-      3,
-      "fear"
-    ],
-    [
       "prison",
       3,
       "anger"
@@ -118,6 +123,11 @@
       "anticipation"
     ],
     [
+      "relatives",
+      2,
+      "trust"
+    ],
+    [
       "death",
       2,
       "sadness"
@@ -126,11 +136,6 @@
       "killed",
       2,
       "fear"
-    ],
-    [
-      "loved",
-      2,
-      "joy"
     ],
     [
       "pray",
@@ -208,11 +213,6 @@
       "anger"
     ],
     [
-      "fears",
-      2,
-      "anger"
-    ],
-    [
       "food",
       2,
       "joy"
@@ -243,14 +243,9 @@
       "joy"
     ],
     [
-      "babies",
-      2,
+      "grow",
+      1,
       "joy"
-    ],
-    [
-      "hospital",
-      2,
-      "fear"
     ],
     [
       "operations",
@@ -301,11 +296,6 @@
       "safe",
       1,
       "joy"
-    ],
-    [
-      "relatives",
-      1,
-      "trust"
     ],
     [
       "worried",
@@ -376,16 +366,26 @@
       "don",
       1,
       "trust"
+    ],
+    [
+      "arrive",
+      1,
+      "anticipation"
+    ],
+    [
+      "advise",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 31,
     "trust": 47,
-    "fear": 115,
+    "fear": 111,
     "surprise": 15,
     "sadness": 9,
     "disgust": 9,
-    "anger": 59,
+    "anger": 60,
     "anticipation": 26
   }
 }
