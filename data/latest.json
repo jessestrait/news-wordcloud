@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:01:20.231Z",
+  "generated_at": "2026-08-28T17:16:22.929Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "people",
-      7,
+      8,
       "trust"
     ],
     [
@@ -33,6 +33,11 @@
       "joy"
     ],
     [
+      "officials",
+      4,
+      "trust"
+    ],
+    [
       "fears",
       4,
       "anger"
@@ -44,16 +49,6 @@
     ],
     [
       "flooding",
-      4,
-      "fear"
-    ],
-    [
-      "officials",
-      4,
-      "trust"
-    ],
-    [
-      "police",
       4,
       "fear"
     ],
@@ -88,6 +83,11 @@
       "fear"
     ],
     [
+      "police",
+      3,
+      "fear"
+    ],
+    [
       "war",
       3,
       "anger"
@@ -116,11 +116,6 @@
       "life",
       3,
       "joy"
-    ],
-    [
-      "airport",
-      3,
-      "anticipation"
     ],
     [
       "confirmed",
@@ -228,6 +223,11 @@
       "trust"
     ],
     [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
       "system",
       2,
       "trust"
@@ -236,6 +236,21 @@
       "power",
       2,
       "anticipation"
+    ],
+    [
+      "losing",
+      1,
+      "anger"
+    ],
+    [
+      "level",
+      1,
+      "trust"
+    ],
+    [
+      "casualties",
+      1,
+      "anger"
     ],
     [
       "gain",
@@ -361,31 +376,16 @@
       "wait",
       1,
       "anticipation"
-    ],
-    [
-      "aftermath",
-      1,
-      "anger"
-    ],
-    [
-      "praise",
-      1,
-      "joy"
-    ],
-    [
-      "god",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 46,
-    "fear": 108,
+    "trust": 48,
+    "fear": 106,
     "surprise": 15,
     "sadness": 11,
-    "disgust": 8,
-    "anger": 52,
-    "anticipation": 24
+    "disgust": 7,
+    "anger": 54,
+    "anticipation": 23
   }
 }
