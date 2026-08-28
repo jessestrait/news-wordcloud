@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T03:54:16.731Z",
+  "generated_at": "2026-08-28T04:09:18.837Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,6 +113,11 @@
       "fear"
     ],
     [
+      "loved",
+      2,
+      "joy"
+    ],
+    [
       "cases",
       2,
       "fear"
@@ -131,11 +136,6 @@
       "happened",
       2,
       "anticipation"
-    ],
-    [
-      "loved",
-      2,
-      "joy"
     ],
     [
       "rescue",
@@ -243,6 +243,31 @@
       "sadness"
     ],
     [
+      "relatives",
+      1,
+      "trust"
+    ],
+    [
+      "wait",
+      1,
+      "anticipation"
+    ],
+    [
+      "boys",
+      1,
+      "disgust"
+    ],
+    [
+      "worried",
+      1,
+      "sadness"
+    ],
+    [
+      "hopeful",
+      1,
+      "surprise"
+    ],
+    [
       "greens",
       1,
       "joy"
@@ -281,31 +306,6 @@
       "danger",
       1,
       "fear"
-    ],
-    [
-      "relatives",
-      1,
-      "trust"
-    ],
-    [
-      "wait",
-      1,
-      "anticipation"
-    ],
-    [
-      "boys",
-      1,
-      "disgust"
-    ],
-    [
-      "worried",
-      1,
-      "sadness"
-    ],
-    [
-      "hopeful",
-      1,
-      "surprise"
     ],
     [
       "shot",
