@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T11:45:52.882Z",
+  "generated_at": "2026-08-29T12:00:55.566Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,16 @@
       "joy"
     ],
     [
+      "kills",
+      4,
+      "fear"
+    ],
+    [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "death",
       4,
       "sadness"
@@ -63,14 +73,14 @@
       "fear"
     ],
     [
-      "attack",
-      4,
-      "anger"
-    ],
-    [
       "collapse",
       4,
       "fear"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
     ],
     [
       "continue",
@@ -103,14 +113,14 @@
       "fear"
     ],
     [
-      "kills",
-      3,
-      "fear"
-    ],
-    [
       "life",
       3,
       "joy"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
     ],
     [
       "nothing",
@@ -154,11 +164,6 @@
     ],
     [
       "war",
-      2,
-      "anger"
-    ],
-    [
-      "strikes",
       2,
       "anger"
     ],
@@ -253,11 +258,6 @@
       "disgust"
     ],
     [
-      "leading",
-      2,
-      "trust"
-    ],
-    [
       "prison",
       2,
       "anger"
@@ -271,6 +271,21 @@
       "seek",
       2,
       "anticipation"
+    ],
+    [
+      "storing",
+      1,
+      "anticipation"
+    ],
+    [
+      "explosive",
+      1,
+      "anger"
+    ],
+    [
+      "damaging",
+      1,
+      "anger"
     ],
     [
       "confirmed",
@@ -361,31 +376,16 @@
       "trump",
       1,
       "anger"
-    ],
-    [
-      "threats",
-      1,
-      "anger"
-    ],
-    [
-      "obliterated",
-      1,
-      "anger"
-    ],
-    [
-      "military",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 48,
-    "fear": 105,
+    "trust": 46,
+    "fear": 106,
     "surprise": 16,
     "sadness": 17,
-    "disgust": 6,
-    "anger": 67,
-    "anticipation": 28
+    "disgust": 5,
+    "anger": 70,
+    "anticipation": 29
   }
 }
