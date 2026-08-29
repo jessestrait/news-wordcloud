@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-28T23:50:24.293Z",
+  "generated_at": "2026-08-29T00:05:26.315Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      29,
+      27,
       "fear"
     ],
     [
       "missing",
-      23,
+      21,
       "fear"
     ],
     [
@@ -243,6 +243,31 @@
       "trust"
     ],
     [
+      "illegal",
+      1,
+      "anger"
+    ],
+    [
+      "dangerous",
+      1,
+      "fear"
+    ],
+    [
+      "impossible",
+      1,
+      "sadness"
+    ],
+    [
+      "penalties",
+      1,
+      "anger"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
       "rapid",
       1,
       "surprise"
@@ -351,41 +376,16 @@
       "damage",
       1,
       "anger"
-    ],
-    [
-      "devastation",
-      1,
-      "anger"
-    ],
-    [
-      "reporters",
-      1,
-      "trust"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "focus",
-      1,
-      "trust"
-    ],
-    [
-      "public",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 48,
-    "fear": 109,
+    "trust": 49,
+    "fear": 106,
     "surprise": 14,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 6,
-    "anger": 52,
+    "anger": 54,
     "anticipation": 23
   }
 }
