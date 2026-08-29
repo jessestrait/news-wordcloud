@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T14:32:27.001Z",
+  "generated_at": "2026-08-29T14:47:29.081Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,8 +14,13 @@
     ],
     [
       "rescue",
-      7,
+      9,
       "surprise"
+    ],
+    [
+      "team",
+      7,
+      "trust"
     ],
     [
       "family",
@@ -33,24 +38,9 @@
       "anger"
     ],
     [
-      "team",
-      6,
-      "trust"
-    ],
-    [
-      "fear",
-      5,
-      "anger"
-    ],
-    [
       "official",
       5,
       "trust"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "loved",
@@ -68,6 +58,11 @@
       "fear"
     ],
     [
+      "fears",
+      4,
+      "anger"
+    ],
+    [
       "dies",
       4,
       "fear"
@@ -75,6 +70,11 @@
     [
       "collapse",
       4,
+      "fear"
+    ],
+    [
+      "government",
+      3,
       "fear"
     ],
     [
@@ -98,6 +98,11 @@
       "anticipation"
     ],
     [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
       "relatives",
       3,
       "trust"
@@ -116,6 +121,11 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "expert",
+      2,
+      "trust"
     ],
     [
       "nothing",
@@ -141,21 +151,6 @@
       "world",
       2,
       "trust"
-    ],
-    [
-      "president",
-      2,
-      "trust"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "combat",
@@ -268,11 +263,6 @@
       "anticipation"
     ],
     [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
       "store",
       1,
       "anticipation"
@@ -338,24 +328,19 @@
       "anticipation"
     ],
     [
-      "fate",
+      "mistake",
       1,
-      "anticipation"
+      "sadness"
     ],
     [
-      "armed",
-      1,
-      "anger"
-    ],
-    [
-      "combatants",
-      1,
-      "anger"
-    ],
-    [
-      "agreements",
+      "legal",
       1,
       "trust"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
     ],
     [
       "love",
@@ -376,16 +361,31 @@
       "darkness",
       1,
       "anger"
+    ],
+    [
+      "important",
+      1,
+      "trust"
+    ],
+    [
+      "create",
+      1,
+      "joy"
+    ],
+    [
+      "beautiful",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 48,
-    "fear": 111,
-    "surprise": 17,
+    "joy": 30,
+    "trust": 47,
+    "fear": 112,
+    "surprise": 19,
     "sadness": 17,
     "disgust": 5,
-    "anger": 67,
-    "anticipation": 31
+    "anger": 64,
+    "anticipation": 30
   }
 }
