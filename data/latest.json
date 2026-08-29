@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T13:31:46.823Z",
+  "generated_at": "2026-08-29T13:46:49.290Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "surprise"
     ],
     [
+      "disaster",
+      6,
+      "anger"
+    ],
+    [
       "team",
       6,
       "trust"
@@ -33,11 +38,6 @@
       "trust"
     ],
     [
-      "disaster",
-      5,
-      "anger"
-    ],
-    [
       "people",
       5,
       "trust"
@@ -48,6 +48,11 @@
       "joy"
     ],
     [
+      "death",
+      4,
+      "sadness"
+    ],
+    [
       "kills",
       4,
       "fear"
@@ -56,11 +61,6 @@
       "attack",
       4,
       "anger"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "flooding",
@@ -76,6 +76,11 @@
       "collapse",
       4,
       "fear"
+    ],
+    [
+      "home",
+      3,
+      "joy"
     ],
     [
       "strike",
@@ -116,6 +121,16 @@
       "life",
       3,
       "joy"
+    ],
+    [
+      "world",
+      2,
+      "trust"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "fire",
@@ -186,11 +201,6 @@
       "pray",
       2,
       "fear"
-    ],
-    [
-      "homes",
-      2,
-      "joy"
     ],
     [
       "opposition",
@@ -273,17 +283,22 @@
       "anticipation"
     ],
     [
-      "storing",
+      "pay",
       1,
-      "anticipation"
+      "joy"
     ],
     [
-      "explosive",
+      "reacts",
       1,
       "anger"
     ],
     [
-      "damaging",
+      "sorrow",
+      1,
+      "fear"
+    ],
+    [
+      "victims",
       1,
       "anger"
     ],
@@ -291,6 +306,21 @@
       "confirmed",
       1,
       "trust"
+    ],
+    [
+      "storing",
+      1,
+      "anticipation"
+    ],
+    [
+      "detonations",
+      1,
+      "anger"
+    ],
+    [
+      "damaging",
+      1,
+      "anger"
     ],
     [
       "store",
@@ -346,46 +376,16 @@
       "darkness",
       1,
       "anger"
-    ],
-    [
-      "important",
-      1,
-      "trust"
-    ],
-    [
-      "create",
-      1,
-      "joy"
-    ],
-    [
-      "beautiful",
-      1,
-      "joy"
-    ],
-    [
-      "farming",
-      1,
-      "anticipation"
-    ],
-    [
-      "votes",
-      1,
-      "anger"
-    ],
-    [
-      "trump",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 46,
-    "fear": 106,
+    "joy": 33,
+    "trust": 48,
+    "fear": 108,
     "surprise": 16,
     "sadness": 17,
     "disgust": 5,
-    "anger": 70,
+    "anger": 72,
     "anticipation": 29
   }
 }
