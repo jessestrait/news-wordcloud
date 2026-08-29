@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T01:51:39.394Z",
+  "generated_at": "2026-08-29T02:06:41.515Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "missing",
       21,
       "fear"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "rescue",
@@ -36,6 +31,11 @@
       "disaster",
       5,
       "anger"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "family",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 48,
+    "trust": 47,
     "fear": 106,
     "surprise": 15,
     "sadness": 13,
