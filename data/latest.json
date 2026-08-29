@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:35:44.595Z",
+  "generated_at": "2026-08-29T00:50:46.605Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,13 +18,13 @@
       "trust"
     ],
     [
-      "disaster",
+      "rescue",
       6,
-      "anger"
+      "surprise"
     ],
     [
       "team",
-      5,
+      6,
       "trust"
     ],
     [
@@ -33,19 +33,14 @@
       "trust"
     ],
     [
-      "rescue",
+      "disaster",
       5,
-      "surprise"
+      "anger"
     ],
     [
       "family",
       5,
       "joy"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "flooding",
@@ -66,6 +61,11 @@
       "collapse",
       4,
       "fear"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "loved",
@@ -278,21 +278,6 @@
       "anticipation"
     ],
     [
-      "authority",
-      1,
-      "trust"
-    ],
-    [
-      "jump",
-      1,
-      "joy"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
       "safe",
       1,
       "joy"
@@ -376,16 +361,31 @@
       "damage",
       1,
       "anger"
+    ],
+    [
+      "devastation",
+      1,
+      "anger"
+    ],
+    [
+      "reporters",
+      1,
+      "trust"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 49,
+    "joy": 28,
+    "trust": 48,
     "fear": 106,
-    "surprise": 14,
-    "sadness": 14,
+    "surprise": 15,
+    "sadness": 13,
     "disgust": 6,
-    "anger": 54,
+    "anger": 53,
     "anticipation": 23
   }
 }
