@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-08-29T14:47:29.081Z",
+  "generated_at": "2026-08-29T15:02:31.081Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      27,
+      26,
       "fear"
     ],
     [
       "missing",
-      22,
+      23,
       "fear"
     ],
     [
       "rescue",
-      9,
+      8,
       "surprise"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "team",
@@ -26,11 +31,6 @@
       "family",
       6,
       "joy"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "disaster",
@@ -73,14 +73,14 @@
       "fear"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "continue",
       3,
       "trust"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "home",
@@ -123,24 +123,14 @@
       "anger"
     ],
     [
+      "storing",
+      2,
+      "anticipation"
+    ],
+    [
       "expert",
       2,
       "trust"
-    ],
-    [
-      "nothing",
-      2,
-      "sadness"
-    ],
-    [
-      "ruins",
-      2,
-      "fear"
-    ],
-    [
-      "crossing",
-      2,
-      "anger"
     ],
     [
       "hospital",
@@ -258,24 +248,14 @@
       "anticipation"
     ],
     [
-      "seek",
-      2,
-      "anticipation"
-    ],
-    [
-      "store",
-      1,
-      "anticipation"
-    ],
-    [
       "operations",
       1,
       "fear"
     ],
     [
-      "hit",
+      "rescuing",
       1,
-      "anger"
+      "surprise"
     ],
     [
       "disappeared",
@@ -311,11 +291,6 @@
       "victims",
       1,
       "anger"
-    ],
-    [
-      "storing",
-      1,
-      "anticipation"
     ],
     [
       "investigation",
@@ -376,16 +351,41 @@
       "beautiful",
       1,
       "joy"
+    ],
+    [
+      "farming",
+      1,
+      "anticipation"
+    ],
+    [
+      "votes",
+      1,
+      "anger"
+    ],
+    [
+      "trump",
+      1,
+      "anger"
+    ],
+    [
+      "threats",
+      1,
+      "anger"
+    ],
+    [
+      "obliterated",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 47,
-    "fear": 112,
+    "trust": 48,
+    "fear": 111,
     "surprise": 19,
-    "sadness": 17,
+    "sadness": 16,
     "disgust": 5,
-    "anger": 64,
-    "anticipation": 30
+    "anger": 62,
+    "anticipation": 29
   }
 }
