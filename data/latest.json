@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T13:47:05.288Z",
+  "generated_at": "2026-08-29T14:02:07.303Z",
   "article_count": 50,
   "top_words": [
     [
@@ -283,6 +283,11 @@
       "anticipation"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
       "pay",
       1,
       "joy"
@@ -301,11 +306,6 @@
       "victims",
       1,
       "anger"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
     ],
     [
       "storing",
