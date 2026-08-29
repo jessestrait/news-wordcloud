@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T13:16:44.378Z",
+  "generated_at": "2026-08-29T13:31:46.823Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "joy"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "kills",
       4,
       "fear"
@@ -61,6 +56,11 @@
       "attack",
       4,
       "anger"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "flooding",
@@ -273,11 +273,6 @@
       "anticipation"
     ],
     [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
       "storing",
       1,
       "anticipation"
@@ -291,6 +286,11 @@
       "damaging",
       1,
       "anger"
+    ],
+    [
+      "confirmed",
+      1,
+      "trust"
     ],
     [
       "store",
