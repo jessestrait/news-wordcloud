@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T10:15:05.627Z",
+  "generated_at": "2026-08-29T10:30:08.213Z",
   "article_count": 50,
   "top_words": [
     [
@@ -268,6 +268,11 @@
       "trust"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
       "fate",
       1,
       "anticipation"
@@ -284,11 +289,6 @@
     ],
     [
       "agreements",
-      1,
-      "trust"
-    ],
-    [
-      "confirmed",
       1,
       "trust"
     ],
