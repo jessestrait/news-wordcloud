@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T22:36:42.044Z",
+  "generated_at": "2026-08-29T22:51:44.558Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,19 +13,19 @@
       "fear"
     ],
     [
-      "rescue",
+      "family",
       8,
+      "joy"
+    ],
+    [
+      "rescue",
+      7,
       "surprise"
     ],
     [
       "team",
-      8,
+      7,
       "trust"
-    ],
-    [
-      "family",
-      8,
-      "joy"
     ],
     [
       "people",
@@ -63,9 +63,9 @@
       "fear"
     ],
     [
-      "government",
+      "happened",
       3,
-      "fear"
+      "anticipation"
     ],
     [
       "found",
@@ -128,11 +128,6 @@
       "fear"
     ],
     [
-      "expert",
-      2,
-      "trust"
-    ],
-    [
       "crossing",
       2,
       "anger"
@@ -163,14 +158,14 @@
       "trust"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "combat",
       2,
       "anger"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "war",
@@ -376,16 +371,21 @@
       "gloom",
       1,
       "sadness"
+    ],
+    [
+      "darkness",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 36,
-    "trust": 54,
-    "fear": 101,
-    "surprise": 19,
+    "trust": 52,
+    "fear": 100,
+    "surprise": 18,
     "sadness": 17,
     "disgust": 4,
     "anger": 62,
-    "anticipation": 29
+    "anticipation": 30
   }
 }
