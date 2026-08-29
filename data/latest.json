@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T01:21:17.449Z",
+  "generated_at": "2026-08-29T01:36:20.082Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "joy"
     ],
     [
+      "war",
+      4,
+      "anger"
+    ],
+    [
       "flooding",
       4,
       "fear"
@@ -56,6 +61,11 @@
       "dies",
       4,
       "fear"
+    ],
+    [
+      "attack",
+      4,
+      "anger"
     ],
     [
       "collapse",
@@ -83,24 +93,9 @@
       "fear"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
-      "war",
-      3,
-      "anger"
-    ],
-    [
       "missiles",
       3,
       "fear"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
     ],
     [
       "kills",
@@ -111,6 +106,21 @@
       "life",
       3,
       "joy"
+    ],
+    [
+      "military",
+      2,
+      "fear"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
+      "production",
+      2,
+      "anticipation"
     ],
     [
       "deadly",
@@ -198,14 +208,14 @@
       "fear"
     ],
     [
-      "warning",
+      "police",
       2,
       "fear"
     ],
     [
-      "happened",
+      "warning",
       2,
-      "anticipation"
+      "fear"
     ],
     [
       "debris",
@@ -241,6 +251,16 @@
       "system",
       2,
       "trust"
+    ],
+    [
+      "daily",
+      1,
+      "anticipation"
+    ],
+    [
+      "ministry",
+      1,
+      "joy"
     ],
     [
       "illegal",
@@ -356,36 +376,16 @@
       "assessment",
       1,
       "surprise"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
-    ],
-    [
-      "devastation",
-      1,
-      "anger"
-    ],
-    [
-      "reporters",
-      1,
-      "trust"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 29,
     "trust": 48,
     "fear": 106,
     "surprise": 15,
     "sadness": 13,
     "disgust": 6,
-    "anger": 53,
-    "anticipation": 23
+    "anger": 57,
+    "anticipation": 24
   }
 }
