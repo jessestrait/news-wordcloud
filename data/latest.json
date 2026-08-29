@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T04:07:51.071Z",
+  "generated_at": "2026-08-29T04:22:52.889Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,11 @@
       "joy"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "military",
       2,
       "fear"
@@ -156,6 +161,11 @@
       "massive",
       2,
       "anger"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
     ],
     [
       "scandal",
@@ -366,26 +376,16 @@
       "level",
       1,
       "trust"
-    ],
-    [
-      "cross",
-      1,
-      "anger"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 47,
+    "trust": 48,
     "fear": 107,
     "surprise": 15,
     "sadness": 14,
     "disgust": 6,
     "anger": 59,
-    "anticipation": 24
+    "anticipation": 25
   }
 }
