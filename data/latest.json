@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-29T08:29:11.840Z",
+  "generated_at": "2026-08-29T08:44:14.070Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      26,
+      27,
       "fear"
     ],
     [
@@ -258,6 +258,11 @@
       "trust"
     ],
     [
+      "filled",
+      1,
+      "trust"
+    ],
+    [
       "confirmed",
       1,
       "trust"
@@ -371,17 +376,12 @@
       "impossible",
       1,
       "sadness"
-    ],
-    [
-      "penalties",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 50,
-    "fear": 103,
+    "trust": 51,
+    "fear": 104,
     "surprise": 15,
     "sadness": 16,
     "disgust": 6,
