@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T03:37:28.975Z",
+  "generated_at": "2026-08-29T03:52:31.500Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,6 +253,26 @@
       "trust"
     ],
     [
+      "obliterated",
+      1,
+      "anger"
+    ],
+    [
+      "crossing",
+      1,
+      "anger"
+    ],
+    [
+      "nothing",
+      1,
+      "sadness"
+    ],
+    [
+      "ruins",
+      1,
+      "fear"
+    ],
+    [
       "daily",
       1,
       "anticipation"
@@ -356,36 +376,16 @@
       "continue",
       1,
       "trust"
-    ],
-    [
-      "epstein",
-      1,
-      "disgust"
-    ],
-    [
-      "vigils",
-      1,
-      "anticipation"
-    ],
-    [
-      "grow",
-      1,
-      "joy"
-    ],
-    [
-      "assessment",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 47,
-    "fear": 106,
+    "fear": 107,
     "surprise": 15,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 6,
-    "anger": 57,
+    "anger": 59,
     "anticipation": 24
   }
 }
