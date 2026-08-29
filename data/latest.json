@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T21:05:48.596Z",
+  "generated_at": "2026-08-29T21:20:50.834Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,14 +68,14 @@
       "fear"
     ],
     [
-      "found",
-      3,
-      "joy"
-    ],
-    [
       "government",
       3,
       "fear"
+    ],
+    [
+      "found",
+      3,
+      "joy"
     ],
     [
       "continue",
@@ -128,6 +128,11 @@
       "anger"
     ],
     [
+      "expert",
+      2,
+      "trust"
+    ],
+    [
       "crossing",
       2,
       "anger"
@@ -136,11 +141,6 @@
       "hope",
       2,
       "surprise"
-    ],
-    [
-      "expert",
-      2,
-      "trust"
     ],
     [
       "aunt",
