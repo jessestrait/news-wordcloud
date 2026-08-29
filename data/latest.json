@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-29T05:53:36.881Z",
+  "generated_at": "2026-08-29T06:08:39.103Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      27,
+      25,
       "fear"
     ],
     [
       "missing",
-      21,
+      20,
       "fear"
     ],
     [
@@ -43,11 +43,6 @@
       "joy"
     ],
     [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "flooding",
       4,
       "fear"
@@ -71,6 +66,11 @@
       "collapse",
       4,
       "fear"
+    ],
+    [
+      "war",
+      3,
+      "anger"
     ],
     [
       "death",
@@ -108,14 +108,14 @@
       "joy"
     ],
     [
+      "combat",
+      2,
+      "anger"
+    ],
+    [
       "happened",
       2,
       "anticipation"
-    ],
-    [
-      "military",
-      2,
-      "fear"
     ],
     [
       "strikes",
@@ -263,6 +263,61 @@
       "trust"
     ],
     [
+      "love",
+      1,
+      "joy"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "gloom",
+      1,
+      "sadness"
+    ],
+    [
+      "darkness",
+      1,
+      "anger"
+    ],
+    [
+      "important",
+      1,
+      "trust"
+    ],
+    [
+      "create",
+      1,
+      "joy"
+    ],
+    [
+      "beautiful",
+      1,
+      "joy"
+    ],
+    [
+      "farming",
+      1,
+      "anticipation"
+    ],
+    [
+      "votes",
+      1,
+      "anger"
+    ],
+    [
+      "trump",
+      1,
+      "anger"
+    ],
+    [
+      "threats",
+      1,
+      "anger"
+    ],
+    [
       "obliterated",
       1,
       "anger"
@@ -279,6 +334,11 @@
     ],
     [
       "ruins",
+      1,
+      "fear"
+    ],
+    [
+      "military",
       1,
       "fear"
     ],
@@ -316,76 +376,16 @@
       "law",
       1,
       "trust"
-    ],
-    [
-      "rapid",
-      1,
-      "surprise"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "safe",
-      1,
-      "joy"
-    ],
-    [
-      "worried",
-      1,
-      "sadness"
-    ],
-    [
-      "hopeful",
-      1,
-      "surprise"
-    ],
-    [
-      "wait",
-      1,
-      "anticipation"
-    ],
-    [
-      "aftermath",
-      1,
-      "anger"
-    ],
-    [
-      "grieve",
-      1,
-      "fear"
-    ],
-    [
-      "gain",
-      1,
-      "joy"
-    ],
-    [
-      "losing",
-      1,
-      "anger"
-    ],
-    [
-      "casualty",
-      1,
-      "anger"
-    ],
-    [
-      "level",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 48,
-    "fear": 107,
+    "joy": 31,
+    "trust": 49,
+    "fear": 102,
     "surprise": 15,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 6,
-    "anger": 59,
-    "anticipation": 25
+    "anger": 63,
+    "anticipation": 26
   }
 }
