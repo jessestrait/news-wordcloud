@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T22:06:18.345Z",
+  "generated_at": "2026-08-29T22:06:37.085Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "fear"
     ],
     [
+      "rescue",
+      8,
+      "surprise"
+    ],
+    [
       "team",
       8,
       "trust"
@@ -21,11 +26,6 @@
       "family",
       8,
       "joy"
-    ],
-    [
-      "rescue",
-      8,
-      "surprise"
     ],
     [
       "people",
