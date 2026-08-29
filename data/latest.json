@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T14:02:07.303Z",
+  "generated_at": "2026-08-29T14:17:09.300Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,13 +9,23 @@
     ],
     [
       "missing",
-      21,
+      22,
       "fear"
     ],
     [
       "rescue",
       7,
       "surprise"
+    ],
+    [
+      "family",
+      6,
+      "joy"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "disaster",
@@ -38,13 +48,8 @@
       "trust"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
-      "family",
-      5,
+      "loved",
+      4,
       "joy"
     ],
     [
@@ -56,11 +61,6 @@
       "kills",
       4,
       "fear"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "flooding",
@@ -78,6 +78,11 @@
       "fear"
     ],
     [
+      "continue",
+      3,
+      "trust"
+    ],
+    [
       "home",
       3,
       "joy"
@@ -88,19 +93,9 @@
       "anger"
     ],
     [
-      "continue",
-      3,
-      "trust"
-    ],
-    [
       "plan",
       3,
       "anticipation"
-    ],
-    [
-      "loved",
-      3,
-      "joy"
     ],
     [
       "relatives",
@@ -118,24 +113,9 @@
       "fear"
     ],
     [
-      "life",
+      "attack",
       3,
-      "joy"
-    ],
-    [
-      "world",
-      2,
-      "trust"
-    ],
-    [
-      "military",
-      2,
-      "fear"
-    ],
-    [
-      "fire",
-      2,
-      "fear"
+      "anger"
     ],
     [
       "nothing",
@@ -151,6 +131,16 @@
       "crossing",
       2,
       "anger"
+    ],
+    [
+      "hospital",
+      2,
+      "fear"
+    ],
+    [
+      "world",
+      2,
+      "trust"
     ],
     [
       "president",
@@ -268,11 +258,6 @@
       "disgust"
     ],
     [
-      "prison",
-      2,
-      "anger"
-    ],
-    [
       "airport",
       2,
       "anticipation"
@@ -281,6 +266,36 @@
       "seek",
       2,
       "anticipation"
+    ],
+    [
+      "store",
+      1,
+      "anticipation"
+    ],
+    [
+      "operations",
+      1,
+      "fear"
+    ],
+    [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
+      "disappeared",
+      1,
+      "fear"
+    ],
+    [
+      "frantic",
+      1,
+      "fear"
+    ],
+    [
+      "hope",
+      1,
+      "surprise"
     ],
     [
       "confirmed",
@@ -313,29 +328,14 @@
       "anticipation"
     ],
     [
-      "detonations",
-      1,
-      "anger"
-    ],
-    [
-      "damaging",
-      1,
-      "anger"
-    ],
-    [
-      "store",
+      "investigation",
       1,
       "anticipation"
     ],
     [
-      "operations",
+      "stored",
       1,
-      "fear"
-    ],
-    [
-      "hit",
-      1,
-      "anger"
+      "anticipation"
     ],
     [
       "fate",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 31,
     "trust": 48,
-    "fear": 108,
-    "surprise": 16,
+    "fear": 111,
+    "surprise": 17,
     "sadness": 17,
     "disgust": 5,
-    "anger": 72,
-    "anticipation": 29
+    "anger": 67,
+    "anticipation": 31
   }
 }
