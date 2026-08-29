@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T11:15:32.456Z",
+  "generated_at": "2026-08-29T11:30:34.400Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,6 +273,11 @@
       "anticipation"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
       "store",
       1,
       "anticipation"
@@ -286,11 +291,6 @@
       "hit",
       1,
       "anger"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
     ],
     [
       "fate",
