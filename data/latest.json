@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-08-29T06:38:59.995Z",
+  "generated_at": "2026-08-29T06:54:02.698Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      25,
+      26,
       "fear"
     ],
     [
       "missing",
-      20,
+      21,
       "fear"
     ],
     [
       "rescue",
-      6,
+      7,
       "surprise"
+    ],
+    [
+      "disaster",
+      6,
+      "anger"
     ],
     [
       "team",
@@ -28,11 +33,6 @@
       "trust"
     ],
     [
-      "disaster",
-      5,
-      "anger"
-    ],
-    [
       "people",
       5,
       "trust"
@@ -41,6 +41,11 @@
       "family",
       5,
       "joy"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "flooding",
@@ -73,11 +78,6 @@
       "anger"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "loved",
       3,
       "joy"
@@ -108,6 +108,16 @@
       "joy"
     ],
     [
+      "military",
+      2,
+      "fear"
+    ],
+    [
+      "clock",
+      2,
+      "anticipation"
+    ],
+    [
       "combat",
       2,
       "anger"
@@ -121,11 +131,6 @@
       "strikes",
       2,
       "anger"
-    ],
-    [
-      "production",
-      2,
-      "anticipation"
     ],
     [
       "deadly",
@@ -338,12 +343,12 @@
       "fear"
     ],
     [
-      "military",
+      "daily",
       1,
-      "fear"
+      "anticipation"
     ],
     [
-      "daily",
+      "production",
       1,
       "anticipation"
     ],
@@ -371,21 +376,16 @@
       "penalties",
       1,
       "anger"
-    ],
-    [
-      "law",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 49,
-    "fear": 102,
-    "surprise": 15,
-    "sadness": 15,
+    "fear": 104,
+    "surprise": 16,
+    "sadness": 16,
     "disgust": 6,
-    "anger": 63,
+    "anger": 64,
     "anticipation": 26
   }
 }
