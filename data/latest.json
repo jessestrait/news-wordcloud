@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-08-29T21:51:16.080Z",
+  "generated_at": "2026-08-29T22:06:18.345Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      24,
+      22,
       "fear"
     ],
     [
       "missing",
-      21,
+      20,
       "fear"
+    ],
+    [
+      "team",
+      8,
+      "trust"
+    ],
+    [
+      "family",
+      8,
+      "joy"
     ],
     [
       "rescue",
@@ -18,17 +28,7 @@
       "surprise"
     ],
     [
-      "family",
-      7,
-      "joy"
-    ],
-    [
       "people",
-      7,
-      "trust"
-    ],
-    [
-      "team",
       7,
       "trust"
     ],
@@ -43,14 +43,14 @@
       "trust"
     ],
     [
-      "loved",
+      "home",
       4,
       "joy"
     ],
     [
-      "kills",
+      "loved",
       4,
-      "fear"
+      "joy"
     ],
     [
       "flooding",
@@ -59,11 +59,6 @@
     ],
     [
       "dies",
-      4,
-      "fear"
-    ],
-    [
-      "collapse",
       4,
       "fear"
     ],
@@ -83,14 +78,14 @@
       "trust"
     ],
     [
-      "home",
-      3,
-      "joy"
-    ],
-    [
       "strike",
       3,
       "anger"
+    ],
+    [
+      "kills",
+      3,
+      "fear"
     ],
     [
       "plan",
@@ -126,6 +121,11 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "collapse",
+      3,
+      "fear"
     ],
     [
       "expert",
@@ -258,6 +258,26 @@
       "anticipation"
     ],
     [
+      "attacked",
+      1,
+      "anger"
+    ],
+    [
+      "bank",
+      1,
+      "trust"
+    ],
+    [
+      "crew",
+      1,
+      "trust"
+    ],
+    [
+      "assaulted",
+      1,
+      "anger"
+    ],
+    [
       "thinking",
       1,
       "trust"
@@ -356,36 +376,16 @@
       "gloom",
       1,
       "sadness"
-    ],
-    [
-      "darkness",
-      1,
-      "anger"
-    ],
-    [
-      "important",
-      1,
-      "trust"
-    ],
-    [
-      "create",
-      1,
-      "joy"
-    ],
-    [
-      "beautiful",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 51,
-    "fear": 106,
+    "joy": 36,
+    "trust": 54,
+    "fear": 101,
     "surprise": 19,
     "sadness": 17,
     "disgust": 4,
-    "anger": 60,
+    "anger": 62,
     "anticipation": 29
   }
 }
