@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-30T16:30:52.898Z",
+  "generated_at": "2026-08-30T16:45:55.214Z",
   "article_count": 50,
   "top_words": [
     [
-      "flood",
-      19,
+      "missing",
+      18,
       "fear"
     ],
     [
-      "missing",
-      18,
+      "flood",
+      17,
       "fear"
     ],
     [
@@ -18,14 +18,14 @@
       "joy"
     ],
     [
-      "disaster",
-      6,
-      "anger"
-    ],
-    [
       "people",
       6,
       "trust"
+    ],
+    [
+      "disaster",
+      6,
+      "anger"
     ],
     [
       "death",
@@ -123,6 +123,11 @@
       "anger"
     ],
     [
+      "obituary",
+      2,
+      "sadness"
+    ],
+    [
       "threat",
       2,
       "anger"
@@ -208,11 +213,6 @@
       "anger"
     ],
     [
-      "arrive",
-      2,
-      "anticipation"
-    ],
-    [
       "americans",
       2,
       "sadness"
@@ -238,14 +238,24 @@
       "fear"
     ],
     [
-      "killed",
+      "risk",
       2,
       "fear"
     ],
     [
-      "risk",
-      2,
+      "remains",
+      1,
       "fear"
+    ],
+    [
+      "flee",
+      1,
+      "fear"
+    ],
+    [
+      "ground",
+      1,
+      "trust"
     ],
     [
       "landslides",
@@ -366,26 +376,16 @@
       "fleeing",
       1,
       "fear"
-    ],
-    [
-      "dire",
-      1,
-      "fear"
-    ],
-    [
-      "deteriorating",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 53,
-    "fear": 81,
+    "trust": 52,
+    "fear": 78,
     "surprise": 21,
-    "sadness": 20,
+    "sadness": 21,
     "disgust": 4,
     "anger": 66,
-    "anticipation": 24
+    "anticipation": 23
   }
 }
