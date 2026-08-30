@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:32:09.983Z",
+  "generated_at": "2026-08-30T18:47:12.190Z",
   "article_count": 50,
   "top_words": [
     [
@@ -61,6 +61,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "continue",
@@ -128,6 +133,16 @@
       "trust"
     ],
     [
+      "crew",
+      2,
+      "trust"
+    ],
+    [
+      "die",
+      2,
+      "fear"
+    ],
+    [
       "warnings",
       2,
       "fear"
@@ -143,14 +158,9 @@
       "anger"
     ],
     [
-      "crew",
+      "threat",
       2,
-      "trust"
-    ],
-    [
-      "die",
-      2,
-      "fear"
+      "anger"
     ],
     [
       "ground",
@@ -166,11 +176,6 @@
       "obituary",
       2,
       "sadness"
-    ],
-    [
-      "threat",
-      2,
-      "anger"
     ],
     [
       "deal",
@@ -213,11 +218,6 @@
       "trust"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "crossing",
       2,
       "anger"
@@ -258,6 +258,16 @@
       "anger"
     ],
     [
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "accident",
+      1,
+      "fear"
+    ],
+    [
       "exceeds",
       1,
       "joy"
@@ -268,14 +278,9 @@
       "fear"
     ],
     [
-      "rescued",
+      "confirmed",
       1,
-      "surprise"
-    ],
-    [
-      "accident",
-      1,
-      "fear"
+      "trust"
     ],
     [
       "saves",
@@ -296,11 +301,6 @@
       "flee",
       1,
       "fear"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
     ],
     [
       "defends",
@@ -386,6 +386,6 @@
     "sadness": 20,
     "disgust": 4,
     "anger": 69,
-    "anticipation": 22
+    "anticipation": 23
   }
 }
