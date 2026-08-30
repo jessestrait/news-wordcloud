@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T07:11:16.217Z",
+  "generated_at": "2026-08-30T07:26:18.382Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "missing",
-      20,
+      18,
       "fear"
     ],
     [
@@ -28,14 +28,19 @@
       "surprise"
     ],
     [
-      "team",
-      6,
-      "trust"
-    ],
-    [
       "war",
       5,
       "anger"
+    ],
+    [
+      "leader",
+      5,
+      "trust"
+    ],
+    [
+      "team",
+      5,
+      "trust"
     ],
     [
       "disaster",
@@ -53,19 +58,9 @@
       "anger"
     ],
     [
-      "plan",
-      4,
-      "anticipation"
-    ],
-    [
       "home",
       4,
       "joy"
-    ],
-    [
-      "official",
-      4,
-      "trust"
     ],
     [
       "flooding",
@@ -76,11 +71,6 @@
       "government",
       3,
       "fear"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
     ],
     [
       "world",
@@ -103,6 +93,11 @@
       "fear"
     ],
     [
+      "plan",
+      3,
+      "anticipation"
+    ],
+    [
       "happened",
       3,
       "anticipation"
@@ -121,6 +116,11 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "official",
+      3,
+      "trust"
     ],
     [
       "relatives",
@@ -243,11 +243,6 @@
       "fear"
     ],
     [
-      "emergency",
-      2,
-      "fear"
-    ],
-    [
       "cases",
       2,
       "fear"
@@ -256,6 +251,16 @@
       "warning",
       2,
       "fear"
+    ],
+    [
+      "turmoil",
+      1,
+      "anger"
+    ],
+    [
+      "cancels",
+      1,
+      "sadness"
     ],
     [
       "lone",
@@ -371,21 +376,16 @@
       "authorities",
       1,
       "trust"
-    ],
-    [
-      "burials",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
     "trust": 55,
-    "fear": 94,
+    "fear": 91,
     "surprise": 19,
-    "sadness": 18,
+    "sadness": 19,
     "disgust": 5,
-    "anger": 66,
-    "anticipation": 28
+    "anger": 67,
+    "anticipation": 26
   }
 }
