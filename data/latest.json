@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T00:22:48.351Z",
+  "generated_at": "2026-08-30T00:37:51.033Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "missing",
-      20,
+      21,
       "fear"
     ],
     [
       "family",
-      8,
+      9,
       "joy"
     ],
     [
@@ -43,6 +43,11 @@
       "trust"
     ],
     [
+      "plan",
+      4,
+      "anticipation"
+    ],
+    [
       "home",
       4,
       "joy"
@@ -60,6 +65,16 @@
     [
       "dies",
       4,
+      "fear"
+    ],
+    [
+      "hope",
+      3,
+      "surprise"
+    ],
+    [
+      "hospital",
+      3,
       "fear"
     ],
     [
@@ -86,11 +101,6 @@
       "kills",
       3,
       "fear"
-    ],
-    [
-      "plan",
-      3,
-      "anticipation"
     ],
     [
       "death",
@@ -128,14 +138,19 @@
       "fear"
     ],
     [
-      "crossing",
+      "fill",
+      2,
+      "trust"
+    ],
+    [
+      "victims",
       2,
       "anger"
     ],
     [
-      "hope",
+      "crossing",
       2,
-      "surprise"
+      "anger"
     ],
     [
       "aunt",
@@ -146,11 +161,6 @@
       "storing",
       2,
       "anticipation"
-    ],
-    [
-      "hospital",
-      2,
-      "fear"
     ],
     [
       "world",
@@ -223,11 +233,6 @@
       "fear"
     ],
     [
-      "global",
-      2,
-      "anticipation"
-    ],
-    [
       "emergency",
       2,
       "fear"
@@ -251,6 +256,31 @@
       "airport",
       2,
       "anticipation"
+    ],
+    [
+      "despair",
+      1,
+      "anger"
+    ],
+    [
+      "teaching",
+      1,
+      "surprise"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "burials",
+      1,
+      "anger"
+    ],
+    [
+      "morgues",
+      1,
+      "fear"
     ],
     [
       "attacked",
@@ -328,11 +358,6 @@
       "fear"
     ],
     [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
       "investigation",
       1,
       "anticipation"
@@ -351,41 +376,16 @@
       "legal",
       1,
       "trust"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
-      "love",
-      1,
-      "joy"
-    ],
-    [
-      "anti",
-      1,
-      "anger"
-    ],
-    [
-      "gloom",
-      1,
-      "sadness"
-    ],
-    [
-      "darkness",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 52,
-    "fear": 100,
-    "surprise": 18,
-    "sadness": 17,
+    "joy": 37,
+    "trust": 55,
+    "fear": 103,
+    "surprise": 19,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 62,
+    "anger": 65,
     "anticipation": 30
   }
 }
