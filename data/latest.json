@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-30T13:29:24.977Z",
+  "generated_at": "2026-08-30T13:44:27.068Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      22,
+      21,
       "fear"
     ],
     [
       "missing",
-      20,
+      19,
       "fear"
     ],
     [
@@ -23,9 +23,9 @@
       "trust"
     ],
     [
-      "rescue",
+      "disaster",
       6,
-      "surprise"
+      "anger"
     ],
     [
       "leader",
@@ -33,14 +33,9 @@
       "trust"
     ],
     [
-      "team",
+      "rescue",
       5,
-      "trust"
-    ],
-    [
-      "disaster",
-      5,
-      "anger"
+      "surprise"
     ],
     [
       "death",
@@ -53,24 +48,24 @@
       "anger"
     ],
     [
+      "team",
+      4,
+      "trust"
+    ],
+    [
       "home",
       4,
       "joy"
     ],
     [
-      "flooding",
-      4,
-      "fear"
+      "continue",
+      3,
+      "trust"
     ],
     [
       "fears",
       3,
       "anger"
-    ],
-    [
-      "continue",
-      3,
-      "trust"
     ],
     [
       "government",
@@ -128,22 +123,12 @@
       "trust"
     ],
     [
-      "risk",
+      "flooding",
       3,
       "fear"
     ],
     [
-      "devastating",
-      2,
-      "anger"
-    ],
-    [
       "hit",
-      2,
-      "anger"
-    ],
-    [
-      "accused",
       2,
       "anger"
     ],
@@ -156,6 +141,16 @@
       "public",
       2,
       "anticipation"
+    ],
+    [
+      "devastating",
+      2,
+      "anger"
+    ],
+    [
+      "accused",
+      2,
+      "anger"
     ],
     [
       "president",
@@ -253,6 +248,11 @@
       "fear"
     ],
     [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
       "cases",
       2,
       "fear"
@@ -263,14 +263,19 @@
       "fear"
     ],
     [
-      "landslides",
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "accident",
       1,
       "fear"
     ],
     [
-      "wording",
+      "landslides",
       1,
-      "trust"
+      "fear"
     ],
     [
       "rejects",
@@ -284,6 +289,11 @@
     ],
     [
       "counted",
+      1,
+      "trust"
+    ],
+    [
+      "wording",
       1,
       "trust"
     ],
@@ -366,26 +376,16 @@
       "bad",
       1,
       "anger"
-    ],
-    [
-      "rescuing",
-      1,
-      "surprise"
-    ],
-    [
-      "lost",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 56,
-    "fear": 89,
+    "trust": 55,
+    "fear": 86,
     "surprise": 19,
     "sadness": 19,
-    "disgust": 4,
-    "anger": 63,
+    "disgust": 3,
+    "anger": 64,
     "anticipation": 25
   }
 }
