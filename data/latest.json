@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T08:41:59.424Z",
+  "generated_at": "2026-08-30T08:57:01.809Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,6 +138,16 @@
       "fear"
     ],
     [
+      "votes",
+      2,
+      "anger"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
       "president",
       2,
       "trust"
@@ -253,6 +263,21 @@
       "fear"
     ],
     [
+      "rejected",
+      1,
+      "anger"
+    ],
+    [
+      "prevailed",
+      1,
+      "joy"
+    ],
+    [
+      "counted",
+      1,
+      "trust"
+    ],
+    [
       "turmoil",
       1,
       "anger"
@@ -351,41 +376,16 @@
       "power",
       1,
       "anticipation"
-    ],
-    [
-      "watchdog",
-      1,
-      "trust"
-    ],
-    [
-      "supply",
-      1,
-      "fear"
-    ],
-    [
-      "despair",
-      1,
-      "anger"
-    ],
-    [
-      "teaching",
-      1,
-      "surprise"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 55,
-    "fear": 91,
+    "joy": 35,
+    "trust": 54,
+    "fear": 89,
     "surprise": 19,
     "sadness": 19,
     "disgust": 5,
-    "anger": 67,
+    "anger": 68,
     "anticipation": 26
   }
 }
