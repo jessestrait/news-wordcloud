@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T14:45:08.184Z",
+  "generated_at": "2026-08-30T15:00:10.099Z",
   "article_count": 50,
   "top_words": [
     [
@@ -123,6 +123,11 @@
       "fear"
     ],
     [
+      "votes",
+      2,
+      "anger"
+    ],
+    [
       "hit",
       2,
       "anger"
@@ -131,11 +136,6 @@
       "abortion",
       2,
       "fear"
-    ],
-    [
-      "votes",
-      2,
-      "anger"
     ],
     [
       "devastating",
@@ -258,6 +258,26 @@
       "fear"
     ],
     [
+      "rejects",
+      1,
+      "anger"
+    ],
+    [
+      "prevails",
+      1,
+      "joy"
+    ],
+    [
+      "winning",
+      1,
+      "disgust"
+    ],
+    [
+      "gaining",
+      1,
+      "joy"
+    ],
+    [
       "rescued",
       1,
       "surprise"
@@ -291,26 +311,6 @@
       "restrictions",
       1,
       "anger"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "prevails",
-      1,
-      "joy"
-    ],
-    [
-      "winning",
-      1,
-      "disgust"
-    ],
-    [
-      "gaining",
-      1,
-      "joy"
     ],
     [
       "wording",
