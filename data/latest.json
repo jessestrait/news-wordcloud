@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T13:44:27.068Z",
+  "generated_at": "2026-08-30T13:59:29.108Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "missing",
-      19,
+      18,
       "fear"
     ],
     [
@@ -28,6 +28,11 @@
       "anger"
     ],
     [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
       "leader",
       5,
       "trust"
@@ -36,11 +41,6 @@
       "rescue",
       5,
       "surprise"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "war",
@@ -381,9 +381,9 @@
   "emotion_totals": {
     "joy": 35,
     "trust": 55,
-    "fear": 86,
+    "fear": 85,
     "surprise": 19,
-    "sadness": 19,
+    "sadness": 20,
     "disgust": 3,
     "anger": 64,
     "anticipation": 25
