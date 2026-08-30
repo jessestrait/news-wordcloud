@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T17:16:17.344Z",
+  "generated_at": "2026-08-30T17:31:19.891Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,14 +63,14 @@
       "joy"
     ],
     [
-      "deadly",
-      3,
-      "anger"
-    ],
-    [
       "continue",
       3,
       "trust"
+    ],
+    [
+      "deadly",
+      3,
+      "anger"
     ],
     [
       "trump",
@@ -123,6 +123,21 @@
       "trust"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
+      "crew",
+      2,
+      "trust"
+    ],
+    [
+      "die",
+      2,
+      "fear"
+    ],
+    [
       "ground",
       2,
       "trust"
@@ -131,11 +146,6 @@
       "foreigners",
       2,
       "fear"
-    ],
-    [
-      "hit",
-      2,
-      "anger"
     ],
     [
       "obituary",
@@ -238,6 +248,21 @@
       "anger"
     ],
     [
+      "landslides",
+      1,
+      "fear"
+    ],
+    [
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "accident",
+      1,
+      "fear"
+    ],
+    [
       "saves",
       1,
       "joy"
@@ -253,27 +278,12 @@
       "fear"
     ],
     [
-      "rescued",
-      1,
-      "surprise"
-    ],
-    [
-      "accident",
-      1,
-      "fear"
-    ],
-    [
       "remains",
       1,
       "fear"
     ],
     [
       "flee",
-      1,
-      "fear"
-    ],
-    [
-      "landslides",
       1,
       "fear"
     ],
@@ -366,22 +376,12 @@
       "black",
       1,
       "sadness"
-    ],
-    [
-      "defiance",
-      1,
-      "anger"
-    ],
-    [
-      "change",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 53,
-    "fear": 80,
+    "trust": 54,
+    "fear": 81,
     "surprise": 22,
     "sadness": 20,
     "disgust": 4,
