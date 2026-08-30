@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-30T21:03:22.289Z",
+  "generated_at": "2026-08-30T21:18:24.363Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      19,
+      20,
       "fear"
     ],
     [
       "flood",
-      19,
+      20,
       "fear"
     ],
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
       "rescue",
       6,
       "surprise"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "death",
@@ -51,6 +51,11 @@
       "flooding",
       4,
       "fear"
+    ],
+    [
+      "relatives",
+      4,
+      "trust"
     ],
     [
       "war",
@@ -128,11 +133,6 @@
       "trust"
     ],
     [
-      "relatives",
-      3,
-      "trust"
-    ],
-    [
       "crew",
       2,
       "trust"
@@ -161,11 +161,6 @@
       "threat",
       2,
       "anger"
-    ],
-    [
-      "ground",
-      2,
-      "trust"
     ],
     [
       "foreigners",
@@ -288,17 +283,32 @@
       "joy"
     ],
     [
+      "ground",
+      1,
+      "trust"
+    ],
+    [
       "receiving",
       1,
       "surprise"
     ],
     [
-      "remains",
+      "devastated",
       1,
-      "fear"
+      "anger"
     ],
     [
-      "flee",
+      "overwhelmed",
+      1,
+      "sadness"
+    ],
+    [
+      "weep",
+      1,
+      "sadness"
+    ],
+    [
+      "remains",
       1,
       "fear"
     ],
@@ -366,26 +376,16 @@
       "wording",
       1,
       "trust"
-    ],
-    [
-      "turmoil",
-      1,
-      "anger"
-    ],
-    [
-      "cancels",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 54,
-    "fear": 81,
+    "trust": 53,
+    "fear": 82,
     "surprise": 22,
-    "sadness": 20,
+    "sadness": 22,
     "disgust": 4,
-    "anger": 69,
+    "anger": 70,
     "anticipation": 24
   }
 }
