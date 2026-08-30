@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-30T06:55:58.773Z",
+  "generated_at": "2026-08-30T07:11:01.237Z",
   "article_count": 50,
   "top_words": [
     [
-      "missing",
-      22,
+      "flood",
+      20,
       "fear"
     ],
     [
-      "flood",
-      21,
+      "missing",
+      20,
       "fear"
     ],
     [
@@ -19,17 +19,17 @@
     ],
     [
       "people",
-      9,
+      8,
       "trust"
     ],
     [
       "rescue",
-      7,
+      6,
       "surprise"
     ],
     [
       "team",
-      7,
+      6,
       "trust"
     ],
     [
@@ -253,13 +253,28 @@
       "fear"
     ],
     [
-      "police",
+      "warning",
       2,
       "fear"
     ],
     [
-      "warning",
-      2,
+      "lone",
+      1,
+      "sadness"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
+      "defiance",
+      1,
+      "anger"
+    ],
+    [
+      "change",
+      1,
       "fear"
     ],
     [
@@ -361,31 +376,16 @@
       "burials",
       1,
       "anger"
-    ],
-    [
-      "morgues",
-      1,
-      "fear"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
-      "crew",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 57,
-    "fear": 97,
-    "surprise": 20,
-    "sadness": 16,
+    "trust": 55,
+    "fear": 94,
+    "surprise": 19,
+    "sadness": 18,
     "disgust": 5,
-    "anger": 65,
+    "anger": 66,
     "anticipation": 28
   }
 }
