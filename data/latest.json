@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T16:00:32.520Z",
+  "generated_at": "2026-08-30T16:15:34.836Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,12 +118,12 @@
       "trust"
     ],
     [
-      "threat",
+      "hit",
       2,
       "anger"
     ],
     [
-      "hit",
+      "threat",
       2,
       "anger"
     ],
@@ -248,14 +248,14 @@
       "fear"
     ],
     [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
       "landslides",
       1,
       "fear"
+    ],
+    [
+      "confirmed",
+      1,
+      "trust"
     ],
     [
       "rescued",
@@ -264,6 +264,11 @@
     ],
     [
       "accident",
+      1,
+      "fear"
+    ],
+    [
+      "defends",
       1,
       "fear"
     ],
@@ -371,17 +376,12 @@
       "deteriorating",
       1,
       "fear"
-    ],
-    [
-      "arriving",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
     "trust": 53,
-    "fear": 80,
+    "fear": 81,
     "surprise": 21,
     "sadness": 20,
     "disgust": 4,
