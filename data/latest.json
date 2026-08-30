@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-30T22:19:07.070Z",
+  "generated_at": "2026-08-30T22:34:09.182Z",
   "article_count": 50,
   "top_words": [
+    [
+      "flood",
+      21,
+      "fear"
+    ],
     [
       "missing",
       20,
       "fear"
     ],
     [
-      "flood",
-      20,
-      "fear"
-    ],
-    [
       "family",
-      9,
+      8,
       "joy"
     ],
     [
@@ -26,6 +26,11 @@
       "rescue",
       6,
       "surprise"
+    ],
+    [
+      "relatives",
+      5,
+      "trust"
     ],
     [
       "people",
@@ -43,19 +48,14 @@
       "trust"
     ],
     [
+      "victims",
+      4,
+      "anger"
+    ],
+    [
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "flooding",
-      4,
-      "fear"
-    ],
-    [
-      "relatives",
-      4,
-      "trust"
     ],
     [
       "war",
@@ -78,9 +78,9 @@
       "trust"
     ],
     [
-      "victims",
+      "flooding",
       3,
-      "anger"
+      "fear"
     ],
     [
       "deadly",
@@ -131,6 +131,16 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "house",
+      2,
+      "joy"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "crew",
@@ -253,6 +263,11 @@
       "anger"
     ],
     [
+      "seconds",
+      1,
+      "trust"
+    ],
+    [
       "rescued",
       1,
       "surprise"
@@ -361,28 +376,13 @@
       "showing",
       1,
       "trust"
-    ],
-    [
-      "restrictions",
-      1,
-      "anger"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "wording",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 53,
+    "joy": 35,
+    "trust": 55,
     "fear": 82,
-    "surprise": 22,
+    "surprise": 21,
     "sadness": 22,
     "disgust": 4,
     "anger": 70,
