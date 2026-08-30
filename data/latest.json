@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-30T04:55:04.839Z",
+  "generated_at": "2026-08-30T05:10:06.859Z",
   "article_count": 50,
   "top_words": [
     [
-      "flood",
-      22,
+      "missing",
+      21,
       "fear"
     ],
     [
-      "missing",
-      21,
+      "flood",
+      20,
       "fear"
     ],
     [
@@ -38,9 +38,9 @@
       "anger"
     ],
     [
-      "official",
-      5,
-      "trust"
+      "war",
+      4,
+      "anger"
     ],
     [
       "death",
@@ -63,6 +63,11 @@
       "joy"
     ],
     [
+      "official",
+      4,
+      "trust"
+    ],
+    [
       "flooding",
       4,
       "fear"
@@ -73,17 +78,22 @@
       "fear"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
+    ],
+    [
+      "world",
+      3,
+      "trust"
+    ],
+    [
       "fears",
-      3,
-      "anger"
-    ],
-    [
-      "war",
-      3,
-      "anger"
-    ],
-    [
-      "deadly",
       3,
       "anger"
     ],
@@ -118,11 +128,6 @@
       "anger"
     ],
     [
-      "kills",
-      3,
-      "fear"
-    ],
-    [
       "relatives",
       3,
       "trust"
@@ -138,6 +143,21 @@
       "fear"
     ],
     [
+      "president",
+      2,
+      "trust"
+    ],
+    [
+      "attacked",
+      2,
+      "anger"
+    ],
+    [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "devastating",
       2,
       "anger"
@@ -146,6 +166,11 @@
       "storing",
       2,
       "anticipation"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
     ],
     [
       "fill",
@@ -168,12 +193,7 @@
       "trust"
     ],
     [
-      "world",
-      2,
-      "trust"
-    ],
-    [
-      "government",
+      "kills",
       2,
       "fear"
     ],
@@ -199,11 +219,6 @@
     ],
     [
       "opposition",
-      2,
-      "anger"
-    ],
-    [
-      "massive",
       2,
       "anger"
     ],
@@ -248,9 +263,24 @@
       "fear"
     ],
     [
-      "airport",
-      2,
+      "surrounding",
+      1,
       "anticipation"
+    ],
+    [
+      "shows",
+      1,
+      "trust"
+    ],
+    [
+      "combative",
+      1,
+      "anger"
+    ],
+    [
+      "surprised",
+      1,
+      "surprise"
     ],
     [
       "bad",
@@ -308,11 +338,6 @@
       "fear"
     ],
     [
-      "attacked",
-      1,
-      "anger"
-    ],
-    [
       "bank",
       1,
       "trust"
@@ -351,41 +376,16 @@
       "disappeared",
       1,
       "fear"
-    ],
-    [
-      "frantic",
-      1,
-      "fear"
-    ],
-    [
-      "pay",
-      1,
-      "joy"
-    ],
-    [
-      "reacts",
-      1,
-      "anger"
-    ],
-    [
-      "sorrow",
-      1,
-      "fear"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 56,
-    "fear": 99,
-    "surprise": 18,
+    "trust": 59,
+    "fear": 95,
+    "surprise": 19,
     "sadness": 17,
     "disgust": 4,
     "anger": 70,
-    "anticipation": 29
+    "anticipation": 27
   }
 }
