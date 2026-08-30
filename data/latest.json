@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T05:55:31.242Z",
+  "generated_at": "2026-08-30T06:10:33.826Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "people",
-      8,
+      9,
       "trust"
     ],
     [
@@ -33,13 +33,13 @@
       "trust"
     ],
     [
-      "disaster",
+      "war",
       5,
       "anger"
     ],
     [
-      "war",
-      4,
+      "disaster",
+      5,
       "anger"
     ],
     [
@@ -69,11 +69,6 @@
     ],
     [
       "flooding",
-      4,
-      "fear"
-    ],
-    [
-      "dies",
       4,
       "fear"
     ],
@@ -228,6 +223,11 @@
       "trust"
     ],
     [
+      "dies",
+      2,
+      "fear"
+    ],
+    [
       "scandal",
       2,
       "fear"
@@ -261,6 +261,31 @@
       "warning",
       2,
       "fear"
+    ],
+    [
+      "humanitarian",
+      1,
+      "surprise"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
+      "fleeing",
+      1,
+      "fear"
+    ],
+    [
+      "deteriorating",
+      1,
+      "fear"
+    ],
+    [
+      "arriving",
+      1,
+      "anticipation"
     ],
     [
       "surrounding",
@@ -351,41 +376,16 @@
       "assaulted",
       1,
       "anger"
-    ],
-    [
-      "thinking",
-      1,
-      "trust"
-    ],
-    [
-      "daughter",
-      1,
-      "joy"
-    ],
-    [
-      "mother",
-      1,
-      "sadness"
-    ],
-    [
-      "friendship",
-      1,
-      "joy"
-    ],
-    [
-      "disappeared",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 59,
+    "joy": 33,
+    "trust": 58,
     "fear": 95,
-    "surprise": 19,
+    "surprise": 20,
     "sadness": 17,
-    "disgust": 4,
-    "anger": 70,
-    "anticipation": 27
+    "disgust": 5,
+    "anger": 67,
+    "anticipation": 28
   }
 }
