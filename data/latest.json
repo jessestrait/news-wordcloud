@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T12:44:04.125Z",
+  "generated_at": "2026-08-30T12:59:06.154Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,14 +43,14 @@
       "anger"
     ],
     [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "death",
       4,
       "sadness"
+    ],
+    [
+      "war",
+      4,
+      "anger"
     ],
     [
       "home",
@@ -61,6 +61,11 @@
       "flooding",
       4,
       "fear"
+    ],
+    [
+      "fears",
+      3,
+      "anger"
     ],
     [
       "continue",
@@ -76,11 +81,6 @@
       "world",
       3,
       "trust"
-    ],
-    [
-      "fears",
-      3,
-      "anger"
     ],
     [
       "hope",
@@ -133,6 +133,11 @@
       "fear"
     ],
     [
+      "devastating",
+      2,
+      "anger"
+    ],
+    [
       "hit",
       2,
       "anger"
@@ -164,11 +169,6 @@
     ],
     [
       "trump",
-      2,
-      "anger"
-    ],
-    [
-      "devastating",
       2,
       "anger"
     ],
