@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T15:00:10.099Z",
+  "generated_at": "2026-08-30T15:15:12.047Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "missing",
-      19,
+      18,
       "fear"
     ],
     [
@@ -19,7 +19,7 @@
     ],
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
@@ -58,6 +58,11 @@
       "joy"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "continue",
       3,
       "trust"
@@ -93,11 +98,6 @@
       "anticipation"
     ],
     [
-      "found",
-      3,
-      "joy"
-    ],
-    [
       "loved",
       3,
       "joy"
@@ -123,6 +123,11 @@
       "fear"
     ],
     [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
       "votes",
       2,
       "anger"
@@ -143,22 +148,12 @@
       "anger"
     ],
     [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
       "president",
       2,
       "trust"
     ],
     [
       "attacked",
-      2,
-      "anger"
-    ],
-    [
-      "trump",
       2,
       "anger"
     ],
@@ -191,6 +186,11 @@
       "happened",
       2,
       "anticipation"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "crossing",
@@ -238,11 +238,6 @@
       "fear"
     ],
     [
-      "scandal",
-      2,
-      "fear"
-    ],
-    [
       "killed",
       2,
       "fear"
@@ -253,9 +248,24 @@
       "fear"
     ],
     [
-      "cases",
-      2,
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "accident",
+      1,
       "fear"
+    ],
+    [
+      "endless",
+      1,
+      "anger"
+    ],
+    [
+      "outrage",
+      1,
+      "anger"
     ],
     [
       "rejects",
@@ -276,16 +286,6 @@
       "gaining",
       1,
       "joy"
-    ],
-    [
-      "rescued",
-      1,
-      "surprise"
-    ],
-    [
-      "accident",
-      1,
-      "fear"
     ],
     [
       "landslides",
@@ -309,6 +309,11 @@
     ],
     [
       "restrictions",
+      1,
+      "anger"
+    ],
+    [
+      "accused",
       1,
       "anger"
     ],
@@ -371,21 +376,16 @@
       "shockingly",
       1,
       "surprise"
-    ],
-    [
-      "surrounding",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 55,
-    "fear": 86,
-    "surprise": 19,
+    "joy": 34,
+    "trust": 53,
+    "fear": 81,
+    "surprise": 21,
     "sadness": 20,
-    "disgust": 5,
-    "anger": 65,
+    "disgust": 4,
+    "anger": 67,
     "anticipation": 24
   }
 }
