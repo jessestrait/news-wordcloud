@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T12:59:06.154Z",
+  "generated_at": "2026-08-30T13:14:08.196Z",
   "article_count": 50,
   "top_words": [
     [
@@ -318,17 +318,12 @@
       "fear"
     ],
     [
-      "humanitarian",
-      1,
-      "surprise"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
-    ],
-    [
       "fleeing",
+      1,
+      "fear"
+    ],
+    [
+      "dire",
       1,
       "fear"
     ],
@@ -341,6 +336,11 @@
       "arriving",
       1,
       "anticipation"
+    ],
+    [
+      "shockingly",
+      1,
+      "surprise"
     ],
     [
       "surrounding",
@@ -381,10 +381,10 @@
   "emotion_totals": {
     "joy": 35,
     "trust": 56,
-    "fear": 88,
+    "fear": 89,
     "surprise": 19,
     "sadness": 19,
-    "disgust": 5,
+    "disgust": 4,
     "anger": 63,
     "anticipation": 25
   }
