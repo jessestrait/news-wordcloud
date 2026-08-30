@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T09:42:27.942Z",
+  "generated_at": "2026-08-30T09:57:30.132Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,12 +133,12 @@
       "fear"
     ],
     [
-      "accused",
+      "hit",
       2,
       "anger"
     ],
     [
-      "hit",
+      "accused",
       2,
       "anger"
     ],
@@ -263,14 +263,14 @@
       "fear"
     ],
     [
-      "wording",
-      1,
-      "trust"
-    ],
-    [
       "landslides",
       1,
       "fear"
+    ],
+    [
+      "wording",
+      1,
+      "trust"
     ],
     [
       "rejected",
