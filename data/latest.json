@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T09:27:25.785Z",
+  "generated_at": "2026-08-30T09:42:27.942Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "surprise"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "leader",
       5,
       "trust"
@@ -45,6 +40,11 @@
     [
       "disaster",
       5,
+      "anger"
+    ],
+    [
+      "war",
+      4,
       "anger"
     ],
     [
@@ -79,11 +79,6 @@
     ],
     [
       "fears",
-      3,
-      "anger"
-    ],
-    [
-      "attack",
       3,
       "anger"
     ],
@@ -138,6 +133,11 @@
       "fear"
     ],
     [
+      "accused",
+      2,
+      "anger"
+    ],
+    [
       "hit",
       2,
       "anger"
@@ -183,6 +183,11 @@
       "anger"
     ],
     [
+      "attack",
+      2,
+      "anger"
+    ],
+    [
       "fill",
       2,
       "trust"
@@ -206,11 +211,6 @@
       "aunt",
       2,
       "trust"
-    ],
-    [
-      "kills",
-      2,
-      "fear"
     ],
     [
       "combat",
@@ -263,9 +263,9 @@
       "fear"
     ],
     [
-      "missiles",
-      2,
-      "fear"
+      "wording",
+      1,
+      "trust"
     ],
     [
       "landslides",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 55,
-    "fear": 91,
+    "trust": 56,
+    "fear": 88,
     "surprise": 19,
     "sadness": 19,
     "disgust": 5,
-    "anger": 66,
+    "anger": 63,
     "anticipation": 25
   }
 }
