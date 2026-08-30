@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:23:15.588Z",
+  "generated_at": "2026-08-30T01:38:17.875Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,17 +18,17 @@
       "joy"
     ],
     [
+      "people",
+      7,
+      "trust"
+    ],
+    [
       "rescue",
       7,
       "surprise"
     ],
     [
       "team",
-      7,
-      "trust"
-    ],
-    [
-      "people",
       7,
       "trust"
     ],
@@ -103,11 +103,6 @@
       "joy"
     ],
     [
-      "continue",
-      3,
-      "trust"
-    ],
-    [
       "strike",
       3,
       "anger"
@@ -143,6 +138,11 @@
       "fear"
     ],
     [
+      "storing",
+      2,
+      "anticipation"
+    ],
+    [
       "fill",
       2,
       "trust"
@@ -161,11 +161,6 @@
       "aunt",
       2,
       "trust"
-    ],
-    [
-      "storing",
-      2,
-      "anticipation"
     ],
     [
       "world",
@@ -213,6 +208,11 @@
       "anger"
     ],
     [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
       "scandal",
       2,
       "fear"
@@ -251,6 +251,16 @@
       "airport",
       2,
       "anticipation"
+    ],
+    [
+      "bad",
+      1,
+      "anger"
+    ],
+    [
+      "rescuing",
+      1,
+      "surprise"
     ],
     [
       "lost",
@@ -338,16 +348,6 @@
       "joy"
     ],
     [
-      "operations",
-      1,
-      "fear"
-    ],
-    [
-      "rescuing",
-      1,
-      "surprise"
-    ],
-    [
       "disappeared",
       1,
       "fear"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 37,
-    "trust": 56,
-    "fear": 101,
+    "trust": 55,
+    "fear": 100,
     "surprise": 19,
     "sadness": 16,
     "disgust": 4,
-    "anger": 68,
+    "anger": 69,
     "anticipation": 30
   }
 }
