@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-30T17:01:14.763Z",
+  "generated_at": "2026-08-30T17:16:17.344Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      18,
+      20,
       "fear"
     ],
     [
       "flood",
-      17,
+      19,
       "fear"
     ],
     [
@@ -18,14 +18,19 @@
       "joy"
     ],
     [
+      "disaster",
+      6,
+      "anger"
+    ],
+    [
       "people",
       6,
       "trust"
     ],
     [
-      "disaster",
+      "rescue",
       6,
-      "anger"
+      "surprise"
     ],
     [
       "death",
@@ -36,11 +41,6 @@
       "leader",
       5,
       "trust"
-    ],
-    [
-      "rescue",
-      5,
-      "surprise"
     ],
     [
       "flooding",
@@ -61,6 +61,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "deadly",
+      3,
+      "anger"
     ],
     [
       "continue",
@@ -118,6 +123,16 @@
       "trust"
     ],
     [
+      "ground",
+      2,
+      "trust"
+    ],
+    [
+      "foreigners",
+      2,
+      "fear"
+    ],
+    [
       "hit",
       2,
       "anger"
@@ -163,11 +178,6 @@
       "anticipation"
     ],
     [
-      "deadly",
-      2,
-      "anger"
-    ],
-    [
       "attack",
       2,
       "anger"
@@ -186,11 +196,6 @@
       "happened",
       2,
       "anticipation"
-    ],
-    [
-      "found",
-      2,
-      "joy"
     ],
     [
       "crossing",
@@ -233,13 +238,28 @@
       "anger"
     ],
     [
-      "dies",
-      2,
+      "saves",
+      1,
+      "joy"
+    ],
+    [
+      "receiving",
+      1,
+      "surprise"
+    ],
+    [
+      "warnings",
+      1,
       "fear"
     ],
     [
-      "risk",
-      2,
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "accident",
+      1,
       "fear"
     ],
     [
@@ -253,11 +273,6 @@
       "fear"
     ],
     [
-      "ground",
-      1,
-      "trust"
-    ],
-    [
       "landslides",
       1,
       "fear"
@@ -266,16 +281,6 @@
       "confirmed",
       1,
       "trust"
-    ],
-    [
-      "rescued",
-      1,
-      "surprise"
-    ],
-    [
-      "accident",
-      1,
-      "fear"
     ],
     [
       "defends",
@@ -371,21 +376,16 @@
       "change",
       1,
       "fear"
-    ],
-    [
-      "fleeing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 52,
-    "fear": 78,
-    "surprise": 21,
-    "sadness": 21,
+    "joy": 33,
+    "trust": 53,
+    "fear": 80,
+    "surprise": 22,
+    "sadness": 20,
     "disgust": 4,
     "anger": 66,
-    "anticipation": 23
+    "anticipation": 22
   }
 }
