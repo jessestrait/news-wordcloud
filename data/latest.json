@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-30T15:30:28.290Z",
+  "generated_at": "2026-08-30T15:45:30.308Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      21,
+      19,
       "fear"
     ],
     [
@@ -18,14 +18,14 @@
       "joy"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "disaster",
       6,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "death",
@@ -43,6 +43,11 @@
       "surprise"
     ],
     [
+      "flooding",
+      4,
+      "fear"
+    ],
+    [
       "war",
       4,
       "anger"
@@ -58,17 +63,12 @@
       "joy"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "continue",
       3,
       "trust"
     ],
     [
-      "fears",
+      "trump",
       3,
       "anger"
     ],
@@ -118,9 +118,14 @@
       "trust"
     ],
     [
-      "flooding",
-      3,
-      "fear"
+      "threat",
+      2,
+      "anger"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
     ],
     [
       "deal",
@@ -133,19 +138,9 @@
       "anger"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "abortion",
       2,
       "fear"
-    ],
-    [
-      "devastating",
-      2,
-      "anger"
     ],
     [
       "president",
@@ -233,6 +228,11 @@
       "anger"
     ],
     [
+      "fears",
+      2,
+      "anger"
+    ],
+    [
       "dies",
       2,
       "fear"
@@ -245,6 +245,16 @@
     [
       "risk",
       2,
+      "fear"
+    ],
+    [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
+      "landslides",
+      1,
       "fear"
     ],
     [
@@ -286,11 +296,6 @@
       "gaining",
       1,
       "joy"
-    ],
-    [
-      "landslides",
-      1,
-      "fear"
     ],
     [
       "pregnancy",
@@ -371,21 +376,16 @@
       "arriving",
       1,
       "anticipation"
-    ],
-    [
-      "shockingly",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
     "trust": 53,
-    "fear": 81,
+    "fear": 80,
     "surprise": 21,
     "sadness": 20,
     "disgust": 4,
-    "anger": 67,
+    "anger": 66,
     "anticipation": 24
   }
 }
