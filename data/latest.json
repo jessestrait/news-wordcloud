@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:26:50.333Z",
+  "generated_at": "2026-08-31T13:41:52.744Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "flood",
-      20,
+      19,
       "fear"
     ],
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 61,
-    "fear": 85,
+    "trust": 59,
+    "fear": 84,
     "surprise": 18,
     "sadness": 22,
     "disgust": 3,
-    "anger": 86,
+    "anger": 87,
     "anticipation": 29
   }
 }
