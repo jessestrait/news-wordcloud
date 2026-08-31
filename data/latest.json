@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T10:25:08.575Z",
+  "generated_at": "2026-08-31T10:40:10.707Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,11 +133,6 @@
       "trust"
     ],
     [
-      "blame",
-      2,
-      "anger"
-    ],
-    [
       "strait",
       2,
       "fear"
@@ -146,6 +141,11 @@
       "hormuz",
       2,
       "fear"
+    ],
+    [
+      "blame",
+      2,
+      "anger"
     ],
     [
       "military",
@@ -288,16 +288,6 @@
       "anticipation"
     ],
     [
-      "cooperating",
-      1,
-      "trust"
-    ],
-    [
-      "incursion",
-      1,
-      "fear"
-    ],
-    [
       "hostilities",
       1,
       "anger"
@@ -326,6 +316,16 @@
       "forces",
       1,
       "anger"
+    ],
+    [
+      "cooperating",
+      1,
+      "trust"
+    ],
+    [
+      "incursion",
+      1,
+      "fear"
     ],
     [
       "retaliation",
