@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:11:30.512Z",
+  "generated_at": "2026-08-31T13:26:33.251Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,14 +43,14 @@
       "anger"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
       "president",
       4,
       "trust"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "rescue",
@@ -138,14 +138,14 @@
       "trust"
     ],
     [
-      "expected",
-      2,
-      "anticipation"
-    ],
-    [
       "hormuz",
       2,
       "fear"
+    ],
+    [
+      "expected",
+      2,
+      "anticipation"
     ],
     [
       "blame",
@@ -278,6 +278,36 @@
       "anticipation"
     ],
     [
+      "diplomatic",
+      1,
+      "trust"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "exchange",
+      1,
+      "trust"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
+    ],
+    [
+      "america",
+      1,
+      "sadness"
+    ],
+    [
+      "fulfilled",
+      1,
+      "joy"
+    ],
+    [
       "economy",
       1,
       "trust"
@@ -311,36 +341,6 @@
       "inflation",
       1,
       "fear"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "exchange",
-      1,
-      "trust"
-    ],
-    [
-      "fire",
-      1,
-      "fear"
-    ],
-    [
-      "america",
-      1,
-      "sadness"
-    ],
-    [
-      "fulfilled",
-      1,
-      "joy"
     ],
     [
       "schools",
