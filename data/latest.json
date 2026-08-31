@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T14:12:15.539Z",
+  "generated_at": "2026-08-31T14:27:17.706Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,13 +9,13 @@
     ],
     [
       "flood",
-      19,
+      18,
       "fear"
     ],
     [
-      "people",
+      "attack",
       7,
-      "trust"
+      "anger"
     ],
     [
       "family",
@@ -23,9 +23,9 @@
       "joy"
     ],
     [
-      "attack",
+      "people",
       6,
-      "anger"
+      "trust"
     ],
     [
       "trump",
@@ -88,11 +88,6 @@
       "anger"
     ],
     [
-      "relatives",
-      4,
-      "trust"
-    ],
-    [
       "happened",
       4,
       "anticipation"
@@ -103,9 +98,9 @@
       "trust"
     ],
     [
-      "home",
-      4,
-      "joy"
+      "expected",
+      3,
+      "anticipation"
     ],
     [
       "president",
@@ -123,6 +118,11 @@
       "anticipation"
     ],
     [
+      "relatives",
+      3,
+      "trust"
+    ],
+    [
       "hope",
       3,
       "surprise"
@@ -138,14 +138,14 @@
       "trust"
     ],
     [
+      "home",
+      3,
+      "joy"
+    ],
+    [
       "bases",
       2,
       "trust"
-    ],
-    [
-      "expected",
-      2,
-      "anticipation"
     ],
     [
       "blame",
@@ -293,6 +293,21 @@
       "anger"
     ],
     [
+      "suspect",
+      1,
+      "fear"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
       "feared",
       1,
       "anger"
@@ -361,31 +376,16 @@
       "cooperating",
       1,
       "trust"
-    ],
-    [
-      "incursion",
-      1,
-      "fear"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "rocket",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 57,
-    "fear": 82,
-    "surprise": 18,
+    "trust": 55,
+    "fear": 80,
+    "surprise": 19,
     "sadness": 21,
     "disgust": 3,
-    "anger": 90,
-    "anticipation": 29
+    "anger": 91,
+    "anticipation": 30
   }
 }
