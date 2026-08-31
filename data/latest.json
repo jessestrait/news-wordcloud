@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:58:08.406Z",
+  "generated_at": "2026-08-31T16:13:11.054Z",
   "article_count": 50,
   "top_words": [
     [
@@ -263,6 +263,21 @@
       "anger"
     ],
     [
+      "hostilities",
+      1,
+      "anger"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "assault",
+      1,
+      "anger"
+    ],
+    [
       "feared",
       1,
       "anger"
@@ -301,21 +316,6 @@
       "attempt",
       1,
       "anticipation"
-    ],
-    [
-      "hostilities",
-      1,
-      "anger"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
     ],
     [
       "majority",
