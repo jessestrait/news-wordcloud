@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-08-31T05:22:36.705Z",
+  "generated_at": "2026-08-31T05:37:38.907Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      19,
+      21,
       "fear"
     ],
     [
       "flood",
-      18,
+      20,
       "fear"
     ],
     [
       "family",
       8,
       "joy"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "death",
@@ -28,9 +33,9 @@
       "anger"
     ],
     [
-      "people",
-      6,
-      "trust"
+      "rescue",
+      5,
+      "surprise"
     ],
     [
       "war",
@@ -48,9 +53,14 @@
       "trust"
     ],
     [
-      "leader",
-      5,
+      "continue",
+      4,
       "trust"
+    ],
+    [
+      "deadly",
+      4,
+      "anger"
     ],
     [
       "attack",
@@ -68,9 +78,9 @@
       "anticipation"
     ],
     [
-      "rescue",
+      "leader",
       4,
-      "surprise"
+      "trust"
     ],
     [
       "home",
@@ -83,17 +93,7 @@
       "anticipation"
     ],
     [
-      "continue",
-      3,
-      "trust"
-    ],
-    [
       "hit",
-      3,
-      "anger"
-    ],
-    [
-      "deadly",
       3,
       "anger"
     ],
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 36,
     "trust": 55,
-    "fear": 70,
-    "surprise": 19,
+    "fear": 74,
+    "surprise": 20,
     "sadness": 22,
     "disgust": 4,
-    "anger": 80,
+    "anger": 81,
     "anticipation": 27
   }
 }
