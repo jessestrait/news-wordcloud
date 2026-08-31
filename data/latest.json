@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-31T14:57:40.329Z",
+  "generated_at": "2026-08-31T15:12:42.955Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      21,
+      22,
       "fear"
     ],
     [
       "flood",
-      18,
+      17,
       "fear"
     ],
     [
@@ -18,22 +18,17 @@
       "anger"
     ],
     [
-      "family",
-      7,
-      "joy"
-    ],
-    [
       "people",
       6,
       "trust"
     ],
     [
-      "trump",
-      5,
-      "anger"
+      "family",
+      6,
+      "joy"
     ],
     [
-      "disaster",
+      "trump",
       5,
       "anger"
     ],
@@ -71,6 +66,11 @@
       "warning",
       4,
       "fear"
+    ],
+    [
+      "disaster",
+      4,
+      "anger"
     ],
     [
       "world",
@@ -116,11 +116,6 @@
       "storing",
       3,
       "anticipation"
-    ],
-    [
-      "relatives",
-      3,
-      "trust"
     ],
     [
       "hope",
@@ -173,6 +168,11 @@
       "joy"
     ],
     [
+      "relatives",
+      2,
+      "trust"
+    ],
+    [
       "found",
       2,
       "joy"
@@ -191,11 +191,6 @@
       "burials",
       2,
       "anger"
-    ],
-    [
-      "flooding",
-      2,
-      "fear"
     ],
     [
       "threat",
@@ -258,11 +253,6 @@
       "trust"
     ],
     [
-      "loved",
-      2,
-      "joy"
-    ],
-    [
       "combat",
       2,
       "anger"
@@ -273,9 +263,24 @@
       "sadness"
     ],
     [
-      "wait",
-      2,
-      "anticipation"
+      "majority",
+      1,
+      "joy"
+    ],
+    [
+      "destroyed",
+      1,
+      "anger"
+    ],
+    [
+      "covered",
+      1,
+      "trust"
+    ],
+    [
+      "debris",
+      1,
+      "disgust"
     ],
     [
       "hostilities",
@@ -371,21 +376,16 @@
       "media",
       1,
       "disgust"
-    ],
-    [
-      "cooperating",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 31,
     "trust": 55,
-    "fear": 80,
-    "surprise": 19,
-    "sadness": 21,
-    "disgust": 3,
-    "anger": 91,
-    "anticipation": 30
+    "fear": 78,
+    "surprise": 18,
+    "sadness": 20,
+    "disgust": 4,
+    "anger": 90,
+    "anticipation": 29
   }
 }
