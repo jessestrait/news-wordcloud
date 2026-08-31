@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-31T15:43:05.746Z",
+  "generated_at": "2026-08-31T15:58:08.406Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      22,
+      20,
       "fear"
     ],
     [
       "flood",
-      17,
+      16,
       "fear"
     ],
     [
@@ -23,6 +23,11 @@
       "trust"
     ],
     [
+      "strike",
+      6,
+      "anger"
+    ],
+    [
       "family",
       6,
       "joy"
@@ -34,11 +39,6 @@
     ],
     [
       "war",
-      5,
-      "anger"
-    ],
-    [
-      "strike",
       5,
       "anger"
     ],
@@ -78,11 +78,6 @@
       "trust"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "victims",
       4,
       "anger"
@@ -118,6 +113,11 @@
       "anticipation"
     ],
     [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
       "hope",
       3,
       "surprise"
@@ -141,6 +141,11 @@
       "bases",
       2,
       "trust"
+    ],
+    [
+      "force",
+      2,
+      "anger"
     ],
     [
       "blame",
@@ -258,9 +263,44 @@
       "anger"
     ],
     [
-      "americans",
-      2,
-      "sadness"
+      "feared",
+      1,
+      "anger"
+    ],
+    [
+      "thought",
+      1,
+      "anticipation"
+    ],
+    [
+      "devastating",
+      1,
+      "anger"
+    ],
+    [
+      "fires",
+      1,
+      "fear"
+    ],
+    [
+      "powered",
+      1,
+      "anticipation"
+    ],
+    [
+      "raid",
+      1,
+      "anger"
+    ],
+    [
+      "alerts",
+      1,
+      "fear"
+    ],
+    [
+      "attempt",
+      1,
+      "anticipation"
     ],
     [
       "hostilities",
@@ -313,21 +353,6 @@
       "surprise"
     ],
     [
-      "feared",
-      1,
-      "anger"
-    ],
-    [
-      "thought",
-      1,
-      "anticipation"
-    ],
-    [
-      "devastating",
-      1,
-      "anger"
-    ],
-    [
       "economy",
       1,
       "trust"
@@ -351,41 +376,16 @@
       "poverty",
       1,
       "sadness"
-    ],
-    [
-      "food",
-      1,
-      "joy"
-    ],
-    [
-      "inflation",
-      1,
-      "fear"
-    ],
-    [
-      "schools",
-      1,
-      "trust"
-    ],
-    [
-      "force",
-      1,
-      "anger"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 55,
-    "fear": 78,
+    "trust": 54,
+    "fear": 77,
     "surprise": 18,
-    "sadness": 20,
+    "sadness": 17,
     "disgust": 4,
-    "anger": 90,
-    "anticipation": 29
+    "anger": 93,
+    "anticipation": 31
   }
 }
