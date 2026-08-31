@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:41:52.744Z",
+  "generated_at": "2026-08-31T13:56:55.131Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,18 +23,13 @@
       "joy"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "attack",
       6,
       "anger"
     ],
     [
-      "strike",
-      6,
+      "trump",
+      5,
       "anger"
     ],
     [
@@ -43,12 +38,22 @@
       "anger"
     ],
     [
-      "president",
-      4,
-      "trust"
+      "war",
+      5,
+      "anger"
     ],
     [
-      "trump",
+      "strike",
+      5,
+      "anger"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
+      "iran",
       4,
       "anger"
     ],
@@ -103,9 +108,9 @@
       "joy"
     ],
     [
-      "iran",
+      "president",
       3,
-      "anger"
+      "trust"
     ],
     [
       "continue",
@@ -116,11 +121,6 @@
       "storing",
       3,
       "anticipation"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "hope",
@@ -138,9 +138,9 @@
       "trust"
     ],
     [
-      "hormuz",
+      "bases",
       2,
-      "fear"
+      "trust"
     ],
     [
       "expected",
@@ -278,9 +278,9 @@
       "anticipation"
     ],
     [
-      "diplomatic",
+      "hostilities",
       1,
-      "trust"
+      "anger"
     ],
     [
       "middle",
@@ -288,24 +288,24 @@
       "sadness"
     ],
     [
-      "exchange",
+      "assault",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "fire",
+      "feared",
       1,
-      "fear"
+      "anger"
     ],
     [
-      "america",
+      "thought",
       1,
-      "sadness"
+      "anticipation"
     ],
     [
-      "fulfilled",
+      "devastating",
       1,
-      "joy"
+      "anger"
     ],
     [
       "economy",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 59,
-    "fear": 84,
+    "joy": 33,
+    "trust": 57,
+    "fear": 82,
     "surprise": 18,
-    "sadness": 22,
+    "sadness": 21,
     "disgust": 3,
-    "anger": 87,
+    "anger": 90,
     "anticipation": 29
   }
 }
