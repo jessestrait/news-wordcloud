@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-31T18:29:31.668Z",
+  "generated_at": "2026-08-31T18:44:34.396Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      18,
+      19,
       "fear"
     ],
     [
@@ -38,6 +38,11 @@
       "joy"
     ],
     [
+      "disaster",
+      5,
+      "anger"
+    ],
+    [
       "happened",
       5,
       "anticipation"
@@ -68,11 +73,6 @@
       "fear"
     ],
     [
-      "disaster",
-      4,
-      "anger"
-    ],
-    [
       "world",
       4,
       "trust"
@@ -86,6 +86,11 @@
       "leader",
       4,
       "trust"
+    ],
+    [
+      "expected",
+      3,
+      "anticipation"
     ],
     [
       "president",
@@ -146,11 +151,6 @@
       "hormuz",
       2,
       "fear"
-    ],
-    [
-      "expected",
-      2,
-      "anticipation"
     ],
     [
       "blame",
@@ -273,6 +273,16 @@
       "anger"
     ],
     [
+      "deep",
+      1,
+      "joy"
+    ],
+    [
+      "voyage",
+      1,
+      "anticipation"
+    ],
+    [
       "hostilities",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "incident",
       1,
       "surprise"
-    ],
-    [
-      "economy",
-      1,
-      "trust"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 56,
+    "joy": 32,
+    "trust": 55,
     "fear": 76,
     "surprise": 17,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 94,
-    "anticipation": 29
+    "anger": 93,
+    "anticipation": 31
   }
 }
