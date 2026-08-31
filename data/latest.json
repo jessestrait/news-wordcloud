@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-31T17:14:00.656Z",
+  "generated_at": "2026-08-31T17:29:03.365Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      20,
+      18,
       "fear"
     ],
     [
       "flood",
-      16,
+      15,
       "fear"
     ],
     [
@@ -18,14 +18,19 @@
       "anger"
     ],
     [
+      "trump",
+      6,
+      "anger"
+    ],
+    [
+      "iran",
+      6,
+      "anger"
+    ],
+    [
       "people",
       6,
       "trust"
-    ],
-    [
-      "strike",
-      6,
-      "anger"
     ],
     [
       "family",
@@ -33,12 +38,17 @@
       "joy"
     ],
     [
-      "trump",
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
+      "war",
       5,
       "anger"
     ],
     [
-      "war",
+      "strike",
       5,
       "anger"
     ],
@@ -48,19 +58,9 @@
       "anger"
     ],
     [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
       "rescue",
       4,
       "surprise"
-    ],
-    [
-      "deadly",
-      4,
-      "anger"
     ],
     [
       "warning",
@@ -83,19 +83,9 @@
       "anger"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "leader",
       4,
       "trust"
-    ],
-    [
-      "expected",
-      3,
-      "anticipation"
     ],
     [
       "president",
@@ -106,6 +96,11 @@
       "continue",
       3,
       "trust"
+    ],
+    [
+      "deadly",
+      3,
+      "anger"
     ],
     [
       "storing",
@@ -128,11 +123,6 @@
       "fear"
     ],
     [
-      "team",
-      3,
-      "trust"
-    ],
-    [
       "home",
       3,
       "joy"
@@ -143,9 +133,24 @@
       "trust"
     ],
     [
-      "force",
+      "planning",
       2,
-      "anger"
+      "trust"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "hormuz",
+      2,
+      "fear"
+    ],
+    [
+      "expected",
+      2,
+      "anticipation"
     ],
     [
       "blame",
@@ -243,6 +248,11 @@
       "anticipation"
     ],
     [
+      "team",
+      2,
+      "trust"
+    ],
+    [
       "crossing",
       2,
       "anger"
@@ -268,14 +278,24 @@
       "anger"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
       "assault",
       1,
       "anger"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
+      "exchange",
+      1,
+      "trust"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
     ],
     [
       "feared",
@@ -293,9 +313,9 @@
       "anger"
     ],
     [
-      "fires",
+      "raids",
       1,
-      "fear"
+      "anger"
     ],
     [
       "powered",
@@ -303,19 +323,14 @@
       "anticipation"
     ],
     [
-      "raid",
-      1,
-      "anger"
-    ],
-    [
-      "alerts",
+      "fired",
       1,
       "fear"
     ],
     [
-      "attempt",
+      "wear",
       1,
-      "anticipation"
+      "trust"
     ],
     [
       "majority",
@@ -361,31 +376,16 @@
       "launches",
       1,
       "anticipation"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "outcast",
-      1,
-      "fear"
-    ],
-    [
-      "poverty",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 54,
-    "fear": 77,
-    "surprise": 18,
-    "sadness": 17,
+    "trust": 56,
+    "fear": 76,
+    "surprise": 17,
+    "sadness": 16,
     "disgust": 4,
-    "anger": 93,
-    "anticipation": 31
+    "anger": 94,
+    "anticipation": 29
   }
 }
