@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T09:54:49.086Z",
+  "generated_at": "2026-08-31T10:09:51.267Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,11 +88,6 @@
       "anticipation"
     ],
     [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "leader",
       4,
       "trust"
@@ -111,6 +106,11 @@
       "storing",
       3,
       "anticipation"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "trump",
@@ -139,11 +139,6 @@
     ],
     [
       "hormuz",
-      2,
-      "fear"
-    ],
-    [
-      "fire",
       2,
       "fear"
     ],
@@ -293,11 +288,6 @@
       "anger"
     ],
     [
-      "catches",
-      1,
-      "surprise"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -306,6 +296,11 @@
       "exchange",
       1,
       "trust"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
     ],
     [
       "reprisals",
@@ -376,16 +371,21 @@
       "compassion",
       1,
       "fear"
+    ],
+    [
+      "hateful",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
     "trust": 57,
-    "fear": 84,
-    "surprise": 19,
+    "fear": 83,
+    "surprise": 18,
     "sadness": 21,
     "disgust": 2,
-    "anger": 92,
+    "anger": 91,
     "anticipation": 27
   }
 }
