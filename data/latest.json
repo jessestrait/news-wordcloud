@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T10:40:10.707Z",
+  "generated_at": "2026-08-31T10:55:13.321Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "people",
-      9,
+      8,
       "trust"
     ],
     [
@@ -98,6 +98,11 @@
       "anger"
     ],
     [
+      "president",
+      3,
+      "trust"
+    ],
+    [
       "continue",
       3,
       "trust"
@@ -141,6 +146,11 @@
       "hormuz",
       2,
       "fear"
+    ],
+    [
+      "force",
+      2,
+      "anger"
     ],
     [
       "blame",
@@ -223,11 +233,6 @@
       "fear"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "government",
       2,
       "fear"
@@ -278,11 +283,6 @@
       "sadness"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
       "wait",
       2,
       "anticipation"
@@ -313,9 +313,14 @@
       "anger"
     ],
     [
-      "forces",
+      "schools",
       1,
-      "anger"
+      "trust"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
     ],
     [
       "cooperating",
@@ -371,21 +376,16 @@
       "await",
       1,
       "anticipation"
-    ],
-    [
-      "catastrophe",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 58,
+    "trust": 57,
     "fear": 83,
     "surprise": 18,
     "sadness": 20,
-    "disgust": 2,
-    "anger": 90,
+    "disgust": 3,
+    "anger": 89,
     "anticipation": 27
   }
 }
