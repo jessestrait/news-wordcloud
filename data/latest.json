@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-31T05:37:38.907Z",
+  "generated_at": "2026-08-31T05:52:41.281Z",
   "article_count": 50,
   "top_words": [
+    [
+      "flood",
+      22,
+      "fear"
+    ],
     [
       "missing",
       21,
       "fear"
     ],
     [
-      "flood",
-      20,
-      "fear"
-    ],
-    [
-      "family",
-      8,
-      "joy"
+      "disaster",
+      7,
+      "anger"
     ],
     [
       "people",
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
+      "family",
+      7,
+      "joy"
+    ],
+    [
       "death",
       6,
       "sadness"
-    ],
-    [
-      "disaster",
-      6,
-      "anger"
     ],
     [
       "rescue",
@@ -50,6 +50,16 @@
     [
       "relatives",
       5,
+      "trust"
+    ],
+    [
+      "warning",
+      4,
+      "fear"
+    ],
+    [
+      "world",
+      4,
       "trust"
     ],
     [
@@ -101,11 +111,6 @@
       "trump",
       3,
       "anger"
-    ],
-    [
-      "world",
-      3,
-      "trust"
     ],
     [
       "hope",
@@ -173,11 +178,6 @@
       "surprise"
     ],
     [
-      "warnings",
-      2,
-      "fear"
-    ],
-    [
       "burials",
       2,
       "anger"
@@ -191,11 +191,6 @@
       "threat",
       2,
       "anger"
-    ],
-    [
-      "obituary",
-      2,
-      "sadness"
     ],
     [
       "authorities",
@@ -273,14 +268,19 @@
       "anticipation"
     ],
     [
-      "opposition",
+      "fears",
       2,
       "anger"
     ],
     [
-      "fears",
-      2,
-      "anger"
+      "stark",
+      1,
+      "trust"
+    ],
+    [
+      "risks",
+      1,
+      "fear"
     ],
     [
       "smashed",
@@ -373,19 +373,19 @@
       "sadness"
     ],
     [
-      "defends",
+      "obituary",
       1,
-      "fear"
+      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 55,
-    "fear": 74,
+    "joy": 35,
+    "trust": 56,
+    "fear": 79,
     "surprise": 20,
-    "sadness": 22,
+    "sadness": 21,
     "disgust": 4,
     "anger": 81,
-    "anticipation": 27
+    "anticipation": 26
   }
 }
