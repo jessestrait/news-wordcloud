@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-31T02:21:02.011Z",
+  "generated_at": "2026-08-31T02:36:04.049Z",
   "article_count": 50,
   "top_words": [
     [
       "flood",
-      21,
+      20,
       "fear"
     ],
     [
       "missing",
-      20,
+      19,
       "fear"
     ],
     [
@@ -23,9 +23,24 @@
       "anger"
     ],
     [
+      "death",
+      6,
+      "sadness"
+    ],
+    [
       "rescue",
       6,
       "surprise"
+    ],
+    [
+      "war",
+      5,
+      "anger"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
     ],
     [
       "relatives",
@@ -38,14 +53,14 @@
       "trust"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "leader",
       5,
       "trust"
+    ],
+    [
+      "attack",
+      4,
+      "anger"
     ],
     [
       "victims",
@@ -56,11 +71,6 @@
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "war",
-      4,
-      "anger"
     ],
     [
       "team",
@@ -93,11 +103,6 @@
       "anger"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "world",
       3,
       "trust"
@@ -123,14 +128,19 @@
       "joy"
     ],
     [
-      "strike",
-      3,
+      "massive",
+      2,
       "anger"
     ],
     [
-      "official",
-      3,
-      "trust"
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
+      "ministry",
+      2,
+      "joy"
     ],
     [
       "house",
@@ -203,6 +213,11 @@
       "trust"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "attacked",
       2,
       "anger"
@@ -211,11 +226,6 @@
       "storing",
       2,
       "anticipation"
-    ],
-    [
-      "attack",
-      2,
-      "anger"
     ],
     [
       "fill",
@@ -248,6 +258,11 @@
       "sadness"
     ],
     [
+      "official",
+      2,
+      "trust"
+    ],
+    [
       "wait",
       2,
       "anticipation"
@@ -261,6 +276,16 @@
       "fears",
       2,
       "anger"
+    ],
+    [
+      "planning",
+      1,
+      "trust"
+    ],
+    [
+      "preparing",
+      1,
+      "anticipation"
     ],
     [
       "seconds",
@@ -351,41 +376,16 @@
       "prevails",
       1,
       "joy"
-    ],
-    [
-      "winning",
-      1,
-      "disgust"
-    ],
-    [
-      "gaining",
-      1,
-      "joy"
-    ],
-    [
-      "pregnancy",
-      1,
-      "disgust"
-    ],
-    [
-      "patients",
-      1,
-      "anticipation"
-    ],
-    [
-      "showing",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
+    "joy": 36,
     "trust": 55,
-    "fear": 82,
+    "fear": 79,
     "surprise": 21,
-    "sadness": 22,
+    "sadness": 23,
     "disgust": 4,
-    "anger": 70,
-    "anticipation": 24
+    "anger": 76,
+    "anticipation": 26
   }
 }
