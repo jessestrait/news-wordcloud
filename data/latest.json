@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T23:32:21.316Z",
+  "generated_at": "2026-08-31T23:47:24.048Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "anger"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
       "trump",
       6,
       "anger"
@@ -26,11 +31,6 @@
       "iran",
       6,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "family",
@@ -58,14 +58,14 @@
       "anger"
     ],
     [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "rescue",
       4,
       "surprise"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
     ],
     [
       "warning",
@@ -88,16 +88,6 @@
       "trust"
     ],
     [
-      "expected",
-      3,
-      "anticipation"
-    ],
-    [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "continue",
       3,
       "trust"
@@ -106,6 +96,16 @@
       "deadly",
       3,
       "anger"
+    ],
+    [
+      "expected",
+      3,
+      "anticipation"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "storing",
