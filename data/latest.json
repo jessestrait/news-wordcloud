@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-31T03:06:22.676Z",
+  "generated_at": "2026-08-31T03:21:24.854Z",
   "article_count": 50,
   "top_words": [
     [
-      "flood",
+      "missing",
       20,
       "fear"
     ],
     [
-      "missing",
+      "flood",
       19,
       "fear"
     ],
@@ -28,9 +28,9 @@
       "sadness"
     ],
     [
-      "rescue",
+      "people",
       6,
-      "surprise"
+      "trust"
     ],
     [
       "war",
@@ -44,11 +44,6 @@
     ],
     [
       "relatives",
-      5,
-      "trust"
-    ],
-    [
-      "people",
       5,
       "trust"
     ],
@@ -73,9 +68,9 @@
       "anticipation"
     ],
     [
-      "team",
+      "rescue",
       4,
-      "trust"
+      "surprise"
     ],
     [
       "home",
@@ -86,11 +81,6 @@
       "continue",
       3,
       "trust"
-    ],
-    [
-      "flooding",
-      3,
-      "fear"
     ],
     [
       "deadly",
@@ -121,6 +111,11 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "team",
+      3,
+      "trust"
     ],
     [
       "loved",
@@ -163,6 +158,11 @@
       "fear"
     ],
     [
+      "rescued",
+      2,
+      "surprise"
+    ],
+    [
       "warnings",
       2,
       "fear"
@@ -178,6 +178,11 @@
       "anger"
     ],
     [
+      "flooding",
+      2,
+      "fear"
+    ],
+    [
       "threat",
       2,
       "anger"
@@ -191,6 +196,11 @@
       "obituary",
       2,
       "sadness"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
     ],
     [
       "deal",
@@ -293,11 +303,6 @@
       "trust"
     ],
     [
-      "rescued",
-      1,
-      "surprise"
-    ],
-    [
       "accident",
       1,
       "fear"
@@ -348,11 +353,6 @@
       "sadness"
     ],
     [
-      "remains",
-      1,
-      "fear"
-    ],
-    [
       "defends",
       1,
       "fear"
@@ -380,10 +380,10 @@
   ],
   "emotion_totals": {
     "joy": 36,
-    "trust": 55,
-    "fear": 79,
-    "surprise": 21,
-    "sadness": 23,
+    "trust": 56,
+    "fear": 74,
+    "surprise": 19,
+    "sadness": 22,
     "disgust": 4,
     "anger": 76,
     "anticipation": 26
