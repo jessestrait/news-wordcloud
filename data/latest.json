@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-31T07:53:47.899Z",
+  "generated_at": "2026-08-31T08:08:50.202Z",
   "article_count": 50,
   "top_words": [
     [
-      "flood",
-      22,
+      "missing",
+      21,
       "fear"
     ],
     [
-      "missing",
+      "flood",
       21,
       "fear"
     ],
@@ -23,7 +23,7 @@
       "joy"
     ],
     [
-      "disaster",
+      "strike",
       6,
       "anger"
     ],
@@ -33,24 +33,14 @@
       "sadness"
     ],
     [
+      "disaster",
+      5,
+      "anger"
+    ],
+    [
       "war",
       5,
       "anger"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
-      "warning",
-      4,
-      "fear"
-    ],
-    [
-      "world",
-      4,
-      "trust"
     ],
     [
       "rescue",
@@ -66,6 +56,16 @@
       "deadly",
       4,
       "anger"
+    ],
+    [
+      "warning",
+      4,
+      "fear"
+    ],
+    [
+      "world",
+      4,
+      "trust"
     ],
     [
       "attack",
@@ -88,6 +88,11 @@
       "anticipation"
     ],
     [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
       "leader",
       4,
       "trust"
@@ -101,11 +106,6 @@
       "storing",
       3,
       "anticipation"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "trump",
@@ -123,19 +123,19 @@
       "fear"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "team",
       3,
       "trust"
     ],
     [
-      "devastating",
+      "iran",
       2,
       "anger"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
     ],
     [
       "massive",
@@ -233,6 +233,11 @@
       "trust"
     ],
     [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
       "crossing",
       2,
       "anger"
@@ -273,6 +278,46 @@
       "anticipation"
     ],
     [
+      "hostilities",
+      1,
+      "anger"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
+    ],
+    [
+      "catches",
+      1,
+      "surprise"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "exchange",
+      1,
+      "trust"
+    ],
+    [
+      "reprisals",
+      1,
+      "anger"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
       "believed",
       1,
       "trust"
@@ -281,6 +326,11 @@
       "thought",
       1,
       "anticipation"
+    ],
+    [
+      "devastating",
+      1,
+      "anger"
     ],
     [
       "abhorrent",
@@ -326,66 +376,16 @@
       "risks",
       1,
       "fear"
-    ],
-    [
-      "smashed",
-      1,
-      "anger"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
-      "blame",
-      1,
-      "anger"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
-    ],
-    [
-      "preparing",
-      1,
-      "anticipation"
-    ],
-    [
-      "seconds",
-      1,
-      "trust"
-    ],
-    [
-      "accident",
-      1,
-      "fear"
-    ],
-    [
-      "exceeds",
-      1,
-      "joy"
-    ],
-    [
-      "landslides",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 55,
-    "fear": 80,
-    "surprise": 18,
-    "sadness": 21,
+    "trust": 56,
+    "fear": 83,
+    "surprise": 19,
+    "sadness": 22,
     "disgust": 3,
-    "anger": 82,
-    "anticipation": 29
+    "anger": 87,
+    "anticipation": 27
   }
 }
