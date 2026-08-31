@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T10:09:51.267Z",
+  "generated_at": "2026-08-31T10:24:53.667Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "flood",
-      21,
+      20,
       "fear"
     ],
     [
       "people",
-      8,
+      9,
       "trust"
     ],
     [
@@ -43,19 +43,9 @@
       "anger"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "rescue",
       4,
       "surprise"
-    ],
-    [
-      "continue",
-      4,
-      "trust"
     ],
     [
       "deadly",
@@ -71,6 +61,11 @@
       "world",
       4,
       "trust"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "victims",
@@ -103,6 +98,11 @@
       "anger"
     ],
     [
+      "continue",
+      3,
+      "trust"
+    ],
+    [
       "storing",
       3,
       "anticipation"
@@ -131,6 +131,11 @@
       "team",
       3,
       "trust"
+    ],
+    [
+      "blame",
+      2,
+      "anger"
     ],
     [
       "strait",
@@ -283,6 +288,16 @@
       "anticipation"
     ],
     [
+      "cooperating",
+      1,
+      "trust"
+    ],
+    [
+      "incursion",
+      1,
+      "fear"
+    ],
+    [
       "hostilities",
       1,
       "anger"
@@ -361,31 +376,16 @@
       "catastrophe",
       1,
       "anger"
-    ],
-    [
-      "appeal",
-      1,
-      "anticipation"
-    ],
-    [
-      "compassion",
-      1,
-      "fear"
-    ],
-    [
-      "hateful",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 57,
+    "trust": 58,
     "fear": 83,
     "surprise": 18,
-    "sadness": 21,
+    "sadness": 20,
     "disgust": 2,
-    "anger": 91,
+    "anger": 90,
     "anticipation": 27
   }
 }
