@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:27:45.549Z",
+  "generated_at": "2026-08-31T15:42:48.136Z",
   "article_count": 50,
   "top_words": [
     [
@@ -263,6 +263,21 @@
       "sadness"
     ],
     [
+      "hostilities",
+      1,
+      "anger"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "assault",
+      1,
+      "anger"
+    ],
+    [
       "majority",
       1,
       "joy"
@@ -281,21 +296,6 @@
       "debris",
       1,
       "disgust"
-    ],
-    [
-      "hostilities",
-      1,
-      "anger"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
     ],
     [
       "suspect",
