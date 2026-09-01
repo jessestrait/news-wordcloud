@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:42:47.344Z",
+  "generated_at": "2026-09-01T18:57:49.975Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,16 @@
       "anger"
     ],
     [
+      "disaster",
+      6,
+      "anger"
+    ],
+    [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "happened",
       5,
       "anticipation"
@@ -41,11 +51,6 @@
       "death",
       5,
       "sadness"
-    ],
-    [
-      "disaster",
-      5,
-      "anger"
     ],
     [
       "relatives",
@@ -61,11 +66,6 @@
       "rescue",
       4,
       "surprise"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "blame",
@@ -88,6 +88,11 @@
       "fear"
     ],
     [
+      "rescued",
+      3,
+      "surprise"
+    ],
+    [
       "victims",
       3,
       "anger"
@@ -98,19 +103,14 @@
       "anger"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
-      "family",
-      3,
-      "joy"
-    ],
-    [
       "expected",
       3,
       "anticipation"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "warns",
@@ -133,6 +133,11 @@
       "anger"
     ],
     [
+      "confirmed",
+      2,
+      "trust"
+    ],
+    [
       "airport",
       2,
       "anticipation"
@@ -146,11 +151,6 @@
       "obituary",
       2,
       "sadness"
-    ],
-    [
-      "daughter",
-      2,
-      "joy"
     ],
     [
       "accused",
@@ -169,6 +169,11 @@
     ],
     [
       "found",
+      2,
+      "joy"
+    ],
+    [
+      "family",
       2,
       "joy"
     ],
@@ -218,11 +223,6 @@
       "joy"
     ],
     [
-      "rescued",
-      2,
-      "surprise"
-    ],
-    [
       "deal",
       2,
       "surprise"
@@ -259,6 +259,11 @@
     ],
     [
       "missiles",
+      1,
+      "fear"
+    ],
+    [
+      "collapse",
       1,
       "fear"
     ],
@@ -363,26 +368,21 @@
       "trust"
     ],
     [
-      "promises",
+      "daughter",
       1,
       "joy"
     ],
     [
-      "ceremony",
+      "promises",
       1,
-      "surprise"
-    ],
-    [
-      "surgery",
-      1,
-      "fear"
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 46,
-    "fear": 79,
-    "surprise": 11,
+    "joy": 24,
+    "trust": 49,
+    "fear": 80,
+    "surprise": 12,
     "sadness": 18,
     "disgust": 6,
     "anger": 101,
