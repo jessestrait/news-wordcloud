@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:44:41.063Z",
+  "generated_at": "2026-09-01T21:59:43.581Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,11 +78,6 @@
       "fear"
     ],
     [
-      "found",
-      3,
-      "joy"
-    ],
-    [
       "strait",
       3,
       "fear"
@@ -91,6 +86,11 @@
       "hormuz",
       3,
       "fear"
+    ],
+    [
+      "found",
+      3,
+      "joy"
     ],
     [
       "rescued",
@@ -233,16 +233,6 @@
       "trust"
     ],
     [
-      "alive",
-      1,
-      "joy"
-    ],
-    [
-      "morning",
-      1,
-      "anticipation"
-    ],
-    [
       "begun",
       1,
       "anticipation"
@@ -256,6 +246,16 @@
       "missiles",
       1,
       "fear"
+    ],
+    [
+      "alive",
+      1,
+      "joy"
+    ],
+    [
+      "morning",
+      1,
+      "anticipation"
     ],
     [
       "vanished",
