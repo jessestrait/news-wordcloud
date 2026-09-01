@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T08:52:08.099Z",
+  "generated_at": "2026-09-01T09:07:10.709Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,6 +243,11 @@
       "joy"
     ],
     [
+      "filled",
+      1,
+      "trust"
+    ],
+    [
       "killed",
       1,
       "fear"
@@ -269,11 +274,6 @@
     ],
     [
       "marines",
-      1,
-      "trust"
-    ],
-    [
-      "filled",
       1,
       "trust"
     ],
