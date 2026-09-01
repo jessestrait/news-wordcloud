@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-01T02:48:59.200Z",
+  "generated_at": "2026-09-01T03:04:01.654Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      19,
+      18,
       "fear"
     ],
     [
       "flood",
-      15,
+      14,
       "fear"
     ],
     [
@@ -43,19 +43,14 @@
       "joy"
     ],
     [
+      "world",
+      5,
+      "trust"
+    ],
+    [
       "disaster",
       5,
       "anger"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
-      "rescue",
-      4,
-      "surprise"
     ],
     [
       "hit",
@@ -63,14 +58,14 @@
       "anger"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "warning",
       4,
       "fear"
-    ],
-    [
-      "world",
-      4,
-      "trust"
     ],
     [
       "victims",
@@ -83,9 +78,9 @@
       "trust"
     ],
     [
-      "continue",
+      "rescue",
       3,
-      "trust"
+      "surprise"
     ],
     [
       "deadly",
@@ -131,6 +126,11 @@
       "home",
       3,
       "joy"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
     ],
     [
       "economy",
@@ -243,16 +243,6 @@
       "anticipation"
     ],
     [
-      "team",
-      2,
-      "trust"
-    ],
-    [
-      "crossing",
-      2,
-      "anger"
-    ],
-    [
       "daughter",
       2,
       "joy"
@@ -265,6 +255,31 @@
     [
       "combat",
       2,
+      "anger"
+    ],
+    [
+      "rising",
+      1,
+      "joy"
+    ],
+    [
+      "parrot",
+      1,
+      "disgust"
+    ],
+    [
+      "endangered",
+      1,
+      "fear"
+    ],
+    [
+      "enjoys",
+      1,
+      "joy"
+    ],
+    [
+      "tree",
+      1,
       "anger"
     ],
     [
@@ -361,31 +376,16 @@
       "suspect",
       1,
       "fear"
-    ],
-    [
-      "berlin",
-      1,
-      "joy"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 56,
-    "fear": 75,
-    "surprise": 17,
-    "sadness": 15,
-    "disgust": 4,
-    "anger": 92,
-    "anticipation": 29
+    "joy": 33,
+    "trust": 55,
+    "fear": 73,
+    "surprise": 16,
+    "sadness": 14,
+    "disgust": 5,
+    "anger": 91,
+    "anticipation": 28
   }
 }
