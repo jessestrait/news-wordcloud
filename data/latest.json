@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:40:33.784Z",
+  "generated_at": "2026-09-01T14:55:36.567Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "war",
-      9,
+      8,
       "anger"
     ],
     [
@@ -23,12 +23,12 @@
       "anger"
     ],
     [
-      "attack",
-      7,
+      "trump",
+      6,
       "anger"
     ],
     [
-      "trump",
+      "attack",
       6,
       "anger"
     ],
@@ -58,11 +58,6 @@
       "trust"
     ],
     [
-      "power",
-      4,
-      "anticipation"
-    ],
-    [
       "relatives",
       4,
       "trust"
@@ -88,12 +83,12 @@
       "fear"
     ],
     [
-      "victims",
+      "power",
       3,
-      "anger"
+      "anticipation"
     ],
     [
-      "deadly",
+      "victims",
       3,
       "anger"
     ],
@@ -123,6 +118,11 @@
       "trust"
     ],
     [
+      "daughter",
+      2,
+      "joy"
+    ],
+    [
       "risk",
       2,
       "fear"
@@ -139,6 +139,11 @@
     ],
     [
       "accused",
+      2,
+      "anger"
+    ],
+    [
+      "deadly",
       2,
       "anger"
     ],
@@ -230,6 +235,36 @@
     [
       "abortion",
       2,
+      "fear"
+    ],
+    [
+      "swears",
+      1,
+      "trust"
+    ],
+    [
+      "oath",
+      1,
+      "trust"
+    ],
+    [
+      "allegiance",
+      1,
+      "trust"
+    ],
+    [
+      "promises",
+      1,
+      "joy"
+    ],
+    [
+      "ceremony",
+      1,
+      "surprise"
+    ],
+    [
+      "surgery",
+      1,
       "fear"
     ],
     [
@@ -341,51 +376,16 @@
       "birth",
       1,
       "fear"
-    ],
-    [
-      "age",
-      1,
-      "anticipation"
-    ],
-    [
-      "council",
-      1,
-      "trust"
-    ],
-    [
-      "case",
-      1,
-      "fear"
-    ],
-    [
-      "rejection",
-      1,
-      "anger"
-    ],
-    [
-      "voted",
-      1,
-      "anger"
-    ],
-    [
-      "isolate",
-      1,
-      "sadness"
-    ],
-    [
-      "rising",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 49,
+    "joy": 26,
+    "trust": 51,
     "fear": 78,
-    "surprise": 13,
-    "sadness": 16,
+    "surprise": 14,
+    "sadness": 15,
     "disgust": 6,
-    "anger": 95,
-    "anticipation": 27
+    "anger": 92,
+    "anticipation": 26
   }
 }
