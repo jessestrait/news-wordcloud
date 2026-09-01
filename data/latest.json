@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T22:45:20.976Z",
+  "generated_at": "2026-09-01T23:00:23.110Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "flood",
-      16,
+      15,
       "fear"
     ],
     [
@@ -28,14 +28,14 @@
       "anger"
     ],
     [
-      "happened",
-      6,
-      "anticipation"
-    ],
-    [
       "disaster",
       6,
       "anger"
+    ],
+    [
+      "happened",
+      6,
+      "anticipation"
     ],
     [
       "death",
@@ -113,6 +113,11 @@
       "anger"
     ],
     [
+      "confirmed",
+      2,
+      "trust"
+    ],
+    [
       "killed",
       2,
       "fear"
@@ -131,11 +136,6 @@
       "rocket",
       2,
       "anger"
-    ],
-    [
-      "confirmed",
-      2,
-      "trust"
     ],
     [
       "airport",
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 25,
     "trust": 48,
-    "fear": 79,
+    "fear": 78,
     "surprise": 12,
     "sadness": 14,
     "disgust": 6,
