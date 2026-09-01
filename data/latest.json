@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:51:41.066Z",
+  "generated_at": "2026-09-01T08:06:43.109Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,13 +9,13 @@
     ],
     [
       "flood",
-      15,
+      16,
       "fear"
     ],
     [
-      "family",
+      "people",
       7,
-      "joy"
+      "trust"
     ],
     [
       "war",
@@ -23,9 +23,19 @@
       "anger"
     ],
     [
-      "people",
+      "attack",
+      7,
+      "anger"
+    ],
+    [
+      "disaster",
       6,
-      "trust"
+      "anger"
+    ],
+    [
+      "family",
+      6,
+      "joy"
     ],
     [
       "iran",
@@ -33,19 +43,19 @@
       "anger"
     ],
     [
-      "attack",
-      6,
-      "anger"
-    ],
-    [
-      "disaster",
-      5,
-      "anger"
-    ],
-    [
       "trump",
       5,
       "anger"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
+    ],
+    [
+      "rescue",
+      4,
+      "surprise"
     ],
     [
       "hit",
@@ -68,9 +78,9 @@
       "trust"
     ],
     [
-      "rescue",
+      "continue",
       3,
-      "surprise"
+      "trust"
     ],
     [
       "deadly",
@@ -98,9 +108,9 @@
       "trust"
     ],
     [
-      "death",
+      "strike",
       3,
-      "sadness"
+      "anger"
     ],
     [
       "victims",
@@ -108,19 +118,9 @@
       "anger"
     ],
     [
-      "hope",
-      3,
-      "surprise"
-    ],
-    [
-      "hospital",
-      3,
-      "fear"
-    ],
-    [
-      "continue",
+      "feared",
       2,
-      "trust"
+      "anger"
     ],
     [
       "violence",
@@ -188,11 +188,6 @@
       "anticipation"
     ],
     [
-      "strike",
-      2,
-      "anger"
-    ],
-    [
       "house",
       2,
       "joy"
@@ -238,6 +233,11 @@
       "anger"
     ],
     [
+      "hope",
+      2,
+      "surprise"
+    ],
+    [
       "fill",
       2,
       "trust"
@@ -248,13 +248,23 @@
       "joy"
     ],
     [
-      "daughter",
-      2,
-      "joy"
+      "killed",
+      1,
+      "fear"
     ],
     [
-      "aunt",
-      2,
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
+    ],
+    [
+      "filled",
+      1,
       "trust"
     ],
     [
@@ -366,26 +376,16 @@
       "voyage",
       1,
       "anticipation"
-    ],
-    [
-      "hostilities",
-      1,
-      "anger"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 54,
-    "fear": 76,
+    "joy": 29,
+    "trust": 55,
+    "fear": 75,
     "surprise": 16,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 6,
-    "anger": 89,
+    "anger": 93,
     "anticipation": 25
   }
 }
