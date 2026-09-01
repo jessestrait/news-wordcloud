@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:03:06.340Z",
+  "generated_at": "2026-09-01T01:18:08.591Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,7 +13,7 @@
       "fear"
     ],
     [
-      "attack",
+      "war",
       7,
       "anger"
     ],
@@ -33,6 +33,11 @@
       "anger"
     ],
     [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
       "family",
       6,
       "joy"
@@ -46,16 +51,6 @@
       "happened",
       5,
       "anticipation"
-    ],
-    [
-      "war",
-      5,
-      "anger"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
     ],
     [
       "rescue",
@@ -118,6 +113,11 @@
       "sadness"
     ],
     [
+      "strike",
+      3,
+      "anger"
+    ],
+    [
       "hope",
       3,
       "surprise"
@@ -131,6 +131,11 @@
       "home",
       3,
       "joy"
+    ],
+    [
+      "economy",
+      2,
+      "trust"
     ],
     [
       "bases",
@@ -158,19 +163,9 @@
       "anger"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "power",
       2,
       "anticipation"
-    ],
-    [
-      "ministry",
-      2,
-      "joy"
     ],
     [
       "house",
@@ -376,16 +371,21 @@
       "incident",
       1,
       "surprise"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 55,
-    "fear": 76,
+    "joy": 31,
+    "trust": 56,
+    "fear": 75,
     "surprise": 17,
     "sadness": 15,
     "disgust": 4,
-    "anger": 93,
-    "anticipation": 31
+    "anger": 92,
+    "anticipation": 29
   }
 }
