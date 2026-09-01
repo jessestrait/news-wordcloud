@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:39:16.686Z",
+  "generated_at": "2026-09-01T12:54:24.758Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "anger"
     ],
     [
-      "death",
-      6,
-      "sadness"
-    ],
-    [
       "warning",
       6,
       "fear"
@@ -41,6 +36,11 @@
       "trump",
       6,
       "anger"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
     ],
     [
       "people",
@@ -63,6 +63,11 @@
       "trust"
     ],
     [
+      "power",
+      4,
+      "anticipation"
+    ],
+    [
       "relatives",
       4,
       "trust"
@@ -76,6 +81,11 @@
       "leader",
       4,
       "trust"
+    ],
+    [
+      "police",
+      3,
+      "fear"
     ],
     [
       "victims",
@@ -111,6 +121,16 @@
       "president",
       3,
       "trust"
+    ],
+    [
+      "explosives",
+      2,
+      "anger"
+    ],
+    [
+      "fired",
+      2,
+      "fear"
     ],
     [
       "accused",
@@ -183,11 +203,6 @@
       "anticipation"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "strike",
       2,
       "anger"
@@ -211,31 +226,6 @@
       "abortion",
       2,
       "fear"
-    ],
-    [
-      "ceremony",
-      1,
-      "surprise"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "oath",
-      1,
-      "trust"
-    ],
-    [
-      "loyalty",
-      1,
-      "trust"
-    ],
-    [
-      "father",
-      1,
-      "trust"
     ],
     [
       "collapse",
@@ -271,11 +261,6 @@
       "intervention",
       1,
       "sadness"
-    ],
-    [
-      "police",
-      1,
-      "fear"
     ],
     [
       "kills",
@@ -376,16 +361,31 @@
       "voted",
       1,
       "anger"
+    ],
+    [
+      "isolate",
+      1,
+      "sadness"
+    ],
+    [
+      "rising",
+      1,
+      "joy"
+    ],
+    [
+      "parrot",
+      1,
+      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 54,
-    "fear": 74,
-    "surprise": 14,
-    "sadness": 17,
+    "trust": 50,
+    "fear": 77,
+    "surprise": 13,
+    "sadness": 16,
     "disgust": 6,
-    "anger": 92,
-    "anticipation": 25
+    "anger": 94,
+    "anticipation": 27
   }
 }
