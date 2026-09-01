@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T03:49:40.173Z",
+  "generated_at": "2026-09-01T04:04:42.109Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "trust"
     ],
     [
-      "trump",
-      6,
-      "anger"
-    ],
-    [
       "iran",
       6,
       "anger"
@@ -49,6 +44,11 @@
     ],
     [
       "disaster",
+      5,
+      "anger"
+    ],
+    [
+      "trump",
       5,
       "anger"
     ],
@@ -128,6 +128,21 @@
       "joy"
     ],
     [
+      "disruption",
+      2,
+      "anger"
+    ],
+    [
+      "outrage",
+      2,
+      "anger"
+    ],
+    [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "continue",
       2,
       "trust"
@@ -198,11 +213,6 @@
       "anger"
     ],
     [
-      "threat",
-      2,
-      "anger"
-    ],
-    [
       "authorities",
       2,
       "trust"
@@ -211,11 +221,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "votes",
-      2,
-      "anger"
     ],
     [
       "abortion",
@@ -253,9 +258,29 @@
       "trust"
     ],
     [
-      "combat",
-      2,
+      "council",
+      1,
+      "trust"
+    ],
+    [
+      "case",
+      1,
+      "fear"
+    ],
+    [
+      "rejection",
+      1,
       "anger"
+    ],
+    [
+      "voted",
+      1,
+      "anger"
+    ],
+    [
+      "isolate",
+      1,
+      "sadness"
     ],
     [
       "rising",
@@ -351,41 +376,16 @@
       "wear",
       1,
       "trust"
-    ],
-    [
-      "majority",
-      1,
-      "joy"
-    ],
-    [
-      "destroyed",
-      1,
-      "anger"
-    ],
-    [
-      "covered",
-      1,
-      "trust"
-    ],
-    [
-      "debris",
-      1,
-      "disgust"
-    ],
-    [
-      "suspect",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 30,
     "trust": 55,
-    "fear": 73,
+    "fear": 74,
     "surprise": 16,
     "sadness": 14,
     "disgust": 5,
-    "anger": 91,
-    "anticipation": 28
+    "anger": 90,
+    "anticipation": 27
   }
 }
