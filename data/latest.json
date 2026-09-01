@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T13:55:09.092Z",
+  "generated_at": "2026-09-01T14:10:11.103Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "flood",
-      15,
+      16,
       "fear"
     ],
     [
@@ -26,11 +26,6 @@
       "attack",
       7,
       "anger"
-    ],
-    [
-      "warning",
-      6,
-      "fear"
     ],
     [
       "trump",
@@ -78,6 +73,11 @@
       "anger"
     ],
     [
+      "warning",
+      4,
+      "fear"
+    ],
+    [
       "leader",
       4,
       "trust"
@@ -121,6 +121,11 @@
       "president",
       3,
       "trust"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
     ],
     [
       "explosives",
@@ -228,24 +233,24 @@
       "fear"
     ],
     [
-      "collapse",
+      "warns",
       1,
       "fear"
     ],
     [
-      "scientists",
+      "prevent",
       1,
-      "trust"
+      "fear"
     ],
     [
-      "system",
+      "loss",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "saved",
+      "official",
       1,
-      "joy"
+      "trust"
     ],
     [
       "meddling",
@@ -371,21 +376,16 @@
       "rising",
       1,
       "joy"
-    ],
-    [
-      "parrot",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 50,
-    "fear": 77,
+    "joy": 24,
+    "trust": 49,
+    "fear": 78,
     "surprise": 13,
     "sadness": 16,
     "disgust": 6,
-    "anger": 94,
+    "anger": 95,
     "anticipation": 27
   }
 }
