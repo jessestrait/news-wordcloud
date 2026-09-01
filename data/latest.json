@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:52:56.406Z",
+  "generated_at": "2026-09-01T10:07:58.399Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,19 +18,14 @@
       "anger"
     ],
     [
+      "attack",
+      8,
+      "anger"
+    ],
+    [
       "iran",
       7,
       "anger"
-    ],
-    [
-      "attack",
-      7,
-      "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "warning",
@@ -38,14 +33,19 @@
       "fear"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
       "disaster",
       5,
       "anger"
-    ],
-    [
-      "family",
-      5,
-      "joy"
     ],
     [
       "trump",
@@ -53,9 +53,19 @@
       "anger"
     ],
     [
-      "death",
+      "relatives",
       4,
-      "sadness"
+      "trust"
+    ],
+    [
+      "victims",
+      4,
+      "anger"
+    ],
+    [
+      "continue",
+      4,
+      "trust"
     ],
     [
       "rescue",
@@ -63,23 +73,18 @@
       "surprise"
     ],
     [
+      "family",
+      4,
+      "joy"
+    ],
+    [
       "hit",
       4,
       "anger"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "leader",
       4,
-      "trust"
-    ],
-    [
-      "continue",
-      3,
       "trust"
     ],
     [
@@ -98,17 +103,17 @@
       "anticipation"
     ],
     [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "president",
       3,
       "trust"
     ],
     [
       "strike",
-      3,
-      "anger"
-    ],
-    [
-      "victims",
       3,
       "anger"
     ],
@@ -188,16 +193,6 @@
       "joy"
     ],
     [
-      "relatives",
-      2,
-      "trust"
-    ],
-    [
-      "crew",
-      2,
-      "trust"
-    ],
-    [
       "rescued",
       2,
       "surprise"
@@ -223,32 +218,27 @@
       "fear"
     ],
     [
-      "attacked",
-      2,
-      "anger"
-    ],
-    [
       "fill",
       2,
       "trust"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
-      "killed",
+      "police",
       1,
       "fear"
     ],
     [
-      "injured",
+      "kills",
       1,
       "fear"
     ],
     [
-      "leave",
+      "shortage",
+      1,
+      "anger"
+    ],
+    [
+      "lower",
       1,
       "sadness"
     ],
@@ -271,6 +261,21 @@
       "saved",
       1,
       "joy"
+    ],
+    [
+      "killed",
+      1,
+      "fear"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
     ],
     [
       "prepares",
@@ -371,21 +376,16 @@
       "parrot",
       1,
       "disgust"
-    ],
-    [
-      "endangered",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 55,
-    "fear": 77,
+    "joy": 26,
+    "trust": 54,
+    "fear": 79,
     "surprise": 15,
-    "sadness": 14,
+    "sadness": 16,
     "disgust": 6,
-    "anger": 92,
-    "anticipation": 26
+    "anger": 93,
+    "anticipation": 25
   }
 }
