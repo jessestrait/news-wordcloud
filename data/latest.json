@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-01T06:35:53.038Z",
+  "generated_at": "2026-09-01T06:50:55.493Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      19,
+      20,
       "fear"
     ],
     [
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 33,
     "trust": 54,
-    "fear": 75,
+    "fear": 76,
     "surprise": 16,
     "sadness": 13,
     "disgust": 6,
