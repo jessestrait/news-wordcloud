@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-01T11:53:53.402Z",
+  "generated_at": "2026-09-01T12:08:56.002Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      20,
+      19,
       "fear"
     ],
     [
@@ -14,7 +14,7 @@
     ],
     [
       "war",
-      8,
+      9,
       "anger"
     ],
     [
@@ -28,14 +28,19 @@
       "anger"
     ],
     [
+      "warning",
+      6,
+      "fear"
+    ],
+    [
       "death",
       6,
       "sadness"
     ],
     [
-      "warning",
+      "trump",
       6,
-      "fear"
+      "anger"
     ],
     [
       "people",
@@ -44,11 +49,6 @@
     ],
     [
       "disaster",
-      5,
-      "anger"
-    ],
-    [
-      "trump",
       5,
       "anger"
     ],
@@ -68,16 +68,6 @@
       "trust"
     ],
     [
-      "victims",
-      4,
-      "anger"
-    ],
-    [
-      "family",
-      4,
-      "joy"
-    ],
-    [
       "hit",
       4,
       "anger"
@@ -88,9 +78,19 @@
       "trust"
     ],
     [
+      "victims",
+      3,
+      "anger"
+    ],
+    [
       "deadly",
       3,
       "anger"
+    ],
+    [
+      "family",
+      3,
+      "joy"
     ],
     [
       "world",
@@ -111,6 +111,11 @@
       "president",
       3,
       "trust"
+    ],
+    [
+      "accused",
+      2,
+      "anger"
     ],
     [
       "violence",
@@ -198,16 +203,6 @@
       "surprise"
     ],
     [
-      "burials",
-      2,
-      "anger"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
       "deal",
       2,
       "surprise"
@@ -218,9 +213,39 @@
       "fear"
     ],
     [
-      "fill",
-      2,
+      "collapse",
+      1,
+      "fear"
+    ],
+    [
+      "scientists",
+      1,
       "trust"
+    ],
+    [
+      "system",
+      1,
+      "trust"
+    ],
+    [
+      "saved",
+      1,
+      "joy"
+    ],
+    [
+      "meddling",
+      1,
+      "anger"
+    ],
+    [
+      "result",
+      1,
+      "anticipation"
+    ],
+    [
+      "intervention",
+      1,
+      "sadness"
     ],
     [
       "ceremony",
@@ -246,26 +271,6 @@
       "father",
       1,
       "trust"
-    ],
-    [
-      "collapse",
-      1,
-      "fear"
-    ],
-    [
-      "scientists",
-      1,
-      "trust"
-    ],
-    [
-      "system",
-      1,
-      "trust"
-    ],
-    [
-      "saved",
-      1,
-      "joy"
     ],
     [
       "police",
@@ -371,21 +376,16 @@
       "voted",
       1,
       "anger"
-    ],
-    [
-      "isolate",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 57,
-    "fear": 77,
-    "surprise": 16,
-    "sadness": 16,
+    "joy": 25,
+    "trust": 54,
+    "fear": 74,
+    "surprise": 14,
+    "sadness": 17,
     "disgust": 6,
-    "anger": 91,
+    "anger": 92,
     "anticipation": 25
   }
 }
