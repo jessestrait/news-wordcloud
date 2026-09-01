@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:10:57.796Z",
+  "generated_at": "2026-09-01T15:25:59.895Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,11 +78,6 @@
       "trust"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
       "power",
       3,
       "anticipation"
@@ -118,17 +113,17 @@
       "trust"
     ],
     [
-      "risk",
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
+      "fired",
       2,
       "fear"
     ],
     [
-      "explosives",
-      2,
-      "anger"
-    ],
-    [
-      "fired",
+      "risk",
       2,
       "fear"
     ],
@@ -238,19 +233,14 @@
       "fear"
     ],
     [
-      "kills",
+      "digit",
       1,
-      "fear"
+      "trust"
     ],
     [
-      "shortage",
+      "explosives",
       1,
       "anger"
-    ],
-    [
-      "lower",
-      1,
-      "sadness"
     ],
     [
       "warns",
@@ -271,6 +261,21 @@
       "official",
       1,
       "trust"
+    ],
+    [
+      "kills",
+      1,
+      "fear"
+    ],
+    [
+      "shortage",
+      1,
+      "anger"
+    ],
+    [
+      "lower",
+      1,
+      "sadness"
     ],
     [
       "swears",
@@ -316,6 +321,11 @@
       "intervention",
       1,
       "sadness"
+    ],
+    [
+      "police",
+      1,
+      "fear"
     ],
     [
       "prepares",
@@ -366,26 +376,16 @@
       "start",
       1,
       "anticipation"
-    ],
-    [
-      "baby",
-      1,
-      "joy"
-    ],
-    [
-      "birth",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 51,
-    "fear": 78,
+    "trust": 53,
+    "fear": 76,
     "surprise": 14,
     "sadness": 15,
     "disgust": 6,
-    "anger": 92,
+    "anger": 91,
     "anticipation": 26
   }
 }
