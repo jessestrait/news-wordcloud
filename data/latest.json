@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:15:25.144Z",
+  "generated_at": "2026-09-01T23:30:27.299Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,9 +53,9 @@
       "trust"
     ],
     [
-      "relatives",
+      "rescue",
       4,
-      "trust"
+      "surprise"
     ],
     [
       "continue",
@@ -63,9 +63,9 @@
       "trust"
     ],
     [
-      "rescue",
+      "relatives",
       4,
-      "surprise"
+      "trust"
     ],
     [
       "blame",
@@ -76,6 +76,11 @@
       "warning",
       4,
       "fear"
+    ],
+    [
+      "deadly",
+      3,
+      "anger"
     ],
     [
       "strait",
@@ -94,11 +99,6 @@
     ],
     [
       "victims",
-      3,
-      "anger"
-    ],
-    [
-      "deadly",
       3,
       "anger"
     ],
