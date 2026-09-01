@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T05:05:07.275Z",
+  "generated_at": "2026-09-01T05:20:09.977Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "flood",
       14,
       "fear"
+    ],
+    [
+      "family",
+      7,
+      "joy"
     ],
     [
       "war",
@@ -31,11 +36,6 @@
       "attack",
       6,
       "anger"
-    ],
-    [
-      "family",
-      6,
-      "joy"
     ],
     [
       "world",
@@ -228,11 +228,6 @@
       "fear"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "attacked",
       2,
       "anger"
@@ -243,11 +238,6 @@
       "trust"
     ],
     [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
       "daughter",
       2,
       "joy"
@@ -256,6 +246,26 @@
       "aunt",
       2,
       "trust"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
+      "baby",
+      1,
+      "joy"
+    ],
+    [
+      "birth",
+      1,
+      "fear"
+    ],
+    [
+      "age",
+      1,
+      "anticipation"
     ],
     [
       "council",
@@ -366,26 +376,16 @@
       "powered",
       1,
       "anticipation"
-    ],
-    [
-      "fired",
-      1,
-      "fear"
-    ],
-    [
-      "wear",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 55,
+    "joy": 31,
+    "trust": 54,
     "fear": 74,
     "surprise": 16,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 5,
     "anger": 90,
-    "anticipation": 27
+    "anticipation": 28
   }
 }
