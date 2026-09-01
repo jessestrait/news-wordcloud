@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:22:32.036Z",
+  "generated_at": "2026-09-01T09:37:34.634Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,14 +28,14 @@
       "anger"
     ],
     [
-      "warning",
-      6,
-      "fear"
-    ],
-    [
       "people",
       6,
       "trust"
+    ],
+    [
+      "warning",
+      6,
+      "fear"
     ],
     [
       "disaster",
@@ -238,6 +238,21 @@
       "joy"
     ],
     [
+      "killed",
+      1,
+      "fear"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
+    ],
+    [
       "collapse",
       1,
       "fear"
@@ -256,21 +271,6 @@
       "saved",
       1,
       "joy"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
     ],
     [
       "prepares",
