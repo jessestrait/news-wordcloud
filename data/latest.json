@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T19:58:42.260Z",
+  "generated_at": "2026-09-01T20:13:44.770Z",
   "article_count": 50,
   "top_words": [
     [
@@ -163,11 +163,6 @@
       "anger"
     ],
     [
-      "change",
-      2,
-      "fear"
-    ],
-    [
       "found",
       2,
       "joy"
@@ -259,6 +254,21 @@
     ],
     [
       "missiles",
+      1,
+      "fear"
+    ],
+    [
+      "vanished",
+      1,
+      "fear"
+    ],
+    [
+      "reappeared",
+      1,
+      "surprise"
+    ],
+    [
+      "surprises",
       1,
       "fear"
     ],
@@ -366,26 +376,16 @@
       "allegiance",
       1,
       "trust"
-    ],
-    [
-      "daughter",
-      1,
-      "joy"
-    ],
-    [
-      "promises",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 49,
-    "fear": 80,
-    "surprise": 12,
-    "sadness": 18,
+    "fear": 81,
+    "surprise": 13,
+    "sadness": 16,
     "disgust": 6,
-    "anger": 101,
+    "anger": 100,
     "anticipation": 27
   }
 }
