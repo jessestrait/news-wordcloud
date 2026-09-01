@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:29:38.507Z",
+  "generated_at": "2026-09-01T21:44:41.063Z",
   "article_count": 50,
   "top_words": [
     [
@@ -76,6 +76,11 @@
       "warning",
       4,
       "fear"
+    ],
+    [
+      "found",
+      3,
+      "joy"
     ],
     [
       "strait",
@@ -163,11 +168,6 @@
       "anger"
     ],
     [
-      "found",
-      2,
-      "joy"
-    ],
-    [
       "family",
       2,
       "joy"
@@ -233,6 +233,16 @@
       "trust"
     ],
     [
+      "alive",
+      1,
+      "joy"
+    ],
+    [
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
       "begun",
       1,
       "anticipation"
@@ -256,11 +266,6 @@
       "reappeared",
       1,
       "surprise"
-    ],
-    [
-      "surprises",
-      1,
-      "fear"
     ],
     [
       "collapse",
@@ -371,21 +376,16 @@
       "daughter",
       1,
       "joy"
-    ],
-    [
-      "promises",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 49,
-    "fear": 81,
+    "fear": 80,
     "surprise": 13,
     "sadness": 14,
     "disgust": 6,
     "anger": 98,
-    "anticipation": 28
+    "anticipation": 29
   }
 }
