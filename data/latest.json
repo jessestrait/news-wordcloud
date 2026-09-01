@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-01T16:11:22.733Z",
+  "generated_at": "2026-09-01T16:26:25.106Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      19,
+      18,
       "fear"
     ],
     [
@@ -38,11 +38,6 @@
       "sadness"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "disaster",
       5,
       "anger"
@@ -59,6 +54,11 @@
     ],
     [
       "relatives",
+      4,
+      "trust"
+    ],
+    [
+      "people",
       4,
       "trust"
     ],
@@ -111,6 +111,11 @@
       "blame",
       3,
       "anger"
+    ],
+    [
+      "obituary",
+      2,
+      "sadness"
     ],
     [
       "risk",
@@ -188,11 +193,6 @@
       "fear"
     ],
     [
-      "storing",
-      2,
-      "anticipation"
-    ],
-    [
       "strike",
       2,
       "anger"
@@ -229,6 +229,11 @@
     ],
     [
       "believed",
+      1,
+      "trust"
+    ],
+    [
+      "ally",
       1,
       "trust"
     ],
@@ -371,21 +376,16 @@
       "baby",
       1,
       "joy"
-    ],
-    [
-      "birth",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 52,
-    "fear": 75,
-    "surprise": 14,
-    "sadness": 15,
+    "fear": 74,
+    "surprise": 13,
+    "sadness": 16,
     "disgust": 6,
-    "anger": 92,
-    "anticipation": 26
+    "anger": 91,
+    "anticipation": 25
   }
 }
