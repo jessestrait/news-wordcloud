@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:07:29.290Z",
+  "generated_at": "2026-09-01T09:22:32.036Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "iran",
       7,
       "anger"
@@ -33,8 +28,18 @@
       "anger"
     ],
     [
-      "disaster",
+      "warning",
       6,
+      "fear"
+    ],
+    [
+      "people",
+      6,
+      "trust"
+    ],
+    [
+      "disaster",
+      5,
       "anger"
     ],
     [
@@ -66,11 +71,6 @@
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "warning",
-      4,
-      "fear"
     ],
     [
       "leader",
@@ -110,11 +110,6 @@
     [
       "victims",
       3,
-      "anger"
-    ],
-    [
-      "feared",
-      2,
       "anger"
     ],
     [
@@ -243,9 +238,24 @@
       "joy"
     ],
     [
-      "filled",
+      "collapse",
+      1,
+      "fear"
+    ],
+    [
+      "scientists",
       1,
       "trust"
+    ],
+    [
+      "system",
+      1,
+      "trust"
+    ],
+    [
+      "saved",
+      1,
+      "joy"
     ],
     [
       "killed",
@@ -366,26 +376,16 @@
       "endangered",
       1,
       "fear"
-    ],
-    [
-      "enjoys",
-      1,
-      "joy"
-    ],
-    [
-      "tree",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 28,
     "trust": 55,
-    "fear": 74,
+    "fear": 77,
     "surprise": 15,
     "sadness": 14,
     "disgust": 6,
-    "anger": 94,
+    "anger": 92,
     "anticipation": 26
   }
 }
