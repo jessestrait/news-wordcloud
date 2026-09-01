@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:54:41.839Z",
+  "generated_at": "2026-09-01T13:09:44.223Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anger"
     ],
     [
+      "power",
+      4,
+      "anticipation"
+    ],
+    [
       "rescue",
       4,
       "surprise"
@@ -61,11 +66,6 @@
       "continue",
       4,
       "trust"
-    ],
-    [
-      "power",
-      4,
-      "anticipation"
     ],
     [
       "relatives",
