@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:41:01.877Z",
+  "generated_at": "2026-09-01T15:56:03.977Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,17 +18,17 @@
       "anger"
     ],
     [
+      "attack",
+      7,
+      "anger"
+    ],
+    [
       "iran",
       7,
       "anger"
     ],
     [
       "trump",
-      6,
-      "anger"
-    ],
-    [
-      "attack",
       6,
       "anger"
     ],
@@ -78,11 +78,6 @@
       "trust"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "victims",
       3,
       "anger"
@@ -113,14 +108,9 @@
       "trust"
     ],
     [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
-      "fired",
-      2,
-      "fear"
+      "blame",
+      3,
+      "anger"
     ],
     [
       "risk",
@@ -198,11 +188,6 @@
       "fear"
     ],
     [
-      "blame",
-      2,
-      "anger"
-    ],
-    [
       "storing",
       2,
       "anticipation"
@@ -233,14 +218,19 @@
       "fear"
     ],
     [
-      "digit",
+      "attempted",
       1,
-      "trust"
+      "anticipation"
     ],
     [
-      "explosives",
+      "airport",
       1,
-      "anger"
+      "anticipation"
+    ],
+    [
+      "believed",
+      1,
+      "trust"
     ],
     [
       "warns",
@@ -376,16 +366,26 @@
       "start",
       1,
       "anticipation"
+    ],
+    [
+      "baby",
+      1,
+      "joy"
+    ],
+    [
+      "birth",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 53,
-    "fear": 76,
+    "trust": 52,
+    "fear": 75,
     "surprise": 14,
     "sadness": 15,
     "disgust": 6,
-    "anger": 91,
+    "anger": 92,
     "anticipation": 26
   }
 }
