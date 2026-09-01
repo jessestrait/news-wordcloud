@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:38:21.209Z",
+  "generated_at": "2026-09-01T10:53:23.710Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,14 +28,14 @@
       "anger"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
       "warning",
       6,
       "fear"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "death",
@@ -53,6 +53,16 @@
       "anger"
     ],
     [
+      "rescue",
+      4,
+      "surprise"
+    ],
+    [
+      "continue",
+      4,
+      "trust"
+    ],
+    [
       "relatives",
       4,
       "trust"
@@ -61,16 +71,6 @@
       "victims",
       4,
       "anger"
-    ],
-    [
-      "continue",
-      4,
-      "trust"
-    ],
-    [
-      "rescue",
-      4,
-      "surprise"
     ],
     [
       "family",
@@ -223,6 +223,26 @@
       "trust"
     ],
     [
+      "collapse",
+      1,
+      "fear"
+    ],
+    [
+      "scientists",
+      1,
+      "trust"
+    ],
+    [
+      "system",
+      1,
+      "trust"
+    ],
+    [
+      "saved",
+      1,
+      "joy"
+    ],
+    [
       "killed",
       1,
       "fear"
@@ -256,26 +276,6 @@
       "lower",
       1,
       "sadness"
-    ],
-    [
-      "collapse",
-      1,
-      "fear"
-    ],
-    [
-      "scientists",
-      1,
-      "trust"
-    ],
-    [
-      "system",
-      1,
-      "trust"
-    ],
-    [
-      "saved",
-      1,
-      "joy"
     ],
     [
       "prepares",
