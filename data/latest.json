@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T22:30:04.458Z",
+  "generated_at": "2026-09-01T22:45:06.556Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "death",
       5,
       "sadness"
@@ -51,6 +46,11 @@
       "trump",
       5,
       "anger"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "relatives",
@@ -91,11 +91,6 @@
       "found",
       3,
       "joy"
-    ],
-    [
-      "rescued",
-      3,
-      "surprise"
     ],
     [
       "victims",
@@ -218,6 +213,11 @@
       "joy"
     ],
     [
+      "rescued",
+      2,
+      "surprise"
+    ],
+    [
       "deal",
       2,
       "surprise"
@@ -266,11 +266,6 @@
       "reappeared",
       1,
       "surprise"
-    ],
-    [
-      "collapse",
-      1,
-      "fear"
     ],
     [
       "attempted",
@@ -376,13 +371,18 @@
       "daughter",
       1,
       "joy"
+    ],
+    [
+      "promises",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 49,
-    "fear": 80,
-    "surprise": 13,
+    "trust": 48,
+    "fear": 79,
+    "surprise": 12,
     "sadness": 14,
     "disgust": 6,
     "anger": 98,
