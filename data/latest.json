@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:24:14.674Z",
+  "generated_at": "2026-09-01T12:39:16.686Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,14 +28,14 @@
       "anger"
     ],
     [
-      "warning",
-      6,
-      "fear"
-    ],
-    [
       "death",
       6,
       "sadness"
+    ],
+    [
+      "warning",
+      6,
+      "fear"
     ],
     [
       "trump",
@@ -213,6 +213,31 @@
       "fear"
     ],
     [
+      "ceremony",
+      1,
+      "surprise"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "oath",
+      1,
+      "trust"
+    ],
+    [
+      "loyalty",
+      1,
+      "trust"
+    ],
+    [
+      "father",
+      1,
+      "trust"
+    ],
+    [
       "collapse",
       1,
       "fear"
@@ -246,31 +271,6 @@
       "intervention",
       1,
       "sadness"
-    ],
-    [
-      "ceremony",
-      1,
-      "surprise"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "oath",
-      1,
-      "trust"
-    ],
-    [
-      "loyalty",
-      1,
-      "trust"
-    ],
-    [
-      "father",
-      1,
-      "trust"
     ],
     [
       "police",
