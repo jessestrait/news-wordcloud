@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:13:44.770Z",
+  "generated_at": "2026-09-01T20:28:47.436Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "anger"
     ],
     [
-      "trump",
-      6,
-      "anger"
-    ],
-    [
       "disaster",
       6,
       "anger"
@@ -51,6 +46,11 @@
       "death",
       5,
       "sadness"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "relatives",
@@ -113,7 +113,7 @@
       "anger"
     ],
     [
-      "warns",
+      "killed",
       2,
       "fear"
     ],
@@ -233,19 +233,9 @@
       "trust"
     ],
     [
-      "regret",
+      "begun",
       1,
-      "sadness"
-    ],
-    [
-      "retaliates",
-      1,
-      "anger"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
+      "anticipation"
     ],
     [
       "exchanged",
@@ -318,14 +308,14 @@
       "anticipation"
     ],
     [
-      "killed",
-      1,
-      "fear"
-    ],
-    [
       "escalates",
       1,
       "anger"
+    ],
+    [
+      "warns",
+      1,
+      "fear"
     ],
     [
       "prevent",
@@ -376,6 +366,16 @@
       "allegiance",
       1,
       "trust"
+    ],
+    [
+      "daughter",
+      1,
+      "joy"
+    ],
+    [
+      "promises",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 49,
     "fear": 81,
     "surprise": 13,
-    "sadness": 16,
+    "sadness": 14,
     "disgust": 6,
-    "anger": 100,
-    "anticipation": 27
+    "anger": 98,
+    "anticipation": 28
   }
 }
