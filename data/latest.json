@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:27:13.145Z",
+  "generated_at": "2026-09-01T17:42:15.870Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,12 +13,12 @@
       "fear"
     ],
     [
-      "attack",
+      "iran",
       9,
       "anger"
     ],
     [
-      "iran",
+      "attack",
       9,
       "anger"
     ],
@@ -43,14 +43,9 @@
       "anger"
     ],
     [
-      "happened",
+      "relatives",
       4,
-      "anticipation"
-    ],
-    [
-      "rescue",
-      4,
-      "surprise"
+      "trust"
     ],
     [
       "continue",
@@ -58,9 +53,14 @@
       "trust"
     ],
     [
-      "relatives",
+      "rescue",
       4,
-      "trust"
+      "surprise"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "people",
@@ -78,12 +78,12 @@
       "fear"
     ],
     [
-      "deadly",
+      "victims",
       3,
       "anger"
     ],
     [
-      "victims",
+      "deadly",
       3,
       "anger"
     ],
@@ -108,11 +108,6 @@
       "anger"
     ],
     [
-      "attempted",
-      2,
-      "anticipation"
-    ],
-    [
       "military",
       2,
       "fear"
@@ -121,6 +116,11 @@
       "hostilities",
       2,
       "anger"
+    ],
+    [
+      "attempted",
+      2,
+      "anticipation"
     ],
     [
       "risk",
@@ -228,6 +228,21 @@
       "trust"
     ],
     [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "striking",
+      1,
+      "anger"
+    ],
+    [
+      "police",
+      1,
+      "fear"
+    ],
+    [
       "airport",
       1,
       "anticipation"
@@ -254,16 +269,6 @@
     ],
     [
       "escalates",
-      1,
-      "anger"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "striking",
       1,
       "anger"
     ],
@@ -351,11 +356,6 @@
       "intervention",
       1,
       "sadness"
-    ],
-    [
-      "police",
-      1,
-      "fear"
     ],
     [
       "prepares",
