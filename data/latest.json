@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T05:50:29.549Z",
+  "generated_at": "2026-09-01T06:05:31.481Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,13 +38,13 @@
       "anger"
     ],
     [
-      "trump",
+      "disaster",
       5,
       "anger"
     ],
     [
-      "disaster",
-      4,
+      "trump",
+      5,
       "anger"
     ],
     [
@@ -68,11 +68,6 @@
       "trust"
     ],
     [
-      "found",
-      3,
-      "joy"
-    ],
-    [
       "rescue",
       3,
       "surprise"
@@ -81,6 +76,11 @@
       "deadly",
       3,
       "anger"
+    ],
+    [
+      "found",
+      3,
+      "joy"
     ],
     [
       "world",
@@ -118,6 +118,11 @@
       "fear"
     ],
     [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
       "violence",
       2,
       "anger"
@@ -141,11 +146,6 @@
       "vote",
       2,
       "anger"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "economy",
@@ -385,7 +385,7 @@
     "surprise": 16,
     "sadness": 13,
     "disgust": 6,
-    "anger": 88,
+    "anger": 89,
     "anticipation": 25
   }
 }
