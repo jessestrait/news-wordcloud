@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:55:36.567Z",
+  "generated_at": "2026-09-01T15:10:39.190Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,11 +118,6 @@
       "trust"
     ],
     [
-      "daughter",
-      2,
-      "joy"
-    ],
-    [
       "risk",
       2,
       "fear"
@@ -136,6 +131,11 @@
       "fired",
       2,
       "fear"
+    ],
+    [
+      "daughter",
+      2,
+      "joy"
     ],
     [
       "accused",
@@ -238,6 +238,41 @@
       "fear"
     ],
     [
+      "kills",
+      1,
+      "fear"
+    ],
+    [
+      "shortage",
+      1,
+      "anger"
+    ],
+    [
+      "lower",
+      1,
+      "sadness"
+    ],
+    [
+      "warns",
+      1,
+      "fear"
+    ],
+    [
+      "prevent",
+      1,
+      "fear"
+    ],
+    [
+      "loss",
+      1,
+      "anger"
+    ],
+    [
+      "official",
+      1,
+      "trust"
+    ],
+    [
       "swears",
       1,
       "trust"
@@ -268,26 +303,6 @@
       "fear"
     ],
     [
-      "warns",
-      1,
-      "fear"
-    ],
-    [
-      "prevent",
-      1,
-      "fear"
-    ],
-    [
-      "loss",
-      1,
-      "anger"
-    ],
-    [
-      "official",
-      1,
-      "trust"
-    ],
-    [
       "meddling",
       1,
       "anger"
@@ -299,21 +314,6 @@
     ],
     [
       "intervention",
-      1,
-      "sadness"
-    ],
-    [
-      "kills",
-      1,
-      "fear"
-    ],
-    [
-      "shortage",
-      1,
-      "anger"
-    ],
-    [
-      "lower",
       1,
       "sadness"
     ],
