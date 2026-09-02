@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T05:03:35.817Z",
+  "generated_at": "2026-09-02T05:18:37.807Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      19,
+      18,
       "fear"
     ],
     [
@@ -38,11 +38,6 @@
       "anticipation"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "relatives",
       5,
       "trust"
@@ -51,6 +46,11 @@
       "death",
       5,
       "sadness"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "rescue",
@@ -76,6 +76,11 @@
       "warning",
       4,
       "fear"
+    ],
+    [
+      "family",
+      3,
+      "joy"
     ],
     [
       "found",
@@ -128,6 +133,11 @@
       "anger"
     ],
     [
+      "john",
+      2,
+      "disgust"
+    ],
+    [
       "hopes",
       2,
       "surprise"
@@ -136,11 +146,6 @@
       "flooding",
       2,
       "fear"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "exchange",
@@ -198,11 +203,6 @@
       "anger"
     ],
     [
-      "family",
-      2,
-      "joy"
-    ],
-    [
       "disruption",
       2,
       "anger"
@@ -228,11 +228,6 @@
       "joy"
     ],
     [
-      "rescued",
-      2,
-      "surprise"
-    ],
-    [
       "disabled",
       1,
       "fear"
@@ -246,6 +241,21 @@
       "lottery",
       1,
       "anticipation"
+    ],
+    [
+      "deported",
+      1,
+      "fear"
+    ],
+    [
+      "childhood",
+      1,
+      "joy"
+    ],
+    [
+      "marriage",
+      1,
+      "joy"
     ],
     [
       "arrives",
@@ -286,6 +296,11 @@
       "mother",
       1,
       "sadness"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
     ],
     [
       "provide",
@@ -361,30 +376,15 @@
       "berserk",
       1,
       "anger"
-    ],
-    [
-      "begun",
-      1,
-      "anticipation"
-    ],
-    [
-      "exchanged",
-      1,
-      "trust"
-    ],
-    [
-      "missiles",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 52,
+    "joy": 27,
+    "trust": 50,
     "fear": 85,
-    "surprise": 12,
+    "surprise": 11,
     "sadness": 17,
-    "disgust": 4,
+    "disgust": 5,
     "anger": 101,
     "anticipation": 33
   }
