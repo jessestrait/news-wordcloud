@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T09:21:02.267Z",
+  "generated_at": "2026-09-02T09:36:04.751Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,29 +18,29 @@
       "anger"
     ],
     [
-      "flood",
-      12,
-      "fear"
-    ],
-    [
       "war",
       10,
       "anger"
     ],
     [
-      "disaster",
-      7,
-      "anger"
+      "flood",
+      10,
+      "fear"
     ],
     [
-      "happened",
+      "disaster",
       6,
-      "anticipation"
+      "anger"
     ],
     [
       "people",
       5,
       "trust"
+    ],
+    [
+      "happened",
+      5,
+      "anticipation"
     ],
     [
       "blame",
@@ -53,24 +53,9 @@
       "trust"
     ],
     [
-      "warning",
-      4,
-      "fear"
-    ],
-    [
       "relatives",
       4,
       "trust"
-    ],
-    [
-      "continue",
-      4,
-      "trust"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "trump",
@@ -98,6 +83,11 @@
       "anger"
     ],
     [
+      "warning",
+      3,
+      "fear"
+    ],
+    [
       "family",
       3,
       "joy"
@@ -123,6 +113,11 @@
       "surprise"
     ],
     [
+      "continue",
+      3,
+      "trust"
+    ],
+    [
       "strait",
       3,
       "fear"
@@ -133,9 +128,9 @@
       "fear"
     ],
     [
-      "victims",
+      "death",
       3,
-      "anger"
+      "sadness"
     ],
     [
       "expected",
@@ -143,19 +138,14 @@
       "anticipation"
     ],
     [
-      "hit",
-      3,
-      "anger"
+      "prepares",
+      2,
+      "anticipation"
     ],
     [
       "food",
       2,
       "joy"
-    ],
-    [
-      "prepares",
-      2,
-      "anticipation"
     ],
     [
       "threaten",
@@ -203,6 +193,11 @@
       "anger"
     ],
     [
+      "victims",
+      2,
+      "anger"
+    ],
+    [
       "risk",
       2,
       "fear"
@@ -218,6 +213,11 @@
       "anger"
     ],
     [
+      "change",
+      2,
+      "fear"
+    ],
+    [
       "disruption",
       2,
       "anger"
@@ -228,24 +228,24 @@
       "trust"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "planning",
       2,
       "trust"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "house",
       2,
       "joy"
-    ],
-    [
-      "fatal",
-      1,
-      "anger"
-    ],
-    [
-      "book",
-      1,
-      "trust"
     ],
     [
       "policy",
@@ -261,6 +261,31 @@
       "terrorism",
       1,
       "anger"
+    ],
+    [
+      "approve",
+      1,
+      "joy"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "rules",
+      1,
+      "fear"
+    ],
+    [
+      "fatal",
+      1,
+      "anger"
+    ],
+    [
+      "book",
+      1,
+      "trust"
     ],
     [
       "trade",
@@ -351,41 +376,16 @@
       "fill",
       1,
       "trust"
-    ],
-    [
-      "mother",
-      1,
-      "sadness"
-    ],
-    [
-      "flooding",
-      1,
-      "fear"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "provide",
-      1,
-      "trust"
-    ],
-    [
-      "alive",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 53,
-    "fear": 80,
+    "fear": 78,
     "surprise": 9,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 112,
+    "anger": 108,
     "anticipation": 35
   }
 }
