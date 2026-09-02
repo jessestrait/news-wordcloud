@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T10:51:48.079Z",
+  "generated_at": "2026-09-02T11:06:50.367Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      16,
+      15,
       "anger"
     ],
     [
@@ -385,7 +385,7 @@
     "surprise": 10,
     "sadness": 15,
     "disgust": 5,
-    "anger": 103,
+    "anger": 102,
     "anticipation": 33
   }
 }
