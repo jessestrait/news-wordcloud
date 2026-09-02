@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T15:54:28.558Z",
+  "generated_at": "2026-09-02T16:09:31.234Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      13,
+      14,
       "anger"
     ],
     [
@@ -38,19 +38,14 @@
       "trust"
     ],
     [
-      "president",
+      "strait",
       4,
-      "trust"
+      "fear"
     ],
     [
       "airport",
       4,
       "anticipation"
-    ],
-    [
-      "strait",
-      4,
-      "fear"
     ],
     [
       "disaster",
@@ -63,6 +58,21 @@
       "anticipation"
     ],
     [
+      "hormuz",
+      3,
+      "fear"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
+      "president",
+      3,
+      "trust"
+    ],
+    [
       "blames",
       3,
       "anger"
@@ -71,11 +81,6 @@
       "incident",
       3,
       "surprise"
-    ],
-    [
-      "hormuz",
-      3,
-      "fear"
     ],
     [
       "hostilities",
@@ -228,11 +233,6 @@
       "anger"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "fire",
       2,
       "fear"
@@ -261,6 +261,26 @@
       "disruption",
       2,
       "anger"
+    ],
+    [
+      "strike",
+      1,
+      "anger"
+    ],
+    [
+      "suggests",
+      1,
+      "trust"
+    ],
+    [
+      "never",
+      1,
+      "fear"
+    ],
+    [
+      "child",
+      1,
+      "joy"
     ],
     [
       "unsafe",
@@ -299,16 +319,6 @@
     ],
     [
       "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "suggests",
-      1,
-      "trust"
-    ],
-    [
-      "strike",
       1,
       "anger"
     ],
@@ -366,26 +376,16 @@
       "shooter",
       1,
       "anger"
-    ],
-    [
-      "fulfilled",
-      1,
-      "joy"
-    ],
-    [
-      "unjust",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 56,
-    "fear": 70,
+    "joy": 23,
+    "trust": 55,
+    "fear": 72,
     "surprise": 13,
     "sadness": 12,
     "disgust": 5,
-    "anger": 105,
+    "anger": 106,
     "anticipation": 32
   }
 }
