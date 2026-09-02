@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:21:28.738Z",
+  "generated_at": "2026-09-02T10:36:30.890Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "missing",
-      13,
+      12,
       "fear"
     ],
     [
@@ -24,7 +24,7 @@
     ],
     [
       "flood",
-      10,
+      9,
       "fear"
     ],
     [
@@ -44,11 +44,6 @@
     ],
     [
       "people",
-      4,
-      "trust"
-    ],
-    [
-      "relatives",
       4,
       "trust"
     ],
@@ -93,14 +88,19 @@
       "fear"
     ],
     [
+      "hope",
+      3,
+      "surprise"
+    ],
+    [
       "family",
       3,
       "joy"
     ],
     [
-      "found",
+      "relatives",
       3,
-      "joy"
+      "trust"
     ],
     [
       "airport",
@@ -163,9 +163,9 @@
       "disgust"
     ],
     [
-      "hopes",
+      "found",
       2,
-      "surprise"
+      "joy"
     ],
     [
       "exchange",
@@ -194,11 +194,6 @@
     ],
     [
       "rocket",
-      2,
-      "anger"
-    ],
-    [
-      "victims",
       2,
       "anger"
     ],
@@ -246,11 +241,6 @@
       "power",
       2,
       "anticipation"
-    ],
-    [
-      "house",
-      2,
-      "joy"
     ],
     [
       "grave",
@@ -323,6 +313,11 @@
       "fear"
     ],
     [
+      "general",
+      1,
+      "trust"
+    ],
+    [
       "disabled",
       1,
       "fear"
@@ -376,16 +371,21 @@
       "poor",
       1,
       "sadness"
+    ],
+    [
+      "morgues",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 52,
-    "fear": 76,
-    "surprise": 9,
+    "joy": 24,
+    "trust": 51,
+    "fear": 74,
+    "surprise": 10,
     "sadness": 15,
     "disgust": 5,
-    "anger": 106,
+    "anger": 105,
     "anticipation": 33
   }
 }
