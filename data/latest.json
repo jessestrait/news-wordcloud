@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:06:26.811Z",
+  "generated_at": "2026-09-02T10:21:28.738Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "missing",
-      14,
-      "fear"
-    ],
-    [
       "iran",
       13,
       "anger"
+    ],
+    [
+      "missing",
+      13,
+      "fear"
     ],
     [
       "war",
@@ -28,22 +28,12 @@
       "fear"
     ],
     [
-      "disaster",
-      6,
+      "blame",
+      5,
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
-      "blame",
+      "disaster",
       5,
       "anger"
     ],
@@ -53,14 +43,29 @@
       "trust"
     ],
     [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "relatives",
       4,
       "trust"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "trump",
       4,
       "anger"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "middle",
@@ -138,9 +143,9 @@
       "anticipation"
     ],
     [
-      "prepares",
+      "incident",
       2,
-      "anticipation"
+      "surprise"
     ],
     [
       "food",
@@ -248,19 +253,29 @@
       "joy"
     ],
     [
-      "policy",
+      "grave",
+      1,
+      "fear"
+    ],
+    [
+      "mistake",
+      1,
+      "sadness"
+    ],
+    [
+      "unsafe",
+      1,
+      "fear"
+    ],
+    [
+      "account",
       1,
       "trust"
     ],
     [
-      "sponsored",
+      "growing",
       1,
-      "trust"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
+      "joy"
     ],
     [
       "fatal",
@@ -361,31 +376,16 @@
       "poor",
       1,
       "sadness"
-    ],
-    [
-      "morgues",
-      1,
-      "fear"
-    ],
-    [
-      "fill",
-      1,
-      "trust"
-    ],
-    [
-      "mother",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 53,
-    "fear": 77,
+    "joy": 27,
+    "trust": 52,
+    "fear": 76,
     "surprise": 9,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 5,
-    "anger": 108,
-    "anticipation": 35
+    "anger": 106,
+    "anticipation": 33
   }
 }
