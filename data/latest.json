@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T03:17:51.683Z",
+  "generated_at": "2026-09-02T03:32:53.920Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "attack",
-      12,
+      13,
       "anger"
     ],
     [
@@ -23,12 +23,12 @@
       "anger"
     ],
     [
-      "disaster",
-      7,
+      "war",
+      8,
       "anger"
     ],
     [
-      "war",
+      "disaster",
       7,
       "anger"
     ],
@@ -83,7 +83,17 @@
       "joy"
     ],
     [
+      "airport",
+      3,
+      "anticipation"
+    ],
+    [
       "bases",
+      3,
+      "trust"
+    ],
+    [
+      "economy",
       3,
       "trust"
     ],
@@ -133,11 +143,6 @@
       "trust"
     ],
     [
-      "airport",
-      2,
-      "anticipation"
-    ],
-    [
       "exchange",
       2,
       "trust"
@@ -146,6 +151,11 @@
       "hostilities",
       2,
       "anger"
+    ],
+    [
+      "warns",
+      2,
+      "fear"
     ],
     [
       "confirmed",
@@ -213,11 +223,6 @@
       "trust"
     ],
     [
-      "economy",
-      2,
-      "trust"
-    ],
-    [
       "planning",
       2,
       "trust"
@@ -241,11 +246,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "abortion",
-      2,
-      "fear"
     ],
     [
       "lost",
@@ -333,6 +333,21 @@
       "anger"
     ],
     [
+      "safe",
+      1,
+      "joy"
+    ],
+    [
+      "risky",
+      1,
+      "fear"
+    ],
+    [
+      "berserk",
+      1,
+      "anger"
+    ],
+    [
       "begun",
       1,
       "anticipation"
@@ -361,31 +376,16 @@
       "attempted",
       1,
       "anticipation"
-    ],
-    [
-      "believed",
-      1,
-      "trust"
-    ],
-    [
-      "police",
-      1,
-      "fear"
-    ],
-    [
-      "rail",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 52,
     "fear": 83,
     "surprise": 14,
     "sadness": 16,
-    "disgust": 6,
-    "anger": 104,
+    "disgust": 5,
+    "anger": 106,
     "anticipation": 30
   }
 }
