@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:39:25.946Z",
+  "generated_at": "2026-09-02T15:54:28.558Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "trust"
     ],
     [
-      "strait",
-      4,
-      "fear"
-    ],
-    [
       "president",
       4,
       "trust"
@@ -51,6 +46,11 @@
       "airport",
       4,
       "anticipation"
+    ],
+    [
+      "strait",
+      4,
+      "fear"
     ],
     [
       "disaster",
@@ -63,11 +63,6 @@
       "anticipation"
     ],
     [
-      "hormuz",
-      3,
-      "fear"
-    ],
-    [
       "blames",
       3,
       "anger"
@@ -76,6 +71,11 @@
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "hormuz",
+      3,
+      "fear"
     ],
     [
       "hostilities",
@@ -263,14 +263,19 @@
       "anger"
     ],
     [
-      "suggests",
+      "unsafe",
+      1,
+      "fear"
+    ],
+    [
+      "account",
       1,
       "trust"
     ],
     [
-      "strike",
+      "growing",
       1,
-      "anger"
+      "joy"
     ],
     [
       "attempts",
@@ -298,6 +303,16 @@
       "anger"
     ],
     [
+      "suggests",
+      1,
+      "trust"
+    ],
+    [
+      "strike",
+      1,
+      "anger"
+    ],
+    [
       "injures",
       1,
       "anger"
@@ -306,21 +321,6 @@
       "wait",
       1,
       "anticipation"
-    ],
-    [
-      "unsafe",
-      1,
-      "fear"
-    ],
-    [
-      "account",
-      1,
-      "trust"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
     ],
     [
       "diplomacy",
