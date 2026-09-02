@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:01:34.905Z",
+  "generated_at": "2026-09-02T01:16:37.835Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,12 +14,12 @@
     ],
     [
       "attack",
-      11,
+      12,
       "anger"
     ],
     [
       "iran",
-      9,
+      11,
       "anger"
     ],
     [
@@ -78,6 +78,11 @@
       "fear"
     ],
     [
+      "bases",
+      3,
+      "trust"
+    ],
+    [
       "deadly",
       3,
       "anger"
@@ -110,6 +115,16 @@
     [
       "hit",
       3,
+      "anger"
+    ],
+    [
+      "exchange",
+      2,
+      "trust"
+    ],
+    [
+      "hostilities",
+      2,
       "anger"
     ],
     [
@@ -193,11 +208,6 @@
       "trust"
     ],
     [
-      "bases",
-      2,
-      "trust"
-    ],
-    [
       "planning",
       2,
       "trust"
@@ -228,9 +238,39 @@
       "fear"
     ],
     [
-      "leaders",
-      2,
-      "trust"
+      "fears",
+      1,
+      "anger"
+    ],
+    [
+      "guard",
+      1,
+      "fear"
+    ],
+    [
+      "reprisals",
+      1,
+      "anger"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "quash",
+      1,
+      "fear"
+    ],
+    [
+      "hopes",
+      1,
+      "surprise"
+    ],
+    [
+      "limited",
+      1,
+      "anger"
     ],
     [
       "government",
@@ -336,56 +376,16 @@
       "ally",
       1,
       "trust"
-    ],
-    [
-      "kills",
-      1,
-      "fear"
-    ],
-    [
-      "shortage",
-      1,
-      "anger"
-    ],
-    [
-      "lower",
-      1,
-      "sadness"
-    ],
-    [
-      "swears",
-      1,
-      "trust"
-    ],
-    [
-      "oath",
-      1,
-      "trust"
-    ],
-    [
-      "allegiance",
-      1,
-      "trust"
-    ],
-    [
-      "daughter",
-      1,
-      "joy"
-    ],
-    [
-      "promises",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 48,
-    "fear": 78,
-    "surprise": 12,
+    "fear": 80,
+    "surprise": 13,
     "sadness": 14,
     "disgust": 6,
-    "anger": 98,
+    "anger": 104,
     "anticipation": 30
   }
 }
