@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:52:45.059Z",
+  "generated_at": "2026-09-02T13:07:47.110Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "fear"
     ],
     [
-      "blame",
-      5,
-      "anger"
-    ],
-    [
       "people",
       5,
       "trust"
@@ -54,6 +49,11 @@
     ],
     [
       "trump",
+      4,
+      "anger"
+    ],
+    [
+      "blame",
       4,
       "anger"
     ],
@@ -128,14 +128,19 @@
       "anticipation"
     ],
     [
-      "incident",
-      2,
-      "surprise"
-    ],
-    [
       "crime",
       2,
       "anger"
+    ],
+    [
+      "case",
+      2,
+      "fear"
+    ],
+    [
+      "incident",
+      2,
+      "surprise"
     ],
     [
       "missile",
@@ -248,26 +253,6 @@
       "trust"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
-      "grave",
-      1,
-      "fear"
-    ],
-    [
-      "mistake",
-      1,
-      "sadness"
-    ],
-    [
-      "reckless",
-      1,
-      "anger"
-    ],
-    [
       "american",
       1,
       "sadness"
@@ -281,6 +266,36 @@
       "calls",
       1,
       "trust"
+    ],
+    [
+      "defends",
+      1,
+      "fear"
+    ],
+    [
+      "fulfilled",
+      1,
+      "joy"
+    ],
+    [
+      "criticism",
+      1,
+      "anger"
+    ],
+    [
+      "unjust",
+      1,
+      "anger"
+    ],
+    [
+      "deportation",
+      1,
+      "anger"
+    ],
+    [
+      "reckless",
+      1,
+      "anger"
     ],
     [
       "injures",
@@ -348,21 +363,6 @@
       "trust"
     ],
     [
-      "disabled",
-      1,
-      "fear"
-    ],
-    [
-      "unable",
-      1,
-      "sadness"
-    ],
-    [
-      "lottery",
-      1,
-      "anticipation"
-    ],
-    [
       "deported",
       1,
       "fear"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 23,
     "trust": 51,
-    "fear": 75,
+    "fear": 76,
     "surprise": 10,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 108,
-    "anticipation": 31
+    "anger": 106,
+    "anticipation": 30
   }
 }
