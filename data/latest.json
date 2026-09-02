@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:06:50.367Z",
+  "generated_at": "2026-09-02T11:21:52.288Z",
   "article_count": 50,
   "top_words": [
     [
@@ -56,11 +56,6 @@
       "trump",
       4,
       "anger"
-    ],
-    [
-      "president",
-      3,
-      "trust"
     ],
     [
       "middle",
@@ -141,6 +136,11 @@
       "incident",
       2,
       "surprise"
+    ],
+    [
+      "president",
+      2,
+      "trust"
     ],
     [
       "food",
@@ -251,6 +251,11 @@
       "mistake",
       1,
       "sadness"
+    ],
+    [
+      "reckless",
+      1,
+      "anger"
     ],
     [
       "fatal",
@@ -371,21 +376,16 @@
       "deteriorating",
       1,
       "fear"
-    ],
-    [
-      "poor",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 52,
+    "trust": 51,
     "fear": 74,
     "surprise": 10,
     "sadness": 15,
     "disgust": 5,
-    "anger": 102,
+    "anger": 103,
     "anticipation": 33
   }
 }
