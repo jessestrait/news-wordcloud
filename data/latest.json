@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-02T05:49:00.112Z",
+  "generated_at": "2026-09-02T06:04:02.642Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      18,
+      17,
       "fear"
     ],
     [
       "flood",
-      15,
+      14,
       "fear"
     ],
     [
@@ -38,9 +38,9 @@
       "anticipation"
     ],
     [
-      "relatives",
+      "warning",
       5,
-      "trust"
+      "fear"
     ],
     [
       "death",
@@ -49,6 +49,11 @@
     ],
     [
       "people",
+      4,
+      "trust"
+    ],
+    [
+      "relatives",
       4,
       "trust"
     ],
@@ -71,11 +76,6 @@
       "blame",
       4,
       "anger"
-    ],
-    [
-      "warning",
-      4,
-      "fear"
     ],
     [
       "family",
@@ -130,6 +130,11 @@
     [
       "hit",
       3,
+      "anger"
+    ],
+    [
+      "threaten",
+      2,
       "anger"
     ],
     [
@@ -193,11 +198,6 @@
       "fear"
     ],
     [
-      "obituary",
-      2,
-      "sadness"
-    ],
-    [
       "violence",
       2,
       "anger"
@@ -226,6 +226,31 @@
       "house",
       2,
       "joy"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
+    ],
+    [
+      "cop",
+      1,
+      "fear"
+    ],
+    [
+      "global",
+      1,
+      "anticipation"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
     ],
     [
       "disabled",
@@ -351,41 +376,16 @@
       "middle",
       1,
       "sadness"
-    ],
-    [
-      "quash",
-      1,
-      "fear"
-    ],
-    [
-      "limited",
-      1,
-      "anger"
-    ],
-    [
-      "safe",
-      1,
-      "joy"
-    ],
-    [
-      "risky",
-      1,
-      "fear"
-    ],
-    [
-      "berserk",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 26,
     "trust": 50,
-    "fear": 85,
+    "fear": 87,
     "surprise": 11,
-    "sadness": 17,
+    "sadness": 14,
     "disgust": 5,
     "anger": 101,
-    "anticipation": 33
+    "anticipation": 34
   }
 }
