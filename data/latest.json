@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:09:49.373Z",
+  "generated_at": "2026-09-02T16:24:52.346Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "fear"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "people",
       5,
       "trust"
@@ -51,11 +56,6 @@
       "disaster",
       4,
       "anger"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "hormuz",
@@ -386,6 +386,6 @@
     "sadness": 12,
     "disgust": 5,
     "anger": 106,
-    "anticipation": 32
+    "anticipation": 33
   }
 }
