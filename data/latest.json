@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T23:13:48.200Z",
+  "generated_at": "2026-09-02T23:28:50.504Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,24 +13,29 @@
       "anger"
     ],
     [
+      "missing",
+      12,
+      "fear"
+    ],
+    [
       "war",
       11,
       "anger"
     ],
     [
-      "missing",
-      10,
-      "fear"
-    ],
-    [
       "flood",
-      8,
+      9,
       "fear"
     ],
     [
       "trump",
       7,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "airport",
@@ -41,11 +46,6 @@
       "happened",
       5,
       "anticipation"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "disaster",
@@ -74,6 +74,11 @@
     ],
     [
       "hostilities",
+      3,
+      "anger"
+    ],
+    [
+      "fear",
       3,
       "anger"
     ],
@@ -151,16 +156,6 @@
       "kills",
       2,
       "fear"
-    ],
-    [
-      "fears",
-      2,
-      "anger"
-    ],
-    [
-      "brother",
-      2,
-      "trust"
     ],
     [
       "ally",
@@ -376,16 +371,21 @@
       "restricted",
       1,
       "sadness"
+    ],
+    [
+      "treacherous",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 23,
     "trust": 53,
-    "fear": 66,
+    "fear": 69,
     "surprise": 12,
     "sadness": 12,
     "disgust": 3,
-    "anger": 117,
-    "anticipation": 33
+    "anger": 118,
+    "anticipation": 32
   }
 }
