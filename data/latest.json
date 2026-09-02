@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T09:05:42.328Z",
+  "generated_at": "2026-09-02T09:20:44.968Z",
   "article_count": 50,
   "top_words": [
     [
@@ -238,6 +238,11 @@
       "joy"
     ],
     [
+      "fatal",
+      1,
+      "anger"
+    ],
+    [
       "book",
       1,
       "trust"
@@ -254,11 +259,6 @@
     ],
     [
       "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "fatal",
       1,
       "anger"
     ],
