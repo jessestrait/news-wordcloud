@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T08:35:37.036Z",
+  "generated_at": "2026-09-02T08:50:39.544Z",
   "article_count": 50,
   "top_words": [
     [
@@ -148,11 +148,6 @@
       "anger"
     ],
     [
-      "incident",
-      2,
-      "surprise"
-    ],
-    [
       "prepares",
       2,
       "anticipation"
@@ -246,11 +241,6 @@
       "fatal",
       1,
       "anger"
-    ],
-    [
-      "child",
-      1,
-      "joy"
     ],
     [
       "policy",
@@ -376,13 +366,23 @@
       "alive",
       1,
       "joy"
+    ],
+    [
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
+      "government",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 25,
     "trust": 52,
     "fear": 82,
-    "surprise": 10,
+    "surprise": 9,
     "sadness": 16,
     "disgust": 5,
     "anger": 110,
