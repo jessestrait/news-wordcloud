@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T08:20:17.130Z",
+  "generated_at": "2026-09-02T08:35:19.304Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      15,
+      16,
       "anger"
     ],
     [
@@ -13,14 +13,14 @@
       "fear"
     ],
     [
-      "flood",
+      "iran",
       13,
-      "fear"
+      "anger"
     ],
     [
-      "iran",
-      11,
-      "anger"
+      "flood",
+      12,
+      "fear"
     ],
     [
       "war",
@@ -38,11 +38,6 @@
       "anticipation"
     ],
     [
-      "warning",
-      5,
-      "fear"
-    ],
-    [
       "death",
       5,
       "sadness"
@@ -51,6 +46,16 @@
       "blame",
       5,
       "anger"
+    ],
+    [
+      "bases",
+      4,
+      "trust"
+    ],
+    [
+      "warning",
+      4,
+      "fear"
     ],
     [
       "people",
@@ -73,6 +78,26 @@
       "anger"
     ],
     [
+      "middle",
+      3,
+      "sadness"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
+      "hostilities",
+      3,
+      "anger"
+    ],
+    [
       "family",
       3,
       "joy"
@@ -88,11 +113,6 @@
       "anticipation"
     ],
     [
-      "bases",
-      3,
-      "trust"
-    ],
-    [
       "economy",
       3,
       "trust"
@@ -101,11 +121,6 @@
       "rescue",
       3,
       "surprise"
-    ],
-    [
-      "deadly",
-      3,
-      "anger"
     ],
     [
       "strait",
@@ -168,24 +183,19 @@
       "trust"
     ],
     [
-      "hostilities",
-      2,
-      "anger"
-    ],
-    [
       "warns",
       2,
       "fear"
     ],
     [
+      "deadly",
+      2,
+      "anger"
+    ],
+    [
       "confirmed",
       2,
       "trust"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "fire",
@@ -228,13 +238,18 @@
       "trust"
     ],
     [
-      "strike",
+      "house",
       2,
+      "joy"
+    ],
+    [
+      "fatal",
+      1,
       "anger"
     ],
     [
-      "house",
-      2,
+      "child",
+      1,
       "joy"
     ],
     [
@@ -361,31 +376,16 @@
       "alive",
       1,
       "joy"
-    ],
-    [
-      "morning",
-      1,
-      "anticipation"
-    ],
-    [
-      "government",
-      1,
-      "fear"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 52,
-    "fear": 83,
-    "surprise": 11,
-    "sadness": 14,
+    "fear": 82,
+    "surprise": 10,
+    "sadness": 16,
     "disgust": 5,
-    "anger": 105,
+    "anger": 110,
     "anticipation": 35
   }
 }
