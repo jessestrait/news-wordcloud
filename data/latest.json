@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:25:21.091Z",
+  "generated_at": "2026-09-02T17:40:23.877Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,12 +13,12 @@
       "fear"
     ],
     [
-      "attack",
+      "war",
       11,
       "anger"
     ],
     [
-      "war",
+      "attack",
       11,
       "anger"
     ],
@@ -58,11 +58,6 @@
       "anger"
     ],
     [
-      "criticism",
-      3,
-      "anger"
-    ],
-    [
       "hormuz",
       3,
       "fear"
@@ -71,6 +66,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "criticism",
+      3,
+      "anger"
     ],
     [
       "hit",
@@ -113,11 +113,6 @@
       "trust"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "crime",
       2,
       "anger"
@@ -126,6 +121,11 @@
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "damage",
@@ -273,11 +273,6 @@
       "anticipation"
     ],
     [
-      "hostile",
-      1,
-      "anger"
-    ],
-    [
       "strike",
       1,
       "anger"
@@ -296,6 +291,11 @@
       "child",
       1,
       "joy"
+    ],
+    [
+      "hostile",
+      1,
+      "anger"
     ],
     [
       "suffering",
