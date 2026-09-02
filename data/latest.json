@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-02T14:08:30.401Z",
+  "generated_at": "2026-09-02T14:23:32.523Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
+      "iran",
       14,
       "anger"
     ],
     [
-      "iran",
+      "attack",
       14,
       "anger"
     ],
@@ -123,14 +123,14 @@
       "anticipation"
     ],
     [
-      "incident",
-      2,
-      "surprise"
-    ],
-    [
       "crime",
       2,
       "anger"
+    ],
+    [
+      "incident",
+      2,
+      "surprise"
     ],
     [
       "victims",
@@ -243,11 +243,6 @@
       "anger"
     ],
     [
-      "reckless",
-      1,
-      "anger"
-    ],
-    [
       "american",
       1,
       "sadness"
@@ -261,6 +256,11 @@
       "calls",
       1,
       "trust"
+    ],
+    [
+      "reckless",
+      1,
+      "anger"
     ],
     [
       "shooting",
