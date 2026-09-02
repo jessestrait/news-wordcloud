@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:07:20.742Z",
+  "generated_at": "2026-09-02T12:22:23.267Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,14 +28,14 @@
       "fear"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "blame",
       5,
       "anger"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "disaster",
@@ -128,6 +128,11 @@
       "anticipation"
     ],
     [
+      "incident",
+      2,
+      "surprise"
+    ],
+    [
       "crime",
       2,
       "anger"
@@ -151,11 +156,6 @@
       "fears",
       2,
       "anger"
-    ],
-    [
-      "incident",
-      2,
-      "surprise"
     ],
     [
       "president",
@@ -253,6 +253,21 @@
       "anger"
     ],
     [
+      "grave",
+      1,
+      "fear"
+    ],
+    [
+      "mistake",
+      1,
+      "sadness"
+    ],
+    [
+      "reckless",
+      1,
+      "anger"
+    ],
+    [
       "american",
       1,
       "sadness"
@@ -269,21 +284,6 @@
     ],
     [
       "injures",
-      1,
-      "anger"
-    ],
-    [
-      "grave",
-      1,
-      "fear"
-    ],
-    [
-      "mistake",
-      1,
-      "sadness"
-    ],
-    [
-      "reckless",
       1,
       "anger"
     ],
