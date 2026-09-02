@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:08:05.542Z",
+  "generated_at": "2026-09-02T13:23:08.222Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,14 +133,14 @@
       "anger"
     ],
     [
-      "case",
-      2,
-      "fear"
-    ],
-    [
       "incident",
       2,
       "surprise"
+    ],
+    [
+      "case",
+      2,
+      "fear"
     ],
     [
       "missile",
@@ -268,6 +268,11 @@
       "trust"
     ],
     [
+      "reckless",
+      1,
+      "anger"
+    ],
+    [
       "defends",
       1,
       "fear"
@@ -289,11 +294,6 @@
     ],
     [
       "deportation",
-      1,
-      "anger"
-    ],
-    [
-      "reckless",
       1,
       "anger"
     ],
