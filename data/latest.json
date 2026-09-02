@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T11:37:15.342Z",
+  "generated_at": "2026-09-02T11:52:18.020Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      15,
+      13,
       "anger"
     ],
     [
@@ -19,7 +19,7 @@
     ],
     [
       "war",
-      10,
+      9,
       "anger"
     ],
     [
@@ -61,11 +61,6 @@
       "middle",
       3,
       "sadness"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "killed",
@@ -123,13 +118,23 @@
       "fear"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "expected",
       3,
+      "anticipation"
+    ],
+    [
+      "arrive",
+      2,
+      "anticipation"
+    ],
+    [
+      "ship",
+      2,
+      "anticipation"
+    ],
+    [
+      "attempted",
+      2,
       "anticipation"
     ],
     [
@@ -203,6 +208,11 @@
       "fear"
     ],
     [
+      "death",
+      2,
+      "sadness"
+    ],
+    [
       "shortage",
       2,
       "anger"
@@ -233,14 +243,44 @@
       "anger"
     ],
     [
-      "planning",
-      2,
+      "fatal",
+      1,
+      "anger"
+    ],
+    [
+      "strike",
+      1,
+      "anger"
+    ],
+    [
+      "calls",
+      1,
       "trust"
     ],
     [
-      "power",
-      2,
-      "anticipation"
+      "fever",
+      1,
+      "fear"
+    ],
+    [
+      "crew",
+      1,
+      "trust"
+    ],
+    [
+      "stint",
+      1,
+      "fear"
+    ],
+    [
+      "football",
+      1,
+      "joy"
+    ],
+    [
+      "suicides",
+      1,
+      "anger"
     ],
     [
       "grave",
@@ -256,16 +296,6 @@
       "reckless",
       1,
       "anger"
-    ],
-    [
-      "fatal",
-      1,
-      "anger"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
     ],
     [
       "unsafe",
@@ -286,6 +316,11 @@
       "approve",
       1,
       "joy"
+    ],
+    [
+      "powers",
+      1,
+      "anticipation"
     ],
     [
       "parliament",
@@ -341,51 +376,16 @@
       "lottery",
       1,
       "anticipation"
-    ],
-    [
-      "deported",
-      1,
-      "fear"
-    ],
-    [
-      "childhood",
-      1,
-      "joy"
-    ],
-    [
-      "marriage",
-      1,
-      "joy"
-    ],
-    [
-      "arrives",
-      1,
-      "anticipation"
-    ],
-    [
-      "ship",
-      1,
-      "anticipation"
-    ],
-    [
-      "plagued",
-      1,
-      "fear"
-    ],
-    [
-      "deteriorating",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 51,
-    "fear": 74,
+    "fear": 76,
     "surprise": 10,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 103,
-    "anticipation": 33
+    "anger": 98,
+    "anticipation": 34
   }
 }
