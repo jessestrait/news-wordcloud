@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:37:42.879Z",
+  "generated_at": "2026-09-02T12:52:45.059Z",
   "article_count": 50,
   "top_words": [
     [
@@ -163,6 +163,11 @@
       "trust"
     ],
     [
+      "result",
+      2,
+      "anticipation"
+    ],
+    [
       "food",
       2,
       "joy"
@@ -233,11 +238,6 @@
       "anger"
     ],
     [
-      "change",
-      2,
-      "fear"
-    ],
-    [
       "disruption",
       2,
       "anger"
@@ -303,14 +303,9 @@
       "joy"
     ],
     [
-      "approve",
+      "opponents",
       1,
-      "joy"
-    ],
-    [
-      "powers",
-      1,
-      "anticipation"
+      "anger"
     ],
     [
       "parliament",
@@ -376,16 +371,21 @@
       "childhood",
       1,
       "joy"
+    ],
+    [
+      "marriage",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 22,
     "trust": 51,
-    "fear": 76,
+    "fear": 75,
     "surprise": 10,
     "sadness": 15,
     "disgust": 5,
-    "anger": 107,
+    "anger": 108,
     "anticipation": 31
   }
 }
