@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-02T11:52:18.020Z",
+  "generated_at": "2026-09-02T12:07:20.742Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
-      13,
+      "iran",
+      14,
       "anger"
     ],
     [
-      "iran",
-      12,
+      "attack",
+      13,
       "anger"
     ],
     [
@@ -19,13 +19,18 @@
     ],
     [
       "war",
-      9,
+      11,
       "anger"
     ],
     [
       "flood",
       9,
       "fear"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "blame",
@@ -39,11 +44,6 @@
     ],
     [
       "bases",
-      4,
-      "trust"
-    ],
-    [
-      "people",
       4,
       "trust"
     ],
@@ -66,6 +66,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "hostilities",
+      3,
+      "anger"
     ],
     [
       "warning",
@@ -123,19 +128,29 @@
       "anticipation"
     ],
     [
-      "arrive",
+      "crime",
       2,
-      "anticipation"
+      "anger"
     ],
     [
-      "ship",
+      "missile",
       2,
-      "anticipation"
+      "fear"
     ],
     [
-      "attempted",
+      "blast",
       2,
-      "anticipation"
+      "anger"
+    ],
+    [
+      "kills",
+      2,
+      "fear"
+    ],
+    [
+      "fears",
+      2,
+      "anger"
     ],
     [
       "incident",
@@ -171,11 +186,6 @@
       "exchange",
       2,
       "trust"
-    ],
-    [
-      "hostilities",
-      2,
-      "anger"
     ],
     [
       "warns",
@@ -243,9 +253,9 @@
       "anger"
     ],
     [
-      "fatal",
+      "american",
       1,
-      "anger"
+      "sadness"
     ],
     [
       "strike",
@@ -258,27 +268,7 @@
       "trust"
     ],
     [
-      "fever",
-      1,
-      "fear"
-    ],
-    [
-      "crew",
-      1,
-      "trust"
-    ],
-    [
-      "stint",
-      1,
-      "fear"
-    ],
-    [
-      "football",
-      1,
-      "joy"
-    ],
-    [
-      "suicides",
+      "injures",
       1,
       "anger"
     ],
@@ -376,16 +366,26 @@
       "lottery",
       1,
       "anticipation"
+    ],
+    [
+      "deported",
+      1,
+      "fear"
+    ],
+    [
+      "childhood",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 23,
     "trust": 51,
     "fear": 76,
     "surprise": 10,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 5,
-    "anger": 98,
-    "anticipation": 34
+    "anger": 107,
+    "anticipation": 31
   }
 }
