@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:36:30.890Z",
+  "generated_at": "2026-09-02T10:51:32.881Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "iran",
-      13,
+      12,
       "anger"
     ],
     [
@@ -76,11 +76,6 @@
       "killed",
       3,
       "fear"
-    ],
-    [
-      "hostilities",
-      3,
-      "anger"
     ],
     [
       "warning",
@@ -173,6 +168,11 @@
       "trust"
     ],
     [
+      "hostilities",
+      2,
+      "anger"
+    ],
+    [
       "warns",
       2,
       "fear"
@@ -253,6 +253,16 @@
       "sadness"
     ],
     [
+      "fatal",
+      1,
+      "anger"
+    ],
+    [
+      "calls",
+      1,
+      "trust"
+    ],
+    [
       "unsafe",
       1,
       "fear"
@@ -266,11 +276,6 @@
       "growing",
       1,
       "joy"
-    ],
-    [
-      "fatal",
-      1,
-      "anger"
     ],
     [
       "approve",
@@ -371,21 +376,16 @@
       "poor",
       1,
       "sadness"
-    ],
-    [
-      "morgues",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 51,
+    "trust": 52,
     "fear": 74,
     "surprise": 10,
     "sadness": 15,
     "disgust": 5,
-    "anger": 105,
+    "anger": 103,
     "anticipation": 33
   }
 }
