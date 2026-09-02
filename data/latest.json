@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:41:15.761Z",
+  "generated_at": "2026-09-02T18:56:18.312Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "anger"
     ],
     [
-      "war",
-      11,
+      "attack",
+      12,
       "anger"
     ],
     [
-      "attack",
+      "war",
       11,
       "anger"
     ],
@@ -23,14 +23,14 @@
       "fear"
     ],
     [
-      "trump",
-      8,
-      "anger"
-    ],
-    [
       "flood",
       8,
       "fear"
+    ],
+    [
+      "trump",
+      7,
+      "anger"
     ],
     [
       "airport",
@@ -48,24 +48,14 @@
       "trust"
     ],
     [
-      "strait",
-      4,
-      "fear"
-    ],
-    [
       "disaster",
       4,
       "anger"
     ],
     [
-      "hormuz",
+      "president",
       3,
-      "fear"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
+      "trust"
     ],
     [
       "found",
@@ -108,14 +98,19 @@
       "trust"
     ],
     [
-      "crime",
+      "middle",
+      2,
+      "sadness"
+    ],
+    [
+      "accused",
       2,
       "anger"
     ],
     [
-      "middle",
+      "crime",
       2,
-      "sadness"
+      "anger"
     ],
     [
       "global",
@@ -136,11 +131,6 @@
       "damage",
       2,
       "anger"
-    ],
-    [
-      "president",
-      2,
-      "trust"
     ],
     [
       "incident",
@@ -248,7 +238,22 @@
       "anger"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
       "fire",
+      2,
+      "fear"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "hormuz",
       2,
       "fear"
     ],
@@ -273,24 +278,24 @@
       "anger"
     ],
     [
-      "strike",
+      "bombing",
       1,
       "anger"
     ],
     [
-      "suggests",
+      "prepared",
       1,
       "trust"
     ],
     [
-      "never",
+      "foe",
       1,
-      "fear"
+      "anger"
     ],
     [
-      "child",
+      "strike",
       1,
-      "joy"
+      "anger"
     ],
     [
       "nations",
@@ -371,21 +376,16 @@
       "restricted",
       1,
       "sadness"
-    ],
-    [
-      "treacherous",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 52,
-    "fear": 71,
+    "joy": 22,
+    "trust": 53,
+    "fear": 66,
     "surprise": 12,
     "sadness": 12,
     "disgust": 3,
-    "anger": 114,
+    "anger": 117,
     "anticipation": 33
   }
 }
