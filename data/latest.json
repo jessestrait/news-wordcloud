@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:45:46.275Z",
+  "generated_at": "2026-09-02T00:00:48.864Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,6 +113,11 @@
       "anger"
     ],
     [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
       "confirmed",
       2,
       "trust"
@@ -136,11 +141,6 @@
       "rocket",
       2,
       "anger"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
     ],
     [
       "risk",
@@ -233,6 +233,21 @@
       "trust"
     ],
     [
+      "government",
+      1,
+      "fear"
+    ],
+    [
+      "dangerous",
+      1,
+      "fear"
+    ],
+    [
+      "damage",
+      1,
+      "anger"
+    ],
+    [
       "begun",
       1,
       "anticipation"
@@ -276,21 +291,6 @@
       "believed",
       1,
       "trust"
-    ],
-    [
-      "government",
-      1,
-      "fear"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
     ],
     [
       "police",
