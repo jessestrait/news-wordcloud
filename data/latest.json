@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T16:55:15.731Z",
+  "generated_at": "2026-09-02T17:10:18.418Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      14,
+      13,
       "anger"
     ],
     [
@@ -13,13 +13,13 @@
       "fear"
     ],
     [
-      "war",
+      "attack",
       11,
       "anger"
     ],
     [
-      "attack",
-      10,
+      "war",
+      11,
       "anger"
     ],
     [
@@ -29,8 +29,13 @@
     ],
     [
       "trump",
-      8,
+      7,
       "anger"
+    ],
+    [
+      "airport",
+      5,
+      "anticipation"
     ],
     [
       "happened",
@@ -48,17 +53,12 @@
       "fear"
     ],
     [
-      "airport",
-      4,
-      "anticipation"
-    ],
-    [
       "disaster",
       4,
       "anger"
     ],
     [
-      "hit",
+      "criticism",
       3,
       "anger"
     ],
@@ -71,6 +71,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "blames",
@@ -98,11 +103,6 @@
       "trust"
     ],
     [
-      "economy",
-      3,
-      "trust"
-    ],
-    [
       "rescue",
       3,
       "surprise"
@@ -113,14 +113,9 @@
       "trust"
     ],
     [
-      "expected",
-      3,
-      "anticipation"
-    ],
-    [
-      "damage",
+      "government",
       2,
-      "anger"
+      "fear"
     ],
     [
       "crime",
@@ -131,6 +126,11 @@
       "middle",
       2,
       "sadness"
+    ],
+    [
+      "damage",
+      2,
+      "anger"
     ],
     [
       "president",
@@ -178,11 +178,6 @@
       "surprise"
     ],
     [
-      "criticism",
-      2,
-      "anger"
-    ],
-    [
       "victims",
       2,
       "anger"
@@ -196,11 +191,6 @@
       "result",
       2,
       "anticipation"
-    ],
-    [
-      "food",
-      2,
-      "joy"
     ],
     [
       "threaten",
@@ -238,6 +228,11 @@
       "fear"
     ],
     [
+      "economy",
+      2,
+      "trust"
+    ],
+    [
       "deadly",
       2,
       "anger"
@@ -273,17 +268,12 @@
       "anger"
     ],
     [
-      "suffering",
-      1,
-      "fear"
+      "expected",
+      2,
+      "anticipation"
     ],
     [
-      "restricted",
-      1,
-      "sadness"
-    ],
-    [
-      "treacherous",
+      "hostile",
       1,
       "anger"
     ],
@@ -306,6 +296,21 @@
       "child",
       1,
       "joy"
+    ],
+    [
+      "suffering",
+      1,
+      "fear"
+    ],
+    [
+      "restricted",
+      1,
+      "sadness"
+    ],
+    [
+      "treacherous",
+      1,
+      "anger"
     ],
     [
       "unsafe",
@@ -371,21 +376,16 @@
       "denies",
       1,
       "anger"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 53,
-    "fear": 75,
+    "joy": 22,
+    "trust": 52,
+    "fear": 73,
     "surprise": 13,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 4,
-    "anger": 109,
-    "anticipation": 33
+    "anger": 110,
+    "anticipation": 32
   }
 }
