@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-02T14:23:32.523Z",
+  "generated_at": "2026-09-02T14:38:34.761Z",
   "article_count": 50,
   "top_words": [
-    [
-      "iran",
-      14,
-      "anger"
-    ],
     [
       "attack",
       14,
       "anger"
     ],
     [
-      "missing",
-      12,
-      "fear"
+      "iran",
+      14,
+      "anger"
     ],
     [
       "war",
@@ -23,9 +18,19 @@
       "anger"
     ],
     [
+      "missing",
+      11,
+      "fear"
+    ],
+    [
       "flood",
       7,
       "fear"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "people",
@@ -48,14 +53,14 @@
       "anticipation"
     ],
     [
-      "trump",
+      "blame",
       4,
       "anger"
     ],
     [
-      "blame",
-      4,
-      "anger"
+      "president",
+      3,
+      "trust"
     ],
     [
       "middle",
@@ -76,11 +81,6 @@
       "hope",
       3,
       "surprise"
-    ],
-    [
-      "family",
-      3,
-      "joy"
     ],
     [
       "relatives",
@@ -123,14 +123,14 @@
       "anticipation"
     ],
     [
-      "crime",
-      2,
-      "anger"
-    ],
-    [
       "incident",
       2,
       "surprise"
+    ],
+    [
+      "crime",
+      2,
+      "anger"
     ],
     [
       "victims",
@@ -163,11 +163,6 @@
       "anger"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "result",
       2,
       "anticipation"
@@ -186,6 +181,11 @@
       "john",
       2,
       "disgust"
+    ],
+    [
+      "family",
+      2,
+      "joy"
     ],
     [
       "found",
@@ -243,6 +243,36 @@
       "anger"
     ],
     [
+      "reckless",
+      1,
+      "anger"
+    ],
+    [
+      "unsafe",
+      1,
+      "fear"
+    ],
+    [
+      "account",
+      1,
+      "trust"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "deference",
+      1,
+      "trust"
+    ],
+    [
+      "fits",
+      1,
+      "anger"
+    ],
+    [
       "american",
       1,
       "sadness"
@@ -256,11 +286,6 @@
       "calls",
       1,
       "trust"
-    ],
-    [
-      "reckless",
-      1,
-      "anger"
     ],
     [
       "shooting",
@@ -308,21 +333,6 @@
       "anger"
     ],
     [
-      "unsafe",
-      1,
-      "fear"
-    ],
-    [
-      "account",
-      1,
-      "trust"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
       "opponents",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "supplies",
       1,
       "fear"
-    ],
-    [
-      "general",
-      1,
-      "trust"
-    ],
-    [
-      "deported",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 49,
-    "fear": 71,
+    "joy": 22,
+    "trust": 51,
+    "fear": 69,
     "surprise": 10,
     "sadness": 14,
     "disgust": 5,
-    "anger": 110,
-    "anticipation": 30
+    "anger": 108,
+    "anticipation": 28
   }
 }
