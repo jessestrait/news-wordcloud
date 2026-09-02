@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:08:57.845Z",
+  "generated_at": "2026-09-02T15:24:00.339Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,14 +53,9 @@
       "anticipation"
     ],
     [
-      "blames",
+      "hostilities",
       3,
       "anger"
-    ],
-    [
-      "incident",
-      3,
-      "surprise"
     ],
     [
       "bases",
@@ -78,14 +73,19 @@
       "fear"
     ],
     [
+      "blames",
+      3,
+      "anger"
+    ],
+    [
+      "incident",
+      3,
+      "surprise"
+    ],
+    [
       "president",
       3,
       "trust"
-    ],
-    [
-      "hostilities",
-      3,
-      "anger"
     ],
     [
       "hope",
@@ -118,14 +118,34 @@
       "anticipation"
     ],
     [
-      "brother",
-      2,
-      "trust"
-    ],
-    [
       "crime",
       2,
       "anger"
+    ],
+    [
+      "missile",
+      2,
+      "fear"
+    ],
+    [
+      "blast",
+      2,
+      "anger"
+    ],
+    [
+      "kills",
+      2,
+      "fear"
+    ],
+    [
+      "fears",
+      2,
+      "anger"
+    ],
+    [
+      "brother",
+      2,
+      "trust"
     ],
     [
       "ally",
@@ -156,26 +176,6 @@
       "case",
       2,
       "fear"
-    ],
-    [
-      "missile",
-      2,
-      "fear"
-    ],
-    [
-      "blast",
-      2,
-      "anger"
-    ],
-    [
-      "kills",
-      2,
-      "fear"
-    ],
-    [
-      "fears",
-      2,
-      "anger"
     ],
     [
       "result",
@@ -263,6 +263,26 @@
       "anger"
     ],
     [
+      "injures",
+      1,
+      "anger"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "strike",
+      1,
+      "anger"
+    ],
+    [
+      "calls",
+      1,
+      "trust"
+    ],
+    [
       "attempts",
       1,
       "anticipation"
@@ -291,21 +311,6 @@
       "wait",
       1,
       "anticipation"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "strike",
-      1,
-      "anger"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
     ],
     [
       "unsafe",
@@ -371,11 +376,6 @@
       "fulfilled",
       1,
       "joy"
-    ],
-    [
-      "unjust",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
