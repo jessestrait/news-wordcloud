@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:11:43.612Z",
+  "generated_at": "2026-09-02T19:26:46.204Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,26 +298,6 @@
       "anger"
     ],
     [
-      "nations",
-      1,
-      "trust"
-    ],
-    [
-      "share",
-      1,
-      "joy"
-    ],
-    [
-      "history",
-      1,
-      "trust"
-    ],
-    [
-      "shared",
-      1,
-      "joy"
-    ],
-    [
       "bombing",
       1,
       "anger"
@@ -336,6 +316,26 @@
       "strike",
       1,
       "anger"
+    ],
+    [
+      "nations",
+      1,
+      "trust"
+    ],
+    [
+      "share",
+      1,
+      "joy"
+    ],
+    [
+      "history",
+      1,
+      "trust"
+    ],
+    [
+      "shared",
+      1,
+      "joy"
     ],
     [
       "seeking",
