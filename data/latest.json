@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T09:51:07.052Z",
+  "generated_at": "2026-09-02T10:06:09.569Z",
   "article_count": 50,
   "top_words": [
     [
@@ -248,11 +248,6 @@
       "joy"
     ],
     [
-      "fatal",
-      1,
-      "anger"
-    ],
-    [
       "policy",
       1,
       "trust"
@@ -264,6 +259,11 @@
     ],
     [
       "terrorism",
+      1,
+      "anger"
+    ],
+    [
+      "fatal",
       1,
       "anger"
     ],
@@ -301,11 +301,6 @@
       "global",
       1,
       "anticipation"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
     ],
     [
       "supplies",
@@ -376,12 +371,17 @@
       "fill",
       1,
       "trust"
+    ],
+    [
+      "mother",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 53,
-    "fear": 78,
+    "fear": 77,
     "surprise": 9,
     "sadness": 14,
     "disgust": 5,
