@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-02T14:38:53.091Z",
+  "generated_at": "2026-09-02T14:53:55.626Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
-      14,
+      "iran",
+      13,
       "anger"
     ],
     [
-      "iran",
-      14,
+      "attack",
+      12,
       "anger"
     ],
     [
@@ -29,17 +29,12 @@
     ],
     [
       "trump",
-      5,
+      6,
       "anger"
     ],
     [
       "people",
       5,
-      "trust"
-    ],
-    [
-      "bases",
-      4,
       "trust"
     ],
     [
@@ -58,7 +53,7 @@
       "anger"
     ],
     [
-      "president",
+      "bases",
       3,
       "trust"
     ],
@@ -71,6 +66,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "hostilities",
@@ -108,19 +108,14 @@
       "trust"
     ],
     [
-      "strait",
-      3,
-      "fear"
-    ],
-    [
-      "hormuz",
-      3,
-      "fear"
-    ],
-    [
       "expected",
       3,
       "anticipation"
+    ],
+    [
+      "crime",
+      2,
+      "anger"
     ],
     [
       "incident",
@@ -128,7 +123,22 @@
       "surprise"
     ],
     [
-      "crime",
+      "ally",
+      2,
+      "trust"
+    ],
+    [
+      "defends",
+      2,
+      "fear"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
+      "criticism",
       2,
       "anger"
     ],
@@ -218,9 +228,14 @@
       "fear"
     ],
     [
-      "rocket",
+      "strait",
       2,
-      "anger"
+      "fear"
+    ],
+    [
+      "hormuz",
+      2,
+      "fear"
     ],
     [
       "death",
@@ -243,9 +258,44 @@
       "anger"
     ],
     [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "strike",
+      1,
+      "anger"
+    ],
+    [
+      "calls",
+      1,
+      "trust"
+    ],
+    [
       "reckless",
       1,
       "anger"
+    ],
+    [
+      "diplomacy",
+      1,
+      "trust"
+    ],
+    [
+      "chris",
+      1,
+      "trust"
+    ],
+    [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "seeking",
+      1,
+      "anticipation"
     ],
     [
       "unsafe",
@@ -273,21 +323,6 @@
       "anger"
     ],
     [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "strike",
-      1,
-      "anger"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
-    ],
-    [
       "shooting",
       1,
       "anger"
@@ -303,19 +338,9 @@
       "anger"
     ],
     [
-      "defends",
-      1,
-      "fear"
-    ],
-    [
       "fulfilled",
       1,
       "joy"
-    ],
-    [
-      "criticism",
-      1,
-      "anger"
     ],
     [
       "unjust",
@@ -351,41 +376,16 @@
       "book",
       1,
       "trust"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "cop",
-      1,
-      "fear"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
-    ],
-    [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "supplies",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 51,
-    "fear": 69,
-    "surprise": 10,
+    "trust": 53,
+    "fear": 67,
+    "surprise": 12,
     "sadness": 14,
     "disgust": 5,
-    "anger": 108,
-    "anticipation": 28
+    "anger": 106,
+    "anticipation": 29
   }
 }
