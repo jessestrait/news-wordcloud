@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T04:48:33.915Z",
+  "generated_at": "2026-09-02T05:03:35.817Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "anticipation"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "relatives",
       5,
       "trust"
@@ -48,16 +53,6 @@
       "sadness"
     ],
     [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "rescue",
       4,
       "surprise"
@@ -66,6 +61,11 @@
       "continue",
       4,
       "trust"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "blame",
@@ -208,11 +208,6 @@
       "anger"
     ],
     [
-      "outrage",
-      2,
-      "anger"
-    ],
-    [
       "world",
       2,
       "trust"
@@ -238,9 +233,19 @@
       "surprise"
     ],
     [
-      "deal",
-      2,
-      "surprise"
+      "disabled",
+      1,
+      "fear"
+    ],
+    [
+      "unable",
+      1,
+      "sadness"
+    ],
+    [
+      "lottery",
+      1,
+      "anticipation"
     ],
     [
       "arrives",
@@ -371,21 +376,16 @@
       "missiles",
       1,
       "fear"
-    ],
-    [
-      "vanished",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 51,
+    "trust": 52,
     "fear": 85,
-    "surprise": 14,
-    "sadness": 16,
+    "surprise": 12,
+    "sadness": 17,
     "disgust": 4,
-    "anger": 104,
-    "anticipation": 32
+    "anger": 101,
+    "anticipation": 33
   }
 }
