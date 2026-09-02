@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:40:46.570Z",
+  "generated_at": "2026-09-02T17:55:49.042Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "anger"
     ],
     [
+      "found",
+      3,
+      "joy"
+    ],
+    [
       "hormuz",
       3,
       "fear"
@@ -68,11 +73,6 @@
       "fear"
     ],
     [
-      "criticism",
-      3,
-      "anger"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -81,11 +81,6 @@
       "blames",
       3,
       "anger"
-    ],
-    [
-      "incident",
-      3,
-      "surprise"
     ],
     [
       "hostilities",
@@ -113,6 +108,16 @@
       "trust"
     ],
     [
+      "global",
+      2,
+      "anticipation"
+    ],
+    [
+      "outrage",
+      2,
+      "anger"
+    ],
+    [
       "crime",
       2,
       "anger"
@@ -136,6 +141,11 @@
       "president",
       2,
       "trust"
+    ],
+    [
+      "incident",
+      2,
+      "surprise"
     ],
     [
       "missile",
@@ -178,6 +188,11 @@
       "surprise"
     ],
     [
+      "criticism",
+      2,
+      "anger"
+    ],
+    [
       "victims",
       2,
       "anger"
@@ -204,11 +219,6 @@
     ],
     [
       "family",
-      2,
-      "joy"
-    ],
-    [
-      "found",
       2,
       "joy"
     ],
@@ -268,9 +278,24 @@
       "anger"
     ],
     [
-      "expected",
-      2,
-      "anticipation"
+      "guilty",
+      1,
+      "anger"
+    ],
+    [
+      "involvement",
+      1,
+      "anger"
+    ],
+    [
+      "murder",
+      1,
+      "anger"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
     ],
     [
       "strike",
@@ -293,9 +318,9 @@
       "joy"
     ],
     [
-      "hostile",
+      "exposes",
       1,
-      "anger"
+      "fear"
     ],
     [
       "suffering",
@@ -351,41 +376,16 @@
       "terrorism",
       1,
       "anger"
-    ],
-    [
-      "injures",
-      1,
-      "anger"
-    ],
-    [
-      "wait",
-      1,
-      "anticipation"
-    ],
-    [
-      "diplomacy",
-      1,
-      "trust"
-    ],
-    [
-      "chris",
-      1,
-      "trust"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 52,
     "fear": 73,
-    "surprise": 13,
+    "surprise": 12,
     "sadness": 12,
     "disgust": 4,
-    "anger": 110,
+    "anger": 113,
     "anticipation": 32
   }
 }
