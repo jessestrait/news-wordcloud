@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:31:40.346Z",
+  "generated_at": "2026-09-02T01:46:43.021Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,6 +118,11 @@
       "anger"
     ],
     [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
       "exchange",
       2,
       "trust"
@@ -126,11 +131,6 @@
       "hostilities",
       2,
       "anger"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
     ],
     [
       "confirmed",
@@ -238,6 +238,21 @@
       "fear"
     ],
     [
+      "government",
+      1,
+      "fear"
+    ],
+    [
+      "dangerous",
+      1,
+      "fear"
+    ],
+    [
+      "damage",
+      1,
+      "anger"
+    ],
+    [
       "fears",
       1,
       "anger"
@@ -269,21 +284,6 @@
     ],
     [
       "limited",
-      1,
-      "anger"
-    ],
-    [
-      "government",
-      1,
-      "fear"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
-      "damage",
       1,
       "anger"
     ],
