@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:24:23.405Z",
+  "generated_at": "2026-09-02T15:39:25.946Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,19 @@
       "anger"
     ],
     [
-      "attack",
-      11,
-      "anger"
-    ],
-    [
       "missing",
       11,
       "fear"
+    ],
+    [
+      "attack",
+      10,
+      "anger"
+    ],
+    [
+      "trump",
+      8,
+      "anger"
     ],
     [
       "flood",
@@ -28,13 +33,18 @@
       "fear"
     ],
     [
-      "trump",
-      6,
-      "anger"
-    ],
-    [
       "people",
       5,
+      "trust"
+    ],
+    [
+      "strait",
+      4,
+      "fear"
+    ],
+    [
+      "president",
+      4,
       "trust"
     ],
     [
@@ -53,22 +63,7 @@
       "anticipation"
     ],
     [
-      "hostilities",
-      3,
-      "anger"
-    ],
-    [
-      "bases",
-      3,
-      "trust"
-    ],
-    [
-      "middle",
-      3,
-      "sadness"
-    ],
-    [
-      "killed",
+      "hormuz",
       3,
       "fear"
     ],
@@ -83,9 +78,9 @@
       "surprise"
     ],
     [
-      "president",
+      "hostilities",
       3,
-      "trust"
+      "anger"
     ],
     [
       "hope",
@@ -121,6 +116,11 @@
       "crime",
       2,
       "anger"
+    ],
+    [
+      "middle",
+      2,
+      "sadness"
     ],
     [
       "missile",
@@ -213,6 +213,11 @@
       "trust"
     ],
     [
+      "bases",
+      2,
+      "trust"
+    ],
+    [
       "warns",
       2,
       "fear"
@@ -223,22 +228,17 @@
       "anger"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
       "fire",
       2,
       "fear"
     ],
     [
       "fired",
-      2,
-      "fear"
-    ],
-    [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
-      "hormuz",
       2,
       "fear"
     ],
@@ -263,24 +263,14 @@
       "anger"
     ],
     [
-      "injures",
+      "suggests",
       1,
-      "anger"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
+      "trust"
     ],
     [
       "strike",
       1,
       "anger"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
     ],
     [
       "attempts",
@@ -304,6 +294,11 @@
     ],
     [
       "terrorism",
+      1,
+      "anger"
+    ],
+    [
+      "injures",
       1,
       "anger"
     ],
@@ -376,16 +371,21 @@
       "fulfilled",
       1,
       "joy"
+    ],
+    [
+      "unjust",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 56,
-    "fear": 68,
+    "fear": 70,
     "surprise": 13,
-    "sadness": 14,
+    "sadness": 12,
     "disgust": 5,
-    "anger": 104,
+    "anger": 105,
     "anticipation": 32
   }
 }
