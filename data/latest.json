@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:26:46.204Z",
+  "generated_at": "2026-09-02T19:41:48.540Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,14 +53,14 @@
       "anger"
     ],
     [
-      "found",
-      3,
-      "joy"
-    ],
-    [
       "president",
       3,
       "trust"
+    ],
+    [
+      "found",
+      3,
+      "joy"
     ],
     [
       "hit",
@@ -98,16 +98,6 @@
       "trust"
     ],
     [
-      "global",
-      2,
-      "anticipation"
-    ],
-    [
-      "outrage",
-      2,
-      "anger"
-    ],
-    [
       "middle",
       2,
       "sadness"
@@ -119,6 +109,16 @@
     ],
     [
       "crime",
+      2,
+      "anger"
+    ],
+    [
+      "global",
+      2,
+      "anticipation"
+    ],
+    [
+      "outrage",
       2,
       "anger"
     ],
@@ -278,26 +278,6 @@
       "anger"
     ],
     [
-      "guilty",
-      1,
-      "anger"
-    ],
-    [
-      "involvement",
-      1,
-      "anger"
-    ],
-    [
-      "murder",
-      1,
-      "anger"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
       "bombing",
       1,
       "anger"
@@ -314,6 +294,26 @@
     ],
     [
       "strike",
+      1,
+      "anger"
+    ],
+    [
+      "guilty",
+      1,
+      "anger"
+    ],
+    [
+      "involvement",
+      1,
+      "anger"
+    ],
+    [
+      "murder",
+      1,
+      "anger"
+    ],
+    [
+      "killing",
       1,
       "anger"
     ],
