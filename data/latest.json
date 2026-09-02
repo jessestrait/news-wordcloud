@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:53:55.626Z",
+  "generated_at": "2026-09-02T15:08:57.845Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "anger"
     ],
     [
-      "attack",
-      12,
+      "war",
+      11,
       "anger"
     ],
     [
-      "war",
+      "attack",
       11,
       "anger"
     ],
@@ -38,6 +38,11 @@
       "trust"
     ],
     [
+      "airport",
+      4,
+      "anticipation"
+    ],
+    [
       "disaster",
       4,
       "anger"
@@ -48,9 +53,14 @@
       "anticipation"
     ],
     [
-      "blame",
-      4,
+      "blames",
+      3,
       "anger"
+    ],
+    [
+      "incident",
+      3,
+      "surprise"
     ],
     [
       "bases",
@@ -88,11 +98,6 @@
       "trust"
     ],
     [
-      "airport",
-      3,
-      "anticipation"
-    ],
-    [
       "economy",
       3,
       "trust"
@@ -113,14 +118,14 @@
       "anticipation"
     ],
     [
+      "brother",
+      2,
+      "trust"
+    ],
+    [
       "crime",
       2,
       "anger"
-    ],
-    [
-      "incident",
-      2,
-      "surprise"
     ],
     [
       "ally",
@@ -258,6 +263,36 @@
       "anger"
     ],
     [
+      "attempts",
+      1,
+      "anticipation"
+    ],
+    [
+      "intimidate",
+      1,
+      "fear"
+    ],
+    [
+      "policy",
+      1,
+      "trust"
+    ],
+    [
+      "sponsored",
+      1,
+      "trust"
+    ],
+    [
+      "terrorism",
+      1,
+      "anger"
+    ],
+    [
+      "wait",
+      1,
+      "anticipation"
+    ],
+    [
       "american",
       1,
       "sadness"
@@ -273,9 +308,19 @@
       "trust"
     ],
     [
-      "reckless",
+      "unsafe",
       1,
-      "anger"
+      "fear"
+    ],
+    [
+      "account",
+      1,
+      "trust"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
     ],
     [
       "diplomacy",
@@ -293,24 +338,9 @@
       "anger"
     ],
     [
-      "seeking",
+      "seeks",
       1,
       "anticipation"
-    ],
-    [
-      "unsafe",
-      1,
-      "fear"
-    ],
-    [
-      "account",
-      1,
-      "trust"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
     ],
     [
       "deference",
@@ -346,46 +376,16 @@
       "unjust",
       1,
       "anger"
-    ],
-    [
-      "deportation",
-      1,
-      "anger"
-    ],
-    [
-      "injures",
-      1,
-      "anger"
-    ],
-    [
-      "opponents",
-      1,
-      "anger"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
-    ],
-    [
-      "book",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 53,
-    "fear": 67,
-    "surprise": 12,
+    "trust": 56,
+    "fear": 68,
+    "surprise": 13,
     "sadness": 14,
     "disgust": 5,
-    "anger": 106,
-    "anticipation": 29
+    "anger": 104,
+    "anticipation": 32
   }
 }
