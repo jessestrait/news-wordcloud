@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:44:57.714Z",
+  "generated_at": "2026-09-03T17:59:59.888Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,24 +13,29 @@
       "anger"
     ],
     [
-      "attack",
-      8,
-      "anger"
-    ],
-    [
       "flood",
       7,
       "fear"
     ],
     [
-      "war",
+      "attack",
       7,
+      "anger"
+    ],
+    [
+      "war",
+      6,
       "anger"
     ],
     [
       "people",
       6,
       "trust"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "defend",
@@ -41,11 +46,6 @@
       "president",
       5,
       "trust"
-    ],
-    [
-      "government",
-      4,
-      "fear"
     ],
     [
       "continue",
@@ -83,11 +83,6 @@
       "joy"
     ],
     [
-      "airport",
-      4,
-      "anticipation"
-    ],
-    [
       "fear",
       4,
       "anger"
@@ -118,9 +113,29 @@
       "anger"
     ],
     [
+      "airport",
+      3,
+      "anticipation"
+    ],
+    [
       "hope",
       3,
       "surprise"
+    ],
+    [
+      "protesters",
+      2,
+      "anger"
+    ],
+    [
+      "share",
+      2,
+      "joy"
+    ],
+    [
+      "denies",
+      2,
+      "anger"
     ],
     [
       "murder",
@@ -188,11 +203,6 @@
       "anger"
     ],
     [
-      "warns",
-      2,
-      "fear"
-    ],
-    [
       "clash",
       2,
       "anger"
@@ -256,6 +266,11 @@
       "hostilities",
       2,
       "anger"
+    ],
+    [
+      "advanced",
+      1,
+      "fear"
     ],
     [
       "sabotage",
@@ -361,31 +376,16 @@
       "hired",
       1,
       "joy"
-    ],
-    [
-      "wait",
-      1,
-      "anticipation"
-    ],
-    [
-      "crossed",
-      1,
-      "anger"
-    ],
-    [
-      "commerce",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 57,
+    "trust": 56,
     "fear": 63,
     "surprise": 12,
     "sadness": 11,
     "disgust": 2,
-    "anger": 117,
-    "anticipation": 25
+    "anger": 116,
+    "anticipation": 24
   }
 }
