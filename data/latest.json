@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T00:29:31.122Z",
+  "generated_at": "2026-09-03T00:44:33.906Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "attack",
-      12,
-      "anger"
-    ],
-    [
       "missing",
       12,
       "fear"
+    ],
+    [
+      "attack",
+      12,
+      "anger"
     ],
     [
       "war",
@@ -51,6 +51,16 @@
       "disaster",
       4,
       "anger"
+    ],
+    [
+      "rescue",
+      3,
+      "surprise"
+    ],
+    [
+      "continue",
+      3,
+      "trust"
     ],
     [
       "president",
@@ -93,14 +103,9 @@
       "trust"
     ],
     [
-      "rescue",
-      3,
-      "surprise"
-    ],
-    [
-      "continue",
-      3,
-      "trust"
+      "deadly",
+      2,
+      "anger"
     ],
     [
       "middle",
@@ -226,11 +231,6 @@
       "economy",
       2,
       "trust"
-    ],
-    [
-      "deadly",
-      2,
-      "anger"
     ],
     [
       "killed",
