@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:20:06.953Z",
+  "generated_at": "2026-09-03T10:35:09.564Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,11 +78,6 @@
       "anger"
     ],
     [
-      "case",
-      3,
-      "fear"
-    ],
-    [
       "criticism",
       3,
       "anger"
@@ -153,6 +148,11 @@
       "fear"
     ],
     [
+      "case",
+      2,
+      "fear"
+    ],
+    [
       "food",
       2,
       "joy"
@@ -176,11 +176,6 @@
       "global",
       2,
       "anticipation"
-    ],
-    [
-      "outrage",
-      2,
-      "anger"
     ],
     [
       "hit",
@@ -253,9 +248,29 @@
       "anger"
     ],
     [
-      "disruption",
-      2,
+      "anguish",
+      1,
       "anger"
+    ],
+    [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "enforced",
+      1,
+      "anger"
+    ],
+    [
+      "broke",
+      1,
+      "fear"
+    ],
+    [
+      "hearts",
+      1,
+      "joy"
     ],
     [
       "sue",
@@ -338,6 +353,11 @@
       "anger"
     ],
     [
+      "outrage",
+      1,
+      "anger"
+    ],
+    [
       "gun",
       1,
       "anger"
@@ -356,31 +376,11 @@
       "share",
       1,
       "joy"
-    ],
-    [
-      "history",
-      1,
-      "trust"
-    ],
-    [
-      "shared",
-      1,
-      "joy"
-    ],
-    [
-      "seeking",
-      1,
-      "anticipation"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 52,
+    "joy": 25,
+    "trust": 51,
     "fear": 68,
     "surprise": 15,
     "sadness": 12,
