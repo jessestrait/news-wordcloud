@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-03T13:42:04.735Z",
+  "generated_at": "2026-09-03T13:57:07.452Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      12,
+      "anger"
+    ],
     [
       "missing",
       11,
       "fear"
-    ],
-    [
-      "attack",
-      11,
-      "anger"
     ],
     [
       "flood",
@@ -31,6 +31,11 @@
       "war",
       6,
       "anger"
+    ],
+    [
+      "continue",
+      5,
+      "trust"
     ],
     [
       "happened",
@@ -58,17 +63,7 @@
       "anger"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "president",
-      4,
-      "trust"
-    ],
-    [
-      "continue",
       4,
       "trust"
     ],
@@ -86,6 +81,11 @@
       "victims",
       3,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "criticism",
@@ -151,11 +151,6 @@
       "policy",
       2,
       "trust"
-    ],
-    [
-      "shooting",
-      2,
-      "anger"
     ],
     [
       "risk",
@@ -343,17 +338,12 @@
       "joy"
     ],
     [
-      "sue",
-      1,
-      "anger"
-    ],
-    [
       "massacre",
       1,
       "anger"
     ],
     [
-      "infamous",
+      "demand",
       1,
       "anger"
     ],
@@ -376,16 +366,26 @@
       "fall",
       1,
       "sadness"
+    ],
+    [
+      "ill",
+      1,
+      "anger"
+    ],
+    [
+      "flagship",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 54,
-    "fear": 72,
+    "trust": 55,
+    "fear": 71,
     "surprise": 15,
     "sadness": 12,
     "disgust": 2,
-    "anger": 108,
+    "anger": 107,
     "anticipation": 25
   }
 }
