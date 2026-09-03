@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-03T17:14:31.451Z",
+  "generated_at": "2026-09-03T17:14:53.649Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      10,
+      9,
       "fear"
     ],
     [
@@ -29,7 +29,7 @@
     ],
     [
       "people",
-      7,
+      6,
       "trust"
     ],
     [
@@ -41,11 +41,6 @@
       "president",
       5,
       "trust"
-    ],
-    [
-      "disaster",
-      4,
-      "anger"
     ],
     [
       "government",
@@ -98,6 +93,11 @@
       "anger"
     ],
     [
+      "disaster",
+      3,
+      "anger"
+    ],
+    [
       "global",
       3,
       "anticipation"
@@ -121,6 +121,26 @@
       "hope",
       3,
       "surprise"
+    ],
+    [
+      "murder",
+      2,
+      "anger"
+    ],
+    [
+      "involvement",
+      2,
+      "anger"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
+    ],
+    [
+      "challenges",
+      2,
+      "anger"
     ],
     [
       "letters",
@@ -238,6 +258,16 @@
       "anger"
     ],
     [
+      "sabotage",
+      1,
+      "anger"
+    ],
+    [
+      "leading",
+      1,
+      "trust"
+    ],
+    [
       "injustices",
       1,
       "anger"
@@ -346,46 +376,16 @@
       "commerce",
       1,
       "trust"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "mind",
-      1,
-      "trust"
-    ],
-    [
-      "challenges",
-      1,
-      "anger"
-    ],
-    [
-      "poll",
-      1,
-      "trust"
-    ],
-    [
-      "collapse",
-      1,
-      "fear"
-    ],
-    [
-      "disgraceful",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 58,
-    "fear": 64,
+    "trust": 57,
+    "fear": 63,
     "surprise": 12,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 2,
-    "anger": 114,
+    "anger": 117,
     "anticipation": 25
   }
 }
