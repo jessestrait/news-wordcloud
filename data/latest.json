@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:41:30.747Z",
+  "generated_at": "2026-09-03T12:56:33.567Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,13 +23,13 @@
       "trust"
     ],
     [
-      "war",
+      "iran",
       7,
       "anger"
     ],
     [
-      "iran",
-      7,
+      "war",
+      6,
       "anger"
     ],
     [
@@ -43,14 +43,19 @@
       "anticipation"
     ],
     [
-      "deportation",
+      "defend",
       4,
-      "anger"
+      "fear"
     ],
     [
       "incident",
       4,
       "surprise"
+    ],
+    [
+      "deportation",
+      4,
+      "anger"
     ],
     [
       "government",
@@ -63,19 +68,19 @@
       "trust"
     ],
     [
+      "continue",
+      4,
+      "trust"
+    ],
+    [
       "found",
       4,
       "joy"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
-      "defends",
+      "hit",
       3,
-      "fear"
+      "anger"
     ],
     [
       "victims",
@@ -93,9 +98,9 @@
       "surprise"
     ],
     [
-      "continue",
+      "trump",
       3,
-      "trust"
+      "anger"
     ],
     [
       "blames",
@@ -128,9 +133,14 @@
       "sadness"
     ],
     [
-      "promises",
+      "police",
       2,
-      "joy"
+      "fear"
+    ],
+    [
+      "opponents",
+      2,
+      "anger"
     ],
     [
       "change",
@@ -141,16 +151,6 @@
       "policy",
       2,
       "trust"
-    ],
-    [
-      "general",
-      2,
-      "trust"
-    ],
-    [
-      "opponents",
-      2,
-      "anger"
     ],
     [
       "shooting",
@@ -193,11 +193,6 @@
       "anticipation"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "crime",
       2,
       "anger"
@@ -233,11 +228,6 @@
       "surprise"
     ],
     [
-      "result",
-      2,
-      "anticipation"
-    ],
-    [
       "warns",
       2,
       "fear"
@@ -253,7 +243,32 @@
       "anger"
     ],
     [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
+      "cross",
+      1,
+      "anger"
+    ],
+    [
+      "crossed",
+      1,
+      "anger"
+    ],
+    [
       "humanity",
+      1,
+      "joy"
+    ],
+    [
+      "opposition",
+      1,
+      "anger"
+    ],
+    [
+      "pledges",
       1,
       "joy"
     ],
@@ -271,16 +286,6 @@
       "plight",
       1,
       "fear"
-    ],
-    [
-      "looms",
-      1,
-      "fear"
-    ],
-    [
-      "crossed",
-      1,
-      "anger"
     ],
     [
       "fleeing",
@@ -371,21 +376,16 @@
       "ill",
       1,
       "anger"
-    ],
-    [
-      "flagship",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 54,
-    "fear": 71,
+    "fear": 72,
     "surprise": 15,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 2,
     "anger": 108,
-    "anticipation": 26
+    "anticipation": 25
   }
 }
