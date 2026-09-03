@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T21:01:49.230Z",
+  "generated_at": "2026-09-03T21:16:51.453Z",
   "article_count": 50,
   "top_words": [
     [
-      "missing",
+      "iran",
       9,
-      "fear"
+      "anger"
     ],
     [
       "people",
@@ -13,14 +13,19 @@
       "trust"
     ],
     [
-      "flood",
+      "missing",
       7,
       "fear"
     ],
     [
-      "iran",
-      7,
-      "anger"
+      "president",
+      6,
+      "trust"
+    ],
+    [
+      "flood",
+      6,
+      "fear"
     ],
     [
       "war",
@@ -34,11 +39,6 @@
     ],
     [
       "continue",
-      5,
-      "trust"
-    ],
-    [
-      "president",
       5,
       "trust"
     ],
@@ -78,19 +78,14 @@
       "anger"
     ],
     [
-      "found",
-      4,
-      "joy"
-    ],
-    [
       "bank",
       3,
       "trust"
     ],
     [
-      "disaster",
+      "death",
       3,
-      "anger"
+      "sadness"
     ],
     [
       "global",
@@ -153,12 +148,12 @@
       "anger"
     ],
     [
-      "death",
+      "challenges",
       2,
-      "sadness"
+      "anger"
     ],
     [
-      "challenges",
+      "disaster",
       2,
       "anger"
     ],
@@ -248,6 +243,11 @@
       "sadness"
     ],
     [
+      "found",
+      2,
+      "joy"
+    ],
+    [
       "killing",
       2,
       "anger"
@@ -271,6 +271,26 @@
       "hope",
       2,
       "surprise"
+    ],
+    [
+      "reacts",
+      1,
+      "anger"
+    ],
+    [
+      "killed",
+      1,
+      "fear"
+    ],
+    [
+      "happen",
+      1,
+      "anticipation"
+    ],
+    [
+      "responsible",
+      1,
+      "trust"
     ],
     [
       "escort",
@@ -356,36 +376,16 @@
       "obituary",
       1,
       "sadness"
-    ],
-    [
-      "invasion",
-      1,
-      "anger"
-    ],
-    [
-      "doubt",
-      1,
-      "fear"
-    ],
-    [
-      "official",
-      1,
-      "trust"
-    ],
-    [
-      "reliance",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 58,
-    "fear": 60,
+    "joy": 26,
+    "trust": 60,
+    "fear": 58,
     "surprise": 11,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 2,
-    "anger": 108,
+    "anger": 110,
     "anticipation": 24
   }
 }
