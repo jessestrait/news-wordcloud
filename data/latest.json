@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:57:07.452Z",
+  "generated_at": "2026-09-03T14:12:10.336Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "anger"
     ],
     [
+      "happened",
+      6,
+      "anticipation"
+    ],
+    [
       "war",
       6,
       "anger"
@@ -36,11 +41,6 @@
       "continue",
       5,
       "trust"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
     ],
     [
       "airport",
@@ -131,6 +131,11 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "clash",
+      2,
+      "anger"
     ],
     [
       "opponents",
@@ -236,6 +241,21 @@
       "shortage",
       2,
       "anger"
+    ],
+    [
+      "disgraceful",
+      1,
+      "anger"
+    ],
+    [
+      "military",
+      1,
+      "fear"
+    ],
+    [
+      "intelligence",
+      1,
+      "fear"
     ],
     [
       "crossed",
@@ -356,36 +376,16 @@
       "teachers",
       1,
       "trust"
-    ],
-    [
-      "poisoning",
-      1,
-      "disgust"
-    ],
-    [
-      "fall",
-      1,
-      "sadness"
-    ],
-    [
-      "ill",
-      1,
-      "anger"
-    ],
-    [
-      "flagship",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 55,
-    "fear": 71,
-    "surprise": 15,
+    "joy": 23,
+    "trust": 52,
+    "fear": 72,
+    "surprise": 14,
     "sadness": 12,
     "disgust": 2,
-    "anger": 107,
-    "anticipation": 25
+    "anger": 109,
+    "anticipation": 26
   }
 }
