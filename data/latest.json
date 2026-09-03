@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:33:20.210Z",
+  "generated_at": "2026-09-03T07:48:22.353Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,11 +93,6 @@
       "trust"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "blames",
       3,
       "anger"
@@ -168,7 +163,7 @@
       "anger"
     ],
     [
-      "damage",
+      "hit",
       2,
       "anger"
     ],
@@ -376,6 +371,11 @@
       "suffering",
       1,
       "fear"
+    ],
+    [
+      "treacherous",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 54,
     "fear": 67,
     "surprise": 14,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 4,
-    "anger": 102,
+    "anger": 100,
     "anticipation": 29
   }
 }
