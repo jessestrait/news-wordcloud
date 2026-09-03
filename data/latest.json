@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T14:43:06.589Z",
+  "generated_at": "2026-09-03T14:58:08.833Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "happened",
+      6,
+      "anticipation"
+    ],
+    [
       "flood",
       6,
       "fear"
@@ -36,11 +41,6 @@
       "president",
       5,
       "trust"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
     ],
     [
       "airport",
@@ -253,6 +253,16 @@
       "trust"
     ],
     [
+      "leader",
+      1,
+      "trust"
+    ],
+    [
+      "challenges",
+      1,
+      "anger"
+    ],
+    [
       "polls",
       1,
       "trust"
@@ -366,26 +376,16 @@
       "broke",
       1,
       "fear"
-    ],
-    [
-      "hearts",
-      1,
-      "joy"
-    ],
-    [
-      "massacre",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 55,
+    "trust": 56,
     "fear": 68,
     "surprise": 13,
     "sadness": 10,
     "disgust": 2,
-    "anger": 115,
-    "anticipation": 25
+    "anger": 116,
+    "anticipation": 26
   }
 }
