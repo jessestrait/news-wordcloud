@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T23:33:02.997Z",
+  "generated_at": "2026-09-03T23:48:04.904Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "missing",
       7,
       "fear"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "president",
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
-      "defend",
-      5,
-      "fear"
-    ],
-    [
       "continue",
       5,
       "trust"
+    ],
+    [
+      "defend",
+      5,
+      "fear"
     ],
     [
       "government",
@@ -273,6 +273,16 @@
       "surprise"
     ],
     [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
       "surveillance",
       1,
       "fear"
@@ -366,16 +376,6 @@
       "negotiate",
       1,
       "trust"
-    ],
-    [
-      "resources",
-      1,
-      "joy"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
