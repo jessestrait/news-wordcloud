@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T08:03:45.514Z",
+  "generated_at": "2026-09-03T08:18:48.102Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "anticipation"
     ],
     [
+      "incident",
+      4,
+      "surprise"
+    ],
+    [
       "found",
       4,
       "joy"
@@ -51,6 +56,11 @@
       "trump",
       4,
       "anger"
+    ],
+    [
+      "defends",
+      3,
+      "fear"
     ],
     [
       "deportation",
@@ -96,11 +106,6 @@
       "blames",
       3,
       "anger"
-    ],
-    [
-      "incident",
-      3,
-      "surprise"
     ],
     [
       "fear",
@@ -191,11 +196,6 @@
       "ally",
       2,
       "trust"
-    ],
-    [
-      "defends",
-      2,
-      "fear"
     ],
     [
       "deal",
@@ -381,8 +381,8 @@
   "emotion_totals": {
     "joy": 26,
     "trust": 54,
-    "fear": 67,
-    "surprise": 14,
+    "fear": 68,
+    "surprise": 15,
     "sadness": 13,
     "disgust": 4,
     "anger": 100,
