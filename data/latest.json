@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:36:10.212Z",
+  "generated_at": "2026-09-03T12:41:30.747Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,16 +13,6 @@
       "anger"
     ],
     [
-      "war",
-      8,
-      "anger"
-    ],
-    [
-      "iran",
-      8,
-      "anger"
-    ],
-    [
       "flood",
       8,
       "fear"
@@ -33,6 +23,16 @@
       "trust"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
+      "iran",
+      7,
+      "anger"
+    ],
+    [
       "happened",
       5,
       "anticipation"
@@ -41,6 +41,11 @@
       "airport",
       5,
       "anticipation"
+    ],
+    [
+      "deportation",
+      4,
+      "anger"
     ],
     [
       "incident",
@@ -74,11 +79,6 @@
     ],
     [
       "victims",
-      3,
-      "anger"
-    ],
-    [
-      "deportation",
       3,
       "anger"
     ],
@@ -126,6 +126,26 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "promises",
+      2,
+      "joy"
+    ],
+    [
+      "change",
+      2,
+      "fear"
+    ],
+    [
+      "policy",
+      2,
+      "trust"
+    ],
+    [
+      "general",
+      2,
+      "trust"
     ],
     [
       "opponents",
@@ -233,6 +253,31 @@
       "anger"
     ],
     [
+      "humanity",
+      1,
+      "joy"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
+      "plight",
+      1,
+      "fear"
+    ],
+    [
+      "looms",
+      1,
+      "fear"
+    ],
+    [
       "crossed",
       1,
       "anger"
@@ -261,11 +306,6 @@
       "sponsors",
       1,
       "trust"
-    ],
-    [
-      "change",
-      1,
-      "fear"
     ],
     [
       "anguish",
@@ -336,56 +376,16 @@
       "flagship",
       1,
       "trust"
-    ],
-    [
-      "grows",
-      1,
-      "joy"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "shameful",
-      1,
-      "sadness"
-    ],
-    [
-      "furious",
-      1,
-      "anger"
-    ],
-    [
-      "shoot",
-      1,
-      "anger"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 52,
-    "fear": 68,
+    "joy": 24,
+    "trust": 54,
+    "fear": 71,
     "surprise": 15,
     "sadness": 13,
     "disgust": 2,
-    "anger": 109,
-    "anticipation": 27
+    "anger": 108,
+    "anticipation": 26
   }
 }
