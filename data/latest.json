@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T03:16:00.982Z",
+  "generated_at": "2026-09-03T03:31:03.897Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,7 +24,7 @@
     ],
     [
       "flood",
-      9,
+      8,
       "fear"
     ],
     [
@@ -48,6 +48,11 @@
       "anticipation"
     ],
     [
+      "found",
+      4,
+      "joy"
+    ],
+    [
       "disaster",
       4,
       "anger"
@@ -66,11 +71,6 @@
       "president",
       3,
       "trust"
-    ],
-    [
-      "found",
-      3,
-      "joy"
     ],
     [
       "hit",
@@ -103,6 +103,11 @@
       "trust"
     ],
     [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
       "deadly",
       2,
       "anger"
@@ -119,6 +124,11 @@
     ],
     [
       "crime",
+      2,
+      "anger"
+    ],
+    [
+      "killing",
       2,
       "anger"
     ],
@@ -253,11 +263,6 @@
       "fear"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "shortage",
       2,
       "anger"
@@ -308,9 +313,14 @@
       "anger"
     ],
     [
-      "killing",
+      "gun",
       1,
       "anger"
+    ],
+    [
+      "mystery",
+      1,
+      "surprise"
     ],
     [
       "nations",
@@ -366,26 +376,16 @@
       "suffering",
       1,
       "fear"
-    ],
-    [
-      "restricted",
-      1,
-      "sadness"
-    ],
-    [
-      "treacherous",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 24,
     "trust": 53,
-    "fear": 69,
-    "surprise": 12,
-    "sadness": 12,
+    "fear": 68,
+    "surprise": 13,
+    "sadness": 13,
     "disgust": 3,
     "anger": 118,
-    "anticipation": 32
+    "anticipation": 31
   }
 }
