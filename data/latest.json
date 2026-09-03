@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:56:33.567Z",
+  "generated_at": "2026-09-03T13:11:36.337Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,11 +273,6 @@
       "joy"
     ],
     [
-      "power",
-      1,
-      "anticipation"
-    ],
-    [
       "law",
       1,
       "trust"
@@ -286,6 +281,16 @@
       "plight",
       1,
       "fear"
+    ],
+    [
+      "gains",
+      1,
+      "joy"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
     ],
     [
       "fleeing",
@@ -371,15 +376,10 @@
       "fall",
       1,
       "sadness"
-    ],
-    [
-      "ill",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 54,
     "fear": 72,
     "surprise": 15,
