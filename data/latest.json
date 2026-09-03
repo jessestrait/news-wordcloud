@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-09-03T14:58:27.357Z",
+  "generated_at": "2026-09-03T15:13:30.137Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
-      11,
-      "anger"
-    ],
-    [
-      "attack",
       11,
       "anger"
     ],
@@ -18,8 +13,13 @@
       "fear"
     ],
     [
+      "attack",
+      10,
+      "anger"
+    ],
+    [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -33,8 +33,8 @@
       "anticipation"
     ],
     [
-      "flood",
-      6,
+      "defend",
+      5,
       "fear"
     ],
     [
@@ -46,6 +46,11 @@
       "airport",
       5,
       "anticipation"
+    ],
+    [
+      "flood",
+      5,
+      "fear"
     ],
     [
       "incident",
@@ -61,11 +66,6 @@
       "hit",
       4,
       "anger"
-    ],
-    [
-      "defend",
-      4,
-      "fear"
     ],
     [
       "deportation",
@@ -93,11 +93,6 @@
       "trust"
     ],
     [
-      "victims",
-      3,
-      "anger"
-    ],
-    [
       "government",
       3,
       "fear"
@@ -123,9 +118,24 @@
       "anger"
     ],
     [
-      "relatives",
-      3,
-      "trust"
+      "court",
+      2,
+      "anger"
+    ],
+    [
+      "family",
+      2,
+      "joy"
+    ],
+    [
+      "loved",
+      2,
+      "joy"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "opponents",
@@ -143,11 +153,6 @@
       "anger"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "change",
       2,
       "fear"
@@ -156,6 +161,11 @@
       "policy",
       2,
       "trust"
+    ],
+    [
+      "victims",
+      2,
+      "anger"
     ],
     [
       "case",
@@ -178,16 +188,6 @@
       "sadness"
     ],
     [
-      "rescue",
-      2,
-      "surprise"
-    ],
-    [
-      "deadly",
-      2,
-      "anger"
-    ],
-    [
       "killing",
       2,
       "anger"
@@ -196,11 +196,6 @@
       "global",
       2,
       "anticipation"
-    ],
-    [
-      "deaths",
-      2,
-      "sadness"
     ],
     [
       "crime",
@@ -228,9 +223,39 @@
       "surprise"
     ],
     [
-      "killed",
-      2,
+      "invasion",
+      1,
+      "anger"
+    ],
+    [
+      "doubt",
+      1,
       "fear"
+    ],
+    [
+      "reliance",
+      1,
+      "trust"
+    ],
+    [
+      "readiness",
+      1,
+      "joy"
+    ],
+    [
+      "auditors",
+      1,
+      "fear"
+    ],
+    [
+      "hired",
+      1,
+      "joy"
+    ],
+    [
+      "wait",
+      1,
+      "anticipation"
     ],
     [
       "crossed",
@@ -263,7 +288,7 @@
       "anger"
     ],
     [
-      "polls",
+      "poll",
       1,
       "trust"
     ],
@@ -284,6 +309,11 @@
     ],
     [
       "intelligence",
+      1,
+      "fear"
+    ],
+    [
+      "police",
       1,
       "fear"
     ],
@@ -346,46 +376,16 @@
       "home",
       1,
       "joy"
-    ],
-    [
-      "abused",
-      1,
-      "anger"
-    ],
-    [
-      "sponsors",
-      1,
-      "trust"
-    ],
-    [
-      "anguish",
-      1,
-      "anger"
-    ],
-    [
-      "court",
-      1,
-      "anger"
-    ],
-    [
-      "enforced",
-      1,
-      "anger"
-    ],
-    [
-      "broke",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 56,
+    "joy": 28,
+    "trust": 55,
     "fear": 68,
-    "surprise": 13,
-    "sadness": 10,
+    "surprise": 12,
+    "sadness": 9,
     "disgust": 2,
-    "anger": 116,
+    "anger": 112,
     "anticipation": 26
   }
 }
