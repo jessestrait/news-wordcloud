@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:28:32.822Z",
+  "generated_at": "2026-09-03T15:43:35.553Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "attack",
-      10,
+      9,
       "anger"
     ],
     [
@@ -28,24 +28,19 @@
       "trust"
     ],
     [
-      "happened",
-      6,
-      "anticipation"
-    ],
-    [
       "defend",
       5,
       "fear"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "president",
       5,
       "trust"
-    ],
-    [
-      "airport",
-      5,
-      "anticipation"
     ],
     [
       "flood",
@@ -83,6 +78,11 @@
       "joy"
     ],
     [
+      "airport",
+      4,
+      "anticipation"
+    ],
+    [
       "fear",
       4,
       "anger"
@@ -99,11 +99,6 @@
     ],
     [
       "criticism",
-      3,
-      "anger"
-    ],
-    [
-      "blames",
       3,
       "anger"
     ],
@@ -198,6 +193,11 @@
       "anticipation"
     ],
     [
+      "blames",
+      2,
+      "anger"
+    ],
+    [
       "crime",
       2,
       "anger"
@@ -221,6 +221,11 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
     ],
     [
       "invasion",
@@ -371,21 +376,16 @@
       "fleeing",
       1,
       "fear"
-    ],
-    [
-      "slavery",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 56,
+    "trust": 55,
     "fear": 68,
     "surprise": 12,
-    "sadness": 9,
+    "sadness": 10,
     "disgust": 2,
-    "anger": 112,
-    "anticipation": 26
+    "anger": 110,
+    "anticipation": 23
   }
 }
