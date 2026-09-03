@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-09-03T16:44:26.420Z",
+  "generated_at": "2026-09-03T16:59:28.979Z",
   "article_count": 50,
   "top_words": [
-    [
-      "iran",
-      11,
-      "anger"
-    ],
     [
       "missing",
       10,
       "fear"
     ],
     [
-      "attack",
+      "iran",
       9,
       "anger"
+    ],
+    [
+      "attack",
+      8,
+      "anger"
+    ],
+    [
+      "flood",
+      7,
+      "fear"
     ],
     [
       "war",
@@ -33,19 +38,14 @@
       "fear"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "president",
       5,
       "trust"
     ],
     [
-      "flood",
-      5,
-      "fear"
+      "disaster",
+      4,
+      "anger"
     ],
     [
       "government",
@@ -56,6 +56,11 @@
       "continue",
       4,
       "trust"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "incident",
@@ -93,6 +98,11 @@
       "anger"
     ],
     [
+      "global",
+      3,
+      "anticipation"
+    ],
+    [
       "deal",
       3,
       "surprise"
@@ -113,9 +123,14 @@
       "surprise"
     ],
     [
-      "disaster",
-      3,
-      "anger"
+      "letters",
+      2,
+      "anticipation"
+    ],
+    [
+      "life",
+      2,
+      "joy"
     ],
     [
       "opposition",
@@ -203,11 +218,6 @@
       "anger"
     ],
     [
-      "global",
-      2,
-      "anticipation"
-    ],
-    [
       "blames",
       2,
       "anger"
@@ -216,11 +226,6 @@
       "crime",
       2,
       "anger"
-    ],
-    [
-      "missile",
-      2,
-      "fear"
     ],
     [
       "blast",
@@ -233,7 +238,42 @@
       "anger"
     ],
     [
+      "injustices",
+      1,
+      "anger"
+    ],
+    [
+      "loss",
+      1,
+      "anger"
+    ],
+    [
+      "stark",
+      1,
+      "trust"
+    ],
+    [
+      "disruption",
+      1,
+      "anger"
+    ],
+    [
+      "unequal",
+      1,
+      "anger"
+    ],
+    [
+      "laureate",
+      1,
+      "trust"
+    ],
+    [
       "illegitimate",
+      1,
+      "anger"
+    ],
+    [
+      "strike",
       1,
       "anger"
     ],
@@ -336,56 +376,16 @@
       "disgraceful",
       1,
       "anger"
-    ],
-    [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "intelligence",
-      1,
-      "fear"
-    ],
-    [
-      "police",
-      1,
-      "fear"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
-    ],
-    [
-      "cross",
-      1,
-      "anger"
-    ],
-    [
-      "humanity",
-      1,
-      "joy"
-    ],
-    [
-      "pledges",
-      1,
-      "joy"
-    ],
-    [
-      "law",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 57,
-    "fear": 68,
+    "joy": 30,
+    "trust": 58,
+    "fear": 64,
     "surprise": 12,
     "sadness": 10,
     "disgust": 2,
-    "anger": 112,
-    "anticipation": 24
+    "anger": 114,
+    "anticipation": 25
   }
 }
