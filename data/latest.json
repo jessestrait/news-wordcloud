@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T08:49:09.920Z",
+  "generated_at": "2026-09-03T09:04:12.524Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,6 +133,11 @@
       "sadness"
     ],
     [
+      "opponents",
+      2,
+      "anger"
+    ],
+    [
       "risk",
       2,
       "fear"
@@ -246,11 +251,6 @@
       "crossed",
       1,
       "anger"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
     ],
     [
       "teachers",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 54,
+    "trust": 53,
     "fear": 68,
     "surprise": 15,
     "sadness": 13,
     "disgust": 4,
-    "anger": 100,
+    "anger": 101,
     "anticipation": 29
   }
 }
