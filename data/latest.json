@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:04:40.244Z",
+  "generated_at": "2026-09-03T10:19:42.660Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "anticipation"
     ],
     [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "incident",
       4,
       "surprise"
@@ -58,6 +63,11 @@
       "anger"
     ],
     [
+      "victims",
+      3,
+      "anger"
+    ],
+    [
       "defends",
       3,
       "fear"
@@ -69,11 +79,6 @@
     ],
     [
       "case",
-      3,
-      "fear"
-    ],
-    [
-      "government",
       3,
       "fear"
     ],
@@ -133,6 +138,11 @@
       "sadness"
     ],
     [
+      "shooting",
+      2,
+      "anger"
+    ],
+    [
       "opponents",
       2,
       "anger"
@@ -178,6 +188,11 @@
       "anger"
     ],
     [
+      "crime",
+      2,
+      "anger"
+    ],
+    [
       "missile",
       2,
       "fear"
@@ -206,11 +221,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "victims",
-      2,
-      "anger"
     ],
     [
       "result",
@@ -245,6 +255,26 @@
     [
       "disruption",
       2,
+      "anger"
+    ],
+    [
+      "sue",
+      1,
+      "anger"
+    ],
+    [
+      "massacre",
+      1,
+      "anger"
+    ],
+    [
+      "infamous",
+      1,
+      "anger"
+    ],
+    [
+      "protesters",
+      1,
       "anger"
     ],
     [
@@ -346,46 +376,16 @@
       "plan",
       1,
       "anticipation"
-    ],
-    [
-      "expel",
-      1,
-      "anger"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
-      "exposes",
-      1,
-      "fear"
-    ],
-    [
-      "suffering",
-      1,
-      "fear"
-    ],
-    [
-      "treacherous",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 52,
-    "fear": 67,
+    "fear": 68,
     "surprise": 15,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 3,
-    "anger": 100,
+    "anger": 104,
     "anticipation": 29
   }
 }
