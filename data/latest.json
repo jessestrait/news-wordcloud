@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-09-03T14:13:02.397Z",
+  "generated_at": "2026-09-03T14:28:04.522Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      12,
+      11,
       "anger"
     ],
     [
       "missing",
       11,
       "fear"
+    ],
+    [
+      "iran",
+      9,
+      "anger"
     ],
     [
       "flood",
@@ -21,11 +26,6 @@
       "people",
       7,
       "trust"
-    ],
-    [
-      "iran",
-      7,
-      "anger"
     ],
     [
       "happened",
@@ -53,6 +53,11 @@
       "surprise"
     ],
     [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
       "defend",
       4,
       "fear"
@@ -73,9 +78,19 @@
       "joy"
     ],
     [
-      "hit",
-      3,
+      "fear",
+      4,
       "anger"
+    ],
+    [
+      "bases",
+      3,
+      "trust"
+    ],
+    [
+      "warns",
+      3,
+      "fear"
     ],
     [
       "victims",
@@ -108,11 +123,6 @@
       "anger"
     ],
     [
-      "fear",
-      3,
-      "anger"
-    ],
-    [
       "hope",
       3,
       "surprise"
@@ -133,12 +143,12 @@
       "sadness"
     ],
     [
-      "clash",
+      "opponents",
       2,
       "anger"
     ],
     [
-      "opponents",
+      "clash",
       2,
       "anger"
     ],
@@ -208,19 +218,9 @@
       "anger"
     ],
     [
-      "kills",
-      2,
-      "fear"
-    ],
-    [
       "hostilities",
       2,
       "anger"
-    ],
-    [
-      "ally",
-      2,
-      "trust"
     ],
     [
       "deal",
@@ -228,19 +228,24 @@
       "surprise"
     ],
     [
-      "warns",
-      2,
-      "fear"
-    ],
-    [
       "killed",
       2,
       "fear"
     ],
     [
-      "shortage",
-      2,
+      "polls",
+      1,
+      "trust"
+    ],
+    [
+      "crossed",
+      1,
       "anger"
+    ],
+    [
+      "collapse",
+      1,
+      "fear"
     ],
     [
       "disgraceful",
@@ -256,11 +261,6 @@
       "intelligence",
       1,
       "fear"
-    ],
-    [
-      "crossed",
-      1,
-      "anger"
     ],
     [
       "forces",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 52,
-    "fear": 72,
+    "trust": 54,
+    "fear": 73,
     "surprise": 14,
-    "sadness": 12,
+    "sadness": 10,
     "disgust": 2,
-    "anger": 109,
+    "anger": 111,
     "anticipation": 26
   }
 }
