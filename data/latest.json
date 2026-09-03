@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:13:30.137Z",
+  "generated_at": "2026-09-03T15:28:32.822Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "fear"
     ],
     [
+      "continue",
+      4,
+      "trust"
+    ],
+    [
       "incident",
       4,
       "surprise"
@@ -71,11 +76,6 @@
       "deportation",
       4,
       "anger"
-    ],
-    [
-      "continue",
-      4,
-      "trust"
     ],
     [
       "found",
@@ -233,6 +233,11 @@
       "fear"
     ],
     [
+      "official",
+      1,
+      "trust"
+    ],
+    [
       "reliance",
       1,
       "trust"
@@ -371,16 +376,11 @@
       "slavery",
       1,
       "anger"
-    ],
-    [
-      "home",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 55,
+    "trust": 56,
     "fear": 68,
     "surprise": 12,
     "sadness": 9,
