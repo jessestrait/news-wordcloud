@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:18:18.055Z",
+  "generated_at": "2026-09-03T07:33:20.210Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,11 +10,6 @@
     [
       "attack",
       11,
-      "anger"
-    ],
-    [
-      "war",
-      10,
       "anger"
     ],
     [
@@ -31,6 +26,11 @@
       "people",
       7,
       "trust"
+    ],
+    [
+      "war",
+      7,
+      "anger"
     ],
     [
       "happened",
@@ -233,11 +233,6 @@
       "fear"
     ],
     [
-      "economy",
-      2,
-      "trust"
-    ],
-    [
       "killed",
       2,
       "fear"
@@ -250,6 +245,11 @@
     [
       "disruption",
       2,
+      "anger"
+    ],
+    [
+      "crossed",
+      1,
       "anger"
     ],
     [
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 55,
+    "trust": 54,
     "fear": 67,
     "surprise": 14,
     "sadness": 14,
     "disgust": 4,
-    "anger": 104,
+    "anger": 102,
     "anticipation": 29
   }
 }
