@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:27:01.973Z",
+  "generated_at": "2026-09-03T13:42:04.735Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,14 +43,14 @@
       "anticipation"
     ],
     [
-      "defend",
-      4,
-      "fear"
-    ],
-    [
       "incident",
       4,
       "surprise"
+    ],
+    [
+      "defend",
+      4,
+      "fear"
     ],
     [
       "deportation",
@@ -133,14 +133,14 @@
       "sadness"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "opponents",
       2,
       "anger"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "change",
@@ -243,17 +243,17 @@
       "anger"
     ],
     [
+      "crossed",
+      1,
+      "anger"
+    ],
+    [
       "forces",
       1,
       "anger"
     ],
     [
       "cross",
-      1,
-      "anger"
-    ],
-    [
-      "crossed",
       1,
       "anger"
     ],
