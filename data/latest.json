@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-03T14:28:04.522Z",
+  "generated_at": "2026-09-03T14:43:06.589Z",
   "article_count": 50,
   "top_words": [
+    [
+      "iran",
+      11,
+      "anger"
+    ],
     [
       "attack",
       11,
@@ -9,18 +14,13 @@
     ],
     [
       "missing",
-      11,
+      10,
       "fear"
     ],
     [
-      "iran",
-      9,
-      "anger"
-    ],
-    [
-      "flood",
+      "war",
       8,
-      "fear"
+      "anger"
     ],
     [
       "people",
@@ -28,19 +28,19 @@
       "trust"
     ],
     [
-      "happened",
+      "flood",
       6,
-      "anticipation"
+      "fear"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
-      "continue",
+      "president",
       5,
       "trust"
+    ],
+    [
+      "happened",
+      5,
+      "anticipation"
     ],
     [
       "airport",
@@ -51,6 +51,11 @@
       "incident",
       4,
       "surprise"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "hit",
@@ -68,7 +73,7 @@
       "anger"
     ],
     [
-      "president",
+      "continue",
       4,
       "trust"
     ],
@@ -88,11 +93,6 @@
       "trust"
     ],
     [
-      "warns",
-      3,
-      "fear"
-    ],
-    [
       "victims",
       3,
       "anger"
@@ -104,16 +104,6 @@
     ],
     [
       "criticism",
-      3,
-      "anger"
-    ],
-    [
-      "rescue",
-      3,
-      "surprise"
-    ],
-    [
-      "trump",
       3,
       "anger"
     ],
@@ -138,14 +128,14 @@
       "trust"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "opponents",
       2,
       "anger"
+    ],
+    [
+      "warns",
+      2,
+      "fear"
     ],
     [
       "clash",
@@ -168,11 +158,6 @@
       "trust"
     ],
     [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
       "case",
       2,
       "fear"
@@ -188,6 +173,16 @@
       "trust"
     ],
     [
+      "american",
+      2,
+      "sadness"
+    ],
+    [
+      "rescue",
+      2,
+      "surprise"
+    ],
+    [
       "deadly",
       2,
       "anger"
@@ -201,6 +196,11 @@
       "global",
       2,
       "anticipation"
+    ],
+    [
+      "deaths",
+      2,
+      "sadness"
     ],
     [
       "crime",
@@ -233,14 +233,29 @@
       "fear"
     ],
     [
-      "polls",
+      "crossed",
+      1,
+      "anger"
+    ],
+    [
+      "commerce",
       1,
       "trust"
     ],
     [
-      "crossed",
+      "operation",
       1,
-      "anger"
+      "fear"
+    ],
+    [
+      "mind",
+      1,
+      "trust"
+    ],
+    [
+      "polls",
+      1,
+      "trust"
     ],
     [
       "collapse",
@@ -361,31 +376,16 @@
       "massacre",
       1,
       "anger"
-    ],
-    [
-      "demand",
-      1,
-      "anger"
-    ],
-    [
-      "protesters",
-      1,
-      "anger"
-    ],
-    [
-      "teachers",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 54,
-    "fear": 73,
-    "surprise": 14,
+    "trust": 55,
+    "fear": 68,
+    "surprise": 13,
     "sadness": 10,
     "disgust": 2,
-    "anger": 111,
-    "anticipation": 26
+    "anger": 115,
+    "anticipation": 25
   }
 }
