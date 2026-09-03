@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:05:35.002Z",
+  "generated_at": "2026-09-03T11:20:37.361Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,6 +133,11 @@
       "sadness"
     ],
     [
+      "change",
+      2,
+      "fear"
+    ],
+    [
       "opponents",
       2,
       "anger"
@@ -228,11 +233,6 @@
       "disgust"
     ],
     [
-      "family",
-      2,
-      "joy"
-    ],
-    [
       "warns",
       2,
       "fear"
@@ -246,6 +246,31 @@
       "shortage",
       2,
       "anger"
+    ],
+    [
+      "fleeing",
+      1,
+      "fear"
+    ],
+    [
+      "slavery",
+      1,
+      "anger"
+    ],
+    [
+      "home",
+      1,
+      "joy"
+    ],
+    [
+      "abused",
+      1,
+      "anger"
+    ],
+    [
+      "sponsors",
+      1,
+      "trust"
     ],
     [
       "crossed",
@@ -351,41 +376,16 @@
       "murder",
       1,
       "anger"
-    ],
-    [
-      "outrage",
-      1,
-      "anger"
-    ],
-    [
-      "gun",
-      1,
-      "anger"
-    ],
-    [
-      "mystery",
-      1,
-      "surprise"
-    ],
-    [
-      "nations",
-      1,
-      "trust"
-    ],
-    [
-      "share",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 51,
-    "fear": 68,
+    "joy": 24,
+    "trust": 52,
+    "fear": 69,
     "surprise": 15,
     "sadness": 12,
     "disgust": 3,
-    "anger": 104,
-    "anticipation": 29
+    "anger": 106,
+    "anticipation": 27
   }
 }
