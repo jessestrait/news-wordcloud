@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-03T04:46:43.768Z",
+  "generated_at": "2026-09-03T05:01:45.750Z",
   "article_count": 50,
   "top_words": [
-    [
-      "iran",
-      13,
-      "anger"
-    ],
     [
       "missing",
       12,
       "fear"
     ],
     [
-      "attack",
+      "iran",
       12,
       "anger"
     ],
     [
-      "war",
+      "attack",
       11,
+      "anger"
+    ],
+    [
+      "war",
+      10,
       "anger"
     ],
     [
@@ -28,14 +28,19 @@
       "fear"
     ],
     [
-      "trump",
-      7,
-      "anger"
-    ],
-    [
       "people",
       6,
       "trust"
+    ],
+    [
+      "happened",
+      6,
+      "anticipation"
+    ],
+    [
+      "trump",
+      6,
+      "anger"
     ],
     [
       "airport",
@@ -43,14 +48,14 @@
       "anticipation"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "found",
       4,
       "joy"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
     ],
     [
       "disaster",
@@ -66,16 +71,6 @@
       "continue",
       3,
       "trust"
-    ],
-    [
-      "president",
-      3,
-      "trust"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "blames",
@@ -113,21 +108,6 @@
       "anger"
     ],
     [
-      "middle",
-      2,
-      "sadness"
-    ],
-    [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
-      "crime",
-      2,
-      "anger"
-    ],
-    [
       "killing",
       2,
       "anger"
@@ -151,6 +131,11 @@
       "damage",
       2,
       "anger"
+    ],
+    [
+      "president",
+      2,
+      "trust"
     ],
     [
       "incident",
@@ -278,26 +263,6 @@
       "anger"
     ],
     [
-      "bombing",
-      1,
-      "anger"
-    ],
-    [
-      "prepared",
-      1,
-      "trust"
-    ],
-    [
-      "foe",
-      1,
-      "anger"
-    ],
-    [
-      "strike",
-      1,
-      "anger"
-    ],
-    [
       "guilty",
       1,
       "anger"
@@ -376,16 +341,51 @@
       "suffering",
       1,
       "fear"
+    ],
+    [
+      "restricted",
+      1,
+      "sadness"
+    ],
+    [
+      "treacherous",
+      1,
+      "anger"
+    ],
+    [
+      "unsafe",
+      1,
+      "fear"
+    ],
+    [
+      "account",
+      1,
+      "trust"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "attempts",
+      1,
+      "anticipation"
+    ],
+    [
+      "intimidate",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 53,
+    "trust": 51,
     "fear": 68,
     "surprise": 13,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 3,
-    "anger": 118,
-    "anticipation": 31
+    "anger": 110,
+    "anticipation": 32
   }
 }
