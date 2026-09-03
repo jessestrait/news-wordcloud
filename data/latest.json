@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T19:31:07.179Z",
+  "generated_at": "2026-09-03T19:46:09.411Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,19 +28,14 @@
       "anger"
     ],
     [
-      "attack",
-      6,
-      "anger"
-    ],
-    [
-      "government",
-      5,
-      "fear"
-    ],
-    [
       "defend",
       5,
       "fear"
+    ],
+    [
+      "continue",
+      5,
+      "trust"
     ],
     [
       "president",
@@ -48,9 +43,9 @@
       "trust"
     ],
     [
-      "continue",
+      "government",
       4,
-      "trust"
+      "fear"
     ],
     [
       "happened",
@@ -78,9 +73,19 @@
       "anger"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "found",
       4,
       "joy"
+    ],
+    [
+      "bank",
+      3,
+      "trust"
     ],
     [
       "disaster",
@@ -103,13 +108,13 @@
       "anger"
     ],
     [
-      "airport",
-      3,
-      "anticipation"
-    ],
-    [
       "fear",
       3,
+      "anger"
+    ],
+    [
+      "shoot",
+      2,
       "anger"
     ],
     [
@@ -238,11 +243,6 @@
       "joy"
     ],
     [
-      "bank",
-      2,
-      "trust"
-    ],
-    [
       "american",
       2,
       "sadness"
@@ -253,9 +253,9 @@
       "anger"
     ],
     [
-      "blames",
+      "airport",
       2,
-      "anger"
+      "anticipation"
     ],
     [
       "crime",
@@ -271,6 +271,11 @@
       "hope",
       2,
       "surprise"
+    ],
+    [
+      "escort",
+      1,
+      "trust"
     ],
     [
       "illegal",
@@ -371,21 +376,16 @@
       "reliance",
       1,
       "trust"
-    ],
-    [
-      "readiness",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 55,
-    "fear": 62,
+    "trust": 58,
+    "fear": 60,
     "surprise": 11,
     "sadness": 10,
     "disgust": 2,
-    "anger": 111,
-    "anticipation": 25
+    "anger": 108,
+    "anticipation": 24
   }
 }
