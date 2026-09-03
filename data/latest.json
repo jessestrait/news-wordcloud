@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:14:00.117Z",
+  "generated_at": "2026-09-03T16:29:02.835Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "fear"
     ],
     [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "continue",
       4,
       "trust"
@@ -88,14 +93,14 @@
       "anger"
     ],
     [
+      "deal",
+      3,
+      "surprise"
+    ],
+    [
       "bases",
       3,
       "trust"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "criticism",
@@ -111,6 +116,16 @@
       "disaster",
       3,
       "anger"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
     ],
     [
       "court",
@@ -218,9 +233,24 @@
       "anger"
     ],
     [
-      "deal",
-      2,
-      "surprise"
+      "illegitimate",
+      1,
+      "anger"
+    ],
+    [
+      "interim",
+      1,
+      "anticipation"
+    ],
+    [
+      "negotiate",
+      1,
+      "trust"
+    ],
+    [
+      "resources",
+      1,
+      "joy"
     ],
     [
       "obituary",
@@ -288,11 +318,6 @@
       "trust"
     ],
     [
-      "leader",
-      1,
-      "trust"
-    ],
-    [
       "challenges",
       1,
       "anger"
@@ -343,11 +368,6 @@
       "joy"
     ],
     [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
       "pledges",
       1,
       "joy"
@@ -356,36 +376,16 @@
       "law",
       1,
       "trust"
-    ],
-    [
-      "plight",
-      1,
-      "fear"
-    ],
-    [
-      "gains",
-      1,
-      "joy"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
-    ],
-    [
-      "fleeing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 55,
+    "joy": 29,
+    "trust": 57,
     "fear": 68,
     "surprise": 12,
     "sadness": 10,
     "disgust": 2,
-    "anger": 110,
-    "anticipation": 23
+    "anger": 112,
+    "anticipation": 24
   }
 }
