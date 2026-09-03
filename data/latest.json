@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:35:09.564Z",
+  "generated_at": "2026-09-03T10:50:12.145Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,14 +43,14 @@
       "anticipation"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "incident",
       4,
       "surprise"
+    ],
+    [
+      "government",
+      4,
+      "fear"
     ],
     [
       "found",
@@ -63,14 +63,14 @@
       "anger"
     ],
     [
-      "victims",
-      3,
-      "anger"
-    ],
-    [
       "defends",
       3,
       "fear"
+    ],
+    [
+      "victims",
+      3,
+      "anger"
     ],
     [
       "deportation",
@@ -133,12 +133,12 @@
       "sadness"
     ],
     [
-      "shooting",
+      "opponents",
       2,
       "anger"
     ],
     [
-      "opponents",
+      "shooting",
       2,
       "anger"
     ],
@@ -248,6 +248,11 @@
       "anger"
     ],
     [
+      "crossed",
+      1,
+      "anger"
+    ],
+    [
       "anguish",
       1,
       "anger"
@@ -289,11 +294,6 @@
     ],
     [
       "protesters",
-      1,
-      "anger"
-    ],
-    [
-      "crossed",
       1,
       "anger"
     ],
