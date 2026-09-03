@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-03T06:02:26.691Z",
+  "generated_at": "2026-09-03T06:17:28.637Z",
   "article_count": 50,
   "top_words": [
     [
       "missing",
-      12,
+      11,
       "fear"
     ],
     [
@@ -29,7 +29,7 @@
     ],
     [
       "people",
-      6,
+      7,
       "trust"
     ],
     [
@@ -53,9 +53,14 @@
       "anger"
     ],
     [
-      "disaster",
-      4,
+      "deportation",
+      3,
       "anger"
+    ],
+    [
+      "case",
+      3,
+      "fear"
     ],
     [
       "government",
@@ -113,6 +118,11 @@
       "surprise"
     ],
     [
+      "disaster",
+      3,
+      "anger"
+    ],
+    [
       "relatives",
       3,
       "trust"
@@ -121,6 +131,11 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
     ],
     [
       "food",
@@ -198,11 +213,6 @@
       "anger"
     ],
     [
-      "case",
-      2,
-      "fear"
-    ],
-    [
       "result",
       2,
       "anticipation"
@@ -241,6 +251,11 @@
       "disruption",
       2,
       "anger"
+    ],
+    [
+      "calls",
+      1,
+      "trust"
     ],
     [
       "teachers",
@@ -361,31 +376,16 @@
       "suffering",
       1,
       "fear"
-    ],
-    [
-      "restricted",
-      1,
-      "sadness"
-    ],
-    [
-      "treacherous",
-      1,
-      "anger"
-    ],
-    [
-      "unsafe",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 53,
-    "fear": 66,
+    "joy": 26,
+    "trust": 55,
+    "fear": 67,
     "surprise": 14,
     "sadness": 14,
     "disgust": 4,
-    "anger": 103,
-    "anticipation": 31
+    "anger": 104,
+    "anticipation": 29
   }
 }
