@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-09-04T03:50:33.491Z",
+  "generated_at": "2026-09-04T04:05:36.115Z",
   "article_count": 50,
   "top_words": [
     [
       "iran",
       9,
       "anger"
+    ],
+    [
+      "people",
+      8,
+      "trust"
     ],
     [
       "flood",
@@ -24,11 +29,6 @@
     ],
     [
       "president",
-      7,
-      "trust"
-    ],
-    [
-      "people",
       7,
       "trust"
     ],
@@ -53,6 +53,16 @@
       "fear"
     ],
     [
+      "deportation",
+      5,
+      "anger"
+    ],
+    [
+      "fear",
+      4,
+      "anger"
+    ],
+    [
       "victims",
       4,
       "anger"
@@ -73,14 +83,14 @@
       "surprise"
     ],
     [
-      "deportation",
+      "attack",
       4,
       "anger"
     ],
     [
-      "attack",
-      4,
-      "anger"
+      "food",
+      3,
+      "joy"
     ],
     [
       "found",
@@ -103,22 +113,12 @@
       "sadness"
     ],
     [
-      "global",
-      3,
-      "anticipation"
-    ],
-    [
       "deal",
       3,
       "surprise"
     ],
     [
       "criticism",
-      3,
-      "anger"
-    ],
-    [
-      "fear",
       3,
       "anger"
     ],
@@ -178,6 +178,11 @@
       "joy"
     ],
     [
+      "global",
+      2,
+      "anticipation"
+    ],
+    [
       "opposition",
       2,
       "anger"
@@ -218,6 +223,11 @@
       "anger"
     ],
     [
+      "poll",
+      2,
+      "trust"
+    ],
+    [
       "bases",
       2,
       "trust"
@@ -243,11 +253,6 @@
       "fear"
     ],
     [
-      "food",
-      2,
-      "joy"
-    ],
-    [
       "american",
       2,
       "sadness"
@@ -271,6 +276,21 @@
       "blast",
       2,
       "anger"
+    ],
+    [
+      "victory",
+      1,
+      "joy"
+    ],
+    [
+      "promising",
+      1,
+      "joy"
+    ],
+    [
+      "wild",
+      1,
+      "surprise"
     ],
     [
       "everyone",
@@ -356,36 +376,16 @@
       "rescue",
       1,
       "surprise"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "surveillance",
-      1,
-      "fear"
-    ],
-    [
-      "reacts",
-      1,
-      "anger"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 66,
-    "fear": 54,
-    "surprise": 10,
+    "joy": 31,
+    "trust": 67,
+    "fear": 51,
+    "surprise": 11,
     "sadness": 10,
     "disgust": 1,
-    "anger": 120,
-    "anticipation": 22
+    "anger": 121,
+    "anticipation": 21
   }
 }
