@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-04T04:05:36.115Z",
+  "generated_at": "2026-09-04T04:20:39.034Z",
   "article_count": 50,
   "top_words": [
+    [
+      "flood",
+      9,
+      "fear"
+    ],
     [
       "iran",
       9,
@@ -9,18 +14,8 @@
     ],
     [
       "people",
-      8,
+      7,
       "trust"
-    ],
-    [
-      "flood",
-      8,
-      "fear"
-    ],
-    [
-      "war",
-      8,
-      "anger"
     ],
     [
       "missing",
@@ -31,6 +26,11 @@
       "president",
       7,
       "trust"
+    ],
+    [
+      "war",
+      6,
+      "anger"
     ],
     [
       "hit",
@@ -88,11 +88,6 @@
       "anger"
     ],
     [
-      "food",
-      3,
-      "joy"
-    ],
-    [
       "found",
       3,
       "joy"
@@ -118,9 +113,29 @@
       "surprise"
     ],
     [
+      "official",
+      3,
+      "trust"
+    ],
+    [
       "criticism",
       3,
       "anger"
+    ],
+    [
+      "alive",
+      2,
+      "joy"
+    ],
+    [
+      "disaster",
+      2,
+      "anger"
+    ],
+    [
+      "food",
+      2,
+      "joy"
     ],
     [
       "sponsored",
@@ -189,11 +204,6 @@
     ],
     [
       "leader",
-      2,
-      "trust"
-    ],
-    [
-      "official",
       2,
       "trust"
     ],
@@ -278,6 +288,16 @@
       "anger"
     ],
     [
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "depth",
+      1,
+      "trust"
+    ],
+    [
       "victory",
       1,
       "joy"
@@ -356,36 +376,16 @@
       "true",
       1,
       "joy"
-    ],
-    [
-      "coming",
-      1,
-      "anticipation"
-    ],
-    [
-      "chance",
-      1,
-      "surprise"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 67,
-    "fear": 51,
-    "surprise": 11,
+    "fear": 52,
+    "surprise": 12,
     "sadness": 10,
     "disgust": 1,
-    "anger": 121,
+    "anger": 119,
     "anticipation": 21
   }
 }
