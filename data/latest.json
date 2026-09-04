@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T09:53:46.873Z",
+  "generated_at": "2026-09-04T10:08:49.022Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "trust"
     ],
     [
-      "flood",
-      9,
-      "fear"
-    ],
-    [
       "iran",
       9,
       "anger"
+    ],
+    [
+      "flood",
+      8,
+      "fear"
     ],
     [
       "war",
@@ -24,18 +24,18 @@
     ],
     [
       "people",
-      7,
+      6,
       "trust"
-    ],
-    [
-      "missing",
-      7,
-      "fear"
     ],
     [
       "hit",
       5,
       "anger"
+    ],
+    [
+      "missing",
+      5,
+      "fear"
     ],
     [
       "continue",
@@ -49,11 +49,6 @@
     ],
     [
       "trump",
-      4,
-      "anger"
-    ],
-    [
-      "fear",
       4,
       "anger"
     ],
@@ -73,14 +68,14 @@
       "anger"
     ],
     [
-      "attack",
-      4,
-      "anger"
-    ],
-    [
       "change",
       3,
       "fear"
+    ],
+    [
+      "fear",
+      3,
+      "anger"
     ],
     [
       "found",
@@ -118,14 +113,14 @@
       "trust"
     ],
     [
-      "crime",
+      "attack",
       3,
       "anger"
     ],
     [
-      "brother",
-      2,
-      "trust"
+      "crime",
+      3,
+      "anger"
     ],
     [
       "alive",
@@ -166,6 +161,11 @@
       "attempts",
       2,
       "anticipation"
+    ],
+    [
+      "sabotage",
+      2,
+      "anger"
     ],
     [
       "food",
@@ -248,11 +248,6 @@
       "joy"
     ],
     [
-      "loved",
-      2,
-      "joy"
-    ],
-    [
       "growing",
       2,
       "joy"
@@ -298,6 +293,31 @@
       "anger"
     ],
     [
+      "unprecedented",
+      1,
+      "surprise"
+    ],
+    [
+      "forcibly",
+      1,
+      "anger"
+    ],
+    [
+      "detainees",
+      1,
+      "anger"
+    ],
+    [
+      "refused",
+      1,
+      "sadness"
+    ],
+    [
+      "detention",
+      1,
+      "sadness"
+    ],
+    [
       "indict",
       1,
       "anger"
@@ -321,6 +341,11 @@
       "controversial",
       1,
       "anger"
+    ],
+    [
+      "brother",
+      1,
+      "trust"
     ],
     [
       "alleged",
@@ -351,41 +376,16 @@
       "hormuz",
       1,
       "fear"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "verdict",
-      1,
-      "fear"
-    ],
-    [
-      "struggle",
-      1,
-      "anger"
-    ],
-    [
-      "reporters",
-      1,
-      "trust"
-    ],
-    [
-      "public",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 67,
-    "fear": 56,
-    "surprise": 10,
-    "sadness": 11,
+    "joy": 30,
+    "trust": 65,
+    "fear": 53,
+    "surprise": 12,
+    "sadness": 13,
     "disgust": 1,
-    "anger": 116,
+    "anger": 117,
     "anticipation": 23
   }
 }
