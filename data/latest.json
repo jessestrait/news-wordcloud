@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T12:55:34.674Z",
+  "generated_at": "2026-09-04T13:10:36.828Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,6 +113,11 @@
       "anger"
     ],
     [
+      "alive",
+      2,
+      "joy"
+    ],
+    [
       "crimes",
       2,
       "anger"
@@ -131,11 +136,6 @@
       "believed",
       2,
       "trust"
-    ],
-    [
-      "alive",
-      2,
-      "joy"
     ],
     [
       "seeking",
@@ -298,6 +298,16 @@
       "anticipation"
     ],
     [
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "depth",
+      1,
+      "trust"
+    ],
+    [
       "indict",
       1,
       "anger"
@@ -366,16 +376,6 @@
       "ice",
       1,
       "fear"
-    ],
-    [
-      "horrific",
-      1,
-      "anger"
-    ],
-    [
-      "lawyers",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
