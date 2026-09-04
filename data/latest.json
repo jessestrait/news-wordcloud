@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:11:48.520Z",
+  "generated_at": "2026-09-04T15:26:51.136Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "trust"
     ],
     [
+      "attack",
+      5,
+      "anger"
+    ],
+    [
       "hit",
       5,
       "anger"
@@ -46,11 +51,6 @@
       "killed",
       4,
       "fear"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
     ],
     [
       "missing",
@@ -63,9 +63,19 @@
       "fear"
     ],
     [
+      "sabotage",
+      3,
+      "anger"
+    ],
+    [
       "strike",
       3,
       "anger"
+    ],
+    [
+      "bank",
+      3,
+      "trust"
     ],
     [
       "food",
@@ -76,6 +86,11 @@
       "change",
       3,
       "fear"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "found",
@@ -91,11 +106,6 @@
       "victims",
       3,
       "anger"
-    ],
-    [
-      "bank",
-      3,
-      "trust"
     ],
     [
       "death",
@@ -118,8 +128,18 @@
       "anticipation"
     ],
     [
-      "attack",
-      3,
+      "alleged",
+      2,
+      "fear"
+    ],
+    [
+      "attempt",
+      2,
+      "anticipation"
+    ],
+    [
+      "shoot",
+      2,
       "anger"
     ],
     [
@@ -148,11 +168,6 @@
       "trust"
     ],
     [
-      "seeking",
-      2,
-      "anticipation"
-    ],
-    [
       "military",
       2,
       "fear"
@@ -168,11 +183,6 @@
       "anger"
     ],
     [
-      "sabotage",
-      2,
-      "anger"
-    ],
-    [
       "fear",
       2,
       "anger"
@@ -181,26 +191,6 @@
       "protesters",
       2,
       "anger"
-    ],
-    [
-      "shoot",
-      2,
-      "anger"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
-      "forced",
-      2,
-      "fear"
     ],
     [
       "murder",
@@ -278,6 +268,21 @@
       "anger"
     ],
     [
+      "holiday",
+      1,
+      "joy"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
+      "escort",
+      1,
+      "trust"
+    ],
+    [
       "vote",
       1,
       "anger"
@@ -306,11 +311,6 @@
       "crew",
       1,
       "trust"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
     ],
     [
       "disgust",
@@ -379,7 +379,7 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 33,
     "trust": 64,
     "fear": 47,
     "surprise": 10,
