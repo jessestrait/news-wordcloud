@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:04:20.006Z",
+  "generated_at": "2026-09-04T02:19:22.344Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "war",
       8,
       "anger"
+    ],
+    [
+      "flood",
+      7,
+      "fear"
     ],
     [
       "president",
@@ -28,11 +33,6 @@
       "fear"
     ],
     [
-      "flood",
-      6,
-      "fear"
-    ],
-    [
       "trump",
       5,
       "anger"
@@ -46,6 +46,11 @@
       "defend",
       5,
       "fear"
+    ],
+    [
+      "victims",
+      4,
+      "anger"
     ],
     [
       "government",
@@ -75,6 +80,11 @@
     [
       "attack",
       4,
+      "anger"
+    ],
+    [
+      "challenges",
+      3,
       "anger"
     ],
     [
@@ -153,11 +163,6 @@
       "anger"
     ],
     [
-      "challenges",
-      2,
-      "anger"
-    ],
-    [
       "letters",
       2,
       "anticipation"
@@ -181,11 +186,6 @@
       "court",
       2,
       "anger"
-    ],
-    [
-      "family",
-      2,
-      "joy"
     ],
     [
       "loved",
@@ -221,11 +221,6 @@
       "policy",
       2,
       "trust"
-    ],
-    [
-      "victims",
-      2,
-      "anger"
     ],
     [
       "case",
@@ -265,6 +260,26 @@
     [
       "blast",
       2,
+      "anger"
+    ],
+    [
+      "scientist",
+      1,
+      "trust"
+    ],
+    [
+      "boxing",
+      1,
+      "anger"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
+      "massive",
+      1,
       "anger"
     ],
     [
@@ -361,31 +376,16 @@
       "injustices",
       1,
       "anger"
-    ],
-    [
-      "disaster",
-      1,
-      "anger"
-    ],
-    [
-      "loss",
-      1,
-      "anger"
-    ],
-    [
-      "stark",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 60,
+    "joy": 25,
+    "trust": 61,
     "fear": 53,
     "surprise": 11,
-    "sadness": 9,
-    "disgust": 2,
-    "anger": 113,
+    "sadness": 10,
+    "disgust": 1,
+    "anger": 118,
     "anticipation": 23
   }
 }
