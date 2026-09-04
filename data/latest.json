@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:55:57.534Z",
+  "generated_at": "2026-09-04T14:10:59.605Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "flood",
-      8,
+      7,
       "fear"
     ],
     [
@@ -23,24 +23,19 @@
       "trust"
     ],
     [
-      "hit",
+      "war",
       6,
       "anger"
     ],
     [
-      "war",
-      6,
+      "hit",
+      5,
       "anger"
     ],
     [
       "people",
       5,
       "trust"
-    ],
-    [
-      "missing",
-      5,
-      "fear"
     ],
     [
       "government",
@@ -58,9 +53,19 @@
       "anger"
     ],
     [
+      "missing",
+      4,
+      "fear"
+    ],
+    [
       "strike",
       3,
       "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "change",
@@ -149,11 +154,6 @@
     ],
     [
       "case",
-      2,
-      "fear"
-    ],
-    [
-      "killed",
       2,
       "fear"
     ],
@@ -278,6 +278,11 @@
       "anger"
     ],
     [
+      "alleged",
+      1,
+      "fear"
+    ],
+    [
       "politics",
       1,
       "anger"
@@ -371,21 +376,16 @@
       "readying",
       1,
       "anticipation"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 64,
-    "fear": 49,
+    "fear": 48,
     "surprise": 10,
     "sadness": 14,
     "disgust": 2,
-    "anger": 109,
+    "anger": 107,
     "anticipation": 20
   }
 }
