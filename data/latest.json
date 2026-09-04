@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T05:36:30.849Z",
+  "generated_at": "2026-09-04T05:51:32.723Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,17 +53,7 @@
       "fear"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "fear",
-      4,
-      "anger"
-    ],
-    [
-      "victims",
       4,
       "anger"
     ],
@@ -88,6 +78,11 @@
       "anger"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "change",
       3,
       "fear"
@@ -104,6 +99,11 @@
     ],
     [
       "challenges",
+      3,
+      "anger"
+    ],
+    [
+      "victims",
       3,
       "anger"
     ],
@@ -126,6 +126,26 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "case",
+      2,
+      "fear"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "guilty",
+      2,
+      "anger"
+    ],
+    [
+      "attempts",
+      2,
+      "anticipation"
     ],
     [
       "alive",
@@ -278,6 +298,21 @@
       "anger"
     ],
     [
+      "verdict",
+      1,
+      "fear"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
+    ],
+    [
+      "reporters",
+      1,
+      "trust"
+    ],
+    [
       "threatens",
       1,
       "anger"
@@ -341,51 +376,16 @@
       "suppressed",
       1,
       "anger"
-    ],
-    [
-      "scientist",
-      1,
-      "trust"
-    ],
-    [
-      "boxing",
-      1,
-      "anger"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "vote",
-      1,
-      "anger"
-    ],
-    [
-      "world",
-      1,
-      "trust"
-    ],
-    [
-      "shows",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 69,
-    "fear": 51,
+    "trust": 70,
+    "fear": 54,
     "surprise": 12,
     "sadness": 10,
     "disgust": 1,
-    "anger": 119,
-    "anticipation": 20
+    "anger": 116,
+    "anticipation": 21
   }
 }
