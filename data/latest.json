@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T14:41:24.531Z",
+  "generated_at": "2026-09-04T14:56:27.748Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "anger"
     ],
     [
-      "continue",
-      6,
-      "trust"
-    ],
-    [
       "people",
       6,
       "trust"
@@ -36,6 +31,11 @@
       "deportation",
       6,
       "anger"
+    ],
+    [
+      "continue",
+      6,
+      "trust"
     ],
     [
       "hit",
@@ -63,14 +63,14 @@
       "fear"
     ],
     [
-      "food",
-      3,
-      "joy"
-    ],
-    [
       "strike",
       3,
       "anger"
+    ],
+    [
+      "food",
+      3,
+      "joy"
     ],
     [
       "change",
@@ -134,16 +134,6 @@
     ],
     [
       "threaten",
-      2,
-      "anger"
-    ],
-    [
-      "show",
-      2,
-      "trust"
-    ],
-    [
-      "outrage",
       2,
       "anger"
     ],
@@ -288,6 +278,31 @@
       "anger"
     ],
     [
+      "vote",
+      1,
+      "anger"
+    ],
+    [
+      "world",
+      1,
+      "trust"
+    ],
+    [
+      "shows",
+      1,
+      "trust"
+    ],
+    [
+      "true",
+      1,
+      "joy"
+    ],
+    [
+      "sponsored",
+      1,
+      "trust"
+    ],
+    [
       "crew",
       1,
       "trust"
@@ -298,7 +313,12 @@
       "fear"
     ],
     [
-      "politics",
+      "disgust",
+      1,
+      "anger"
+    ],
+    [
+      "rows",
       1,
       "anger"
     ],
@@ -356,31 +376,11 @@
       "mourning",
       1,
       "sadness"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "refused",
-      1,
-      "sadness"
-    ],
-    [
-      "ice",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 65,
+    "trust": 64,
     "fear": 47,
     "surprise": 10,
     "sadness": 16,
