@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:08:49.022Z",
+  "generated_at": "2026-09-04T10:23:51.368Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,23 +8,23 @@
       "trust"
     ],
     [
-      "iran",
-      9,
-      "anger"
-    ],
-    [
       "flood",
       8,
       "fear"
     ],
     [
-      "war",
+      "iran",
       7,
       "anger"
     ],
     [
-      "people",
+      "war",
       6,
+      "anger"
+    ],
+    [
+      "people",
+      5,
       "trust"
     ],
     [
@@ -73,11 +73,6 @@
       "fear"
     ],
     [
-      "fear",
-      3,
-      "anger"
-    ],
-    [
       "found",
       3,
       "joy"
@@ -118,19 +113,19 @@
       "anger"
     ],
     [
-      "crime",
-      3,
+      "crimes",
+      2,
+      "anger"
+    ],
+    [
+      "strike",
+      2,
       "anger"
     ],
     [
       "alive",
       2,
       "joy"
-    ],
-    [
-      "disaster",
-      2,
-      "anger"
     ],
     [
       "seeking",
@@ -164,6 +159,11 @@
     ],
     [
       "sabotage",
+      2,
+      "anger"
+    ],
+    [
+      "fear",
       2,
       "anger"
     ],
@@ -288,36 +288,6 @@
       "anticipation"
     ],
     [
-      "blast",
-      2,
-      "anger"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
-      "forcibly",
-      1,
-      "anger"
-    ],
-    [
-      "detainees",
-      1,
-      "anger"
-    ],
-    [
-      "refused",
-      1,
-      "sadness"
-    ],
-    [
-      "detention",
-      1,
-      "sadness"
-    ],
-    [
       "indict",
       1,
       "anger"
@@ -353,39 +323,69 @@
       "fear"
     ],
     [
-      "rescued",
+      "unimaginable",
       1,
       "surprise"
     ],
     [
-      "depth",
+      "grief",
       1,
-      "trust"
+      "sadness"
     ],
     [
-      "threatens",
+      "devastated",
       1,
       "anger"
     ],
     [
-      "readying",
+      "mourning",
       1,
-      "anticipation"
+      "sadness"
     ],
     [
-      "hormuz",
+      "anger",
       1,
-      "fear"
+      "anger"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
+    ],
+    [
+      "unprecedented",
+      1,
+      "surprise"
+    ],
+    [
+      "forcibly",
+      1,
+      "anger"
+    ],
+    [
+      "detainees",
+      1,
+      "anger"
+    ],
+    [
+      "refused",
+      1,
+      "sadness"
+    ],
+    [
+      "detention",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 65,
-    "fear": 53,
-    "surprise": 12,
-    "sadness": 13,
+    "trust": 64,
+    "fear": 51,
+    "surprise": 13,
+    "sadness": 15,
     "disgust": 1,
-    "anger": 117,
+    "anger": 111,
     "anticipation": 23
   }
 }
