@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T14:56:27.748Z",
+  "generated_at": "2026-09-04T15:11:30.408Z",
   "article_count": 50,
   "top_words": [
     [
@@ -318,6 +318,11 @@
       "anger"
     ],
     [
+      "terrorists",
+      1,
+      "anger"
+    ],
+    [
       "rows",
       1,
       "anger"
@@ -371,11 +376,6 @@
       "devastated",
       1,
       "anger"
-    ],
-    [
-      "mourning",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 10,
     "sadness": 16,
     "disgust": 2,
-    "anger": 111,
+    "anger": 112,
     "anticipation": 19
   }
 }
