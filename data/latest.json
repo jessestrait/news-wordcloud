@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:19:40.699Z",
+  "generated_at": "2026-09-04T02:34:43.136Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
+      "people",
+      7,
+      "trust"
+    ],
+    [
       "missing",
       6,
       "fear"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "trump",
@@ -186,11 +186,6 @@
       "court",
       2,
       "anger"
-    ],
-    [
-      "family",
-      2,
-      "joy"
     ],
     [
       "loved",
@@ -376,16 +371,21 @@
       "leading",
       1,
       "trust"
+    ],
+    [
+      "injustices",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 60,
+    "joy": 25,
+    "trust": 61,
     "fear": 53,
     "surprise": 11,
-    "sadness": 9,
-    "disgust": 2,
+    "sadness": 10,
+    "disgust": 1,
     "anger": 118,
-    "anticipation": 22
+    "anticipation": 23
   }
 }
