@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:52:36.967Z",
+  "generated_at": "2026-09-04T08:07:39.686Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anger"
     ],
     [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
       "hit",
       5,
       "anger"
@@ -53,14 +48,19 @@
       "fear"
     ],
     [
-      "fear",
+      "attack",
+      5,
+      "anger"
+    ],
+    [
+      "trump",
       4,
       "anger"
     ],
     [
-      "defend",
+      "fear",
       4,
-      "fear"
+      "anger"
     ],
     [
       "happened",
@@ -78,9 +78,9 @@
       "anger"
     ],
     [
-      "attack",
-      4,
-      "anger"
+      "attempt",
+      3,
+      "anticipation"
     ],
     [
       "change",
@@ -118,14 +118,19 @@
       "sadness"
     ],
     [
-      "deal",
+      "defend",
       3,
-      "surprise"
+      "fear"
     ],
     [
       "official",
       3,
       "trust"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "seeking",
@@ -153,11 +158,6 @@
       "anger"
     ],
     [
-      "attempts",
-      2,
-      "anticipation"
-    ],
-    [
       "alive",
       2,
       "joy"
@@ -179,11 +179,6 @@
     ],
     [
       "protesters",
-      2,
-      "anger"
-    ],
-    [
-      "denies",
       2,
       "anger"
     ],
@@ -278,11 +273,6 @@
       "trust"
     ],
     [
-      "criticism",
-      2,
-      "anger"
-    ],
-    [
       "american",
       2,
       "sadness"
@@ -306,6 +296,16 @@
       "blast",
       2,
       "anger"
+    ],
+    [
+      "ongoing",
+      1,
+      "anticipation"
+    ],
+    [
+      "cripple",
+      1,
+      "fear"
     ],
     [
       "readying",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 69,
+    "trust": 66,
     "fear": 56,
-    "surprise": 12,
+    "surprise": 10,
     "sadness": 11,
     "disgust": 1,
-    "anger": 114,
-    "anticipation": 23
+    "anger": 112,
+    "anticipation": 25
   }
 }
