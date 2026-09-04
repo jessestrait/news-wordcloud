@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:40:55.544Z",
+  "generated_at": "2026-09-04T13:55:57.534Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "iran",
       7,
       "anger"
+    ],
+    [
+      "continue",
+      6,
+      "trust"
     ],
     [
       "hit",
@@ -36,11 +41,6 @@
       "missing",
       5,
       "fear"
-    ],
-    [
-      "continue",
-      5,
-      "trust"
     ],
     [
       "government",
@@ -110,6 +110,16 @@
     [
       "attack",
       3,
+      "anger"
+    ],
+    [
+      "show",
+      2,
+      "trust"
+    ],
+    [
+      "outrage",
+      2,
       "anger"
     ],
     [
@@ -238,11 +248,6 @@
       "joy"
     ],
     [
-      "growing",
-      2,
-      "joy"
-    ],
-    [
       "incident",
       2,
       "surprise"
@@ -271,6 +276,16 @@
       "killing",
       2,
       "anger"
+    ],
+    [
+      "politics",
+      1,
+      "anger"
+    ],
+    [
+      "americas",
+      1,
+      "sadness"
     ],
     [
       "aesthetics",
@@ -361,31 +376,16 @@
       "hormuz",
       1,
       "fear"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "verdict",
-      1,
-      "fear"
-    ],
-    [
-      "struggle",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 63,
-    "fear": 50,
+    "joy": 31,
+    "trust": 64,
+    "fear": 49,
     "surprise": 10,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 2,
-    "anger": 107,
+    "anger": 109,
     "anticipation": 20
   }
 }
