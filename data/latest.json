@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:37:34.525Z",
+  "generated_at": "2026-09-04T07:52:36.967Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,13 +28,13 @@
       "fear"
     ],
     [
-      "trump",
+      "war",
       6,
       "anger"
     ],
     [
-      "war",
-      6,
+      "trump",
+      5,
       "anger"
     ],
     [
@@ -126,6 +126,16 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "seeking",
+      2,
+      "anticipation"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "case",
@@ -298,6 +308,21 @@
       "anger"
     ],
     [
+      "readying",
+      1,
+      "anticipation"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
       "verdict",
       1,
       "fear"
@@ -351,41 +376,16 @@
       "wild",
       1,
       "surprise"
-    ],
-    [
-      "everyone",
-      1,
-      "trust"
-    ],
-    [
-      "forgotten",
-      1,
-      "sadness"
-    ],
-    [
-      "relatives",
-      1,
-      "trust"
-    ],
-    [
-      "advocates",
-      1,
-      "trust"
-    ],
-    [
-      "suppressed",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 70,
-    "fear": 54,
+    "trust": 69,
+    "fear": 56,
     "surprise": 12,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 1,
-    "anger": 116,
-    "anticipation": 21
+    "anger": 114,
+    "anticipation": 23
   }
 }
