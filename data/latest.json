@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:34:43.136Z",
+  "generated_at": "2026-09-04T02:49:45.686Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,17 @@
       "anger"
     ],
     [
+      "flood",
+      8,
+      "fear"
+    ],
+    [
       "war",
       8,
       "anger"
     ],
     [
-      "flood",
+      "missing",
       7,
       "fear"
     ],
@@ -24,13 +29,13 @@
     ],
     [
       "people",
-      7,
+      6,
       "trust"
     ],
     [
-      "missing",
-      6,
-      "fear"
+      "hit",
+      5,
+      "anger"
     ],
     [
       "trump",
@@ -68,11 +73,6 @@
       "surprise"
     ],
     [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "deportation",
       4,
       "anger"
@@ -81,6 +81,11 @@
       "attack",
       4,
       "anger"
+    ],
+    [
+      "found",
+      3,
+      "joy"
     ],
     [
       "challenges",
@@ -188,6 +193,11 @@
       "anger"
     ],
     [
+      "family",
+      2,
+      "joy"
+    ],
+    [
       "loved",
       2,
       "joy"
@@ -238,11 +248,6 @@
       "sadness"
     ],
     [
-      "found",
-      2,
-      "joy"
-    ],
-    [
       "killing",
       2,
       "anger"
@@ -260,6 +265,31 @@
     [
       "blast",
       2,
+      "anger"
+    ],
+    [
+      "everyone",
+      1,
+      "trust"
+    ],
+    [
+      "forgotten",
+      1,
+      "sadness"
+    ],
+    [
+      "relatives",
+      1,
+      "trust"
+    ],
+    [
+      "advocates",
+      1,
+      "trust"
+    ],
+    [
+      "suppressed",
+      1,
       "anger"
     ],
     [
@@ -346,46 +376,16 @@
       "happen",
       1,
       "anticipation"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
-    ],
-    [
-      "escort",
-      1,
-      "trust"
-    ],
-    [
-      "illegal",
-      1,
-      "anger"
-    ],
-    [
-      "sabotage",
-      1,
-      "anger"
-    ],
-    [
-      "leading",
-      1,
-      "trust"
-    ],
-    [
-      "injustices",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 61,
-    "fear": 53,
+    "joy": 27,
+    "trust": 63,
+    "fear": 54,
     "surprise": 11,
     "sadness": 10,
     "disgust": 1,
-    "anger": 118,
-    "anticipation": 23
+    "anger": 120,
+    "anticipation": 22
   }
 }
