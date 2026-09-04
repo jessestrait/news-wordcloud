@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:38:02.343Z",
+  "generated_at": "2026-09-04T08:53:05.222Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "fear"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "trump",
       4,
       "anger"
@@ -78,9 +73,9 @@
       "anger"
     ],
     [
-      "attempt",
-      3,
-      "anticipation"
+      "attack",
+      4,
+      "anger"
     ],
     [
       "change",
@@ -128,9 +123,14 @@
       "trust"
     ],
     [
-      "power",
+      "crime",
+      3,
+      "anger"
+    ],
+    [
+      "brother",
       2,
-      "anticipation"
+      "trust"
     ],
     [
       "seeking",
@@ -156,6 +156,11 @@
       "guilty",
       2,
       "anger"
+    ],
+    [
+      "attempts",
+      2,
+      "anticipation"
     ],
     [
       "alive",
@@ -288,22 +293,37 @@
       "anticipation"
     ],
     [
-      "crime",
-      2,
-      "anger"
-    ],
-    [
       "blast",
       2,
       "anger"
     ],
     [
-      "ongoing",
+      "indict",
       1,
-      "anticipation"
+      "anger"
     ],
     [
-      "cripple",
+      "money",
+      1,
+      "anger"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "indicted",
+      1,
+      "anger"
+    ],
+    [
+      "controversial",
+      1,
+      "anger"
+    ],
+    [
+      "alleged",
       1,
       "fear"
     ],
@@ -356,36 +376,16 @@
       "rescued",
       1,
       "surprise"
-    ],
-    [
-      "depth",
-      1,
-      "trust"
-    ],
-    [
-      "victory",
-      1,
-      "joy"
-    ],
-    [
-      "promising",
-      1,
-      "joy"
-    ],
-    [
-      "wild",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 66,
+    "trust": 68,
     "fear": 56,
     "surprise": 10,
     "sadness": 11,
     "disgust": 1,
-    "anger": 112,
-    "anticipation": 25
+    "anger": 116,
+    "anticipation": 22
   }
 }
