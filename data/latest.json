@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:18:50.885Z",
+  "generated_at": "2026-09-04T01:33:52.955Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,9 +8,14 @@
       "anger"
     ],
     [
-      "missing",
+      "war",
+      8,
+      "anger"
+    ],
+    [
+      "president",
       7,
-      "fear"
+      "trust"
     ],
     [
       "people",
@@ -18,9 +23,9 @@
       "trust"
     ],
     [
-      "president",
+      "missing",
       6,
-      "trust"
+      "fear"
     ],
     [
       "flood",
@@ -28,8 +33,8 @@
       "fear"
     ],
     [
-      "war",
-      6,
+      "trump",
+      5,
       "anger"
     ],
     [
@@ -56,11 +61,6 @@
       "incident",
       4,
       "surprise"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
     ],
     [
       "hit",
@@ -149,11 +149,6 @@
     ],
     [
       "challenges",
-      2,
-      "anger"
-    ],
-    [
-      "disaster",
       2,
       "anger"
     ],
@@ -268,9 +263,19 @@
       "anger"
     ],
     [
-      "hope",
-      2,
+      "coming",
+      1,
+      "anticipation"
+    ],
+    [
+      "chance",
+      1,
       "surprise"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
     ],
     [
       "rescue",
@@ -333,6 +338,11 @@
       "anger"
     ],
     [
+      "disaster",
+      1,
+      "anger"
+    ],
+    [
       "loss",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "strike",
       1,
       "anger"
-    ],
-    [
-      "interim",
-      1,
-      "anticipation"
-    ],
-    [
-      "negotiate",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 60,
-    "fear": 58,
+    "joy": 27,
+    "trust": 57,
+    "fear": 55,
     "surprise": 11,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 2,
-    "anger": 110,
-    "anticipation": 24
+    "anger": 112,
+    "anticipation": 25
   }
 }
