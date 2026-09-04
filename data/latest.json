@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:49:17.692Z",
+  "generated_at": "2026-09-04T02:04:20.006Z",
   "article_count": 50,
   "top_words": [
     [
@@ -106,6 +106,11 @@
       "fear",
       3,
       "anger"
+    ],
+    [
+      "sponsored",
+      2,
+      "trust"
     ],
     [
       "protesters",
@@ -263,6 +268,26 @@
       "anger"
     ],
     [
+      "vote",
+      1,
+      "anger"
+    ],
+    [
+      "world",
+      1,
+      "trust"
+    ],
+    [
+      "shows",
+      1,
+      "trust"
+    ],
+    [
+      "true",
+      1,
+      "joy"
+    ],
+    [
       "coming",
       1,
       "anticipation"
@@ -351,41 +376,16 @@
       "stark",
       1,
       "trust"
-    ],
-    [
-      "disruption",
-      1,
-      "anger"
-    ],
-    [
-      "unequal",
-      1,
-      "anger"
-    ],
-    [
-      "laureate",
-      1,
-      "trust"
-    ],
-    [
-      "illegitimate",
-      1,
-      "anger"
-    ],
-    [
-      "strike",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 57,
-    "fear": 55,
+    "joy": 28,
+    "trust": 60,
+    "fear": 53,
     "surprise": 11,
-    "sadness": 10,
+    "sadness": 9,
     "disgust": 2,
-    "anger": 112,
-    "anticipation": 25
+    "anger": 113,
+    "anticipation": 23
   }
 }
