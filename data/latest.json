@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:42:45.002Z",
+  "generated_at": "2026-09-04T16:57:47.245Z",
   "article_count": 50,
   "top_words": [
     [
@@ -268,22 +268,7 @@
       "anger"
     ],
     [
-      "holiday",
-      1,
-      "joy"
-    ],
-    [
-      "airport",
-      1,
-      "anticipation"
-    ],
-    [
-      "escort",
-      1,
-      "trust"
-    ],
-    [
-      "vote",
+      "votes",
       1,
       "anger"
     ],
@@ -304,6 +289,21 @@
     ],
     [
       "sponsored",
+      1,
+      "trust"
+    ],
+    [
+      "holiday",
+      1,
+      "joy"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
+      "escort",
       1,
       "trust"
     ],
