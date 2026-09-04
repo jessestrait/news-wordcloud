@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:24:34.524Z",
+  "generated_at": "2026-09-04T11:39:37.086Z",
   "article_count": 50,
   "top_words": [
     [
@@ -363,6 +363,11 @@
       "anger"
     ],
     [
+      "ice",
+      1,
+      "fear"
+    ],
+    [
       "horrific",
       1,
       "anger"
@@ -371,17 +376,12 @@
       "lawyers",
       1,
       "anger"
-    ],
-    [
-      "rescued",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
     "trust": 65,
-    "fear": 51,
+    "fear": 52,
     "surprise": 12,
     "sadness": 13,
     "disgust": 1,
