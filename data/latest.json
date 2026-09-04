@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-04T04:51:07.498Z",
+  "generated_at": "2026-09-04T05:06:10.001Z",
   "article_count": 50,
   "top_words": [
+    [
+      "president",
+      9,
+      "trust"
+    ],
     [
       "flood",
       9,
@@ -23,9 +28,9 @@
       "fear"
     ],
     [
-      "president",
-      7,
-      "trust"
+      "trump",
+      6,
+      "anger"
     ],
     [
       "war",
@@ -38,22 +43,17 @@
       "anger"
     ],
     [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
       "continue",
       5,
       "trust"
     ],
     [
-      "defend",
+      "government",
       5,
       "fear"
     ],
     [
-      "deportation",
+      "attack",
       5,
       "anger"
     ],
@@ -68,7 +68,7 @@
       "anger"
     ],
     [
-      "government",
+      "defend",
       4,
       "fear"
     ],
@@ -83,9 +83,19 @@
       "surprise"
     ],
     [
-      "attack",
+      "deportation",
       4,
       "anger"
+    ],
+    [
+      "change",
+      3,
+      "fear"
+    ],
+    [
+      "growing",
+      3,
+      "joy"
     ],
     [
       "found",
@@ -116,11 +126,6 @@
       "official",
       3,
       "trust"
-    ],
-    [
-      "criticism",
-      3,
-      "anger"
     ],
     [
       "alive",
@@ -223,16 +228,6 @@
       "joy"
     ],
     [
-      "growing",
-      2,
-      "joy"
-    ],
-    [
-      "opponents",
-      2,
-      "anger"
-    ],
-    [
       "poll",
       2,
       "trust"
@@ -248,19 +243,14 @@
       "anger"
     ],
     [
-      "change",
-      2,
-      "fear"
-    ],
-    [
       "policy",
       2,
       "trust"
     ],
     [
-      "case",
+      "criticism",
       2,
-      "fear"
+      "anger"
     ],
     [
       "american",
@@ -285,6 +275,21 @@
     [
       "blast",
       2,
+      "anger"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
+      "weighs",
+      1,
+      "trust"
+    ],
+    [
+      "warfare",
+      1,
       "anger"
     ],
     [
@@ -371,21 +376,16 @@
       "shows",
       1,
       "trust"
-    ],
-    [
-      "true",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 67,
-    "fear": 52,
+    "trust": 69,
+    "fear": 51,
     "surprise": 12,
     "sadness": 10,
     "disgust": 1,
     "anger": 119,
-    "anticipation": 21
+    "anticipation": 20
   }
 }
