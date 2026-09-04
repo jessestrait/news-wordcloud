@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-04T10:39:10.879Z",
+  "generated_at": "2026-09-04T10:54:13.041Z",
   "article_count": 50,
   "top_words": [
     [
       "president",
-      9,
+      8,
       "trust"
     ],
     [
@@ -48,6 +48,11 @@
       "fear"
     ],
     [
+      "deportation",
+      5,
+      "anger"
+    ],
+    [
       "trump",
       4,
       "anger"
@@ -61,11 +66,6 @@
       "incident",
       4,
       "surprise"
-    ],
-    [
-      "deportation",
-      4,
-      "anger"
     ],
     [
       "change",
@@ -121,6 +121,16 @@
       "strike",
       2,
       "anger"
+    ],
+    [
+      "world",
+      2,
+      "trust"
+    ],
+    [
+      "believed",
+      2,
+      "trust"
     ],
     [
       "alive",
@@ -353,39 +363,29 @@
       "anger"
     ],
     [
-      "unprecedented",
+      "horrific",
+      1,
+      "anger"
+    ],
+    [
+      "lawyers",
+      1,
+      "anger"
+    ],
+    [
+      "rescued",
       1,
       "surprise"
-    ],
-    [
-      "forcibly",
-      1,
-      "anger"
-    ],
-    [
-      "detainees",
-      1,
-      "anger"
-    ],
-    [
-      "refused",
-      1,
-      "sadness"
-    ],
-    [
-      "detention",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 64,
+    "trust": 65,
     "fear": 51,
-    "surprise": 13,
-    "sadness": 15,
+    "surprise": 12,
+    "sadness": 13,
     "disgust": 1,
-    "anger": 111,
+    "anger": 112,
     "anticipation": 23
   }
 }
