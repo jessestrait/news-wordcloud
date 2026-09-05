@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:46:21.756Z",
+  "generated_at": "2026-09-05T00:01:24.464Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,9 +43,24 @@
       "trust"
     ],
     [
+      "killed",
+      5,
+      "fear"
+    ],
+    [
       "hit",
       5,
       "anger"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
+    ],
+    [
+      "food",
+      4,
+      "joy"
     ],
     [
       "happened",
@@ -58,11 +73,6 @@
       "anger"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "missing",
       4,
       "fear"
@@ -70,6 +80,16 @@
     [
       "government",
       4,
+      "fear"
+    ],
+    [
+      "world",
+      3,
+      "trust"
+    ],
+    [
+      "military",
+      3,
       "fear"
     ],
     [
@@ -81,11 +101,6 @@
       "bank",
       3,
       "trust"
-    ],
-    [
-      "food",
-      3,
-      "joy"
     ],
     [
       "change",
@@ -103,11 +118,6 @@
       "anger"
     ],
     [
-      "found",
-      3,
-      "joy"
-    ],
-    [
       "challenges",
       3,
       "anger"
@@ -118,11 +128,6 @@
       "anger"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "defend",
       3,
       "fear"
@@ -131,6 +136,11 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "intelligence",
@@ -173,32 +183,12 @@
       "trust"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "case",
       2,
       "fear"
     ],
     [
-      "guilty",
-      2,
-      "anger"
-    ],
-    [
       "protesters",
-      2,
-      "anger"
-    ],
-    [
-      "murder",
-      2,
-      "anger"
-    ],
-    [
-      "involvement",
       2,
       "anger"
     ],
@@ -211,11 +201,6 @@
       "life",
       2,
       "joy"
-    ],
-    [
-      "global",
-      2,
-      "anticipation"
     ],
     [
       "opposition",
@@ -263,19 +248,39 @@
       "sadness"
     ],
     [
-      "killing",
-      2,
-      "anger"
+      "delivery",
+      1,
+      "anticipation"
+    ],
+    [
+      "guilt",
+      1,
+      "disgust"
+    ],
+    [
+      "association",
+      1,
+      "trust"
+    ],
+    [
+      "guardian",
+      1,
+      "trust"
+    ],
+    [
+      "investigation",
+      1,
+      "anticipation"
+    ],
+    [
+      "result",
+      1,
+      "anticipation"
     ],
     [
       "votes",
       1,
       "anger"
-    ],
-    [
-      "world",
-      1,
-      "trust"
     ],
     [
       "shows",
@@ -371,21 +376,16 @@
       "unimaginable",
       1,
       "surprise"
-    ],
-    [
-      "grief",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 62,
-    "fear": 49,
-    "surprise": 10,
-    "sadness": 16,
-    "disgust": 2,
-    "anger": 114,
-    "anticipation": 20
+    "joy": 30,
+    "trust": 66,
+    "fear": 51,
+    "surprise": 9,
+    "sadness": 17,
+    "disgust": 3,
+    "anger": 107,
+    "anticipation": 23
   }
 }
