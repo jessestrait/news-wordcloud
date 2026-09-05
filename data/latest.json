@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-05T04:49:09.911Z",
+  "generated_at": "2026-09-05T05:04:11.949Z",
   "article_count": 50,
   "top_words": [
-    [
-      "president",
-      8,
-      "trust"
-    ],
-    [
-      "people",
-      7,
-      "trust"
-    ],
     [
       "war",
       7,
       "anger"
+    ],
+    [
+      "president",
+      7,
+      "trust"
     ],
     [
       "flood",
@@ -23,12 +18,12 @@
       "fear"
     ],
     [
-      "strike",
+      "people",
       6,
-      "anger"
+      "trust"
     ],
     [
-      "deportation",
+      "strike",
       6,
       "anger"
     ],
@@ -53,17 +48,22 @@
       "fear"
     ],
     [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "death",
       4,
       "sadness"
     ],
     [
-      "food",
+      "attack",
       4,
-      "joy"
+      "anger"
     ],
     [
-      "attack",
+      "deportation",
       4,
       "anger"
     ],
@@ -73,9 +73,9 @@
       "fear"
     ],
     [
-      "government",
-      4,
-      "fear"
+      "poll",
+      3,
+      "trust"
     ],
     [
       "intelligence",
@@ -91,6 +91,11 @@
       "world",
       3,
       "trust"
+    ],
+    [
+      "food",
+      3,
+      "joy"
     ],
     [
       "military",
@@ -143,6 +148,11 @@
       "trust"
     ],
     [
+      "created",
+      2,
+      "joy"
+    ],
+    [
       "home",
       2,
       "joy"
@@ -188,11 +198,6 @@
       "trust"
     ],
     [
-      "case",
-      2,
-      "fear"
-    ],
-    [
       "protesters",
       2,
       "anger"
@@ -223,19 +228,49 @@
       "joy"
     ],
     [
-      "incident",
-      2,
-      "surprise"
-    ],
-    [
-      "poll",
-      2,
-      "trust"
-    ],
-    [
       "bases",
       2,
       "trust"
+    ],
+    [
+      "feeling",
+      1,
+      "anger"
+    ],
+    [
+      "ancient",
+      1,
+      "surprise"
+    ],
+    [
+      "iron",
+      1,
+      "trust"
+    ],
+    [
+      "age",
+      1,
+      "anticipation"
+    ],
+    [
+      "stone",
+      1,
+      "anger"
+    ],
+    [
+      "wealth",
+      1,
+      "anticipation"
+    ],
+    [
+      "love",
+      1,
+      "joy"
+    ],
+    [
+      "hate",
+      1,
+      "anger"
     ],
     [
       "excitement",
@@ -341,51 +376,16 @@
       "holiday",
       1,
       "joy"
-    ],
-    [
-      "airport",
-      1,
-      "anticipation"
-    ],
-    [
-      "shoot",
-      1,
-      "anger"
-    ],
-    [
-      "escort",
-      1,
-      "trust"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
-      "crew",
-      1,
-      "trust"
-    ],
-    [
-      "preventing",
-      1,
-      "fear"
-    ],
-    [
-      "disgust",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 65,
-    "fear": 53,
+    "trust": 63,
+    "fear": 52,
     "surprise": 12,
-    "sadness": 15,
-    "disgust": 3,
-    "anger": 103,
-    "anticipation": 22
+    "sadness": 14,
+    "disgust": 2,
+    "anger": 102,
+    "anticipation": 24
   }
 }
