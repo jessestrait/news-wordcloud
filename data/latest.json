@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-05T01:32:13.416Z",
+  "generated_at": "2026-09-05T01:47:15.699Z",
   "article_count": 50,
   "top_words": [
     [
       "president",
-      9,
+      8,
       "trust"
     ],
     [
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "hit",
+      5,
+      "anger"
+    ],
+    [
       "killed",
       5,
       "fear"
@@ -58,11 +63,6 @@
       "joy"
     ],
     [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "attack",
       4,
       "anger"
@@ -75,6 +75,11 @@
     [
       "government",
       4,
+      "fear"
+    ],
+    [
+      "intelligence",
+      3,
       "fear"
     ],
     [
@@ -158,11 +163,6 @@
       "anticipation"
     ],
     [
-      "intelligence",
-      2,
-      "fear"
-    ],
-    [
       "alleged",
       2,
       "fear"
@@ -171,11 +171,6 @@
       "attempt",
       2,
       "anticipation"
-    ],
-    [
-      "shoot",
-      2,
-      "anger"
     ],
     [
       "deadly",
@@ -248,14 +243,19 @@
       "trust"
     ],
     [
-      "clash",
-      2,
-      "anger"
-    ],
-    [
       "american",
       2,
       "sadness"
+    ],
+    [
+      "truce",
+      1,
+      "joy"
+    ],
+    [
+      "warning",
+      1,
+      "fear"
     ],
     [
       "triumph",
@@ -338,6 +338,11 @@
       "anticipation"
     ],
     [
+      "shoot",
+      1,
+      "anger"
+    ],
+    [
       "escort",
       1,
       "trust"
@@ -371,21 +376,16 @@
       "americas",
       1,
       "sadness"
-    ],
-    [
-      "aesthetics",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 68,
-    "fear": 51,
+    "joy": 34,
+    "trust": 66,
+    "fear": 53,
     "surprise": 11,
-    "sadness": 17,
+    "sadness": 16,
     "disgust": 3,
-    "anger": 105,
+    "anger": 102,
     "anticipation": 22
   }
 }
