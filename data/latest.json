@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T11:07:26.860Z",
+  "generated_at": "2026-09-05T11:22:28.663Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
-      "hit",
-      5,
-      "anger"
-    ],
-    [
       "killed",
       5,
       "fear"
+    ],
+    [
+      "hit",
+      5,
+      "anger"
     ],
     [
       "continue",
@@ -53,14 +53,14 @@
       "trust"
     ],
     [
-      "fear",
-      4,
-      "anger"
-    ],
-    [
       "military",
       4,
       "fear"
+    ],
+    [
+      "fear",
+      4,
+      "anger"
     ],
     [
       "government",
@@ -238,6 +238,31 @@
       "trust"
     ],
     [
+      "guilt",
+      1,
+      "disgust"
+    ],
+    [
+      "association",
+      1,
+      "trust"
+    ],
+    [
+      "guardian",
+      1,
+      "trust"
+    ],
+    [
+      "investigation",
+      1,
+      "anticipation"
+    ],
+    [
+      "result",
+      1,
+      "anticipation"
+    ],
+    [
       "colonialism",
       1,
       "disgust"
@@ -351,31 +376,6 @@
       "fight",
       1,
       "anger"
-    ],
-    [
-      "truce",
-      1,
-      "joy"
-    ],
-    [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "triumph",
-      1,
-      "joy"
-    ],
-    [
-      "ground",
-      1,
-      "trust"
-    ],
-    [
-      "hope",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
