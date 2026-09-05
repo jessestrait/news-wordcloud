@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:40:08.328Z",
+  "generated_at": "2026-09-05T15:55:10.243Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,8 +33,18 @@
       "anger"
     ],
     [
+      "attack",
+      5,
+      "anger"
+    ],
+    [
       "government",
       5,
+      "fear"
+    ],
+    [
+      "military",
+      4,
       "fear"
     ],
     [
@@ -63,6 +73,11 @@
       "anger"
     ],
     [
+      "official",
+      4,
+      "trust"
+    ],
+    [
       "alive",
       3,
       "joy"
@@ -73,24 +88,9 @@
       "surprise"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "fear",
       3,
       "anger"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
-      "poll",
-      3,
-      "trust"
     ],
     [
       "hit",
@@ -108,11 +108,6 @@
       "anger"
     ],
     [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
       "deportation",
       3,
       "anger"
@@ -123,14 +118,9 @@
       "anger"
     ],
     [
-      "challenges",
-      3,
-      "anger"
-    ],
-    [
-      "official",
-      3,
-      "trust"
+      "american",
+      2,
+      "sadness"
     ],
     [
       "peace",
@@ -173,9 +163,19 @@
       "trust"
     ],
     [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "feeling",
       2,
       "anger"
+    ],
+    [
+      "poll",
+      2,
+      "trust"
     ],
     [
       "created",
@@ -223,6 +223,11 @@
       "sadness"
     ],
     [
+      "challenges",
+      2,
+      "anger"
+    ],
+    [
       "victims",
       2,
       "anger"
@@ -241,6 +246,21 @@
       "family",
       2,
       "joy"
+    ],
+    [
+      "missile",
+      1,
+      "fear"
+    ],
+    [
+      "destroyer",
+      1,
+      "anger"
+    ],
+    [
+      "avoided",
+      1,
+      "fear"
     ],
     [
       "revive",
@@ -356,36 +376,16 @@
       "isolated",
       1,
       "fear"
-    ],
-    [
-      "tribes",
-      1,
-      "trust"
-    ],
-    [
-      "risking",
-      1,
-      "fear"
-    ],
-    [
-      "winning",
-      1,
-      "disgust"
-    ],
-    [
-      "friendships",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 65,
-    "fear": 51,
+    "trust": 64,
+    "fear": 54,
     "surprise": 13,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 96,
+    "anger": 98,
     "anticipation": 28
   }
 }
