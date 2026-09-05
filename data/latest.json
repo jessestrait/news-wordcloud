@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:53:51.277Z",
+  "generated_at": "2026-09-05T14:08:53.276Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anger"
     ],
     [
-      "iran",
-      6,
-      "anger"
-    ],
-    [
       "government",
       5,
       "fear"
@@ -46,16 +41,6 @@
       "world",
       4,
       "trust"
-    ],
-    [
-      "fear",
-      4,
-      "anger"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "death",
@@ -73,6 +58,11 @@
       "trust"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
       "alive",
       3,
       "joy"
@@ -88,6 +78,11 @@
       "fear"
     ],
     [
+      "fear",
+      3,
+      "anger"
+    ],
+    [
       "leader",
       3,
       "trust"
@@ -96,6 +91,11 @@
       "poll",
       3,
       "trust"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "food",
@@ -131,6 +131,11 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "ground",
@@ -238,9 +243,19 @@
       "joy"
     ],
     [
-      "bases",
-      2,
-      "trust"
+      "revive",
+      1,
+      "anticipation"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "floundered",
+      1,
+      "fear"
     ],
     [
       "fighting",
@@ -361,31 +376,16 @@
       "friendships",
       1,
       "joy"
-    ],
-    [
-      "coup",
-      1,
-      "anger"
-    ],
-    [
-      "traitors",
-      1,
-      "anger"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 67,
-    "fear": 52,
+    "joy": 33,
+    "trust": 65,
+    "fear": 51,
     "surprise": 13,
     "sadness": 14,
     "disgust": 4,
-    "anger": 100,
-    "anticipation": 26
+    "anger": 96,
+    "anticipation": 28
   }
 }
