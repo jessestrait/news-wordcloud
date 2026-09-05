@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-09-05T18:56:36.241Z",
+  "generated_at": "2026-09-05T19:11:38.329Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      10,
       "anger"
     ],
     [
       "flood",
       8,
       "fear"
+    ],
+    [
+      "strike",
+      7,
+      "anger"
     ],
     [
       "people",
@@ -26,11 +31,6 @@
       "killed",
       6,
       "fear"
-    ],
-    [
-      "strike",
-      6,
-      "anger"
     ],
     [
       "attack",
@@ -121,11 +121,6 @@
       "american",
       2,
       "sadness"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "ground",
@@ -248,6 +243,11 @@
       "joy"
     ],
     [
+      "vow",
+      1,
+      "joy"
+    ],
+    [
       "missile",
       1,
       "fear"
@@ -259,21 +259,6 @@
     ],
     [
       "avoided",
-      1,
-      "fear"
-    ],
-    [
-      "revive",
-      1,
-      "anticipation"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "floundered",
       1,
       "fear"
     ],
@@ -376,16 +361,31 @@
       "isolated",
       1,
       "fear"
+    ],
+    [
+      "tribes",
+      1,
+      "trust"
+    ],
+    [
+      "risking",
+      1,
+      "fear"
+    ],
+    [
+      "winning",
+      1,
+      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
     "trust": 64,
-    "fear": 54,
+    "fear": 53,
     "surprise": 13,
     "sadness": 15,
     "disgust": 4,
-    "anger": 98,
-    "anticipation": 28
+    "anger": 100,
+    "anticipation": 26
   }
 }
