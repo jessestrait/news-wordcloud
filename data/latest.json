@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T11:22:28.663Z",
+  "generated_at": "2026-09-05T11:37:30.547Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,18 +8,18 @@
       "anger"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
       "flood",
-      7,
+      8,
       "fear"
     ],
     [
       "people",
-      6,
+      7,
+      "trust"
+    ],
+    [
+      "president",
+      7,
       "trust"
     ],
     [
@@ -36,11 +36,6 @@
       "killed",
       5,
       "fear"
-    ],
-    [
-      "hit",
-      5,
-      "anger"
     ],
     [
       "continue",
@@ -68,19 +63,29 @@
       "fear"
     ],
     [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
       "death",
       4,
       "sadness"
     ],
     [
-      "deportation",
-      4,
-      "anger"
-    ],
-    [
       "missing",
       4,
       "fear"
+    ],
+    [
+      "alive",
+      3,
+      "joy"
+    ],
+    [
+      "rescue",
+      3,
+      "surprise"
     ],
     [
       "leader",
@@ -118,6 +123,11 @@
       "anger"
     ],
     [
+      "deportation",
+      3,
+      "anger"
+    ],
+    [
       "trump",
       3,
       "anger"
@@ -138,6 +148,21 @@
       "trust"
     ],
     [
+      "disaster",
+      2,
+      "anger"
+    ],
+    [
+      "found",
+      2,
+      "joy"
+    ],
+    [
+      "operation",
+      2,
+      "fear"
+    ],
+    [
       "struggle",
       2,
       "anger"
@@ -146,11 +171,6 @@
       "book",
       2,
       "trust"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "feeling",
@@ -163,24 +183,9 @@
       "joy"
     ],
     [
-      "rescue",
-      2,
-      "surprise"
-    ],
-    [
-      "humanity",
-      2,
-      "joy"
-    ],
-    [
       "expert",
       2,
       "trust"
-    ],
-    [
-      "alive",
-      2,
-      "joy"
     ],
     [
       "plan",
@@ -208,11 +213,6 @@
       "sadness"
     ],
     [
-      "change",
-      2,
-      "fear"
-    ],
-    [
       "victims",
       2,
       "anger"
@@ -221,11 +221,6 @@
       "letters",
       2,
       "anticipation"
-    ],
-    [
-      "opposition",
-      2,
-      "anger"
     ],
     [
       "family",
@@ -308,6 +303,11 @@
       "anger"
     ],
     [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
       "anti",
       1,
       "anger"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 65,
+    "joy": 32,
+    "trust": 64,
     "fear": 53,
-    "surprise": 12,
+    "surprise": 13,
     "sadness": 14,
     "disgust": 4,
-    "anger": 99,
-    "anticipation": 26
+    "anger": 97,
+    "anticipation": 25
   }
 }
