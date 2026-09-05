@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:01:24.464Z",
+  "generated_at": "2026-09-05T00:16:27.058Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,11 +16,6 @@
       "flood",
       7,
       "fear"
-    ],
-    [
-      "iran",
-      7,
-      "anger"
     ],
     [
       "strike",
@@ -43,14 +38,14 @@
       "trust"
     ],
     [
+      "iran",
+      6,
+      "anger"
+    ],
+    [
       "killed",
       5,
       "fear"
-    ],
-    [
-      "hit",
-      5,
-      "anger"
     ],
     [
       "death",
@@ -63,9 +58,9 @@
       "joy"
     ],
     [
-      "happened",
+      "hit",
       4,
-      "anticipation"
+      "anger"
     ],
     [
       "attack",
@@ -83,6 +78,11 @@
       "fear"
     ],
     [
+      "alive",
+      3,
+      "joy"
+    ],
+    [
       "world",
       3,
       "trust"
@@ -91,6 +91,11 @@
       "military",
       3,
       "fear"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "sabotage",
@@ -138,6 +143,16 @@
       "trust"
     ],
     [
+      "rescue",
+      2,
+      "surprise"
+    ],
+    [
+      "humanity",
+      2,
+      "joy"
+    ],
+    [
       "plan",
       2,
       "anticipation"
@@ -171,11 +186,6 @@
       "black",
       2,
       "sadness"
-    ],
-    [
-      "alive",
-      2,
-      "joy"
     ],
     [
       "believed",
@@ -246,6 +256,26 @@
       "american",
       2,
       "sadness"
+    ],
+    [
+      "triumph",
+      1,
+      "joy"
+    ],
+    [
+      "expert",
+      1,
+      "trust"
+    ],
+    [
+      "ground",
+      1,
+      "trust"
+    ],
+    [
+      "hope",
+      1,
+      "surprise"
     ],
     [
       "delivery",
@@ -346,46 +376,16 @@
       "aesthetics",
       1,
       "joy"
-    ],
-    [
-      "unattractive",
-      1,
-      "disgust"
-    ],
-    [
-      "created",
-      1,
-      "joy"
-    ],
-    [
-      "horse",
-      1,
-      "trust"
-    ],
-    [
-      "rescued",
-      1,
-      "surprise"
-    ],
-    [
-      "depth",
-      1,
-      "trust"
-    ],
-    [
-      "unimaginable",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 66,
+    "joy": 33,
+    "trust": 68,
     "fear": 51,
-    "surprise": 9,
+    "surprise": 11,
     "sadness": 17,
     "disgust": 3,
-    "anger": 107,
-    "anticipation": 23
+    "anger": 105,
+    "anticipation": 22
   }
 }
