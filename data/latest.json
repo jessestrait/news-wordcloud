@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-09-05T03:48:21.451Z",
+  "generated_at": "2026-09-05T04:03:23.893Z",
   "article_count": 50,
   "top_words": [
     [
       "president",
       8,
+      "trust"
+    ],
+    [
+      "people",
+      7,
       "trust"
     ],
     [
@@ -21,11 +26,6 @@
       "strike",
       6,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "deportation",
@@ -108,11 +108,6 @@
       "anger"
     ],
     [
-      "bank",
-      3,
-      "trust"
-    ],
-    [
       "change",
       3,
       "fear"
@@ -146,6 +141,11 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "home",
+      2,
+      "joy"
     ],
     [
       "rescue",
@@ -203,11 +203,6 @@
       "anticipation"
     ],
     [
-      "life",
-      2,
-      "joy"
-    ],
-    [
       "opposition",
       2,
       "anger"
@@ -243,9 +238,24 @@
       "trust"
     ],
     [
-      "american",
-      2,
-      "sadness"
+      "excitement",
+      1,
+      "surprise"
+    ],
+    [
+      "bout",
+      1,
+      "anger"
+    ],
+    [
+      "inspiration",
+      1,
+      "joy"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
     ],
     [
       "truce",
@@ -348,6 +358,11 @@
       "trust"
     ],
     [
+      "bank",
+      1,
+      "trust"
+    ],
+    [
       "crew",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "disgust",
       1,
       "anger"
-    ],
-    [
-      "terrorists",
-      1,
-      "anger"
-    ],
-    [
-      "rows",
-      1,
-      "anger"
-    ],
-    [
-      "americas",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 66,
+    "joy": 35,
+    "trust": 65,
     "fear": 53,
-    "surprise": 11,
-    "sadness": 16,
+    "surprise": 12,
+    "sadness": 15,
     "disgust": 3,
-    "anger": 102,
+    "anger": 103,
     "anticipation": 22
   }
 }
