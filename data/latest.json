@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-05T10:52:24.921Z",
+  "generated_at": "2026-09-05T11:07:26.860Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      7,
+      9,
       "anger"
     ],
     [
@@ -48,6 +48,16 @@
       "trust"
     ],
     [
+      "world",
+      4,
+      "trust"
+    ],
+    [
+      "fear",
+      4,
+      "anger"
+    ],
+    [
       "military",
       4,
       "fear"
@@ -88,16 +98,6 @@
       "fear"
     ],
     [
-      "alive",
-      3,
-      "joy"
-    ],
-    [
-      "world",
-      3,
-      "trust"
-    ],
-    [
       "food",
       3,
       "joy"
@@ -118,17 +118,7 @@
       "anger"
     ],
     [
-      "change",
-      3,
-      "fear"
-    ],
-    [
       "trump",
-      3,
-      "anger"
-    ],
-    [
-      "fear",
       3,
       "anger"
     ],
@@ -173,17 +163,22 @@
       "joy"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "rescue",
       2,
       "surprise"
     ],
     [
       "humanity",
+      2,
+      "joy"
+    ],
+    [
+      "expert",
+      2,
+      "trust"
+    ],
+    [
+      "alive",
       2,
       "joy"
     ],
@@ -213,9 +208,9 @@
       "sadness"
     ],
     [
-      "believed",
+      "change",
       2,
-      "trust"
+      "fear"
     ],
     [
       "victims",
@@ -241,6 +236,36 @@
       "bases",
       2,
       "trust"
+    ],
+    [
+      "colonialism",
+      1,
+      "disgust"
+    ],
+    [
+      "attempting",
+      1,
+      "anticipation"
+    ],
+    [
+      "isolated",
+      1,
+      "fear"
+    ],
+    [
+      "tribes",
+      1,
+      "trust"
+    ],
+    [
+      "risking",
+      1,
+      "fear"
+    ],
+    [
+      "winning",
+      1,
+      "disgust"
     ],
     [
       "friendships",
@@ -308,6 +333,11 @@
       "surprise"
     ],
     [
+      "home",
+      1,
+      "joy"
+    ],
+    [
       "bout",
       1,
       "anger"
@@ -338,11 +368,6 @@
       "joy"
     ],
     [
-      "expert",
-      1,
-      "trust"
-    ],
-    [
       "ground",
       1,
       "trust"
@@ -351,41 +376,16 @@
       "hope",
       1,
       "surprise"
-    ],
-    [
-      "delivery",
-      1,
-      "anticipation"
-    ],
-    [
-      "guilt",
-      1,
-      "disgust"
-    ],
-    [
-      "association",
-      1,
-      "trust"
-    ],
-    [
-      "guardian",
-      1,
-      "trust"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
+    "joy": 33,
     "trust": 65,
     "fear": 53,
     "surprise": 12,
     "sadness": 14,
-    "disgust": 2,
-    "anger": 98,
-    "anticipation": 25
+    "disgust": 4,
+    "anger": 99,
+    "anticipation": 26
   }
 }
