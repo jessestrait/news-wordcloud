@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T08:51:15.442Z",
+  "generated_at": "2026-09-05T09:06:17.868Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "anger"
     ],
     [
-      "continue",
-      6,
-      "trust"
-    ],
-    [
       "iran",
       6,
       "anger"
@@ -48,6 +43,11 @@
       "fear"
     ],
     [
+      "continue",
+      5,
+      "trust"
+    ],
+    [
       "government",
       4,
       "fear"
@@ -56,11 +56,6 @@
       "death",
       4,
       "sadness"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "deportation",
@@ -113,6 +108,11 @@
       "anger"
     ],
     [
+      "attack",
+      3,
+      "anger"
+    ],
+    [
       "change",
       3,
       "fear"
@@ -133,11 +133,6 @@
       "anger"
     ],
     [
-      "victims",
-      3,
-      "anger"
-    ],
-    [
       "defend",
       3,
       "fear"
@@ -146,6 +141,16 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
+      "feeling",
+      2,
+      "anger"
     ],
     [
       "created",
@@ -198,7 +203,7 @@
       "trust"
     ],
     [
-      "protesters",
+      "victims",
       2,
       "anger"
     ],
@@ -233,9 +238,24 @@
       "trust"
     ],
     [
-      "feeling",
+      "traitors",
       1,
       "anger"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "immigrant",
+      1,
+      "fear"
+    ],
+    [
+      "book",
+      1,
+      "trust"
     ],
     [
       "ancient",
@@ -356,36 +376,16 @@
       "votes",
       1,
       "anger"
-    ],
-    [
-      "shows",
-      1,
-      "trust"
-    ],
-    [
-      "true",
-      1,
-      "joy"
-    ],
-    [
-      "sponsored",
-      1,
-      "trust"
-    ],
-    [
-      "holiday",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
     "trust": 63,
-    "fear": 52,
+    "fear": 53,
     "surprise": 12,
     "sadness": 14,
     "disgust": 2,
-    "anger": 102,
-    "anticipation": 24
+    "anger": 99,
+    "anticipation": 25
   }
 }
