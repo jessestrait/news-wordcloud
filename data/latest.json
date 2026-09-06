@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T02:00:30.320Z",
+  "generated_at": "2026-09-06T02:15:32.158Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "strike",
-      8,
-      "anger"
-    ],
-    [
       "flood",
       8,
       "fear"
+    ],
+    [
+      "president",
+      7,
+      "trust"
     ],
     [
       "people",
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
+      "strike",
+      7,
+      "anger"
+    ],
+    [
       "killed",
       6,
       "fear"
-    ],
-    [
-      "president",
-      6,
-      "trust"
     ],
     [
       "attack",
@@ -73,6 +73,11 @@
       "trust"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "alive",
       3,
       "joy"
@@ -91,6 +96,11 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "food",
@@ -116,6 +126,11 @@
       "change",
       2,
       "fear"
+    ],
+    [
+      "coming",
+      2,
+      "anticipation"
     ],
     [
       "ground",
@@ -178,11 +193,6 @@
       "trust"
     ],
     [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
       "happened",
       2,
       "anticipation"
@@ -206,11 +216,6 @@
       "black",
       2,
       "sadness"
-    ],
-    [
-      "trump",
-      2,
-      "anger"
     ],
     [
       "challenges",
@@ -258,7 +263,12 @@
       "anger"
     ],
     [
-      "vow",
+      "white",
+      1,
+      "joy"
+    ],
+    [
+      "house",
       1,
       "joy"
     ],
@@ -366,26 +376,16 @@
       "investigation",
       1,
       "anticipation"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
-    ],
-    [
-      "colonialism",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 62,
+    "joy": 34,
+    "trust": 63,
     "fear": 53,
     "surprise": 13,
     "sadness": 14,
     "disgust": 4,
     "anger": 100,
-    "anticipation": 28
+    "anticipation": 30
   }
 }
