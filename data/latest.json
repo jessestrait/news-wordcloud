@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T05:02:02.248Z",
+  "generated_at": "2026-09-06T05:17:04.226Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,11 +63,6 @@
       "sadness"
     ],
     [
-      "missing",
-      4,
-      "fear"
-    ],
-    [
       "continue",
       4,
       "trust"
@@ -121,6 +116,11 @@
       "deportation",
       3,
       "anger"
+    ],
+    [
+      "missing",
+      3,
+      "fear"
     ],
     [
       "coming",
@@ -238,9 +238,14 @@
       "anticipation"
     ],
     [
-      "family",
-      2,
-      "joy"
+      "building",
+      1,
+      "anticipation"
+    ],
+    [
+      "teacher",
+      1,
+      "trust"
     ],
     [
       "passengers",
@@ -371,17 +376,12 @@
       "association",
       1,
       "trust"
-    ],
-    [
-      "guardian",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 65,
-    "fear": 52,
+    "joy": 30,
+    "trust": 66,
+    "fear": 51,
     "surprise": 12,
     "sadness": 14,
     "disgust": 4,
