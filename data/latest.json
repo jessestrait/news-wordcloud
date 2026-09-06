@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:07:43.648Z",
+  "generated_at": "2026-09-06T16:22:46.139Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "killed",
       6,
       "fear"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "flood",
@@ -35,6 +35,11 @@
     [
       "attack",
       5,
+      "anger"
+    ],
+    [
+      "vote",
+      4,
       "anger"
     ],
     [
@@ -73,6 +78,11 @@
       "anticipation"
     ],
     [
+      "poll",
+      3,
+      "trust"
+    ],
+    [
       "trump",
       3,
       "anger"
@@ -98,11 +108,6 @@
       "anger"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "food",
       3,
       "joy"
@@ -123,6 +128,11 @@
       "trust"
     ],
     [
+      "shows",
+      2,
+      "trust"
+    ],
+    [
       "guardian",
       2,
       "trust"
@@ -139,11 +149,6 @@
     ],
     [
       "anti",
-      2,
-      "anger"
-    ],
-    [
-      "vote",
       2,
       "anger"
     ],
@@ -183,11 +188,6 @@
       "anger"
     ],
     [
-      "poll",
-      2,
-      "trust"
-    ],
-    [
       "created",
       2,
       "joy"
@@ -206,6 +206,11 @@
       "expert",
       2,
       "trust"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "sabotage",
@@ -241,6 +246,16 @@
       "victims",
       2,
       "anger"
+    ],
+    [
+      "majority",
+      1,
+      "joy"
+    ],
+    [
+      "counted",
+      1,
+      "trust"
     ],
     [
       "prepares",
@@ -361,31 +376,16 @@
       "rape",
       1,
       "anger"
-    ],
-    [
-      "confession",
-      1,
-      "fear"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
-    ],
-    [
-      "teacher",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 64,
-    "fear": 49,
+    "joy": 29,
+    "trust": 66,
+    "fear": 48,
     "surprise": 11,
     "sadness": 14,
     "disgust": 4,
     "anger": 100,
-    "anticipation": 31
+    "anticipation": 30
   }
 }
