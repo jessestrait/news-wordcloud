@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T13:21:23.379Z",
+  "generated_at": "2026-09-06T13:36:25.417Z",
   "article_count": 50,
   "top_words": [
     [
@@ -128,6 +128,16 @@
       "trust"
     ],
     [
+      "guardian",
+      2,
+      "trust"
+    ],
+    [
+      "risking",
+      2,
+      "fear"
+    ],
+    [
       "predicted",
       2,
       "anticipation"
@@ -141,16 +151,6 @@
       "vote",
       2,
       "anger"
-    ],
-    [
-      "guardian",
-      2,
-      "trust"
-    ],
-    [
-      "risking",
-      2,
-      "fear"
     ],
     [
       "change",
@@ -243,6 +243,21 @@
       "anger"
     ],
     [
+      "defense",
+      1,
+      "anger"
+    ],
+    [
+      "warns",
+      1,
+      "fear"
+    ],
+    [
+      "turmoil",
+      1,
+      "anger"
+    ],
+    [
       "arrive",
       1,
       "anticipation"
@@ -271,21 +286,6 @@
       "share",
       1,
       "joy"
-    ],
-    [
-      "defense",
-      1,
-      "anger"
-    ],
-    [
-      "warns",
-      1,
-      "fear"
-    ],
-    [
-      "turmoil",
-      1,
-      "anger"
     ],
     [
       "ally",
