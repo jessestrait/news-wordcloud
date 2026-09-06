@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-09-06T11:35:20.815Z",
+  "generated_at": "2026-09-06T11:50:23.621Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      12,
+      13,
       "anger"
-    ],
-    [
-      "flood",
-      8,
-      "fear"
     ],
     [
       "people",
@@ -19,6 +14,11 @@
     ],
     [
       "killed",
+      6,
+      "fear"
+    ],
+    [
+      "flood",
       6,
       "fear"
     ],
@@ -98,6 +98,11 @@
       "anger"
     ],
     [
+      "plan",
+      3,
+      "anticipation"
+    ],
+    [
       "food",
       3,
       "joy"
@@ -163,11 +168,6 @@
       "anticipation"
     ],
     [
-      "disaster",
-      2,
-      "anger"
-    ],
-    [
       "found",
       2,
       "joy"
@@ -213,11 +213,6 @@
       "trust"
     ],
     [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
       "alleged",
       2,
       "fear"
@@ -248,8 +243,13 @@
       "anger"
     ],
     [
-      "letters",
-      2,
+      "arrive",
+      1,
+      "anticipation"
+    ],
+    [
+      "arrival",
+      1,
       "anticipation"
     ],
     [
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 65,
-    "fear": 51,
+    "joy": 28,
+    "trust": 64,
+    "fear": 49,
     "surprise": 11,
     "sadness": 14,
     "disgust": 4,
-    "anger": 106,
+    "anger": 102,
     "anticipation": 30
   }
 }
