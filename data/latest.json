@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:19:32.385Z",
+  "generated_at": "2026-09-06T10:19:49.363Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "flood",
       8,
       "fear"
-    ],
-    [
-      "president",
-      7,
-      "trust"
     ],
     [
       "people",
@@ -31,6 +26,11 @@
       "killed",
       6,
       "fear"
+    ],
+    [
+      "president",
+      6,
+      "trust"
     ],
     [
       "death",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 67,
+    "trust": 66,
     "fear": 52,
     "surprise": 12,
     "sadness": 14,
