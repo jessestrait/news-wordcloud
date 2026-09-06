@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T15:07:15.860Z",
+  "generated_at": "2026-09-06T15:22:18.435Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "trust"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "attack",
       5,
       "anger"
@@ -46,6 +41,11 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "military",
@@ -61,6 +61,11 @@
       "world",
       4,
       "trust"
+    ],
+    [
+      "fear",
+      4,
+      "anger"
     ],
     [
       "airport",
@@ -88,11 +93,6 @@
       "surprise"
     ],
     [
-      "fear",
-      3,
-      "anger"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -106,11 +106,6 @@
       "food",
       3,
       "joy"
-    ],
-    [
-      "sabotage",
-      3,
-      "anger"
     ],
     [
       "deportation",
@@ -213,6 +208,11 @@
       "trust"
     ],
     [
+      "sabotage",
+      2,
+      "anger"
+    ],
+    [
       "alleged",
       2,
       "fear"
@@ -221,6 +221,11 @@
       "attempt",
       2,
       "anticipation"
+    ],
+    [
+      "bank",
+      2,
+      "trust"
     ],
     [
       "deadly",
@@ -233,13 +238,23 @@
       "sadness"
     ],
     [
-      "challenges",
+      "victims",
       2,
       "anger"
     ],
     [
-      "victims",
-      2,
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
+      "sluggish",
+      1,
+      "sadness"
+    ],
+    [
+      "cash",
+      1,
       "anger"
     ],
     [
@@ -361,21 +376,6 @@
       "teacher",
       1,
       "trust"
-    ],
-    [
-      "attacked",
-      1,
-      "anger"
-    ],
-    [
-      "evident",
-      1,
-      "trust"
-    ],
-    [
-      "demands",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 11,
     "sadness": 14,
     "disgust": 4,
-    "anger": 102,
-    "anticipation": 30
+    "anger": 100,
+    "anticipation": 31
   }
 }
