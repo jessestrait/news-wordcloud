@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T02:15:32.158Z",
+  "generated_at": "2026-09-06T02:30:34.199Z",
   "article_count": 50,
   "top_words": [
     [
@@ -123,14 +123,14 @@
       "anger"
     ],
     [
-      "change",
-      2,
-      "fear"
-    ],
-    [
       "coming",
       2,
       "anticipation"
+    ],
+    [
+      "change",
+      2,
+      "fear"
     ],
     [
       "ground",
@@ -248,6 +248,16 @@
       "joy"
     ],
     [
+      "white",
+      1,
+      "joy"
+    ],
+    [
+      "house",
+      1,
+      "joy"
+    ],
+    [
       "attacked",
       1,
       "anger"
@@ -261,16 +271,6 @@
       "demands",
       1,
       "anger"
-    ],
-    [
-      "white",
-      1,
-      "joy"
-    ],
-    [
-      "house",
-      1,
-      "joy"
     ],
     [
       "american",
