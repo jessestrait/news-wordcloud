@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T17:38:27.798Z",
+  "generated_at": "2026-09-06T17:53:29.893Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,17 +38,17 @@
       "trust"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
       "vote",
       4,
       "anger"
     ],
     [
       "military",
-      4,
-      "fear"
-    ],
-    [
-      "government",
       4,
       "fear"
     ],
@@ -88,6 +88,11 @@
       "trust"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "alive",
       3,
       "joy"
@@ -123,6 +128,11 @@
       "trust"
     ],
     [
+      "agreement",
+      2,
+      "trust"
+    ],
+    [
       "arrival",
       2,
       "anticipation"
@@ -131,11 +141,6 @@
       "shows",
       2,
       "trust"
-    ],
-    [
-      "iran",
-      2,
-      "anger"
     ],
     [
       "guardian",
@@ -253,6 +258,16 @@
       "anger"
     ],
     [
+      "chris",
+      1,
+      "trust"
+    ],
+    [
+      "prevent",
+      1,
+      "fear"
+    ],
+    [
       "top",
       1,
       "trust"
@@ -361,27 +376,12 @@
       "law",
       1,
       "trust"
-    ],
-    [
-      "broken",
-      1,
-      "anger"
-    ],
-    [
-      "sentence",
-      1,
-      "anger"
-    ],
-    [
-      "fate",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 65,
-    "fear": 48,
+    "trust": 68,
+    "fear": 47,
     "surprise": 12,
     "sadness": 14,
     "disgust": 4,
