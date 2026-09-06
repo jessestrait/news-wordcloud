@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T09:19:10.674Z",
+  "generated_at": "2026-09-06T09:34:12.621Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,12 +63,12 @@
       "anticipation"
     ],
     [
-      "iran",
+      "trump",
       3,
       "anger"
     ],
     [
-      "trump",
+      "iran",
       3,
       "anger"
     ],
@@ -98,11 +98,6 @@
       "anger"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "food",
       3,
       "joy"
@@ -126,11 +121,6 @@
       "continue",
       3,
       "trust"
-    ],
-    [
-      "coming",
-      2,
-      "anticipation"
     ],
     [
       "change",
@@ -203,6 +193,11 @@
       "trust"
     ],
     [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
       "alleged",
       2,
       "fear"
@@ -236,6 +231,16 @@
       "letters",
       2,
       "anticipation"
+    ],
+    [
+      "ally",
+      1,
+      "trust"
+    ],
+    [
+      "law",
+      1,
+      "trust"
     ],
     [
       "eruption",
@@ -303,16 +308,6 @@
       "trust"
     ],
     [
-      "white",
-      1,
-      "joy"
-    ],
-    [
-      "house",
-      1,
-      "joy"
-    ],
-    [
       "attacked",
       1,
       "anger"
@@ -376,16 +371,21 @@
       "clashes",
       1,
       "anger"
+    ],
+    [
+      "manage",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 64,
+    "joy": 28,
+    "trust": 66,
     "fear": 50,
     "surprise": 12,
     "sadness": 15,
     "disgust": 4,
     "anger": 102,
-    "anticipation": 31
+    "anticipation": 29
   }
 }
