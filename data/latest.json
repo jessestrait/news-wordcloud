@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T04:16:39.937Z",
+  "generated_at": "2026-09-06T04:31:42.338Z",
   "article_count": 50,
   "top_words": [
     [
@@ -41,6 +41,11 @@
       "government",
       5,
       "fear"
+    ],
+    [
+      "airport",
+      4,
+      "anticipation"
     ],
     [
       "military",
@@ -113,11 +118,6 @@
       "anger"
     ],
     [
-      "airport",
-      3,
-      "anticipation"
-    ],
-    [
       "deportation",
       3,
       "anger"
@@ -183,6 +183,11 @@
       "joy"
     ],
     [
+      "calls",
+      2,
+      "trust"
+    ],
+    [
       "intelligence",
       2,
       "fear"
@@ -191,11 +196,6 @@
       "expert",
       2,
       "trust"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "alleged",
@@ -238,14 +238,19 @@
       "anticipation"
     ],
     [
-      "defend",
-      2,
-      "fear"
-    ],
-    [
       "family",
       2,
       "joy"
+    ],
+    [
+      "passengers",
+      1,
+      "anticipation"
+    ],
+    [
+      "eruption",
+      1,
+      "anger"
     ],
     [
       "white",
@@ -371,21 +376,16 @@
       "guardian",
       1,
       "trust"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 63,
-    "fear": 53,
-    "surprise": 13,
+    "trust": 65,
+    "fear": 52,
+    "surprise": 12,
     "sadness": 14,
     "disgust": 4,
-    "anger": 100,
-    "anticipation": 30
+    "anger": 99,
+    "anticipation": 31
   }
 }
