@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T18:08:51.695Z",
+  "generated_at": "2026-09-06T18:23:54.020Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,12 +38,12 @@
       "trust"
     ],
     [
-      "iran",
+      "vote",
       4,
       "anger"
     ],
     [
-      "vote",
+      "iran",
       4,
       "anger"
     ],
@@ -128,6 +128,11 @@
       "trust"
     ],
     [
+      "shows",
+      2,
+      "trust"
+    ],
+    [
       "agreement",
       2,
       "trust"
@@ -136,11 +141,6 @@
       "arrival",
       2,
       "anticipation"
-    ],
-    [
-      "shows",
-      2,
-      "trust"
     ],
     [
       "guardian",
@@ -258,6 +258,16 @@
       "anger"
     ],
     [
+      "majority",
+      1,
+      "joy"
+    ],
+    [
+      "counted",
+      1,
+      "trust"
+    ],
+    [
       "chris",
       1,
       "trust"
@@ -291,16 +301,6 @@
       "antichrist",
       1,
       "surprise"
-    ],
-    [
-      "majority",
-      1,
-      "joy"
-    ],
-    [
-      "counted",
-      1,
-      "trust"
     ],
     [
       "prepares",
