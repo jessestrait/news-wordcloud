@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T01:30:10.096Z",
+  "generated_at": "2026-09-06T01:45:12.405Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
+      "strike",
+      8,
+      "anger"
+    ],
+    [
       "flood",
       8,
       "fear"
-    ],
-    [
-      "strike",
-      7,
-      "anger"
     ],
     [
       "people",
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
       "killed",
       6,
       "fear"
+    ],
+    [
+      "president",
+      6,
+      "trust"
     ],
     [
       "attack",
@@ -68,11 +68,6 @@
       "trust"
     ],
     [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
       "official",
       4,
       "trust"
@@ -108,19 +103,19 @@
       "anger"
     ],
     [
+      "airport",
+      3,
+      "anticipation"
+    ],
+    [
       "deportation",
       3,
       "anger"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
-      "american",
+      "change",
       2,
-      "sadness"
+      "fear"
     ],
     [
       "ground",
@@ -141,11 +136,6 @@
       "found",
       2,
       "joy"
-    ],
-    [
-      "operation",
-      2,
-      "fear"
     ],
     [
       "struggle",
@@ -218,12 +208,22 @@
       "sadness"
     ],
     [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "challenges",
       2,
       "anger"
     ],
     [
       "victims",
+      2,
+      "anger"
+    ],
+    [
+      "iran",
       2,
       "anger"
     ],
@@ -243,9 +243,29 @@
       "joy"
     ],
     [
+      "attacked",
+      1,
+      "anger"
+    ],
+    [
+      "evident",
+      1,
+      "trust"
+    ],
+    [
+      "demands",
+      1,
+      "anger"
+    ],
+    [
       "vow",
       1,
       "joy"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
     ],
     [
       "missile",
@@ -323,6 +343,11 @@
       "anticipation"
     ],
     [
+      "operation",
+      1,
+      "fear"
+    ],
+    [
       "guilt",
       1,
       "disgust"
@@ -351,41 +376,16 @@
       "colonialism",
       1,
       "disgust"
-    ],
-    [
-      "attempting",
-      1,
-      "anticipation"
-    ],
-    [
-      "isolated",
-      1,
-      "fear"
-    ],
-    [
-      "tribes",
-      1,
-      "trust"
-    ],
-    [
-      "risking",
-      1,
-      "fear"
-    ],
-    [
-      "winning",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 64,
+    "trust": 62,
     "fear": 53,
     "surprise": 13,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 4,
     "anger": 100,
-    "anticipation": 26
+    "anticipation": 28
   }
 }
