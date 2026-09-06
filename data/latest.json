@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:36:51.501Z",
+  "generated_at": "2026-09-06T14:51:54.073Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,6 +243,16 @@
       "anger"
     ],
     [
+      "eruption",
+      1,
+      "anger"
+    ],
+    [
+      "school",
+      1,
+      "trust"
+    ],
+    [
       "defense",
       1,
       "anger"
@@ -294,16 +304,6 @@
     ],
     [
       "law",
-      1,
-      "trust"
-    ],
-    [
-      "eruption",
-      1,
-      "anger"
-    ],
-    [
-      "school",
       1,
       "trust"
     ],
