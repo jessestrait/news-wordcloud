@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T06:32:53.061Z",
+  "generated_at": "2026-09-06T06:47:55.660Z",
   "article_count": 50,
   "top_words": [
     [
@@ -238,6 +238,16 @@
       "anticipation"
     ],
     [
+      "eruption",
+      1,
+      "anger"
+    ],
+    [
+      "school",
+      1,
+      "trust"
+    ],
+    [
       "broken",
       1,
       "anger"
@@ -289,16 +299,6 @@
     ],
     [
       "teacher",
-      1,
-      "trust"
-    ],
-    [
-      "eruption",
-      1,
-      "anger"
-    ],
-    [
-      "school",
       1,
       "trust"
     ],
