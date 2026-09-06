@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T06:02:29.172Z",
+  "generated_at": "2026-09-06T06:17:31.672Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "fear"
     ],
     [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
       "attack",
       5,
       "anger"
@@ -58,24 +63,19 @@
       "trust"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
-      "continue",
-      4,
-      "trust"
-    ],
-    [
-      "official",
-      4,
-      "trust"
+      "iran",
+      3,
+      "anger"
     ],
     [
       "trump",
       3,
       "anger"
+    ],
+    [
+      "officials",
+      3,
+      "trust"
     ],
     [
       "alive",
@@ -121,6 +121,11 @@
       "missing",
       3,
       "fear"
+    ],
+    [
+      "continue",
+      3,
+      "trust"
     ],
     [
       "coming",
@@ -228,14 +233,54 @@
       "anger"
     ],
     [
-      "iran",
-      2,
-      "anger"
-    ],
-    [
       "letters",
       2,
       "anticipation"
+    ],
+    [
+      "broken",
+      1,
+      "anger"
+    ],
+    [
+      "sentence",
+      1,
+      "anger"
+    ],
+    [
+      "fate",
+      1,
+      "anticipation"
+    ],
+    [
+      "twin",
+      1,
+      "joy"
+    ],
+    [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
+    ],
+    [
+      "guards",
+      1,
+      "fear"
+    ],
+    [
+      "rape",
+      1,
+      "anger"
+    ],
+    [
+      "confession",
+      1,
+      "fear"
     ],
     [
       "building",
@@ -331,61 +376,16 @@
       "clashes",
       1,
       "anger"
-    ],
-    [
-      "manage",
-      1,
-      "trust"
-    ],
-    [
-      "don",
-      1,
-      "trust"
-    ],
-    [
-      "worry",
-      1,
-      "fear"
-    ],
-    [
-      "covered",
-      1,
-      "trust"
-    ],
-    [
-      "battles",
-      1,
-      "anger"
-    ],
-    [
-      "times",
-      1,
-      "anticipation"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "guilt",
-      1,
-      "disgust"
-    ],
-    [
-      "association",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 66,
-    "fear": 51,
+    "trust": 63,
+    "fear": 50,
     "surprise": 12,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 99,
-    "anticipation": 31
+    "anger": 102,
+    "anticipation": 32
   }
 }
