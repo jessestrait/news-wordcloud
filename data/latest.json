@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-07T08:46:22.077Z",
+  "generated_at": "2026-09-07T09:01:24.167Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      11,
+      12,
       "anger"
     ],
     [
       "strike",
-      6,
+      7,
       "anger"
     ],
     [
@@ -28,11 +28,6 @@
       "anger"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "killed",
       4,
       "fear"
@@ -48,13 +43,13 @@
       "trust"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "airport",
       4,
+      "anticipation"
+    ],
+    [
+      "result",
+      3,
       "anticipation"
     ],
     [
@@ -68,9 +63,24 @@
       "trust"
     ],
     [
+      "warns",
+      3,
+      "fear"
+    ],
+    [
       "death",
       3,
       "sadness"
+    ],
+    [
+      "continues",
+      3,
+      "trust"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "officials",
@@ -81,6 +91,11 @@
       "alive",
       3,
       "joy"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "majority",
@@ -106,21 +121,6 @@
       "dispute",
       2,
       "anger"
-    ],
-    [
-      "result",
-      2,
-      "anticipation"
-    ],
-    [
-      "seeking",
-      2,
-      "anticipation"
-    ],
-    [
-      "warns",
-      2,
-      "fear"
     ],
     [
       "agreement",
@@ -224,11 +224,6 @@
     ],
     [
       "bank",
-      2,
-      "trust"
-    ],
-    [
-      "continues",
       2,
       "trust"
     ],
@@ -363,6 +358,11 @@
       "sadness"
     ],
     [
+      "seeking",
+      1,
+      "anticipation"
+    ],
+    [
       "cooperation",
       1,
       "trust"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 62,
+    "joy": 30,
+    "trust": 63,
     "fear": 41,
     "surprise": 13,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 87,
-    "anticipation": 29
+    "anger": 90,
+    "anticipation": 28
   }
 }
