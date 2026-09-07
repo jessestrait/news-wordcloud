@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T03:58:57.977Z",
+  "generated_at": "2026-09-07T04:14:00.368Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,6 +10,11 @@
     [
       "strike",
       6,
+      "anger"
+    ],
+    [
+      "fear",
+      5,
       "anger"
     ],
     [
@@ -38,19 +43,9 @@
       "fear"
     ],
     [
-      "flood",
-      4,
-      "fear"
-    ],
-    [
       "world",
       4,
       "trust"
-    ],
-    [
-      "fear",
-      4,
-      "anger"
     ],
     [
       "president",
@@ -61,6 +56,16 @@
       "airport",
       4,
       "anticipation"
+    ],
+    [
+      "expert",
+      3,
+      "trust"
+    ],
+    [
+      "calls",
+      3,
+      "trust"
     ],
     [
       "death",
@@ -83,18 +88,23 @@
       "joy"
     ],
     [
-      "hit",
+      "deportation",
       3,
       "anger"
     ],
     [
-      "food",
-      3,
+      "true",
+      2,
       "joy"
     ],
     [
-      "deportation",
-      3,
+      "family",
+      2,
+      "joy"
+    ],
+    [
+      "row",
+      2,
       "anger"
     ],
     [
@@ -168,9 +178,9 @@
       "anticipation"
     ],
     [
-      "found",
+      "flood",
       2,
-      "joy"
+      "fear"
     ],
     [
       "rescue",
@@ -203,9 +213,9 @@
       "joy"
     ],
     [
-      "calls",
+      "hit",
       2,
-      "trust"
+      "anger"
     ],
     [
       "intelligence",
@@ -213,14 +223,14 @@
       "fear"
     ],
     [
-      "expert",
-      2,
-      "trust"
-    ],
-    [
       "hope",
       2,
       "surprise"
+    ],
+    [
+      "food",
+      2,
+      "joy"
     ],
     [
       "sabotage",
@@ -248,13 +258,43 @@
       "trust"
     ],
     [
-      "black",
-      2,
-      "sadness"
+      "policy",
+      1,
+      "trust"
     ],
     [
-      "victims",
-      2,
+      "special",
+      1,
+      "joy"
+    ],
+    [
+      "goods",
+      1,
+      "surprise"
+    ],
+    [
+      "important",
+      1,
+      "trust"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
+      "seize",
+      1,
+      "fear"
+    ],
+    [
+      "earth",
+      1,
+      "surprise"
+    ],
+    [
+      "dispute",
+      1,
       "anger"
     ],
     [
@@ -336,56 +376,16 @@
       "arrival",
       1,
       "anticipation"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
-    ],
-    [
-      "sluggish",
-      1,
-      "sadness"
-    ],
-    [
-      "cash",
-      1,
-      "anger"
-    ],
-    [
-      "eruption",
-      1,
-      "anger"
-    ],
-    [
-      "school",
-      1,
-      "trust"
-    ],
-    [
-      "defense",
-      1,
-      "anger"
-    ],
-    [
-      "turmoil",
-      1,
-      "anger"
-    ],
-    [
-      "crucial",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 30,
     "trust": 64,
-    "fear": 44,
-    "surprise": 12,
-    "sadness": 17,
+    "fear": 42,
+    "surprise": 13,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 93,
-    "anticipation": 29
+    "anger": 89,
+    "anticipation": 30
   }
 }
