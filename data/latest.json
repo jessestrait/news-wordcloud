@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:47:54.781Z",
+  "generated_at": "2026-09-07T12:02:56.801Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anticipation"
     ],
     [
+      "vote",
+      3,
+      "anger"
+    ],
+    [
       "warn",
       3,
       "fear"
@@ -93,7 +98,7 @@
       "joy"
     ],
     [
-      "majority",
+      "victory",
       2,
       "joy"
     ],
@@ -154,11 +159,6 @@
     ],
     [
       "anti",
-      2,
-      "anger"
-    ],
-    [
-      "vote",
       2,
       "anger"
     ],
@@ -238,14 +238,14 @@
       "trust"
     ],
     [
-      "parliament",
+      "shock",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "leaving",
+      "chancellor",
       1,
-      "sadness"
+      "trust"
     ],
     [
       "butcher",
@@ -383,9 +383,9 @@
     "trust": 60,
     "fear": 41,
     "surprise": 14,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 4,
-    "anger": 83,
+    "anger": 85,
     "anticipation": 30
   }
 }
