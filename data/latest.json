@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T01:27:52.752Z",
+  "generated_at": "2026-09-07T01:42:54.956Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,11 +24,6 @@
     ],
     [
       "people",
-      5,
-      "trust"
-    ],
-    [
-      "president",
       5,
       "trust"
     ],
@@ -63,14 +58,14 @@
       "anger"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "airport",
       4,
       "anticipation"
-    ],
-    [
-      "trump",
-      3,
-      "anger"
     ],
     [
       "death",
@@ -108,6 +103,11 @@
       "anger"
     ],
     [
+      "seeking",
+      2,
+      "anticipation"
+    ],
+    [
       "warns",
       2,
       "fear"
@@ -139,6 +139,11 @@
     ],
     [
       "anti",
+      2,
+      "anger"
+    ],
+    [
+      "trump",
       2,
       "anger"
     ],
@@ -246,6 +251,11 @@
       "victims",
       2,
       "anger"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
     ],
     [
       "cooperation",
@@ -366,26 +376,16 @@
       "ally",
       1,
       "trust"
-    ],
-    [
-      "law",
-      1,
-      "trust"
-    ],
-    [
-      "broken",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 67,
+    "joy": 28,
+    "trust": 66,
     "fear": 44,
-    "surprise": 12,
-    "sadness": 14,
+    "surprise": 11,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 95,
+    "anger": 94,
     "anticipation": 28
   }
 }
