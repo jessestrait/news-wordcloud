@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:35:42.009Z",
+  "generated_at": "2026-09-07T16:50:44.233Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,11 +83,6 @@
       "sadness"
     ],
     [
-      "continues",
-      3,
-      "trust"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -163,6 +158,11 @@
       "anger"
     ],
     [
+      "continues",
+      2,
+      "trust"
+    ],
+    [
       "officials",
       2,
       "trust"
@@ -223,11 +223,6 @@
       "joy"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "alleged",
       2,
       "fear"
@@ -235,6 +230,16 @@
     [
       "bank",
       2,
+      "trust"
+    ],
+    [
+      "watchdog",
+      1,
+      "trust"
+    ],
+    [
+      "secret",
+      1,
       "trust"
     ],
     [
@@ -371,11 +376,6 @@
       "suddenly",
       1,
       "surprise"
-    ],
-    [
-      "special",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 59,
     "fear": 41,
     "surprise": 13,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 3,
-    "anger": 88,
+    "anger": 85,
     "anticipation": 33
   }
 }
