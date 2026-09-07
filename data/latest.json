@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T14:19:24.831Z",
+  "generated_at": "2026-09-07T14:34:27.125Z",
   "article_count": 50,
   "top_words": [
     [
@@ -233,16 +233,6 @@
       "trust"
     ],
     [
-      "happen",
-      1,
-      "anticipation"
-    ],
-    [
-      "politics",
-      1,
-      "anger"
-    ],
-    [
       "shock",
       1,
       "anger"
@@ -251,6 +241,16 @@
       "chancellor",
       1,
       "trust"
+    ],
+    [
+      "happen",
+      1,
+      "anticipation"
+    ],
+    [
+      "politics",
+      1,
+      "anger"
     ],
     [
       "butcher",
