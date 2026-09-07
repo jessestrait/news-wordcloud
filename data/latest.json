@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-07T07:30:54.002Z",
+  "generated_at": "2026-09-07T07:45:56.382Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      12,
+      11,
       "anger"
     ],
     [
@@ -63,11 +63,6 @@
       "trust"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "death",
       3,
       "sadness"
@@ -78,14 +73,19 @@
       "trust"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "alive",
       3,
       "joy"
+    ],
+    [
+      "majority",
+      2,
+      "joy"
+    ],
+    [
+      "calls",
+      2,
+      "trust"
     ],
     [
       "true",
@@ -163,6 +163,11 @@
       "trust"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "age",
       2,
       "anticipation"
@@ -218,11 +223,6 @@
       "joy"
     ],
     [
-      "sabotage",
-      2,
-      "anger"
-    ],
-    [
       "alleged",
       2,
       "fear"
@@ -246,6 +246,16 @@
       "deportation",
       2,
       "anger"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
     ],
     [
       "ongoing",
@@ -323,11 +333,6 @@
       "sadness"
     ],
     [
-      "majority",
-      1,
-      "joy"
-    ],
-    [
       "surges",
       1,
       "surprise"
@@ -371,21 +376,16 @@
       "prevent",
       1,
       "fear"
-    ],
-    [
-      "top",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 63,
-    "fear": 44,
-    "surprise": 14,
-    "sadness": 15,
+    "fear": 43,
+    "surprise": 13,
+    "sadness": 16,
     "disgust": 4,
-    "anger": 88,
-    "anticipation": 31
+    "anger": 86,
+    "anticipation": 30
   }
 }
