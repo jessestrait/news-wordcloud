@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:17:50.710Z",
+  "generated_at": "2026-09-07T11:32:52.672Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "strike",
-      7,
+      6,
       "anger"
     ],
     [
@@ -96,6 +96,16 @@
       "majority",
       2,
       "joy"
+    ],
+    [
+      "funeral",
+      2,
+      "sadness"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "gardens",
@@ -238,6 +248,26 @@
       "sadness"
     ],
     [
+      "butcher",
+      1,
+      "anger"
+    ],
+    [
+      "hero",
+      1,
+      "surprise"
+    ],
+    [
+      "fanfare",
+      1,
+      "surprise"
+    ],
+    [
+      "convicted",
+      1,
+      "anger"
+    ],
+    [
       "grave",
       1,
       "fear"
@@ -346,46 +376,16 @@
       "earth",
       1,
       "surprise"
-    ],
-    [
-      "falls",
-      1,
-      "sadness"
-    ],
-    [
-      "surges",
-      1,
-      "surprise"
-    ],
-    [
-      "victory",
-      1,
-      "joy"
-    ],
-    [
-      "slumps",
-      1,
-      "sadness"
-    ],
-    [
-      "disastrous",
-      1,
-      "anger"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
     "trust": 60,
     "fear": 41,
-    "surprise": 13,
+    "surprise": 14,
     "sadness": 14,
     "disgust": 4,
-    "anger": 85,
-    "anticipation": 29
+    "anger": 83,
+    "anticipation": 30
   }
 }
