@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:05:20.045Z",
+  "generated_at": "2026-09-07T16:20:22.493Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "attack",
       5,
       "anger"
+    ],
+    [
+      "victory",
+      4,
+      "joy"
     ],
     [
       "people",
@@ -46,11 +51,6 @@
       "airport",
       4,
       "anticipation"
-    ],
-    [
-      "victory",
-      3,
-      "joy"
     ],
     [
       "result",
@@ -93,9 +93,14 @@
       "fear"
     ],
     [
-      "show",
+      "policy",
       2,
       "trust"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "funeral",
@@ -233,9 +238,24 @@
       "trust"
     ],
     [
-      "discontent",
+      "blame",
       1,
       "anger"
+    ],
+    [
+      "failures",
+      1,
+      "fear"
+    ],
+    [
+      "gradual",
+      1,
+      "anticipation"
+    ],
+    [
+      "ideas",
+      1,
+      "trust"
     ],
     [
       "shock",
@@ -353,39 +373,19 @@
       "surprise"
     ],
     [
-      "policy",
-      1,
-      "trust"
-    ],
-    [
       "special",
       1,
       "joy"
-    ],
-    [
-      "goods",
-      1,
-      "surprise"
-    ],
-    [
-      "important",
-      1,
-      "trust"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 58,
-    "fear": 40,
+    "joy": 33,
+    "trust": 59,
+    "fear": 41,
     "surprise": 13,
     "sadness": 13,
     "disgust": 3,
     "anger": 88,
-    "anticipation": 31
+    "anticipation": 33
   }
 }
