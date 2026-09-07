@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:50:44.233Z",
+  "generated_at": "2026-09-07T17:05:46.534Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "world",
       4,
       "trust"
@@ -51,6 +46,11 @@
       "airport",
       4,
       "anticipation"
+    ],
+    [
+      "garden",
+      3,
+      "joy"
     ],
     [
       "result",
@@ -88,6 +88,21 @@
       "fear"
     ],
     [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
+      "letter",
+      2,
+      "anticipation"
+    ],
+    [
+      "black",
+      2,
+      "sadness"
+    ],
+    [
       "policy",
       2,
       "trust"
@@ -106,11 +121,6 @@
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "gardens",
-      2,
-      "joy"
     ],
     [
       "calls",
@@ -223,14 +233,24 @@
       "joy"
     ],
     [
-      "alleged",
-      2,
-      "fear"
-    ],
-    [
       "bank",
       2,
       "trust"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
+    ],
+    [
+      "misleading",
+      1,
+      "anger"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
     ],
     [
       "watchdog",
@@ -356,36 +376,16 @@
       "scandals",
       1,
       "fear"
-    ],
-    [
-      "faithful",
-      1,
-      "trust"
-    ],
-    [
-      "allegations",
-      1,
-      "anger"
-    ],
-    [
-      "suspensions",
-      1,
-      "fear"
-    ],
-    [
-      "suddenly",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 35,
     "trust": 59,
-    "fear": 41,
+    "fear": 39,
     "surprise": 13,
-    "sadness": 12,
+    "sadness": 13,
     "disgust": 3,
-    "anger": 85,
-    "anticipation": 33
+    "anger": 87,
+    "anticipation": 34
   }
 }
