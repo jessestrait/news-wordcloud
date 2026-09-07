@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:19:53.665Z",
+  "generated_at": "2026-09-07T15:34:56.360Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anger"
     ],
     [
+      "fear",
+      5,
+      "anger"
+    ],
+    [
       "attack",
       5,
       "anger"
@@ -21,11 +26,6 @@
       "people",
       4,
       "trust"
-    ],
-    [
-      "fear",
-      4,
-      "anger"
     ],
     [
       "iran",
@@ -91,6 +91,11 @@
       "military",
       3,
       "fear"
+    ],
+    [
+      "show",
+      2,
+      "trust"
     ],
     [
       "funeral",
@@ -193,11 +198,6 @@
       "anger"
     ],
     [
-      "created",
-      2,
-      "joy"
-    ],
-    [
       "home",
       2,
       "joy"
@@ -231,6 +231,11 @@
       "bank",
       2,
       "trust"
+    ],
+    [
+      "discontent",
+      1,
+      "anger"
     ],
     [
       "shock",
@@ -371,21 +376,16 @@
       "seeks",
       1,
       "anticipation"
-    ],
-    [
-      "seize",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 32,
     "trust": 58,
     "fear": 40,
     "surprise": 13,
     "sadness": 13,
-    "disgust": 4,
-    "anger": 86,
+    "disgust": 3,
+    "anger": 88,
     "anticipation": 31
   }
 }
