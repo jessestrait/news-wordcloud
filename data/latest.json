@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:47:32.517Z",
+  "generated_at": "2026-09-07T11:02:34.479Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "anger"
     ],
     [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "fear",
       4,
       "anger"
@@ -31,11 +36,6 @@
       "killed",
       4,
       "fear"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "world",
@@ -94,6 +94,11 @@
     ],
     [
       "majority",
+      2,
+      "joy"
+    ],
+    [
+      "gardens",
       2,
       "joy"
     ],
@@ -188,6 +193,11 @@
       "joy"
     ],
     [
+      "home",
+      2,
+      "joy"
+    ],
+    [
       "intelligence",
       2,
       "fear"
@@ -218,11 +228,6 @@
       "trust"
     ],
     [
-      "deportation",
-      2,
-      "anger"
-    ],
-    [
       "parliament",
       1,
       "trust"
@@ -231,16 +236,6 @@
       "leaving",
       1,
       "sadness"
-    ],
-    [
-      "shared",
-      1,
-      "joy"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
     ],
     [
       "grave",
@@ -256,6 +251,21 @@
       "cooperation",
       1,
       "trust"
+    ],
+    [
+      "experienced",
+      1,
+      "trust"
+    ],
+    [
+      "shared",
+      1,
+      "joy"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
     ],
     [
       "typhoon",
@@ -366,26 +376,16 @@
       "disastrous",
       1,
       "anger"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
-    ],
-    [
-      "seeking",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 34,
     "trust": 61,
-    "fear": 42,
+    "fear": 41,
     "surprise": 13,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 4,
-    "anger": 89,
+    "anger": 85,
     "anticipation": 29
   }
 }
