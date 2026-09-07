@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T08:16:17.846Z",
+  "generated_at": "2026-09-07T08:31:19.949Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "killed",
-      5,
-      "fear"
-    ],
-    [
       "fear",
       4,
       "anger"
@@ -34,6 +29,11 @@
     ],
     [
       "military",
+      4,
+      "fear"
+    ],
+    [
+      "killed",
       4,
       "fear"
     ],
@@ -56,6 +56,11 @@
       "airport",
       4,
       "anticipation"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "expert",
@@ -183,11 +188,6 @@
       "surprise"
     ],
     [
-      "struggle",
-      2,
-      "anger"
-    ],
-    [
       "book",
       2,
       "trust"
@@ -201,11 +201,6 @@
       "created",
       2,
       "joy"
-    ],
-    [
-      "hit",
-      2,
-      "anger"
     ],
     [
       "intelligence",
@@ -228,11 +223,6 @@
       "fear"
     ],
     [
-      "attempt",
-      2,
-      "anticipation"
-    ],
-    [
       "bank",
       2,
       "trust"
@@ -245,6 +235,26 @@
     [
       "deportation",
       2,
+      "anger"
+    ],
+    [
+      "typhoon",
+      1,
+      "fear"
+    ],
+    [
+      "rain",
+      1,
+      "joy"
+    ],
+    [
+      "damage",
+      1,
+      "anger"
+    ],
+    [
+      "oppressive",
+      1,
       "anger"
     ],
     [
@@ -366,26 +376,16 @@
       "history",
       1,
       "trust"
-    ],
-    [
-      "chris",
-      1,
-      "trust"
-    ],
-    [
-      "prevent",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 63,
-    "fear": 43,
+    "joy": 29,
+    "trust": 62,
+    "fear": 41,
     "surprise": 13,
     "sadness": 16,
     "disgust": 4,
-    "anger": 86,
-    "anticipation": 30
+    "anger": 87,
+    "anticipation": 29
   }
 }
