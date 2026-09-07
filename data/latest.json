@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T08:31:19.949Z",
+  "generated_at": "2026-09-07T08:46:22.077Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,7 +103,7 @@
       "joy"
     ],
     [
-      "row",
+      "dispute",
       2,
       "anger"
     ],
@@ -238,6 +238,16 @@
       "anger"
     ],
     [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
       "typhoon",
       1,
       "fear"
@@ -256,16 +266,6 @@
       "oppressive",
       1,
       "anger"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "leaving",
-      1,
-      "sadness"
     ],
     [
       "ongoing",
@@ -333,11 +333,6 @@
       "surprise"
     ],
     [
-      "dispute",
-      1,
-      "anger"
-    ],
-    [
       "falls",
       1,
       "sadness"
@@ -374,6 +369,11 @@
     ],
     [
       "history",
+      1,
+      "trust"
+    ],
+    [
+      "chris",
       1,
       "trust"
     ]
