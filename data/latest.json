@@ -1,21 +1,11 @@
 {
-  "generated_at": "2026-09-07T00:57:30.946Z",
+  "generated_at": "2026-09-07T01:12:33.572Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       12,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
-    ],
-    [
-      "flood",
-      6,
-      "fear"
     ],
     [
       "strike",
@@ -31,6 +21,11 @@
       "killed",
       5,
       "fear"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "president",
@@ -49,6 +44,11 @@
     ],
     [
       "military",
+      4,
+      "fear"
+    ],
+    [
+      "flood",
       4,
       "fear"
     ],
@@ -93,11 +93,6 @@
       "joy"
     ],
     [
-      "rescue",
-      3,
-      "surprise"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -113,14 +108,9 @@
       "anger"
     ],
     [
-      "missing",
-      3,
+      "warns",
+      2,
       "fear"
-    ],
-    [
-      "continue",
-      3,
-      "trust"
     ],
     [
       "show",
@@ -171,6 +161,11 @@
       "found",
       2,
       "joy"
+    ],
+    [
+      "rescue",
+      2,
+      "surprise"
     ],
     [
       "struggle",
@@ -238,9 +233,9 @@
       "trust"
     ],
     [
-      "deadly",
+      "continues",
       2,
-      "anger"
+      "trust"
     ],
     [
       "black",
@@ -251,6 +246,16 @@
       "victims",
       2,
       "anger"
+    ],
+    [
+      "cooperation",
+      1,
+      "trust"
+    ],
+    [
+      "history",
+      1,
+      "trust"
     ],
     [
       "majority",
@@ -333,11 +338,6 @@
       "anger"
     ],
     [
-      "warns",
-      1,
-      "fear"
-    ],
-    [
       "turmoil",
       1,
       "anger"
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 29,
     "trust": 67,
-    "fear": 47,
-    "surprise": 13,
+    "fear": 44,
+    "surprise": 12,
     "sadness": 14,
     "disgust": 4,
-    "anger": 96,
+    "anger": 95,
     "anticipation": 28
   }
 }
