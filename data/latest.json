@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T23:08:52.748Z",
+  "generated_at": "2026-09-07T23:23:55.333Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anticipation"
     ],
     [
+      "dispute",
+      3,
+      "anger"
+    ],
+    [
       "garden",
       3,
       "joy"
@@ -86,6 +91,21 @@
       "military",
       3,
       "fear"
+    ],
+    [
+      "tariffs",
+      2,
+      "anger"
+    ],
+    [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
+      "goods",
+      2,
+      "surprise"
     ],
     [
       "chancellor",
@@ -138,11 +158,6 @@
       "joy"
     ],
     [
-      "dispute",
-      2,
-      "anger"
-    ],
-    [
       "agreement",
       2,
       "trust"
@@ -166,11 +181,6 @@
       "anti",
       2,
       "anger"
-    ],
-    [
-      "continues",
-      2,
-      "trust"
     ],
     [
       "officials",
@@ -233,8 +243,28 @@
       "surprise"
     ],
     [
-      "bank",
-      2,
+      "retaliatory",
+      1,
+      "anger"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
+    ],
+    [
+      "grows",
+      1,
+      "joy"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "covering",
+      1,
       "trust"
     ],
     [
@@ -346,46 +376,16 @@
       "shared",
       1,
       "joy"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
-    ],
-    [
-      "typhoon",
-      1,
-      "fear"
-    ],
-    [
-      "rain",
-      1,
-      "joy"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
-    ],
-    [
-      "oppressive",
-      1,
-      "anger"
-    ],
-    [
-      "ongoing",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
+    "joy": 38,
     "trust": 59,
     "fear": 37,
-    "surprise": 13,
+    "surprise": 14,
     "sadness": 12,
     "disgust": 3,
-    "anger": 82,
+    "anger": 86,
     "anticipation": 34
   }
 }
