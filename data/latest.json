@@ -1,31 +1,21 @@
 {
-  "generated_at": "2026-09-07T17:36:07.861Z",
+  "generated_at": "2026-09-07T17:51:10.333Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      13,
-      "anger"
-    ],
-    [
-      "strike",
-      6,
-      "anger"
-    ],
-    [
-      "fear",
-      5,
-      "anger"
-    ],
-    [
-      "attack",
-      5,
+      12,
       "anger"
     ],
     [
       "victory",
-      4,
+      5,
       "joy"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
     ],
     [
       "people",
@@ -33,7 +23,17 @@
       "trust"
     ],
     [
+      "fear",
+      4,
+      "anger"
+    ],
+    [
       "iran",
+      4,
+      "anger"
+    ],
+    [
+      "attack",
       4,
       "anger"
     ],
@@ -88,19 +88,19 @@
       "fear"
     ],
     [
-      "killed",
-      3,
-      "fear"
+      "chancellor",
+      2,
+      "trust"
+    ],
+    [
+      "triumph",
+      2,
+      "joy"
     ],
     [
       "letter",
       2,
       "anticipation"
-    ],
-    [
-      "black",
-      2,
-      "sadness"
     ],
     [
       "policy",
@@ -178,6 +178,11 @@
       "trust"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
       "ground",
       2,
       "trust"
@@ -228,14 +233,14 @@
       "surprise"
     ],
     [
-      "food",
-      2,
-      "joy"
-    ],
-    [
       "bank",
       2,
       "trust"
+    ],
+    [
+      "vows",
+      1,
+      "joy"
     ],
     [
       "peace",
@@ -246,6 +251,11 @@
       "misleading",
       1,
       "anger"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
     ],
     [
       "conflict",
@@ -286,11 +296,6 @@
       "shock",
       1,
       "anger"
-    ],
-    [
-      "chancellor",
-      1,
-      "trust"
     ],
     [
       "happen",
@@ -371,21 +376,16 @@
       "ongoing",
       1,
       "anticipation"
-    ],
-    [
-      "scandals",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
+    "joy": 37,
     "trust": 59,
-    "fear": 39,
+    "fear": 37,
     "surprise": 13,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 3,
-    "anger": 87,
+    "anger": 82,
     "anticipation": 34
   }
 }
