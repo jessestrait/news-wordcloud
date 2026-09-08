@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:47:23.646Z",
+  "generated_at": "2026-09-08T15:02:25.948Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "family",
+      3,
+      "joy"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -73,19 +78,9 @@
       "anger"
     ],
     [
-      "guardian",
-      3,
-      "trust"
-    ],
-    [
       "garden",
       3,
       "joy"
-    ],
-    [
-      "result",
-      3,
-      "anticipation"
     ],
     [
       "warn",
@@ -178,7 +173,7 @@
       "anger"
     ],
     [
-      "world",
+      "guardian",
       2,
       "trust"
     ],
@@ -198,6 +193,11 @@
       "trust"
     ],
     [
+      "result",
+      2,
+      "anticipation"
+    ],
+    [
       "happen",
       2,
       "anticipation"
@@ -213,11 +213,6 @@
       "anger"
     ],
     [
-      "family",
-      2,
-      "joy"
-    ],
-    [
       "agreement",
       2,
       "trust"
@@ -226,16 +221,6 @@
       "predicted",
       2,
       "anticipation"
-    ],
-    [
-      "military",
-      2,
-      "fear"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "painful",
@@ -256,6 +241,26 @@
       "unacceptable",
       1,
       "sadness"
+    ],
+    [
+      "ordeal",
+      1,
+      "anger"
+    ],
+    [
+      "quiet",
+      1,
+      "sadness"
+    ],
+    [
+      "diplomacy",
+      1,
+      "trust"
+    ],
+    [
+      "seized",
+      1,
+      "fear"
     ],
     [
       "terrorists",
@@ -371,21 +376,16 @@
       "rising",
       1,
       "joy"
-    ],
-    [
-      "retaliatory",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 53,
-    "fear": 46,
+    "joy": 37,
+    "trust": 51,
+    "fear": 45,
     "surprise": 15,
-    "sadness": 15,
-    "disgust": 5,
-    "anger": 97,
-    "anticipation": 29
+    "sadness": 16,
+    "disgust": 4,
+    "anger": 98,
+    "anticipation": 27
   }
 }
