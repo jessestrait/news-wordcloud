@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-09-08T03:56:28.397Z",
+  "generated_at": "2026-09-08T04:11:31.010Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      13,
+      14,
       "anger"
     ],
     [
-      "world",
+      "iran",
       5,
-      "trust"
+      "anger"
     ],
     [
       "victory",
       5,
       "joy"
+    ],
+    [
+      "anti",
+      4,
+      "anger"
     ],
     [
       "people",
@@ -28,14 +33,14 @@
       "anger"
     ],
     [
-      "iran",
-      4,
+      "dispute",
+      3,
       "anger"
     ],
     [
-      "anti",
+      "triumph",
       3,
-      "anger"
+      "joy"
     ],
     [
       "calls",
@@ -48,9 +53,9 @@
       "trust"
     ],
     [
-      "dispute",
+      "world",
       3,
-      "anger"
+      "trust"
     ],
     [
       "garden",
@@ -63,19 +68,9 @@
       "anticipation"
     ],
     [
-      "vote",
-      3,
-      "anger"
-    ],
-    [
       "warn",
       3,
       "fear"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "expert",
@@ -88,34 +83,9 @@
       "anticipation"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "military",
       3,
       "fear"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
-    ],
-    [
-      "turmoil",
-      2,
-      "anger"
-    ],
-    [
-      "flood",
-      2,
-      "fear"
-    ],
-    [
-      "disaster",
-      2,
-      "anger"
     ],
     [
       "tariffs",
@@ -133,14 +103,34 @@
       "surprise"
     ],
     [
+      "pirates",
+      2,
+      "anger"
+    ],
+    [
+      "majority",
+      2,
+      "joy"
+    ],
+    [
+      "turmoil",
+      2,
+      "anger"
+    ],
+    [
+      "flood",
+      2,
+      "fear"
+    ],
+    [
+      "disaster",
+      2,
+      "anger"
+    ],
+    [
       "chancellor",
       2,
       "trust"
-    ],
-    [
-      "triumph",
-      2,
-      "joy"
     ],
     [
       "letter",
@@ -153,9 +143,9 @@
       "trust"
     ],
     [
-      "happened",
+      "vote",
       2,
-      "anticipation"
+      "anger"
     ],
     [
       "funeral",
@@ -163,14 +153,9 @@
       "sadness"
     ],
     [
-      "plan",
+      "hit",
       2,
-      "anticipation"
-    ],
-    [
-      "true",
-      2,
-      "joy"
+      "anger"
     ],
     [
       "family",
@@ -191,6 +176,11 @@
       "predicted",
       2,
       "anticipation"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
     ],
     [
       "attack",
@@ -253,6 +243,86 @@
       "surprise"
     ],
     [
+      "retaliatory",
+      1,
+      "anger"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
+    ],
+    [
+      "grows",
+      1,
+      "joy"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "covering",
+      1,
+      "trust"
+    ],
+    [
+      "chaos",
+      1,
+      "anger"
+    ],
+    [
+      "instability",
+      1,
+      "fear"
+    ],
+    [
+      "ships",
+      1,
+      "anticipation"
+    ],
+    [
+      "disability",
+      1,
+      "sadness"
+    ],
+    [
+      "personal",
+      1,
+      "trust"
+    ],
+    [
+      "independence",
+      1,
+      "surprise"
+    ],
+    [
+      "fascist",
+      1,
+      "disgust"
+    ],
+    [
+      "fundamental",
+      1,
+      "trust"
+    ],
+    [
+      "shockingly",
+      1,
+      "surprise"
+    ],
+    [
+      "shattered",
+      1,
+      "sadness"
+    ],
+    [
+      "die",
+      1,
+      "fear"
+    ],
+    [
       "general",
       1,
       "trust"
@@ -298,31 +368,6 @@
       "anticipation"
     ],
     [
-      "retaliatory",
-      1,
-      "anger"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "grows",
-      1,
-      "joy"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
-    ],
-    [
-      "covering",
-      1,
-      "trust"
-    ],
-    [
       "vows",
       1,
       "joy"
@@ -331,61 +376,16 @@
       "peace",
       1,
       "joy"
-    ],
-    [
-      "misleading",
-      1,
-      "anger"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "watchdog",
-      1,
-      "trust"
-    ],
-    [
-      "secret",
-      1,
-      "trust"
-    ],
-    [
-      "blame",
-      1,
-      "anger"
-    ],
-    [
-      "failures",
-      1,
-      "fear"
-    ],
-    [
-      "gradual",
-      1,
-      "anticipation"
-    ],
-    [
-      "ideas",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 37,
-    "trust": 65,
-    "fear": 38,
-    "surprise": 14,
+    "trust": 62,
+    "fear": 40,
+    "surprise": 16,
     "sadness": 12,
-    "disgust": 4,
-    "anger": 87,
-    "anticipation": 33
+    "disgust": 5,
+    "anger": 90,
+    "anticipation": 31
   }
 }
