@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:16:03.443Z",
+  "generated_at": "2026-09-08T12:31:06.388Z",
   "article_count": 50,
   "top_words": [
     [
@@ -223,21 +223,6 @@
       "fear"
     ],
     [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "retaliate",
-      1,
-      "anger"
-    ],
-    [
-      "wound",
-      1,
-      "anger"
-    ],
-    [
       "painful",
       1,
       "anger"
@@ -256,6 +241,21 @@
       "unacceptable",
       1,
       "sadness"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "retaliate",
+      1,
+      "anger"
+    ],
+    [
+      "wound",
+      1,
+      "anger"
     ],
     [
       "crossing",
