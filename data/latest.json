@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-08T18:34:38.358Z",
+  "generated_at": "2026-09-08T18:49:40.964Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      9,
       "anger"
     ],
     [
@@ -83,9 +83,9 @@
       "joy"
     ],
     [
-      "warn",
-      3,
-      "fear"
+      "illegal",
+      2,
+      "anger"
     ],
     [
       "terrorists",
@@ -148,19 +148,9 @@
       "sadness"
     ],
     [
-      "strike",
-      2,
-      "anger"
-    ],
-    [
       "surge",
       2,
       "surprise"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "tariffs",
@@ -238,6 +228,11 @@
       "anticipation"
     ],
     [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
       "hit",
       2,
       "anger"
@@ -251,6 +246,11 @@
       "predicted",
       2,
       "anticipation"
+    ],
+    [
+      "helplessness",
+      1,
+      "fear"
     ],
     [
       "effective",
@@ -353,11 +353,6 @@
       "anger"
     ],
     [
-      "illegal",
-      1,
-      "anger"
-    ],
-    [
       "crossing",
       1,
       "anger"
@@ -376,16 +371,21 @@
       "berlin",
       1,
       "joy"
+    ],
+    [
+      "strike",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 52,
-    "fear": 36,
+    "joy": 35,
+    "trust": 50,
+    "fear": 35,
     "surprise": 14,
     "sadness": 15,
     "disgust": 5,
-    "anger": 97,
+    "anger": 95,
     "anticipation": 24
   }
 }
