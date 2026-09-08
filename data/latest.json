@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:00:11.774Z",
+  "generated_at": "2026-09-08T11:15:15.189Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "joy"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "iran",
       5,
       "anger"
@@ -23,11 +28,6 @@
       "anger"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "anti",
       4,
       "anger"
@@ -35,6 +35,11 @@
     [
       "flood",
       4,
+      "fear"
+    ],
+    [
+      "missing",
+      3,
       "fear"
     ],
     [
@@ -91,11 +96,6 @@
       "surge",
       2,
       "surprise"
-    ],
-    [
-      "missing",
-      2,
-      "fear"
     ],
     [
       "rescue",
@@ -223,11 +223,6 @@
       "fear"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "book",
       2,
       "trust"
@@ -236,6 +231,21 @@
       "immigrant",
       2,
       "fear"
+    ],
+    [
+      "crossing",
+      1,
+      "anger"
+    ],
+    [
+      "resulted",
+      1,
+      "anticipation"
+    ],
+    [
+      "child",
+      1,
+      "joy"
     ],
     [
       "painful",
@@ -366,26 +376,16 @@
       "personal",
       1,
       "trust"
-    ],
-    [
-      "independence",
-      1,
-      "surprise"
-    ],
-    [
-      "fascist",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 35,
     "trust": 59,
     "fear": 44,
     "surprise": 15,
     "sadness": 13,
     "disgust": 7,
-    "anger": 94,
-    "anticipation": 30
+    "anger": 95,
+    "anticipation": 31
   }
 }
