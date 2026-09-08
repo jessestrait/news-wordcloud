@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T07:43:33.864Z",
+  "generated_at": "2026-09-08T07:58:35.974Z",
   "article_count": 50,
   "top_words": [
     [
@@ -96,6 +96,11 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "surge",
+      2,
+      "surprise"
     ],
     [
       "general",
@@ -253,11 +258,6 @@
       "fear"
     ],
     [
-      "age",
-      2,
-      "anticipation"
-    ],
-    [
       "book",
       2,
       "trust"
@@ -268,8 +268,33 @@
       "fear"
     ],
     [
-      "feeling",
-      2,
+      "complaints",
+      1,
+      "anger"
+    ],
+    [
+      "complain",
+      1,
+      "anger"
+    ],
+    [
+      "visitors",
+      1,
+      "joy"
+    ],
+    [
+      "disposing",
+      1,
+      "disgust"
+    ],
+    [
+      "rubbish",
+      1,
+      "disgust"
+    ],
+    [
+      "noisy",
+      1,
       "anger"
     ],
     [
@@ -351,41 +376,16 @@
       "personal",
       1,
       "trust"
-    ],
-    [
-      "independence",
-      1,
-      "surprise"
-    ],
-    [
-      "fascist",
-      1,
-      "disgust"
-    ],
-    [
-      "fundamental",
-      1,
-      "trust"
-    ],
-    [
-      "shockingly",
-      1,
-      "surprise"
-    ],
-    [
-      "shattered",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 61,
+    "joy": 35,
+    "trust": 60,
     "fear": 43,
     "surprise": 15,
     "sadness": 13,
-    "disgust": 6,
-    "anger": 95,
-    "anticipation": 32
+    "disgust": 8,
+    "anger": 96,
+    "anticipation": 30
   }
 }
