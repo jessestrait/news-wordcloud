@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T13:16:32.258Z",
+  "generated_at": "2026-09-08T13:31:34.613Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,12 +38,12 @@
       "anger"
     ],
     [
-      "missing",
+      "government",
       3,
       "fear"
     ],
     [
-      "government",
+      "missing",
       3,
       "fear"
     ],
@@ -103,16 +103,6 @@
       "anger"
     ],
     [
-      "alarm",
-      2,
-      "fear"
-    ],
-    [
-      "fall",
-      2,
-      "sadness"
-    ],
-    [
       "bank",
       2,
       "trust"
@@ -121,6 +111,16 @@
       "trade",
       2,
       "trust"
+    ],
+    [
+      "alarm",
+      2,
+      "fear"
+    ],
+    [
+      "fall",
+      2,
+      "sadness"
     ],
     [
       "surge",
@@ -258,6 +258,16 @@
       "sadness"
     ],
     [
+      "terrorists",
+      1,
+      "anger"
+    ],
+    [
+      "condemnation",
+      1,
+      "anger"
+    ],
+    [
       "crossing",
       1,
       "anger"
@@ -276,16 +286,6 @@
       "berlin",
       1,
       "joy"
-    ],
-    [
-      "terrorists",
-      1,
-      "anger"
-    ],
-    [
-      "condemnation",
-      1,
-      "anger"
     ],
     [
       "middle",
