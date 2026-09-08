@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-09-08T12:46:09.124Z",
+  "generated_at": "2026-09-08T13:01:11.611Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      14,
+      12,
       "anger"
+    ],
+    [
+      "victory",
+      7,
+      "joy"
     ],
     [
       "iran",
@@ -13,23 +18,28 @@
       "anger"
     ],
     [
-      "victory",
-      6,
-      "joy"
-    ],
-    [
       "people",
       5,
       "trust"
     ],
     [
-      "fear",
-      5,
+      "anti",
+      4,
       "anger"
     ],
     [
       "flood",
       4,
+      "fear"
+    ],
+    [
+      "fear",
+      4,
+      "anger"
+    ],
+    [
+      "government",
+      3,
       "fear"
     ],
     [
@@ -54,11 +64,6 @@
     ],
     [
       "dispute",
-      3,
-      "anger"
-    ],
-    [
-      "anti",
       3,
       "anger"
     ],
@@ -93,14 +98,29 @@
       "anticipation"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "attack",
       3,
       "anger"
+    ],
+    [
+      "alarm",
+      2,
+      "fear"
+    ],
+    [
+      "fall",
+      2,
+      "sadness"
+    ],
+    [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
+      "trade",
+      2,
+      "trust"
     ],
     [
       "surge",
@@ -188,11 +208,6 @@
       "anger"
     ],
     [
-      "expert",
-      2,
-      "trust"
-    ],
-    [
       "family",
       2,
       "joy"
@@ -213,14 +228,19 @@
       "anticipation"
     ],
     [
-      "officials",
+      "military",
       2,
-      "trust"
+      "fear"
     ],
     [
       "killed",
       2,
       "fear"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
     ],
     [
       "painful",
@@ -241,6 +261,16 @@
       "unacceptable",
       1,
       "sadness"
+    ],
+    [
+      "terrorists",
+      1,
+      "anger"
+    ],
+    [
+      "condemnation",
+      1,
+      "anger"
     ],
     [
       "middle",
@@ -343,49 +373,19 @@
       "anger"
     ],
     [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
       "grows",
       1,
       "joy"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
-    ],
-    [
-      "covering",
-      1,
-      "trust"
-    ],
-    [
-      "chaos",
-      1,
-      "anger"
-    ],
-    [
-      "instability",
-      1,
-      "fear"
-    ],
-    [
-      "ships",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 58,
-    "fear": 43,
+    "joy": 36,
+    "trust": 56,
+    "fear": 45,
     "surprise": 15,
-    "sadness": 14,
-    "disgust": 7,
-    "anger": 98,
+    "sadness": 15,
+    "disgust": 6,
+    "anger": 96,
     "anticipation": 30
   }
 }
