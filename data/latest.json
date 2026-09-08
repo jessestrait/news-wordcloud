@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T05:42:23.618Z",
+  "generated_at": "2026-09-08T05:57:26.348Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
-      "dispute",
-      3,
-      "anger"
-    ],
-    [
       "triumph",
       3,
       "joy"
+    ],
+    [
+      "dispute",
+      3,
+      "anger"
     ],
     [
       "calls",
@@ -71,11 +71,6 @@
       "warn",
       3,
       "fear"
-    ],
-    [
-      "expert",
-      3,
-      "trust"
     ],
     [
       "airports",
@@ -148,6 +143,11 @@
       "anger"
     ],
     [
+      "happen",
+      2,
+      "anticipation"
+    ],
+    [
       "funeral",
       2,
       "sadness"
@@ -156,6 +156,11 @@
       "hit",
       2,
       "anger"
+    ],
+    [
+      "expert",
+      2,
+      "trust"
     ],
     [
       "family",
@@ -198,11 +203,6 @@
       "fear"
     ],
     [
-      "ground",
-      2,
-      "trust"
-    ],
-    [
       "government",
       2,
       "fear"
@@ -211,16 +211,6 @@
       "age",
       2,
       "anticipation"
-    ],
-    [
-      "alive",
-      2,
-      "joy"
-    ],
-    [
-      "rescue",
-      2,
-      "surprise"
     ],
     [
       "book",
@@ -238,9 +228,14 @@
       "joy"
     ],
     [
-      "hope",
-      2,
-      "surprise"
+      "shocked",
+      1,
+      "anger"
+    ],
+    [
+      "rising",
+      1,
+      "joy"
     ],
     [
       "retaliatory",
@@ -376,16 +371,21 @@
       "peace",
       1,
       "joy"
+    ],
+    [
+      "misleading",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
-    "trust": 62,
+    "joy": 36,
+    "trust": 60,
     "fear": 40,
-    "surprise": 16,
+    "surprise": 14,
     "sadness": 12,
     "disgust": 5,
-    "anger": 90,
-    "anticipation": 31
+    "anger": 91,
+    "anticipation": 32
   }
 }
