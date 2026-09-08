@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T13:01:29.519Z",
+  "generated_at": "2026-09-08T13:16:32.258Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "anger"
     ],
     [
+      "missing",
+      3,
+      "fear"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -46,11 +51,6 @@
       "strike",
       3,
       "anger"
-    ],
-    [
-      "missing",
-      3,
-      "fear"
     ],
     [
       "vote",
@@ -238,11 +238,6 @@
       "fear"
     ],
     [
-      "berlin",
-      1,
-      "joy"
-    ],
-    [
       "painful",
       1,
       "anger"
@@ -261,6 +256,26 @@
       "unacceptable",
       1,
       "sadness"
+    ],
+    [
+      "crossing",
+      1,
+      "anger"
+    ],
+    [
+      "resulted",
+      1,
+      "anticipation"
+    ],
+    [
+      "child",
+      1,
+      "joy"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
     ],
     [
       "terrorists",
@@ -286,21 +301,6 @@
       "wound",
       1,
       "anger"
-    ],
-    [
-      "crossing",
-      1,
-      "anger"
-    ],
-    [
-      "resulted",
-      1,
-      "anticipation"
-    ],
-    [
-      "child",
-      1,
-      "joy"
     ],
     [
       "complaints",
