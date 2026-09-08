@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:03:10.165Z",
+  "generated_at": "2026-09-08T16:18:12.280Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,6 +93,11 @@
       "anticipation"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
       "bank",
       2,
       "trust"
@@ -116,11 +121,6 @@
       "watchdog",
       2,
       "trust"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "alarm",
@@ -228,6 +228,26 @@
       "anticipation"
     ],
     [
+      "painful",
+      1,
+      "anger"
+    ],
+    [
+      "expels",
+      1,
+      "anger"
+    ],
+    [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "unacceptable",
+      1,
+      "sadness"
+    ],
+    [
       "ordeal",
       1,
       "anger"
@@ -256,26 +276,6 @@
       "condemnation",
       1,
       "anger"
-    ],
-    [
-      "painful",
-      1,
-      "anger"
-    ],
-    [
-      "expels",
-      1,
-      "anger"
-    ],
-    [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "unacceptable",
-      1,
-      "sadness"
     ],
     [
       "warned",
@@ -316,11 +316,6 @@
       "illegal",
       1,
       "anger"
-    ],
-    [
-      "unrest",
-      1,
-      "fear"
     ],
     [
       "crossing",
@@ -376,12 +371,17 @@
       "disposing",
       1,
       "disgust"
+    ],
+    [
+      "rubbish",
+      1,
+      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
     "trust": 50,
-    "fear": 43,
+    "fear": 42,
     "surprise": 14,
     "sadness": 16,
     "disgust": 4,
