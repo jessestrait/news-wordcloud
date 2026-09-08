@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:32:21.017Z",
+  "generated_at": "2026-09-08T14:47:23.646Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,11 +98,6 @@
       "anticipation"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "bank",
       2,
       "trust"
@@ -111,6 +106,11 @@
       "trade",
       2,
       "trust"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "alarm",
@@ -258,11 +258,6 @@
       "sadness"
     ],
     [
-      "unrest",
-      1,
-      "fear"
-    ],
-    [
       "terrorists",
       1,
       "anger"
@@ -271,6 +266,11 @@
       "condemnation",
       1,
       "anger"
+    ],
+    [
+      "unrest",
+      1,
+      "fear"
     ],
     [
       "crossing",
