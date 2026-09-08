@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:17:45.421Z",
+  "generated_at": "2026-09-08T15:32:48.063Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "attack",
-      4,
+      5,
       "anger"
     ],
     [
@@ -91,6 +91,16 @@
       "airports",
       3,
       "anticipation"
+    ],
+    [
+      "allegation",
+      2,
+      "anger"
+    ],
+    [
+      "offensive",
+      2,
+      "anger"
     ],
     [
       "watchdog",
@@ -218,26 +228,6 @@
       "anticipation"
     ],
     [
-      "crime",
-      1,
-      "anger"
-    ],
-    [
-      "illicit",
-      1,
-      "anger"
-    ],
-    [
-      "losing",
-      1,
-      "anger"
-    ],
-    [
-      "illegal",
-      1,
-      "anger"
-    ],
-    [
       "painful",
       1,
       "anger"
@@ -256,6 +246,46 @@
       "unacceptable",
       1,
       "sadness"
+    ],
+    [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "book",
+      1,
+      "trust"
+    ],
+    [
+      "president",
+      1,
+      "trust"
+    ],
+    [
+      "lie",
+      1,
+      "anger"
+    ],
+    [
+      "crime",
+      1,
+      "anger"
+    ],
+    [
+      "illicit",
+      1,
+      "anger"
+    ],
+    [
+      "losing",
+      1,
+      "anger"
+    ],
+    [
+      "illegal",
+      1,
+      "anger"
     ],
     [
       "ordeal",
@@ -346,46 +376,16 @@
       "disposing",
       1,
       "disgust"
-    ],
-    [
-      "rubbish",
-      1,
-      "disgust"
-    ],
-    [
-      "noisy",
-      1,
-      "anger"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "breaks",
-      1,
-      "surprise"
-    ],
-    [
-      "heart",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 51,
+    "trust": 50,
     "fear": 43,
     "surprise": 14,
     "sadness": 16,
     "disgust": 4,
-    "anger": 101,
-    "anticipation": 27
+    "anger": 104,
+    "anticipation": 25
   }
 }
