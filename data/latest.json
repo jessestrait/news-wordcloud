@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:02:25.948Z",
+  "generated_at": "2026-09-08T15:17:28.420Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,19 +23,9 @@
       "anger"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "anti",
       4,
       "anger"
-    ],
-    [
-      "flood",
-      4,
-      "fear"
     ],
     [
       "fear",
@@ -51,6 +41,11 @@
       "government",
       3,
       "fear"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "missing",
@@ -78,6 +73,11 @@
       "anger"
     ],
     [
+      "flood",
+      3,
+      "fear"
+    ],
+    [
       "garden",
       3,
       "joy"
@@ -91,6 +91,11 @@
       "airports",
       3,
       "anticipation"
+    ],
+    [
+      "watchdog",
+      2,
+      "trust"
     ],
     [
       "bank",
@@ -119,11 +124,6 @@
     ],
     [
       "surge",
-      2,
-      "surprise"
-    ],
-    [
-      "rescue",
       2,
       "surprise"
     ],
@@ -166,11 +166,6 @@
       "calls",
       2,
       "trust"
-    ],
-    [
-      "disaster",
-      2,
-      "anger"
     ],
     [
       "guardian",
@@ -221,6 +216,26 @@
       "predicted",
       2,
       "anticipation"
+    ],
+    [
+      "crime",
+      1,
+      "anger"
+    ],
+    [
+      "illicit",
+      1,
+      "anger"
+    ],
+    [
+      "losing",
+      1,
+      "anger"
+    ],
+    [
+      "illegal",
+      1,
+      "anger"
     ],
     [
       "painful",
@@ -343,6 +358,11 @@
       "anger"
     ],
     [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
       "deadly",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "heart",
       1,
       "joy"
-    ],
-    [
-      "dismay",
-      1,
-      "anger"
-    ],
-    [
-      "immigrants",
-      1,
-      "fear"
-    ],
-    [
-      "shocked",
-      1,
-      "anger"
-    ],
-    [
-      "rising",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
+    "joy": 35,
     "trust": 51,
-    "fear": 45,
-    "surprise": 15,
+    "fear": 43,
+    "surprise": 14,
     "sadness": 16,
     "disgust": 4,
-    "anger": 98,
+    "anger": 101,
     "anticipation": 27
   }
 }
