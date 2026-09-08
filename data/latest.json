@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:18:12.280Z",
+  "generated_at": "2026-09-08T16:33:14.272Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "anti",
       4,
       "anger"
@@ -41,11 +46,6 @@
       "government",
       3,
       "fear"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "missing",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 50,
+    "trust": 51,
     "fear": 42,
     "surprise": 14,
     "sadness": 16,
