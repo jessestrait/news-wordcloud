@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T04:55:01.622Z",
+  "generated_at": "2026-09-09T05:10:03.858Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,13 +13,13 @@
       "joy"
     ],
     [
-      "anti",
+      "iran",
       5,
       "anger"
     ],
     [
-      "iran",
-      5,
+      "anti",
+      4,
       "anger"
     ],
     [
@@ -61,11 +61,6 @@
       "missing",
       3,
       "fear"
-    ],
-    [
-      "vote",
-      3,
-      "anger"
     ],
     [
       "triumph",
@@ -163,6 +158,11 @@
       "surprise"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "tariffs",
       2,
       "anger"
@@ -243,9 +243,29 @@
       "trust"
     ],
     [
-      "predicted",
-      2,
-      "anticipation"
+      "united",
+      1,
+      "trust"
+    ],
+    [
+      "confidence",
+      1,
+      "fear"
+    ],
+    [
+      "creating",
+      1,
+      "joy"
+    ],
+    [
+      "ground",
+      1,
+      "trust"
+    ],
+    [
+      "suggests",
+      1,
+      "trust"
     ],
     [
       "miserable",
@@ -356,36 +376,16 @@
       "diplomacy",
       1,
       "trust"
-    ],
-    [
-      "seized",
-      1,
-      "fear"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
-    ],
-    [
-      "president",
-      1,
-      "trust"
-    ],
-    [
-      "offensive",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 51,
-    "fear": 35,
+    "joy": 35,
+    "trust": 52,
+    "fear": 36,
     "surprise": 14,
     "sadness": 15,
     "disgust": 5,
-    "anger": 91,
-    "anticipation": 22
+    "anger": 89,
+    "anticipation": 20
   }
 }
