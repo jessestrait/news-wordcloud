@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-09T14:45:51.344Z",
+  "generated_at": "2026-09-09T15:00:53.920Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      6,
+      "trust"
+    ],
     [
       "victory",
       6,
       "joy"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "war",
@@ -28,11 +28,6 @@
       "anger"
     ],
     [
-      "family",
-      4,
-      "joy"
-    ],
-    [
       "anti",
       4,
       "anger"
@@ -40,6 +35,11 @@
     [
       "attack",
       4,
+      "anger"
+    ],
+    [
+      "fear",
+      3,
       "anger"
     ],
     [
@@ -93,6 +93,11 @@
       "joy"
     ],
     [
+      "result",
+      2,
+      "anticipation"
+    ],
+    [
       "cancels",
       2,
       "sadness"
@@ -121,6 +126,11 @@
       "failure",
       2,
       "fear"
+    ],
+    [
+      "family",
+      2,
+      "joy"
     ],
     [
       "found",
@@ -208,22 +218,12 @@
       "trust"
     ],
     [
-      "fears",
-      2,
-      "anger"
-    ],
-    [
       "vote",
       2,
       "anger"
     ],
     [
       "tariffs",
-      2,
-      "anger"
-    ],
-    [
-      "dispute",
       2,
       "anger"
     ],
@@ -251,6 +251,21 @@
       "hit",
       2,
       "anger"
+    ],
+    [
+      "surged",
+      1,
+      "surprise"
+    ],
+    [
+      "landslide",
+      1,
+      "fear"
+    ],
+    [
+      "share",
+      1,
+      "joy"
     ],
     [
       "media",
@@ -361,28 +376,13 @@
       "helplessness",
       1,
       "fear"
-    ],
-    [
-      "effective",
-      1,
-      "trust"
-    ],
-    [
-      "officials",
-      1,
-      "trust"
-    ],
-    [
-      "engaged",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
-    "trust": 53,
+    "joy": 36,
+    "trust": 54,
     "fear": 37,
-    "surprise": 11,
+    "surprise": 12,
     "sadness": 13,
     "disgust": 6,
     "anger": 82,
