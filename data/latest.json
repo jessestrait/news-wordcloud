@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:47:38.608Z",
+  "generated_at": "2026-09-09T18:02:41.374Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,14 +253,34 @@
       "anticipation"
     ],
     [
-      "funeral",
-      2,
+      "withdraw",
+      1,
       "sadness"
     ],
     [
-      "plan",
-      2,
+      "games",
+      1,
       "anticipation"
+    ],
+    [
+      "respect",
+      1,
+      "joy"
+    ],
+    [
+      "military",
+      1,
+      "fear"
+    ],
+    [
+      "tensions",
+      1,
+      "anger"
+    ],
+    [
+      "harry",
+      1,
+      "anger"
     ],
     [
       "start",
@@ -356,34 +376,14 @@
       "surged",
       1,
       "surprise"
-    ],
-    [
-      "landslide",
-      1,
-      "fear"
-    ],
-    [
-      "share",
-      1,
-      "joy"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 34,
     "trust": 49,
-    "fear": 41,
-    "surprise": 12,
-    "sadness": 15,
+    "fear": 42,
+    "surprise": 10,
+    "sadness": 14,
     "disgust": 6,
     "anger": 83,
     "anticipation": 24
