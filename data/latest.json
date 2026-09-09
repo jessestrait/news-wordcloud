@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-09T05:40:27.715Z",
+  "generated_at": "2026-09-09T05:55:30.190Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      7,
       "anger"
     ],
     [
       "victory",
       7,
       "joy"
-    ],
-    [
-      "iran",
-      5,
-      "anger"
     ],
     [
       "anti",
@@ -28,17 +23,22 @@
       "trust"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
       "fear",
       4,
       "anger"
     ],
     [
-      "bank",
+      "trade",
       3,
       "trust"
     ],
     [
-      "guardian",
+      "bank",
       3,
       "trust"
     ],
@@ -83,6 +83,11 @@
       "joy"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "missile",
       2,
       "fear"
@@ -93,7 +98,7 @@
       "anger"
     ],
     [
-      "trade",
+      "guardian",
       2,
       "trust"
     ],
@@ -183,11 +188,6 @@
       "joy"
     ],
     [
-      "turmoil",
-      2,
-      "anger"
-    ],
-    [
       "calls",
       2,
       "trust"
@@ -228,11 +228,6 @@
       "anticipation"
     ],
     [
-      "warn",
-      2,
-      "fear"
-    ],
-    [
       "hit",
       2,
       "anger"
@@ -240,6 +235,11 @@
     [
       "agreement",
       2,
+      "trust"
+    ],
+    [
+      "statement",
+      1,
       "trust"
     ],
     [
@@ -313,11 +313,6 @@
       "joy"
     ],
     [
-      "government",
-      1,
-      "fear"
-    ],
-    [
       "helplessness",
       1,
       "fear"
@@ -376,16 +371,21 @@
       "diplomacy",
       1,
       "trust"
+    ],
+    [
+      "seized",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 52,
-    "fear": 36,
+    "trust": 53,
+    "fear": 35,
     "surprise": 14,
     "sadness": 15,
     "disgust": 5,
-    "anger": 89,
+    "anger": 84,
     "anticipation": 20
   }
 }
