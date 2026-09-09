@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T08:42:15.321Z",
+  "generated_at": "2026-09-09T08:57:17.919Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "people",
-      5,
+      6,
       "trust"
     ],
     [
@@ -86,6 +86,16 @@
       "fear",
       3,
       "anger"
+    ],
+    [
+      "disruption",
+      2,
+      "anger"
+    ],
+    [
+      "failure",
+      2,
+      "fear"
     ],
     [
       "deadly",
@@ -366,26 +376,16 @@
       "officials",
       1,
       "trust"
-    ],
-    [
-      "engaged",
-      1,
-      "joy"
-    ],
-    [
-      "money",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 38,
-    "trust": 54,
-    "fear": 34,
-    "surprise": 14,
+    "trust": 55,
+    "fear": 35,
+    "surprise": 13,
     "sadness": 13,
     "disgust": 5,
-    "anger": 85,
+    "anger": 87,
     "anticipation": 16
   }
 }
