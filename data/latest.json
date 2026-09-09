@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-09T03:08:52.775Z",
+  "generated_at": "2026-09-09T03:23:55.318Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      10,
       "anger"
     ],
     [
@@ -13,12 +13,12 @@
       "joy"
     ],
     [
-      "iran",
-      6,
+      "anti",
+      5,
       "anger"
     ],
     [
-      "anti",
+      "iran",
       5,
       "anger"
     ],
@@ -88,6 +88,11 @@
       "joy"
     ],
     [
+      "missile",
+      2,
+      "fear"
+    ],
+    [
       "terrorists",
       2,
       "anger"
@@ -131,6 +136,11 @@
       "police",
       2,
       "fear"
+    ],
+    [
+      "book",
+      2,
+      "trust"
     ],
     [
       "watchdog",
@@ -273,11 +283,6 @@
       "anger"
     ],
     [
-      "missiles",
-      1,
-      "fear"
-    ],
-    [
       "painful",
       1,
       "anger"
@@ -321,11 +326,6 @@
       "warned",
       1,
       "fear"
-    ],
-    [
-      "book",
-      1,
-      "trust"
     ],
     [
       "president",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 50,
-    "fear": 35,
+    "joy": 34,
+    "trust": 51,
+    "fear": 33,
     "surprise": 14,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 95,
-    "anticipation": 23
+    "anger": 91,
+    "anticipation": 22
   }
 }
