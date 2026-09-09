@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:16:44.907Z",
+  "generated_at": "2026-09-09T16:31:47.297Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,14 +48,14 @@
       "anger"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "iran",
       3,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "trump",
@@ -98,14 +98,14 @@
       "joy"
     ],
     [
-      "chaos",
-      2,
-      "anger"
-    ],
-    [
       "ships",
       2,
       "anticipation"
+    ],
+    [
+      "chaos",
+      2,
+      "anger"
     ],
     [
       "cancels",
@@ -263,16 +263,6 @@
       "anticipation"
     ],
     [
-      "remains",
-      1,
-      "fear"
-    ],
-    [
-      "confident",
-      1,
-      "joy"
-    ],
-    [
       "attacked",
       1,
       "anger"
@@ -291,6 +281,16 @@
       "sunk",
       1,
       "fear"
+    ],
+    [
+      "remains",
+      1,
+      "fear"
+    ],
+    [
+      "confident",
+      1,
+      "joy"
     ],
     [
       "media",
