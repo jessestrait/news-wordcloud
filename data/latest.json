@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:01:23.610Z",
+  "generated_at": "2026-09-09T16:16:26.082Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anger"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "iran",
       3,
       "anger"
@@ -93,6 +98,11 @@
       "joy"
     ],
     [
+      "chaos",
+      2,
+      "anger"
+    ],
+    [
       "ships",
       2,
       "anticipation"
@@ -118,16 +128,6 @@
       "anticipation"
     ],
     [
-      "chaos",
-      2,
-      "anger"
-    ],
-    [
-      "confidence",
-      2,
-      "fear"
-    ],
-    [
       "public",
       2,
       "anticipation"
@@ -151,11 +151,6 @@
       "found",
       2,
       "joy"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "missile",
@@ -268,6 +263,16 @@
       "anticipation"
     ],
     [
+      "remains",
+      1,
+      "fear"
+    ],
+    [
+      "confident",
+      1,
+      "joy"
+    ],
+    [
       "attacked",
       1,
       "anger"
@@ -371,17 +376,12 @@
       "statement",
       1,
       "trust"
-    ],
-    [
-      "united",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
+    "joy": 37,
     "trust": 50,
-    "fear": 41,
+    "fear": 42,
     "surprise": 11,
     "sadness": 14,
     "disgust": 6,
