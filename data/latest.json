@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:44:08.533Z",
+  "generated_at": "2026-09-09T11:59:16.882Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,13 +28,18 @@
       "anger"
     ],
     [
-      "family",
-      4,
-      "joy"
-    ],
-    [
       "anti",
       4,
+      "anger"
+    ],
+    [
+      "chancellor",
+      3,
+      "trust"
+    ],
+    [
+      "vote",
+      3,
       "anger"
     ],
     [
@@ -88,21 +93,6 @@
       "joy"
     ],
     [
-      "vows",
-      2,
-      "joy"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
-    ],
-    [
       "president",
       2,
       "trust"
@@ -118,9 +108,29 @@
       "anger"
     ],
     [
+      "vows",
+      2,
+      "joy"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
       "failure",
       2,
       "fear"
+    ],
+    [
+      "family",
+      2,
+      "joy"
     ],
     [
       "found",
@@ -218,17 +228,7 @@
       "anger"
     ],
     [
-      "vote",
-      2,
-      "anger"
-    ],
-    [
       "tariffs",
-      2,
-      "anger"
-    ],
-    [
-      "dispute",
       2,
       "anger"
     ],
@@ -239,11 +239,6 @@
     ],
     [
       "calls",
-      2,
-      "trust"
-    ],
-    [
-      "chancellor",
       2,
       "trust"
     ],
@@ -271,6 +266,16 @@
       "hit",
       2,
       "anger"
+    ],
+    [
+      "seeking",
+      1,
+      "anticipation"
+    ],
+    [
+      "killed",
+      1,
+      "fear"
     ],
     [
       "rescuing",
@@ -306,11 +311,6 @@
       "authorities",
       1,
       "trust"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
     ],
     [
       "second",
@@ -379,9 +379,9 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 38,
-    "trust": 57,
-    "fear": 39,
+    "joy": 36,
+    "trust": 58,
+    "fear": 38,
     "surprise": 13,
     "sadness": 10,
     "disgust": 5,
