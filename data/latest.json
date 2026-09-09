@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T05:55:30.190Z",
+  "generated_at": "2026-09-09T06:10:32.677Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,6 +31,11 @@
       "fear",
       4,
       "anger"
+    ],
+    [
+      "agreement",
+      3,
+      "trust"
     ],
     [
       "trade",
@@ -81,6 +86,11 @@
       "garden",
       3,
       "joy"
+    ],
+    [
+      "president",
+      2,
+      "trust"
     ],
     [
       "government",
@@ -233,9 +243,9 @@
       "anger"
     ],
     [
-      "agreement",
-      2,
-      "trust"
+      "deal",
+      1,
+      "surprise"
     ],
     [
       "statement",
@@ -366,26 +376,16 @@
       "quiet",
       1,
       "sadness"
-    ],
-    [
-      "diplomacy",
-      1,
-      "trust"
-    ],
-    [
-      "seized",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 53,
+    "trust": 54,
     "fear": 35,
-    "surprise": 14,
+    "surprise": 15,
     "sadness": 15,
     "disgust": 5,
-    "anger": 84,
-    "anticipation": 20
+    "anger": 83,
+    "anticipation": 19
   }
 }
