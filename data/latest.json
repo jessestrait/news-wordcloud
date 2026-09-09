@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:32:16.416Z",
+  "generated_at": "2026-09-09T17:47:19.082Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "attack",
       5,
       "anger"
+    ],
+    [
+      "government",
+      4,
+      "fear"
     ],
     [
       "flood",
@@ -48,14 +53,19 @@
       "anger"
     ],
     [
-      "iran",
+      "good",
+      3,
+      "surprise"
+    ],
+    [
+      "illegal",
       3,
       "anger"
     ],
     [
-      "government",
+      "iran",
       3,
-      "fear"
+      "anger"
     ],
     [
       "trump",
@@ -81,6 +91,11 @@
       "chancellor",
       3,
       "trust"
+    ],
+    [
+      "failure",
+      3,
+      "fear"
     ],
     [
       "trade",
@@ -138,19 +153,9 @@
       "anticipation"
     ],
     [
-      "goods",
-      2,
-      "surprise"
-    ],
-    [
       "airport",
       2,
       "anticipation"
-    ],
-    [
-      "failure",
-      2,
-      "fear"
     ],
     [
       "found",
@@ -176,11 +181,6 @@
       "guardian",
       2,
       "trust"
-    ],
-    [
-      "illegal",
-      2,
-      "anger"
     ],
     [
       "condemnation",
@@ -223,11 +223,6 @@
       "trust"
     ],
     [
-      "alarm",
-      2,
-      "fear"
-    ],
-    [
       "strike",
       2,
       "anger"
@@ -266,6 +261,16 @@
       "plan",
       2,
       "anticipation"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
+      "intervention",
+      1,
+      "sadness"
     ],
     [
       "history",
@@ -371,21 +376,16 @@
       "authorities",
       1,
       "trust"
-    ],
-    [
-      "agreed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
     "trust": 49,
-    "fear": 42,
-    "surprise": 11,
-    "sadness": 14,
+    "fear": 41,
+    "surprise": 12,
+    "sadness": 15,
     "disgust": 6,
-    "anger": 82,
-    "anticipation": 23
+    "anger": 83,
+    "anticipation": 24
   }
 }
