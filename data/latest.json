@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:59:16.882Z",
+  "generated_at": "2026-09-09T12:14:19.401Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,19 +13,24 @@
       "joy"
     ],
     [
-      "attack",
+      "war",
       5,
       "anger"
     ],
     [
-      "war",
-      5,
+      "attack",
+      4,
       "anger"
     ],
     [
       "disruption",
       4,
       "anger"
+    ],
+    [
+      "family",
+      4,
+      "joy"
     ],
     [
       "anti",
@@ -108,11 +113,6 @@
       "anger"
     ],
     [
-      "vows",
-      2,
-      "joy"
-    ],
-    [
       "public",
       2,
       "anticipation"
@@ -126,11 +126,6 @@
       "failure",
       2,
       "fear"
-    ],
-    [
-      "family",
-      2,
-      "joy"
     ],
     [
       "found",
@@ -213,11 +208,6 @@
       "anger"
     ],
     [
-      "rescue",
-      2,
-      "surprise"
-    ],
-    [
       "continue",
       2,
       "trust"
@@ -229,6 +219,11 @@
     ],
     [
       "tariffs",
+      2,
+      "anger"
+    ],
+    [
+      "dispute",
       2,
       "anger"
     ],
@@ -268,39 +263,14 @@
       "anger"
     ],
     [
-      "seeking",
-      1,
-      "anticipation"
-    ],
-    [
       "killed",
       1,
       "fear"
     ],
     [
-      "rescuing",
+      "seeking",
       1,
-      "surprise"
-    ],
-    [
-      "asylum",
-      1,
-      "fear"
-    ],
-    [
-      "charity",
-      1,
-      "joy"
-    ],
-    [
-      "volunteers",
-      1,
-      "trust"
-    ],
-    [
-      "abused",
-      1,
-      "anger"
+      "anticipation"
     ],
     [
       "rules",
@@ -376,16 +346,46 @@
       "scarce",
       1,
       "fear"
+    ],
+    [
+      "supply",
+      1,
+      "fear"
+    ],
+    [
+      "filled",
+      1,
+      "trust"
+    ],
+    [
+      "bombs",
+      1,
+      "anger"
+    ],
+    [
+      "supporting",
+      1,
+      "trust"
+    ],
+    [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "helplessness",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 36,
-    "trust": 58,
+    "trust": 57,
     "fear": 38,
-    "surprise": 13,
+    "surprise": 11,
     "sadness": 10,
     "disgust": 5,
-    "anger": 85,
-    "anticipation": 18
+    "anger": 84,
+    "anticipation": 19
   }
 }
