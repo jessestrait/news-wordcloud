@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-09-09T17:02:10.018Z",
+  "generated_at": "2026-09-09T17:17:13.726Z",
   "article_count": 50,
   "top_words": [
-    [
-      "people",
-      6,
-      "trust"
-    ],
     [
       "victory",
       6,
@@ -18,9 +13,9 @@
       "fear"
     ],
     [
-      "war",
+      "people",
       5,
-      "anger"
+      "trust"
     ],
     [
       "attack",
@@ -39,6 +34,11 @@
     ],
     [
       "disruption",
+      4,
+      "anger"
+    ],
+    [
+      "war",
       4,
       "anger"
     ],
@@ -93,9 +93,14 @@
       "joy"
     ],
     [
-      "garden",
+      "letter",
       3,
-      "joy"
+      "anticipation"
+    ],
+    [
+      "fall",
+      2,
+      "sadness"
     ],
     [
       "ships",
@@ -263,6 +268,16 @@
       "anticipation"
     ],
     [
+      "history",
+      1,
+      "trust"
+    ],
+    [
+      "investors",
+      1,
+      "anticipation"
+    ],
+    [
       "attacked",
       1,
       "anger"
@@ -301,11 +316,6 @@
       "celebrating",
       1,
       "joy"
-    ],
-    [
-      "notes",
-      1,
-      "sadness"
     ],
     [
       "ceremony",
@@ -366,26 +376,16 @@
       "agreed",
       1,
       "trust"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
-    "trust": 50,
+    "joy": 33,
+    "trust": 49,
     "fear": 42,
     "surprise": 11,
     "sadness": 14,
     "disgust": 6,
-    "anger": 83,
-    "anticipation": 21
+    "anger": 82,
+    "anticipation": 23
   }
 }
