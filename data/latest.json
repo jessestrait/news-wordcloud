@@ -1,24 +1,29 @@
 {
-  "generated_at": "2026-09-09T11:28:47.211Z",
+  "generated_at": "2026-09-09T11:43:49.272Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      7,
-      "anger"
-    ],
-    [
-      "victory",
-      7,
-      "joy"
-    ],
     [
       "people",
       6,
       "trust"
     ],
     [
+      "victory",
+      6,
+      "joy"
+    ],
+    [
       "attack",
+      5,
+      "anger"
+    ],
+    [
+      "war",
+      5,
+      "anger"
+    ],
+    [
+      "disruption",
       4,
       "anger"
     ],
@@ -31,6 +36,11 @@
       "anti",
       4,
       "anger"
+    ],
+    [
+      "goods",
+      3,
+      "surprise"
     ],
     [
       "police",
@@ -68,11 +78,6 @@
       "joy"
     ],
     [
-      "dispute",
-      3,
-      "anger"
-    ],
-    [
       "flood",
       3,
       "fear"
@@ -83,9 +88,19 @@
       "joy"
     ],
     [
-      "fear",
-      3,
-      "anger"
+      "vows",
+      2,
+      "joy"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
+      "airport",
+      2,
+      "anticipation"
     ],
     [
       "president",
@@ -99,11 +114,6 @@
     ],
     [
       "crossing",
-      2,
-      "anger"
-    ],
-    [
-      "disruption",
       2,
       "anger"
     ],
@@ -188,19 +198,24 @@
       "fear"
     ],
     [
-      "fall",
-      2,
-      "sadness"
-    ],
-    [
       "iran",
       2,
       "anger"
     ],
     [
-      "surge",
+      "rescue",
       2,
       "surprise"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
+      "fears",
+      2,
+      "anger"
     ],
     [
       "vote",
@@ -213,19 +228,14 @@
       "anger"
     ],
     [
-      "goods",
+      "dispute",
       2,
-      "surprise"
+      "anger"
     ],
     [
       "pirates",
       2,
       "anger"
-    ],
-    [
-      "majority",
-      2,
-      "joy"
     ],
     [
       "calls",
@@ -236,11 +246,6 @@
       "chancellor",
       2,
       "trust"
-    ],
-    [
-      "result",
-      2,
-      "anticipation"
     ],
     [
       "happen",
@@ -266,6 +271,41 @@
       "hit",
       2,
       "anger"
+    ],
+    [
+      "rescuing",
+      1,
+      "surprise"
+    ],
+    [
+      "asylum",
+      1,
+      "fear"
+    ],
+    [
+      "charity",
+      1,
+      "joy"
+    ],
+    [
+      "volunteers",
+      1,
+      "trust"
+    ],
+    [
+      "abused",
+      1,
+      "anger"
+    ],
+    [
+      "rules",
+      1,
+      "fear"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
     ],
     [
       "killed",
@@ -336,56 +376,16 @@
       "scarce",
       1,
       "fear"
-    ],
-    [
-      "supply",
-      1,
-      "fear"
-    ],
-    [
-      "filled",
-      1,
-      "trust"
-    ],
-    [
-      "bombs",
-      1,
-      "anger"
-    ],
-    [
-      "supporting",
-      1,
-      "trust"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "helplessness",
-      1,
-      "fear"
-    ],
-    [
-      "effective",
-      1,
-      "trust"
-    ],
-    [
-      "officials",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 38,
-    "trust": 54,
-    "fear": 37,
-    "surprise": 12,
-    "sadness": 13,
+    "trust": 57,
+    "fear": 39,
+    "surprise": 13,
+    "sadness": 10,
     "disgust": 5,
-    "anger": 86,
-    "anticipation": 16
+    "anger": 85,
+    "anticipation": 18
   }
 }
