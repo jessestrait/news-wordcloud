@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:26:25.694Z",
+  "generated_at": "2026-09-09T07:41:28.240Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,8 +28,13 @@
       "anger"
     ],
     [
-      "fear",
-      4,
+      "resign",
+      3,
+      "anger"
+    ],
+    [
+      "hit",
+      3,
       "anger"
     ],
     [
@@ -39,11 +44,6 @@
     ],
     [
       "trade",
-      3,
-      "trust"
-    ],
-    [
-      "bank",
       3,
       "trust"
     ],
@@ -88,6 +88,16 @@
       "joy"
     ],
     [
+      "fear",
+      3,
+      "anger"
+    ],
+    [
+      "chaos",
+      2,
+      "anger"
+    ],
+    [
       "president",
       2,
       "trust"
@@ -106,6 +116,11 @@
       "terrorists",
       2,
       "anger"
+    ],
+    [
+      "bank",
+      2,
+      "trust"
     ],
     [
       "guardian",
@@ -134,11 +149,6 @@
     ],
     [
       "raid",
-      2,
-      "anger"
-    ],
-    [
-      "resigns",
       2,
       "anger"
     ],
@@ -238,9 +248,9 @@
       "anticipation"
     ],
     [
-      "hit",
-      2,
-      "anger"
+      "second",
+      1,
+      "trust"
     ],
     [
       "deal",
@@ -366,16 +376,6 @@
       "unacceptable",
       1,
       "sadness"
-    ],
-    [
-      "ordeal",
-      1,
-      "anger"
-    ],
-    [
-      "quiet",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 54,
     "fear": 35,
     "surprise": 15,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 83,
-    "anticipation": 19
+    "anger": 84,
+    "anticipation": 18
   }
 }
