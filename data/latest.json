@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-09-09T22:19:45.931Z",
+  "generated_at": "2026-09-09T22:20:07.481Z",
   "article_count": 50,
   "top_words": [
-    [
-      "victory",
-      6,
-      "joy"
-    ],
     [
       "missing",
       5,
@@ -20,6 +15,16 @@
     [
       "attack",
       5,
+      "anger"
+    ],
+    [
+      "victory",
+      5,
+      "joy"
+    ],
+    [
+      "trump",
+      4,
       "anger"
     ],
     [
@@ -53,6 +58,11 @@
       "anger"
     ],
     [
+      "terrorist",
+      3,
+      "anger"
+    ],
+    [
       "good",
       3,
       "surprise"
@@ -64,11 +74,6 @@
     ],
     [
       "iran",
-      3,
-      "anger"
-    ],
-    [
-      "trump",
       3,
       "anger"
     ],
@@ -111,6 +116,11 @@
       "letter",
       3,
       "anticipation"
+    ],
+    [
+      "crime",
+      2,
+      "anger"
     ],
     [
       "fall",
@@ -166,11 +176,6 @@
       "missile",
       2,
       "fear"
-    ],
-    [
-      "terrorists",
-      2,
-      "anger"
     ],
     [
       "bank",
@@ -248,9 +253,19 @@
       "anger"
     ],
     [
-      "happen",
-      2,
+      "gang",
+      1,
+      "anger"
+    ],
+    [
+      "seek",
+      1,
       "anticipation"
+    ],
+    [
+      "congress",
+      1,
+      "disgust"
     ],
     [
       "withdraw",
@@ -361,31 +376,16 @@
       "victims",
       1,
       "anger"
-    ],
-    [
-      "friends",
-      1,
-      "joy"
-    ],
-    [
-      "success",
-      1,
-      "joy"
-    ],
-    [
-      "surged",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 33,
     "trust": 49,
     "fear": 42,
     "surprise": 10,
     "sadness": 14,
-    "disgust": 6,
-    "anger": 83,
+    "disgust": 7,
+    "anger": 86,
     "anticipation": 24
   }
 }
