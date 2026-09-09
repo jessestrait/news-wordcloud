@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T13:30:04.390Z",
+  "generated_at": "2026-09-09T13:45:06.548Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "anger"
     ],
     [
+      "policy",
+      4,
+      "trust"
+    ],
+    [
       "disruption",
       4,
       "anger"
@@ -33,14 +38,19 @@
       "anger"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "chancellor",
       3,
       "trust"
-    ],
-    [
-      "vote",
-      3,
-      "anger"
     ],
     [
       "goods",
@@ -53,19 +63,9 @@
       "fear"
     ],
     [
-      "policy",
-      3,
-      "trust"
-    ],
-    [
       "trade",
       3,
       "trust"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
     ],
     [
       "allegation",
@@ -93,6 +93,11 @@
       "joy"
     ],
     [
+      "cancels",
+      2,
+      "sadness"
+    ],
+    [
       "chaos",
       2,
       "anger"
@@ -101,11 +106,6 @@
       "confidence",
       2,
       "fear"
-    ],
-    [
-      "trump",
-      2,
-      "anger"
     ],
     [
       "public",
@@ -213,6 +213,11 @@
       "anger"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "tariffs",
       2,
       "anger"
@@ -248,11 +253,6 @@
       "anger"
     ],
     [
-      "cancels",
-      1,
-      "sadness"
-    ],
-    [
       "media",
       1,
       "disgust"
@@ -266,11 +266,6 @@
       "notes",
       1,
       "sadness"
-    ],
-    [
-      "seeking",
-      1,
-      "anticipation"
     ],
     [
       "rules",
@@ -376,16 +371,21 @@
       "officials",
       1,
       "trust"
+    ],
+    [
+      "engaged",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 37,
-    "trust": 52,
+    "trust": 53,
     "fear": 37,
     "surprise": 11,
-    "sadness": 12,
+    "sadness": 13,
     "disgust": 6,
-    "anger": 81,
-    "anticipation": 19
+    "anger": 82,
+    "anticipation": 18
   }
 }
