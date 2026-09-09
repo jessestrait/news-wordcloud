@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T08:11:51.091Z",
+  "generated_at": "2026-09-09T08:26:53.899Z",
   "article_count": 50,
   "top_words": [
     [
@@ -44,11 +44,6 @@
     ],
     [
       "resign",
-      3,
-      "anger"
-    ],
-    [
-      "hit",
       3,
       "anger"
     ],
@@ -253,6 +248,11 @@
       "anticipation"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "leader",
       1,
       "trust"
@@ -385,7 +385,7 @@
     "surprise": 14,
     "sadness": 13,
     "disgust": 5,
-    "anger": 86,
+    "anger": 85,
     "anticipation": 16
   }
 }
