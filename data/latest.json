@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-09T04:54:44.717Z",
+  "generated_at": "2026-09-09T04:55:01.622Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      9,
       "anger"
     ],
     [
@@ -168,11 +168,6 @@
       "anger"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "goods",
       2,
       "surprise"
@@ -251,6 +246,51 @@
       "predicted",
       2,
       "anticipation"
+    ],
+    [
+      "miserable",
+      1,
+      "anger"
+    ],
+    [
+      "impossible",
+      1,
+      "sadness"
+    ],
+    [
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "scarce",
+      1,
+      "fear"
+    ],
+    [
+      "supply",
+      1,
+      "fear"
+    ],
+    [
+      "filled",
+      1,
+      "trust"
+    ],
+    [
+      "bombs",
+      1,
+      "anger"
+    ],
+    [
+      "supporting",
+      1,
+      "trust"
+    ],
+    [
+      "life",
+      1,
+      "joy"
     ],
     [
       "government",
@@ -336,54 +376,14 @@
       "offensive",
       1,
       "anger"
-    ],
-    [
-      "lie",
-      1,
-      "anger"
-    ],
-    [
-      "crime",
-      1,
-      "anger"
-    ],
-    [
-      "illicit",
-      1,
-      "anger"
-    ],
-    [
-      "losing",
-      1,
-      "anger"
-    ],
-    [
-      "crossing",
-      1,
-      "anger"
-    ],
-    [
-      "resulted",
-      1,
-      "anticipation"
-    ],
-    [
-      "child",
-      1,
-      "joy"
-    ],
-    [
-      "berlin",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 36,
     "trust": 51,
-    "fear": 33,
+    "fear": 35,
     "surprise": 14,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 5,
     "anger": 91,
     "anticipation": 22
