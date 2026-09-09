@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:31:18.518Z",
+  "generated_at": "2026-09-09T15:46:21.191Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,6 +19,11 @@
     ],
     [
       "war",
+      5,
+      "anger"
+    ],
+    [
+      "attack",
       5,
       "anger"
     ],
@@ -43,8 +48,8 @@
       "anger"
     ],
     [
-      "attack",
-      4,
+      "iran",
+      3,
       "anger"
     ],
     [
@@ -88,9 +93,19 @@
       "joy"
     ],
     [
+      "ships",
+      2,
+      "anticipation"
+    ],
+    [
       "cancels",
       2,
       "sadness"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "global",
@@ -213,7 +228,7 @@
       "fear"
     ],
     [
-      "iran",
+      "strike",
       2,
       "anger"
     ],
@@ -253,9 +268,24 @@
       "anticipation"
     ],
     [
-      "hit",
-      2,
+      "attacked",
+      1,
       "anger"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
+    ],
+    [
+      "sunk",
+      1,
+      "fear"
     ],
     [
       "media",
@@ -346,46 +376,16 @@
       "united",
       1,
       "trust"
-    ],
-    [
-      "creating",
-      1,
-      "joy"
-    ],
-    [
-      "ground",
-      1,
-      "trust"
-    ],
-    [
-      "suggests",
-      1,
-      "trust"
-    ],
-    [
-      "miserable",
-      1,
-      "anger"
-    ],
-    [
-      "impossible",
-      1,
-      "sadness"
-    ],
-    [
-      "food",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
+    "joy": 36,
     "trust": 50,
-    "fear": 39,
+    "fear": 41,
     "surprise": 11,
     "sadness": 14,
     "disgust": 6,
-    "anger": 82,
-    "anticipation": 19
+    "anger": 83,
+    "anticipation": 21
   }
 }
