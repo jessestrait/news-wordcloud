@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:38:57.649Z",
+  "generated_at": "2026-09-10T05:53:59.958Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,14 +93,9 @@
       "trust"
     ],
     [
-      "victory",
-      3,
-      "joy"
-    ],
-    [
-      "triumph",
-      3,
-      "joy"
+      "game",
+      2,
+      "anticipation"
     ],
     [
       "crime",
@@ -144,11 +139,6 @@
     ],
     [
       "policy",
-      2,
-      "trust"
-    ],
-    [
-      "chancellor",
       2,
       "trust"
     ],
@@ -218,9 +208,19 @@
       "anger"
     ],
     [
+      "victory",
+      2,
+      "joy"
+    ],
+    [
       "continue",
       2,
       "trust"
+    ],
+    [
+      "triumph",
+      2,
+      "joy"
     ],
     [
       "tariffs",
@@ -231,6 +231,21 @@
       "pirates",
       2,
       "anger"
+    ],
+    [
+      "facts",
+      1,
+      "trust"
+    ],
+    [
+      "journey",
+      1,
+      "fear"
+    ],
+    [
+      "thrones",
+      1,
+      "trust"
     ],
     [
       "poison",
@@ -298,11 +313,6 @@
       "sadness"
     ],
     [
-      "games",
-      1,
-      "anticipation"
-    ],
-    [
       "respect",
       1,
       "joy"
@@ -366,26 +376,16 @@
       "remains",
       1,
       "fear"
-    ],
-    [
-      "confident",
-      1,
-      "joy"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 45,
-    "fear": 44,
+    "joy": 29,
+    "trust": 46,
+    "fear": 45,
     "surprise": 11,
     "sadness": 13,
     "disgust": 7,
     "anger": 85,
-    "anticipation": 22
+    "anticipation": 23
   }
 }
