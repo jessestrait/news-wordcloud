@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:30:17.563Z",
+  "generated_at": "2026-09-10T16:45:20.425Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,11 +9,6 @@
     ],
     [
       "attack",
-      6,
-      "anger"
-    ],
-    [
-      "iran",
       5,
       "anger"
     ],
@@ -23,7 +18,7 @@
       "joy"
     ],
     [
-      "war",
+      "iran",
       4,
       "anger"
     ],
@@ -48,14 +43,14 @@
       "anger"
     ],
     [
+      "war",
+      3,
+      "anger"
+    ],
+    [
       "failure",
       3,
       "fear"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "terrorist",
@@ -76,6 +71,11 @@
       "missing",
       3,
       "fear"
+    ],
+    [
+      "visitors",
+      2,
+      "joy"
     ],
     [
       "secret",
@@ -121,6 +121,11 @@
       "game",
       2,
       "anticipation"
+    ],
+    [
+      "strike",
+      2,
+      "anger"
     ],
     [
       "crime",
@@ -195,6 +200,11 @@
     [
       "allegation",
       2,
+      "anger"
+    ],
+    [
+      "broken",
+      1,
       "anger"
     ],
     [
@@ -366,26 +376,16 @@
       "challenge",
       1,
       "anger"
-    ],
-    [
-      "highest",
-      1,
-      "fear"
-    ],
-    [
-      "levels",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 25,
     "trust": 44,
     "fear": 45,
     "surprise": 5,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 5,
-    "anger": 75,
+    "anger": 70,
     "anticipation": 24
   }
 }
