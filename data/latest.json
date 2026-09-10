@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-10T01:36:54.089Z",
+  "generated_at": "2026-09-10T01:51:56.509Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
+      "war",
+      5,
+      "anger"
+    ],
     [
       "missing",
       5,
@@ -11,11 +21,6 @@
       "people",
       5,
       "trust"
-    ],
-    [
-      "attack",
-      5,
-      "anger"
     ],
     [
       "found",
@@ -48,19 +53,14 @@
       "anger"
     ],
     [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "anti",
       4,
       "anger"
     ],
     [
-      "victory",
-      4,
-      "joy"
+      "strike",
+      3,
+      "anger"
     ],
     [
       "terrorist",
@@ -88,24 +88,14 @@
       "joy"
     ],
     [
-      "fear",
-      3,
-      "anger"
-    ],
-    [
-      "policy",
-      3,
-      "trust"
-    ],
-    [
-      "failure",
-      3,
-      "fear"
-    ],
-    [
       "trade",
       3,
       "trust"
+    ],
+    [
+      "victory",
+      3,
+      "joy"
     ],
     [
       "triumph",
@@ -148,6 +138,16 @@
       "anticipation"
     ],
     [
+      "fear",
+      2,
+      "anger"
+    ],
+    [
+      "policy",
+      2,
+      "trust"
+    ],
+    [
       "chancellor",
       2,
       "trust"
@@ -161,6 +161,11 @@
       "airport",
       2,
       "anticipation"
+    ],
+    [
+      "failure",
+      2,
+      "fear"
     ],
     [
       "missile",
@@ -218,11 +223,6 @@
       "trust"
     ],
     [
-      "strike",
-      2,
-      "anger"
-    ],
-    [
       "continue",
       2,
       "trust"
@@ -236,6 +236,21 @@
       "pirates",
       2,
       "anger"
+    ],
+    [
+      "guess",
+      1,
+      "surprise"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
+    ],
+    [
+      "waited",
+      1,
+      "anticipation"
     ],
     [
       "baby",
@@ -361,31 +376,16 @@
       "ceremony",
       1,
       "surprise"
-    ],
-    [
-      "mourning",
-      1,
-      "sadness"
-    ],
-    [
-      "clues",
-      1,
-      "anticipation"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 48,
+    "joy": 34,
+    "trust": 46,
     "fear": 42,
-    "surprise": 10,
+    "surprise": 11,
     "sadness": 14,
     "disgust": 7,
-    "anger": 84,
+    "anger": 85,
     "anticipation": 23
   }
 }
