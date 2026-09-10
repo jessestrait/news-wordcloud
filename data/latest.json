@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T13:28:28.700Z",
+  "generated_at": "2026-09-10T13:43:30.796Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,16 +83,6 @@
       "joy"
     ],
     [
-      "warned",
-      2,
-      "fear"
-    ],
-    [
-      "corruption",
-      2,
-      "disgust"
-    ],
-    [
       "killings",
       2,
       "anger"
@@ -106,6 +96,16 @@
       "guardian",
       2,
       "trust"
+    ],
+    [
+      "warned",
+      2,
+      "fear"
+    ],
+    [
+      "corruption",
+      2,
+      "disgust"
     ],
     [
       "game",
@@ -203,6 +203,31 @@
       "trust"
     ],
     [
+      "secret",
+      1,
+      "trust"
+    ],
+    [
+      "systems",
+      1,
+      "trust"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "testimony",
+      1,
+      "trust"
+    ],
+    [
+      "surveillance",
+      1,
+      "fear"
+    ],
+    [
       "case",
       1,
       "fear"
@@ -261,31 +286,6 @@
       "conflict",
       1,
       "anger"
-    ],
-    [
-      "secret",
-      1,
-      "trust"
-    ],
-    [
-      "systems",
-      1,
-      "trust"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "testimony",
-      1,
-      "trust"
-    ],
-    [
-      "surveillance",
-      1,
-      "fear"
     ],
     [
       "facts",
