@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:27:14.638Z",
+  "generated_at": "2026-09-10T11:42:16.865Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "people",
       5,
       "trust"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
     ],
     [
       "war",
@@ -64,11 +69,6 @@
     ],
     [
       "illegal",
-      3,
-      "anger"
-    ],
-    [
-      "iran",
       3,
       "anger"
     ],
@@ -210,6 +210,21 @@
     [
       "pirates",
       2,
+      "anger"
+    ],
+    [
+      "seize",
+      1,
+      "fear"
+    ],
+    [
+      "proxies",
+      1,
+      "trust"
+    ],
+    [
+      "conflict",
+      1,
       "anger"
     ],
     [
@@ -361,31 +376,16 @@
       "attacked",
       1,
       "anger"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
-    ],
-    [
-      "sunk",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 27,
     "trust": 44,
-    "fear": 44,
-    "surprise": 10,
-    "sadness": 12,
+    "fear": 45,
+    "surprise": 9,
+    "sadness": 11,
     "disgust": 5,
-    "anger": 81,
+    "anger": 83,
     "anticipation": 22
   }
 }
