@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:57:36.061Z",
+  "generated_at": "2026-09-10T12:12:38.738Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,16 +23,6 @@
       "trust"
     ],
     [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "found",
       4,
       "joy"
@@ -50,6 +40,16 @@
     [
       "disruption",
       4,
+      "anger"
+    ],
+    [
+      "iran",
+      3,
+      "anger"
+    ],
+    [
+      "war",
+      3,
       "anger"
     ],
     [
@@ -121,16 +121,6 @@
       "fall",
       2,
       "sadness"
-    ],
-    [
-      "ships",
-      2,
-      "anticipation"
-    ],
-    [
-      "chaos",
-      2,
-      "anger"
     ],
     [
       "cancels",
@@ -208,14 +198,24 @@
       "anger"
     ],
     [
-      "pirates",
-      2,
-      "anger"
-    ],
-    [
       "case",
       1,
       "fear"
+    ],
+    [
+      "fascism",
+      1,
+      "disgust"
+    ],
+    [
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
+      "theology",
+      1,
+      "anticipation"
     ],
     [
       "seize",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 27,
     "trust": 44,
-    "fear": 45,
+    "fear": 44,
     "surprise": 9,
     "sadness": 11,
-    "disgust": 5,
-    "anger": 83,
+    "disgust": 6,
+    "anger": 79,
     "anticipation": 22
   }
 }
