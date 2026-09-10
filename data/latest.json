@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:43:04.075Z",
+  "generated_at": "2026-09-10T12:58:06.496Z",
   "article_count": 50,
   "top_words": [
     [
@@ -213,11 +213,6 @@
       "fear"
     ],
     [
-      "spine",
-      1,
-      "anger"
-    ],
-    [
       "council",
       1,
       "trust"
@@ -376,6 +371,11 @@
       "respect",
       1,
       "joy"
+    ],
+    [
+      "tensions",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 8,
     "sadness": 11,
     "disgust": 7,
-    "anger": 75,
+    "anger": 74,
     "anticipation": 23
   }
 }
