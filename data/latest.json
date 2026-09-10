@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-09-10T03:53:11.085Z",
+  "generated_at": "2026-09-10T04:08:13.702Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       6,
       "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "war",
@@ -31,11 +36,6 @@
       "trump",
       4,
       "anger"
-    ],
-    [
-      "government",
-      4,
-      "fear"
     ],
     [
       "flood",
@@ -218,11 +218,6 @@
       "anger"
     ],
     [
-      "watchdog",
-      2,
-      "trust"
-    ],
-    [
       "continue",
       2,
       "trust"
@@ -236,6 +231,26 @@
       "pirates",
       2,
       "anger"
+    ],
+    [
+      "poison",
+      1,
+      "anger"
+    ],
+    [
+      "challenge",
+      1,
+      "anger"
+    ],
+    [
+      "highest",
+      1,
+      "fear"
+    ],
+    [
+      "levels",
+      1,
+      "trust"
     ],
     [
       "guess",
@@ -361,31 +376,16 @@
       "media",
       1,
       "disgust"
-    ],
-    [
-      "celebrating",
-      1,
-      "joy"
-    ],
-    [
-      "happened",
-      1,
-      "anticipation"
-    ],
-    [
-      "ceremony",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 46,
-    "fear": 42,
+    "trust": 45,
+    "fear": 44,
     "surprise": 11,
     "sadness": 14,
     "disgust": 7,
-    "anger": 85,
+    "anger": 87,
     "anticipation": 23
   }
 }
