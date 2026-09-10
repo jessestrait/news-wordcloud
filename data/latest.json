@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:40:11.704Z",
+  "generated_at": "2026-09-10T07:55:14.290Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,6 +14,11 @@
     ],
     [
       "war",
+      5,
+      "anger"
+    ],
+    [
+      "strike",
       5,
       "anger"
     ],
@@ -38,11 +43,6 @@
       "anger"
     ],
     [
-      "flood",
-      4,
-      "fear"
-    ],
-    [
       "police",
       4,
       "fear"
@@ -55,11 +55,6 @@
     [
       "anti",
       4,
-      "anger"
-    ],
-    [
-      "strike",
-      3,
       "anger"
     ],
     [
@@ -83,6 +78,11 @@
       "anger"
     ],
     [
+      "flood",
+      3,
+      "fear"
+    ],
+    [
       "family",
       3,
       "joy"
@@ -90,6 +90,11 @@
     [
       "trade",
       3,
+      "trust"
+    ],
+    [
+      "president",
+      2,
       "trust"
     ],
     [
@@ -128,11 +133,6 @@
       "sadness"
     ],
     [
-      "global",
-      2,
-      "anticipation"
-    ],
-    [
       "fear",
       2,
       "anger"
@@ -164,11 +164,6 @@
     ],
     [
       "bank",
-      2,
-      "trust"
-    ],
-    [
-      "guardian",
       2,
       "trust"
     ],
@@ -231,6 +226,16 @@
       "pirates",
       2,
       "anger"
+    ],
+    [
+      "kill",
+      1,
+      "fear"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
     ],
     [
       "facts",
@@ -371,21 +376,16 @@
       "sunk",
       1,
       "fear"
-    ],
-    [
-      "remains",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 46,
+    "trust": 44,
     "fear": 45,
     "surprise": 11,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 7,
-    "anger": 85,
-    "anticipation": 23
+    "anger": 86,
+    "anticipation": 22
   }
 }
