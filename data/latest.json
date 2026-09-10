@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:55:14.290Z",
+  "generated_at": "2026-09-10T08:10:16.808Z",
   "article_count": 50,
   "top_words": [
     [
@@ -96,6 +96,11 @@
       "president",
       2,
       "trust"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
     ],
     [
       "game",
@@ -371,11 +376,6 @@
       "hormuz",
       1,
       "fear"
-    ],
-    [
-      "sunk",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 11,
     "sadness": 14,
     "disgust": 7,
-    "anger": 86,
+    "anger": 87,
     "anticipation": 22
   }
 }
