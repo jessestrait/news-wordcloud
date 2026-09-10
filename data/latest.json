@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-09-10T13:58:32.916Z",
+  "generated_at": "2026-09-10T14:13:35.049Z",
   "article_count": 50,
   "top_words": [
+    [
+      "government",
+      6,
+      "fear"
+    ],
     [
       "attack",
       6,
       "anger"
     ],
     [
-      "government",
+      "iran",
       5,
-      "fear"
+      "anger"
     ],
     [
       "missing",
@@ -21,6 +26,11 @@
       "people",
       5,
       "trust"
+    ],
+    [
+      "war",
+      4,
+      "anger"
     ],
     [
       "found",
@@ -41,16 +51,6 @@
       "failure",
       3,
       "fear"
-    ],
-    [
-      "iran",
-      3,
-      "anger"
-    ],
-    [
-      "war",
-      3,
-      "anger"
     ],
     [
       "strike",
@@ -138,11 +138,6 @@
       "sadness"
     ],
     [
-      "fear",
-      2,
-      "anger"
-    ],
-    [
       "policy",
       2,
       "trust"
@@ -193,14 +188,39 @@
       "anger"
     ],
     [
-      "victory",
-      2,
-      "joy"
-    ],
-    [
       "continue",
       2,
       "trust"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "erupts",
+      1,
+      "anger"
+    ],
+    [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
+      "tax",
+      1,
+      "sadness"
+    ],
+    [
+      "foray",
+      1,
+      "anger"
+    ],
+    [
+      "cash",
+      1,
+      "anger"
     ],
     [
       "case",
@@ -356,36 +376,16 @@
       "seek",
       1,
       "anticipation"
-    ],
-    [
-      "congress",
-      1,
-      "disgust"
-    ],
-    [
-      "withdraw",
-      1,
-      "sadness"
-    ],
-    [
-      "respect",
-      1,
-      "joy"
-    ],
-    [
-      "tensions",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 43,
+    "joy": 22,
+    "trust": 44,
     "fear": 48,
-    "surprise": 8,
-    "sadness": 11,
+    "surprise": 7,
+    "sadness": 12,
     "disgust": 7,
-    "anger": 74,
-    "anticipation": 23
+    "anger": 76,
+    "anticipation": 22
   }
 }
