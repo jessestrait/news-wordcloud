@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:59:22.531Z",
+  "generated_at": "2026-09-10T15:14:25.280Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,16 +18,6 @@
       "anger"
     ],
     [
-      "missing",
-      5,
-      "fear"
-    ],
-    [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "war",
       4,
       "anger"
@@ -41,6 +31,11 @@
       "police",
       4,
       "fear"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "disruption",
@@ -73,7 +68,7 @@
       "anger"
     ],
     [
-      "flood",
+      "missing",
       3,
       "fear"
     ],
@@ -81,6 +76,11 @@
       "family",
       3,
       "joy"
+    ],
+    [
+      "remains",
+      2,
+      "fear"
     ],
     [
       "killings",
@@ -188,9 +188,14 @@
       "anger"
     ],
     [
-      "continue",
-      2,
-      "trust"
+      "church",
+      1,
+      "joy"
+    ],
+    [
+      "soldiers",
+      1,
+      "anger"
     ],
     [
       "case",
@@ -371,18 +376,13 @@
       "gang",
       1,
       "anger"
-    ],
-    [
-      "seek",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 44,
-    "fear": 48,
-    "surprise": 7,
+    "joy": 23,
+    "trust": 42,
+    "fear": 45,
+    "surprise": 6,
     "sadness": 12,
     "disgust": 7,
     "anger": 76,
