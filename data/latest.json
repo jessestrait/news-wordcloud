@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:14:25.280Z",
+  "generated_at": "2026-09-10T15:29:28.039Z",
   "article_count": 50,
   "top_words": [
     [
@@ -81,6 +81,11 @@
       "remains",
       2,
       "fear"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "killings",
@@ -371,11 +376,6 @@
       "investigation",
       1,
       "anticipation"
-    ],
-    [
-      "gang",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 12,
     "disgust": 7,
     "anger": 76,
-    "anticipation": 22
+    "anticipation": 23
   }
 }
