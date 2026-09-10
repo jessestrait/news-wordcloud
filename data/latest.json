@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:12:38.738Z",
+  "generated_at": "2026-09-10T12:27:41.418Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "joy"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
       "police",
       4,
       "fear"
@@ -41,6 +36,11 @@
       "disruption",
       4,
       "anger"
+    ],
+    [
+      "failure",
+      3,
+      "fear"
     ],
     [
       "iran",
@@ -63,9 +63,9 @@
       "anger"
     ],
     [
-      "good",
+      "trump",
       3,
-      "surprise"
+      "anger"
     ],
     [
       "illegal",
@@ -83,9 +83,14 @@
       "joy"
     ],
     [
-      "trade",
-      3,
-      "trust"
+      "warned",
+      2,
+      "fear"
+    ],
+    [
+      "corruption",
+      2,
+      "disgust"
     ],
     [
       "killings",
@@ -111,6 +116,11 @@
       "crime",
       2,
       "anger"
+    ],
+    [
+      "good",
+      2,
+      "surprise"
     ],
     [
       "letters",
@@ -148,9 +158,9 @@
       "anticipation"
     ],
     [
-      "failure",
+      "trade",
       2,
-      "fear"
+      "trust"
     ],
     [
       "missile",
@@ -193,9 +203,34 @@
       "trust"
     ],
     [
-      "tariffs",
-      2,
+      "verdict",
+      1,
+      "fear"
+    ],
+    [
+      "spine",
+      1,
       "anger"
+    ],
+    [
+      "council",
+      1,
+      "trust"
+    ],
+    [
+      "inquiry",
+      1,
+      "anticipation"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
+    ],
+    [
+      "risk",
+      1,
+      "fear"
     ],
     [
       "case",
@@ -341,51 +376,16 @@
       "respect",
       1,
       "joy"
-    ],
-    [
-      "tensions",
-      1,
-      "anger"
-    ],
-    [
-      "harry",
-      1,
-      "anger"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
-    ],
-    [
-      "intervention",
-      1,
-      "sadness"
-    ],
-    [
-      "history",
-      1,
-      "trust"
-    ],
-    [
-      "investors",
-      1,
-      "anticipation"
-    ],
-    [
-      "attacked",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 44,
-    "fear": 44,
-    "surprise": 9,
+    "joy": 26,
+    "trust": 43,
+    "fear": 48,
+    "surprise": 8,
     "sadness": 11,
-    "disgust": 6,
-    "anger": 79,
-    "anticipation": 22
+    "disgust": 7,
+    "anger": 75,
+    "anticipation": 23
   }
 }
