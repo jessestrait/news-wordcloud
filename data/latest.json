@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:13:54.390Z",
+  "generated_at": "2026-09-10T14:28:57.126Z",
   "article_count": 50,
   "top_words": [
     [
@@ -193,6 +193,11 @@
       "trust"
     ],
     [
+      "case",
+      1,
+      "fear"
+    ],
+    [
       "violence",
       1,
       "anger"
@@ -221,11 +226,6 @@
       "cash",
       1,
       "anger"
-    ],
-    [
-      "case",
-      1,
-      "fear"
     ],
     [
       "secret",
