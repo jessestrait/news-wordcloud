@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:15:44.449Z",
+  "generated_at": "2026-09-10T17:30:47.074Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,14 +73,14 @@
       "fear"
     ],
     [
-      "visitors",
-      2,
-      "joy"
-    ],
-    [
       "secret",
       2,
       "trust"
+    ],
+    [
+      "visitors",
+      2,
+      "joy"
     ],
     [
       "remains",
@@ -203,19 +203,9 @@
       "anger"
     ],
     [
-      "broken",
-      1,
-      "anger"
-    ],
-    [
       "dispute",
       1,
       "anger"
-    ],
-    [
-      "engulfing",
-      1,
-      "anticipation"
     ],
     [
       "late",
@@ -231,6 +221,11 @@
       "committee",
       1,
       "trust"
+    ],
+    [
+      "broken",
+      1,
+      "anger"
     ],
     [
       "church",
@@ -376,6 +371,11 @@
       "challenge",
       1,
       "anger"
+    ],
+    [
+      "highest",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 12,
     "disgust": 5,
     "anger": 70,
-    "anticipation": 24
+    "anticipation": 23
   }
 }
