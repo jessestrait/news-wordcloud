@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:08:53.015Z",
+  "generated_at": "2026-09-10T05:23:55.331Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,14 +103,14 @@
       "joy"
     ],
     [
-      "letter",
-      3,
-      "anticipation"
-    ],
-    [
       "crime",
       2,
       "anger"
+    ],
+    [
+      "letters",
+      2,
+      "anticipation"
     ],
     [
       "fall",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 32,
     "trust": 45,
     "fear": 44,
     "surprise": 11,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 7,
-    "anger": 87,
-    "anticipation": 23
+    "anger": 85,
+    "anticipation": 22
   }
 }
