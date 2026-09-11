@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:28:49.557Z",
+  "generated_at": "2026-09-11T17:43:52.334Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,6 +31,16 @@
       "disruption",
       4,
       "anger"
+    ],
+    [
+      "policy",
+      3,
+      "trust"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "cash",
@@ -173,19 +183,14 @@
       "fear"
     ],
     [
-      "people",
-      2,
-      "trust"
-    ],
-    [
-      "policy",
-      2,
-      "trust"
-    ],
-    [
       "airport",
       2,
       "anticipation"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
     ],
     [
       "world",
@@ -371,19 +376,14 @@
       "second",
       1,
       "trust"
-    ],
-    [
-      "tracking",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 39,
-    "fear": 41,
+    "joy": 23,
+    "trust": 38,
+    "fear": 40,
     "surprise": 8,
-    "sadness": 11,
+    "sadness": 12,
     "disgust": 5,
     "anger": 63,
     "anticipation": 31
