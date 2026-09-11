@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:55:22.445Z",
+  "generated_at": "2026-09-11T12:10:24.515Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,7 +8,7 @@
       "fear"
     ],
     [
-      "attack",
+      "iran",
       5,
       "anger"
     ],
@@ -18,7 +18,7 @@
       "anger"
     ],
     [
-      "iran",
+      "attack",
       4,
       "anger"
     ],
@@ -26,11 +26,6 @@
       "found",
       4,
       "joy"
-    ],
-    [
-      "police",
-      4,
-      "fear"
     ],
     [
       "disruption",
@@ -63,9 +58,24 @@
       "anger"
     ],
     [
-      "people",
-      3,
+      "tornadoes",
+      2,
+      "fear"
+    ],
+    [
+      "save",
+      2,
+      "joy"
+    ],
+    [
+      "allies",
+      2,
       "trust"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
     ],
     [
       "food",
@@ -123,6 +133,11 @@
       "disgust"
     ],
     [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
       "game",
       2,
       "anticipation"
@@ -158,6 +173,16 @@
       "fear"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
+      "people",
+      2,
+      "trust"
+    ],
+    [
       "policy",
       2,
       "trust"
@@ -173,18 +198,38 @@
       "trust"
     ],
     [
-      "missile",
-      2,
-      "fear"
-    ],
-    [
       "bank",
       2,
       "trust"
     ],
     [
-      "condemnation",
-      2,
+      "powered",
+      1,
+      "anticipation"
+    ],
+    [
+      "bombardment",
+      1,
+      "anger"
+    ],
+    [
+      "kill",
+      1,
+      "fear"
+    ],
+    [
+      "storms",
+      1,
+      "anger"
+    ],
+    [
+      "fatal",
+      1,
+      "anger"
+    ],
+    [
+      "rebels",
+      1,
       "anger"
     ],
     [
@@ -221,11 +266,6 @@
       "wealth",
       1,
       "anticipation"
-    ],
-    [
-      "save",
-      1,
-      "joy"
     ],
     [
       "repellent",
@@ -336,56 +376,16 @@
       "case",
       1,
       "fear"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "erupts",
-      1,
-      "anger"
-    ],
-    [
-      "allies",
-      1,
-      "trust"
-    ],
-    [
-      "foray",
-      1,
-      "anger"
-    ],
-    [
-      "systems",
-      1,
-      "trust"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "testimony",
-      1,
-      "trust"
-    ],
-    [
-      "surveillance",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 43,
-    "fear": 43,
+    "fear": 45,
     "surprise": 6,
     "sadness": 12,
     "disgust": 5,
-    "anger": 68,
-    "anticipation": 25
+    "anger": 71,
+    "anticipation": 26
   }
 }
