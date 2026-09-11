@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-09-11T16:58:24.889Z",
+  "generated_at": "2026-09-11T17:13:29.158Z",
   "article_count": 50,
   "top_words": [
     [
+      "trump",
+      6,
+      "anger"
+    ],
+    [
       "government",
-      7,
+      5,
       "fear"
     ],
     [
-      "trump",
-      5,
-      "anger"
+      "letter",
+      4,
+      "anticipation"
     ],
     [
       "iran",
@@ -118,11 +123,6 @@
       "fear"
     ],
     [
-      "guardian",
-      2,
-      "trust"
-    ],
-    [
       "risk",
       2,
       "fear"
@@ -133,12 +133,12 @@
       "anticipation"
     ],
     [
-      "strike",
+      "fear",
       2,
       "anger"
     ],
     [
-      "terrorist",
+      "strike",
       2,
       "anger"
     ],
@@ -146,16 +146,6 @@
       "good",
       2,
       "surprise"
-    ],
-    [
-      "illegal",
-      2,
-      "anger"
-    ],
-    [
-      "letters",
-      2,
-      "anticipation"
     ],
     [
       "cancels",
@@ -188,9 +178,34 @@
       "anticipation"
     ],
     [
-      "trade",
-      2,
+      "enjoy",
+      1,
+      "joy"
+    ],
+    [
+      "don",
+      1,
       "trust"
+    ],
+    [
+      "home",
+      1,
+      "joy"
+    ],
+    [
+      "ghettos",
+      1,
+      "fear"
+    ],
+    [
+      "treat",
+      1,
+      "anger"
+    ],
+    [
+      "deserves",
+      1,
+      "anger"
     ],
     [
       "president",
@@ -361,31 +376,16 @@
       "reject",
       1,
       "anger"
-    ],
-    [
-      "committee",
-      1,
-      "trust"
-    ],
-    [
-      "broken",
-      1,
-      "anger"
-    ],
-    [
-      "church",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 42,
-    "fear": 46,
+    "joy": 25,
+    "trust": 39,
+    "fear": 44,
     "surprise": 8,
     "sadness": 12,
     "disgust": 5,
-    "anger": 60,
-    "anticipation": 27
+    "anger": 61,
+    "anticipation": 29
   }
 }
