@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:23:41.702Z",
+  "generated_at": "2026-09-11T08:38:43.766Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "war",
       4,
       "anger"
+    ],
+    [
+      "family",
+      4,
+      "joy"
     ],
     [
       "iran",
@@ -41,11 +46,6 @@
       "public",
       3,
       "anticipation"
-    ],
-    [
-      "family",
-      3,
-      "joy"
     ],
     [
       "failure",
@@ -181,31 +181,6 @@
       "condemnation",
       2,
       "anger"
-    ],
-    [
-      "hurricane",
-      1,
-      "fear"
-    ],
-    [
-      "pounds",
-      1,
-      "anger"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
-    ],
-    [
-      "tornado",
-      1,
-      "fear"
-    ],
-    [
-      "watch",
-      1,
-      "fear"
     ],
     [
       "accused",
@@ -376,16 +351,41 @@
       "testimony",
       1,
       "trust"
+    ],
+    [
+      "surveillance",
+      1,
+      "fear"
+    ],
+    [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "verdict",
+      1,
+      "fear"
+    ],
+    [
+      "council",
+      1,
+      "trust"
+    ],
+    [
+      "inquiry",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 43,
-    "fear": 45,
+    "joy": 24,
+    "trust": 44,
+    "fear": 43,
     "surprise": 6,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 71,
+    "anger": 70,
     "anticipation": 25
   }
 }
