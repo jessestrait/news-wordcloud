@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T02:50:43.549Z",
+  "generated_at": "2026-09-11T03:05:45.648Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "fear"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "disruption",
       4,
       "anger"
@@ -68,14 +63,9 @@
       "anger"
     ],
     [
-      "missing",
+      "people",
       3,
-      "fear"
-    ],
-    [
-      "crossing",
-      2,
-      "anger"
+      "trust"
     ],
     [
       "secret",
@@ -153,6 +143,11 @@
       "sadness"
     ],
     [
+      "missing",
+      2,
+      "fear"
+    ],
+    [
       "policy",
       2,
       "trust"
@@ -198,6 +193,21 @@
       "anger"
     ],
     [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "tracking",
+      1,
+      "anticipation"
+    ],
+    [
+      "real",
+      1,
+      "trust"
+    ],
+    [
       "cable",
       1,
       "surprise"
@@ -209,6 +219,11 @@
     ],
     [
       "court",
+      1,
+      "anger"
+    ],
+    [
+      "crossing",
       1,
       "anger"
     ],
@@ -361,31 +376,16 @@
       "conflict",
       1,
       "anger"
-    ],
-    [
-      "facts",
-      1,
-      "trust"
-    ],
-    [
-      "journey",
-      1,
-      "fear"
-    ],
-    [
-      "thrones",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 44,
-    "fear": 44,
+    "joy": 22,
+    "trust": 45,
+    "fear": 43,
     "surprise": 6,
     "sadness": 11,
     "disgust": 5,
-    "anger": 74,
+    "anger": 73,
     "anticipation": 23
   }
 }
