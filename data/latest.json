@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:37:09.965Z",
+  "generated_at": "2026-09-11T05:52:11.952Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "public",
+      3,
+      "anticipation"
+    ],
+    [
       "failure",
       3,
       "fear"
@@ -58,14 +63,19 @@
       "anger"
     ],
     [
-      "illegal",
-      3,
-      "anger"
-    ],
-    [
       "people",
       3,
       "trust"
+    ],
+    [
+      "tax",
+      2,
+      "sadness"
+    ],
+    [
+      "cash",
+      2,
+      "anger"
     ],
     [
       "secret",
@@ -123,14 +133,14 @@
       "anger"
     ],
     [
-      "crime",
-      2,
-      "anger"
-    ],
-    [
       "good",
       2,
       "surprise"
+    ],
+    [
+      "illegal",
+      2,
+      "anger"
     ],
     [
       "letters",
@@ -151,11 +161,6 @@
       "policy",
       2,
       "trust"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "airport",
@@ -191,6 +196,46 @@
       "allegation",
       2,
       "anger"
+    ],
+    [
+      "wealth",
+      1,
+      "anticipation"
+    ],
+    [
+      "save",
+      1,
+      "joy"
+    ],
+    [
+      "repellent",
+      1,
+      "anger"
+    ],
+    [
+      "think",
+      1,
+      "trust"
+    ],
+    [
+      "taxing",
+      1,
+      "sadness"
+    ],
+    [
+      "moral",
+      1,
+      "anger"
+    ],
+    [
+      "truth",
+      1,
+      "trust"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
     ],
     [
       "second",
@@ -288,17 +333,7 @@
       "trust"
     ],
     [
-      "tax",
-      1,
-      "sadness"
-    ],
-    [
       "foray",
-      1,
-      "anger"
-    ],
-    [
-      "cash",
       1,
       "anger"
     ],
@@ -341,51 +376,16 @@
       "legal",
       1,
       "trust"
-    ],
-    [
-      "risk",
-      1,
-      "fear"
-    ],
-    [
-      "fascism",
-      1,
-      "disgust"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
-    ],
-    [
-      "theology",
-      1,
-      "anticipation"
-    ],
-    [
-      "seize",
-      1,
-      "fear"
-    ],
-    [
-      "proxies",
-      1,
-      "trust"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 45,
+    "joy": 23,
+    "trust": 46,
     "fear": 43,
     "surprise": 6,
-    "sadness": 11,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 73,
-    "anticipation": 23
+    "anger": 72,
+    "anticipation": 25
   }
 }
