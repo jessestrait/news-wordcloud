@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:54:57.203Z",
+  "generated_at": "2026-09-11T11:09:59.961Z",
   "article_count": 50,
   "top_words": [
     [
@@ -66,6 +66,11 @@
       "people",
       3,
       "trust"
+    ],
+    [
+      "food",
+      2,
+      "joy"
     ],
     [
       "tax",
@@ -371,21 +376,16 @@
       "surveillance",
       1,
       "fear"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 24,
     "trust": 43,
-    "fear": 44,
+    "fear": 43,
     "surprise": 6,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 5,
-    "anger": 70,
+    "anger": 68,
     "anticipation": 25
   }
 }
