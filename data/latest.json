@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T02:20:39.563Z",
+  "generated_at": "2026-09-11T02:35:41.674Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,6 +10,11 @@
     [
       "attack",
       5,
+      "anger"
+    ],
+    [
+      "war",
+      4,
       "anger"
     ],
     [
@@ -43,11 +48,6 @@
       "anger"
     ],
     [
-      "war",
-      3,
-      "anger"
-    ],
-    [
       "failure",
       3,
       "fear"
@@ -71,6 +71,11 @@
       "missing",
       3,
       "fear"
+    ],
+    [
+      "crossing",
+      2,
+      "anger"
     ],
     [
       "secret",
@@ -143,11 +148,6 @@
       "anticipation"
     ],
     [
-      "fall",
-      2,
-      "sadness"
-    ],
-    [
       "cancels",
       2,
       "sadness"
@@ -188,11 +188,6 @@
       "anger"
     ],
     [
-      "anti",
-      2,
-      "anger"
-    ],
-    [
       "book",
       2,
       "trust"
@@ -200,6 +195,26 @@
     [
       "allegation",
       2,
+      "anger"
+    ],
+    [
+      "cable",
+      1,
+      "surprise"
+    ],
+    [
+      "sabotage",
+      1,
+      "anger"
+    ],
+    [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "threat",
+      1,
       "anger"
     ],
     [
@@ -361,31 +376,16 @@
       "thrones",
       1,
       "trust"
-    ],
-    [
-      "poison",
-      1,
-      "anger"
-    ],
-    [
-      "challenge",
-      1,
-      "anger"
-    ],
-    [
-      "highest",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 23,
     "trust": 44,
-    "fear": 45,
-    "surprise": 5,
-    "sadness": 12,
+    "fear": 44,
+    "surprise": 6,
+    "sadness": 11,
     "disgust": 5,
-    "anger": 70,
+    "anger": 74,
     "anticipation": 23
   }
 }
