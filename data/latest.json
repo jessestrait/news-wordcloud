@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T09:24:06.560Z",
+  "generated_at": "2026-09-11T09:39:08.995Z",
   "article_count": 50,
   "top_words": [
     [
@@ -183,21 +183,6 @@
       "anger"
     ],
     [
-      "dies",
-      1,
-      "fear"
-    ],
-    [
-      "abortion",
-      1,
-      "fear"
-    ],
-    [
-      "divorce",
-      1,
-      "anger"
-    ],
-    [
       "accused",
       1,
       "anger"
@@ -211,6 +196,21 @@
       "killed",
       1,
       "fear"
+    ],
+    [
+      "dies",
+      1,
+      "fear"
+    ],
+    [
+      "abortion",
+      1,
+      "fear"
+    ],
+    [
+      "divorce",
+      1,
+      "anger"
     ],
     [
       "wealth",
