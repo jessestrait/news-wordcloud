@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:12:57.586Z",
+  "generated_at": "2026-09-11T16:28:00.316Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "fear"
     ],
     [
-      "iran",
-      4,
+      "trump",
+      5,
       "anger"
     ],
     [
-      "trump",
+      "iran",
       4,
       "anger"
     ],
@@ -54,11 +54,6 @@
     ],
     [
       "attack",
-      3,
-      "anger"
-    ],
-    [
-      "terrorist",
       3,
       "anger"
     ],
@@ -143,6 +138,11 @@
       "anger"
     ],
     [
+      "terrorist",
+      2,
+      "anger"
+    ],
+    [
       "good",
       2,
       "surprise"
@@ -193,9 +193,19 @@
       "trust"
     ],
     [
-      "bank",
-      2,
+      "president",
+      1,
       "trust"
+    ],
+    [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
+      "hope",
+      1,
+      "surprise"
     ],
     [
       "rapid",
@@ -366,23 +376,13 @@
       "church",
       1,
       "joy"
-    ],
-    [
-      "soldiers",
-      1,
-      "anger"
-    ],
-    [
-      "case",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 43,
+    "trust": 42,
     "fear": 46,
-    "surprise": 7,
+    "surprise": 8,
     "sadness": 12,
     "disgust": 5,
     "anger": 60,
