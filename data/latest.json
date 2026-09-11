@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T12:25:43.569Z",
+  "generated_at": "2026-09-11T12:40:46.253Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,12 +13,12 @@
       "anger"
     ],
     [
-      "war",
+      "trump",
       4,
       "anger"
     ],
     [
-      "attack",
+      "war",
       4,
       "anger"
     ],
@@ -48,12 +48,12 @@
       "fear"
     ],
     [
-      "terrorist",
+      "attack",
       3,
       "anger"
     ],
     [
-      "trump",
+      "terrorist",
       3,
       "anger"
     ],
@@ -203,21 +203,6 @@
       "trust"
     ],
     [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
-    ],
-    [
       "powered",
       1,
       "anticipation"
@@ -239,11 +224,6 @@
     ],
     [
       "fatal",
-      1,
-      "anger"
-    ],
-    [
-      "rebels",
       1,
       "anger"
     ],
@@ -376,16 +356,36 @@
       "case",
       1,
       "fear"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "erupts",
+      1,
+      "anger"
+    ],
+    [
+      "foray",
+      1,
+      "anger"
+    ],
+    [
+      "systems",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 24,
     "trust": 43,
-    "fear": 45,
+    "fear": 44,
     "surprise": 6,
     "sadness": 12,
     "disgust": 5,
-    "anger": 71,
+    "anger": 69,
     "anticipation": 26
   }
 }
