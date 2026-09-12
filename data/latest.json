@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-09-12T01:48:36.476Z",
+  "generated_at": "2026-09-12T02:03:38.980Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
       6,
       "anger"
+    ],
+    [
+      "found",
+      5,
+      "joy"
     ],
     [
       "letter",
@@ -28,19 +33,19 @@
       "fear"
     ],
     [
-      "found",
-      4,
-      "joy"
-    ],
-    [
       "disruption",
       4,
       "anger"
     ],
     [
-      "policy",
+      "police",
       3,
-      "trust"
+      "fear"
+    ],
+    [
+      "illegal",
+      3,
+      "anger"
     ],
     [
       "cash",
@@ -73,9 +78,19 @@
       "anger"
     ],
     [
+      "seize",
+      2,
+      "fear"
+    ],
+    [
       "young",
       2,
       "surprise"
+    ],
+    [
+      "policy",
+      2,
+      "trust"
     ],
     [
       "dispute",
@@ -88,11 +103,6 @@
       "anticipation"
     ],
     [
-      "illegal",
-      2,
-      "anger"
-    ],
-    [
       "allies",
       2,
       "trust"
@@ -101,6 +111,11 @@
       "strait",
       2,
       "fear"
+    ],
+    [
+      "officer",
+      2,
+      "trust"
     ],
     [
       "tornadoes",
@@ -183,14 +198,34 @@
       "fear"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "airport",
       2,
       "anticipation"
+    ],
+    [
+      "beaches",
+      1,
+      "joy"
+    ],
+    [
+      "destined",
+      1,
+      "anticipation"
+    ],
+    [
+      "appeal",
+      1,
+      "anticipation"
+    ],
+    [
+      "seizure",
+      1,
+      "fear"
+    ],
+    [
+      "crushed",
+      1,
+      "anger"
     ],
     [
       "scares",
@@ -303,11 +338,6 @@
       "fear"
     ],
     [
-      "officer",
-      1,
-      "trust"
-    ],
-    [
       "porn",
       1,
       "disgust"
@@ -346,46 +376,16 @@
       "food",
       1,
       "joy"
-    ],
-    [
-      "dies",
-      1,
-      "fear"
-    ],
-    [
-      "abortion",
-      1,
-      "fear"
-    ],
-    [
-      "divorce",
-      1,
-      "anger"
-    ],
-    [
-      "wealth",
-      1,
-      "anticipation"
-    ],
-    [
-      "repellent",
-      1,
-      "anger"
-    ],
-    [
-      "think",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 38,
-    "fear": 39,
+    "joy": 26,
+    "trust": 36,
+    "fear": 42,
     "surprise": 10,
     "sadness": 12,
     "disgust": 5,
-    "anger": 65,
-    "anticipation": 31
+    "anger": 67,
+    "anticipation": 33
   }
 }
