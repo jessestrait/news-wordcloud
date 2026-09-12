@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-12T11:54:37.839Z",
+  "generated_at": "2026-09-12T12:09:39.768Z",
   "article_count": 50,
   "top_words": [
+    [
+      "trump",
+      6,
+      "anger"
+    ],
     [
       "government",
       6,
@@ -16,11 +21,6 @@
       "letter",
       5,
       "anticipation"
-    ],
-    [
-      "trump",
-      5,
-      "anger"
     ],
     [
       "iran",
@@ -41,6 +41,11 @@
       "found",
       4,
       "joy"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "global",
@@ -68,7 +73,7 @@
       "anticipation"
     ],
     [
-      "president",
+      "proxy",
       2,
       "trust"
     ],
@@ -91,11 +96,6 @@
       "fear",
       2,
       "anger"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "seize",
@@ -153,19 +153,9 @@
       "trust"
     ],
     [
-      "family",
-      2,
-      "joy"
-    ],
-    [
       "visitors",
       2,
       "joy"
-    ],
-    [
-      "remains",
-      2,
-      "fear"
     ],
     [
       "killings",
@@ -193,9 +183,19 @@
       "anger"
     ],
     [
-      "missing",
-      2,
-      "fear"
+      "socialist",
+      1,
+      "anger"
+    ],
+    [
+      "interim",
+      1,
+      "anticipation"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
     ],
     [
       "arrival",
@@ -271,6 +271,11 @@
       "diplomatic",
       1,
       "trust"
+    ],
+    [
+      "police",
+      1,
+      "fear"
     ],
     [
       "beaches",
@@ -371,21 +376,16 @@
       "criminal",
       1,
       "anger"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 36,
-    "fear": 47,
+    "joy": 22,
+    "trust": 38,
+    "fear": 41,
     "surprise": 8,
     "sadness": 13,
     "disgust": 6,
-    "anger": 72,
-    "anticipation": 32
+    "anger": 73,
+    "anticipation": 33
   }
 }
