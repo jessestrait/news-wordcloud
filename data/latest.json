@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-09-12T15:26:32.564Z",
+  "generated_at": "2026-09-12T15:41:34.433Z",
   "article_count": 50,
   "top_words": [
-    [
-      "trump",
-      6,
-      "anger"
-    ],
     [
       "government",
       6,
       "fear"
+    ],
+    [
+      "war",
+      5,
+      "anger"
+    ],
+    [
+      "iran",
+      5,
+      "anger"
     ],
     [
       "military",
@@ -18,19 +23,19 @@
       "fear"
     ],
     [
+      "trump",
+      5,
+      "anger"
+    ],
+    [
       "letter",
       5,
       "anticipation"
     ],
     [
-      "iran",
+      "strait",
       4,
-      "anger"
-    ],
-    [
-      "war",
-      4,
-      "anger"
+      "fear"
     ],
     [
       "attack",
@@ -48,11 +53,6 @@
       "trust"
     ],
     [
-      "strait",
-      3,
-      "fear"
-    ],
-    [
       "illegal",
       3,
       "anger"
@@ -63,9 +63,14 @@
       "anger"
     ],
     [
-      "happened",
-      3,
+      "start",
+      2,
       "anticipation"
+    ],
+    [
+      "hormuz",
+      2,
+      "fear"
     ],
     [
       "soldier",
@@ -143,6 +148,11 @@
       "trust"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "tornadoes",
       2,
       "fear"
@@ -191,6 +201,16 @@
       "strike",
       2,
       "anger"
+    ],
+    [
+      "blaming",
+      1,
+      "anger"
+    ],
+    [
+      "closure",
+      1,
+      "sadness"
     ],
     [
       "shooting",
@@ -356,36 +376,16 @@
       "blamed",
       1,
       "anger"
-    ],
-    [
-      "meltdown",
-      1,
-      "sadness"
-    ],
-    [
-      "grounded",
-      1,
-      "fear"
-    ],
-    [
-      "spurious",
-      1,
-      "disgust"
-    ],
-    [
-      "policy",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 39,
-    "fear": 41,
+    "joy": 21,
+    "trust": 40,
+    "fear": 43,
     "surprise": 8,
     "sadness": 12,
-    "disgust": 6,
-    "anger": 77,
+    "disgust": 5,
+    "anger": 79,
     "anticipation": 32
   }
 }
