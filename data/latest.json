@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T03:49:28.138Z",
+  "generated_at": "2026-09-12T04:04:30.721Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anticipation"
     ],
     [
+      "war",
+      4,
+      "anger"
+    ],
+    [
       "found",
       4,
       "joy"
@@ -38,7 +43,12 @@
       "anger"
     ],
     [
-      "war",
+      "strait",
+      3,
+      "fear"
+    ],
+    [
+      "fear",
       3,
       "anger"
     ],
@@ -63,9 +73,24 @@
       "anticipation"
     ],
     [
-      "public",
-      3,
+      "advance",
+      2,
+      "fear"
+    ],
+    [
+      "global",
+      2,
       "anticipation"
+    ],
+    [
+      "conflict",
+      2,
+      "anger"
+    ],
+    [
+      "chancellor",
+      2,
+      "trust"
     ],
     [
       "police",
@@ -106,11 +131,6 @@
       "allies",
       2,
       "trust"
-    ],
-    [
-      "strait",
-      2,
-      "fear"
     ],
     [
       "officer",
@@ -173,19 +193,9 @@
       "anticipation"
     ],
     [
-      "fear",
-      2,
-      "anger"
-    ],
-    [
       "strike",
       2,
       "anger"
-    ],
-    [
-      "good",
-      2,
-      "surprise"
     ],
     [
       "cancels",
@@ -198,14 +208,29 @@
       "fear"
     ],
     [
-      "airport",
-      2,
-      "anticipation"
+      "flee",
+      1,
+      "fear"
     ],
     [
-      "disruption",
-      2,
+      "struggle",
+      1,
       "anger"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
+      "shot",
+      1,
+      "anger"
+    ],
+    [
+      "crumbling",
+      1,
+      "sadness"
     ],
     [
       "build",
@@ -351,41 +376,16 @@
       "president",
       1,
       "trust"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
-    ],
-    [
-      "hope",
-      1,
-      "surprise"
-    ],
-    [
-      "rapid",
-      1,
-      "surprise"
-    ],
-    [
-      "advance",
-      1,
-      "fear"
-    ],
-    [
-      "porn",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 37,
-    "fear": 44,
-    "surprise": 10,
-    "sadness": 13,
+    "trust": 36,
+    "fear": 46,
+    "surprise": 9,
+    "sadness": 14,
     "disgust": 6,
-    "anger": 69,
-    "anticipation": 34
+    "anger": 73,
+    "anticipation": 31
   }
 }
