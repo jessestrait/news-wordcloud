@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-09-12T15:56:36.369Z",
+  "generated_at": "2026-09-12T16:11:39.366Z",
   "article_count": 50,
   "top_words": [
-    [
-      "government",
-      6,
-      "fear"
-    ],
     [
       "war",
       5,
@@ -26,6 +21,11 @@
       "trump",
       5,
       "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "letter",
@@ -203,6 +203,26 @@
       "anger"
     ],
     [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "surges",
+      1,
+      "surprise"
+    ],
+    [
+      "cover",
+      1,
+      "trust"
+    ],
+    [
+      "disorder",
+      1,
+      "fear"
+    ],
+    [
       "blaming",
       1,
       "anger"
@@ -356,33 +376,13 @@
       "scares",
       1,
       "anger"
-    ],
-    [
-      "votes",
-      1,
-      "anger"
-    ],
-    [
-      "promises",
-      1,
-      "joy"
-    ],
-    [
-      "convincing",
-      1,
-      "trust"
-    ],
-    [
-      "blamed",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 40,
+    "joy": 20,
+    "trust": 41,
     "fear": 43,
-    "surprise": 8,
+    "surprise": 9,
     "sadness": 12,
     "disgust": 5,
     "anger": 79,
