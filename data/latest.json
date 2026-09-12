@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:40:27.083Z",
+  "generated_at": "2026-09-12T13:55:29.660Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "trust"
     ],
     [
-      "global",
-      3,
-      "anticipation"
-    ],
-    [
       "strait",
       3,
       "fear"
@@ -73,9 +68,24 @@
       "anticipation"
     ],
     [
+      "soldier",
+      2,
+      "anger"
+    ],
+    [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
       "proxy",
       2,
       "trust"
+    ],
+    [
+      "global",
+      2,
+      "anticipation"
     ],
     [
       "allies",
@@ -180,6 +190,26 @@
     [
       "strike",
       2,
+      "anger"
+    ],
+    [
+      "shooting",
+      1,
+      "anger"
+    ],
+    [
+      "standoff",
+      1,
+      "anger"
+    ],
+    [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
+      "violent",
+      1,
       "anger"
     ],
     [
@@ -346,46 +376,16 @@
       "policy",
       1,
       "trust"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
-    ],
-    [
-      "world",
-      1,
-      "trust"
-    ],
-    [
-      "football",
-      1,
-      "joy"
-    ],
-    [
-      "account",
-      1,
-      "trust"
-    ],
-    [
-      "money",
-      1,
-      "anger"
-    ],
-    [
-      "criminal",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 38,
+    "trust": 39,
     "fear": 41,
     "surprise": 8,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 6,
-    "anger": 73,
-    "anticipation": 33
+    "anger": 77,
+    "anticipation": 32
   }
 }
