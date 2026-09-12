@@ -1,26 +1,21 @@
 {
-  "generated_at": "2026-09-12T04:50:05.181Z",
+  "generated_at": "2026-09-12T05:05:07.403Z",
   "article_count": 50,
   "top_words": [
     [
-      "trump",
-      6,
-      "anger"
-    ],
-    [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "government",
-      5,
+      6,
       "fear"
     ],
     [
       "letter",
       5,
       "anticipation"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "iran",
@@ -33,6 +28,11 @@
       "anger"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "found",
       4,
       "joy"
@@ -41,6 +41,11 @@
       "military",
       4,
       "fear"
+    ],
+    [
+      "global",
+      3,
+      "anticipation"
     ],
     [
       "strait",
@@ -83,19 +88,9 @@
       "fear"
     ],
     [
-      "global",
-      2,
-      "anticipation"
-    ],
-    [
       "conflict",
       2,
       "anger"
-    ],
-    [
-      "chancellor",
-      2,
-      "trust"
     ],
     [
       "police",
@@ -114,11 +109,6 @@
     ],
     [
       "system",
-      2,
-      "trust"
-    ],
-    [
-      "policy",
       2,
       "trust"
     ],
@@ -198,14 +188,24 @@
       "anger"
     ],
     [
-      "cancels",
-      2,
-      "sadness"
-    ],
-    [
       "missing",
       2,
       "fear"
+    ],
+    [
+      "poll",
+      1,
+      "trust"
+    ],
+    [
+      "shows",
+      1,
+      "trust"
+    ],
+    [
+      "champion",
+      1,
+      "joy"
     ],
     [
       "flee",
@@ -226,6 +226,11 @@
       "shot",
       1,
       "anger"
+    ],
+    [
+      "chancellor",
+      1,
+      "trust"
     ],
     [
       "crumbling",
@@ -308,6 +313,11 @@
       "disgust"
     ],
     [
+      "policy",
+      1,
+      "trust"
+    ],
+    [
       "leave",
       1,
       "sadness"
@@ -366,26 +376,16 @@
       "treat",
       1,
       "anger"
-    ],
-    [
-      "deserves",
-      1,
-      "anger"
-    ],
-    [
-      "president",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 36,
-    "fear": 46,
+    "fear": 47,
     "surprise": 9,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 6,
-    "anger": 73,
-    "anticipation": 31
+    "anger": 71,
+    "anticipation": 32
   }
 }
