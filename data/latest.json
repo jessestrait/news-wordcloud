@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:34:49.383Z",
+  "generated_at": "2026-09-12T04:49:51.213Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anticipation"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
       "war",
       4,
       "anger"
@@ -36,11 +41,6 @@
       "military",
       4,
       "fear"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
     ],
     [
       "strait",
@@ -71,6 +71,11 @@
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
     ],
     [
       "advance",
@@ -126,11 +131,6 @@
       "investigation",
       2,
       "anticipation"
-    ],
-    [
-      "allies",
-      2,
-      "trust"
     ],
     [
       "officer",
