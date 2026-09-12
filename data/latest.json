@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:24:58.186Z",
+  "generated_at": "2026-09-12T12:40:00.578Z",
   "article_count": 50,
   "top_words": [
     [
@@ -183,21 +183,6 @@
       "anger"
     ],
     [
-      "socialist",
-      1,
-      "anger"
-    ],
-    [
-      "interim",
-      1,
-      "anticipation"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
-    ],
-    [
       "arrival",
       1,
       "anticipation"
@@ -216,6 +201,21 @@
       "clash",
       1,
       "anger"
+    ],
+    [
+      "socialist",
+      1,
+      "anger"
+    ],
+    [
+      "interim",
+      1,
+      "anticipation"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
     ],
     [
       "poll",
