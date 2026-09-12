@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T02:03:38.980Z",
+  "generated_at": "2026-09-12T02:18:41.412Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,24 @@
       "anger"
     ],
     [
-      "found",
+      "attack",
       5,
-      "joy"
+      "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "letter",
       5,
       "anticipation"
+    ],
+    [
+      "found",
+      4,
+      "joy"
     ],
     [
       "people",
@@ -28,17 +38,17 @@
       "anger"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "disruption",
       4,
       "anger"
     ],
     [
-      "police",
+      "war",
+      3,
+      "anger"
+    ],
+    [
+      "military",
       3,
       "fear"
     ],
@@ -63,19 +73,14 @@
       "anticipation"
     ],
     [
-      "family",
-      3,
-      "joy"
-    ],
-    [
       "failure",
       3,
       "fear"
     ],
     [
-      "attack",
-      3,
-      "anger"
+      "police",
+      2,
+      "fear"
     ],
     [
       "seize",
@@ -133,14 +138,14 @@
       "sadness"
     ],
     [
-      "war",
-      2,
-      "anger"
-    ],
-    [
       "secret",
       2,
       "trust"
+    ],
+    [
+      "family",
+      2,
+      "joy"
     ],
     [
       "visitors",
@@ -156,11 +161,6 @@
       "killings",
       2,
       "anger"
-    ],
-    [
-      "military",
-      2,
-      "fear"
     ],
     [
       "risk",
@@ -201,6 +201,16 @@
       "airport",
       2,
       "anticipation"
+    ],
+    [
+      "build",
+      1,
+      "anticipation"
+    ],
+    [
+      "diplomatic",
+      1,
+      "trust"
     ],
     [
       "beaches",
@@ -366,26 +376,16 @@
       "storms",
       1,
       "anger"
-    ],
-    [
-      "fatal",
-      1,
-      "anger"
-    ],
-    [
-      "food",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 36,
-    "fear": 42,
+    "joy": 24,
+    "trust": 37,
+    "fear": 43,
     "surprise": 10,
     "sadness": 12,
     "disgust": 5,
-    "anger": 67,
-    "anticipation": 33
+    "anger": 70,
+    "anticipation": 34
   }
 }
