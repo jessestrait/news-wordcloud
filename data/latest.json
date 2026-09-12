@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-09-12T10:39:00.149Z",
+  "generated_at": "2026-09-12T10:54:02.383Z",
   "article_count": 50,
   "top_words": [
     [
       "government",
       6,
+      "fear"
+    ],
+    [
+      "military",
+      5,
       "fear"
     ],
     [
@@ -38,11 +43,6 @@
       "joy"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "global",
       3,
       "anticipation"
@@ -53,19 +53,9 @@
       "fear"
     ],
     [
-      "fear",
-      3,
-      "anger"
-    ],
-    [
       "illegal",
       3,
       "anger"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "cash",
@@ -76,6 +66,11 @@
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "president",
+      2,
+      "trust"
     ],
     [
       "allies",
@@ -93,6 +88,11 @@
       "anger"
     ],
     [
+      "fear",
+      2,
+      "anger"
+    ],
+    [
       "police",
       2,
       "fear"
@@ -106,6 +106,11 @@
       "young",
       2,
       "surprise"
+    ],
+    [
+      "people",
+      2,
+      "trust"
     ],
     [
       "system",
@@ -191,6 +196,26 @@
       "missing",
       2,
       "fear"
+    ],
+    [
+      "arrival",
+      1,
+      "anticipation"
+    ],
+    [
+      "reconciliation",
+      1,
+      "joy"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
+      "clash",
+      1,
+      "anger"
     ],
     [
       "poll",
@@ -351,41 +376,16 @@
       "bank",
       1,
       "trust"
-    ],
-    [
-      "enjoy",
-      1,
-      "joy"
-    ],
-    [
-      "don",
-      1,
-      "trust"
-    ],
-    [
-      "home",
-      1,
-      "joy"
-    ],
-    [
-      "ghettos",
-      1,
-      "fear"
-    ],
-    [
-      "treat",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 36,
     "fear": 47,
-    "surprise": 9,
+    "surprise": 8,
     "sadness": 13,
     "disgust": 6,
-    "anger": 71,
+    "anger": 72,
     "anticipation": 32
   }
 }
