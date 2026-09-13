@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-13T01:17:06.218Z",
+  "generated_at": "2026-09-13T01:32:08.727Z",
   "article_count": 50,
   "top_words": [
     [
-      "trump",
+      "war",
       6,
       "anger"
     ],
     [
-      "war",
-      5,
+      "trump",
+      6,
       "anger"
     ],
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "letter",
-      5,
-      "anticipation"
-    ],
-    [
       "president",
       4,
       "trust"
@@ -38,19 +33,24 @@
       "anger"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "found",
       4,
       "joy"
     ],
     [
+      "letter",
+      4,
+      "anticipation"
+    ],
+    [
       "strait",
       3,
       "fear"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
     ],
     [
       "illegal",
@@ -61,6 +61,11 @@
       "cash",
       3,
       "anger"
+    ],
+    [
+      "kill",
+      2,
+      "fear"
     ],
     [
       "happen",
@@ -196,6 +201,26 @@
       "game",
       2,
       "anticipation"
+    ],
+    [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
+      "killed",
+      1,
+      "fear"
+    ],
+    [
+      "wounded",
+      1,
+      "anger"
+    ],
+    [
+      "economy",
+      1,
+      "trust"
     ],
     [
       "love",
@@ -351,41 +376,16 @@
       "build",
       1,
       "anticipation"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "police",
-      1,
-      "fear"
-    ],
-    [
-      "beaches",
-      1,
-      "joy"
-    ],
-    [
-      "destined",
-      1,
-      "anticipation"
-    ],
-    [
-      "appeal",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 43,
-    "fear": 40,
+    "trust": 44,
+    "fear": 42,
     "surprise": 9,
-    "sadness": 12,
+    "sadness": 11,
     "disgust": 5,
-    "anger": 76,
-    "anticipation": 33
+    "anger": 80,
+    "anticipation": 31
   }
 }
