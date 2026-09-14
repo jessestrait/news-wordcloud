@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:12:41.031Z",
+  "generated_at": "2026-09-14T12:27:43.207Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,16 @@
       "fear"
     ],
     [
+      "iran",
+      5,
+      "anger"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
       "war",
       5,
       "anger"
@@ -23,9 +33,9 @@
       "anger"
     ],
     [
-      "strike",
+      "strait",
       4,
-      "anger"
+      "fear"
     ],
     [
       "global",
@@ -36,11 +46,6 @@
       "people",
       4,
       "trust"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
     ],
     [
       "president",
@@ -88,17 +93,12 @@
       "fear"
     ],
     [
-      "cash",
-      3,
-      "anger"
-    ],
-    [
-      "strait",
+      "military",
       3,
       "fear"
     ],
     [
-      "military",
+      "advance",
       3,
       "fear"
     ],
@@ -106,6 +106,21 @@
       "counted",
       2,
       "trust"
+    ],
+    [
+      "hormuz",
+      2,
+      "fear"
+    ],
+    [
+      "conflict",
+      2,
+      "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "world",
@@ -173,6 +188,11 @@
       "fear"
     ],
     [
+      "cash",
+      2,
+      "anger"
+    ],
+    [
       "system",
       2,
       "trust"
@@ -196,11 +216,6 @@
       "allies",
       2,
       "trust"
-    ],
-    [
-      "advance",
-      2,
-      "fear"
     ],
     [
       "fear",
@@ -238,11 +253,6 @@
       "fear"
     ],
     [
-      "save",
-      2,
-      "joy"
-    ],
-    [
       "opposition",
       1,
       "anger"
@@ -261,6 +271,16 @@
       "elect",
       1,
       "trust"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
     ],
     [
       "delay",
@@ -356,36 +376,16 @@
       "life",
       1,
       "joy"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
-    ],
-    [
-      "politics",
-      1,
-      "anger"
-    ],
-    [
-      "tracks",
-      1,
-      "anticipation"
-    ],
-    [
-      "game",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 59,
-    "fear": 52,
+    "trust": 55,
+    "fear": 55,
     "surprise": 9,
-    "sadness": 10,
+    "sadness": 7,
     "disgust": 3,
-    "anger": 91,
-    "anticipation": 34
+    "anger": 92,
+    "anticipation": 32
   }
 }
