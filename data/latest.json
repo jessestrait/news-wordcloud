@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:10:58.778Z",
+  "generated_at": "2026-09-14T09:26:01.533Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anticipation"
     ],
     [
+      "votes",
+      3,
+      "anger"
+    ],
+    [
       "police",
       3,
       "fear"
@@ -93,6 +98,16 @@
       "fear"
     ],
     [
+      "counted",
+      2,
+      "trust"
+    ],
+    [
+      "late",
+      2,
+      "sadness"
+    ],
+    [
       "accused",
       2,
       "anger"
@@ -121,11 +136,6 @@
       "happened",
       2,
       "anticipation"
-    ],
-    [
-      "votes",
-      2,
-      "anger"
     ],
     [
       "officials",
@@ -166,11 +176,6 @@
       "happen",
       2,
       "anticipation"
-    ],
-    [
-      "soldier",
-      2,
-      "anger"
     ],
     [
       "poll",
@@ -236,6 +241,21 @@
       "visitors",
       2,
       "joy"
+    ],
+    [
+      "opposition",
+      1,
+      "anger"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "elect",
+      1,
+      "trust"
     ],
     [
       "deaths",
@@ -323,11 +343,6 @@
       "anger"
     ],
     [
-      "counted",
-      1,
-      "trust"
-    ],
-    [
       "suggesting",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "khan",
       1,
       "fear"
-    ],
-    [
-      "hit",
-      1,
-      "anger"
-    ],
-    [
-      "bad",
-      1,
-      "anger"
-    ],
-    [
-      "deny",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 53,
+    "joy": 21,
+    "trust": 56,
     "fear": 48,
     "surprise": 10,
-    "sadness": 9,
+    "sadness": 10,
     "disgust": 3,
-    "anger": 93,
+    "anger": 94,
     "anticipation": 32
   }
 }
