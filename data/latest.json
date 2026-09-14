@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:57:38.808Z",
+  "generated_at": "2026-09-14T12:12:41.031Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "government",
       6,
       "fear"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "trump",
@@ -263,6 +263,26 @@
       "trust"
     ],
     [
+      "delay",
+      1,
+      "anger"
+    ],
+    [
+      "holiday",
+      1,
+      "joy"
+    ],
+    [
+      "changes",
+      1,
+      "fear"
+    ],
+    [
+      "airports",
+      1,
+      "anticipation"
+    ],
+    [
       "scared",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "game",
       1,
       "anticipation"
-    ],
-    [
-      "changing",
-      1,
-      "fear"
-    ],
-    [
-      "engulfed",
-      1,
-      "anticipation"
-    ],
-    [
-      "scandals",
-      1,
-      "fear"
-    ],
-    [
-      "provide",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
+    "joy": 20,
     "trust": 59,
-    "fear": 51,
-    "surprise": 10,
+    "fear": 52,
+    "surprise": 9,
     "sadness": 10,
     "disgust": 3,
-    "anger": 95,
-    "anticipation": 33
+    "anger": 91,
+    "anticipation": 34
   }
 }
