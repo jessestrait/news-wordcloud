@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:28:26.427Z",
+  "generated_at": "2026-09-14T13:43:29.010Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,12 +13,12 @@
       "fear"
     ],
     [
-      "iran",
+      "strike",
       5,
       "anger"
     ],
     [
-      "strike",
+      "iran",
       5,
       "anger"
     ],
@@ -88,6 +88,11 @@
       "trust"
     ],
     [
+      "show",
+      3,
+      "trust"
+    ],
+    [
       "missing",
       3,
       "fear"
@@ -123,11 +128,6 @@
       "anticipation"
     ],
     [
-      "world",
-      2,
-      "trust"
-    ],
-    [
       "deaths",
       2,
       "sadness"
@@ -141,11 +141,6 @@
       "accused",
       2,
       "anger"
-    ],
-    [
-      "show",
-      2,
-      "trust"
     ],
     [
       "supply",
@@ -273,6 +268,16 @@
       "trust"
     ],
     [
+      "passenger",
+      1,
+      "anticipation"
+    ],
+    [
+      "backers",
+      1,
+      "trust"
+    ],
+    [
       "public",
       1,
       "anticipation"
@@ -314,21 +319,6 @@
     ],
     [
       "airports",
-      1,
-      "anticipation"
-    ],
-    [
-      "scared",
-      1,
-      "anger"
-    ],
-    [
-      "top",
-      1,
-      "trust"
-    ],
-    [
-      "passenger",
       1,
       "anticipation"
     ],
@@ -376,6 +366,16 @@
       "result",
       1,
       "anticipation"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "believed",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 9,
     "sadness": 7,
     "disgust": 3,
-    "anger": 91,
+    "anger": 90,
     "anticipation": 34
   }
 }
