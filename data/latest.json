@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:45:17.310Z",
+  "generated_at": "2026-09-14T17:00:20.094Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "fear"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "strike",
       5,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "war",
@@ -63,14 +63,24 @@
       "anticipation"
     ],
     [
+      "david",
+      3,
+      "trust"
+    ],
+    [
       "conflict",
       3,
       "anger"
     ],
     [
-      "david",
+      "power",
       3,
-      "trust"
+      "anticipation"
+    ],
+    [
+      "vote",
+      3,
+      "anger"
     ],
     [
       "damage",
@@ -113,14 +123,19 @@
       "anger"
     ],
     [
+      "counted",
+      2,
+      "trust"
+    ],
+    [
+      "policy",
+      2,
+      "trust"
+    ],
+    [
       "hormuz",
       2,
       "fear"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "deaths",
@@ -151,11 +166,6 @@
       "happened",
       2,
       "anticipation"
-    ],
-    [
-      "votes",
-      2,
-      "anger"
     ],
     [
       "officials",
@@ -243,6 +253,16 @@
       "trust"
     ],
     [
+      "passenger",
+      1,
+      "anticipation"
+    ],
+    [
+      "backers",
+      1,
+      "trust"
+    ],
+    [
       "agreed",
       1,
       "trust"
@@ -258,6 +278,16 @@
       "fear"
     ],
     [
+      "launch",
+      1,
+      "anticipation"
+    ],
+    [
+      "battle",
+      1,
+      "anger"
+    ],
+    [
       "obituary",
       1,
       "sadness"
@@ -271,16 +301,6 @@
       "harry",
       1,
       "anger"
-    ],
-    [
-      "passenger",
-      1,
-      "anticipation"
-    ],
-    [
-      "backers",
-      1,
-      "trust"
     ],
     [
       "public",
@@ -356,36 +376,16 @@
       "suspected",
       1,
       "fear"
-    ],
-    [
-      "murder",
-      1,
-      "anger"
-    ],
-    [
-      "suicide",
-      1,
-      "anger"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 56,
+    "trust": 58,
     "fear": 51,
     "surprise": 9,
     "sadness": 7,
     "disgust": 3,
-    "anger": 92,
-    "anticipation": 35
+    "anger": 93,
+    "anticipation": 36
   }
 }
