@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:27:43.207Z",
+  "generated_at": "2026-09-14T12:42:45.369Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,6 +253,21 @@
       "fear"
     ],
     [
+      "public",
+      1,
+      "anticipation"
+    ],
+    [
+      "offering",
+      1,
+      "trust"
+    ],
+    [
+      "wealth",
+      1,
+      "anticipation"
+    ],
+    [
       "opposition",
       1,
       "anger"
@@ -361,31 +376,16 @@
       "result",
       1,
       "anticipation"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "believed",
-      1,
-      "trust"
-    ],
-    [
-      "life",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 55,
-    "fear": 55,
+    "trust": 56,
+    "fear": 53,
     "surprise": 9,
     "sadness": 7,
     "disgust": 3,
-    "anger": 92,
-    "anticipation": 32
+    "anger": 91,
+    "anticipation": 34
   }
 }
