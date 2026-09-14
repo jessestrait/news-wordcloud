@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:59:27.722Z",
+  "generated_at": "2026-09-14T15:14:29.839Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,6 +31,11 @@
       "trump",
       5,
       "anger"
+    ],
+    [
+      "military",
+      4,
+      "fear"
     ],
     [
       "strait",
@@ -98,11 +103,6 @@
       "fear"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "advance",
       3,
       "fear"
@@ -141,6 +141,11 @@
       "accused",
       2,
       "anger"
+    ],
+    [
+      "game",
+      2,
+      "anticipation"
     ],
     [
       "supply",
@@ -268,6 +273,16 @@
       "trust"
     ],
     [
+      "reassurance",
+      1,
+      "trust"
+    ],
+    [
+      "harry",
+      1,
+      "anger"
+    ],
+    [
       "passenger",
       1,
       "anticipation"
@@ -361,31 +376,16 @@
       "suicide",
       1,
       "anger"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "believed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 56,
-    "fear": 53,
+    "joy": 19,
+    "trust": 57,
+    "fear": 54,
     "surprise": 9,
     "sadness": 7,
     "disgust": 3,
-    "anger": 90,
-    "anticipation": 34
+    "anger": 91,
+    "anticipation": 35
   }
 }
