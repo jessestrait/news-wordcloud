@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:14:29.839Z",
+  "generated_at": "2026-09-14T15:29:32.065Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,9 +8,24 @@
       "anger"
     ],
     [
+      "trump",
+      6,
+      "anger"
+    ],
+    [
+      "iran",
+      6,
+      "anger"
+    ],
+    [
       "government",
       6,
       "fear"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "strike",
@@ -18,17 +33,7 @@
       "anger"
     ],
     [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
       "war",
-      5,
-      "anger"
-    ],
-    [
-      "trump",
       5,
       "anger"
     ],
@@ -53,17 +58,12 @@
       "trust"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "letter",
       4,
       "anticipation"
     ],
     [
-      "votes",
+      "conflict",
       3,
       "anger"
     ],
@@ -108,19 +108,14 @@
       "fear"
     ],
     [
-      "counted",
+      "hit",
       2,
-      "trust"
+      "anger"
     ],
     [
       "hormuz",
       2,
       "fear"
-    ],
-    [
-      "conflict",
-      2,
-      "anger"
     ],
     [
       "power",
@@ -156,6 +151,11 @@
       "happened",
       2,
       "anticipation"
+    ],
+    [
+      "votes",
+      2,
+      "anger"
     ],
     [
       "officials",
@@ -253,24 +253,19 @@
       "fear"
     ],
     [
-      "opposition",
+      "agreed",
+      1,
+      "trust"
+    ],
+    [
+      "blames",
       1,
       "anger"
     ],
     [
-      "parliament",
+      "spike",
       1,
-      "trust"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "elect",
-      1,
-      "trust"
+      "fear"
     ],
     [
       "reassurance",
@@ -376,16 +371,21 @@
       "suicide",
       1,
       "anger"
+    ],
+    [
+      "result",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 57,
-    "fear": 54,
+    "trust": 56,
+    "fear": 55,
     "surprise": 9,
-    "sadness": 7,
+    "sadness": 6,
     "disgust": 3,
-    "anger": 91,
+    "anger": 94,
     "anticipation": 35
   }
 }
