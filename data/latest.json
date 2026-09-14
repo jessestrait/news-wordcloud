@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:01:32.090Z",
+  "generated_at": "2026-09-14T19:16:34.584Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "iran",
       6,
       "anger"
-    ],
-    [
-      "government",
-      6,
-      "fear"
     ],
     [
       "strike",
@@ -36,6 +31,11 @@
       "war",
       5,
       "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "power",
@@ -66,6 +66,11 @@
       "letter",
       4,
       "anticipation"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "conflict",
@@ -136,11 +141,6 @@
       "david",
       2,
       "trust"
-    ],
-    [
-      "hit",
-      2,
-      "anger"
     ],
     [
       "happened",
@@ -263,9 +263,24 @@
       "fear"
     ],
     [
-      "officer",
-      2,
-      "trust"
+      "warns",
+      1,
+      "fear"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
+      "rule",
+      1,
+      "fear"
+    ],
+    [
+      "progress",
+      1,
+      "joy"
     ],
     [
       "father",
@@ -361,31 +376,16 @@
       "changes",
       1,
       "fear"
-    ],
-    [
-      "airports",
-      1,
-      "anticipation"
-    ],
-    [
-      "floods",
-      1,
-      "fear"
-    ],
-    [
-      "hurricane",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 60,
-    "fear": 52,
+    "joy": 19,
+    "trust": 58,
+    "fear": 53,
     "surprise": 9,
     "sadness": 7,
-    "disgust": 3,
-    "anger": 92,
+    "disgust": 2,
+    "anger": 94,
     "anticipation": 38
   }
 }
