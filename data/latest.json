@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:30:14.832Z",
+  "generated_at": "2026-09-14T16:45:17.310Z",
   "article_count": 50,
   "top_words": [
     [
@@ -198,11 +198,6 @@
       "trust"
     ],
     [
-      "kill",
-      2,
-      "fear"
-    ],
-    [
       "happen",
       2,
       "anticipation"
@@ -248,11 +243,6 @@
       "trust"
     ],
     [
-      "tornadoes",
-      2,
-      "fear"
-    ],
-    [
       "agreed",
       1,
       "trust"
@@ -266,6 +256,11 @@
       "spike",
       1,
       "fear"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
     ],
     [
       "reassurance",
@@ -376,16 +371,21 @@
       "result",
       1,
       "anticipation"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
+    "joy": 18,
     "trust": 56,
-    "fear": 55,
+    "fear": 51,
     "surprise": 9,
-    "sadness": 6,
+    "sadness": 7,
     "disgust": 3,
-    "anger": 94,
+    "anger": 92,
     "anticipation": 35
   }
 }
