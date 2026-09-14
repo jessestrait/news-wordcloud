@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T05:39:03.958Z",
+  "generated_at": "2026-09-14T05:54:05.930Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "trust"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "letter",
       4,
       "anticipation"
@@ -78,12 +73,12 @@
       "fear"
     ],
     [
-      "system",
+      "strait",
       3,
-      "trust"
+      "fear"
     ],
     [
-      "strait",
+      "military",
       3,
       "fear"
     ],
@@ -123,11 +118,6 @@
       "fear"
     ],
     [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
       "shot",
       2,
       "anger"
@@ -141,6 +131,11 @@
       "wildfires",
       2,
       "fear"
+    ],
+    [
+      "system",
+      2,
+      "trust"
     ],
     [
       "kill",
@@ -233,19 +228,39 @@
       "sadness"
     ],
     [
-      "secret",
-      2,
-      "trust"
-    ],
-    [
       "visitors",
       2,
       "joy"
     ],
     [
-      "killings",
-      2,
+      "politics",
+      1,
       "anger"
+    ],
+    [
+      "tracks",
+      1,
+      "anticipation"
+    ],
+    [
+      "game",
+      1,
+      "anticipation"
+    ],
+    [
+      "changing",
+      1,
+      "fear"
+    ],
+    [
+      "engulfed",
+      1,
+      "anticipation"
+    ],
+    [
+      "scandals",
+      1,
+      "fear"
     ],
     [
       "provide",
@@ -281,6 +296,11 @@
       "michael",
       1,
       "trust"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
     ],
     [
       "injuries",
@@ -356,36 +376,16 @@
       "arson",
       1,
       "anger"
-    ],
-    [
-      "fires",
-      1,
-      "fear"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
-    ],
-    [
-      "earthquake",
-      1,
-      "anger"
-    ],
-    [
-      "clean",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 55,
+    "trust": 51,
     "fear": 46,
     "surprise": 9,
     "sadness": 9,
     "disgust": 3,
-    "anger": 92,
-    "anticipation": 29
+    "anger": 90,
+    "anticipation": 32
   }
 }
