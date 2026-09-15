@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T02:35:25.995Z",
+  "generated_at": "2026-09-15T02:50:28.131Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,16 +18,6 @@
       "anger"
     ],
     [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "iran",
       5,
       "anger"
@@ -41,6 +31,16 @@
       "power",
       4,
       "anticipation"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "military",
@@ -115,6 +115,11 @@
     [
       "poll",
       3,
+      "trust"
+    ],
+    [
+      "world",
+      2,
       "trust"
     ],
     [
@@ -263,6 +268,21 @@
       "fear"
     ],
     [
+      "daily",
+      1,
+      "anticipation"
+    ],
+    [
+      "choke",
+      1,
+      "anger"
+    ],
+    [
+      "important",
+      1,
+      "trust"
+    ],
+    [
       "tensions",
       1,
       "anger"
@@ -356,33 +376,13 @@
       "obituary",
       1,
       "sadness"
-    ],
-    [
-      "reassurance",
-      1,
-      "trust"
-    ],
-    [
-      "harry",
-      1,
-      "anger"
-    ],
-    [
-      "public",
-      1,
-      "anticipation"
-    ],
-    [
-      "offering",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 59,
+    "trust": 60,
     "fear": 53,
-    "surprise": 8,
+    "surprise": 7,
     "sadness": 7,
     "disgust": 3,
     "anger": 95,
