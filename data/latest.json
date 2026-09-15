@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-09-15T03:05:45.917Z",
+  "generated_at": "2026-09-15T03:20:47.949Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       10,
+      "anger"
+    ],
+    [
+      "war",
+      7,
       "anger"
     ],
     [
@@ -23,19 +28,14 @@
       "anger"
     ],
     [
-      "war",
-      5,
+      "trump",
+      4,
       "anger"
     ],
     [
       "power",
       4,
       "anticipation"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
     ],
     [
       "president",
@@ -61,11 +61,6 @@
       "government",
       4,
       "fear"
-    ],
-    [
-      "letter",
-      4,
-      "anticipation"
     ],
     [
       "hit",
@@ -116,6 +111,11 @@
       "poll",
       3,
       "trust"
+    ],
+    [
+      "letter",
+      3,
+      "anticipation"
     ],
     [
       "world",
@@ -313,6 +313,11 @@
       "trust"
     ],
     [
+      "escalate",
+      1,
+      "anger"
+    ],
+    [
       "warns",
       1,
       "fear"
@@ -371,11 +376,6 @@
       "battle",
       1,
       "anger"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 7,
     "sadness": 7,
     "disgust": 3,
-    "anger": 95,
-    "anticipation": 38
+    "anger": 96,
+    "anticipation": 37
   }
 }
