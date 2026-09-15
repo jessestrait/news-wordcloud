@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T09:54:28.452Z",
+  "generated_at": "2026-09-15T10:09:30.464Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,14 +63,14 @@
       "fear"
     ],
     [
-      "fires",
-      3,
-      "fear"
-    ],
-    [
       "shot",
       3,
       "anger"
+    ],
+    [
+      "fires",
+      3,
+      "fear"
     ],
     [
       "hit",
@@ -273,6 +273,16 @@
       "fear"
     ],
     [
+      "ongoing",
+      1,
+      "anticipation"
+    ],
+    [
+      "alliance",
+      1,
+      "trust"
+    ],
+    [
       "shoot",
       1,
       "anger"
@@ -286,16 +296,6 @@
       "reckless",
       1,
       "anger"
-    ],
-    [
-      "ongoing",
-      1,
-      "anticipation"
-    ],
-    [
-      "alliance",
-      1,
-      "trust"
     ],
     [
       "agreement",
