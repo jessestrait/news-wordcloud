@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T09:24:07.012Z",
+  "generated_at": "2026-09-15T09:39:09.505Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
-      "shot",
-      4,
-      "anger"
-    ],
-    [
       "show",
       4,
       "trust"
+    ],
+    [
+      "military",
+      4,
+      "fear"
     ],
     [
       "trump",
@@ -63,6 +63,16 @@
       "fear"
     ],
     [
+      "shot",
+      3,
+      "anger"
+    ],
+    [
+      "fires",
+      3,
+      "fear"
+    ],
+    [
       "hit",
       3,
       "anger"
@@ -76,11 +86,6 @@
       "vote",
       3,
       "anger"
-    ],
-    [
-      "military",
-      3,
-      "fear"
     ],
     [
       "damage",
@@ -146,11 +151,6 @@
       "life",
       2,
       "joy"
-    ],
-    [
-      "fires",
-      2,
-      "fear"
     ],
     [
       "base",
@@ -338,6 +338,16 @@
       "anger"
     ],
     [
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
+      "reckless",
+      1,
+      "anger"
+    ],
+    [
       "daily",
       1,
       "anticipation"
@@ -366,26 +376,16 @@
       "top",
       1,
       "trust"
-    ],
-    [
-      "rating",
-      1,
-      "anger"
-    ],
-    [
-      "propaganda",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
     "trust": 59,
-    "fear": 55,
+    "fear": 57,
     "surprise": 8,
     "sadness": 7,
     "disgust": 3,
-    "anger": 94,
+    "anger": 95,
     "anticipation": 37
   }
 }
