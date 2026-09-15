@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:44:15.900Z",
+  "generated_at": "2026-09-15T18:59:18.528Z",
   "article_count": 50,
   "top_words": [
     [
@@ -56,6 +56,11 @@
       "fires",
       3,
       "fear"
+    ],
+    [
+      "shot",
+      3,
+      "anger"
     ],
     [
       "happened",
@@ -129,11 +134,6 @@
     ],
     [
       "battle",
-      2,
-      "anger"
-    ],
-    [
-      "shot",
       2,
       "anger"
     ],
@@ -263,19 +263,9 @@
       "fear"
     ],
     [
-      "paying",
-      1,
-      "joy"
-    ],
-    [
-      "home",
-      1,
-      "joy"
-    ],
-    [
-      "defends",
-      1,
-      "fear"
+      "fear",
+      2,
+      "anger"
     ],
     [
       "humanitarian",
@@ -376,16 +366,26 @@
       "impending",
       1,
       "fear"
+    ],
+    [
+      "crunch",
+      1,
+      "anger"
+    ],
+    [
+      "lesser",
+      1,
+      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 56,
-    "fear": 60,
+    "joy": 19,
+    "trust": 57,
+    "fear": 59,
     "surprise": 8,
-    "sadness": 7,
+    "sadness": 8,
     "disgust": 3,
-    "anger": 94,
+    "anger": 96,
     "anticipation": 34
   }
 }
