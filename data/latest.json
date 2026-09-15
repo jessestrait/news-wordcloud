@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:42:08.643Z",
+  "generated_at": "2026-09-15T14:57:11.288Z",
   "article_count": 50,
   "top_words": [
     [
@@ -71,6 +71,11 @@
       "shot",
       3,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "khan",
@@ -166,11 +171,6 @@
       "david",
       2,
       "trust"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "vote",
@@ -386,6 +386,6 @@
     "sadness": 7,
     "disgust": 3,
     "anger": 96,
-    "anticipation": 36
+    "anticipation": 37
   }
 }
