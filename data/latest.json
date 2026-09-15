@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:25:19.266Z",
+  "generated_at": "2026-09-15T11:40:21.505Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "fear"
     ],
     [
+      "shot",
+      3,
+      "anger"
+    ],
+    [
       "khan",
       3,
       "fear"
@@ -71,11 +76,6 @@
       "killed",
       3,
       "fear"
-    ],
-    [
-      "shot",
-      3,
-      "anger"
     ],
     [
       "fires",
@@ -113,12 +113,12 @@
       "trust"
     ],
     [
-      "father",
+      "allies",
       2,
       "trust"
     ],
     [
-      "allies",
+      "father",
       2,
       "trust"
     ],
@@ -278,6 +278,16 @@
       "fear"
     ],
     [
+      "ongoing",
+      1,
+      "anticipation"
+    ],
+    [
+      "alliance",
+      1,
+      "trust"
+    ],
+    [
       "vendetta",
       1,
       "anger"
@@ -289,16 +299,6 @@
     ],
     [
       "guardian",
-      1,
-      "trust"
-    ],
-    [
-      "ongoing",
-      1,
-      "anticipation"
-    ],
-    [
-      "alliance",
       1,
       "trust"
     ],
