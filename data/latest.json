@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:59:35.698Z",
+  "generated_at": "2026-09-15T19:14:38.336Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,13 +9,8 @@
     ],
     [
       "strait",
-      7,
-      "fear"
-    ],
-    [
-      "war",
       6,
-      "anger"
+      "fear"
     ],
     [
       "strike",
@@ -28,6 +23,16 @@
       "trust"
     ],
     [
+      "show",
+      5,
+      "trust"
+    ],
+    [
+      "war",
+      5,
+      "anger"
+    ],
+    [
       "power",
       5,
       "anticipation"
@@ -38,7 +43,7 @@
       "anger"
     ],
     [
-      "show",
+      "poll",
       4,
       "trust"
     ],
@@ -48,19 +53,14 @@
       "anger"
     ],
     [
-      "global",
-      4,
-      "anticipation"
+      "people",
+      3,
+      "trust"
     ],
     [
       "fires",
       3,
       "fear"
-    ],
-    [
-      "shot",
-      3,
-      "anger"
     ],
     [
       "happened",
@@ -88,14 +88,14 @@
       "anger"
     ],
     [
-      "conflict",
+      "damage",
       3,
       "anger"
     ],
     [
-      "damage",
+      "global",
       3,
-      "anger"
+      "anticipation"
     ],
     [
       "missing",
@@ -113,16 +113,6 @@
       "surprise"
     ],
     [
-      "poll",
-      3,
-      "trust"
-    ],
-    [
-      "threaten",
-      2,
-      "anger"
-    ],
-    [
       "fighting",
       2,
       "anger"
@@ -134,6 +124,11 @@
     ],
     [
       "battle",
+      2,
+      "anger"
+    ],
+    [
+      "shot",
       2,
       "anger"
     ],
@@ -176,6 +171,11 @@
       "david",
       2,
       "trust"
+    ],
+    [
+      "conflict",
+      2,
+      "anger"
     ],
     [
       "vote",
@@ -243,11 +243,6 @@
       "surprise"
     ],
     [
-      "people",
-      2,
-      "trust"
-    ],
-    [
       "wildfires",
       2,
       "fear"
@@ -258,13 +253,48 @@
       "anticipation"
     ],
     [
-      "advance",
-      2,
-      "fear"
+      "unique",
+      1,
+      "surprise"
     ],
     [
-      "fear",
-      2,
+      "alliance",
+      1,
+      "trust"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
+    ],
+    [
+      "spat",
+      1,
+      "anger"
+    ],
+    [
+      "strengthening",
+      1,
+      "joy"
+    ],
+    [
+      "equality",
+      1,
+      "joy"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
+      "prejudice",
+      1,
+      "anger"
+    ],
+    [
+      "threaten",
+      1,
       "anger"
     ],
     [
@@ -346,46 +376,16 @@
       "agreement",
       1,
       "trust"
-    ],
-    [
-      "grows",
-      1,
-      "joy"
-    ],
-    [
-      "seize",
-      1,
-      "fear"
-    ],
-    [
-      "analysts",
-      1,
-      "trust"
-    ],
-    [
-      "impending",
-      1,
-      "fear"
-    ],
-    [
-      "crunch",
-      1,
-      "anger"
-    ],
-    [
-      "lesser",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 57,
-    "fear": 59,
-    "surprise": 8,
-    "sadness": 8,
-    "disgust": 3,
-    "anger": 96,
-    "anticipation": 34
+    "joy": 21,
+    "trust": 61,
+    "fear": 56,
+    "surprise": 9,
+    "sadness": 7,
+    "disgust": 4,
+    "anger": 92,
+    "anticipation": 33
   }
 }
