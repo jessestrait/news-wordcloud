@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T03:35:50.329Z",
+  "generated_at": "2026-09-15T03:50:52.718Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "fear"
     ],
     [
+      "shot",
+      3,
+      "anger"
+    ],
+    [
       "hit",
       3,
       "anger"
@@ -111,11 +116,6 @@
       "poll",
       3,
       "trust"
-    ],
-    [
-      "letter",
-      3,
-      "anticipation"
     ],
     [
       "world",
@@ -198,6 +198,11 @@
       "trust"
     ],
     [
+      "letters",
+      2,
+      "anticipation"
+    ],
+    [
       "killed",
       2,
       "fear"
@@ -206,11 +211,6 @@
       "family",
       2,
       "joy"
-    ],
-    [
-      "shot",
-      2,
-      "anger"
     ],
     [
       "rescue",
@@ -266,6 +266,11 @@
       "seizure",
       2,
       "fear"
+    ],
+    [
+      "shoot",
+      1,
+      "anger"
     ],
     [
       "daily",
@@ -371,21 +376,16 @@
       "launch",
       1,
       "anticipation"
-    ],
-    [
-      "battle",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 60,
-    "fear": 53,
+    "joy": 18,
+    "trust": 59,
+    "fear": 52,
     "surprise": 7,
     "sadness": 7,
     "disgust": 3,
-    "anger": 96,
-    "anticipation": 37
+    "anger": 98,
+    "anticipation": 36
   }
 }
