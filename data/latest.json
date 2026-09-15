@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T22:47:01.258Z",
+  "generated_at": "2026-09-15T22:47:23.511Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,11 +51,6 @@
       "trump",
       4,
       "anger"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "fires",
@@ -258,6 +253,11 @@
       "surprise"
     ],
     [
+      "people",
+      2,
+      "trust"
+    ],
+    [
       "government",
       2,
       "fear"
@@ -271,6 +271,21 @@
       "happen",
       2,
       "anticipation"
+    ],
+    [
+      "equality",
+      1,
+      "joy"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
+      "prejudice",
+      1,
+      "anger"
     ],
     [
       "damaging",
@@ -333,21 +348,6 @@
       "joy"
     ],
     [
-      "equality",
-      1,
-      "joy"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
-    ],
-    [
-      "prejudice",
-      1,
-      "anger"
-    ],
-    [
       "threaten",
       1,
       "anger"
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 61,
+    "trust": 60,
     "fear": 56,
     "surprise": 9,
     "sadness": 7,
