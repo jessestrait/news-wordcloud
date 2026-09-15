@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T09:39:09.505Z",
+  "generated_at": "2026-09-15T09:54:12.067Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
-      "show",
-      4,
-      "trust"
-    ],
-    [
       "military",
       4,
       "fear"
+    ],
+    [
+      "show",
+      4,
+      "trust"
     ],
     [
       "trump",
@@ -63,14 +63,14 @@
       "fear"
     ],
     [
-      "shot",
-      3,
-      "anger"
-    ],
-    [
       "fires",
       3,
       "fear"
+    ],
+    [
+      "shot",
+      3,
+      "anger"
     ],
     [
       "hit",
@@ -273,6 +273,21 @@
       "fear"
     ],
     [
+      "shoot",
+      1,
+      "anger"
+    ],
+    [
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
+      "reckless",
+      1,
+      "anger"
+    ],
+    [
       "ongoing",
       1,
       "anticipation"
@@ -331,21 +346,6 @@
       "save",
       1,
       "joy"
-    ],
-    [
-      "shoot",
-      1,
-      "anger"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
-    ],
-    [
-      "reckless",
-      1,
-      "anger"
     ],
     [
       "daily",
