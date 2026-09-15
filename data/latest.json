@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:11:14.883Z",
+  "generated_at": "2026-09-15T13:26:17.645Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "strait",
       6,
       "fear"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "power",
@@ -48,11 +53,6 @@
       "anger"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "global",
       4,
       "anticipation"
@@ -79,6 +79,11 @@
     ],
     [
       "fires",
+      3,
+      "fear"
+    ],
+    [
+      "warn",
       3,
       "fear"
     ],
@@ -113,11 +118,6 @@
       "trust"
     ],
     [
-      "allies",
-      2,
-      "trust"
-    ],
-    [
       "father",
       2,
       "trust"
@@ -129,11 +129,6 @@
     ],
     [
       "seize",
-      2,
-      "fear"
-    ],
-    [
-      "warn",
       2,
       "fear"
     ],
@@ -278,14 +273,24 @@
       "fear"
     ],
     [
-      "ongoing",
+      "aggression",
       1,
-      "anticipation"
+      "anger"
     ],
     [
-      "alliance",
+      "commission",
       1,
       "trust"
+    ],
+    [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "isolated",
+      1,
+      "fear"
     ],
     [
       "vendetta",
@@ -371,21 +376,16 @@
       "daily",
       1,
       "anticipation"
-    ],
-    [
-      "choke",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
     "trust": 59,
-    "fear": 60,
+    "fear": 63,
     "surprise": 6,
     "sadness": 7,
     "disgust": 3,
-    "anger": 95,
-    "anticipation": 37
+    "anger": 96,
+    "anticipation": 36
   }
 }
