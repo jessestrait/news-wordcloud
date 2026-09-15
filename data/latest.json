@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T08:38:41.143Z",
+  "generated_at": "2026-09-15T08:53:43.428Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "anger"
     ],
     [
+      "shot",
+      4,
+      "anger"
+    ],
+    [
       "show",
       4,
       "trust"
@@ -56,16 +61,6 @@
       "government",
       4,
       "fear"
-    ],
-    [
-      "fires",
-      3,
-      "fear"
-    ],
-    [
-      "shot",
-      3,
-      "anger"
     ],
     [
       "hit",
@@ -118,7 +113,7 @@
       "trust"
     ],
     [
-      "continue",
+      "allies",
       2,
       "trust"
     ],
@@ -151,6 +146,11 @@
       "life",
       2,
       "joy"
+    ],
+    [
+      "fires",
+      2,
+      "fear"
     ],
     [
       "base",
@@ -273,14 +273,14 @@
       "fear"
     ],
     [
-      "ambassador",
+      "ongoing",
       1,
-      "trust"
+      "anticipation"
     ],
     [
-      "reckless",
+      "alliance",
       1,
-      "anger"
+      "trust"
     ],
     [
       "agreement",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 21,
     "trust": 59,
-    "fear": 56,
+    "fear": 55,
     "surprise": 8,
     "sadness": 7,
     "disgust": 3,
     "anger": 94,
-    "anticipation": 36
+    "anticipation": 37
   }
 }
