@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T03:51:08.210Z",
+  "generated_at": "2026-09-15T04:06:10.473Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,6 +26,11 @@
       "iran",
       5,
       "anger"
+    ],
+    [
+      "show",
+      4,
+      "trust"
     ],
     [
       "trump",
@@ -98,16 +103,6 @@
       "surprise"
     ],
     [
-      "bank",
-      3,
-      "trust"
-    ],
-    [
-      "show",
-      3,
-      "trust"
-    ],
-    [
       "missing",
       3,
       "fear"
@@ -116,6 +111,16 @@
       "poll",
       3,
       "trust"
+    ],
+    [
+      "believed",
+      2,
+      "trust"
+    ],
+    [
+      "white",
+      2,
+      "joy"
     ],
     [
       "world",
@@ -183,6 +188,11 @@
       "anger"
     ],
     [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
       "game",
       2,
       "anticipation"
@@ -196,11 +206,6 @@
       "officials",
       2,
       "trust"
-    ],
-    [
-      "letters",
-      2,
-      "anticipation"
     ],
     [
       "killed",
@@ -258,14 +263,29 @@
       "joy"
     ],
     [
-      "illegal",
-      2,
-      "anger"
-    ],
-    [
       "seizure",
       2,
       "fear"
+    ],
+    [
+      "hype",
+      1,
+      "anticipation"
+    ],
+    [
+      "denied",
+      1,
+      "sadness"
+    ],
+    [
+      "refugee",
+      1,
+      "sadness"
+    ],
+    [
+      "save",
+      1,
+      "joy"
     ],
     [
       "shoot",
@@ -356,36 +376,16 @@
       "backers",
       1,
       "trust"
-    ],
-    [
-      "agreed",
-      1,
-      "trust"
-    ],
-    [
-      "blames",
-      1,
-      "anger"
-    ],
-    [
-      "spike",
-      1,
-      "fear"
-    ],
-    [
-      "launch",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 59,
+    "joy": 21,
+    "trust": 60,
     "fear": 52,
     "surprise": 7,
-    "sadness": 7,
+    "sadness": 9,
     "disgust": 3,
-    "anger": 98,
+    "anger": 97,
     "anticipation": 36
   }
 }
