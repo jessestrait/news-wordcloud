@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-09-15T17:13:28.867Z",
+  "generated_at": "2026-09-15T17:28:31.323Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      10,
-      "anger"
-    ],
-    [
-      "war",
-      7,
+      8,
       "anger"
     ],
     [
       "strait",
-      6,
+      7,
       "fear"
+    ],
+    [
+      "war",
+      6,
+      "anger"
+    ],
+    [
+      "strike",
+      6,
+      "anger"
     ],
     [
       "president",
@@ -26,11 +31,6 @@
       "power",
       5,
       "anticipation"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
     ],
     [
       "iran",
@@ -51,11 +51,6 @@
       "global",
       4,
       "anticipation"
-    ],
-    [
-      "government",
-      4,
-      "fear"
     ],
     [
       "fires",
@@ -83,6 +78,11 @@
       "fear"
     ],
     [
+      "warn",
+      3,
+      "fear"
+    ],
+    [
       "hit",
       3,
       "anger"
@@ -93,17 +93,17 @@
       "anger"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "damage",
       3,
       "anger"
     ],
     [
       "missing",
+      3,
+      "fear"
+    ],
+    [
+      "government",
       3,
       "fear"
     ],
@@ -118,6 +118,16 @@
       "trust"
     ],
     [
+      "threaten",
+      2,
+      "anger"
+    ],
+    [
+      "fighting",
+      2,
+      "anger"
+    ],
+    [
       "obituary",
       2,
       "sadness"
@@ -128,22 +138,12 @@
       "anger"
     ],
     [
-      "found",
-      2,
-      "joy"
-    ],
-    [
       "father",
       2,
       "trust"
     ],
     [
       "change",
-      2,
-      "fear"
-    ],
-    [
-      "warn",
       2,
       "fear"
     ],
@@ -186,6 +186,11 @@
       "counted",
       2,
       "trust"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "hormuz",
@@ -263,9 +268,24 @@
       "anger"
     ],
     [
-      "build",
-      2,
-      "anticipation"
+      "humanitarian",
+      1,
+      "surprise"
+    ],
+    [
+      "displaced",
+      1,
+      "anger"
+    ],
+    [
+      "sounds",
+      1,
+      "joy"
+    ],
+    [
+      "alarm",
+      1,
+      "fear"
     ],
     [
       "shoot",
@@ -286,6 +306,11 @@
       "explosive",
       1,
       "anger"
+    ],
+    [
+      "found",
+      1,
+      "joy"
     ],
     [
       "commission",
@@ -351,41 +376,16 @@
       "lesser",
       1,
       "disgust"
-    ],
-    [
-      "hype",
-      1,
-      "anticipation"
-    ],
-    [
-      "denied",
-      1,
-      "sadness"
-    ],
-    [
-      "refugee",
-      1,
-      "sadness"
-    ],
-    [
-      "save",
-      1,
-      "joy"
-    ],
-    [
-      "daily",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 58,
-    "fear": 58,
-    "surprise": 7,
+    "trust": 57,
+    "fear": 59,
+    "surprise": 8,
     "sadness": 8,
     "disgust": 3,
-    "anger": 95,
-    "anticipation": 35
+    "anger": 96,
+    "anticipation": 34
   }
 }
