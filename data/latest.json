@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T19:14:38.336Z",
+  "generated_at": "2026-09-15T19:29:40.752Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,19 @@
       "anger"
     ],
     [
-      "strait",
-      6,
-      "fear"
-    ],
-    [
       "strike",
       6,
       "anger"
+    ],
+    [
+      "poll",
+      5,
+      "trust"
+    ],
+    [
+      "strait",
+      5,
+      "fear"
     ],
     [
       "president",
@@ -38,17 +43,12 @@
       "anticipation"
     ],
     [
-      "iran",
-      5,
+      "trump",
+      4,
       "anger"
     ],
     [
-      "poll",
-      4,
-      "trust"
-    ],
-    [
-      "trump",
+      "iran",
       4,
       "anger"
     ],
@@ -111,6 +111,16 @@
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "scandal",
+      2,
+      "fear"
+    ],
+    [
+      "suggesting",
+      2,
+      "trust"
     ],
     [
       "fighting",
@@ -253,6 +263,31 @@
       "anticipation"
     ],
     [
+      "ferocious",
+      1,
+      "anger"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "erupts",
+      1,
+      "anger"
+    ],
+    [
+      "explodes",
+      1,
+      "anger"
+    ],
+    [
       "unique",
       1,
       "surprise"
@@ -341,51 +376,16 @@
       "found",
       1,
       "joy"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
-    ],
-    [
-      "isolated",
-      1,
-      "fear"
-    ],
-    [
-      "vendetta",
-      1,
-      "anger"
-    ],
-    [
-      "imprisoned",
-      1,
-      "anger"
-    ],
-    [
-      "guardian",
-      1,
-      "trust"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 61,
+    "trust": 62,
     "fear": 56,
     "surprise": 9,
     "sadness": 7,
     "disgust": 4,
-    "anger": 92,
+    "anger": 96,
     "anticipation": 33
   }
 }
