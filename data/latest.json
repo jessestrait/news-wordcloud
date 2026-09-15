@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:12:31.296Z",
+  "generated_at": "2026-09-15T15:27:33.467Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "show",
       4,
       "trust"
@@ -60,6 +55,11 @@
     [
       "government",
       4,
+      "fear"
+    ],
+    [
+      "fires",
+      3,
       "fear"
     ],
     [
@@ -88,11 +88,6 @@
       "fear"
     ],
     [
-      "fires",
-      3,
-      "fear"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -101,6 +96,11 @@
       "conflict",
       3,
       "anger"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "damage",
@@ -116,6 +116,11 @@
       "missing",
       3,
       "fear"
+    ],
+    [
+      "incident",
+      3,
+      "surprise"
     ],
     [
       "poll",
@@ -248,11 +253,6 @@
       "anticipation"
     ],
     [
-      "incident",
-      2,
-      "surprise"
-    ],
-    [
       "advance",
       2,
       "fear"
@@ -271,6 +271,21 @@
       "seizure",
       2,
       "fear"
+    ],
+    [
+      "shoot",
+      1,
+      "anger"
+    ],
+    [
+      "aggression",
+      1,
+      "anger"
+    ],
+    [
+      "provocation",
+      1,
+      "anger"
     ],
     [
       "explosive",
@@ -306,21 +321,6 @@
       "guardian",
       1,
       "trust"
-    ],
-    [
-      "shoot",
-      1,
-      "anger"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
-    ],
-    [
-      "reckless",
-      1,
-      "anger"
     ],
     [
       "agreement",
@@ -381,8 +381,8 @@
   "emotion_totals": {
     "joy": 21,
     "trust": 59,
-    "fear": 62,
-    "surprise": 6,
+    "fear": 61,
+    "surprise": 7,
     "sadness": 7,
     "disgust": 3,
     "anger": 96,
