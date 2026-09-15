@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:46:29.597Z",
+  "generated_at": "2026-09-15T22:01:32.166Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,19 @@
       "anger"
     ],
     [
+      "war",
+      6,
+      "anger"
+    ],
+    [
       "strike",
       6,
       "anger"
     ],
     [
-      "poll",
+      "iran",
       5,
-      "trust"
+      "anger"
     ],
     [
       "strait",
@@ -28,27 +33,22 @@
       "trust"
     ],
     [
-      "show",
-      5,
-      "trust"
-    ],
-    [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "power",
       5,
       "anticipation"
     ],
     [
-      "trump",
+      "poll",
       4,
-      "anger"
+      "trust"
     ],
     [
-      "iran",
+      "show",
+      4,
+      "trust"
+    ],
+    [
+      "trump",
       4,
       "anger"
     ],
@@ -93,17 +93,7 @@
       "anger"
     ],
     [
-      "global",
-      3,
-      "anticipation"
-    ],
-    [
       "missing",
-      3,
-      "fear"
-    ],
-    [
-      "government",
       3,
       "fear"
     ],
@@ -111,6 +101,16 @@
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "missile",
+      2,
+      "fear"
+    ],
+    [
+      "grow",
+      2,
+      "joy"
     ],
     [
       "scandal",
@@ -233,6 +233,11 @@
       "anticipation"
     ],
     [
+      "global",
+      2,
+      "anticipation"
+    ],
+    [
       "supply",
       2,
       "fear"
@@ -253,6 +258,11 @@
       "surprise"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "wildfires",
       2,
       "fear"
@@ -261,6 +271,16 @@
       "happen",
       2,
       "anticipation"
+    ],
+    [
+      "damaging",
+      1,
+      "anger"
+    ],
+    [
+      "budget",
+      1,
+      "trust"
     ],
     [
       "ferocious",
@@ -356,36 +376,16 @@
       "shoot",
       1,
       "anger"
-    ],
-    [
-      "aggression",
-      1,
-      "anger"
-    ],
-    [
-      "provocation",
-      1,
-      "anger"
-    ],
-    [
-      "explosive",
-      1,
-      "anger"
-    ],
-    [
-      "found",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 62,
+    "trust": 61,
     "fear": 56,
     "surprise": 9,
     "sadness": 7,
     "disgust": 4,
-    "anger": 96,
-    "anticipation": 33
+    "anger": 99,
+    "anticipation": 32
   }
 }
