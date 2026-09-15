@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:36:57.596Z",
+  "generated_at": "2026-09-15T05:52:00.114Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "strait",
       6,
       "fear"
+    ],
+    [
+      "power",
+      5,
+      "anticipation"
     ],
     [
       "strike",
@@ -38,11 +43,6 @@
       "anger"
     ],
     [
-      "power",
-      4,
-      "anticipation"
-    ],
-    [
       "president",
       4,
       "trust"
@@ -56,11 +56,6 @@
       "global",
       4,
       "anticipation"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "government",
@@ -108,9 +103,19 @@
       "fear"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "poll",
       3,
       "trust"
+    ],
+    [
+      "change",
+      2,
+      "fear"
     ],
     [
       "seize",
@@ -164,11 +169,6 @@
     ],
     [
       "counted",
-      2,
-      "trust"
-    ],
-    [
-      "policy",
       2,
       "trust"
     ],
@@ -266,6 +266,16 @@
       "seizure",
       2,
       "fear"
+    ],
+    [
+      "agreement",
+      1,
+      "trust"
+    ],
+    [
+      "grows",
+      1,
+      "joy"
     ],
     [
       "analysts",
@@ -366,26 +376,16 @@
       "escalate",
       1,
       "anger"
-    ],
-    [
-      "threat",
-      1,
-      "anger"
-    ],
-    [
-      "rule",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 59,
-    "fear": 56,
+    "joy": 21,
+    "trust": 58,
+    "fear": 57,
     "surprise": 7,
-    "sadness": 9,
+    "sadness": 8,
     "disgust": 4,
     "anger": 94,
-    "anticipation": 35
+    "anticipation": 36
   }
 }
