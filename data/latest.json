@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:53:16.449Z",
+  "generated_at": "2026-09-15T08:08:19.164Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "trust"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "global",
       4,
       "anticipation"
@@ -60,6 +55,11 @@
     [
       "government",
       4,
+      "fear"
+    ],
+    [
+      "fires",
+      3,
       "fear"
     ],
     [
@@ -81,6 +81,11 @@
       "vote",
       3,
       "anger"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "damage",
@@ -113,6 +118,11 @@
       "trust"
     ],
     [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
       "change",
       2,
       "fear"
@@ -141,11 +151,6 @@
       "life",
       2,
       "joy"
-    ],
-    [
-      "fires",
-      2,
-      "fear"
     ],
     [
       "base",
@@ -233,14 +238,14 @@
       "fear"
     ],
     [
-      "system",
-      2,
-      "trust"
-    ],
-    [
       "happen",
       2,
       "anticipation"
+    ],
+    [
+      "incident",
+      2,
+      "surprise"
     ],
     [
       "advance",
@@ -266,6 +271,16 @@
       "seizure",
       2,
       "fear"
+    ],
+    [
+      "ambassador",
+      1,
+      "trust"
+    ],
+    [
+      "reckless",
+      1,
+      "anger"
     ],
     [
       "agreement",
@@ -361,30 +376,15 @@
       "propaganda",
       1,
       "disgust"
-    ],
-    [
-      "watch",
-      1,
-      "fear"
-    ],
-    [
-      "real",
-      1,
-      "trust"
-    ],
-    [
-      "escalate",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 58,
-    "fear": 57,
-    "surprise": 7,
-    "sadness": 8,
-    "disgust": 4,
+    "trust": 59,
+    "fear": 56,
+    "surprise": 8,
+    "sadness": 7,
+    "disgust": 3,
     "anger": 94,
     "anticipation": 36
   }
