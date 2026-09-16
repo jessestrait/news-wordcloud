@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T05:50:45.162Z",
+  "generated_at": "2026-09-16T06:05:46.965Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "anger"
     ],
     [
+      "hit",
+      5,
+      "anger"
+    ],
+    [
       "government",
       4,
       "fear"
@@ -31,11 +36,6 @@
       "killed",
       4,
       "fear"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "poll",
@@ -63,6 +63,11 @@
       "anticipation"
     ],
     [
+      "conflict",
+      3,
+      "anger"
+    ],
+    [
       "deaths",
       3,
       "sadness"
@@ -83,11 +88,6 @@
       "anticipation"
     ],
     [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "khan",
       3,
       "fear"
@@ -96,11 +96,6 @@
       "warn",
       3,
       "fear"
-    ],
-    [
-      "trump",
-      3,
-      "anger"
     ],
     [
       "vote",
@@ -116,6 +111,11 @@
       "missing",
       3,
       "fear"
+    ],
+    [
+      "violence",
+      2,
+      "anger"
     ],
     [
       "kill",
@@ -183,6 +183,11 @@
       "anger"
     ],
     [
+      "president",
+      2,
+      "trust"
+    ],
+    [
       "father",
       2,
       "trust"
@@ -208,6 +213,11 @@
       "joy"
     ],
     [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "base",
       2,
       "trust"
@@ -221,11 +231,6 @@
       "david",
       2,
       "trust"
-    ],
-    [
-      "conflict",
-      2,
-      "anger"
     ],
     [
       "counted",
@@ -278,9 +283,19 @@
       "fear"
     ],
     [
-      "happen",
-      2,
-      "anticipation"
+      "belt",
+      1,
+      "anger"
+    ],
+    [
+      "levels",
+      1,
+      "trust"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
     ],
     [
       "happy",
@@ -361,31 +376,16 @@
       "thinking",
       1,
       "trust"
-    ],
-    [
-      "abundance",
-      1,
-      "disgust"
-    ],
-    [
-      "anti",
-      1,
-      "anger"
-    ],
-    [
-      "scores",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 65,
-    "fear": 56,
+    "joy": 22,
+    "trust": 64,
+    "fear": 57,
     "surprise": 9,
     "sadness": 9,
     "disgust": 5,
-    "anger": 98,
-    "anticipation": 31
+    "anger": 101,
+    "anticipation": 29
   }
 }
