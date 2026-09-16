@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T02:18:53.983Z",
+  "generated_at": "2026-09-16T02:33:55.983Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "trust"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "show",
       4,
       "trust"
@@ -53,6 +48,16 @@
       "anticipation"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
+      "battle",
+      3,
+      "anger"
+    ],
+    [
       "fires",
       3,
       "fear"
@@ -61,6 +66,11 @@
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "khan",
@@ -98,6 +108,11 @@
       "surprise"
     ],
     [
+      "world",
+      2,
+      "trust"
+    ],
+    [
       "anti",
       2,
       "anger"
@@ -131,11 +146,6 @@
       "obituary",
       2,
       "sadness"
-    ],
-    [
-      "battle",
-      2,
-      "anger"
     ],
     [
       "shot",
@@ -198,11 +208,6 @@
       "trust"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "hormuz",
       2,
       "fear"
@@ -258,11 +263,6 @@
       "surprise"
     ],
     [
-      "people",
-      2,
-      "trust"
-    ],
-    [
       "government",
       2,
       "fear"
@@ -276,6 +276,46 @@
       "happen",
       2,
       "anticipation"
+    ],
+    [
+      "pays",
+      1,
+      "joy"
+    ],
+    [
+      "book",
+      1,
+      "trust"
+    ],
+    [
+      "hopes",
+      1,
+      "surprise"
+    ],
+    [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "improve",
+      1,
+      "joy"
+    ],
+    [
+      "critical",
+      1,
+      "trust"
+    ],
+    [
+      "thinking",
+      1,
+      "trust"
+    ],
+    [
+      "abundance",
+      1,
+      "disgust"
     ],
     [
       "scores",
@@ -336,56 +376,16 @@
       "explodes",
       1,
       "anger"
-    ],
-    [
-      "unique",
-      1,
-      "surprise"
-    ],
-    [
-      "alliance",
-      1,
-      "trust"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "spat",
-      1,
-      "anger"
-    ],
-    [
-      "strengthening",
-      1,
-      "joy"
-    ],
-    [
-      "threaten",
-      1,
-      "anger"
-    ],
-    [
-      "humanitarian",
-      1,
-      "surprise"
-    ],
-    [
-      "displaced",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 58,
-    "fear": 57,
-    "surprise": 10,
+    "joy": 21,
+    "trust": 62,
+    "fear": 56,
+    "surprise": 11,
     "sadness": 7,
-    "disgust": 4,
-    "anger": 102,
+    "disgust": 5,
+    "anger": 101,
     "anticipation": 30
   }
 }
