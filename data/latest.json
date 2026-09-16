@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:22:51.601Z",
+  "generated_at": "2026-09-16T09:37:53.357Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "anger"
     ],
     [
-      "hit",
-      5,
+      "war",
+      6,
       "anger"
     ],
     [
-      "war",
+      "hit",
       5,
       "anger"
     ],
@@ -118,14 +118,9 @@
       "anger"
     ],
     [
-      "commission",
+      "court",
       2,
-      "trust"
-    ],
-    [
-      "level",
-      2,
-      "trust"
+      "anger"
     ],
     [
       "anger",
@@ -288,24 +283,34 @@
       "fear"
     ],
     [
-      "associate",
+      "sentenced",
+      1,
+      "anger"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
+    ],
+    [
+      "responsible",
       1,
       "trust"
     ],
     [
-      "suggests",
+      "crimes",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "partnership",
+      "violent",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "highest",
+      "break",
       1,
-      "fear"
+      "surprise"
     ],
     [
       "prey",
@@ -321,6 +326,11 @@
       "belt",
       1,
       "anger"
+    ],
+    [
+      "levels",
+      1,
+      "trust"
     ],
     [
       "terror",
@@ -366,26 +376,16 @@
       "devastated",
       1,
       "anger"
-    ],
-    [
-      "unable",
-      1,
-      "sadness"
-    ],
-    [
-      "scholarships",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 67,
-    "fear": 55,
-    "surprise": 8,
+    "trust": 63,
+    "fear": 54,
+    "surprise": 9,
     "sadness": 9,
     "disgust": 5,
-    "anger": 100,
+    "anger": 106,
     "anticipation": 30
   }
 }
