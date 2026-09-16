@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:39:36.744Z",
+  "generated_at": "2026-09-16T12:54:39.262Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
-      "white",
-      4,
-      "joy"
-    ],
-    [
       "president",
       4,
       "trust"
+    ],
+    [
+      "white",
+      4,
+      "joy"
     ],
     [
       "vote",
@@ -66,6 +66,11 @@
       "attack",
       4,
       "anger"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "trump",
@@ -118,12 +123,12 @@
       "anger"
     ],
     [
-      "anti",
+      "court",
       2,
       "anger"
     ],
     [
-      "court",
+      "anti",
       2,
       "anger"
     ],
@@ -166,11 +171,6 @@
       "threat",
       2,
       "anger"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "world",
@@ -258,21 +258,6 @@
       "fear"
     ],
     [
-      "discrimination",
-      1,
-      "anger"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "restrictions",
-      1,
-      "anger"
-    ],
-    [
       "sentenced",
       1,
       "anger"
@@ -301,6 +286,46 @@
       "break",
       1,
       "surprise"
+    ],
+    [
+      "leaders",
+      1,
+      "trust"
+    ],
+    [
+      "doubts",
+      1,
+      "fear"
+    ],
+    [
+      "chancellor",
+      1,
+      "trust"
+    ],
+    [
+      "cancels",
+      1,
+      "sadness"
+    ],
+    [
+      "gains",
+      1,
+      "joy"
+    ],
+    [
+      "discrimination",
+      1,
+      "anger"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
+    ],
+    [
+      "restrictions",
+      1,
+      "anger"
     ],
     [
       "guillotine",
@@ -351,39 +376,14 @@
       "associate",
       1,
       "trust"
-    ],
-    [
-      "partnerships",
-      1,
-      "trust"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
-      "create",
-      1,
-      "joy"
-    ],
-    [
-      "toxic",
-      1,
-      "disgust"
-    ],
-    [
-      "waste",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 67,
-    "fear": 46,
+    "joy": 25,
+    "trust": 68,
+    "fear": 47,
     "surprise": 11,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 6,
     "anger": 100,
     "anticipation": 32
