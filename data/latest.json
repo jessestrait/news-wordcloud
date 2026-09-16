@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:33:33.741Z",
+  "generated_at": "2026-09-16T01:48:35.878Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      6,
+      7,
       "anger"
     ],
     [
@@ -28,17 +28,17 @@
       "fear"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
-      "power",
-      5,
-      "anticipation"
+      "hit",
+      4,
+      "anger"
     ],
     [
       "poll",
+      4,
+      "trust"
+    ],
+    [
+      "president",
       4,
       "trust"
     ],
@@ -48,9 +48,9 @@
       "trust"
     ],
     [
-      "trump",
+      "power",
       4,
-      "anger"
+      "anticipation"
     ],
     [
       "fires",
@@ -78,7 +78,7 @@
       "fear"
     ],
     [
-      "hit",
+      "trump",
       3,
       "anger"
     ],
@@ -96,6 +96,11 @@
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "anti",
+      2,
+      "anger"
     ],
     [
       "missile",
@@ -273,9 +278,19 @@
       "anticipation"
     ],
     [
-      "equality",
+      "scores",
       1,
-      "joy"
+      "surprise"
+    ],
+    [
+      "offensive",
+      1,
+      "anger"
+    ],
+    [
+      "inequality",
+      1,
+      "anger"
     ],
     [
       "worsening",
@@ -361,31 +376,16 @@
       "displaced",
       1,
       "anger"
-    ],
-    [
-      "sounds",
-      1,
-      "joy"
-    ],
-    [
-      "alarm",
-      1,
-      "fear"
-    ],
-    [
-      "shoot",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 60,
-    "fear": 56,
-    "surprise": 9,
+    "joy": 20,
+    "trust": 58,
+    "fear": 57,
+    "surprise": 10,
     "sadness": 7,
     "disgust": 4,
-    "anger": 99,
-    "anticipation": 32
+    "anger": 102,
+    "anticipation": 30
   }
 }
