@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:38:26.805Z",
+  "generated_at": "2026-09-16T10:53:29.205Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,14 +58,14 @@
       "anticipation"
     ],
     [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "gaza",
       3,
       "anger"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "murder",
@@ -118,14 +118,14 @@
       "anger"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
       "rescue",
       2,
       "surprise"
+    ],
+    [
+      "court",
+      2,
+      "anger"
     ],
     [
       "anger",
@@ -273,6 +273,21 @@
       "trust"
     ],
     [
+      "building",
+      1,
+      "anticipation"
+    ],
+    [
+      "damaged",
+      1,
+      "anger"
+    ],
+    [
+      "collapses",
+      1,
+      "fear"
+    ],
+    [
       "sentenced",
       1,
       "anger"
@@ -301,21 +316,6 @@
       "break",
       1,
       "surprise"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
-    ],
-    [
-      "damaged",
-      1,
-      "anger"
-    ],
-    [
-      "collapses",
-      1,
-      "fear"
     ],
     [
       "serving",
