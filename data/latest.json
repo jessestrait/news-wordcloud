@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-16T15:41:20.986Z",
+  "generated_at": "2026-09-16T15:56:24.036Z",
   "article_count": 50,
   "top_words": [
+    [
+      "power",
+      5,
+      "anticipation"
+    ],
     [
       "war",
       5,
@@ -53,14 +58,9 @@
       "fear"
     ],
     [
-      "show",
-      4,
+      "leaders",
+      3,
       "trust"
-    ],
-    [
-      "power",
-      4,
-      "anticipation"
     ],
     [
       "gaza",
@@ -93,11 +93,6 @@
       "fear"
     ],
     [
-      "global",
-      3,
-      "anticipation"
-    ],
-    [
       "conflict",
       3,
       "anger"
@@ -118,14 +113,24 @@
       "fear"
     ],
     [
+      "show",
+      3,
+      "trust"
+    ],
+    [
       "strike",
       3,
       "anger"
     ],
     [
-      "damage",
-      3,
+      "accused",
+      2,
       "anger"
+    ],
+    [
+      "gains",
+      2,
+      "joy"
     ],
     [
       "directors",
@@ -156,11 +161,6 @@
       "airport",
       2,
       "anticipation"
-    ],
-    [
-      "leaders",
-      2,
-      "trust"
     ],
     [
       "agreement",
@@ -203,11 +203,6 @@
       "joy"
     ],
     [
-      "scandal",
-      2,
-      "fear"
-    ],
-    [
       "obituary",
       2,
       "sadness"
@@ -248,24 +243,39 @@
       "joy"
     ],
     [
-      "attack",
-      2,
-      "anger"
-    ],
-    [
       "police",
       2,
       "fear"
     ],
     [
-      "game",
-      2,
+      "corruption",
+      1,
+      "disgust"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "voted",
+      1,
+      "anger"
+    ],
+    [
+      "seeks",
+      1,
       "anticipation"
     ],
     [
-      "supply",
-      2,
+      "dangerous",
+      1,
       "fear"
+    ],
+    [
+      "embrace",
+      1,
+      "surprise"
     ],
     [
       "sentenced",
@@ -366,26 +376,16 @@
       "impossible",
       1,
       "sadness"
-    ],
-    [
-      "cases",
-      1,
-      "fear"
-    ],
-    [
-      "restrict",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 27,
     "trust": 71,
-    "fear": 51,
-    "surprise": 11,
+    "fear": 48,
+    "surprise": 12,
     "sadness": 13,
-    "disgust": 8,
-    "anger": 97,
-    "anticipation": 33
+    "disgust": 9,
+    "anger": 94,
+    "anticipation": 30
   }
 }
