@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:06:37.890Z",
+  "generated_at": "2026-09-16T07:21:40.258Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,14 +58,14 @@
       "anticipation"
     ],
     [
-      "murder",
-      3,
-      "anger"
-    ],
-    [
       "president",
       3,
       "trust"
+    ],
+    [
+      "murder",
+      3,
+      "anger"
     ],
     [
       "conflict",
@@ -118,21 +118,6 @@
       "anger"
     ],
     [
-      "anger",
-      2,
-      "anger"
-    ],
-    [
-      "found",
-      2,
-      "joy"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
-    ],
-    [
       "challenges",
       2,
       "anger"
@@ -146,6 +131,21 @@
       "commission",
       2,
       "trust"
+    ],
+    [
+      "anger",
+      2,
+      "anger"
+    ],
+    [
+      "found",
+      2,
+      "joy"
+    ],
+    [
+      "airport",
+      2,
+      "anticipation"
     ],
     [
       "violence",
