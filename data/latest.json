@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:40:49.907Z",
+  "generated_at": "2026-09-16T14:55:52.542Z",
   "article_count": 50,
   "top_words": [
     [
@@ -263,26 +263,6 @@
       "fear"
     ],
     [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "draft",
-      1,
-      "anticipation"
-    ],
-    [
-      "law",
-      1,
-      "trust"
-    ],
-    [
-      "childhood",
-      1,
-      "joy"
-    ],
-    [
       "sentenced",
       1,
       "anger"
@@ -311,6 +291,26 @@
       "break",
       1,
       "surprise"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "draft",
+      1,
+      "anticipation"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
+      "childhood",
+      1,
+      "joy"
     ],
     [
       "invites",
