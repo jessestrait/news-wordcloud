@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:21:40.258Z",
+  "generated_at": "2026-09-16T07:36:42.848Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "fear"
     ],
     [
+      "warn",
+      4,
+      "fear"
+    ],
+    [
       "show",
       4,
       "trust"
@@ -56,6 +61,11 @@
       "power",
       4,
       "anticipation"
+    ],
+    [
+      "world",
+      3,
+      "trust"
     ],
     [
       "president",
@@ -103,11 +113,6 @@
       "fear"
     ],
     [
-      "warn",
-      3,
-      "fear"
-    ],
-    [
       "vote",
       3,
       "anger"
@@ -116,16 +121,6 @@
       "damage",
       3,
       "anger"
-    ],
-    [
-      "challenges",
-      2,
-      "anger"
-    ],
-    [
-      "opportunities",
-      2,
-      "anticipation"
     ],
     [
       "commission",
@@ -166,11 +161,6 @@
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "grow",
@@ -293,6 +283,16 @@
       "fear"
     ],
     [
+      "precarious",
+      1,
+      "fear"
+    ],
+    [
+      "hostile",
+      1,
+      "anger"
+    ],
+    [
       "prey",
       1,
       "fear"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 63,
-    "fear": 54,
+    "trust": 64,
+    "fear": 56,
     "surprise": 8,
     "sadness": 9,
     "disgust": 5,
-    "anger": 102,
-    "anticipation": 32
+    "anger": 101,
+    "anticipation": 30
   }
 }
