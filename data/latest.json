@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:41:48.877Z",
+  "generated_at": "2026-09-16T16:56:50.912Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,14 +63,14 @@
       "fear"
     ],
     [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
       "gaza",
       3,
       "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "leaders",
@@ -86,11 +86,6 @@
       "murder",
       3,
       "anger"
-    ],
-    [
-      "plan",
-      3,
-      "anticipation"
     ],
     [
       "vote",
@@ -123,16 +118,6 @@
       "anger"
     ],
     [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
-      "gains",
-      2,
-      "joy"
-    ],
-    [
       "directors",
       2,
       "trust"
@@ -141,6 +126,16 @@
       "guardian",
       2,
       "trust"
+    ],
+    [
+      "accused",
+      2,
+      "anger"
+    ],
+    [
+      "gains",
+      2,
+      "joy"
     ],
     [
       "court",
@@ -186,6 +181,11 @@
       "government",
       2,
       "fear"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "world",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 27,
     "trust": 70,
-    "fear": 48,
+    "fear": 47,
     "surprise": 12,
     "sadness": 13,
     "disgust": 9,
     "anger": 94,
-    "anticipation": 30
+    "anticipation": 29
   }
 }
