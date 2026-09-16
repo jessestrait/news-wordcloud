@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:55:23.353Z",
+  "generated_at": "2026-09-16T14:10:25.803Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,6 +133,11 @@
       "anger"
     ],
     [
+      "court",
+      2,
+      "anger"
+    ],
+    [
       "commission",
       2,
       "trust"
@@ -146,11 +151,6 @@
       "guardian",
       2,
       "trust"
-    ],
-    [
-      "court",
-      2,
-      "anger"
     ],
     [
       "abortion",
@@ -263,26 +263,6 @@
       "fear"
     ],
     [
-      "invites",
-      1,
-      "surprise"
-    ],
-    [
-      "associate",
-      1,
-      "trust"
-    ],
-    [
-      "partnerships",
-      1,
-      "trust"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
       "sentenced",
       1,
       "anger"
@@ -309,6 +289,26 @@
     ],
     [
       "break",
+      1,
+      "surprise"
+    ],
+    [
+      "invites",
+      1,
+      "surprise"
+    ],
+    [
+      "associate",
+      1,
+      "trust"
+    ],
+    [
+      "partnerships",
+      1,
+      "trust"
+    ],
+    [
+      "unprecedented",
       1,
       "surprise"
     ],
