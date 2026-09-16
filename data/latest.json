@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:50:23.505Z",
+  "generated_at": "2026-09-16T05:05:25.557Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      7,
+      6,
       "anger"
     ],
     [
@@ -18,13 +18,13 @@
       "anger"
     ],
     [
-      "iran",
-      5,
-      "anger"
+      "people",
+      4,
+      "trust"
     ],
     [
-      "strait",
-      5,
+      "killed",
+      4,
       "fear"
     ],
     [
@@ -38,6 +38,16 @@
       "trust"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
+      "strait",
+      4,
+      "fear"
+    ],
+    [
       "show",
       4,
       "trust"
@@ -48,14 +58,14 @@
       "anticipation"
     ],
     [
+      "deaths",
+      3,
+      "sadness"
+    ],
+    [
       "government",
       3,
       "fear"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "battle",
@@ -83,11 +93,6 @@
       "fear"
     ],
     [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
       "warn",
       3,
       "fear"
@@ -111,6 +116,16 @@
       "missing",
       3,
       "fear"
+    ],
+    [
+      "threat",
+      2,
+      "anger"
+    ],
+    [
+      "murder",
+      2,
+      "anger"
     ],
     [
       "gaza",
@@ -218,16 +233,6 @@
       "trust"
     ],
     [
-      "hormuz",
-      2,
-      "fear"
-    ],
-    [
-      "deaths",
-      2,
-      "sadness"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -276,6 +281,26 @@
       "happen",
       2,
       "anticipation"
+    ],
+    [
+      "protecting",
+      1,
+      "trust"
+    ],
+    [
+      "self",
+      1,
+      "trust"
+    ],
+    [
+      "defenders",
+      1,
+      "trust"
+    ],
+    [
+      "america",
+      1,
+      "sadness"
     ],
     [
       "devastated",
@@ -351,41 +376,16 @@
       "worsening",
       1,
       "disgust"
-    ],
-    [
-      "prejudice",
-      1,
-      "anger"
-    ],
-    [
-      "house",
-      1,
-      "joy"
-    ],
-    [
-      "damaging",
-      1,
-      "anger"
-    ],
-    [
-      "budget",
-      1,
-      "trust"
-    ],
-    [
-      "ferocious",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 61,
-    "fear": 56,
+    "trust": 65,
+    "fear": 55,
     "surprise": 10,
-    "sadness": 8,
+    "sadness": 9,
     "disgust": 5,
-    "anger": 100,
-    "anticipation": 32
+    "anger": 99,
+    "anticipation": 31
   }
 }
