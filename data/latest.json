@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:11:44.668Z",
+  "generated_at": "2026-09-16T16:26:46.961Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "president",
       4,
       "trust"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
     ],
     [
       "trump",
@@ -103,11 +108,6 @@
       "anger"
     ],
     [
-      "iran",
-      3,
-      "anger"
-    ],
-    [
       "warn",
       3,
       "fear"
@@ -161,11 +161,6 @@
       "airport",
       2,
       "anticipation"
-    ],
-    [
-      "agreement",
-      2,
-      "trust"
     ],
     [
       "commission",
@@ -318,14 +313,9 @@
       "anger"
     ],
     [
-      "officials",
+      "assurances",
       1,
       "trust"
-    ],
-    [
-      "armed",
-      1,
-      "anger"
     ],
     [
       "media",
@@ -376,11 +366,21 @@
       "impossible",
       1,
       "sadness"
+    ],
+    [
+      "cases",
+      1,
+      "fear"
+    ],
+    [
+      "restrict",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 71,
+    "trust": 70,
     "fear": 48,
     "surprise": 12,
     "sadness": 13,
