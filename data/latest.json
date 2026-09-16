@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T03:34:43.258Z",
+  "generated_at": "2026-09-16T03:49:45.377Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,6 +93,11 @@
       "anger"
     ],
     [
+      "vote",
+      3,
+      "anger"
+    ],
+    [
       "damage",
       3,
       "anger"
@@ -116,11 +121,6 @@
       "anti",
       2,
       "anger"
-    ],
-    [
-      "missile",
-      2,
-      "fear"
     ],
     [
       "grow",
@@ -194,11 +194,6 @@
     ],
     [
       "conflict",
-      2,
-      "anger"
-    ],
-    [
-      "vote",
       2,
       "anger"
     ],
@@ -343,6 +338,11 @@
       "anger"
     ],
     [
+      "house",
+      1,
+      "joy"
+    ],
+    [
       "damaging",
       1,
       "anger"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
+    "joy": 22,
     "trust": 62,
-    "fear": 56,
+    "fear": 55,
     "surprise": 11,
     "sadness": 7,
     "disgust": 5,
-    "anger": 101,
+    "anger": 102,
     "anticipation": 30
   }
 }
