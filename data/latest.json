@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:14:07.081Z",
+  "generated_at": "2026-09-16T21:29:09.089Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,6 +68,11 @@
       "fear"
     ],
     [
+      "law",
+      3,
+      "trust"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -86,11 +91,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "law",
-      3,
-      "trust"
     ],
     [
       "vote",
@@ -211,6 +211,11 @@
       "grow",
       2,
       "joy"
+    ],
+    [
+      "threaten",
+      2,
+      "anger"
     ],
     [
       "obituary",
@@ -371,11 +376,6 @@
       "partnerships",
       1,
       "trust"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 11,
     "sadness": 12,
     "disgust": 9,
-    "anger": 88,
+    "anger": 89,
     "anticipation": 31
   }
 }
