@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:54:11.297Z",
+  "generated_at": "2026-09-16T12:09:13.268Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,19 +13,29 @@
       "anger"
     ],
     [
+      "poll",
+      5,
+      "trust"
+    ],
+    [
       "strike",
       5,
       "anger"
     ],
     [
-      "attack",
-      5,
+      "vote",
+      4,
       "anger"
     ],
     [
-      "killed",
+      "people",
       4,
-      "fear"
+      "trust"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "president",
@@ -36,11 +46,6 @@
       "white",
       4,
       "joy"
-    ],
-    [
-      "poll",
-      4,
-      "trust"
     ],
     [
       "strait",
@@ -58,14 +63,14 @@
       "anticipation"
     ],
     [
-      "gaza",
-      3,
+      "attack",
+      4,
       "anger"
     ],
     [
-      "people",
+      "killed",
       3,
-      "trust"
+      "fear"
     ],
     [
       "global",
@@ -88,11 +93,6 @@
       "anger"
     ],
     [
-      "deaths",
-      3,
-      "sadness"
-    ],
-    [
       "battle",
       3,
       "anger"
@@ -108,19 +108,9 @@
       "anticipation"
     ],
     [
-      "khan",
-      3,
-      "fear"
-    ],
-    [
       "warn",
       3,
       "fear"
-    ],
-    [
-      "vote",
-      3,
-      "anger"
     ],
     [
       "damage",
@@ -128,14 +118,19 @@
       "anger"
     ],
     [
-      "commission",
-      2,
-      "trust"
-    ],
-    [
       "court",
       2,
       "anger"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "commission",
+      2,
+      "trust"
     ],
     [
       "anti",
@@ -213,9 +208,9 @@
       "surprise"
     ],
     [
-      "shot",
+      "khan",
       2,
-      "anger"
+      "fear"
     ],
     [
       "father",
@@ -263,6 +258,61 @@
       "fear"
     ],
     [
+      "guillotine",
+      1,
+      "anger"
+    ],
+    [
+      "deputies",
+      1,
+      "trust"
+    ],
+    [
+      "punishment",
+      1,
+      "anger"
+    ],
+    [
+      "showing",
+      1,
+      "trust"
+    ],
+    [
+      "penalty",
+      1,
+      "anger"
+    ],
+    [
+      "sentenced",
+      1,
+      "anger"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
+    ],
+    [
+      "responsible",
+      1,
+      "trust"
+    ],
+    [
+      "crimes",
+      1,
+      "anger"
+    ],
+    [
+      "violent",
+      1,
+      "anger"
+    ],
+    [
+      "break",
+      1,
+      "surprise"
+    ],
+    [
       "building",
       1,
       "anticipation"
@@ -298,36 +348,6 @@
       "surprise"
     ],
     [
-      "sentenced",
-      1,
-      "anger"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
-    ],
-    [
-      "crimes",
-      1,
-      "anger"
-    ],
-    [
-      "violent",
-      1,
-      "anger"
-    ],
-    [
-      "break",
-      1,
-      "surprise"
-    ],
-    [
       "create",
       1,
       "joy"
@@ -356,34 +376,14 @@
       "discrimination",
       1,
       "anger"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "restrictions",
-      1,
-      "anger"
-    ],
-    [
-      "serving",
-      1,
-      "trust"
-    ],
-    [
-      "jail",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 63,
-    "fear": 48,
+    "joy": 24,
+    "trust": 67,
+    "fear": 46,
     "surprise": 11,
-    "sadness": 9,
+    "sadness": 10,
     "disgust": 6,
     "anger": 100,
     "anticipation": 32
