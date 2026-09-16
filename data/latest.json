@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:40:31.032Z",
+  "generated_at": "2026-09-16T14:40:49.907Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,11 +113,6 @@
       "anger"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "warn",
       3,
       "fear"
@@ -218,6 +213,11 @@
       "surprise"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "khan",
       2,
       "fear"
@@ -261,6 +261,26 @@
       "supply",
       2,
       "fear"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "draft",
+      1,
+      "anticipation"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
+      "childhood",
+      1,
+      "joy"
     ],
     [
       "sentenced",
@@ -356,35 +376,15 @@
       "doubts",
       1,
       "fear"
-    ],
-    [
-      "chancellor",
-      1,
-      "trust"
-    ],
-    [
-      "cancels",
-      1,
-      "sadness"
-    ],
-    [
-      "gains",
-      1,
-      "joy"
-    ],
-    [
-      "discrimination",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 68,
+    "joy": 26,
+    "trust": 69,
     "fear": 51,
     "surprise": 11,
     "sadness": 13,
-    "disgust": 7,
+    "disgust": 8,
     "anger": 99,
     "anticipation": 32
   }
