@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-16T16:26:46.961Z",
+  "generated_at": "2026-09-16T16:41:48.877Z",
   "article_count": 50,
   "top_words": [
+    [
+      "hit",
+      5,
+      "anger"
+    ],
     [
       "power",
       5,
@@ -13,9 +18,9 @@
       "anger"
     ],
     [
-      "hit",
-      5,
-      "anger"
+      "people",
+      4,
+      "trust"
     ],
     [
       "president",
@@ -38,11 +43,6 @@
       "joy"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "death",
       4,
       "sadness"
@@ -63,14 +63,19 @@
       "fear"
     ],
     [
-      "leaders",
+      "killed",
       3,
-      "trust"
+      "fear"
     ],
     [
       "gaza",
       3,
       "anger"
+    ],
+    [
+      "leaders",
+      3,
+      "trust"
     ],
     [
       "happened",
@@ -91,11 +96,6 @@
       "vote",
       3,
       "anger"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
     ],
     [
       "conflict",
@@ -243,6 +243,21 @@
       "fear"
     ],
     [
+      "building",
+      1,
+      "anticipation"
+    ],
+    [
+      "collapses",
+      1,
+      "fear"
+    ],
+    [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
       "corruption",
       1,
       "disgust"
@@ -361,21 +376,6 @@
       "based",
       1,
       "trust"
-    ],
-    [
-      "impossible",
-      1,
-      "sadness"
-    ],
-    [
-      "cases",
-      1,
-      "fear"
-    ],
-    [
-      "restrict",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
