@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-16T14:55:52.542Z",
+  "generated_at": "2026-09-16T15:10:55.261Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      6,
+      5,
       "anger"
     ],
     [
@@ -16,6 +16,11 @@
       "president",
       4,
       "trust"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "white",
@@ -58,8 +63,8 @@
       "anticipation"
     ],
     [
-      "strike",
-      4,
+      "murder",
+      3,
       "anger"
     ],
     [
@@ -71,11 +76,6 @@
       "plan",
       3,
       "anticipation"
-    ],
-    [
-      "trump",
-      3,
-      "anger"
     ],
     [
       "vote",
@@ -91,11 +91,6 @@
       "global",
       3,
       "anticipation"
-    ],
-    [
-      "murder",
-      3,
-      "anger"
     ],
     [
       "conflict",
@@ -118,7 +113,7 @@
       "fear"
     ],
     [
-      "attack",
+      "strike",
       3,
       "anger"
     ],
@@ -131,6 +126,31 @@
       "court",
       2,
       "anger"
+    ],
+    [
+      "anger",
+      2,
+      "anger"
+    ],
+    [
+      "found",
+      2,
+      "joy"
+    ],
+    [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
+      "leaders",
+      2,
+      "trust"
+    ],
+    [
+      "agreement",
+      2,
+      "trust"
     ],
     [
       "commission",
@@ -156,21 +176,6 @@
       "anti",
       2,
       "anger"
-    ],
-    [
-      "anger",
-      2,
-      "anger"
-    ],
-    [
-      "found",
-      2,
-      "joy"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
     ],
     [
       "violence",
@@ -243,9 +248,9 @@
       "joy"
     ],
     [
-      "david",
+      "attack",
       2,
-      "trust"
+      "anger"
     ],
     [
       "police",
@@ -291,6 +296,26 @@
       "break",
       1,
       "surprise"
+    ],
+    [
+      "prey",
+      1,
+      "fear"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
+      "officials",
+      1,
+      "trust"
+    ],
+    [
+      "armed",
+      1,
+      "anger"
     ],
     [
       "media",
@@ -351,41 +376,16 @@
       "restrict",
       1,
       "sadness"
-    ],
-    [
-      "maternal",
-      1,
-      "anticipation"
-    ],
-    [
-      "risk",
-      1,
-      "fear"
-    ],
-    [
-      "pregnancy",
-      1,
-      "disgust"
-    ],
-    [
-      "leaders",
-      1,
-      "trust"
-    ],
-    [
-      "doubts",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 69,
+    "trust": 71,
     "fear": 51,
     "surprise": 11,
     "sadness": 13,
     "disgust": 8,
-    "anger": 99,
+    "anger": 97,
     "anticipation": 32
   }
 }
