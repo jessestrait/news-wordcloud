@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:08:47.957Z",
+  "generated_at": "2026-09-16T11:23:50.496Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "hit",
+      "attack",
       5,
       "anger"
     ],
     [
-      "attack",
-      5,
-      "anger"
+      "president",
+      4,
+      "trust"
     ],
     [
       "killed",
@@ -28,14 +28,14 @@
       "fear"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "white",
       4,
       "joy"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
     ],
     [
       "poll",
@@ -63,6 +63,11 @@
       "anger"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "global",
       3,
       "anticipation"
@@ -71,11 +76,6 @@
       "trump",
       3,
       "anger"
-    ],
-    [
-      "president",
-      3,
-      "trust"
     ],
     [
       "murder",
@@ -128,17 +128,22 @@
       "anger"
     ],
     [
-      "rescue",
-      2,
-      "surprise"
-    ],
-    [
-      "anti",
+      "court",
       2,
       "anger"
     ],
     [
-      "court",
+      "commission",
+      2,
+      "trust"
+    ],
+    [
+      "create",
+      2,
+      "joy"
+    ],
+    [
+      "anti",
       2,
       "anger"
     ],
@@ -263,9 +268,34 @@
       "fear"
     ],
     [
-      "officials",
-      2,
+      "sentenced",
+      1,
+      "anger"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
+    ],
+    [
+      "responsible",
+      1,
       "trust"
+    ],
+    [
+      "crimes",
+      1,
+      "anger"
+    ],
+    [
+      "violent",
+      1,
+      "anger"
+    ],
+    [
+      "break",
+      1,
+      "surprise"
     ],
     [
       "building",
@@ -283,7 +313,32 @@
       "fear"
     ],
     [
-      "create",
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
+      "invites",
+      1,
+      "surprise"
+    ],
+    [
+      "associate",
+      1,
+      "trust"
+    ],
+    [
+      "partnership",
+      1,
+      "trust"
+    ],
+    [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "shared",
       1,
       "joy"
     ],
@@ -321,71 +376,16 @@
       "restrictions",
       1,
       "anger"
-    ],
-    [
-      "sentenced",
-      1,
-      "anger"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
-    ],
-    [
-      "crimes",
-      1,
-      "anger"
-    ],
-    [
-      "violent",
-      1,
-      "anger"
-    ],
-    [
-      "break",
-      1,
-      "surprise"
-    ],
-    [
-      "serving",
-      1,
-      "trust"
-    ],
-    [
-      "jail",
-      1,
-      "fear"
-    ],
-    [
-      "approved",
-      1,
-      "joy"
-    ],
-    [
-      "prey",
-      1,
-      "fear"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 61,
-    "fear": 49,
+    "joy": 27,
+    "trust": 64,
+    "fear": 48,
     "surprise": 10,
     "sadness": 9,
     "disgust": 6,
-    "anger": 103,
+    "anger": 101,
     "anticipation": 32
   }
 }
