@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:08:22.029Z",
+  "generated_at": "2026-09-16T10:23:24.382Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,19 @@
       "anger"
     ],
     [
+      "strike",
+      6,
+      "anger"
+    ],
+    [
       "hit",
       5,
       "anger"
     ],
     [
-      "strike",
-      5,
-      "anger"
+      "killed",
+      4,
+      "fear"
     ],
     [
       "people",
@@ -58,6 +63,11 @@
       "trust"
     ],
     [
+      "gaza",
+      3,
+      "anger"
+    ],
+    [
       "murder",
       3,
       "anger"
@@ -73,11 +83,6 @@
       "fear"
     ],
     [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
       "deaths",
       3,
       "sadness"
@@ -86,11 +91,6 @@
       "battle",
       3,
       "anger"
-    ],
-    [
-      "fires",
-      3,
-      "fear"
     ],
     [
       "happened",
@@ -123,6 +123,11 @@
       "anger"
     ],
     [
+      "rescue",
+      2,
+      "surprise"
+    ],
+    [
       "anger",
       2,
       "anger"
@@ -144,11 +149,6 @@
     ],
     [
       "threat",
-      2,
-      "anger"
-    ],
-    [
-      "gaza",
       2,
       "anger"
     ],
@@ -186,6 +186,11 @@
       "obituary",
       2,
       "sadness"
+    ],
+    [
+      "fires",
+      2,
+      "fear"
     ],
     [
       "incidents",
@@ -233,11 +238,6 @@
       "trust"
     ],
     [
-      "starting",
-      2,
-      "anticipation"
-    ],
-    [
       "david",
       2,
       "trust"
@@ -251,11 +251,6 @@
       "police",
       2,
       "fear"
-    ],
-    [
-      "accused",
-      2,
-      "anger"
     ],
     [
       "game",
@@ -276,11 +271,6 @@
       "officials",
       2,
       "trust"
-    ],
-    [
-      "wildfires",
-      2,
-      "fear"
     ],
     [
       "sentenced",
@@ -311,6 +301,21 @@
       "break",
       1,
       "surprise"
+    ],
+    [
+      "building",
+      1,
+      "anticipation"
+    ],
+    [
+      "damaged",
+      1,
+      "anger"
+    ],
+    [
+      "collapses",
+      1,
+      "fear"
     ],
     [
       "serving",
@@ -371,21 +376,16 @@
       "protecting",
       1,
       "trust"
-    ],
-    [
-      "self",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 63,
-    "fear": 53,
-    "surprise": 9,
+    "trust": 62,
+    "fear": 52,
+    "surprise": 10,
     "sadness": 9,
     "disgust": 4,
-    "anger": 104,
+    "anger": 105,
     "anticipation": 30
   }
 }
