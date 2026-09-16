@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:57:56.887Z",
+  "generated_at": "2026-09-16T19:13:00.592Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "joy"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "threat",
       4,
       "anger"
@@ -73,6 +68,11 @@
       "fear"
     ],
     [
+      "world",
+      3,
+      "trust"
+    ],
+    [
       "gaza",
       3,
       "anger"
@@ -88,14 +88,14 @@
       "anticipation"
     ],
     [
-      "murder",
+      "vote",
       3,
       "anger"
     ],
     [
-      "vote",
+      "death",
       3,
-      "anger"
+      "sadness"
     ],
     [
       "conflict",
@@ -116,6 +116,11 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "associate",
+      2,
+      "trust"
     ],
     [
       "dangerous",
@@ -148,6 +153,11 @@
       "anger"
     ],
     [
+      "murder",
+      2,
+      "anger"
+    ],
+    [
       "found",
       2,
       "joy"
@@ -173,11 +183,6 @@
       "anger"
     ],
     [
-      "violence",
-      2,
-      "anger"
-    ],
-    [
       "government",
       2,
       "fear"
@@ -186,11 +191,6 @@
       "plan",
       2,
       "anticipation"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "grow",
@@ -228,19 +228,9 @@
       "fear"
     ],
     [
-      "believed",
-      2,
-      "trust"
-    ],
-    [
-      "life",
-      2,
-      "joy"
-    ],
-    [
-      "police",
-      2,
-      "fear"
+      "hostile",
+      1,
+      "anger"
     ],
     [
       "provide",
@@ -363,11 +353,6 @@
       "surprise"
     ],
     [
-      "associate",
-      1,
-      "trust"
-    ],
-    [
       "partnerships",
       1,
       "trust"
@@ -376,16 +361,31 @@
       "unprecedented",
       1,
       "surprise"
+    ],
+    [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "impossible",
+      1,
+      "sadness"
+    ],
+    [
+      "cases",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 71,
-    "fear": 49,
-    "surprise": 12,
-    "sadness": 13,
+    "joy": 26,
+    "trust": 72,
+    "fear": 46,
+    "surprise": 11,
+    "sadness": 12,
     "disgust": 9,
-    "anger": 92,
-    "anticipation": 30
+    "anger": 90,
+    "anticipation": 29
   }
 }
