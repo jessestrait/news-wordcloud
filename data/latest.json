@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:39:09.363Z",
+  "generated_at": "2026-09-16T11:54:11.297Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,8 +8,13 @@
       "anger"
     ],
     [
+      "hit",
+      5,
+      "anger"
+    ],
+    [
       "strike",
-      6,
+      5,
       "anger"
     ],
     [
@@ -31,11 +36,6 @@
       "white",
       4,
       "joy"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "poll",
@@ -268,11 +268,6 @@
       "anticipation"
     ],
     [
-      "damaged",
-      1,
-      "anger"
-    ],
-    [
       "collapses",
       1,
       "fear"
@@ -376,6 +371,11 @@
       "serving",
       1,
       "trust"
+    ],
+    [
+      "jail",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 11,
     "sadness": 9,
     "disgust": 6,
-    "anger": 101,
+    "anger": 100,
     "anticipation": 32
   }
 }
