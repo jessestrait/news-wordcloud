@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:24:34.165Z",
+  "generated_at": "2026-09-16T12:39:36.744Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,16 @@
       "anger"
     ],
     [
+      "white",
+      4,
+      "joy"
+    ],
+    [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "vote",
       4,
       "anger"
@@ -36,16 +46,6 @@
       "death",
       4,
       "sadness"
-    ],
-    [
-      "president",
-      4,
-      "trust"
-    ],
-    [
-      "white",
-      4,
-      "joy"
     ],
     [
       "strait",
@@ -68,6 +68,11 @@
       "anger"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "killed",
       3,
       "fear"
@@ -76,11 +81,6 @@
       "global",
       3,
       "anticipation"
-    ],
-    [
-      "trump",
-      3,
-      "anger"
     ],
     [
       "murder",
@@ -118,6 +118,11 @@
       "anger"
     ],
     [
+      "anti",
+      2,
+      "anger"
+    ],
+    [
       "court",
       2,
       "anger"
@@ -131,11 +136,6 @@
       "commission",
       2,
       "trust"
-    ],
-    [
-      "anti",
-      2,
-      "anger"
     ],
     [
       "anger",
@@ -258,27 +258,17 @@
       "fear"
     ],
     [
-      "guillotine",
+      "discrimination",
       1,
       "anger"
     ],
     [
-      "deputies",
+      "announcement",
       1,
-      "trust"
+      "anticipation"
     ],
     [
-      "punishment",
-      1,
-      "anger"
-    ],
-    [
-      "showing",
-      1,
-      "trust"
-    ],
-    [
-      "penalty",
+      "restrictions",
       1,
       "anger"
     ],
@@ -311,6 +301,31 @@
       "break",
       1,
       "surprise"
+    ],
+    [
+      "guillotine",
+      1,
+      "anger"
+    ],
+    [
+      "deputies",
+      1,
+      "trust"
+    ],
+    [
+      "punishment",
+      1,
+      "anger"
+    ],
+    [
+      "showing",
+      1,
+      "trust"
+    ],
+    [
+      "penalty",
+      1,
+      "anger"
     ],
     [
       "building",
@@ -361,21 +376,6 @@
       "waste",
       1,
       "disgust"
-    ],
-    [
-      "filling",
-      1,
-      "trust"
-    ],
-    [
-      "times",
-      1,
-      "anticipation"
-    ],
-    [
-      "discrimination",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
