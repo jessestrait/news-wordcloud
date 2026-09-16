@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-16T06:51:10.999Z",
+  "generated_at": "2026-09-16T07:06:13.330Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      8,
-      "anger"
-    ],
-    [
-      "war",
-      6,
-      "anger"
-    ],
-    [
-      "strike",
-      6,
+      7,
       "anger"
     ],
     [
       "hit",
+      5,
+      "anger"
+    ],
+    [
+      "war",
+      5,
+      "anger"
+    ],
+    [
+      "strike",
       5,
       "anger"
     ],
@@ -31,11 +31,6 @@
       "people",
       4,
       "trust"
-    ],
-    [
-      "killed",
-      4,
-      "fear"
     ],
     [
       "poll",
@@ -63,9 +58,24 @@
       "anticipation"
     ],
     [
+      "murder",
+      3,
+      "anger"
+    ],
+    [
+      "president",
+      3,
+      "trust"
+    ],
+    [
       "conflict",
       3,
       "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "deaths",
@@ -108,9 +118,34 @@
       "anger"
     ],
     [
-      "missing",
-      3,
-      "fear"
+      "anger",
+      2,
+      "anger"
+    ],
+    [
+      "found",
+      2,
+      "joy"
+    ],
+    [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
+      "challenges",
+      2,
+      "anger"
+    ],
+    [
+      "opportunities",
+      2,
+      "anticipation"
+    ],
+    [
+      "commission",
+      2,
+      "trust"
     ],
     [
       "violence",
@@ -118,17 +153,7 @@
       "anger"
     ],
     [
-      "kill",
-      2,
-      "fear"
-    ],
-    [
       "threat",
-      2,
-      "anger"
-    ],
-    [
-      "murder",
       2,
       "anger"
     ],
@@ -181,11 +206,6 @@
       "shot",
       2,
       "anger"
-    ],
-    [
-      "president",
-      2,
-      "trust"
     ],
     [
       "father",
@@ -268,19 +288,19 @@
       "trust"
     ],
     [
-      "family",
-      2,
-      "joy"
-    ],
-    [
-      "rescue",
-      2,
-      "surprise"
-    ],
-    [
       "wildfires",
       2,
       "fear"
+    ],
+    [
+      "prey",
+      1,
+      "fear"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
     ],
     [
       "belt",
@@ -301,6 +321,11 @@
       "happy",
       1,
       "joy"
+    ],
+    [
+      "kill",
+      1,
+      "fear"
     ],
     [
       "fact",
@@ -351,41 +376,16 @@
       "pays",
       1,
       "joy"
-    ],
-    [
-      "book",
-      1,
-      "trust"
-    ],
-    [
-      "hopes",
-      1,
-      "surprise"
-    ],
-    [
-      "improve",
-      1,
-      "joy"
-    ],
-    [
-      "critical",
-      1,
-      "trust"
-    ],
-    [
-      "thinking",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 64,
-    "fear": 57,
-    "surprise": 9,
+    "trust": 63,
+    "fear": 54,
+    "surprise": 8,
     "sadness": 9,
     "disgust": 5,
-    "anger": 101,
-    "anticipation": 29
+    "anger": 102,
+    "anticipation": 32
   }
 }
