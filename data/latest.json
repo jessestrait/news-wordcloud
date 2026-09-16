@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T19:28:18.657Z",
+  "generated_at": "2026-09-16T19:43:21.179Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,6 +68,11 @@
       "fear"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "world",
       3,
       "trust"
@@ -93,14 +98,14 @@
       "anger"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "conflict",
       3,
       "anger"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "battle",
@@ -116,6 +121,11 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
     ],
     [
       "associate",
@@ -168,6 +178,11 @@
       "anticipation"
     ],
     [
+      "law",
+      2,
+      "trust"
+    ],
+    [
       "commission",
       2,
       "trust"
@@ -183,14 +198,9 @@
       "anger"
     ],
     [
-      "government",
+      "death",
       2,
-      "fear"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
+      "sadness"
     ],
     [
       "grow",
@@ -338,11 +348,6 @@
       "anticipation"
     ],
     [
-      "law",
-      1,
-      "trust"
-    ],
-    [
       "childhood",
       1,
       "joy"
@@ -371,21 +376,16 @@
       "impossible",
       1,
       "sadness"
-    ],
-    [
-      "cases",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 72,
-    "fear": 46,
+    "joy": 25,
+    "trust": 71,
+    "fear": 45,
     "surprise": 11,
-    "sadness": 12,
+    "sadness": 11,
     "disgust": 9,
-    "anger": 90,
-    "anticipation": 29
+    "anger": 89,
+    "anticipation": 30
   }
 }
