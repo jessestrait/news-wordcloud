@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:44:02.859Z",
+  "generated_at": "2026-09-16T20:59:04.931Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,11 +78,6 @@
       "trust"
     ],
     [
-      "gaza",
-      3,
-      "anger"
-    ],
-    [
       "killed",
       3,
       "fear"
@@ -91,6 +86,11 @@
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "law",
+      3,
+      "trust"
     ],
     [
       "vote",
@@ -123,6 +123,21 @@
       "anger"
     ],
     [
+      "seeks",
+      2,
+      "anticipation"
+    ],
+    [
+      "directors",
+      2,
+      "trust"
+    ],
+    [
+      "guardian",
+      2,
+      "trust"
+    ],
+    [
       "risk",
       2,
       "fear"
@@ -138,14 +153,9 @@
       "fear"
     ],
     [
-      "directors",
+      "gaza",
       2,
-      "trust"
-    ],
-    [
-      "guardian",
-      2,
-      "trust"
+      "anger"
     ],
     [
       "gains",
@@ -176,11 +186,6 @@
       "airport",
       2,
       "anticipation"
-    ],
-    [
-      "law",
-      2,
-      "trust"
     ],
     [
       "commission",
@@ -238,6 +243,16 @@
       "fear"
     ],
     [
+      "strip",
+      1,
+      "sadness"
+    ],
+    [
+      "officials",
+      1,
+      "trust"
+    ],
+    [
       "hostile",
       1,
       "anger"
@@ -281,11 +296,6 @@
       "voted",
       1,
       "anger"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
     ],
     [
       "embrace",
@@ -366,26 +376,16 @@
       "unprecedented",
       1,
       "surprise"
-    ],
-    [
-      "based",
-      1,
-      "trust"
-    ],
-    [
-      "impossible",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 71,
+    "trust": 73,
     "fear": 45,
     "surprise": 11,
-    "sadness": 11,
+    "sadness": 12,
     "disgust": 9,
-    "anger": 89,
-    "anticipation": 30
+    "anger": 88,
+    "anticipation": 31
   }
 }
