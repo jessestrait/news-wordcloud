@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-09-16T10:53:45.462Z",
+  "generated_at": "2026-09-16T11:08:47.957Z",
   "article_count": 50,
   "top_words": [
-    [
-      "attack",
-      7,
-      "anger"
-    ],
     [
       "war",
       6,
@@ -23,6 +18,11 @@
       "anger"
     ],
     [
+      "attack",
+      5,
+      "anger"
+    ],
+    [
       "killed",
       4,
       "fear"
@@ -33,14 +33,14 @@
       "trust"
     ],
     [
+      "white",
+      4,
+      "joy"
+    ],
+    [
       "poll",
       4,
       "trust"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
     ],
     [
       "strait",
@@ -63,6 +63,16 @@
       "anger"
     ],
     [
+      "global",
+      3,
+      "anticipation"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "president",
       3,
       "trust"
@@ -78,17 +88,17 @@
       "anger"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "deaths",
       3,
       "sadness"
     ],
     [
       "battle",
+      3,
+      "anger"
+    ],
+    [
+      "iran",
       3,
       "anger"
     ],
@@ -123,6 +133,11 @@
       "surprise"
     ],
     [
+      "anti",
+      2,
+      "anger"
+    ],
+    [
       "court",
       2,
       "anger"
@@ -146,6 +161,11 @@
       "violence",
       2,
       "anger"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "threat",
@@ -176,11 +196,6 @@
       "suggesting",
       2,
       "trust"
-    ],
-    [
-      "fighting",
-      2,
-      "anger"
     ],
     [
       "obituary",
@@ -218,24 +233,9 @@
       "trust"
     ],
     [
-      "white",
-      2,
-      "joy"
-    ],
-    [
       "life",
       2,
       "joy"
-    ],
-    [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
-      "base",
-      2,
-      "trust"
     ],
     [
       "david",
@@ -254,11 +254,6 @@
     ],
     [
       "game",
-      2,
-      "anticipation"
-    ],
-    [
-      "global",
       2,
       "anticipation"
     ],
@@ -286,6 +281,46 @@
       "collapses",
       1,
       "fear"
+    ],
+    [
+      "create",
+      1,
+      "joy"
+    ],
+    [
+      "toxic",
+      1,
+      "disgust"
+    ],
+    [
+      "waste",
+      1,
+      "disgust"
+    ],
+    [
+      "filling",
+      1,
+      "trust"
+    ],
+    [
+      "times",
+      1,
+      "anticipation"
+    ],
+    [
+      "discrimination",
+      1,
+      "anger"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
+    ],
+    [
+      "restrictions",
+      1,
+      "anger"
     ],
     [
       "sentenced",
@@ -341,51 +376,16 @@
       "victims",
       1,
       "anger"
-    ],
-    [
-      "belt",
-      1,
-      "anger"
-    ],
-    [
-      "levels",
-      1,
-      "trust"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "happy",
-      1,
-      "joy"
-    ],
-    [
-      "kill",
-      1,
-      "fear"
-    ],
-    [
-      "fact",
-      1,
-      "trust"
-    ],
-    [
-      "protecting",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 62,
-    "fear": 52,
+    "joy": 25,
+    "trust": 61,
+    "fear": 49,
     "surprise": 10,
     "sadness": 9,
-    "disgust": 4,
-    "anger": 105,
-    "anticipation": 30
+    "disgust": 6,
+    "anger": 103,
+    "anticipation": 32
   }
 }
