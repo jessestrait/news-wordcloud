@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:10:55.261Z",
+  "generated_at": "2026-09-16T15:25:58.295Z",
   "article_count": 50,
   "top_words": [
     [
@@ -60,6 +60,11 @@
     [
       "power",
       4,
+      "anticipation"
+    ],
+    [
+      "happened",
+      3,
       "anticipation"
     ],
     [
@@ -216,11 +221,6 @@
       "incidents",
       2,
       "surprise"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "khan",
@@ -386,6 +386,6 @@
     "sadness": 13,
     "disgust": 8,
     "anger": 97,
-    "anticipation": 32
+    "anticipation": 33
   }
 }
