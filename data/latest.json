@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:09:58.900Z",
+  "generated_at": "2026-09-16T13:25:01.137Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,11 +16,6 @@
       "poll",
       5,
       "trust"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
     ],
     [
       "president",
@@ -63,7 +58,7 @@
       "anticipation"
     ],
     [
-      "attack",
+      "strike",
       4,
       "anger"
     ],
@@ -118,6 +113,11 @@
       "fear"
     ],
     [
+      "attack",
+      3,
+      "anger"
+    ],
+    [
       "damage",
       3,
       "anger"
@@ -126,6 +126,11 @@
       "court",
       2,
       "anger"
+    ],
+    [
+      "abortion",
+      2,
+      "fear"
     ],
     [
       "anti",
@@ -288,6 +293,41 @@
       "surprise"
     ],
     [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "impossible",
+      1,
+      "sadness"
+    ],
+    [
+      "cases",
+      1,
+      "fear"
+    ],
+    [
+      "restrict",
+      1,
+      "sadness"
+    ],
+    [
+      "maternal",
+      1,
+      "anticipation"
+    ],
+    [
+      "risk",
+      1,
+      "fear"
+    ],
+    [
+      "pregnancy",
+      1,
+      "disgust"
+    ],
+    [
       "leaders",
       1,
       "trust"
@@ -336,56 +376,16 @@
       "deputies",
       1,
       "trust"
-    ],
-    [
-      "punishment",
-      1,
-      "anger"
-    ],
-    [
-      "showing",
-      1,
-      "trust"
-    ],
-    [
-      "penalty",
-      1,
-      "anger"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
-    ],
-    [
-      "collapses",
-      1,
-      "fear"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
-    ],
-    [
-      "invites",
-      1,
-      "surprise"
-    ],
-    [
-      "associate",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 68,
-    "fear": 47,
+    "fear": 51,
     "surprise": 11,
-    "sadness": 11,
-    "disgust": 6,
-    "anger": 100,
+    "sadness": 13,
+    "disgust": 7,
+    "anger": 97,
     "anticipation": 32
   }
 }
