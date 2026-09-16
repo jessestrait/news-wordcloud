@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:23:50.496Z",
+  "generated_at": "2026-09-16T11:38:53.251Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "killed",
       4,
       "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "white",
@@ -128,19 +128,14 @@
       "anger"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
       "commission",
       2,
       "trust"
     ],
     [
-      "create",
+      "court",
       2,
-      "joy"
+      "anger"
     ],
     [
       "anti",
@@ -268,36 +263,6 @@
       "fear"
     ],
     [
-      "sentenced",
-      1,
-      "anger"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
-    ],
-    [
-      "crimes",
-      1,
-      "anger"
-    ],
-    [
-      "violent",
-      1,
-      "anger"
-    ],
-    [
-      "break",
-      1,
-      "surprise"
-    ],
-    [
       "building",
       1,
       "anticipation"
@@ -328,17 +293,47 @@
       "trust"
     ],
     [
-      "partnership",
+      "partnerships",
       1,
       "trust"
     ],
     [
-      "based",
+      "unprecedented",
+      1,
+      "surprise"
+    ],
+    [
+      "sentenced",
+      1,
+      "anger"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
+    ],
+    [
+      "responsible",
       1,
       "trust"
     ],
     [
-      "shared",
+      "crimes",
+      1,
+      "anger"
+    ],
+    [
+      "violent",
+      1,
+      "anger"
+    ],
+    [
+      "break",
+      1,
+      "surprise"
+    ],
+    [
+      "create",
       1,
       "joy"
     ],
@@ -376,13 +371,18 @@
       "restrictions",
       1,
       "anger"
+    ],
+    [
+      "serving",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 64,
+    "joy": 25,
+    "trust": 63,
     "fear": 48,
-    "surprise": 10,
+    "surprise": 11,
     "sadness": 9,
     "disgust": 6,
     "anger": 101,
