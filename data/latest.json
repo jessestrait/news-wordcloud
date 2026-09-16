@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T05:35:43.309Z",
+  "generated_at": "2026-09-16T05:50:45.162Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "strike",
       6,
       "anger"
+    ],
+    [
+      "government",
+      4,
+      "fear"
     ],
     [
       "people",
@@ -61,11 +66,6 @@
       "deaths",
       3,
       "sadness"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "battle",
@@ -118,6 +118,11 @@
       "fear"
     ],
     [
+      "kill",
+      2,
+      "fear"
+    ],
+    [
       "threat",
       2,
       "anger"
@@ -141,11 +146,6 @@
       "world",
       2,
       "trust"
-    ],
-    [
-      "anti",
-      2,
-      "anger"
     ],
     [
       "grow",
@@ -283,6 +283,16 @@
       "anticipation"
     ],
     [
+      "happy",
+      1,
+      "joy"
+    ],
+    [
+      "fact",
+      1,
+      "trust"
+    ],
+    [
       "protecting",
       1,
       "trust"
@@ -358,34 +368,24 @@
       "disgust"
     ],
     [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
       "scores",
       1,
       "surprise"
-    ],
-    [
-      "offensive",
-      1,
-      "anger"
-    ],
-    [
-      "inequality",
-      1,
-      "anger"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 24,
     "trust": 65,
-    "fear": 55,
-    "surprise": 10,
+    "fear": 56,
+    "surprise": 9,
     "sadness": 9,
     "disgust": 5,
-    "anger": 99,
+    "anger": 98,
     "anticipation": 31
   }
 }
