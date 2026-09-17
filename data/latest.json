@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:40:37.392Z",
+  "generated_at": "2026-09-17T18:55:39.933Z",
   "article_count": 50,
   "top_words": [
     [
@@ -353,11 +353,6 @@
       "trust"
     ],
     [
-      "abuse",
-      1,
-      "anger"
-    ],
-    [
       "priest",
       1,
       "trust"
@@ -376,6 +371,11 @@
       "trading",
       1,
       "trust"
+    ],
+    [
+      "continues",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 18,
     "sadness": 14,
     "disgust": 11,
-    "anger": 92,
+    "anger": 91,
     "anticipation": 28
   }
 }
