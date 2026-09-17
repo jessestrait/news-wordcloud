@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-09-17T13:52:49.324Z",
+  "generated_at": "2026-09-17T14:07:52.057Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       7,
+      "anger"
+    ],
+    [
+      "trump",
+      5,
       "anger"
     ],
     [
@@ -26,11 +31,6 @@
       "death",
       4,
       "sadness"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
     ],
     [
       "president",
@@ -70,6 +70,11 @@
     [
       "poll",
       4,
+      "trust"
+    ],
+    [
+      "associate",
+      3,
       "trust"
     ],
     [
@@ -118,11 +123,6 @@
       "fear"
     ],
     [
-      "show",
-      3,
-      "trust"
-    ],
-    [
       "official",
       2,
       "trust"
@@ -131,6 +131,11 @@
       "cooperation",
       2,
       "trust"
+    ],
+    [
+      "laughable",
+      2,
+      "disgust"
     ],
     [
       "prison",
@@ -191,11 +196,6 @@
       "risk",
       2,
       "fear"
-    ],
-    [
-      "associate",
-      2,
-      "trust"
     ],
     [
       "dangerous",
@@ -283,6 +283,11 @@
       "fear"
     ],
     [
+      "show",
+      2,
+      "trust"
+    ],
+    [
       "resigns",
       1,
       "anger"
@@ -311,11 +316,6 @@
       "deep",
       1,
       "joy"
-    ],
-    [
-      "polling",
-      1,
-      "trust"
     ],
     [
       "majority",
@@ -348,11 +348,6 @@
       "trust"
     ],
     [
-      "laughable",
-      1,
-      "disgust"
-    ],
-    [
       "continues",
       1,
       "trust"
@@ -376,16 +371,21 @@
       "nation",
       1,
       "trust"
+    ],
+    [
+      "surge",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 80,
+    "trust": 79,
     "fear": 52,
     "surprise": 15,
     "sadness": 15,
-    "disgust": 10,
-    "anger": 93,
+    "disgust": 11,
+    "anger": 94,
     "anticipation": 28
   }
 }
