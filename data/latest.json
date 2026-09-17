@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:06:06.414Z",
+  "generated_at": "2026-09-17T11:06:22.120Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,9 @@
       "anger"
     ],
     [
-      "trump",
+      "power",
       5,
-      "anger"
-    ],
-    [
-      "threaten",
-      5,
-      "anger"
+      "anticipation"
     ],
     [
       "people",
@@ -33,14 +28,14 @@
       "fear"
     ],
     [
-      "hopes",
-      4,
-      "surprise"
-    ],
-    [
       "death",
       4,
       "sadness"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "president",
@@ -48,14 +43,14 @@
       "trust"
     ],
     [
+      "threaten",
+      4,
+      "anger"
+    ],
+    [
       "leader",
       4,
       "trust"
-    ],
-    [
-      "power",
-      4,
-      "anticipation"
     ],
     [
       "hit",
@@ -78,14 +73,9 @@
       "trust"
     ],
     [
-      "trade",
+      "hopes",
       3,
-      "trust"
-    ],
-    [
-      "associate",
-      3,
-      "trust"
+      "surprise"
     ],
     [
       "seeks",
@@ -133,6 +123,11 @@
       "trust"
     ],
     [
+      "chancellor",
+      2,
+      "trust"
+    ],
+    [
       "prison",
       2,
       "anger"
@@ -151,6 +146,11 @@
       "global",
       2,
       "anticipation"
+    ],
+    [
+      "trade",
+      2,
+      "trust"
     ],
     [
       "displaced",
@@ -186,6 +186,11 @@
       "risk",
       2,
       "fear"
+    ],
+    [
+      "associate",
+      2,
+      "trust"
     ],
     [
       "dangerous",
@@ -283,6 +288,21 @@
       "anger"
     ],
     [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
+      "shaky",
+      1,
+      "anger"
+    ],
+    [
+      "shocking",
+      1,
+      "anger"
+    ],
+    [
       "abuse",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "victory",
       1,
       "joy"
-    ],
-    [
-      "praised",
-      1,
-      "joy"
-    ],
-    [
-      "officer",
-      1,
-      "trust"
-    ],
-    [
-      "crash",
-      1,
-      "fear"
-    ],
-    [
-      "harrowing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 79,
+    "joy": 27,
+    "trust": 78,
     "fear": 52,
-    "surprise": 16,
+    "surprise": 15,
     "sadness": 14,
     "disgust": 10,
     "anger": 96,
-    "anticipation": 28
+    "anticipation": 29
   }
 }
