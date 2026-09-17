@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:23:40.616Z",
+  "generated_at": "2026-09-17T15:38:42.664Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,19 +8,24 @@
       "anger"
     ],
     [
+      "government",
+      6,
+      "fear"
+    ],
+    [
       "trump",
       6,
       "anger"
     ],
     [
-      "people",
+      "leader",
       5,
       "trust"
     ],
     [
-      "government",
+      "people",
       5,
-      "fear"
+      "trust"
     ],
     [
       "warn",
@@ -43,29 +48,19 @@
       "anger"
     ],
     [
-      "leader",
-      4,
-      "trust"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "white",
       4,
       "joy"
     ],
     [
-      "threat",
+      "plan",
       4,
-      "anger"
+      "anticipation"
     ],
     [
-      "official",
+      "strikes",
       3,
-      "trust"
+      "anger"
     ],
     [
       "associate",
@@ -103,14 +98,19 @@
       "fear"
     ],
     [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
       "iran",
       3,
       "anger"
     ],
     [
-      "plan",
+      "threat",
       3,
-      "anticipation"
+      "anger"
     ],
     [
       "poll",
@@ -121,6 +121,16 @@
       "strait",
       3,
       "fear"
+    ],
+    [
+      "majority",
+      2,
+      "joy"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "cooperation",
@@ -283,29 +293,34 @@
       "trust"
     ],
     [
+      "planning",
+      1,
+      "trust"
+    ],
+    [
+      "supporting",
+      1,
+      "trust"
+    ],
+    [
+      "convincing",
+      1,
+      "trust"
+    ],
+    [
+      "intelligence",
+      1,
+      "fear"
+    ],
+    [
+      "assessment",
+      1,
+      "surprise"
+    ],
+    [
       "resigns",
       1,
       "anger"
-    ],
-    [
-      "results",
-      1,
-      "anticipation"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
-      "leaning",
-      1,
-      "trust"
-    ],
-    [
-      "lost",
-      1,
-      "sadness"
     ],
     [
       "denies",
@@ -329,11 +344,6 @@
     ],
     [
       "deep",
-      1,
-      "joy"
-    ],
-    [
-      "majority",
       1,
       "joy"
     ],
@@ -366,24 +376,14 @@
       "continues",
       1,
       "trust"
-    ],
-    [
-      "advance",
-      1,
-      "fear"
-    ],
-    [
-      "fears",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 80,
-    "fear": 51,
-    "surprise": 15,
-    "sadness": 15,
+    "trust": 81,
+    "fear": 52,
+    "surprise": 16,
+    "sadness": 14,
     "disgust": 11,
     "anger": 96,
     "anticipation": 26
