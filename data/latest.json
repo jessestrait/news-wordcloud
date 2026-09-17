@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:34:54.036Z",
+  "generated_at": "2026-09-17T08:49:56.118Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,11 +68,6 @@
       "fear"
     ],
     [
-      "seeks",
-      3,
-      "anticipation"
-    ],
-    [
       "associate",
       3,
       "trust"
@@ -81,6 +76,11 @@
       "commission",
       3,
       "trust"
+    ],
+    [
+      "seeks",
+      3,
+      "anticipation"
     ],
     [
       "father",
@@ -273,16 +273,6 @@
       "anger"
     ],
     [
-      "trading",
-      1,
-      "trust"
-    ],
-    [
-      "laughable",
-      1,
-      "disgust"
-    ],
-    [
       "tariffs",
       1,
       "anger"
@@ -291,6 +281,16 @@
       "strength",
       1,
       "trust"
+    ],
+    [
+      "trading",
+      1,
+      "trust"
+    ],
+    [
+      "laughable",
+      1,
+      "disgust"
     ],
     [
       "continues",
