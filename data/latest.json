@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:49:30.495Z",
+  "generated_at": "2026-09-17T08:04:32.618Z",
   "article_count": 50,
   "top_words": [
     [
@@ -148,6 +148,11 @@
       "trust"
     ],
     [
+      "hostile",
+      2,
+      "anger"
+    ],
+    [
       "supplies",
       2,
       "fear"
@@ -176,11 +181,6 @@
       "cases",
       2,
       "fear"
-    ],
-    [
-      "hostile",
-      2,
-      "anger"
     ],
     [
       "inquiry",
@@ -288,6 +288,16 @@
       "trust"
     ],
     [
+      "laughable",
+      1,
+      "disgust"
+    ],
+    [
+      "threatening",
+      1,
+      "anger"
+    ],
+    [
       "continues",
       1,
       "trust"
@@ -346,16 +356,6 @@
       "crash",
       1,
       "fear"
-    ],
-    [
-      "laughable",
-      1,
-      "disgust"
-    ],
-    [
-      "threatening",
-      1,
-      "anger"
     ],
     [
       "harrowing",
