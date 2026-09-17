@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T06:49:07.215Z",
+  "generated_at": "2026-09-17T07:04:09.207Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "anger"
     ],
     [
+      "warn",
+      5,
+      "fear"
+    ],
+    [
       "leader",
       4,
       "trust"
@@ -56,11 +61,6 @@
       "poll",
       4,
       "trust"
-    ],
-    [
-      "warn",
-      4,
-      "fear"
     ],
     [
       "threaten",
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 25,
     "trust": 79,
-    "fear": 52,
+    "fear": 53,
     "surprise": 13,
     "sadness": 12,
     "disgust": 10,
