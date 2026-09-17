@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-09-17T01:31:32.298Z",
+  "generated_at": "2026-09-17T01:46:34.158Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       6,
       "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "trump",
@@ -26,11 +31,6 @@
       "hit",
       5,
       "anger"
-    ],
-    [
-      "government",
-      4,
-      "fear"
     ],
     [
       "leader",
@@ -126,6 +126,11 @@
       "show",
       3,
       "trust"
+    ],
+    [
+      "cases",
+      2,
+      "fear"
     ],
     [
       "hostile",
@@ -248,6 +253,31 @@
       "anger"
     ],
     [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "nation",
+      1,
+      "trust"
+    ],
+    [
+      "surge",
+      1,
+      "surprise"
+    ],
+    [
+      "escalating",
+      1,
+      "anger"
+    ],
+    [
+      "epidemic",
+      1,
+      "anger"
+    ],
+    [
       "victory",
       1,
       "joy"
@@ -346,46 +376,16 @@
       "rescue",
       1,
       "surprise"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "voted",
-      1,
-      "anger"
-    ],
-    [
-      "embrace",
-      1,
-      "surprise"
-    ],
-    [
-      "sentenced",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 77,
-    "fear": 47,
-    "surprise": 12,
+    "fear": 50,
+    "surprise": 13,
     "sadness": 12,
     "disgust": 10,
-    "anger": 90,
-    "anticipation": 33
+    "anger": 92,
+    "anticipation": 31
   }
 }
