@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:24:26.319Z",
+  "generated_at": "2026-09-17T16:39:28.914Z",
   "article_count": 50,
   "top_words": [
     [
@@ -66,6 +66,11 @@
       "strikes",
       3,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "hopes",
@@ -228,11 +233,6 @@
       "anger"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "murder",
       2,
       "anger"
@@ -386,6 +386,6 @@
     "sadness": 14,
     "disgust": 11,
     "anger": 92,
-    "anticipation": 27
+    "anticipation": 28
   }
 }
