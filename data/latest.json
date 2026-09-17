@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:54:02.054Z",
+  "generated_at": "2026-09-17T16:09:04.251Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,11 +133,6 @@
       "trust"
     ],
     [
-      "cooperation",
-      2,
-      "trust"
-    ],
-    [
       "laughable",
       2,
       "disgust"
@@ -221,6 +216,11 @@
       "gains",
       2,
       "joy"
+    ],
+    [
+      "embrace",
+      2,
+      "surprise"
     ],
     [
       "court",
@@ -353,11 +353,6 @@
       "trust"
     ],
     [
-      "deep",
-      1,
-      "joy"
-    ],
-    [
       "abuse",
       1,
       "anger"
@@ -376,13 +371,18 @@
       "families",
       1,
       "joy"
+    ],
+    [
+      "trading",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 82,
+    "joy": 28,
+    "trust": 81,
     "fear": 52,
-    "surprise": 17,
+    "surprise": 18,
     "sadness": 14,
     "disgust": 11,
     "anger": 92,
