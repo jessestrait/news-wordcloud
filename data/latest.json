@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T09:35:33.505Z",
+  "generated_at": "2026-09-17T09:50:35.934Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,6 +278,11 @@
       "anger"
     ],
     [
+      "addresses",
+      1,
+      "anticipation"
+    ],
+    [
       "strength",
       1,
       "trust"
@@ -371,11 +376,6 @@
       "opportunities",
       1,
       "anticipation"
-    ],
-    [
-      "failures",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 11,
     "disgust": 10,
     "anger": 98,
-    "anticipation": 29
+    "anticipation": 30
   }
 }
