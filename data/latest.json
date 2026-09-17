@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T09:20:15.612Z",
+  "generated_at": "2026-09-17T09:35:17.676Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,11 +278,6 @@
       "anger"
     ],
     [
-      "tariffs",
-      1,
-      "anger"
-    ],
-    [
       "strength",
       1,
       "trust"
@@ -376,6 +371,11 @@
       "opportunities",
       1,
       "anticipation"
+    ],
+    [
+      "failures",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 13,
     "sadness": 11,
     "disgust": 10,
-    "anger": 99,
+    "anger": 98,
     "anticipation": 29
   }
 }
