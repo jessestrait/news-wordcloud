@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-17T01:16:30.353Z",
+  "generated_at": "2026-09-17T01:31:32.298Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      6,
+      "anger"
+    ],
     [
       "trump",
       5,
@@ -23,11 +28,6 @@
       "anger"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "government",
       4,
       "fear"
@@ -43,11 +43,6 @@
       "trust"
     ],
     [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
       "white",
       4,
       "joy"
@@ -61,11 +56,6 @@
       "poll",
       4,
       "trust"
-    ],
-    [
-      "strait",
-      4,
-      "fear"
     ],
     [
       "warn",
@@ -108,12 +98,12 @@
       "anticipation"
     ],
     [
-      "vote",
+      "iran",
       3,
       "anger"
     ],
     [
-      "conflict",
+      "vote",
       3,
       "anger"
     ],
@@ -128,19 +118,14 @@
       "anger"
     ],
     [
-      "threaten",
+      "strait",
       3,
-      "anger"
+      "fear"
     ],
     [
       "show",
       3,
       "trust"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "hostile",
@@ -188,11 +173,6 @@
       "anger"
     ],
     [
-      "anger",
-      2,
-      "anger"
-    ],
-    [
       "murder",
       2,
       "anger"
@@ -223,9 +203,24 @@
       "sadness"
     ],
     [
+      "conflict",
+      2,
+      "anger"
+    ],
+    [
+      "kill",
+      2,
+      "fear"
+    ],
+    [
       "grow",
       2,
       "joy"
+    ],
+    [
+      "threaten",
+      2,
+      "anger"
     ],
     [
       "obituary",
@@ -248,9 +243,39 @@
       "fear"
     ],
     [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
+      "victory",
+      1,
+      "joy"
+    ],
+    [
+      "praised",
+      1,
+      "joy"
+    ],
+    [
+      "officer",
+      1,
+      "trust"
+    ],
+    [
+      "crash",
+      1,
+      "fear"
+    ],
+    [
       "laughable",
       1,
       "disgust"
+    ],
+    [
+      "threatening",
+      1,
+      "anger"
     ],
     [
       "tariffs",
@@ -351,41 +376,16 @@
       "sentenced",
       1,
       "anger"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
-    ],
-    [
-      "crimes",
-      1,
-      "anger"
-    ],
-    [
-      "violent",
-      1,
-      "anger"
-    ],
-    [
-      "break",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 76,
-    "fear": 48,
+    "joy": 25,
+    "trust": 77,
+    "fear": 47,
     "surprise": 12,
     "sadness": 12,
     "disgust": 10,
-    "anger": 93,
+    "anger": 90,
     "anticipation": 33
   }
 }
