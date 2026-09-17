@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:05:38.614Z",
+  "generated_at": "2026-09-17T10:20:41.097Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "trump",
       5,
       "anger"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "threaten",
@@ -38,9 +33,19 @@
       "fear"
     ],
     [
+      "hopes",
+      4,
+      "surprise"
+    ],
+    [
       "death",
       4,
       "sadness"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "leader",
@@ -73,19 +78,14 @@
       "trust"
     ],
     [
+      "trade",
+      3,
+      "trust"
+    ],
+    [
       "associate",
       3,
       "trust"
-    ],
-    [
-      "commission",
-      3,
-      "trust"
-    ],
-    [
-      "hopes",
-      3,
-      "surprise"
     ],
     [
       "seeks",
@@ -133,11 +133,6 @@
       "trust"
     ],
     [
-      "partnership",
-      2,
-      "trust"
-    ],
-    [
       "prison",
       2,
       "anger"
@@ -156,11 +151,6 @@
       "global",
       2,
       "anticipation"
-    ],
-    [
-      "trade",
-      2,
-      "trust"
     ],
     [
       "displaced",
@@ -233,6 +223,11 @@
       "joy"
     ],
     [
+      "commission",
+      2,
+      "trust"
+    ],
+    [
       "abortion",
       2,
       "fear"
@@ -286,11 +281,6 @@
       "strike",
       2,
       "anger"
-    ],
-    [
-      "strength",
-      1,
-      "trust"
     ],
     [
       "abuse",
@@ -376,13 +366,23 @@
       "officer",
       1,
       "trust"
+    ],
+    [
+      "crash",
+      1,
+      "fear"
+    ],
+    [
+      "harrowing",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 82,
+    "trust": 79,
     "fear": 52,
-    "surprise": 15,
+    "surprise": 16,
     "sadness": 14,
     "disgust": 10,
     "anger": 96,
