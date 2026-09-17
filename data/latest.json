@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T19:26:01.612Z",
+  "generated_at": "2026-09-17T19:41:03.860Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "joy"
     ],
     [
+      "show",
+      3,
+      "trust"
+    ],
+    [
       "strikes",
       3,
       "anger"
@@ -123,9 +128,9 @@
       "trust"
     ],
     [
-      "strait",
-      3,
-      "fear"
+      "budget",
+      2,
+      "trust"
     ],
     [
       "majority",
@@ -278,6 +283,11 @@
       "joy"
     ],
     [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
       "incidents",
       2,
       "surprise"
@@ -288,8 +298,8 @@
       "fear"
     ],
     [
-      "show",
-      2,
+      "credible",
+      1,
       "trust"
     ],
     [
@@ -366,26 +376,16 @@
       "families",
       1,
       "joy"
-    ],
-    [
-      "trading",
-      1,
-      "trust"
-    ],
-    [
-      "continues",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 81,
-    "fear": 52,
+    "joy": 27,
+    "trust": 82,
+    "fear": 50,
     "surprise": 18,
     "sadness": 14,
-    "disgust": 11,
-    "anger": 91,
+    "disgust": 10,
+    "anger": 89,
     "anticipation": 28
   }
 }
