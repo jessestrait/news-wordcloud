@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:19:51.994Z",
+  "generated_at": "2026-09-17T08:34:54.036Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "president",
       6,
       "trust"
+    ],
+    [
+      "threaten",
+      5,
+      "anger"
     ],
     [
       "people",
@@ -35,21 +40,6 @@
     [
       "hit",
       5,
-      "anger"
-    ],
-    [
-      "warn",
-      5,
-      "fear"
-    ],
-    [
-      "associate",
-      4,
-      "trust"
-    ],
-    [
-      "threaten",
-      4,
       "anger"
     ],
     [
@@ -73,14 +63,24 @@
       "trust"
     ],
     [
-      "commission",
-      3,
-      "trust"
+      "warn",
+      4,
+      "fear"
     ],
     [
       "seeks",
       3,
       "anticipation"
+    ],
+    [
+      "associate",
+      3,
+      "trust"
+    ],
+    [
+      "commission",
+      3,
+      "trust"
     ],
     [
       "father",
@@ -138,19 +138,9 @@
       "trust"
     ],
     [
-      "tariffs",
-      2,
-      "anger"
-    ],
-    [
       "partnership",
       2,
       "trust"
-    ],
-    [
-      "hostile",
-      2,
-      "anger"
     ],
     [
       "supplies",
@@ -283,7 +273,7 @@
       "anger"
     ],
     [
-      "strength",
+      "trading",
       1,
       "trust"
     ],
@@ -293,9 +283,14 @@
       "disgust"
     ],
     [
-      "threatening",
+      "tariffs",
       1,
       "anger"
+    ],
+    [
+      "strength",
+      1,
+      "trust"
     ],
     [
       "continues",
@@ -376,16 +371,21 @@
       "opportunities",
       1,
       "anticipation"
+    ],
+    [
+      "failures",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 84,
-    "fear": 53,
+    "fear": 52,
     "surprise": 13,
     "sadness": 11,
     "disgust": 10,
-    "anger": 99,
+    "anger": 97,
     "anticipation": 31
   }
 }
