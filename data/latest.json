@@ -1,26 +1,31 @@
 {
-  "generated_at": "2026-09-17T15:38:59.988Z",
+  "generated_at": "2026-09-17T15:54:02.054Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      7,
-      "anger"
-    ],
     [
       "government",
       6,
       "fear"
     ],
     [
-      "trump",
-      6,
-      "anger"
+      "plan",
+      5,
+      "anticipation"
     ],
     [
       "leader",
       5,
       "trust"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "people",
@@ -31,6 +36,11 @@
       "warn",
       5,
       "fear"
+    ],
+    [
+      "associate",
+      4,
+      "trust"
     ],
     [
       "death",
@@ -53,19 +63,9 @@
       "joy"
     ],
     [
-      "plan",
-      4,
-      "anticipation"
-    ],
-    [
       "strikes",
       3,
       "anger"
-    ],
-    [
-      "associate",
-      3,
-      "trust"
     ],
     [
       "hopes",
@@ -318,6 +318,16 @@
       "surprise"
     ],
     [
+      "smiles",
+      1,
+      "surprise"
+    ],
+    [
+      "welcomed",
+      1,
+      "joy"
+    ],
+    [
       "resigns",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "families",
       1,
       "joy"
-    ],
-    [
-      "trading",
-      1,
-      "trust"
-    ],
-    [
-      "continues",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 81,
+    "joy": 29,
+    "trust": 82,
     "fear": 52,
-    "surprise": 16,
+    "surprise": 17,
     "sadness": 14,
     "disgust": 11,
-    "anger": 96,
-    "anticipation": 26
+    "anger": 92,
+    "anticipation": 27
   }
 }
