@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T14:36:22.187Z",
+  "generated_at": "2026-09-18T14:51:24.613Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      9,
       "anger"
     ],
     [
@@ -14,7 +14,7 @@
     ],
     [
       "leader",
-      6,
+      7,
       "trust"
     ],
     [
@@ -24,11 +24,6 @@
     ],
     [
       "strike",
-      5,
-      "anger"
-    ],
-    [
-      "hit",
       5,
       "anger"
     ],
@@ -43,17 +38,17 @@
       "anticipation"
     ],
     [
-      "anti",
-      4,
-      "anger"
-    ],
-    [
       "killed",
       4,
       "fear"
     ],
     [
       "iran",
+      4,
+      "anger"
+    ],
+    [
+      "hit",
       4,
       "anger"
     ],
@@ -71,6 +66,11 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "anti",
+      3,
+      "anger"
     ],
     [
       "risk",
@@ -293,6 +293,21 @@
       "fear"
     ],
     [
+      "calls",
+      1,
+      "trust"
+    ],
+    [
+      "tax",
+      1,
+      "sadness"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
       "launch",
       1,
       "anticipation"
@@ -361,31 +376,16 @@
       "councils",
       1,
       "trust"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
-    ],
-    [
-      "barriers",
-      1,
-      "anger"
-    ],
-    [
-      "money",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 87,
+    "trust": 89,
     "fear": 48,
-    "surprise": 19,
-    "sadness": 16,
+    "surprise": 18,
+    "sadness": 18,
     "disgust": 8,
-    "anger": 101,
+    "anger": 97,
     "anticipation": 27
   }
 }
