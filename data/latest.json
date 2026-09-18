@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T04:00:49.191Z",
+  "generated_at": "2026-09-18T04:15:51.192Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      10,
       "anger"
     ],
     [
@@ -96,11 +96,6 @@
       "law",
       3,
       "trust"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
     ],
     [
       "killed",
@@ -238,6 +233,11 @@
       "fear"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "gaza",
       2,
       "anger"
@@ -298,11 +298,6 @@
       "anger"
     ],
     [
-      "grow",
-      2,
-      "joy"
-    ],
-    [
       "incidents",
       2,
       "surprise"
@@ -311,6 +306,26 @@
       "khan",
       2,
       "fear"
+    ],
+    [
+      "lose",
+      1,
+      "anger"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "retribution",
+      1,
+      "anger"
     ],
     [
       "tightening",
@@ -361,31 +376,16 @@
       "general",
       1,
       "trust"
-    ],
-    [
-      "assembly",
-      1,
-      "trust"
-    ],
-    [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "row",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 88,
-    "fear": 48,
-    "surprise": 18,
-    "sadness": 12,
+    "joy": 24,
+    "trust": 87,
+    "fear": 47,
+    "surprise": 19,
+    "sadness": 13,
     "disgust": 9,
-    "anger": 102,
-    "anticipation": 26
+    "anger": 105,
+    "anticipation": 25
   }
 }
