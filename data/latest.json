@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:19:43.838Z",
+  "generated_at": "2026-09-18T11:34:46.066Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anticipation"
     ],
     [
+      "killed",
+      4,
+      "fear"
+    ],
+    [
       "president",
       4,
       "trust"
@@ -63,11 +68,6 @@
       "sadness"
     ],
     [
-      "poll",
-      4,
-      "trust"
-    ],
-    [
       "risk",
       3,
       "fear"
@@ -76,11 +76,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
     ],
     [
       "gaza",
@@ -126,6 +121,21 @@
       "threat",
       3,
       "anger"
+    ],
+    [
+      "poll",
+      3,
+      "trust"
+    ],
+    [
+      "police",
+      2,
+      "fear"
+    ],
+    [
+      "rescue",
+      2,
+      "surprise"
     ],
     [
       "restrictions",
@@ -243,11 +253,6 @@
       "surprise"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
       "murder",
       2,
       "anger"
@@ -271,6 +276,21 @@
       "kill",
       2,
       "fear"
+    ],
+    [
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "alleged",
+      1,
+      "fear"
+    ],
+    [
+      "home",
+      1,
+      "joy"
     ],
     [
       "disabled",
@@ -356,36 +376,16 @@
       "bomb",
       1,
       "anger"
-    ],
-    [
-      "react",
-      1,
-      "anger"
-    ],
-    [
-      "lose",
-      1,
-      "anger"
-    ],
-    [
-      "leaving",
-      1,
-      "sadness"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 90,
-    "fear": 42,
-    "surprise": 15,
+    "joy": 25,
+    "trust": 88,
+    "fear": 44,
+    "surprise": 17,
     "sadness": 14,
     "disgust": 9,
-    "anger": 106,
+    "anger": 101,
     "anticipation": 26
   }
 }
