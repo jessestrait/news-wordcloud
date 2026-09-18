@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:35:09.799Z",
+  "generated_at": "2026-09-18T12:50:11.823Z",
   "article_count": 50,
   "top_words": [
     [
@@ -139,6 +139,11 @@
     ],
     [
       "restrictions",
+      2,
+      "anger"
+    ],
+    [
+      "row",
       2,
       "anger"
     ],
@@ -313,6 +318,11 @@
       "joy"
     ],
     [
+      "councils",
+      1,
+      "trust"
+    ],
+    [
       "rules",
       1,
       "fear"
@@ -366,26 +376,16 @@
       "policies",
       1,
       "trust"
-    ],
-    [
-      "witnesses",
-      1,
-      "trust"
-    ],
-    [
-      "child",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 88,
+    "trust": 89,
     "fear": 45,
     "surprise": 17,
     "sadness": 14,
     "disgust": 9,
-    "anger": 102,
+    "anger": 103,
     "anticipation": 26
   }
 }
