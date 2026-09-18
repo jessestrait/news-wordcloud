@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T03:15:29.451Z",
+  "generated_at": "2026-09-18T03:30:31.594Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      8,
+      9,
       "anger"
     ],
     [
@@ -16,6 +16,11 @@
       "president",
       5,
       "trust"
+    ],
+    [
+      "strikes",
+      5,
+      "anger"
     ],
     [
       "trump",
@@ -38,19 +43,19 @@
       "trust"
     ],
     [
-      "warn",
-      5,
-      "fear"
-    ],
-    [
-      "strikes",
+      "warns",
       4,
-      "anger"
+      "fear"
     ],
     [
       "associate",
       4,
       "trust"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
     ],
     [
       "death",
@@ -108,11 +113,6 @@
       "anger"
     ],
     [
-      "iran",
-      3,
-      "anger"
-    ],
-    [
       "threat",
       3,
       "anger"
@@ -141,6 +141,21 @@
       "majority",
       2,
       "joy"
+    ],
+    [
+      "school",
+      2,
+      "trust"
+    ],
+    [
+      "fact",
+      2,
+      "trust"
+    ],
+    [
+      "crimes",
+      2,
+      "anger"
     ],
     [
       "laughable",
@@ -288,11 +303,6 @@
       "joy"
     ],
     [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
       "incidents",
       2,
       "surprise"
@@ -366,26 +376,16 @@
       "row",
       1,
       "anger"
-    ],
-    [
-      "credible",
-      1,
-      "trust"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 84,
-    "fear": 51,
+    "trust": 88,
+    "fear": 48,
     "surprise": 18,
     "sadness": 12,
-    "disgust": 10,
-    "anger": 97,
+    "disgust": 9,
+    "anger": 102,
     "anticipation": 26
   }
 }
