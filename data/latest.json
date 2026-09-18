@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T08:48:04.747Z",
+  "generated_at": "2026-09-18T09:03:07.287Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      11,
       "anger"
     ],
     [
@@ -28,6 +28,16 @@
       "fear"
     ],
     [
+      "iran",
+      5,
+      "anger"
+    ],
+    [
+      "hit",
+      5,
+      "anger"
+    ],
+    [
       "trump",
       5,
       "anger"
@@ -36,11 +46,6 @@
       "plan",
       5,
       "anticipation"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "president",
@@ -58,11 +63,6 @@
       "trust"
     ],
     [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
       "death",
       4,
       "sadness"
@@ -76,6 +76,11 @@
       "poll",
       4,
       "trust"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "killed",
@@ -233,11 +238,6 @@
       "fear"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "gains",
       2,
       "joy"
@@ -278,9 +278,29 @@
       "fear"
     ],
     [
-      "battle",
-      2,
+      "money",
+      1,
       "anger"
+    ],
+    [
+      "don",
+      1,
+      "trust"
+    ],
+    [
+      "fill",
+      1,
+      "trust"
+    ],
+    [
+      "dark",
+      1,
+      "sadness"
+    ],
+    [
+      "reliance",
+      1,
+      "trust"
     ],
     [
       "mobile",
@@ -356,36 +376,16 @@
       "united",
       1,
       "trust"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
-      "ballot",
-      1,
-      "trust"
-    ],
-    [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "allies",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 88,
+    "trust": 91,
     "fear": 43,
     "surprise": 17,
     "sadness": 13,
     "disgust": 9,
-    "anger": 105,
-    "anticipation": 25
+    "anger": 108,
+    "anticipation": 26
   }
 }
