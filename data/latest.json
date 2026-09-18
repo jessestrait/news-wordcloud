@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-18T01:44:43.125Z",
+  "generated_at": "2026-09-18T01:59:45.753Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      6,
+      "anger"
+    ],
     [
       "government",
       6,
@@ -23,11 +28,6 @@
       "trust"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "people",
       5,
       "trust"
@@ -36,6 +36,11 @@
       "warn",
       5,
       "fear"
+    ],
+    [
+      "strikes",
+      4,
+      "anger"
     ],
     [
       "associate",
@@ -68,11 +73,6 @@
       "trust"
     ],
     [
-      "strikes",
-      3,
-      "anger"
-    ],
-    [
       "happened",
       3,
       "anticipation"
@@ -89,11 +89,6 @@
     ],
     [
       "law",
-      3,
-      "trust"
-    ],
-    [
-      "world",
       3,
       "trust"
     ],
@@ -125,6 +120,11 @@
     [
       "poll",
       3,
+      "trust"
+    ],
+    [
+      "critical",
+      2,
       "trust"
     ],
     [
@@ -213,6 +213,11 @@
       "fear"
     ],
     [
+      "world",
+      2,
+      "trust"
+    ],
+    [
       "dangerous",
       2,
       "fear"
@@ -298,6 +303,26 @@
       "fear"
     ],
     [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
+    ],
+    [
+      "inflict",
+      1,
+      "anger"
+    ],
+    [
       "denies",
       1,
       "anger"
@@ -351,41 +376,16 @@
       "assessment",
       1,
       "surprise"
-    ],
-    [
-      "smiles",
-      1,
-      "surprise"
-    ],
-    [
-      "welcomed",
-      1,
-      "joy"
-    ],
-    [
-      "resigns",
-      1,
-      "anger"
-    ],
-    [
-      "priest",
-      1,
-      "trust"
-    ],
-    [
-      "closure",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 28,
     "trust": 82,
-    "fear": 50,
+    "fear": 51,
     "surprise": 18,
     "sadness": 14,
     "disgust": 10,
-    "anger": 90,
-    "anticipation": 28
+    "anger": 92,
+    "anticipation": 27
   }
 }
