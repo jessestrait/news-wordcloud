@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:49:21.473Z",
+  "generated_at": "2026-09-18T11:04:24.004Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "people",
-      6,
+      7,
       "trust"
     ],
     [
@@ -18,17 +18,17 @@
       "trust"
     ],
     [
-      "strike",
-      6,
-      "anger"
-    ],
-    [
       "government",
       6,
       "fear"
     ],
     [
       "iran",
+      5,
+      "anger"
+    ],
+    [
+      "strike",
       5,
       "anger"
     ],
@@ -53,11 +53,6 @@
       "trust"
     ],
     [
-      "warns",
-      4,
-      "fear"
-    ],
-    [
       "associate",
       4,
       "trust"
@@ -68,14 +63,14 @@
       "sadness"
     ],
     [
-      "threaten",
-      4,
-      "anger"
-    ],
-    [
       "poll",
       4,
       "trust"
+    ],
+    [
+      "risk",
+      3,
+      "fear"
     ],
     [
       "power",
@@ -103,6 +98,11 @@
       "trust"
     ],
     [
+      "warns",
+      3,
+      "fear"
+    ],
+    [
       "hopes",
       3,
       "surprise"
@@ -113,6 +113,11 @@
       "anticipation"
     ],
     [
+      "threaten",
+      3,
+      "anger"
+    ],
+    [
       "law",
       3,
       "trust"
@@ -120,6 +125,11 @@
     [
       "threat",
       3,
+      "anger"
+    ],
+    [
+      "restrictions",
+      2,
       "anger"
     ],
     [
@@ -173,6 +183,11 @@
       "disgust"
     ],
     [
+      "closure",
+      2,
+      "sadness"
+    ],
+    [
       "prison",
       2,
       "anger"
@@ -193,21 +208,6 @@
       "anticipation"
     ],
     [
-      "trade",
-      2,
-      "trust"
-    ],
-    [
-      "displaced",
-      2,
-      "anger"
-    ],
-    [
-      "fighting",
-      2,
-      "anger"
-    ],
-    [
       "cases",
       2,
       "fear"
@@ -221,11 +221,6 @@
       "directors",
       2,
       "trust"
-    ],
-    [
-      "risk",
-      2,
-      "fear"
     ],
     [
       "world",
@@ -276,6 +271,26 @@
       "kill",
       2,
       "fear"
+    ],
+    [
+      "disabled",
+      1,
+      "fear"
+    ],
+    [
+      "ridiculous",
+      1,
+      "anger"
+    ],
+    [
+      "boards",
+      1,
+      "joy"
+    ],
+    [
+      "barriers",
+      1,
+      "anger"
     ],
     [
       "money",
@@ -361,31 +376,16 @@
       "deal",
       1,
       "surprise"
-    ],
-    [
-      "retribution",
-      1,
-      "anger"
-    ],
-    [
-      "tightening",
-      1,
-      "anger"
-    ],
-    [
-      "united",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 91,
-    "fear": 43,
-    "surprise": 17,
-    "sadness": 13,
+    "joy": 24,
+    "trust": 90,
+    "fear": 42,
+    "surprise": 15,
+    "sadness": 14,
     "disgust": 9,
-    "anger": 108,
+    "anger": 106,
     "anticipation": 26
   }
 }
