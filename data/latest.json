@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T13:20:31.755Z",
+  "generated_at": "2026-09-18T13:35:34.053Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      11,
+      10,
       "anger"
     ],
     [
@@ -21,11 +21,6 @@
       "government",
       6,
       "fear"
-    ],
-    [
-      "iran",
-      5,
-      "anger"
     ],
     [
       "strike",
@@ -51,6 +46,11 @@
       "killed",
       4,
       "fear"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
     ],
     [
       "president",
@@ -163,11 +163,6 @@
       "trust"
     ],
     [
-      "budget",
-      2,
-      "trust"
-    ],
-    [
       "happened",
       2,
       "anticipation"
@@ -273,14 +268,39 @@
       "joy"
     ],
     [
-      "vote",
-      2,
-      "anger"
-    ],
-    [
       "kill",
       2,
       "fear"
+    ],
+    [
+      "chaos",
+      1,
+      "anger"
+    ],
+    [
+      "error",
+      1,
+      "sadness"
+    ],
+    [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
+      "leaves",
+      1,
+      "sadness"
+    ],
+    [
+      "problem",
+      1,
+      "fear"
+    ],
+    [
+      "fixed",
+      1,
+      "trust"
     ],
     [
       "rescued",
@@ -356,36 +376,16 @@
       "reliance",
       1,
       "trust"
-    ],
-    [
-      "mobile",
-      1,
-      "anticipation"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
-      "success",
-      1,
-      "joy"
-    ],
-    [
-      "policies",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 23,
     "trust": 89,
-    "fear": 45,
-    "surprise": 17,
-    "sadness": 14,
+    "fear": 46,
+    "surprise": 18,
+    "sadness": 16,
     "disgust": 9,
-    "anger": 103,
+    "anger": 100,
     "anticipation": 26
   }
 }
