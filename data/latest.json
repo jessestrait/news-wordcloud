@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:36:47.070Z",
+  "generated_at": "2026-09-18T15:51:49.158Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,13 +8,13 @@
       "anger"
     ],
     [
-      "people",
+      "leader",
       7,
       "trust"
     ],
     [
-      "leader",
-      7,
+      "people",
+      6,
       "trust"
     ],
     [
@@ -33,9 +33,9 @@
       "anger"
     ],
     [
-      "plan",
+      "death",
       5,
-      "anticipation"
+      "sadness"
     ],
     [
       "killed",
@@ -58,14 +58,24 @@
       "trust"
     ],
     [
+      "plan",
+      4,
+      "anticipation"
+    ],
+    [
       "associate",
       4,
       "trust"
     ],
     [
-      "death",
-      4,
-      "sadness"
+      "prison",
+      3,
+      "anger"
+    ],
+    [
+      "police",
+      3,
+      "fear"
     ],
     [
       "anti",
@@ -93,11 +103,6 @@
       "fear"
     ],
     [
-      "hopes",
-      3,
-      "surprise"
-    ],
-    [
       "seeks",
       3,
       "anticipation"
@@ -118,6 +123,16 @@
       "anger"
     ],
     [
+      "break",
+      2,
+      "surprise"
+    ],
+    [
+      "error",
+      2,
+      "sadness"
+    ],
+    [
       "forces",
       2,
       "anger"
@@ -129,16 +144,6 @@
     ],
     [
       "collapse",
-      2,
-      "fear"
-    ],
-    [
-      "error",
-      2,
-      "sadness"
-    ],
-    [
-      "police",
       2,
       "fear"
     ],
@@ -164,11 +169,6 @@
     ],
     [
       "polls",
-      2,
-      "trust"
-    ],
-    [
-      "critical",
       2,
       "trust"
     ],
@@ -213,14 +213,14 @@
       "disgust"
     ],
     [
+      "hopes",
+      2,
+      "surprise"
+    ],
+    [
       "closure",
       2,
       "sadness"
-    ],
-    [
-      "prison",
-      2,
-      "anger"
     ],
     [
       "victims",
@@ -249,11 +249,6 @@
     ],
     [
       "directors",
-      2,
-      "trust"
-    ],
-    [
-      "world",
       2,
       "trust"
     ],
@@ -293,6 +288,41 @@
       "fear"
     ],
     [
+      "panic",
+      1,
+      "fear"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
+    ],
+    [
+      "suspected",
+      1,
+      "fear"
+    ],
+    [
+      "illegal",
+      1,
+      "anger"
+    ],
+    [
+      "chaos",
+      1,
+      "anger"
+    ],
+    [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
       "calls",
       1,
       "trust"
@@ -328,16 +358,6 @@
       "fear"
     ],
     [
-      "chaos",
-      1,
-      "anger"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
-    ],
-    [
       "rescued",
       1,
       "surprise"
@@ -356,36 +376,16 @@
       "disabled",
       1,
       "fear"
-    ],
-    [
-      "ridiculous",
-      1,
-      "anger"
-    ],
-    [
-      "outcry",
-      1,
-      "anger"
-    ],
-    [
-      "boards",
-      1,
-      "joy"
-    ],
-    [
-      "councils",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 89,
-    "fear": 48,
+    "joy": 21,
+    "trust": 84,
+    "fear": 52,
     "surprise": 18,
-    "sadness": 18,
-    "disgust": 8,
-    "anger": 97,
-    "anticipation": 27
+    "sadness": 19,
+    "disgust": 7,
+    "anger": 99,
+    "anticipation": 26
   }
 }
