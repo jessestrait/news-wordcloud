@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:07:33.329Z",
+  "generated_at": "2026-09-18T17:22:36.112Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,9 +18,9 @@
       "trust"
     ],
     [
-      "government",
-      6,
-      "fear"
+      "president",
+      5,
+      "trust"
     ],
     [
       "strike",
@@ -31,6 +31,11 @@
       "trump",
       5,
       "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "death",
@@ -46,16 +51,6 @@
       "hit",
       4,
       "anger"
-    ],
-    [
-      "president",
-      4,
-      "trust"
-    ],
-    [
-      "plan",
-      4,
-      "anticipation"
     ],
     [
       "associate",
@@ -93,9 +88,9 @@
       "anger"
     ],
     [
-      "gaza",
+      "plan",
       3,
-      "anger"
+      "anticipation"
     ],
     [
       "seeks",
@@ -154,6 +149,11 @@
     ],
     [
       "row",
+      2,
+      "anger"
+    ],
+    [
+      "gaza",
       2,
       "anger"
     ],
@@ -283,6 +283,21 @@
       "fear"
     ],
     [
+      "weight",
+      1,
+      "fear"
+    ],
+    [
+      "loss",
+      1,
+      "anger"
+    ],
+    [
+      "jabs",
+      1,
+      "anger"
+    ],
+    [
       "panic",
       1,
       "fear"
@@ -361,31 +376,16 @@
       "launch",
       1,
       "anticipation"
-    ],
-    [
-      "sudden",
-      1,
-      "surprise"
-    ],
-    [
-      "persuade",
-      1,
-      "trust"
-    ],
-    [
-      "abandon",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 83,
+    "joy": 21,
+    "trust": 84,
     "fear": 52,
     "surprise": 18,
-    "sadness": 19,
+    "sadness": 18,
     "disgust": 7,
     "anger": 97,
-    "anticipation": 27
+    "anticipation": 25
   }
 }
