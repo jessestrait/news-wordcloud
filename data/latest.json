@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-09-19T03:13:10.704Z",
+  "generated_at": "2026-09-19T03:28:13.568Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      11,
+      12,
       "anger"
     ],
     [
       "leader",
       8,
+      "trust"
+    ],
+    [
+      "people",
+      7,
       "trust"
     ],
     [
@@ -20,11 +25,6 @@
     [
       "president",
       6,
-      "trust"
-    ],
-    [
-      "people",
-      5,
       "trust"
     ],
     [
@@ -46,6 +46,16 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "seek",
+      4,
+      "anticipation"
+    ],
+    [
+      "home",
+      3,
+      "joy"
     ],
     [
       "threats",
@@ -108,11 +118,6 @@
       "anticipation"
     ],
     [
-      "seeks",
-      3,
-      "anticipation"
-    ],
-    [
       "threaten",
       3,
       "anger"
@@ -120,6 +125,11 @@
     [
       "law",
       3,
+      "trust"
+    ],
+    [
+      "world",
+      2,
       "trust"
     ],
     [
@@ -163,6 +173,11 @@
       "fear"
     ],
     [
+      "abandon",
+      2,
+      "fear"
+    ],
+    [
       "rescue",
       2,
       "surprise"
@@ -178,9 +193,19 @@
       "anger"
     ],
     [
+      "forced",
+      2,
+      "fear"
+    ],
+    [
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "leaving",
+      2,
+      "sadness"
     ],
     [
       "polls",
@@ -238,14 +263,19 @@
       "anger"
     ],
     [
+      "displaced",
+      2,
+      "anger"
+    ],
+    [
+      "fighting",
+      2,
+      "anger"
+    ],
+    [
       "supplies",
       2,
       "fear"
-    ],
-    [
-      "global",
-      2,
-      "anticipation"
     ],
     [
       "cases",
@@ -288,6 +318,26 @@
       "joy"
     ],
     [
+      "think",
+      1,
+      "trust"
+    ],
+    [
+      "visitors",
+      1,
+      "joy"
+    ],
+    [
+      "changed",
+      1,
+      "fear"
+    ],
+    [
+      "create",
+      1,
+      "joy"
+    ],
+    [
       "inaugural",
       1,
       "anticipation"
@@ -326,66 +376,16 @@
       "struggle",
       1,
       "anger"
-    ],
-    [
-      "fire",
-      1,
-      "fear"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
-    ],
-    [
-      "illegal",
-      1,
-      "anger"
-    ],
-    [
-      "weight",
-      1,
-      "fear"
-    ],
-    [
-      "loss",
-      1,
-      "anger"
-    ],
-    [
-      "jabs",
-      1,
-      "anger"
-    ],
-    [
-      "soul",
-      1,
-      "joy"
-    ],
-    [
-      "worrying",
-      1,
-      "fear"
-    ],
-    [
-      "letters",
-      1,
-      "anticipation"
-    ],
-    [
-      "argues",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 85,
-    "fear": 50,
+    "joy": 22,
+    "trust": 88,
+    "fear": 52,
     "surprise": 19,
-    "sadness": 16,
-    "disgust": 7,
-    "anger": 98,
-    "anticipation": 27
+    "sadness": 18,
+    "disgust": 5,
+    "anger": 102,
+    "anticipation": 26
   }
 }
