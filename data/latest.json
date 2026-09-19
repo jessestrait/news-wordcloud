@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T06:44:52.953Z",
+  "generated_at": "2026-09-19T06:59:55.013Z",
   "article_count": 50,
   "top_words": [
     [
@@ -318,6 +318,21 @@
       "joy"
     ],
     [
+      "calls",
+      1,
+      "trust"
+    ],
+    [
+      "tax",
+      1,
+      "sadness"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
       "think",
       1,
       "trust"
@@ -359,21 +374,6 @@
     ],
     [
       "lightning",
-      1,
-      "anger"
-    ],
-    [
-      "prepare",
-      1,
-      "anticipation"
-    ],
-    [
-      "panic",
-      1,
-      "fear"
-    ],
-    [
-      "struggle",
       1,
       "anger"
     ]
