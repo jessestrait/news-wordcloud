@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:00:10.330Z",
+  "generated_at": "2026-09-19T07:15:12.668Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,17 +13,17 @@
       "trust"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "trump",
       6,
       "anger"
     ],
     [
       "president",
+      6,
+      "trust"
+    ],
+    [
+      "people",
       6,
       "trust"
     ],
@@ -43,14 +43,19 @@
       "fear"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "seek",
       4,
       "anticipation"
+    ],
+    [
+      "threaten",
+      4,
+      "anger"
+    ],
+    [
+      "fighting",
+      3,
+      "anger"
     ],
     [
       "home",
@@ -118,13 +123,23 @@
       "anticipation"
     ],
     [
-      "threaten",
+      "death",
       3,
-      "anger"
+      "sadness"
     ],
     [
       "law",
       3,
+      "trust"
+    ],
+    [
+      "middle",
+      2,
+      "sadness"
+    ],
+    [
+      "agreement",
+      2,
       "trust"
     ],
     [
@@ -208,11 +223,6 @@
       "sadness"
     ],
     [
-      "polls",
-      2,
-      "trust"
-    ],
-    [
       "officials",
       2,
       "trust"
@@ -268,11 +278,6 @@
       "anger"
     ],
     [
-      "fighting",
-      2,
-      "anger"
-    ],
-    [
       "supplies",
       2,
       "fear"
@@ -318,17 +323,27 @@
       "joy"
     ],
     [
+      "pact",
+      1,
+      "trust"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
+    ],
+    [
+      "escalates",
+      1,
+      "anger"
+    ],
+    [
       "calls",
       1,
       "trust"
     ],
     [
       "tax",
-      1,
-      "sadness"
-    ],
-    [
-      "middle",
       1,
       "sadness"
     ],
@@ -358,29 +373,14 @@
       "anticipation"
     ],
     [
-      "agreement",
-      1,
-      "trust"
-    ],
-    [
       "self",
       1,
       "trust"
-    ],
-    [
-      "determination",
-      1,
-      "trust"
-    ],
-    [
-      "lightning",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 88,
+    "trust": 86,
     "fear": 52,
     "surprise": 19,
     "sadness": 18,
