@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:34:00.341Z",
+  "generated_at": "2026-09-19T14:49:03.106Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,8 +9,13 @@
     ],
     [
       "leader",
-      8,
+      7,
       "trust"
+    ],
+    [
+      "trump",
+      6,
+      "anger"
     ],
     [
       "president",
@@ -23,14 +28,14 @@
       "trust"
     ],
     [
-      "trump",
+      "strike",
       5,
       "anger"
     ],
     [
-      "strike",
-      5,
-      "anger"
+      "military",
+      4,
+      "fear"
     ],
     [
       "associate",
@@ -53,6 +58,11 @@
       "anger"
     ],
     [
+      "agreement",
+      3,
+      "trust"
+    ],
+    [
       "fighting",
       3,
       "anger"
@@ -66,11 +76,6 @@
       "threats",
       3,
       "anger"
-    ],
-    [
-      "military",
-      3,
-      "fear"
     ],
     [
       "warns",
@@ -136,11 +141,6 @@
       "middle",
       2,
       "sadness"
-    ],
-    [
-      "agreement",
-      2,
-      "trust"
     ],
     [
       "world",
@@ -303,11 +303,6 @@
       "fear"
     ],
     [
-      "gains",
-      2,
-      "joy"
-    ],
-    [
       "embrace",
       2,
       "surprise"
@@ -316,6 +311,16 @@
       "abortion",
       2,
       "fear"
+    ],
+    [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
     ],
     [
       "inspired",
@@ -371,21 +376,16 @@
       "tax",
       1,
       "sadness"
-    ],
-    [
-      "think",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 19,
     "trust": 88,
-    "fear": 53,
+    "fear": 54,
     "surprise": 20,
-    "sadness": 19,
+    "sadness": 18,
     "disgust": 5,
-    "anger": 100,
-    "anticipation": 25
+    "anger": 101,
+    "anticipation": 26
   }
 }
