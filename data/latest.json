@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:50:20.522Z",
+  "generated_at": "2026-09-20T22:05:22.894Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,16 +31,6 @@
       "strike",
       5,
       "anger"
-    ],
-    [
-      "police",
-      4,
-      "fear"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "trade",
@@ -118,6 +108,11 @@
       "trust"
     ],
     [
+      "police",
+      3,
+      "fear"
+    ],
+    [
       "warning",
       3,
       "fear"
@@ -128,6 +123,11 @@
       "fear"
     ],
     [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
       "threaten",
       3,
       "anger"
@@ -136,6 +136,11 @@
       "bombing",
       2,
       "anger"
+    ],
+    [
+      "die",
+      2,
+      "fear"
     ],
     [
       "victory",
@@ -328,11 +333,6 @@
       "anger"
     ],
     [
-      "die",
-      1,
-      "fear"
-    ],
-    [
       "berlin",
       1,
       "joy"
@@ -383,7 +383,7 @@
     "trust": 86,
     "fear": 59,
     "surprise": 17,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 3,
     "anger": 116,
     "anticipation": 23
