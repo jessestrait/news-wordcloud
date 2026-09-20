@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-20T14:31:17.580Z",
+  "generated_at": "2026-09-20T14:46:19.605Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      13,
+      12,
       "anger"
     ],
     [
@@ -141,11 +141,6 @@
       "seek",
       3,
       "anticipation"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "rules",
@@ -303,6 +298,16 @@
       "trust"
     ],
     [
+      "doubts",
+      1,
+      "fear"
+    ],
+    [
+      "surround",
+      1,
+      "anticipation"
+    ],
+    [
       "missile",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "taboo",
       1,
       "fear"
-    ],
-    [
-      "denounces",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 90,
-    "fear": 58,
+    "trust": 89,
+    "fear": 59,
     "surprise": 18,
     "sadness": 17,
     "disgust": 3,
-    "anger": 106,
-    "anticipation": 26
+    "anger": 105,
+    "anticipation": 27
   }
 }
