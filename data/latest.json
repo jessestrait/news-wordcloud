@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T03:55:57.928Z",
+  "generated_at": "2026-09-20T04:10:59.993Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,6 +78,11 @@
       "trust"
     ],
     [
+      "attack",
+      3,
+      "anger"
+    ],
+    [
       "iran",
       3,
       "anger"
@@ -143,6 +148,16 @@
       "sadness"
     ],
     [
+      "rules",
+      2,
+      "fear"
+    ],
+    [
+      "changed",
+      2,
+      "fear"
+    ],
+    [
       "illegal",
       2,
       "anger"
@@ -151,16 +166,6 @@
       "gains",
       2,
       "joy"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
-    ],
-    [
-      "attack",
-      2,
-      "anger"
     ],
     [
       "middle",
@@ -288,11 +293,6 @@
       "sadness"
     ],
     [
-      "victims",
-      2,
-      "anger"
-    ],
-    [
       "displaced",
       2,
       "anger"
@@ -328,64 +328,64 @@
       "surprise"
     ],
     [
-      "denounces",
-      1,
-      "anger"
-    ],
-    [
-      "inclusion",
-      1,
-      "trust"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
-    ],
-    [
-      "blatant",
-      1,
-      "anger"
-    ],
-    [
-      "violation",
-      1,
-      "anger"
-    ],
-    [
-      "chancellor",
-      1,
-      "trust"
-    ],
-    [
-      "nervous",
-      1,
-      "fear"
-    ],
-    [
-      "wait",
+      "begun",
       1,
       "anticipation"
     ],
     [
-      "authorities",
+      "assassinations",
+      1,
+      "anger"
+    ],
+    [
+      "soil",
+      1,
+      "disgust"
+    ],
+    [
+      "exiled",
+      1,
+      "anger"
+    ],
+    [
+      "dissidents",
+      1,
+      "anger"
+    ],
+    [
+      "indictment",
+      1,
+      "fear"
+    ],
+    [
+      "suggest",
       1,
       "trust"
+    ],
+    [
+      "abandoned",
+      1,
+      "anger"
+    ],
+    [
+      "taboo",
+      1,
+      "fear"
+    ],
+    [
+      "denounces",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 92,
-    "fear": 53,
+    "joy": 18,
+    "trust": 93,
+    "fear": 56,
     "surprise": 19,
     "sadness": 16,
-    "disgust": 3,
-    "anger": 110,
+    "disgust": 4,
+    "anger": 112,
     "anticipation": 28
   }
 }
