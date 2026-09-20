@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-20T05:57:04.354Z",
+  "generated_at": "2026-09-20T06:12:06.646Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      13,
+      12,
       "anger"
     ],
     [
-      "leader",
+      "people",
       7,
       "trust"
     ],
     [
-      "people",
+      "leader",
       6,
       "trust"
     ],
@@ -23,14 +23,19 @@
       "anger"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "strike",
       5,
       "anger"
+    ],
+    [
+      "poll",
+      4,
+      "trust"
+    ],
+    [
+      "killed",
+      4,
+      "fear"
     ],
     [
       "fighting",
@@ -48,14 +53,14 @@
       "fear"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "government",
       4,
       "fear"
-    ],
-    [
-      "seek",
-      4,
-      "anticipation"
     ],
     [
       "threaten",
@@ -69,11 +74,6 @@
     ],
     [
       "law",
-      3,
-      "trust"
-    ],
-    [
-      "poll",
       3,
       "trust"
     ],
@@ -113,29 +113,19 @@
       "fear"
     ],
     [
-      "prison",
-      3,
-      "anger"
-    ],
-    [
       "police",
       3,
       "fear"
     ],
     [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "hit",
       3,
       "anger"
+    ],
+    [
+      "warning",
+      3,
+      "fear"
     ],
     [
       "associate",
@@ -146,6 +136,16 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "seek",
+      3,
+      "anticipation"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
     ],
     [
       "rules",
@@ -161,11 +161,6 @@
       "illegal",
       2,
       "anger"
-    ],
-    [
-      "gains",
-      2,
-      "joy"
     ],
     [
       "middle",
@@ -193,9 +188,9 @@
       "anger"
     ],
     [
-      "break",
+      "prison",
       2,
-      "surprise"
+      "anger"
     ],
     [
       "error",
@@ -238,6 +233,11 @@
       "fear"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "forced",
       2,
       "fear"
@@ -253,19 +253,9 @@
       "sadness"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "show",
       2,
       "trust"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "majority",
@@ -276,11 +266,6 @@
       "school",
       2,
       "trust"
-    ],
-    [
-      "crimes",
-      2,
-      "anger"
     ],
     [
       "laughable",
@@ -318,13 +303,18 @@
       "trust"
     ],
     [
-      "dangerous",
-      2,
-      "fear"
+      "voting",
+      1,
+      "anger"
     ],
     [
-      "embrace",
-      2,
+      "damaged",
+      1,
+      "anger"
+    ],
+    [
+      "rapid",
+      1,
       "surprise"
     ],
     [
@@ -376,16 +366,26 @@
       "denounces",
       1,
       "anger"
+    ],
+    [
+      "inclusion",
+      1,
+      "trust"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
+    "joy": 17,
     "trust": 93,
-    "fear": 56,
-    "surprise": 19,
+    "fear": 57,
+    "surprise": 18,
     "sadness": 16,
     "disgust": 4,
-    "anger": 112,
-    "anticipation": 28
+    "anger": 107,
+    "anticipation": 25
   }
 }
