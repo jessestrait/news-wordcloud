@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:55:13.308Z",
+  "generated_at": "2026-09-20T02:10:15.446Z",
   "article_count": 50,
   "top_words": [
     [
@@ -128,9 +128,14 @@
       "sadness"
     ],
     [
-      "law",
-      3,
+      "polls",
+      2,
       "trust"
+    ],
+    [
+      "gains",
+      2,
+      "joy"
     ],
     [
       "airport",
@@ -141,11 +146,6 @@
       "attack",
       2,
       "anger"
-    ],
-    [
-      "draft",
-      2,
-      "anticipation"
     ],
     [
       "middle",
@@ -308,6 +308,11 @@
       "trust"
     ],
     [
+      "law",
+      2,
+      "trust"
+    ],
+    [
       "dangerous",
       2,
       "fear"
@@ -316,6 +321,21 @@
       "embrace",
       2,
       "surprise"
+    ],
+    [
+      "chancellor",
+      1,
+      "trust"
+    ],
+    [
+      "nervous",
+      1,
+      "fear"
+    ],
+    [
+      "wait",
+      1,
+      "anticipation"
     ],
     [
       "authorities",
@@ -331,6 +351,11 @@
       "escalated",
       1,
       "anger"
+    ],
+    [
+      "draft",
+      1,
+      "anticipation"
     ],
     [
       "reparations",
@@ -351,40 +376,15 @@
       "legal",
       1,
       "trust"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "impossible",
-      1,
-      "sadness"
-    ],
-    [
-      "inspired",
-      1,
-      "surprise"
-    ],
-    [
-      "fired",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 89,
-    "fear": 52,
+    "trust": 90,
+    "fear": 53,
     "surprise": 19,
     "sadness": 16,
-    "disgust": 4,
+    "disgust": 3,
     "anger": 106,
     "anticipation": 28
   }
