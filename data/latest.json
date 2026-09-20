@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-09-20T16:47:31.646Z",
+  "generated_at": "2026-09-20T17:02:34.187Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       12,
       "anger"
-    ],
-    [
-      "leader",
-      6,
-      "trust"
     ],
     [
       "trump",
@@ -23,9 +18,19 @@
       "trust"
     ],
     [
+      "leader",
+      5,
+      "trust"
+    ],
+    [
       "strike",
       5,
       "anger"
+    ],
+    [
+      "warn",
+      4,
+      "fear"
     ],
     [
       "trade",
@@ -113,11 +118,6 @@
       "anger"
     ],
     [
-      "warns",
-      3,
-      "fear"
-    ],
-    [
       "police",
       3,
       "fear"
@@ -141,6 +141,16 @@
       "seek",
       3,
       "anticipation"
+    ],
+    [
+      "intelligence",
+      2,
+      "fear"
+    ],
+    [
+      "panic",
+      2,
+      "fear"
     ],
     [
       "slave",
@@ -223,11 +233,6 @@
       "fear"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "forced",
       2,
       "fear"
@@ -283,6 +288,11 @@
       "trust"
     ],
     [
+      "officer",
+      2,
+      "trust"
+    ],
+    [
       "inquiry",
       2,
       "anticipation"
@@ -291,6 +301,11 @@
       "directors",
       2,
       "trust"
+    ],
+    [
+      "preparing",
+      1,
+      "anticipation"
     ],
     [
       "understanding",
@@ -361,27 +376,12 @@
       "dissidents",
       1,
       "anger"
-    ],
-    [
-      "indictment",
-      1,
-      "fear"
-    ],
-    [
-      "suggest",
-      1,
-      "trust"
-    ],
-    [
-      "abandoned",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 92,
-    "fear": 57,
+    "trust": 91,
+    "fear": 59,
     "surprise": 17,
     "sadness": 17,
     "disgust": 3,
