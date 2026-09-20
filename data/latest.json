@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:48:49.277Z",
+  "generated_at": "2026-09-20T19:03:51.885Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,17 @@
       "anger"
     ],
     [
+      "trump",
+      6,
+      "anger"
+    ],
+    [
       "people",
       6,
       "trust"
     ],
     [
-      "trump",
+      "iran",
       5,
       "anger"
     ],
@@ -48,6 +53,11 @@
       "joy"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "fighting",
       4,
       "anger"
@@ -60,6 +70,16 @@
     [
       "president",
       4,
+      "trust"
+    ],
+    [
+      "middle",
+      3,
+      "sadness"
+    ],
+    [
+      "planning",
+      3,
       "trust"
     ],
     [
@@ -78,24 +98,9 @@
       "fear"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
       "poll",
       3,
       "trust"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
-      "iran",
-      3,
-      "anger"
     ],
     [
       "plan",
@@ -113,11 +118,6 @@
       "trust"
     ],
     [
-      "threats",
-      3,
-      "anger"
-    ],
-    [
       "warning",
       3,
       "fear"
@@ -128,24 +128,19 @@
       "fear"
     ],
     [
-      "seek",
-      3,
-      "anticipation"
-    ],
-    [
       "threaten",
       3,
+      "anger"
+    ],
+    [
+      "bombing",
+      2,
       "anger"
     ],
     [
       "victory",
       2,
       "joy"
-    ],
-    [
-      "planning",
-      2,
-      "trust"
     ],
     [
       "intelligence",
@@ -178,19 +173,14 @@
       "fear"
     ],
     [
-      "illegal",
-      2,
-      "anger"
-    ],
-    [
-      "law",
+      "officials",
       2,
       "trust"
     ],
     [
-      "middle",
+      "illegal",
       2,
-      "sadness"
+      "anger"
     ],
     [
       "deal",
@@ -283,6 +273,11 @@
       "anger"
     ],
     [
+      "seek",
+      2,
+      "anticipation"
+    ],
+    [
       "supplies",
       2,
       "fear"
@@ -303,9 +298,24 @@
       "anticipation"
     ],
     [
-      "directors",
-      2,
-      "trust"
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "tensions",
+      1,
+      "anger"
+    ],
+    [
+      "grow",
+      1,
+      "joy"
+    ],
+    [
+      "rebels",
+      1,
+      "anger"
     ],
     [
       "vows",
@@ -366,26 +376,16 @@
       "economy",
       1,
       "trust"
-    ],
-    [
-      "damaged",
-      1,
-      "anger"
-    ],
-    [
-      "doubts",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 90,
+    "joy": 23,
+    "trust": 86,
     "fear": 59,
     "surprise": 17,
     "sadness": 18,
     "disgust": 3,
-    "anger": 110,
-    "anticipation": 24
+    "anger": 116,
+    "anticipation": 23
   }
 }
