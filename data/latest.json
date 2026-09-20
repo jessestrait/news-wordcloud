@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T17:33:01.216Z",
+  "generated_at": "2026-09-20T17:48:03.680Z",
   "article_count": 50,
   "top_words": [
     [
@@ -36,11 +36,6 @@
       "death",
       4,
       "sadness"
-    ],
-    [
-      "warn",
-      4,
-      "fear"
     ],
     [
       "trade",
@@ -88,6 +83,11 @@
       "anger"
     ],
     [
+      "warn",
+      3,
+      "fear"
+    ],
+    [
       "killed",
       3,
       "fear"
@@ -131,6 +131,11 @@
       "threats",
       3,
       "anger"
+    ],
+    [
+      "risk",
+      3,
+      "fear"
     ],
     [
       "warning",
@@ -224,11 +229,6 @@
     ],
     [
       "abandon",
-      2,
-      "fear"
-    ],
-    [
-      "risk",
       2,
       "fear"
     ],
