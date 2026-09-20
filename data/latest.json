@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-20T11:45:05.100Z",
+  "generated_at": "2026-09-20T12:00:07.392Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      12,
+      13,
       "anger"
     ],
     [
       "people",
-      7,
+      6,
       "trust"
     ],
     [
@@ -26,11 +26,6 @@
       "strike",
       5,
       "anger"
-    ],
-    [
-      "poll",
-      4,
-      "trust"
     ],
     [
       "killed",
@@ -74,6 +69,11 @@
     ],
     [
       "law",
+      3,
+      "trust"
+    ],
+    [
+      "poll",
       3,
       "trust"
     ],
@@ -303,9 +303,9 @@
       "trust"
     ],
     [
-      "voting",
+      "missile",
       1,
-      "anger"
+      "fear"
     ],
     [
       "damaged",
@@ -380,8 +380,8 @@
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 93,
-    "fear": 57,
+    "trust": 91,
+    "fear": 58,
     "surprise": 18,
     "sadness": 16,
     "disgust": 4,
