@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:50:47.494Z",
+  "generated_at": "2026-09-20T23:05:49.900Z",
   "article_count": 50,
   "top_words": [
     [
@@ -36,11 +36,6 @@
       "trade",
       4,
       "trust"
-    ],
-    [
-      "home",
-      4,
-      "joy"
     ],
     [
       "attack",
@@ -88,6 +83,16 @@
       "fear"
     ],
     [
+      "home",
+      3,
+      "joy"
+    ],
+    [
+      "officials",
+      3,
+      "trust"
+    ],
+    [
       "poll",
       3,
       "trust"
@@ -108,6 +113,11 @@
       "trust"
     ],
     [
+      "threats",
+      3,
+      "anger"
+    ],
+    [
       "police",
       3,
       "fear"
@@ -126,6 +136,11 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "seek",
+      3,
+      "anticipation"
     ],
     [
       "threaten",
@@ -173,19 +188,14 @@
       "fear"
     ],
     [
-      "changed",
-      2,
-      "fear"
-    ],
-    [
-      "officials",
-      2,
-      "trust"
-    ],
-    [
       "illegal",
       2,
       "anger"
+    ],
+    [
+      "law",
+      2,
+      "trust"
     ],
     [
       "deal",
@@ -278,11 +288,6 @@
       "anger"
     ],
     [
-      "seek",
-      2,
-      "anticipation"
-    ],
-    [
       "supplies",
       2,
       "fear"
@@ -301,6 +306,11 @@
       "inquiry",
       2,
       "anticipation"
+    ],
+    [
+      "directors",
+      2,
+      "trust"
     ],
     [
       "violence",
@@ -366,26 +376,16 @@
       "understanding",
       1,
       "trust"
-    ],
-    [
-      "politics",
-      1,
-      "anger"
-    ],
-    [
-      "economy",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 86,
-    "fear": 59,
+    "joy": 20,
+    "trust": 89,
+    "fear": 58,
     "surprise": 17,
-    "sadness": 17,
+    "sadness": 18,
     "disgust": 3,
-    "anger": 116,
-    "anticipation": 23
+    "anger": 118,
+    "anticipation": 24
   }
 }
