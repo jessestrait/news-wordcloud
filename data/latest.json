@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T17:48:21.509Z",
+  "generated_at": "2026-09-20T18:03:24.077Z",
   "article_count": 50,
   "top_words": [
     [
@@ -146,11 +146,6 @@
       "seek",
       3,
       "anticipation"
-    ],
-    [
-      "escalated",
-      2,
-      "anger"
     ],
     [
       "planning",
@@ -318,7 +313,7 @@
       "anger"
     ],
     [
-      "violence",
+      "violent",
       1,
       "anger"
     ],
@@ -376,6 +371,11 @@
       "rapid",
       1,
       "surprise"
+    ],
+    [
+      "begun",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 17,
     "sadness": 18,
     "disgust": 3,
-    "anger": 111,
+    "anger": 110,
     "anticipation": 25
   }
 }
