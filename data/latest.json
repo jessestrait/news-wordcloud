@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:33:46.771Z",
+  "generated_at": "2026-09-20T18:48:49.277Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,11 +53,6 @@
       "anger"
     ],
     [
-      "plan",
-      4,
-      "anticipation"
-    ],
-    [
       "military",
       4,
       "fear"
@@ -66,16 +61,6 @@
       "president",
       4,
       "trust"
-    ],
-    [
-      "government",
-      4,
-      "fear"
-    ],
-    [
-      "threaten",
-      4,
-      "anger"
     ],
     [
       "row",
@@ -98,11 +83,6 @@
       "trust"
     ],
     [
-      "law",
-      3,
-      "trust"
-    ],
-    [
       "poll",
       3,
       "trust"
@@ -116,6 +96,11 @@
       "iran",
       3,
       "anger"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "hope",
@@ -133,12 +118,12 @@
       "anger"
     ],
     [
-      "risk",
+      "warning",
       3,
       "fear"
     ],
     [
-      "warning",
+      "government",
       3,
       "fear"
     ],
@@ -146,6 +131,16 @@
       "seek",
       3,
       "anticipation"
+    ],
+    [
+      "threaten",
+      3,
+      "anger"
+    ],
+    [
+      "victory",
+      2,
+      "joy"
     ],
     [
       "planning",
@@ -188,6 +183,11 @@
       "anger"
     ],
     [
+      "law",
+      2,
+      "trust"
+    ],
+    [
       "middle",
       2,
       "sadness"
@@ -224,6 +224,11 @@
     ],
     [
       "abandon",
+      2,
+      "fear"
+    ],
+    [
+      "risk",
       2,
       "fear"
     ],
@@ -303,6 +308,26 @@
       "trust"
     ],
     [
+      "vows",
+      1,
+      "joy"
+    ],
+    [
+      "disaster",
+      1,
+      "anger"
+    ],
+    [
+      "die",
+      1,
+      "fear"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
       "beach",
       1,
       "joy"
@@ -351,41 +376,16 @@
       "doubts",
       1,
       "fear"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
-    ],
-    [
-      "nothing",
-      1,
-      "sadness"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
-    ],
-    [
-      "rapid",
-      1,
-      "surprise"
-    ],
-    [
-      "begun",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 91,
-    "fear": 60,
+    "joy": 22,
+    "trust": 90,
+    "fear": 59,
     "surprise": 17,
     "sadness": 18,
     "disgust": 3,
     "anger": 110,
-    "anticipation": 25
+    "anticipation": 24
   }
 }
