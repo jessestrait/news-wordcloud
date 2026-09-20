@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T00:09:08.778Z",
+  "generated_at": "2026-09-20T00:24:11.286Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,19 @@
       "anger"
     ],
     [
+      "fighting",
+      4,
+      "anger"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
       "plan",
       4,
       "anticipation"
-    ],
-    [
-      "home",
-      4,
-      "joy"
     ],
     [
       "military",
@@ -73,9 +78,9 @@
       "trust"
     ],
     [
-      "fighting",
+      "home",
       3,
-      "anger"
+      "joy"
     ],
     [
       "threats",
@@ -108,11 +113,6 @@
       "anticipation"
     ],
     [
-      "iran",
-      3,
-      "anger"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -133,12 +133,17 @@
       "trust"
     ],
     [
-      "draft",
+      "airport",
       2,
       "anticipation"
     ],
     [
-      "airport",
+      "attack",
+      2,
+      "anger"
+    ],
+    [
+      "draft",
       2,
       "anticipation"
     ],
@@ -313,6 +318,21 @@
       "surprise"
     ],
     [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "alerts",
+      1,
+      "fear"
+    ],
+    [
+      "escalated",
+      1,
+      "anger"
+    ],
+    [
       "reparations",
       1,
       "trust"
@@ -329,21 +349,6 @@
     ],
     [
       "legal",
-      1,
-      "trust"
-    ],
-    [
-      "raid",
-      1,
-      "anger"
-    ],
-    [
-      "alerts",
-      1,
-      "fear"
-    ],
-    [
-      "authorities",
       1,
       "trust"
     ],
@@ -371,21 +376,16 @@
       "fired",
       1,
       "fear"
-    ],
-    [
-      "unity",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 19,
     "trust": 89,
     "fear": 52,
     "surprise": 19,
     "sadness": 16,
     "disgust": 4,
-    "anger": 103,
+    "anger": 106,
     "anticipation": 28
   }
 }
