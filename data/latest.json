@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T15:16:40.969Z",
+  "generated_at": "2026-09-20T15:31:43.711Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,6 +31,11 @@
       "killed",
       4,
       "fear"
+    ],
+    [
+      "attack",
+      4,
+      "anger"
     ],
     [
       "home",
@@ -81,11 +86,6 @@
       "poll",
       3,
       "trust"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
     ],
     [
       "iran",
@@ -298,24 +298,19 @@
       "trust"
     ],
     [
+      "damaged",
+      1,
+      "anger"
+    ],
+    [
       "doubts",
       1,
       "fear"
     ],
     [
-      "surround",
-      1,
-      "anticipation"
-    ],
-    [
       "missile",
       1,
       "fear"
-    ],
-    [
-      "damaged",
-      1,
-      "anger"
     ],
     [
       "nothing",
@@ -376,6 +371,11 @@
       "taboo",
       1,
       "fear"
+    ],
+    [
+      "denounces",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 18,
     "sadness": 17,
     "disgust": 3,
-    "anger": 105,
-    "anticipation": 27
+    "anger": 106,
+    "anticipation": 26
   }
 }
