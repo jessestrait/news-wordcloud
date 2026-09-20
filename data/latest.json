@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:00:07.392Z",
+  "generated_at": "2026-09-20T12:15:09.693Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,6 +31,11 @@
       "killed",
       4,
       "fear"
+    ],
+    [
+      "home",
+      4,
+      "joy"
     ],
     [
       "fighting",
@@ -96,11 +101,6 @@
       "agreement",
       3,
       "trust"
-    ],
-    [
-      "home",
-      3,
-      "joy"
     ],
     [
       "threats",
@@ -313,6 +313,16 @@
       "anger"
     ],
     [
+      "nothing",
+      1,
+      "sadness"
+    ],
+    [
+      "result",
+      1,
+      "anticipation"
+    ],
+    [
       "rapid",
       1,
       "surprise"
@@ -366,26 +376,16 @@
       "denounces",
       1,
       "anger"
-    ],
-    [
-      "inclusion",
-      1,
-      "trust"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 91,
+    "joy": 18,
+    "trust": 90,
     "fear": 58,
     "surprise": 18,
-    "sadness": 16,
-    "disgust": 4,
-    "anger": 107,
-    "anticipation": 25
+    "sadness": 17,
+    "disgust": 3,
+    "anger": 106,
+    "anticipation": 26
   }
 }
