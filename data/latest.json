@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:59:21.312Z",
+  "generated_at": "2026-09-21T15:14:24.030Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,6 +9,16 @@
     ],
     [
       "leader",
+      5,
+      "trust"
+    ],
+    [
+      "killed",
+      5,
+      "fear"
+    ],
+    [
+      "people",
       5,
       "trust"
     ],
@@ -28,9 +38,9 @@
       "anger"
     ],
     [
-      "strike",
-      5,
-      "anger"
+      "military",
+      4,
+      "fear"
     ],
     [
       "loss",
@@ -38,19 +48,19 @@
       "anger"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "iran",
       4,
       "anger"
+    ],
+    [
+      "home",
+      3,
+      "joy"
+    ],
+    [
+      "letters",
+      3,
+      "anticipation"
     ],
     [
       "police",
@@ -61,11 +71,6 @@
       "prison",
       3,
       "anger"
-    ],
-    [
-      "home",
-      3,
-      "joy"
     ],
     [
       "chancellor",
@@ -93,19 +98,9 @@
       "sadness"
     ],
     [
-      "planning",
-      3,
-      "trust"
-    ],
-    [
       "row",
       3,
       "anger"
-    ],
-    [
-      "warn",
-      3,
-      "fear"
     ],
     [
       "trade",
@@ -118,16 +113,6 @@
       "trust"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "agreement",
       3,
       "trust"
@@ -136,6 +121,31 @@
       "president",
       3,
       "trust"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "deaths",
+      2,
+      "sadness"
+    ],
+    [
+      "success",
+      2,
+      "joy"
+    ],
+    [
+      "family",
+      2,
+      "joy"
     ],
     [
       "authorities",
@@ -173,6 +183,11 @@
       "sadness"
     ],
     [
+      "planning",
+      2,
+      "trust"
+    ],
+    [
       "grow",
       2,
       "joy"
@@ -183,7 +198,7 @@
       "fear"
     ],
     [
-      "intelligence",
+      "warn",
       2,
       "fear"
     ],
@@ -196,11 +211,6 @@
       "slave",
       2,
       "anger"
-    ],
-    [
-      "letters",
-      2,
-      "anticipation"
     ],
     [
       "result",
@@ -268,6 +278,31 @@
       "trust"
     ],
     [
+      "polled",
+      1,
+      "trust"
+    ],
+    [
+      "lawyer",
+      1,
+      "anger"
+    ],
+    [
+      "hearing",
+      1,
+      "fear"
+    ],
+    [
+      "absence",
+      1,
+      "fear"
+    ],
+    [
+      "daily",
+      1,
+      "anticipation"
+    ],
+    [
       "jails",
       1,
       "fear"
@@ -283,11 +318,6 @@
       "anticipation"
     ],
     [
-      "family",
-      1,
-      "joy"
-    ],
-    [
       "supporters",
       1,
       "joy"
@@ -296,11 +326,6 @@
       "killing",
       1,
       "anger"
-    ],
-    [
-      "polled",
-      1,
-      "trust"
     ],
     [
       "veterans",
@@ -351,41 +376,16 @@
       "global",
       1,
       "anticipation"
-    ],
-    [
-      "deportation",
-      1,
-      "anger"
-    ],
-    [
-      "machine",
-      1,
-      "trust"
-    ],
-    [
-      "fate",
-      1,
-      "anticipation"
-    ],
-    [
-      "system",
-      1,
-      "trust"
-    ],
-    [
-      "removing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 83,
-    "fear": 54,
-    "surprise": 11,
-    "sadness": 14,
+    "joy": 22,
+    "trust": 80,
+    "fear": 56,
+    "surprise": 9,
+    "sadness": 15,
     "disgust": 4,
     "anger": 112,
-    "anticipation": 24
+    "anticipation": 23
   }
 }
