@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T15:14:24.030Z",
+  "generated_at": "2026-09-21T15:29:26.743Z",
   "article_count": 50,
   "top_words": [
     [
@@ -76,6 +76,11 @@
       "chancellor",
       3,
       "trust"
+    ],
+    [
+      "vow",
+      3,
+      "joy"
     ],
     [
       "warning",
@@ -164,16 +169,6 @@
     ],
     [
       "victory",
-      2,
-      "joy"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
-      "vow",
       2,
       "joy"
     ],
@@ -278,6 +273,11 @@
       "trust"
     ],
     [
+      "happened",
+      1,
+      "anticipation"
+    ],
+    [
       "polled",
       1,
       "trust"
@@ -379,7 +379,7 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 23,
     "trust": 80,
     "fear": 56,
     "surprise": 9,
