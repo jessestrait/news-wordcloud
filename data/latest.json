@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:43:36.365Z",
+  "generated_at": "2026-09-21T13:58:38.619Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,14 +53,14 @@
       "anger"
     ],
     [
-      "chancellor",
-      3,
-      "trust"
-    ],
-    [
       "home",
       3,
       "joy"
+    ],
+    [
+      "chancellor",
+      3,
+      "trust"
     ],
     [
       "warning",
@@ -258,6 +258,11 @@
       "trust"
     ],
     [
+      "polled",
+      1,
+      "trust"
+    ],
+    [
       "veterans",
       1,
       "trust"
@@ -276,11 +281,6 @@
       "seeks",
       1,
       "anticipation"
-    ],
-    [
-      "polled",
-      1,
-      "trust"
     ],
     [
       "humiliation",
