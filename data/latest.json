@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T05:39:16.369Z",
+  "generated_at": "2026-09-21T05:54:18.789Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
+      "trump",
+      7,
+      "anger"
+    ],
+    [
       "people",
       7,
       "trust"
-    ],
-    [
-      "trump",
-      6,
-      "anger"
     ],
     [
       "strike",
@@ -61,6 +61,11 @@
       "president",
       4,
       "trust"
+    ],
+    [
+      "warning",
+      3,
+      "fear"
     ],
     [
       "fire",
@@ -238,11 +243,6 @@
       "sadness"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "show",
       2,
       "trust"
@@ -256,11 +256,6 @@
       "majority",
       2,
       "joy"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "school",
@@ -293,9 +288,29 @@
       "fear"
     ],
     [
-      "nation",
-      2,
+      "deportation",
+      1,
+      "anger"
+    ],
+    [
+      "machine",
+      1,
       "trust"
+    ],
+    [
+      "fate",
+      1,
+      "anticipation"
+    ],
+    [
+      "system",
+      1,
+      "trust"
+    ],
+    [
+      "removing",
+      1,
+      "anger"
     ],
     [
       "haze",
@@ -361,31 +376,16 @@
       "victory",
       1,
       "joy"
-    ],
-    [
-      "berlin",
-      1,
-      "joy"
-    ],
-    [
-      "brawl",
-      1,
-      "anger"
-    ],
-    [
-      "beach",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 86,
-    "fear": 56,
-    "surprise": 15,
+    "trust": 87,
+    "fear": 54,
+    "surprise": 14,
     "sadness": 19,
     "disgust": 4,
-    "anger": 119,
-    "anticipation": 21
+    "anger": 120,
+    "anticipation": 22
   }
 }
