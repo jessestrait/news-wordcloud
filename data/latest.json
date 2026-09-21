@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:14:56.164Z",
+  "generated_at": "2026-09-21T16:29:58.962Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "trump",
+      5,
+      "anger"
+    ],
+    [
       "leader",
       5,
       "trust"
@@ -33,9 +38,14 @@
       "fear"
     ],
     [
-      "trump",
-      5,
-      "anger"
+      "president",
+      4,
+      "trust"
+    ],
+    [
+      "changed",
+      4,
+      "fear"
     ],
     [
       "loss",
@@ -93,11 +103,6 @@
       "fear"
     ],
     [
-      "changed",
-      3,
-      "fear"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -106,11 +111,6 @@
       "middle",
       3,
       "sadness"
-    ],
-    [
-      "row",
-      3,
-      "anger"
     ],
     [
       "trade",
@@ -124,11 +124,6 @@
     ],
     [
       "agreement",
-      3,
-      "trust"
-    ],
-    [
-      "president",
       3,
       "trust"
     ],
@@ -198,6 +193,11 @@
       "fear"
     ],
     [
+      "row",
+      2,
+      "anger"
+    ],
+    [
       "warn",
       2,
       "fear"
@@ -221,11 +221,6 @@
       "rules",
       2,
       "fear"
-    ],
-    [
-      "officials",
-      2,
-      "trust"
     ],
     [
       "illegal",
@@ -268,9 +263,29 @@
       "fear"
     ],
     [
+      "bomb",
+      2,
+      "anger"
+    ],
+    [
       "lose",
       2,
       "anger"
+    ],
+    [
+      "seize",
+      1,
+      "fear"
+    ],
+    [
+      "mind",
+      1,
+      "trust"
+    ],
+    [
+      "pleas",
+      1,
+      "fear"
     ],
     [
       "constitute",
@@ -361,31 +376,16 @@
       "vote",
       1,
       "anger"
-    ],
-    [
-      "humiliation",
-      1,
-      "disgust"
-    ],
-    [
-      "unrest",
-      1,
-      "fear"
-    ],
-    [
-      "disastrous",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 79,
-    "fear": 58,
+    "trust": 77,
+    "fear": 61,
     "surprise": 9,
     "sadness": 15,
     "disgust": 4,
-    "anger": 115,
+    "anger": 114,
     "anticipation": 23
   }
 }
