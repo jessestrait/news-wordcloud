@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:56:14.864Z",
+  "generated_at": "2026-09-21T09:11:16.792Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "trump",
-      7,
-      "anger"
-    ],
-    [
       "leader",
       6,
       "trust"
+    ],
+    [
+      "trump",
+      6,
+      "anger"
     ],
     [
       "people",
@@ -26,6 +26,11 @@
       "strike",
       6,
       "anger"
+    ],
+    [
+      "fire",
+      5,
+      "fear"
     ],
     [
       "iran",
@@ -53,17 +58,7 @@
       "fear"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "warning",
-      3,
-      "fear"
-    ],
-    [
-      "fire",
       3,
       "fear"
     ],
@@ -133,6 +128,11 @@
       "trust"
     ],
     [
+      "president",
+      3,
+      "trust"
+    ],
+    [
       "loss",
       3,
       "anger"
@@ -194,11 +194,6 @@
     ],
     [
       "illegal",
-      2,
-      "anger"
-    ],
-    [
-      "threatens",
       2,
       "anger"
     ],
@@ -273,24 +268,24 @@
       "trust"
     ],
     [
-      "laughable",
-      2,
-      "disgust"
-    ],
-    [
       "closure",
       2,
       "sadness"
     ],
     [
-      "seek",
-      2,
-      "anticipation"
-    ],
-    [
       "polled",
       1,
       "trust"
+    ],
+    [
+      "babies",
+      1,
+      "joy"
+    ],
+    [
+      "global",
+      1,
+      "anticipation"
     ],
     [
       "deportation",
@@ -376,16 +371,21 @@
       "disaster",
       1,
       "anger"
+    ],
+    [
+      "victory",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 87,
-    "fear": 51,
+    "joy": 20,
+    "trust": 85,
+    "fear": 53,
     "surprise": 14,
     "sadness": 19,
-    "disgust": 4,
-    "anger": 117,
+    "disgust": 3,
+    "anger": 115,
     "anticipation": 21
   }
 }
