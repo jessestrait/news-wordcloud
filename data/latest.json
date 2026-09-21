@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:08:02.011Z",
+  "generated_at": "2026-09-21T03:23:04.573Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "trust"
     ],
     [
+      "fire",
+      3,
+      "fear"
+    ],
+    [
       "changed",
       3,
       "fear"
@@ -121,11 +126,6 @@
       "agreement",
       3,
       "trust"
-    ],
-    [
-      "warning",
-      3,
-      "fear"
     ],
     [
       "death",
@@ -238,6 +238,11 @@
       "sadness"
     ],
     [
+      "warning",
+      2,
+      "fear"
+    ],
+    [
       "show",
       2,
       "trust"
@@ -291,6 +296,21 @@
       "nation",
       2,
       "trust"
+    ],
+    [
+      "haze",
+      1,
+      "fear"
+    ],
+    [
+      "guide",
+      1,
+      "trust"
+    ],
+    [
+      "toxic",
+      1,
+      "disgust"
     ],
     [
       "expectations",
@@ -356,35 +376,15 @@
       "beach",
       1,
       "joy"
-    ],
-    [
-      "violent",
-      1,
-      "anger"
-    ],
-    [
-      "argued",
-      1,
-      "anger"
-    ],
-    [
-      "shortage",
-      1,
-      "anger"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 85,
-    "fear": 54,
-    "surprise": 16,
+    "trust": 86,
+    "fear": 56,
+    "surprise": 15,
     "sadness": 19,
-    "disgust": 3,
+    "disgust": 4,
     "anger": 119,
     "anticipation": 21
   }
