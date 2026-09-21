@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:13:16.392Z",
+  "generated_at": "2026-09-21T13:28:19.000Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,11 +243,6 @@
       "fear"
     ],
     [
-      "lose",
-      2,
-      "anger"
-    ],
-    [
       "show",
       2,
       "trust"
@@ -261,6 +256,11 @@
       "polled",
       1,
       "trust"
+    ],
+    [
+      "losing",
+      1,
+      "anger"
     ],
     [
       "humiliation",
