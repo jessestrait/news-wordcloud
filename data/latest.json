@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:12:48.834Z",
+  "generated_at": "2026-09-21T12:27:50.948Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,11 +51,6 @@
       "military",
       4,
       "fear"
-    ],
-    [
-      "chancellor",
-      3,
-      "trust"
     ],
     [
       "home",
@@ -126,6 +121,11 @@
       "loss",
       3,
       "anger"
+    ],
+    [
+      "chancellor",
+      2,
+      "trust"
     ],
     [
       "vow",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 84,
+    "trust": 83,
     "fear": 53,
     "surprise": 12,
     "sadness": 14,
