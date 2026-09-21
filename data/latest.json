@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:43:11.188Z",
+  "generated_at": "2026-09-21T12:58:13.739Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,13 +9,8 @@
     ],
     [
       "leader",
-      6,
+      7,
       "trust"
-    ],
-    [
-      "trump",
-      6,
-      "anger"
     ],
     [
       "strike",
@@ -26,6 +21,11 @@
       "fire",
       5,
       "fear"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "iran",
@@ -56,6 +56,11 @@
       "home",
       3,
       "joy"
+    ],
+    [
+      "chancellor",
+      3,
+      "trust"
     ],
     [
       "warning",
@@ -123,9 +128,9 @@
       "anger"
     ],
     [
-      "chancellor",
+      "power",
       2,
-      "trust"
+      "anticipation"
     ],
     [
       "vow",
@@ -238,19 +243,14 @@
       "fear"
     ],
     [
+      "lose",
+      2,
+      "anger"
+    ],
+    [
       "show",
       2,
       "trust"
-    ],
-    [
-      "associate",
-      2,
-      "trust"
-    ],
-    [
-      "majority",
-      2,
-      "joy"
     ],
     [
       "school",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 83,
+    "joy": 19,
+    "trust": 84,
     "fear": 53,
-    "surprise": 12,
+    "surprise": 11,
     "sadness": 14,
-    "disgust": 5,
+    "disgust": 4,
     "anger": 113,
-    "anticipation": 21
+    "anticipation": 22
   }
 }
