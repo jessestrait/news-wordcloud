@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:30:46.542Z",
+  "generated_at": "2026-09-21T17:45:48.878Z",
   "article_count": 50,
   "top_words": [
     [
@@ -123,9 +123,9 @@
       "anger"
     ],
     [
-      "council",
+      "struggle",
       2,
-      "trust"
+      "anger"
     ],
     [
       "alleged",
@@ -283,26 +283,6 @@
       "trust"
     ],
     [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
-      "hopefuls",
-      1,
-      "surprise"
-    ],
-    [
-      "fraught",
-      1,
-      "fear"
-    ],
-    [
-      "achieving",
-      1,
-      "joy"
-    ],
-    [
       "seize",
       1,
       "fear"
@@ -376,16 +356,36 @@
       "jails",
       1,
       "fear"
+    ],
+    [
+      "khan",
+      1,
+      "fear"
+    ],
+    [
+      "seeking",
+      1,
+      "anticipation"
+    ],
+    [
+      "supporters",
+      1,
+      "joy"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 79,
-    "fear": 61,
-    "surprise": 10,
+    "joy": 23,
+    "trust": 78,
+    "fear": 60,
+    "surprise": 9,
     "sadness": 15,
     "disgust": 4,
-    "anger": 111,
+    "anger": 112,
     "anticipation": 23
   }
 }
