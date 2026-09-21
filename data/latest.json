@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-21T16:45:20.719Z",
+  "generated_at": "2026-09-21T17:00:23.474Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      11,
+      10,
       "anger"
     ],
     [
@@ -38,6 +38,11 @@
       "fear"
     ],
     [
+      "trade",
+      4,
+      "trust"
+    ],
+    [
       "president",
       4,
       "trust"
@@ -59,11 +64,6 @@
     ],
     [
       "iran",
-      4,
-      "anger"
-    ],
-    [
-      "strike",
       4,
       "anger"
     ],
@@ -98,11 +98,6 @@
       "joy"
     ],
     [
-      "warning",
-      3,
-      "fear"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -113,11 +108,6 @@
       "sadness"
     ],
     [
-      "trade",
-      3,
-      "trust"
-    ],
-    [
       "poll",
       3,
       "trust"
@@ -125,6 +115,16 @@
     [
       "agreement",
       3,
+      "trust"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
+    ],
+    [
+      "council",
+      2,
       "trust"
     ],
     [
@@ -171,6 +171,11 @@
       "victory",
       2,
       "joy"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
     ],
     [
       "black",
@@ -273,6 +278,31 @@
       "anger"
     ],
     [
+      "general",
+      1,
+      "trust"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "hopefuls",
+      1,
+      "surprise"
+    ],
+    [
+      "fraught",
+      1,
+      "fear"
+    ],
+    [
+      "achieving",
+      1,
+      "joy"
+    ],
+    [
       "seize",
       1,
       "fear"
@@ -301,6 +331,11 @@
       "humanity",
       1,
       "joy"
+    ],
+    [
+      "expert",
+      1,
+      "trust"
     ],
     [
       "seeks",
@@ -341,51 +376,16 @@
       "jails",
       1,
       "fear"
-    ],
-    [
-      "khan",
-      1,
-      "fear"
-    ],
-    [
-      "seeking",
-      1,
-      "anticipation"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
-      "veterans",
-      1,
-      "trust"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
-    ],
-    [
-      "vote",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 77,
+    "joy": 25,
+    "trust": 79,
     "fear": 61,
-    "surprise": 9,
+    "surprise": 10,
     "sadness": 15,
     "disgust": 4,
-    "anger": 114,
+    "anger": 111,
     "anticipation": 23
   }
 }
