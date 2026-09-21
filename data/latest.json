@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:46:36.997Z",
+  "generated_at": "2026-09-21T19:01:39.449Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "fear"
     ],
     [
+      "military",
+      4,
+      "fear"
+    ],
+    [
       "trade",
       4,
       "trust"
@@ -56,11 +61,6 @@
       "loss",
       4,
       "anger"
-    ],
-    [
-      "military",
-      4,
-      "fear"
     ],
     [
       "iran",
@@ -123,6 +123,16 @@
       "anger"
     ],
     [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "deaths",
+      2,
+      "sadness"
+    ],
+    [
       "struggle",
       2,
       "anger"
@@ -136,16 +146,6 @@
       "parliament",
       2,
       "trust"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
-      "deaths",
-      2,
-      "sadness"
     ],
     [
       "success",
@@ -278,6 +278,16 @@
       "anger"
     ],
     [
+      "lawyer",
+      1,
+      "anger"
+    ],
+    [
+      "hearing",
+      1,
+      "fear"
+    ],
+    [
       "general",
       1,
       "trust"
@@ -331,16 +341,6 @@
       "polled",
       1,
       "trust"
-    ],
-    [
-      "lawyer",
-      1,
-      "anger"
-    ],
-    [
-      "hearing",
-      1,
-      "fear"
     ],
     [
       "absence",
