@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T15:29:26.743Z",
+  "generated_at": "2026-09-21T15:44:29.296Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,19 +38,24 @@
       "anger"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "loss",
       4,
       "anger"
     ],
     [
+      "military",
+      4,
+      "fear"
+    ],
+    [
       "iran",
       4,
       "anger"
+    ],
+    [
+      "chancellor",
+      3,
+      "trust"
     ],
     [
       "home",
@@ -71,11 +76,6 @@
       "prison",
       3,
       "anger"
-    ],
-    [
-      "chancellor",
-      3,
-      "trust"
     ],
     [
       "vow",
@@ -133,6 +133,11 @@
       "anger"
     ],
     [
+      "parliament",
+      2,
+      "trust"
+    ],
+    [
       "gaza",
       2,
       "anger"
@@ -154,11 +159,6 @@
     ],
     [
       "authorities",
-      2,
-      "trust"
-    ],
-    [
-      "parliament",
       2,
       "trust"
     ],
@@ -273,6 +273,11 @@
       "trust"
     ],
     [
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
       "happened",
       1,
       "anticipation"
@@ -341,11 +346,6 @@
       "vote",
       1,
       "anger"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
     ],
     [
       "humiliation",
