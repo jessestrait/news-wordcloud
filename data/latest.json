@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:57:05.466Z",
+  "generated_at": "2026-09-21T11:12:07.387Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,11 +73,6 @@
       "fear"
     ],
     [
-      "prison",
-      3,
-      "anger"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -118,11 +113,6 @@
       "anticipation"
     ],
     [
-      "hope",
-      3,
-      "surprise"
-    ],
-    [
       "agreement",
       3,
       "trust"
@@ -138,14 +128,14 @@
       "anger"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
       "vow",
       2,
       "joy"
+    ],
+    [
+      "prison",
+      2,
+      "anger"
     ],
     [
       "black",
@@ -268,11 +258,6 @@
       "trust"
     ],
     [
-      "closure",
-      2,
-      "sadness"
-    ],
-    [
       "polled",
       1,
       "trust"
@@ -376,15 +361,30 @@
       "rebels",
       1,
       "anger"
+    ],
+    [
+      "disaster",
+      1,
+      "anger"
+    ],
+    [
+      "victory",
+      1,
+      "joy"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 83,
-    "fear": 52,
-    "surprise": 14,
-    "sadness": 17,
-    "disgust": 4,
+    "joy": 20,
+    "trust": 84,
+    "fear": 53,
+    "surprise": 12,
+    "sadness": 14,
+    "disgust": 5,
     "anger": 113,
     "anticipation": 21
   }
