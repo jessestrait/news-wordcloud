@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-21T09:56:41.075Z",
+  "generated_at": "2026-09-21T10:11:43.639Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      11,
+      10,
       "anger"
     ],
     [
@@ -16,11 +16,6 @@
       "trump",
       6,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "strike",
@@ -43,9 +38,9 @@
       "anger"
     ],
     [
-      "home",
+      "people",
       4,
-      "joy"
+      "trust"
     ],
     [
       "killed",
@@ -56,6 +51,16 @@
       "military",
       4,
       "fear"
+    ],
+    [
+      "chancellor",
+      3,
+      "trust"
+    ],
+    [
+      "home",
+      3,
+      "joy"
     ],
     [
       "warning",
@@ -108,11 +113,6 @@
       "trust"
     ],
     [
-      "fighting",
-      3,
-      "anger"
-    ],
-    [
       "plan",
       3,
       "anticipation"
@@ -143,9 +143,9 @@
       "sadness"
     ],
     [
-      "chancellor",
+      "vow",
       2,
-      "trust"
+      "joy"
     ],
     [
       "black",
@@ -156,6 +156,11 @@
       "bombing",
       2,
       "anger"
+    ],
+    [
+      "grow",
+      2,
+      "joy"
     ],
     [
       "die",
@@ -183,6 +188,11 @@
       "anticipation"
     ],
     [
+      "result",
+      2,
+      "anticipation"
+    ],
+    [
       "rules",
       2,
       "fear"
@@ -194,6 +204,11 @@
     ],
     [
       "illegal",
+      2,
+      "anger"
+    ],
+    [
+      "fighting",
       2,
       "anger"
     ],
@@ -228,24 +243,9 @@
       "anger"
     ],
     [
-      "abandon",
-      2,
-      "fear"
-    ],
-    [
       "risk",
       2,
       "fear"
-    ],
-    [
-      "forced",
-      2,
-      "fear"
-    ],
-    [
-      "leaving",
-      2,
-      "sadness"
     ],
     [
       "show",
@@ -276,6 +276,26 @@
       "polled",
       1,
       "trust"
+    ],
+    [
+      "humiliation",
+      1,
+      "disgust"
+    ],
+    [
+      "unrest",
+      1,
+      "fear"
+    ],
+    [
+      "disastrous",
+      1,
+      "anger"
+    ],
+    [
+      "alienate",
+      1,
+      "anger"
     ],
     [
       "babies",
@@ -353,39 +373,19 @@
       "anger"
     ],
     [
-      "grow",
-      1,
-      "joy"
-    ],
-    [
       "rebels",
       1,
       "anger"
-    ],
-    [
-      "vows",
-      1,
-      "joy"
-    ],
-    [
-      "disaster",
-      1,
-      "anger"
-    ],
-    [
-      "victory",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 85,
-    "fear": 53,
+    "joy": 21,
+    "trust": 83,
+    "fear": 52,
     "surprise": 14,
-    "sadness": 19,
-    "disgust": 3,
-    "anger": 115,
+    "sadness": 17,
+    "disgust": 4,
+    "anger": 113,
     "anticipation": 21
   }
 }
