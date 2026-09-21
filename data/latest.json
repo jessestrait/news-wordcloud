@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:44:01.625Z",
+  "generated_at": "2026-09-21T14:59:03.753Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "leader",
-      6,
+      5,
       "trust"
     ],
     [
@@ -50,6 +50,16 @@
     [
       "iran",
       4,
+      "anger"
+    ],
+    [
+      "police",
+      3,
+      "fear"
+    ],
+    [
+      "prison",
+      3,
       "anger"
     ],
     [
@@ -128,6 +138,11 @@
       "trust"
     ],
     [
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
       "parliament",
       2,
       "trust"
@@ -151,11 +166,6 @@
       "vow",
       2,
       "joy"
-    ],
-    [
-      "prison",
-      2,
-      "anger"
     ],
     [
       "black",
@@ -228,11 +238,6 @@
       "anger"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "error",
       2,
       "sadness"
@@ -261,6 +266,36 @@
       "show",
       2,
       "trust"
+    ],
+    [
+      "jails",
+      1,
+      "fear"
+    ],
+    [
+      "khan",
+      1,
+      "fear"
+    ],
+    [
+      "seeking",
+      1,
+      "anticipation"
+    ],
+    [
+      "family",
+      1,
+      "joy"
+    ],
+    [
+      "supporters",
+      1,
+      "joy"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
     ],
     [
       "polled",
@@ -341,51 +376,16 @@
       "removing",
       1,
       "anger"
-    ],
-    [
-      "haze",
-      1,
-      "fear"
-    ],
-    [
-      "guide",
-      1,
-      "trust"
-    ],
-    [
-      "toxic",
-      1,
-      "disgust"
-    ],
-    [
-      "expectations",
-      1,
-      "anticipation"
-    ],
-    [
-      "xueqin",
-      1,
-      "trust"
-    ],
-    [
-      "world",
-      1,
-      "trust"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 21,
     "trust": 83,
-    "fear": 52,
+    "fear": 54,
     "surprise": 11,
     "sadness": 14,
     "disgust": 4,
-    "anger": 111,
-    "anticipation": 23
+    "anger": 112,
+    "anticipation": 24
   }
 }
