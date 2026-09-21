@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:58:38.619Z",
+  "generated_at": "2026-09-21T14:13:41.136Z",
   "article_count": 50,
   "top_words": [
     [
@@ -129,6 +129,11 @@
     ],
     [
       "parliament",
+      2,
+      "trust"
+    ],
+    [
+      "united",
       2,
       "trust"
     ],
@@ -371,16 +376,11 @@
       "violence",
       1,
       "anger"
-    ],
-    [
-      "bombing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 82,
+    "trust": 83,
     "fear": 52,
     "surprise": 11,
     "sadness": 14,
