@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-21T13:28:34.241Z",
+  "generated_at": "2026-09-21T13:43:36.365Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      11,
       "anger"
     ],
     [
       "leader",
       6,
       "trust"
-    ],
-    [
-      "strike",
-      6,
-      "anger"
     ],
     [
       "fire",
@@ -28,12 +23,12 @@
       "anger"
     ],
     [
-      "iran",
+      "attack",
       5,
       "anger"
     ],
     [
-      "attack",
+      "strike",
       5,
       "anger"
     ],
@@ -53,19 +48,19 @@
       "fear"
     ],
     [
-      "military",
+      "iran",
       4,
-      "fear"
-    ],
-    [
-      "home",
-      3,
-      "joy"
+      "anger"
     ],
     [
       "chancellor",
       3,
       "trust"
+    ],
+    [
+      "home",
+      3,
+      "joy"
     ],
     [
       "warning",
@@ -118,6 +113,11 @@
       "anticipation"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "agreement",
       3,
       "trust"
@@ -126,6 +126,16 @@
       "president",
       3,
       "trust"
+    ],
+    [
+      "parliament",
+      2,
+      "trust"
+    ],
+    [
+      "victory",
+      2,
+      "joy"
     ],
     [
       "power",
@@ -146,11 +156,6 @@
       "black",
       2,
       "sadness"
-    ],
-    [
-      "bombing",
-      2,
-      "anger"
     ],
     [
       "grow",
@@ -253,19 +258,29 @@
       "trust"
     ],
     [
-      "school",
-      2,
+      "veterans",
+      1,
       "trust"
     ],
     [
-      "polled",
+      "elected",
       1,
       "trust"
+    ],
+    [
+      "vote",
+      1,
+      "anger"
     ],
     [
       "seeks",
       1,
       "anticipation"
+    ],
+    [
+      "polled",
+      1,
+      "trust"
     ],
     [
       "humiliation",
@@ -358,34 +373,19 @@
       "anger"
     ],
     [
-      "tensions",
+      "bombing",
       1,
       "anger"
-    ],
-    [
-      "rebels",
-      1,
-      "anger"
-    ],
-    [
-      "disaster",
-      1,
-      "anger"
-    ],
-    [
-      "victory",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 83,
-    "fear": 53,
+    "joy": 20,
+    "trust": 82,
+    "fear": 52,
     "surprise": 11,
     "sadness": 14,
     "disgust": 4,
-    "anger": 114,
+    "anger": 111,
     "anticipation": 23
   }
 }
