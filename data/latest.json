@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-21T02:37:39.742Z",
+  "generated_at": "2026-09-21T02:52:42.250Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      13,
+      12,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "trump",
       6,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "strike",
@@ -61,6 +61,16 @@
       "president",
       4,
       "trust"
+    ],
+    [
+      "changed",
+      3,
+      "fear"
+    ],
+    [
+      "prison",
+      3,
+      "anger"
     ],
     [
       "hit",
@@ -143,11 +153,6 @@
       "fear"
     ],
     [
-      "victory",
-      2,
-      "joy"
-    ],
-    [
       "intelligence",
       2,
       "fear"
@@ -189,11 +194,6 @@
     ],
     [
       "warfare",
-      2,
-      "anger"
-    ],
-    [
-      "prison",
       2,
       "anger"
     ],
@@ -293,8 +293,13 @@
       "trust"
     ],
     [
-      "officer",
-      2,
+      "expectations",
+      1,
+      "anticipation"
+    ],
+    [
+      "xueqin",
+      1,
       "trust"
     ],
     [
@@ -333,6 +338,11 @@
       "anger"
     ],
     [
+      "victory",
+      1,
+      "joy"
+    ],
+    [
       "berlin",
       1,
       "joy"
@@ -363,29 +373,19 @@
       "anger"
     ],
     [
-      "understanding",
-      1,
-      "trust"
-    ],
-    [
-      "politics",
-      1,
-      "anger"
-    ],
-    [
-      "economy",
+      "officers",
       1,
       "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 84,
+    "joy": 18,
+    "trust": 85,
     "fear": 54,
     "surprise": 16,
     "sadness": 19,
     "disgust": 3,
     "anger": 119,
-    "anticipation": 20
+    "anticipation": 21
   }
 }
