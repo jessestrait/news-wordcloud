@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-09-22T19:01:05.490Z",
+  "generated_at": "2026-09-22T19:16:08.377Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      8,
-      "anger"
-    ],
     [
       "trump",
       7,
@@ -23,19 +18,14 @@
       "fear"
     ],
     [
-      "iran",
-      5,
+      "war",
+      6,
       "anger"
     ],
     [
-      "general",
+      "iran",
       5,
-      "trust"
-    ],
-    [
-      "trade",
-      5,
-      "trust"
+      "anger"
     ],
     [
       "middle",
@@ -43,7 +33,12 @@
       "sadness"
     ],
     [
-      "assembly",
+      "general",
+      4,
+      "trust"
+    ],
+    [
+      "trade",
       4,
       "trust"
     ],
@@ -63,11 +58,6 @@
       "trust"
     ],
     [
-      "leader",
-      4,
-      "trust"
-    ],
-    [
       "fire",
       4,
       "fear"
@@ -78,9 +68,9 @@
       "surprise"
     ],
     [
-      "president",
+      "happened",
       3,
-      "trust"
+      "anticipation"
     ],
     [
       "letter",
@@ -99,6 +89,11 @@
     ],
     [
       "agreement",
+      3,
+      "trust"
+    ],
+    [
+      "assembly",
       3,
       "trust"
     ],
@@ -133,9 +128,19 @@
       "anger"
     ],
     [
+      "leader",
+      3,
+      "trust"
+    ],
+    [
       "vow",
       3,
       "joy"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
     ],
     [
       "politics",
@@ -146,11 +151,6 @@
       "tensions",
       2,
       "anger"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "death",
@@ -186,6 +186,11 @@
       "media",
       2,
       "disgust"
+    ],
+    [
+      "president",
+      2,
+      "trust"
     ],
     [
       "top",
@@ -271,6 +276,16 @@
       "poll",
       2,
       "trust"
+    ],
+    [
+      "hurricane",
+      1,
+      "fear"
+    ],
+    [
+      "rages",
+      1,
+      "anger"
     ],
     [
       "removes",
@@ -361,27 +376,12 @@
       "forces",
       1,
       "anger"
-    ],
-    [
-      "problems",
-      1,
-      "fear"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
-      "convergence",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 84,
-    "fear": 61,
+    "trust": 78,
+    "fear": 62,
     "surprise": 12,
     "sadness": 15,
     "disgust": 6,
