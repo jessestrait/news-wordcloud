@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:10:47.723Z",
+  "generated_at": "2026-09-22T11:25:49.821Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "fear"
     ],
     [
-      "agreement",
-      4,
-      "trust"
-    ],
-    [
       "middle",
       4,
       "sadness"
@@ -41,6 +36,11 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "agreement",
+      4,
+      "trust"
     ],
     [
       "president",
@@ -118,17 +118,17 @@
       "joy"
     ],
     [
+      "official",
+      2,
+      "trust"
+    ],
+    [
       "accused",
       2,
       "anger"
     ],
     [
       "supporting",
-      2,
-      "trust"
-    ],
-    [
-      "official",
       2,
       "trust"
     ],
@@ -278,11 +278,6 @@
       "anger"
     ],
     [
-      "changes",
-      1,
-      "fear"
-    ],
-    [
       "ready",
       1,
       "anticipation"
@@ -304,6 +299,11 @@
     ],
     [
       "supplies",
+      1,
+      "fear"
+    ],
+    [
+      "changes",
       1,
       "fear"
     ],
