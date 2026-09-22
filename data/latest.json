@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:52:52.813Z",
+  "generated_at": "2026-09-22T06:07:55.057Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,24 +13,29 @@
       "anger"
     ],
     [
+      "trump",
+      6,
+      "anger"
+    ],
+    [
       "killed",
       6,
       "fear"
     ],
     [
       "people",
-      6,
-      "trust"
-    ],
-    [
-      "trump",
       5,
-      "anger"
+      "trust"
     ],
     [
       "fire",
       5,
       "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "military",
@@ -83,11 +88,6 @@
       "fear"
     ],
     [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "chancellor",
       3,
       "trust"
@@ -125,6 +125,21 @@
     [
       "agreement",
       3,
+      "trust"
+    ],
+    [
+      "media",
+      2,
+      "disgust"
+    ],
+    [
+      "world",
+      2,
+      "trust"
+    ],
+    [
+      "top",
+      2,
       "trust"
     ],
     [
@@ -263,6 +278,41 @@
       "anger"
     ],
     [
+      "bizarre",
+      1,
+      "surprise"
+    ],
+    [
+      "blitz",
+      1,
+      "surprise"
+    ],
+    [
+      "leaves",
+      1,
+      "sadness"
+    ],
+    [
+      "guessing",
+      1,
+      "surprise"
+    ],
+    [
+      "achievements",
+      1,
+      "joy"
+    ],
+    [
+      "chances",
+      1,
+      "surprise"
+    ],
+    [
+      "uplifting",
+      1,
+      "joy"
+    ],
+    [
       "thinks",
       1,
       "trust"
@@ -326,66 +376,16 @@
       "accused",
       1,
       "anger"
-    ],
-    [
-      "father",
-      1,
-      "trust"
-    ],
-    [
-      "victim",
-      1,
-      "anger"
-    ],
-    [
-      "boy",
-      1,
-      "disgust"
-    ],
-    [
-      "fell",
-      1,
-      "sadness"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
-    ],
-    [
-      "top",
-      1,
-      "trust"
-    ],
-    [
-      "kill",
-      1,
-      "fear"
-    ],
-    [
-      "sounds",
-      1,
-      "joy"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "hearing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 78,
-    "fear": 65,
-    "surprise": 9,
-    "sadness": 18,
-    "disgust": 5,
-    "anger": 107,
-    "anticipation": 25
+    "joy": 26,
+    "trust": 79,
+    "fear": 64,
+    "surprise": 13,
+    "sadness": 19,
+    "disgust": 6,
+    "anger": 108,
+    "anticipation": 24
   }
 }
