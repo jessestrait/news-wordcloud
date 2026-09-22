@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-22T16:59:42.913Z",
+  "generated_at": "2026-09-22T17:14:44.878Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      8,
       "anger"
     ],
     [
@@ -23,38 +23,13 @@
       "fear"
     ],
     [
-      "general",
-      5,
-      "trust"
-    ],
-    [
       "iran",
       5,
       "anger"
     ],
     [
-      "fire",
+      "general",
       5,
-      "fear"
-    ],
-    [
-      "military",
-      4,
-      "fear"
-    ],
-    [
-      "deal",
-      4,
-      "surprise"
-    ],
-    [
-      "agreement",
-      4,
-      "trust"
-    ],
-    [
-      "assembly",
-      4,
       "trust"
     ],
     [
@@ -63,7 +38,22 @@
       "sadness"
     ],
     [
-      "president",
+      "deal",
+      4,
+      "surprise"
+    ],
+    [
+      "assembly",
+      4,
+      "trust"
+    ],
+    [
+      "military",
+      4,
+      "fear"
+    ],
+    [
+      "agreement",
       4,
       "trust"
     ],
@@ -93,14 +83,24 @@
       "trust"
     ],
     [
-      "seeks",
+      "fire",
+      4,
+      "fear"
+    ],
+    [
+      "president",
+      3,
+      "trust"
+    ],
+    [
+      "letter",
       3,
       "anticipation"
     ],
     [
-      "death",
+      "seeks",
       3,
-      "sadness"
+      "anticipation"
     ],
     [
       "family",
@@ -123,11 +123,6 @@
       "joy"
     ],
     [
-      "warn",
-      3,
-      "fear"
-    ],
-    [
       "chancellor",
       3,
       "trust"
@@ -138,19 +133,29 @@
       "anger"
     ],
     [
-      "prison",
-      3,
-      "anger"
-    ],
-    [
       "vow",
       3,
       "joy"
     ],
     [
+      "politics",
+      2,
+      "anger"
+    ],
+    [
       "tensions",
       2,
       "anger"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
     ],
     [
       "lawyer",
@@ -193,14 +198,14 @@
       "fear"
     ],
     [
-      "risk",
+      "warn",
       2,
       "fear"
     ],
     [
-      "struggle",
+      "risk",
       2,
-      "anger"
+      "fear"
     ],
     [
       "strikes",
@@ -213,19 +218,14 @@
       "trust"
     ],
     [
-      "letters",
-      2,
-      "anticipation"
-    ],
-    [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "authorities",
       2,
       "trust"
+    ],
+    [
+      "prison",
+      2,
+      "anger"
     ],
     [
       "victory",
@@ -258,11 +258,6 @@
       "joy"
     ],
     [
-      "panic",
-      2,
-      "fear"
-    ],
-    [
       "slave",
       2,
       "anger"
@@ -273,18 +268,43 @@
       "anticipation"
     ],
     [
-      "illegal",
-      2,
-      "anger"
-    ],
-    [
       "poll",
       2,
       "trust"
     ],
     [
-      "warfare",
-      2,
+      "removes",
+      1,
+      "anger"
+    ],
+    [
+      "looms",
+      1,
+      "fear"
+    ],
+    [
+      "difficult",
+      1,
+      "fear"
+    ],
+    [
+      "never",
+      1,
+      "fear"
+    ],
+    [
+      "real",
+      1,
+      "trust"
+    ],
+    [
+      "rebellion",
+      1,
+      "anger"
+    ],
+    [
+      "squelch",
+      1,
       "anger"
     ],
     [
@@ -356,36 +376,16 @@
       "convergence",
       1,
       "anticipation"
-    ],
-    [
-      "truth",
-      1,
-      "trust"
-    ],
-    [
-      "capitalism",
-      1,
-      "disgust"
-    ],
-    [
-      "hopeful",
-      1,
-      "surprise"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 85,
-    "fear": 64,
-    "surprise": 14,
-    "sadness": 16,
+    "fear": 62,
+    "surprise": 13,
+    "sadness": 15,
     "disgust": 6,
-    "anger": 98,
-    "anticipation": 25
+    "anger": 95,
+    "anticipation": 26
   }
 }
