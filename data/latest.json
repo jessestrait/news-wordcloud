@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:38:48.895Z",
+  "generated_at": "2026-09-22T07:39:06.560Z",
   "article_count": 50,
   "top_words": [
     [
@@ -293,6 +293,16 @@
       "anger"
     ],
     [
+      "guards",
+      1,
+      "fear"
+    ],
+    [
+      "change",
+      1,
+      "fear"
+    ],
+    [
       "missing",
       1,
       "fear"
@@ -304,16 +314,6 @@
     ],
     [
       "exposed",
-      1,
-      "fear"
-    ],
-    [
-      "guards",
-      1,
-      "fear"
-    ],
-    [
-      "change",
       1,
       "fear"
     ],
