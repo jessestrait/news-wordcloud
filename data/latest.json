@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-22T10:25:23.919Z",
+  "generated_at": "2026-09-22T10:40:26.360Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      9,
       "anger"
     ],
     [
@@ -18,16 +18,6 @@
       "anger"
     ],
     [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "killed",
       5,
       "fear"
@@ -38,19 +28,24 @@
       "fear"
     ],
     [
-      "agreement",
-      4,
-      "trust"
-    ],
-    [
       "middle",
       4,
       "sadness"
     ],
     [
-      "warn",
+      "iran",
       4,
-      "fear"
+      "anger"
+    ],
+    [
+      "agreement",
+      4,
+      "trust"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "military",
@@ -88,6 +83,11 @@
       "joy"
     ],
     [
+      "warn",
+      3,
+      "fear"
+    ],
+    [
       "death",
       3,
       "sadness"
@@ -118,37 +118,17 @@
       "joy"
     ],
     [
+      "official",
+      2,
+      "trust"
+    ],
+    [
       "accused",
       2,
       "anger"
     ],
     [
       "supporting",
-      2,
-      "trust"
-    ],
-    [
-      "change",
-      2,
-      "fear"
-    ],
-    [
-      "escalates",
-      2,
-      "anger"
-    ],
-    [
-      "conflict",
-      2,
-      "anger"
-    ],
-    [
-      "united",
-      2,
-      "trust"
-    ],
-    [
-      "nations",
       2,
       "trust"
     ],
@@ -298,6 +278,36 @@
       "anger"
     ],
     [
+      "ready",
+      1,
+      "anticipation"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
+    ],
+    [
+      "blockade",
+      1,
+      "anger"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
+      "changes",
+      1,
+      "fear"
+    ],
+    [
       "missing",
       1,
       "fear"
@@ -309,11 +319,6 @@
     ],
     [
       "exposed",
-      1,
-      "fear"
-    ],
-    [
-      "guards",
       1,
       "fear"
     ],
@@ -371,21 +376,16 @@
       "growing",
       1,
       "joy"
-    ],
-    [
-      "sabotage",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 80,
+    "trust": 78,
     "fear": 65,
     "surprise": 11,
     "sadness": 18,
     "disgust": 6,
-    "anger": 106,
-    "anticipation": 23
+    "anger": 103,
+    "anticipation": 24
   }
 }
