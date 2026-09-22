@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:23:46.920Z",
+  "generated_at": "2026-09-22T07:38:48.895Z",
   "article_count": 50,
   "top_words": [
     [
@@ -76,11 +76,6 @@
       "leader",
       4,
       "trust"
-    ],
-    [
-      "risk",
-      3,
-      "fear"
     ],
     [
       "death",
@@ -164,6 +159,11 @@
     ],
     [
       "intelligence",
+      2,
+      "fear"
+    ],
+    [
+      "risk",
       2,
       "fear"
     ],
@@ -293,6 +293,21 @@
       "anger"
     ],
     [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
+      "secrets",
+      1,
+      "trust"
+    ],
+    [
+      "exposed",
+      1,
+      "fear"
+    ],
+    [
       "guards",
       1,
       "fear"
@@ -361,31 +376,16 @@
       "supporting",
       1,
       "trust"
-    ],
-    [
-      "grief",
-      1,
-      "sadness"
-    ],
-    [
-      "solidarity",
-      1,
-      "trust"
-    ],
-    [
-      "mourns",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 79,
-    "fear": 67,
+    "trust": 80,
+    "fear": 68,
     "surprise": 13,
-    "sadness": 19,
+    "sadness": 18,
     "disgust": 6,
-    "anger": 109,
+    "anger": 108,
     "anticipation": 23
   }
 }
