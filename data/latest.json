@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:14:44.878Z",
+  "generated_at": "2026-09-22T17:29:47.837Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "trust"
     ],
     [
+      "trade",
+      5,
+      "trust"
+    ],
+    [
       "middle",
       4,
       "sadness"
-    ],
-    [
-      "deal",
-      4,
-      "surprise"
     ],
     [
       "assembly",
@@ -48,24 +48,9 @@
       "trust"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
-      "agreement",
-      4,
-      "trust"
-    ],
-    [
       "warning",
       4,
       "fear"
-    ],
-    [
-      "trade",
-      4,
-      "trust"
     ],
     [
       "changed",
@@ -88,6 +73,11 @@
       "fear"
     ],
     [
+      "deal",
+      3,
+      "surprise"
+    ],
+    [
       "president",
       3,
       "trust"
@@ -98,9 +88,19 @@
       "anticipation"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "seeks",
       3,
       "anticipation"
+    ],
+    [
+      "agreement",
+      3,
+      "trust"
     ],
     [
       "family",
@@ -173,14 +173,14 @@
       "joy"
     ],
     [
-      "threats",
-      2,
-      "anger"
-    ],
-    [
       "growing",
       2,
       "joy"
+    ],
+    [
+      "daily",
+      2,
+      "anticipation"
     ],
     [
       "media",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 85,
-    "fear": 62,
-    "surprise": 13,
+    "trust": 84,
+    "fear": 61,
+    "surprise": 12,
     "sadness": 15,
     "disgust": 6,
-    "anger": 95,
-    "anticipation": 26
+    "anger": 94,
+    "anticipation": 28
   }
 }
