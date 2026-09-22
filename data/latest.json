@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-22T15:13:50.903Z",
+  "generated_at": "2026-09-22T15:28:53.902Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      9,
       "anger"
     ],
     [
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "general",
+      5,
+      "trust"
+    ],
+    [
       "iran",
       5,
       "anger"
@@ -38,14 +43,14 @@
       "fear"
     ],
     [
+      "assembly",
+      4,
+      "trust"
+    ],
+    [
       "middle",
       4,
       "sadness"
-    ],
-    [
-      "general",
-      4,
-      "trust"
     ],
     [
       "warning",
@@ -76,11 +81,6 @@
       "deal",
       3,
       "surprise"
-    ],
-    [
-      "assembly",
-      3,
-      "trust"
     ],
     [
       "fighting",
@@ -136,6 +136,11 @@
       "agreement",
       3,
       "trust"
+    ],
+    [
+      "killing",
+      2,
+      "anger"
     ],
     [
       "seeks",
@@ -288,9 +293,14 @@
       "anger"
     ],
     [
-      "arrives",
+      "build",
       1,
       "anticipation"
+    ],
+    [
+      "bases",
+      1,
+      "trust"
     ],
     [
       "battle",
@@ -366,21 +376,11 @@
       "bizarre",
       1,
       "surprise"
-    ],
-    [
-      "blitz",
-      1,
-      "surprise"
-    ],
-    [
-      "leaves",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 83,
+    "trust": 86,
     "fear": 61,
     "surprise": 13,
     "sadness": 16,
