@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-09-22T01:35:38.502Z",
+  "generated_at": "2026-09-22T01:50:40.660Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       10,
+      "anger"
+    ],
+    [
+      "attack",
+      7,
       "anger"
     ],
     [
@@ -16,11 +21,6 @@
       "people",
       6,
       "trust"
-    ],
-    [
-      "attack",
-      6,
-      "anger"
     ],
     [
       "trump",
@@ -48,11 +48,6 @@
       "trust"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "changed",
       4,
       "fear"
@@ -66,6 +61,21 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "deal",
+      3,
+      "surprise"
+    ],
+    [
+      "warning",
+      3,
+      "fear"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "chancellor",
@@ -106,11 +116,6 @@
       "middle",
       3,
       "sadness"
-    ],
-    [
-      "poll",
-      3,
-      "trust"
     ],
     [
       "agreement",
@@ -163,19 +168,9 @@
       "trust"
     ],
     [
-      "united",
-      2,
-      "trust"
-    ],
-    [
       "victory",
       2,
       "joy"
-    ],
-    [
-      "warning",
-      2,
-      "fear"
     ],
     [
       "black",
@@ -233,14 +228,14 @@
       "anger"
     ],
     [
+      "poll",
+      2,
+      "trust"
+    ],
+    [
       "fighting",
       2,
       "anger"
-    ],
-    [
-      "deal",
-      2,
-      "surprise"
     ],
     [
       "warfare",
@@ -251,11 +246,6 @@
       "error",
       2,
       "sadness"
-    ],
-    [
-      "anti",
-      2,
-      "anger"
     ],
     [
       "forces",
@@ -276,6 +266,26 @@
       "lose",
       2,
       "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
+    ],
+    [
+      "top",
+      1,
+      "trust"
+    ],
+    [
+      "kill",
+      1,
+      "fear"
+    ],
+    [
+      "sounds",
+      1,
+      "joy"
     ],
     [
       "lawyer",
@@ -366,26 +376,16 @@
       "seeking",
       1,
       "anticipation"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 78,
-    "fear": 60,
-    "surprise": 9,
+    "joy": 24,
+    "trust": 76,
+    "fear": 62,
+    "surprise": 10,
     "sadness": 15,
     "disgust": 4,
-    "anger": 112,
+    "anger": 110,
     "anticipation": 23
   }
 }
