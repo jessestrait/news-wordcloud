@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T08:54:33.922Z",
+  "generated_at": "2026-09-22T09:09:36.172Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "trust"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "fire",
       5,
       "fear"
@@ -46,6 +41,11 @@
       "middle",
       4,
       "sadness"
+    ],
+    [
+      "home",
+      4,
+      "joy"
     ],
     [
       "warn",
@@ -66,6 +66,11 @@
       "changed",
       4,
       "fear"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "loss",
@@ -91,11 +96,6 @@
       "chancellor",
       3,
       "trust"
-    ],
-    [
-      "home",
-      3,
-      "joy"
     ],
     [
       "letters",
@@ -238,9 +238,9 @@
       "fear"
     ],
     [
-      "row",
+      "beach",
       2,
-      "anger"
+      "joy"
     ],
     [
       "panic",
@@ -256,11 +256,6 @@
       "result",
       2,
       "anticipation"
-    ],
-    [
-      "rules",
-      2,
-      "fear"
     ],
     [
       "illegal",
@@ -299,6 +294,11 @@
     ],
     [
       "change",
+      1,
+      "fear"
+    ],
+    [
+      "highest",
       1,
       "fear"
     ],
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 80,
-    "fear": 68,
+    "joy": 27,
+    "trust": 78,
+    "fear": 67,
     "surprise": 13,
     "sadness": 18,
     "disgust": 6,
-    "anger": 108,
+    "anger": 104,
     "anticipation": 23
   }
 }
