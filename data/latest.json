@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-22T14:43:27.505Z",
+  "generated_at": "2026-09-22T14:58:30.001Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      10,
       "anger"
     ],
     [
       "trump",
-      7,
+      8,
       "anger"
     ],
     [
@@ -18,24 +18,19 @@
       "anger"
     ],
     [
-      "world",
-      6,
-      "trust"
-    ],
-    [
-      "general",
-      6,
-      "trust"
-    ],
-    [
       "killed",
       6,
       "fear"
     ],
     [
-      "leader",
+      "president",
       5,
       "trust"
+    ],
+    [
+      "iran",
+      5,
+      "anger"
     ],
     [
       "fire",
@@ -43,24 +38,14 @@
       "fear"
     ],
     [
-      "assembly",
+      "middle",
+      4,
+      "sadness"
+    ],
+    [
+      "general",
       4,
       "trust"
-    ],
-    [
-      "president",
-      4,
-      "trust"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
-      "warn",
-      4,
-      "fear"
     ],
     [
       "warning",
@@ -83,14 +68,39 @@
       "trust"
     ],
     [
+      "leader",
+      4,
+      "trust"
+    ],
+    [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
+      "assembly",
+      3,
+      "trust"
+    ],
+    [
       "fighting",
       3,
       "anger"
     ],
     [
+      "world",
+      3,
+      "trust"
+    ],
+    [
       "home",
       3,
       "joy"
+    ],
+    [
+      "warn",
+      3,
+      "fear"
     ],
     [
       "death",
@@ -123,19 +133,9 @@
       "joy"
     ],
     [
-      "middle",
-      3,
-      "sadness"
-    ],
-    [
       "agreement",
       3,
       "trust"
-    ],
-    [
-      "problems",
-      2,
-      "fear"
     ],
     [
       "seeks",
@@ -151,11 +151,6 @@
       "humanity",
       2,
       "joy"
-    ],
-    [
-      "threats",
-      2,
-      "anger"
     ],
     [
       "growing",
@@ -293,19 +288,19 @@
       "anger"
     ],
     [
-      "fault",
-      1,
-      "sadness"
-    ],
-    [
-      "lines",
-      1,
-      "fear"
-    ],
-    [
       "arrives",
       1,
       "anticipation"
+    ],
+    [
+      "annihilate",
+      1,
+      "anger"
+    ],
+    [
+      "hell",
+      1,
+      "anger"
     ],
     [
       "battle",
@@ -326,6 +321,11 @@
       "forces",
       1,
       "anger"
+    ],
+    [
+      "problems",
+      1,
+      "fear"
     ],
     [
       "unprecedented",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 89,
-    "fear": 64,
+    "trust": 83,
+    "fear": 61,
     "surprise": 12,
     "sadness": 16,
     "disgust": 7,
-    "anger": 98,
+    "anger": 104,
     "anticipation": 24
   }
 }
