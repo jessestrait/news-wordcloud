@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:59:18.041Z",
+  "generated_at": "2026-09-22T16:14:20.435Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "trump",
-      8,
+      7,
       "anger"
     ],
     [
@@ -21,11 +21,6 @@
       "killed",
       6,
       "fear"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "general",
@@ -43,6 +38,21 @@
       "fear"
     ],
     [
+      "military",
+      4,
+      "fear"
+    ],
+    [
+      "deal",
+      4,
+      "surprise"
+    ],
+    [
+      "agreement",
+      4,
+      "trust"
+    ],
+    [
       "assembly",
       4,
       "trust"
@@ -51,6 +61,11 @@
       "middle",
       4,
       "sadness"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "warning",
@@ -78,9 +93,9 @@
       "trust"
     ],
     [
-      "deal",
+      "seeks",
       3,
-      "surprise"
+      "anticipation"
     ],
     [
       "death",
@@ -113,11 +128,6 @@
       "fear"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "chancellor",
       3,
       "trust"
@@ -138,12 +148,7 @@
       "joy"
     ],
     [
-      "agreement",
-      3,
-      "trust"
-    ],
-    [
-      "killing",
+      "tensions",
       2,
       "anger"
     ],
@@ -151,11 +156,6 @@
       "lawyer",
       2,
       "anger"
-    ],
-    [
-      "seeks",
-      2,
-      "anticipation"
     ],
     [
       "gains",
@@ -298,6 +298,11 @@
       "trust"
     ],
     [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
       "guilty",
       1,
       "anger"
@@ -371,21 +376,16 @@
       "missing",
       1,
       "fear"
-    ],
-    [
-      "secrets",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 84,
-    "fear": 63,
-    "surprise": 13,
+    "trust": 85,
+    "fear": 64,
+    "surprise": 14,
     "sadness": 16,
     "disgust": 6,
-    "anger": 99,
-    "anticipation": 24
+    "anger": 98,
+    "anticipation": 25
   }
 }
