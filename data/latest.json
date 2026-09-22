@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:13:01.292Z",
+  "generated_at": "2026-09-22T14:28:03.947Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "killed",
-      6,
-      "fear"
-    ],
-    [
       "world",
       6,
       "trust"
@@ -31,6 +26,11 @@
       "general",
       6,
       "trust"
+    ],
+    [
+      "killed",
+      6,
+      "fear"
     ],
     [
       "president",
@@ -48,14 +48,14 @@
       "fear"
     ],
     [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
       "assembly",
       4,
       "trust"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
     ],
     [
       "warn",
@@ -133,6 +133,11 @@
       "trust"
     ],
     [
+      "problems",
+      2,
+      "fear"
+    ],
+    [
       "seeks",
       2,
       "anticipation"
@@ -141,11 +146,6 @@
       "gains",
       2,
       "joy"
-    ],
-    [
-      "problems",
-      2,
-      "fear"
     ],
     [
       "humanity",
@@ -298,6 +298,16 @@
       "anticipation"
     ],
     [
+      "fault",
+      1,
+      "sadness"
+    ],
+    [
+      "lines",
+      1,
+      "fear"
+    ],
+    [
       "battle",
       1,
       "anger"
@@ -316,16 +326,6 @@
       "forces",
       1,
       "anger"
-    ],
-    [
-      "fault",
-      1,
-      "sadness"
-    ],
-    [
-      "lines",
-      1,
-      "fear"
     ],
     [
       "unprecedented",
