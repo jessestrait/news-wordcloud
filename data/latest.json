@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T12:57:24.603Z",
+  "generated_at": "2026-09-22T13:12:28.421Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "trust"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "trade",
       4,
       "trust"
@@ -98,6 +93,11 @@
       "fear"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "chancellor",
       3,
       "trust"
@@ -116,6 +116,11 @@
       "vow",
       3,
       "joy"
+    ],
+    [
+      "general",
+      2,
+      "trust"
     ],
     [
       "accused",
@@ -273,9 +278,24 @@
       "sadness"
     ],
     [
-      "forces",
-      2,
-      "anger"
+      "truth",
+      1,
+      "trust"
+    ],
+    [
+      "capitalism",
+      1,
+      "disgust"
+    ],
+    [
+      "hopeful",
+      1,
+      "surprise"
+    ],
+    [
+      "assembly",
+      1,
+      "trust"
     ],
     [
       "changes",
@@ -356,36 +376,16 @@
       "chances",
       1,
       "surprise"
-    ],
-    [
-      "uplifting",
-      1,
-      "joy"
-    ],
-    [
-      "thinks",
-      1,
-      "trust"
-    ],
-    [
-      "preparing",
-      1,
-      "anticipation"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 78,
-    "fear": 65,
+    "trust": 80,
+    "fear": 62,
     "surprise": 11,
     "sadness": 18,
-    "disgust": 6,
-    "anger": 103,
-    "anticipation": 24
+    "disgust": 7,
+    "anger": 100,
+    "anticipation": 23
   }
 }
