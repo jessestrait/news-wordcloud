@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:28:25.208Z",
+  "generated_at": "2026-09-22T14:43:27.505Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "fear"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "leader",
       5,
       "trust"
@@ -53,12 +48,22 @@
       "trust"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "iran",
       4,
       "anger"
     ],
     [
       "warn",
+      4,
+      "fear"
+    ],
+    [
+      "warning",
       4,
       "fear"
     ],
@@ -78,11 +83,6 @@
       "trust"
     ],
     [
-      "loss",
-      4,
-      "anger"
-    ],
-    [
       "fighting",
       3,
       "anger"
@@ -98,11 +98,6 @@
       "sadness"
     ],
     [
-      "warning",
-      3,
-      "fear"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -111,6 +106,11 @@
       "chancellor",
       3,
       "trust"
+    ],
+    [
+      "loss",
+      3,
+      "anger"
     ],
     [
       "prison",
@@ -293,11 +293,6 @@
       "anger"
     ],
     [
-      "arrives",
-      1,
-      "anticipation"
-    ],
-    [
       "fault",
       1,
       "sadness"
@@ -306,6 +301,11 @@
       "lines",
       1,
       "fear"
+    ],
+    [
+      "arrives",
+      1,
+      "anticipation"
     ],
     [
       "battle",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 90,
+    "trust": 89,
     "fear": 64,
-    "surprise": 11,
+    "surprise": 12,
     "sadness": 16,
     "disgust": 7,
-    "anger": 100,
+    "anger": 98,
     "anticipation": 24
   }
 }
