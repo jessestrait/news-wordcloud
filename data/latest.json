@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:29:22.826Z",
+  "generated_at": "2026-09-22T16:44:25.337Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "fear"
     ],
     [
-      "general",
-      5,
-      "trust"
-    ],
-    [
       "iran",
       5,
       "anger"
+    ],
+    [
+      "general",
+      5,
+      "trust"
     ],
     [
       "fire",
@@ -38,9 +38,9 @@
       "fear"
     ],
     [
-      "military",
+      "middle",
       4,
-      "fear"
+      "sadness"
     ],
     [
       "deal",
@@ -48,7 +48,7 @@
       "surprise"
     ],
     [
-      "agreement",
+      "president",
       4,
       "trust"
     ],
@@ -58,12 +58,12 @@
       "trust"
     ],
     [
-      "middle",
+      "military",
       4,
-      "sadness"
+      "fear"
     ],
     [
-      "president",
+      "agreement",
       4,
       "trust"
     ],
