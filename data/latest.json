@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:28:53.902Z",
+  "generated_at": "2026-09-22T15:43:56.577Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,6 +78,16 @@
       "trust"
     ],
     [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
+      "family",
+      3,
+      "joy"
+    ],
+    [
       "deal",
       3,
       "surprise"
@@ -101,11 +111,6 @@
       "warn",
       3,
       "fear"
-    ],
-    [
-      "death",
-      3,
-      "sadness"
     ],
     [
       "military",
@@ -139,6 +144,11 @@
     ],
     [
       "killing",
+      2,
+      "anger"
+    ],
+    [
+      "lawyer",
       2,
       "anger"
     ],
@@ -188,16 +198,6 @@
       "fear"
     ],
     [
-      "lawyer",
-      2,
-      "anger"
-    ],
-    [
-      "system",
-      2,
-      "trust"
-    ],
-    [
       "struggle",
       2,
       "anger"
@@ -221,11 +221,6 @@
       "police",
       2,
       "fear"
-    ],
-    [
-      "family",
-      2,
-      "joy"
     ],
     [
       "authorities",
@@ -303,6 +298,26 @@
       "trust"
     ],
     [
+      "guilty",
+      1,
+      "anger"
+    ],
+    [
+      "fall",
+      1,
+      "sadness"
+    ],
+    [
+      "avoid",
+      1,
+      "fear"
+    ],
+    [
+      "harrowing",
+      1,
+      "fear"
+    ],
+    [
       "battle",
       1,
       "anger"
@@ -361,31 +376,16 @@
       "secrets",
       1,
       "trust"
-    ],
-    [
-      "exposed",
-      1,
-      "fear"
-    ],
-    [
-      "highest",
-      1,
-      "fear"
-    ],
-    [
-      "bizarre",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 86,
-    "fear": 61,
+    "joy": 29,
+    "trust": 84,
+    "fear": 63,
     "surprise": 13,
     "sadness": 16,
-    "disgust": 7,
-    "anger": 101,
+    "disgust": 6,
+    "anger": 99,
     "anticipation": 24
   }
 }
