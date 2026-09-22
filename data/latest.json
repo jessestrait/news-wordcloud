@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T13:27:32.107Z",
+  "generated_at": "2026-09-22T13:42:36.354Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,16 @@
       "anger"
     ],
     [
+      "world",
+      6,
+      "trust"
+    ],
+    [
+      "general",
+      6,
+      "trust"
+    ],
+    [
       "trump",
       6,
       "anger"
@@ -23,9 +33,19 @@
       "fear"
     ],
     [
+      "leader",
+      5,
+      "trust"
+    ],
+    [
       "fire",
       5,
       "fear"
+    ],
+    [
+      "assembly",
+      4,
+      "trust"
     ],
     [
       "agreement",
@@ -33,19 +53,14 @@
       "trust"
     ],
     [
-      "middle",
-      4,
-      "sadness"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
       "president",
       4,
       "trust"
+    ],
+    [
+      "warn",
+      4,
+      "fear"
     ],
     [
       "trade",
@@ -68,19 +83,9 @@
       "anger"
     ],
     [
-      "leader",
-      4,
-      "trust"
-    ],
-    [
       "home",
       3,
       "joy"
-    ],
-    [
-      "warn",
-      3,
-      "fear"
     ],
     [
       "death",
@@ -118,6 +123,21 @@
       "joy"
     ],
     [
+      "middle",
+      3,
+      "sadness"
+    ],
+    [
+      "iran",
+      3,
+      "anger"
+    ],
+    [
+      "problems",
+      2,
+      "fear"
+    ],
+    [
       "accused",
       2,
       "anger"
@@ -128,24 +148,24 @@
       "trust"
     ],
     [
-      "official",
+      "humanity",
       2,
-      "trust"
+      "joy"
     ],
     [
-      "general",
+      "threats",
       2,
-      "trust"
+      "anger"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "media",
       2,
       "disgust"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "top",
@@ -273,9 +293,14 @@
       "anger"
     ],
     [
-      "error",
-      2,
+      "fault",
+      1,
       "sadness"
+    ],
+    [
+      "lines",
+      1,
+      "fear"
     ],
     [
       "changes",
@@ -283,29 +308,14 @@
       "fear"
     ],
     [
-      "ready",
+      "unprecedented",
+      1,
+      "surprise"
+    ],
+    [
+      "convergence",
       1,
       "anticipation"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
-    ],
-    [
-      "blockade",
-      1,
-      "anger"
-    ],
-    [
-      "supplies",
-      1,
-      "fear"
     ],
     [
       "truth",
@@ -321,11 +331,6 @@
       "hopeful",
       1,
       "surprise"
-    ],
-    [
-      "assembly",
-      1,
-      "trust"
     ],
     [
       "missing",
@@ -371,21 +376,16 @@
       "achievements",
       1,
       "joy"
-    ],
-    [
-      "chances",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 80,
-    "fear": 62,
+    "joy": 28,
+    "trust": 91,
+    "fear": 63,
     "surprise": 11,
-    "sadness": 18,
+    "sadness": 16,
     "disgust": 7,
-    "anger": 100,
+    "anger": 98,
     "anticipation": 23
   }
 }
