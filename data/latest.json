@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:58:30.001Z",
+  "generated_at": "2026-09-22T15:13:32.603Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,9 +73,9 @@
       "trust"
     ],
     [
-      "threat",
+      "deal",
       3,
-      "anger"
+      "surprise"
     ],
     [
       "assembly",
@@ -153,6 +153,11 @@
       "joy"
     ],
     [
+      "threats",
+      2,
+      "anger"
+    ],
+    [
       "growing",
       2,
       "joy"
@@ -186,11 +191,6 @@
       "system",
       2,
       "trust"
-    ],
-    [
-      "deal",
-      2,
-      "surprise"
     ],
     [
       "struggle",
@@ -293,16 +293,6 @@
       "anticipation"
     ],
     [
-      "annihilate",
-      1,
-      "anger"
-    ],
-    [
-      "hell",
-      1,
-      "anger"
-    ],
-    [
       "battle",
       1,
       "anger"
@@ -376,16 +366,26 @@
       "bizarre",
       1,
       "surprise"
+    ],
+    [
+      "blitz",
+      1,
+      "surprise"
+    ],
+    [
+      "leaves",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 83,
     "fear": 61,
-    "surprise": 12,
+    "surprise": 13,
     "sadness": 16,
     "disgust": 7,
-    "anger": 104,
+    "anger": 101,
     "anticipation": 24
   }
 }
