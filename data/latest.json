@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-23T12:10:57.510Z",
+  "generated_at": "2026-09-23T12:26:00.000Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      10,
+      11,
       "anger"
     ],
     [
@@ -43,6 +43,11 @@
       "fear"
     ],
     [
+      "trade",
+      4,
+      "trust"
+    ],
+    [
       "police",
       4,
       "fear"
@@ -63,7 +68,7 @@
       "trust"
     ],
     [
-      "trade",
+      "leader",
       4,
       "trust"
     ],
@@ -73,14 +78,14 @@
       "fear"
     ],
     [
-      "home",
-      3,
-      "joy"
-    ],
-    [
       "strikes",
       3,
       "anger"
+    ],
+    [
+      "home",
+      3,
+      "joy"
     ],
     [
       "top",
@@ -88,17 +93,7 @@
       "trust"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
       "happened",
-      3,
-      "anticipation"
-    ],
-    [
-      "letter",
       3,
       "anticipation"
     ],
@@ -131,6 +126,11 @@
       "vow",
       3,
       "joy"
+    ],
+    [
+      "emergency",
+      2,
+      "fear"
     ],
     [
       "government",
@@ -178,9 +178,9 @@
       "anger"
     ],
     [
-      "politics",
+      "letter",
       2,
-      "anger"
+      "anticipation"
     ],
     [
       "military",
@@ -288,9 +288,9 @@
       "joy"
     ],
     [
-      "slave",
-      2,
-      "anger"
+      "second",
+      1,
+      "trust"
     ],
     [
       "protesters",
@@ -321,11 +321,6 @@
       "barbaric",
       1,
       "anger"
-    ],
-    [
-      "second",
-      1,
-      "trust"
     ],
     [
       "denies",
@@ -376,16 +371,21 @@
       "pledges",
       1,
       "joy"
+    ],
+    [
+      "criminal",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 73,
-    "fear": 62,
+    "trust": 72,
+    "fear": 63,
     "surprise": 16,
     "sadness": 12,
     "disgust": 6,
-    "anger": 94,
-    "anticipation": 24
+    "anger": 92,
+    "anticipation": 23
   }
 }
