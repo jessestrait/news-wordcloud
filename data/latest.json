@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:29:08.166Z",
+  "generated_at": "2026-09-23T17:44:10.410Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
+      "president",
+      8,
+      "trust"
+    ],
+    [
       "deal",
       8,
       "surprise"
-    ],
-    [
-      "president",
-      7,
-      "trust"
     ],
     [
       "iran",
@@ -68,11 +68,6 @@
       "fear"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
       "force",
       3,
       "anger"
@@ -118,7 +113,7 @@
       "anger"
     ],
     [
-      "mind",
+      "united",
       2,
       "trust"
     ],
@@ -128,7 +123,7 @@
       "trust"
     ],
     [
-      "united",
+      "mind",
       2,
       "trust"
     ],
@@ -176,6 +171,11 @@
       "court",
       2,
       "anger"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
     ],
     [
       "official",
@@ -268,16 +268,6 @@
       "joy"
     ],
     [
-      "changes",
-      1,
-      "fear"
-    ],
-    [
-      "progress",
-      1,
-      "joy"
-    ],
-    [
       "victims",
       1,
       "anger"
@@ -291,6 +281,16 @@
       "defended",
       1,
       "trust"
+    ],
+    [
+      "revived",
+      1,
+      "anticipation"
+    ],
+    [
+      "changes",
+      1,
+      "fear"
     ],
     [
       "bully",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 26,
     "trust": 77,
     "fear": 59,
     "surprise": 18,
     "sadness": 10,
     "disgust": 6,
     "anger": 90,
-    "anticipation": 27
+    "anticipation": 28
   }
 }
