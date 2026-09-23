@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:47:40.194Z",
+  "generated_at": "2026-09-23T23:02:42.326Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "president",
-      9,
+      8,
       "trust"
     ],
     [
@@ -18,24 +18,19 @@
       "surprise"
     ],
     [
-      "general",
-      6,
-      "trust"
-    ],
-    [
-      "assembly",
-      5,
-      "trust"
-    ],
-    [
       "iran",
-      5,
+      6,
       "anger"
     ],
     [
       "war",
-      5,
+      6,
       "anger"
+    ],
+    [
+      "general",
+      5,
+      "trust"
     ],
     [
       "world",
@@ -51,6 +46,11 @@
       "seek",
       4,
       "anticipation"
+    ],
+    [
+      "assembly",
+      4,
+      "trust"
     ],
     [
       "attack",
@@ -74,6 +74,11 @@
     ],
     [
       "leader",
+      3,
+      "trust"
+    ],
+    [
+      "trade",
       3,
       "trust"
     ],
@@ -213,11 +218,6 @@
       "joy"
     ],
     [
-      "trade",
-      2,
-      "trust"
-    ],
-    [
       "daily",
       2,
       "anticipation"
@@ -266,6 +266,11 @@
       "personal",
       1,
       "trust"
+    ],
+    [
+      "dominated",
+      1,
+      "anger"
     ],
     [
       "poisonous",
@@ -371,21 +376,16 @@
       "protesters",
       1,
       "anger"
-    ],
-    [
-      "disabled",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 80,
+    "trust": 78,
     "fear": 57,
     "surprise": 18,
     "sadness": 10,
     "disgust": 7,
-    "anger": 86,
+    "anger": 89,
     "anticipation": 28
   }
 }
