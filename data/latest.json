@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-09-23T10:40:08.276Z",
+  "generated_at": "2026-09-23T10:55:10.958Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      9,
+      10,
+      "anger"
+    ],
+    [
+      "iran",
+      7,
       "anger"
     ],
     [
@@ -16,11 +21,6 @@
       "general",
       6,
       "trust"
-    ],
-    [
-      "iran",
-      6,
-      "anger"
     ],
     [
       "war",
@@ -99,11 +99,6 @@
     ],
     [
       "family",
-      3,
-      "joy"
-    ],
-    [
-      "home",
       3,
       "joy"
     ],
@@ -203,6 +198,11 @@
       "anger"
     ],
     [
+      "fall",
+      2,
+      "sadness"
+    ],
+    [
       "humanity",
       2,
       "joy"
@@ -216,6 +216,11 @@
       "daily",
       2,
       "anticipation"
+    ],
+    [
+      "home",
+      2,
+      "joy"
     ],
     [
       "intelligence",
@@ -293,9 +298,14 @@
       "anger"
     ],
     [
-      "result",
-      2,
-      "anticipation"
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "crude",
+      1,
+      "disgust"
     ],
     [
       "present",
@@ -366,26 +376,16 @@
       "threatens",
       1,
       "anger"
-    ],
-    [
-      "harvests",
-      1,
-      "joy"
-    ],
-    [
-      "hails",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 29,
     "trust": 76,
     "fear": 64,
     "surprise": 17,
     "sadness": 11,
-    "disgust": 5,
-    "anger": 88,
-    "anticipation": 25
+    "disgust": 6,
+    "anger": 91,
+    "anticipation": 24
   }
 }
