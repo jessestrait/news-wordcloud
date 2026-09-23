@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:21:10.474Z",
+  "generated_at": "2026-09-23T03:36:12.514Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "anger"
     ],
     [
-      "trump",
-      8,
+      "war",
+      7,
       "anger"
     ],
     [
-      "war",
+      "trump",
       7,
       "anger"
     ],
@@ -83,11 +83,6 @@
       "anticipation"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "seeks",
       3,
       "anticipation"
@@ -128,6 +123,11 @@
       "joy"
     ],
     [
+      "hope",
+      2,
+      "surprise"
+    ],
+    [
       "slavery",
       2,
       "anger"
@@ -163,14 +163,14 @@
       "anger"
     ],
     [
+      "military",
+      2,
+      "fear"
+    ],
+    [
       "tensions",
       2,
       "anger"
-    ],
-    [
-      "agreement",
-      2,
-      "trust"
     ],
     [
       "death",
@@ -293,6 +293,26 @@
       "trust"
     ],
     [
+      "resistant",
+      1,
+      "fear"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
+      "harvests",
+      1,
+      "joy"
+    ],
+    [
       "hails",
       1,
       "trust"
@@ -356,36 +376,16 @@
       "hurricane",
       1,
       "fear"
-    ],
-    [
-      "rages",
-      1,
-      "anger"
-    ],
-    [
-      "removes",
-      1,
-      "anger"
-    ],
-    [
-      "looms",
-      1,
-      "fear"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 80,
-    "fear": 64,
-    "surprise": 15,
+    "joy": 30,
+    "trust": 78,
+    "fear": 65,
+    "surprise": 16,
     "sadness": 11,
     "disgust": 5,
     "anger": 93,
-    "anticipation": 30
+    "anticipation": 29
   }
 }
