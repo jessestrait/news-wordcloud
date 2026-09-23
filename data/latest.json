@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T13:26:48.143Z",
+  "generated_at": "2026-09-23T13:41:50.817Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "anger"
     ],
     [
-      "deal",
-      8,
-      "surprise"
-    ],
-    [
       "president",
       7,
       "trust"
@@ -26,6 +21,11 @@
       "general",
       7,
       "trust"
+    ],
+    [
+      "deal",
+      7,
+      "surprise"
     ],
     [
       "assembly",
@@ -113,14 +113,14 @@
       "joy"
     ],
     [
-      "hails",
-      2,
-      "trust"
-    ],
-    [
       "jail",
       2,
       "fear"
+    ],
+    [
+      "hails",
+      2,
+      "trust"
     ],
     [
       "government",
@@ -303,11 +303,6 @@
       "anticipation"
     ],
     [
-      "agreed",
-      1,
-      "trust"
-    ],
-    [
       "protesters",
       1,
       "anger"
@@ -376,13 +371,18 @@
       "tackle",
       1,
       "anger"
+    ],
+    [
+      "fragile",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 76,
+    "trust": 75,
     "fear": 63,
-    "surprise": 17,
+    "surprise": 16,
     "sadness": 12,
     "disgust": 6,
     "anger": 92,
