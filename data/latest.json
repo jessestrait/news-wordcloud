@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:16:27.288Z",
+  "generated_at": "2026-09-23T20:31:29.349Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,24 +18,24 @@
       "surprise"
     ],
     [
-      "iran",
-      6,
-      "anger"
-    ],
-    [
       "war",
-      5,
+      7,
       "anger"
     ],
     [
       "general",
+      6,
+      "trust"
+    ],
+    [
+      "assembly",
       5,
       "trust"
     ],
     [
-      "people",
-      4,
-      "trust"
+      "iran",
+      5,
+      "anger"
     ],
     [
       "police",
@@ -46,11 +46,6 @@
       "seek",
       4,
       "anticipation"
-    ],
-    [
-      "assembly",
-      4,
-      "trust"
     ],
     [
       "attack",
@@ -103,14 +98,14 @@
       "fear"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "loss",
       3,
       "anger"
-    ],
-    [
-      "united",
-      2,
-      "trust"
     ],
     [
       "agreement",
@@ -263,17 +258,7 @@
       "joy"
     ],
     [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "defended",
+      "delegates",
       1,
       "trust"
     ],
@@ -376,6 +361,21 @@
       "interim",
       1,
       "anticipation"
+    ],
+    [
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "disabled",
+      1,
+      "fear"
+    ],
+    [
+      "evicted",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 18,
     "sadness": 10,
     "disgust": 7,
-    "anger": 89,
+    "anger": 88,
     "anticipation": 28
   }
 }
