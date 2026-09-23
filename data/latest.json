@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T15:58:18.854Z",
+  "generated_at": "2026-09-23T16:13:21.653Z",
   "article_count": 50,
   "top_words": [
     [
@@ -111,6 +111,11 @@
       "vow",
       3,
       "joy"
+    ],
+    [
+      "case",
+      2,
+      "fear"
     ],
     [
       "jail",
@@ -263,14 +268,29 @@
       "joy"
     ],
     [
-      "die",
-      2,
-      "fear"
+      "sentenced",
+      1,
+      "anger"
     ],
     [
-      "beach",
-      2,
-      "joy"
+      "assault",
+      1,
+      "anger"
+    ],
+    [
+      "sentencing",
+      1,
+      "anger"
+    ],
+    [
+      "appeals",
+      1,
+      "anticipation"
+    ],
+    [
+      "production",
+      1,
+      "anticipation"
     ],
     [
       "terrorists",
@@ -356,36 +376,16 @@
       "crude",
       1,
       "disgust"
-    ],
-    [
-      "officer",
-      1,
-      "trust"
-    ],
-    [
-      "raping",
-      1,
-      "anger"
-    ],
-    [
-      "cases",
-      1,
-      "fear"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 30,
     "trust": 73,
     "fear": 59,
     "surprise": 17,
     "sadness": 12,
     "disgust": 6,
-    "anger": 97,
-    "anticipation": 24
+    "anger": 95,
+    "anticipation": 26
   }
 }
