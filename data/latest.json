@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:32:38.169Z",
+  "generated_at": "2026-09-23T22:47:40.194Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,12 +19,12 @@
     ],
     [
       "general",
-      7,
+      6,
       "trust"
     ],
     [
       "assembly",
-      6,
+      5,
       "trust"
     ],
     [
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 82,
+    "trust": 80,
     "fear": 57,
     "surprise": 18,
     "sadness": 10,
