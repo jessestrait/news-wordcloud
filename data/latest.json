@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:01:25.197Z",
+  "generated_at": "2026-09-23T20:16:27.288Z",
   "article_count": 50,
   "top_words": [
     [
@@ -263,6 +263,21 @@
       "joy"
     ],
     [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
+      "terrorism",
+      1,
+      "anger"
+    ],
+    [
+      "defended",
+      1,
+      "trust"
+    ],
+    [
       "poisonous",
       1,
       "anger"
@@ -281,21 +296,6 @@
       "deceitful",
       1,
       "disgust"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "defended",
-      1,
-      "trust"
     ],
     [
       "revived",
