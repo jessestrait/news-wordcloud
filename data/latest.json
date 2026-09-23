@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:13:40.703Z",
+  "generated_at": "2026-09-23T16:28:43.179Z",
   "article_count": 50,
   "top_words": [
     [
@@ -106,11 +106,6 @@
       "loss",
       3,
       "anger"
-    ],
-    [
-      "vow",
-      3,
-      "joy"
     ],
     [
       "case",
@@ -253,7 +248,7 @@
       "anger"
     ],
     [
-      "victory",
+      "vow",
       2,
       "joy"
     ],
@@ -266,6 +261,26 @@
       "grow",
       2,
       "joy"
+    ],
+    [
+      "terrorists",
+      1,
+      "anger"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
+      "terrorism",
+      1,
+      "anger"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
     ],
     [
       "sentenced",
@@ -291,21 +306,6 @@
       "production",
       1,
       "anticipation"
-    ],
-    [
-      "terrorists",
-      1,
-      "anger"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
     ],
     [
       "reality",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 27,
     "trust": 73,
-    "fear": 59,
+    "fear": 58,
     "surprise": 17,
-    "sadness": 12,
+    "sadness": 13,
     "disgust": 6,
-    "anger": 95,
+    "anger": 94,
     "anticipation": 26
   }
 }
