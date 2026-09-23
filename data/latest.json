@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:04:58.597Z",
+  "generated_at": "2026-09-23T01:20:00.960Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,6 +26,11 @@
       "war",
       6,
       "anger"
+    ],
+    [
+      "deal",
+      4,
+      "surprise"
     ],
     [
       "general",
@@ -58,16 +63,6 @@
       "fear"
     ],
     [
-      "middle",
-      3,
-      "sadness"
-    ],
-    [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "happened",
       3,
       "anticipation"
@@ -88,11 +83,6 @@
       "anticipation"
     ],
     [
-      "agreement",
-      3,
-      "trust"
-    ],
-    [
       "assembly",
       3,
       "trust"
@@ -101,11 +91,6 @@
       "family",
       3,
       "joy"
-    ],
-    [
-      "fighting",
-      3,
-      "anger"
     ],
     [
       "world",
@@ -133,6 +118,16 @@
       "joy"
     ],
     [
+      "slavery",
+      2,
+      "anger"
+    ],
+    [
+      "reparations",
+      2,
+      "trust"
+    ],
+    [
       "force",
       2,
       "anger"
@@ -141,6 +136,11 @@
       "official",
       2,
       "trust"
+    ],
+    [
+      "middle",
+      2,
+      "sadness"
     ],
     [
       "hit",
@@ -158,12 +158,22 @@
       "anger"
     ],
     [
+      "agreement",
+      2,
+      "trust"
+    ],
+    [
       "death",
       2,
       "sadness"
     ],
     [
       "lawyer",
+      2,
+      "anger"
+    ],
+    [
+      "fighting",
       2,
       "anger"
     ],
@@ -283,6 +293,26 @@
       "trust"
     ],
     [
+      "hails",
+      1,
+      "trust"
+    ],
+    [
+      "privy",
+      1,
+      "trust"
+    ],
+    [
+      "council",
+      1,
+      "trust"
+    ],
+    [
+      "lodge",
+      1,
+      "surprise"
+    ],
+    [
       "slashes",
       1,
       "anger"
@@ -346,46 +376,16 @@
       "never",
       1,
       "fear"
-    ],
-    [
-      "real",
-      1,
-      "trust"
-    ],
-    [
-      "rebellion",
-      1,
-      "anger"
-    ],
-    [
-      "squelch",
-      1,
-      "anger"
-    ],
-    [
-      "build",
-      1,
-      "anticipation"
-    ],
-    [
-      "bases",
-      1,
-      "trust"
-    ],
-    [
-      "allies",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 77,
+    "trust": 79,
     "fear": 64,
-    "surprise": 13,
-    "sadness": 13,
+    "surprise": 15,
+    "sadness": 12,
     "disgust": 5,
-    "anger": 96,
+    "anger": 93,
     "anticipation": 29
   }
 }
