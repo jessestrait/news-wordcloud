@@ -1,21 +1,31 @@
 {
-  "generated_at": "2026-09-23T22:17:35.973Z",
+  "generated_at": "2026-09-23T22:32:38.169Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      13,
+      14,
       "anger"
     ],
     [
       "president",
-      8,
+      9,
       "trust"
     ],
     [
       "deal",
       8,
       "surprise"
+    ],
+    [
+      "general",
+      7,
+      "trust"
+    ],
+    [
+      "assembly",
+      6,
+      "trust"
     ],
     [
       "iran",
@@ -26,11 +36,6 @@
       "war",
       5,
       "anger"
-    ],
-    [
-      "general",
-      5,
-      "trust"
     ],
     [
       "world",
@@ -48,11 +53,6 @@
       "anticipation"
     ],
     [
-      "assembly",
-      4,
-      "trust"
-    ],
-    [
       "attack",
       4,
       "anger"
@@ -66,6 +66,16 @@
       "fire",
       4,
       "fear"
+    ],
+    [
+      "base",
+      3,
+      "trust"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "force",
@@ -96,11 +106,6 @@
       "loss",
       3,
       "anger"
-    ],
-    [
-      "seeking",
-      2,
-      "anticipation"
     ],
     [
       "council",
@@ -148,11 +153,6 @@
       "fear"
     ],
     [
-      "base",
-      2,
-      "trust"
-    ],
-    [
       "alleged",
       2,
       "fear"
@@ -166,11 +166,6 @@
       "court",
       2,
       "anger"
-    ],
-    [
-      "leader",
-      2,
-      "trust"
     ],
     [
       "official",
@@ -263,9 +258,14 @@
       "joy"
     ],
     [
-      "aggression",
+      "airport",
       1,
-      "anger"
+      "anticipation"
+    ],
+    [
+      "personal",
+      1,
+      "trust"
     ],
     [
       "poisonous",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 74,
+    "trust": 82,
     "fear": 57,
     "surprise": 18,
     "sadness": 10,
