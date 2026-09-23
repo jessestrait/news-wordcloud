@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-23T04:36:39.102Z",
+  "generated_at": "2026-09-23T04:51:41.732Z",
   "article_count": 50,
   "top_words": [
+    [
+      "trump",
+      8,
+      "anger"
+    ],
     [
       "attack",
       8,
@@ -9,11 +14,6 @@
     ],
     [
       "war",
-      7,
-      "anger"
-    ],
-    [
-      "trump",
       7,
       "anger"
     ],
@@ -68,7 +68,7 @@
       "fear"
     ],
     [
-      "leader",
+      "president",
       3,
       "trust"
     ],
@@ -123,17 +123,12 @@
       "joy"
     ],
     [
-      "hope",
-      2,
-      "surprise"
-    ],
-    [
-      "slavery",
+      "court",
       2,
       "anger"
     ],
     [
-      "reparations",
+      "leader",
       2,
       "trust"
     ],
@@ -206,11 +201,6 @@
       "daily",
       2,
       "anticipation"
-    ],
-    [
-      "president",
-      2,
-      "trust"
     ],
     [
       "top",
@@ -293,9 +283,24 @@
       "trust"
     ],
     [
+      "pledges",
+      1,
+      "joy"
+    ],
+    [
+      "criminal",
+      1,
+      "anger"
+    ],
+    [
       "resistant",
       1,
       "fear"
+    ],
+    [
+      "hope",
+      1,
+      "surprise"
     ],
     [
       "emergency",
@@ -314,6 +319,16 @@
     ],
     [
       "hails",
+      1,
+      "trust"
+    ],
+    [
+      "slavery",
+      1,
+      "anger"
+    ],
+    [
+      "reparations",
       1,
       "trust"
     ],
@@ -361,31 +376,16 @@
       "asylum",
       1,
       "fear"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
-    ],
-    [
-      "hurricane",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 78,
+    "joy": 31,
+    "trust": 74,
     "fear": 65,
-    "surprise": 16,
+    "surprise": 15,
     "sadness": 11,
     "disgust": 5,
-    "anger": 93,
-    "anticipation": 29
+    "anger": 96,
+    "anticipation": 27
   }
 }
