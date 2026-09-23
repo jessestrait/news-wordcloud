@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:01:52.752Z",
+  "generated_at": "2026-09-23T21:16:55.016Z",
   "article_count": 50,
   "top_words": [
     [
@@ -36,6 +36,11 @@
       "iran",
       5,
       "anger"
+    ],
+    [
+      "world",
+      4,
+      "trust"
     ],
     [
       "police",
@@ -78,11 +83,6 @@
       "trust"
     ],
     [
-      "world",
-      3,
-      "trust"
-    ],
-    [
       "happened",
       3,
       "anticipation"
@@ -93,19 +93,19 @@
       "joy"
     ],
     [
-      "changed",
-      3,
-      "fear"
-    ],
-    [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "loss",
       3,
       "anger"
+    ],
+    [
+      "council",
+      2,
+      "trust"
+    ],
+    [
+      "intelligence",
+      2,
+      "fear"
     ],
     [
       "agreement",
@@ -238,6 +238,11 @@
       "trust"
     ],
     [
+      "people",
+      2,
+      "trust"
+    ],
+    [
       "chancellor",
       2,
       "trust"
@@ -246,11 +251,6 @@
       "parliament",
       2,
       "trust"
-    ],
-    [
-      "prison",
-      2,
-      "anger"
     ],
     [
       "vow",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 26,
     "trust": 77,
-    "fear": 58,
+    "fear": 57,
     "surprise": 18,
     "sadness": 10,
     "disgust": 7,
-    "anger": 88,
-    "anticipation": 28
+    "anger": 87,
+    "anticipation": 27
   }
 }
