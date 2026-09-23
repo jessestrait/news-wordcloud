@@ -1,24 +1,19 @@
 {
-  "generated_at": "2026-09-23T14:12:17.166Z",
+  "generated_at": "2026-09-23T14:27:20.203Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      11,
+      12,
       "anger"
     ],
     [
       "iran",
-      8,
+      7,
       "anger"
     ],
     [
       "president",
-      7,
-      "trust"
-    ],
-    [
-      "general",
       7,
       "trust"
     ],
@@ -28,7 +23,7 @@
       "surprise"
     ],
     [
-      "assembly",
+      "general",
       6,
       "trust"
     ],
@@ -41,6 +36,11 @@
       "attack",
       6,
       "anger"
+    ],
+    [
+      "assembly",
+      5,
+      "trust"
     ],
     [
       "killed",
@@ -66,6 +66,11 @@
       "fire",
       4,
       "fear"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "home",
@@ -151,11 +156,6 @@
       "court",
       2,
       "anger"
-    ],
-    [
-      "leader",
-      2,
-      "trust"
     ],
     [
       "force",
@@ -293,9 +293,19 @@
       "joy"
     ],
     [
-      "second",
+      "terrorists",
       1,
-      "trust"
+      "anger"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
+      "terrorism",
+      1,
+      "anger"
     ],
     [
       "interim",
@@ -366,26 +376,16 @@
       "fears",
       1,
       "anger"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
-    ],
-    [
-      "fragile",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 75,
+    "trust": 73,
     "fear": 63,
     "surprise": 16,
     "sadness": 12,
     "disgust": 6,
-    "anger": 92,
+    "anger": 95,
     "anticipation": 24
   }
 }
