@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:55:28.153Z",
+  "generated_at": "2026-09-23T11:10:30.142Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,16 +298,6 @@
       "anger"
     ],
     [
-      "denies",
-      1,
-      "anger"
-    ],
-    [
-      "crude",
-      1,
-      "disgust"
-    ],
-    [
       "present",
       1,
       "surprise"
@@ -316,6 +306,16 @@
       "second",
       1,
       "trust"
+    ],
+    [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "crude",
+      1,
+      "disgust"
     ],
     [
       "raping",
