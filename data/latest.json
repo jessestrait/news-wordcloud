@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:41:20.142Z",
+  "generated_at": "2026-09-23T12:56:22.774Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,19 @@
       "anger"
     ],
     [
+      "deal",
+      8,
+      "surprise"
+    ],
+    [
       "iran",
       7,
       "anger"
     ],
     [
-      "deal",
-      7,
-      "surprise"
+      "president",
+      6,
+      "trust"
     ],
     [
       "war",
@@ -28,11 +33,6 @@
       "anger"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "general",
       5,
       "trust"
@@ -41,11 +41,6 @@
       "killed",
       5,
       "fear"
-    ],
-    [
-      "trade",
-      4,
-      "trust"
     ],
     [
       "police",
@@ -68,11 +63,6 @@
       "trust"
     ],
     [
-      "leader",
-      4,
-      "trust"
-    ],
-    [
       "fire",
       4,
       "fear"
@@ -89,6 +79,11 @@
     ],
     [
       "top",
+      3,
+      "trust"
+    ],
+    [
+      "leader",
       3,
       "trust"
     ],
@@ -128,7 +123,12 @@
       "joy"
     ],
     [
-      "emergency",
+      "hails",
+      2,
+      "trust"
+    ],
+    [
+      "jail",
       2,
       "fear"
     ],
@@ -218,6 +218,11 @@
       "joy"
     ],
     [
+      "trade",
+      2,
+      "trust"
+    ],
+    [
       "daily",
       2,
       "anticipation"
@@ -286,6 +291,16 @@
       "beach",
       2,
       "joy"
+    ],
+    [
+      "interim",
+      1,
+      "anticipation"
+    ],
+    [
+      "agreed",
+      1,
+      "trust"
     ],
     [
       "second",
@@ -361,31 +376,16 @@
       "tackle",
       1,
       "anger"
-    ],
-    [
-      "fragile",
-      1,
-      "fear"
-    ],
-    [
-      "pledges",
-      1,
-      "joy"
-    ],
-    [
-      "criminal",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 72,
     "fear": 63,
-    "surprise": 16,
+    "surprise": 17,
     "sadness": 12,
     "disgust": 6,
     "anger": 92,
-    "anticipation": 23
+    "anticipation": 24
   }
 }
