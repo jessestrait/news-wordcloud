@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-09-23T17:14:05.866Z",
+  "generated_at": "2026-09-23T17:29:08.166Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      12,
+      13,
       "anger"
     ],
     [
       "deal",
-      7,
+      8,
       "surprise"
+    ],
+    [
+      "president",
+      7,
+      "trust"
+    ],
+    [
+      "iran",
+      6,
+      "anger"
     ],
     [
       "war",
       6,
       "anger"
-    ],
-    [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "general",
@@ -43,7 +43,7 @@
       "fear"
     ],
     [
-      "leader",
+      "people",
       4,
       "trust"
     ],
@@ -58,11 +58,6 @@
       "anticipation"
     ],
     [
-      "world",
-      4,
-      "trust"
-    ],
-    [
       "assembly",
       4,
       "trust"
@@ -71,6 +66,11 @@
       "fire",
       4,
       "fear"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "force",
@@ -84,6 +84,11 @@
     ],
     [
       "top",
+      3,
+      "trust"
+    ],
+    [
+      "world",
       3,
       "trust"
     ],
@@ -108,14 +113,24 @@
       "fear"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "loss",
       3,
       "anger"
+    ],
+    [
+      "mind",
+      2,
+      "trust"
+    ],
+    [
+      "agreement",
+      2,
+      "trust"
+    ],
+    [
+      "united",
+      2,
+      "trust"
     ],
     [
       "ready",
@@ -161,6 +176,11 @@
       "court",
       2,
       "anger"
+    ],
+    [
+      "official",
+      2,
+      "trust"
     ],
     [
       "letter",
@@ -248,29 +268,29 @@
       "joy"
     ],
     [
-      "black",
-      2,
-      "sadness"
+      "changes",
+      1,
+      "fear"
     ],
     [
-      "slams",
+      "progress",
+      1,
+      "joy"
+    ],
+    [
+      "victims",
       1,
       "anger"
     ],
     [
-      "self",
+      "terrorism",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "determination",
+      "defended",
       1,
       "trust"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
     ],
     [
       "bully",
@@ -356,36 +376,16 @@
       "evicted",
       1,
       "sadness"
-    ],
-    [
-      "housing",
-      1,
-      "joy"
-    ],
-    [
-      "decry",
-      1,
-      "anger"
-    ],
-    [
-      "barbaric",
-      1,
-      "anger"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 73,
-    "fear": 58,
-    "surprise": 17,
-    "sadness": 12,
+    "joy": 27,
+    "trust": 77,
+    "fear": 59,
+    "surprise": 18,
+    "sadness": 10,
     "disgust": 6,
-    "anger": 87,
-    "anticipation": 28
+    "anger": 90,
+    "anticipation": 27
   }
 }
