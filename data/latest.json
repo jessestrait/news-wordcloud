@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T19:15:57.399Z",
+  "generated_at": "2026-09-23T19:31:00.380Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,23 +24,13 @@
     ],
     [
       "war",
-      6,
+      5,
       "anger"
     ],
     [
       "general",
       5,
       "trust"
-    ],
-    [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
-      "killed",
-      5,
-      "fear"
     ],
     [
       "people",
@@ -61,6 +51,16 @@
       "assembly",
       4,
       "trust"
+    ],
+    [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
+      "killed",
+      4,
+      "fear"
     ],
     [
       "fire",
@@ -91,11 +91,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "family",
@@ -183,6 +178,11 @@
       "trust"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "letter",
       2,
       "anticipation"
@@ -238,11 +238,6 @@
       "fear"
     ],
     [
-      "strikes",
-      2,
-      "anger"
-    ],
-    [
       "expert",
       2,
       "trust"
@@ -266,6 +261,26 @@
       "vow",
       2,
       "joy"
+    ],
+    [
+      "poisonous",
+      1,
+      "anger"
+    ],
+    [
+      "disinformation",
+      1,
+      "anger"
+    ],
+    [
+      "despair",
+      1,
+      "anger"
+    ],
+    [
+      "deceitful",
+      1,
+      "disgust"
     ],
     [
       "victims",
@@ -361,31 +376,16 @@
       "interim",
       1,
       "anticipation"
-    ],
-    [
-      "protesters",
-      1,
-      "anger"
-    ],
-    [
-      "disabled",
-      1,
-      "fear"
-    ],
-    [
-      "evicted",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 77,
-    "fear": 59,
+    "fear": 58,
     "surprise": 18,
     "sadness": 10,
-    "disgust": 6,
-    "anger": 90,
+    "disgust": 7,
+    "anger": 89,
     "anticipation": 28
   }
 }
