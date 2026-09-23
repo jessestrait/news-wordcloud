@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:55:55.030Z",
+  "generated_at": "2026-09-23T12:10:57.510Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "anger"
     ],
     [
-      "killed",
-      6,
-      "fear"
-    ],
-    [
       "president",
       5,
       "trust"
@@ -41,6 +36,16 @@
       "general",
       5,
       "trust"
+    ],
+    [
+      "killed",
+      5,
+      "fear"
+    ],
+    [
+      "police",
+      4,
+      "fear"
     ],
     [
       "seek",
@@ -63,14 +68,14 @@
       "trust"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "fire",
       4,
       "fear"
+    ],
+    [
+      "home",
+      3,
+      "joy"
     ],
     [
       "strikes",
@@ -81,11 +86,6 @@
       "top",
       3,
       "trust"
-    ],
-    [
-      "police",
-      3,
-      "fear"
     ],
     [
       "leader",
@@ -116,6 +116,11 @@
       "changed",
       3,
       "fear"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "loss",
@@ -218,11 +223,6 @@
       "anticipation"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "intelligence",
       2,
       "fear"
@@ -293,6 +293,36 @@
       "anger"
     ],
     [
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "disabled",
+      1,
+      "fear"
+    ],
+    [
+      "evicted",
+      1,
+      "sadness"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
+    ],
+    [
+      "decry",
+      1,
+      "anger"
+    ],
+    [
+      "barbaric",
+      1,
+      "anger"
+    ],
+    [
       "second",
       1,
       "trust"
@@ -346,46 +376,16 @@
       "pledges",
       1,
       "joy"
-    ],
-    [
-      "criminal",
-      1,
-      "anger"
-    ],
-    [
-      "resistant",
-      1,
-      "fear"
-    ],
-    [
-      "hope",
-      1,
-      "surprise"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "threatens",
-      1,
-      "anger"
-    ],
-    [
-      "harvests",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 74,
-    "fear": 63,
+    "joy": 31,
+    "trust": 73,
+    "fear": 62,
     "surprise": 16,
-    "sadness": 11,
+    "sadness": 12,
     "disgust": 6,
-    "anger": 92,
+    "anger": 94,
     "anticipation": 24
   }
 }
