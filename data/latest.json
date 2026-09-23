@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:25:32.321Z",
+  "generated_at": "2026-09-23T11:40:34.289Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "surprise"
     ],
     [
-      "general",
-      6,
-      "trust"
-    ],
-    [
       "war",
       6,
       "anger"
@@ -38,12 +33,12 @@
       "fear"
     ],
     [
-      "assembly",
+      "president",
       5,
       "trust"
     ],
     [
-      "president",
+      "general",
       5,
       "trust"
     ],
@@ -54,6 +49,11 @@
     ],
     [
       "world",
+      4,
+      "trust"
+    ],
+    [
+      "assembly",
       4,
       "trust"
     ],
@@ -71,6 +71,11 @@
       "fire",
       4,
       "fear"
+    ],
+    [
+      "strikes",
+      3,
+      "anger"
     ],
     [
       "top",
@@ -121,11 +126,6 @@
       "vow",
       3,
       "joy"
-    ],
-    [
-      "case",
-      2,
-      "fear"
     ],
     [
       "government",
@@ -238,11 +238,6 @@
       "fear"
     ],
     [
-      "strikes",
-      2,
-      "anger"
-    ],
-    [
       "expert",
       2,
       "trust"
@@ -298,11 +293,6 @@
       "anger"
     ],
     [
-      "present",
-      1,
-      "surprise"
-    ],
-    [
       "second",
       1,
       "trust"
@@ -321,6 +311,11 @@
       "raping",
       1,
       "anger"
+    ],
+    [
+      "cases",
+      1,
+      "fear"
     ],
     [
       "corruption",
@@ -376,16 +371,21 @@
       "threatens",
       1,
       "anger"
+    ],
+    [
+      "harvests",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 76,
-    "fear": 64,
-    "surprise": 17,
+    "trust": 74,
+    "fear": 63,
+    "surprise": 16,
     "sadness": 11,
     "disgust": 6,
-    "anger": 91,
+    "anger": 92,
     "anticipation": 24
   }
 }
