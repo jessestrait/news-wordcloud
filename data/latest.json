@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:41:03.448Z",
+  "generated_at": "2026-09-24T14:56:13.290Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,12 +23,7 @@
       "anger"
     ],
     [
-      "general",
-      5,
-      "trust"
-    ],
-    [
-      "assembly",
+      "world",
       5,
       "trust"
     ],
@@ -53,22 +48,22 @@
       "fear"
     ],
     [
-      "world",
+      "general",
       4,
       "trust"
     ],
     [
-      "calls",
+      "assembly",
+      4,
+      "trust"
+    ],
+    [
+      "top",
       3,
       "trust"
     ],
     [
       "agreement",
-      3,
-      "trust"
-    ],
-    [
-      "top",
       3,
       "trust"
     ],
@@ -101,6 +96,21 @@
       "seek",
       3,
       "anticipation"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
+    ],
+    [
+      "inequality",
+      2,
+      "anger"
+    ],
+    [
+      "challenge",
+      2,
+      "anger"
     ],
     [
       "hopeful",
@@ -213,7 +223,7 @@
       "anger"
     ],
     [
-      "leader",
+      "calls",
       2,
       "trust"
     ],
@@ -243,56 +253,6 @@
       "fear"
     ],
     [
-      "grow",
-      1,
-      "joy"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
-    ],
-    [
-      "inequality",
-      1,
-      "anger"
-    ],
-    [
-      "recommended",
-      1,
-      "trust"
-    ],
-    [
-      "coming",
-      1,
-      "anticipation"
-    ],
-    [
-      "denied",
-      1,
-      "sadness"
-    ],
-    [
-      "authority",
-      1,
-      "trust"
-    ],
-    [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "row",
-      1,
-      "anger"
-    ],
-    [
-      "independence",
-      1,
-      "surprise"
-    ],
-    [
       "continue",
       1,
       "trust"
@@ -316,6 +276,46 @@
       "alliance",
       1,
       "trust"
+    ],
+    [
+      "denied",
+      1,
+      "sadness"
+    ],
+    [
+      "authority",
+      1,
+      "trust"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "row",
+      1,
+      "anger"
+    ],
+    [
+      "leaning",
+      1,
+      "trust"
+    ],
+    [
+      "global",
+      1,
+      "anticipation"
+    ],
+    [
+      "threatening",
+      1,
+      "anger"
+    ],
+    [
+      "independence",
+      1,
+      "surprise"
     ],
     [
       "offensive",
@@ -373,19 +373,19 @@
       "sadness"
     ],
     [
-      "challenge",
+      "power",
       1,
-      "anger"
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 70,
+    "joy": 21,
+    "trust": 69,
     "fear": 47,
     "surprise": 22,
     "sadness": 11,
     "disgust": 5,
-    "anger": 98,
-    "anticipation": 25
+    "anger": 101,
+    "anticipation": 24
   }
 }
