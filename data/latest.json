@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:13:47.863Z",
+  "generated_at": "2026-09-24T19:28:50.536Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,7 +13,17 @@
       "surprise"
     ],
     [
+      "war",
+      6,
+      "anger"
+    ],
+    [
       "iran",
+      6,
+      "anger"
+    ],
+    [
+      "attack",
       6,
       "anger"
     ],
@@ -23,29 +33,14 @@
       "trust"
     ],
     [
+      "calls",
+      4,
+      "trust"
+    ],
+    [
       "world",
-      5,
-      "trust"
-    ],
-    [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
-      "war",
-      5,
-      "anger"
-    ],
-    [
-      "leader",
       4,
       "trust"
-    ],
-    [
-      "government",
-      4,
-      "fear"
     ],
     [
       "happened",
@@ -53,9 +48,24 @@
       "anticipation"
     ],
     [
+      "gaza",
+      3,
+      "anger"
+    ],
+    [
       "hails",
       3,
       "trust"
+    ],
+    [
+      "strait",
+      3,
+      "fear"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "threats",
@@ -78,32 +88,27 @@
       "trust"
     ],
     [
-      "force",
-      3,
-      "anger"
-    ],
-    [
       "police",
       3,
       "fear"
     ],
     [
-      "seek",
+      "leader",
       3,
-      "anticipation"
+      "trust"
     ],
     [
-      "condemns",
+      "official",
+      3,
+      "trust"
+    ],
+    [
+      "hormuz",
       2,
-      "anger"
+      "fear"
     ],
     [
       "letter",
-      2,
-      "anticipation"
-    ],
-    [
-      "plan",
       2,
       "anticipation"
     ],
@@ -119,11 +124,6 @@
     ],
     [
       "fears",
-      2,
-      "anger"
-    ],
-    [
-      "fighting",
       2,
       "anger"
     ],
@@ -198,11 +198,6 @@
       "fear"
     ],
     [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
       "lawyer",
       2,
       "anger"
@@ -213,14 +208,14 @@
       "fear"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "ready",
       2,
       "anticipation"
+    ],
+    [
+      "force",
+      2,
+      "anger"
     ],
     [
       "case",
@@ -233,14 +228,14 @@
       "trust"
     ],
     [
+      "seek",
+      2,
+      "anticipation"
+    ],
+    [
       "court",
       2,
       "anger"
-    ],
-    [
-      "calls",
-      2,
-      "trust"
     ],
     [
       "general",
@@ -253,11 +248,6 @@
       "trust"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
       "hit",
       2,
       "anger"
@@ -266,6 +256,11 @@
       "fall",
       2,
       "sadness"
+    ],
+    [
+      "condemns",
+      1,
+      "anger"
     ],
     [
       "media",
@@ -283,19 +278,14 @@
       "anger"
     ],
     [
-      "legislators",
-      1,
-      "trust"
-    ],
-    [
-      "malicious",
+      "ultimatum",
       1,
       "anger"
     ],
     [
-      "denied",
+      "legislators",
       1,
-      "sadness"
+      "trust"
     ],
     [
       "law",
@@ -373,19 +363,29 @@
       "anger"
     ],
     [
+      "fighting",
+      1,
+      "anger"
+    ],
+    [
       "escalates",
       1,
       "anger"
+    ],
+    [
+      "overthrowing",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 60,
+    "joy": 17,
+    "trust": 61,
     "fear": 48,
     "surprise": 18,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 4,
-    "anger": 111,
-    "anticipation": 25
+    "anger": 110,
+    "anticipation": 23
   }
 }
