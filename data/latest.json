@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-09-24T14:10:58.932Z",
+  "generated_at": "2026-09-24T14:26:01.197Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
       11,
       "anger"
+    ],
+    [
+      "president",
+      8,
+      "trust"
     ],
     [
       "deal",
@@ -18,28 +23,18 @@
       "anger"
     ],
     [
-      "attack",
-      7,
-      "anger"
-    ],
-    [
-      "president",
-      7,
-      "trust"
-    ],
-    [
       "iran",
       6,
       "anger"
     ],
     [
-      "general",
-      5,
-      "trust"
+      "attack",
+      6,
+      "anger"
     ],
     [
-      "assembly",
-      5,
+      "top",
+      4,
       "trust"
     ],
     [
@@ -48,12 +43,17 @@
       "fear"
     ],
     [
-      "top",
+      "world",
       4,
       "trust"
     ],
     [
-      "world",
+      "general",
+      4,
+      "trust"
+    ],
+    [
+      "assembly",
       4,
       "trust"
     ],
@@ -98,6 +98,11 @@
       "anticipation"
     ],
     [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
       "fears",
       2,
       "anger"
@@ -111,11 +116,6 @@
       "rebel",
       2,
       "anger"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "family",
@@ -238,29 +238,24 @@
       "fear"
     ],
     [
-      "launch",
+      "denied",
       1,
-      "anticipation"
+      "sadness"
     ],
     [
-      "offensive",
+      "authority",
+      1,
+      "trust"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "row",
       1,
       "anger"
-    ],
-    [
-      "escalates",
-      1,
-      "anger"
-    ],
-    [
-      "overthrowing",
-      1,
-      "fear"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
     ],
     [
       "provide",
@@ -281,6 +276,26 @@
       "alliance",
       1,
       "trust"
+    ],
+    [
+      "launch",
+      1,
+      "anticipation"
+    ],
+    [
+      "offensive",
+      1,
+      "anger"
+    ],
+    [
+      "escalates",
+      1,
+      "anger"
+    ],
+    [
+      "overthrowing",
+      1,
+      "fear"
     ],
     [
       "twins",
@@ -361,31 +376,16 @@
       "vows",
       1,
       "joy"
-    ],
-    [
-      "die",
-      1,
-      "fear"
-    ],
-    [
-      "child",
-      1,
-      "joy"
-    ],
-    [
-      "berlin",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 67,
+    "trust": 68,
     "fear": 50,
     "surprise": 20,
-    "sadness": 12,
+    "sadness": 13,
     "disgust": 5,
     "anger": 99,
-    "anticipation": 26
+    "anticipation": 25
   }
 }
