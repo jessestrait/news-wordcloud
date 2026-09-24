@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:40:39.149Z",
+  "generated_at": "2026-09-24T13:55:41.361Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "surprise"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
       "attack",
       7,
       "anger"
@@ -21,11 +26,6 @@
       "president",
       7,
       "trust"
-    ],
-    [
-      "war",
-      6,
-      "anger"
     ],
     [
       "iran",
@@ -43,9 +43,14 @@
       "trust"
     ],
     [
-      "killed",
+      "government",
       4,
       "fear"
+    ],
+    [
+      "top",
+      4,
+      "trust"
     ],
     [
       "world",
@@ -53,22 +58,12 @@
       "trust"
     ],
     [
-      "family",
-      3,
-      "joy"
-    ],
-    [
-      "sentenced",
+      "threats",
       3,
       "anger"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
-      "gaza",
+      "sentenced",
       3,
       "anger"
     ],
@@ -78,17 +73,7 @@
       "anticipation"
     ],
     [
-      "lawyer",
-      3,
-      "anger"
-    ],
-    [
-      "government",
-      3,
-      "fear"
-    ],
-    [
-      "military",
+      "killed",
       3,
       "fear"
     ],
@@ -108,29 +93,39 @@
       "fear"
     ],
     [
-      "top",
-      3,
-      "trust"
-    ],
-    [
       "seek",
       3,
       "anticipation"
     ],
     [
-      "warn",
-      3,
-      "fear"
-    ],
-    [
-      "expected",
+      "fears",
       2,
-      "anticipation"
+      "anger"
     ],
     [
-      "allies",
+      "fighting",
+      2,
+      "anger"
+    ],
+    [
+      "rebel",
+      2,
+      "anger"
+    ],
+    [
+      "continue",
       2,
       "trust"
+    ],
+    [
+      "family",
+      2,
+      "joy"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
     ],
     [
       "jail",
@@ -153,9 +148,19 @@
       "fear"
     ],
     [
-      "threats",
+      "gaza",
       2,
       "anger"
+    ],
+    [
+      "lawyer",
+      2,
+      "anger"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "intelligence",
@@ -198,6 +203,11 @@
       "anger"
     ],
     [
+      "calls",
+      2,
+      "trust"
+    ],
+    [
       "leader",
       2,
       "trust"
@@ -223,19 +233,54 @@
       "joy"
     ],
     [
-      "escalate",
-      1,
-      "anger"
+      "warn",
+      2,
+      "fear"
     ],
     [
-      "warfare",
-      1,
-      "anger"
-    ],
-    [
-      "coming",
+      "launch",
       1,
       "anticipation"
+    ],
+    [
+      "offensive",
+      1,
+      "anger"
+    ],
+    [
+      "escalates",
+      1,
+      "anger"
+    ],
+    [
+      "overthrowing",
+      1,
+      "fear"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "provide",
+      1,
+      "trust"
+    ],
+    [
+      "critical",
+      1,
+      "trust"
+    ],
+    [
+      "limited",
+      1,
+      "anger"
+    ],
+    [
+      "alliance",
+      1,
+      "trust"
     ],
     [
       "twins",
@@ -331,61 +376,16 @@
       "berlin",
       1,
       "joy"
-    ],
-    [
-      "supremacy",
-      1,
-      "anger"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "artillery",
-      1,
-      "fear"
-    ],
-    [
-      "pivoting",
-      1,
-      "trust"
-    ],
-    [
-      "focused",
-      1,
-      "trust"
-    ],
-    [
-      "defiance",
-      1,
-      "anger"
-    ],
-    [
-      "rebirth",
-      1,
-      "sadness"
-    ],
-    [
-      "combative",
-      1,
-      "anger"
-    ],
-    [
-      "choking",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 61,
-    "fear": 52,
+    "joy": 23,
+    "trust": 67,
+    "fear": 50,
     "surprise": 20,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 5,
-    "anger": 94,
-    "anticipation": 27
+    "anger": 99,
+    "anticipation": 26
   }
 }
