@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:52:23.493Z",
+  "generated_at": "2026-09-24T08:07:25.766Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,11 +53,6 @@
       "trust"
     ],
     [
-      "seek",
-      4,
-      "anticipation"
-    ],
-    [
       "gaza",
       3,
       "anger"
@@ -103,6 +98,16 @@
       "trust"
     ],
     [
+      "seek",
+      3,
+      "anticipation"
+    ],
+    [
+      "achievements",
+      2,
+      "joy"
+    ],
+    [
       "strikes",
       2,
       "anger"
@@ -116,11 +121,6 @@
       "risk",
       2,
       "fear"
-    ],
-    [
-      "vows",
-      2,
-      "joy"
     ],
     [
       "threats",
@@ -238,6 +238,21 @@
       "trust"
     ],
     [
+      "defiant",
+      1,
+      "anger"
+    ],
+    [
+      "isolation",
+      1,
+      "sadness"
+    ],
+    [
+      "challenge",
+      1,
+      "anger"
+    ],
+    [
       "power",
       1,
       "anticipation"
@@ -261,6 +276,11 @@
       "destruction",
       1,
       "anger"
+    ],
+    [
+      "vows",
+      1,
+      "joy"
     ],
     [
       "die",
@@ -356,36 +376,16 @@
       "changes",
       1,
       "fear"
-    ],
-    [
-      "bully",
-      1,
-      "anger"
-    ],
-    [
-      "diplomacy",
-      1,
-      "trust"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 70,
+    "trust": 68,
     "fear": 54,
     "surprise": 19,
-    "sadness": 11,
+    "sadness": 12,
     "disgust": 5,
     "anger": 95,
-    "anticipation": 23
+    "anticipation": 22
   }
 }
