@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:23:56.623Z",
+  "generated_at": "2026-09-24T10:38:58.890Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "president",
-      9,
+      8,
       "trust"
     ],
     [
@@ -44,7 +44,7 @@
     ],
     [
       "killed",
-      5,
+      4,
       "fear"
     ],
     [
@@ -103,9 +103,19 @@
       "anticipation"
     ],
     [
-      "strikes",
+      "warn",
+      3,
+      "fear"
+    ],
+    [
+      "expected",
       2,
-      "anger"
+      "anticipation"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
     ],
     [
       "achievements",
@@ -173,11 +183,6 @@
       "trust"
     ],
     [
-      "alleged",
-      2,
-      "fear"
-    ],
-    [
       "court",
       2,
       "anger"
@@ -213,11 +218,6 @@
       "joy"
     ],
     [
-      "humanity",
-      2,
-      "joy"
-    ],
-    [
       "growing",
       2,
       "joy"
@@ -228,14 +228,19 @@
       "trust"
     ],
     [
-      "warn",
-      2,
-      "fear"
+      "escalate",
+      1,
+      "anger"
     ],
     [
-      "expert",
-      2,
-      "trust"
+      "warfare",
+      1,
+      "anger"
+    ],
+    [
+      "coming",
+      1,
+      "anticipation"
     ],
     [
       "defiant",
@@ -276,6 +281,11 @@
       "destruction",
       1,
       "anger"
+    ],
+    [
+      "remains",
+      1,
+      "fear"
     ],
     [
       "vows",
@@ -366,26 +376,16 @@
       "deceitful",
       1,
       "disgust"
-    ],
-    [
-      "revived",
-      1,
-      "anticipation"
-    ],
-    [
-      "changes",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 68,
+    "joy": 21,
+    "trust": 65,
     "fear": 54,
     "surprise": 19,
     "sadness": 12,
     "disgust": 5,
-    "anger": 95,
-    "anticipation": 22
+    "anger": 94,
+    "anticipation": 25
   }
 }
