@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:36:11.849Z",
+  "generated_at": "2026-09-24T05:51:14.126Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,6 +83,11 @@
       "fear"
     ],
     [
+      "council",
+      3,
+      "trust"
+    ],
+    [
       "force",
       3,
       "anger"
@@ -113,6 +118,16 @@
       "anger"
     ],
     [
+      "fragile",
+      2,
+      "fear"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
       "vows",
       2,
       "joy"
@@ -121,11 +136,6 @@
       "threats",
       2,
       "anger"
-    ],
-    [
-      "council",
-      2,
-      "trust"
     ],
     [
       "intelligence",
@@ -188,11 +198,6 @@
       "anger"
     ],
     [
-      "letter",
-      2,
-      "anticipation"
-    ],
-    [
       "death",
       2,
       "sadness"
@@ -223,11 +228,6 @@
       "trust"
     ],
     [
-      "daily",
-      2,
-      "anticipation"
-    ],
-    [
       "warn",
       2,
       "fear"
@@ -238,9 +238,19 @@
       "trust"
     ],
     [
-      "people",
-      2,
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "journalism",
+      1,
       "trust"
+    ],
+    [
+      "plans",
+      1,
+      "anticipation"
     ],
     [
       "shortages",
@@ -366,22 +376,12 @@
       "obituary",
       1,
       "sadness"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
-    ],
-    [
-      "sentencing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 68,
-    "fear": 54,
+    "joy": 23,
+    "trust": 69,
+    "fear": 55,
     "surprise": 19,
     "sadness": 11,
     "disgust": 5,
