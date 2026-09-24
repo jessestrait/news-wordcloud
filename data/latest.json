@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:25:36.923Z",
+  "generated_at": "2026-09-24T13:40:39.149Z",
   "article_count": 50,
   "top_words": [
     [
@@ -123,11 +123,6 @@
       "fear"
     ],
     [
-      "jail",
-      2,
-      "fear"
-    ],
-    [
       "expected",
       2,
       "anticipation"
@@ -136,6 +131,11 @@
       "allies",
       2,
       "trust"
+    ],
+    [
+      "jail",
+      2,
+      "fear"
     ],
     [
       "achievements",
@@ -223,16 +223,6 @@
       "joy"
     ],
     [
-      "twins",
-      1,
-      "joy"
-    ],
-    [
-      "god",
-      1,
-      "surprise"
-    ],
-    [
       "escalate",
       1,
       "anger"
@@ -246,6 +236,16 @@
       "coming",
       1,
       "anticipation"
+    ],
+    [
+      "twins",
+      1,
+      "joy"
+    ],
+    [
+      "god",
+      1,
+      "surprise"
     ],
     [
       "abuse",
