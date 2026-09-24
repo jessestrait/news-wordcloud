@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-09-24T18:58:44.603Z",
+  "generated_at": "2026-09-24T19:13:47.863Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      11,
+      12,
       "anger"
-    ],
-    [
-      "president",
-      7,
-      "trust"
     ],
     [
       "deal",
@@ -21,6 +16,16 @@
       "iran",
       6,
       "anger"
+    ],
+    [
+      "president",
+      6,
+      "trust"
+    ],
+    [
+      "world",
+      5,
+      "trust"
     ],
     [
       "attack",
@@ -38,11 +43,6 @@
       "trust"
     ],
     [
-      "world",
-      4,
-      "trust"
-    ],
-    [
       "government",
       4,
       "fear"
@@ -51,6 +51,11 @@
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "hails",
+      3,
+      "trust"
     ],
     [
       "threats",
@@ -86,6 +91,11 @@
       "seek",
       3,
       "anticipation"
+    ],
+    [
+      "condemns",
+      2,
+      "anger"
     ],
     [
       "letter",
@@ -218,11 +228,6 @@
       "fear"
     ],
     [
-      "hails",
-      2,
-      "trust"
-    ],
-    [
       "base",
       2,
       "trust"
@@ -263,17 +268,17 @@
       "sadness"
     ],
     [
-      "authority",
+      "media",
       1,
-      "trust"
+      "disgust"
     ],
     [
-      "second",
+      "praising",
       1,
-      "trust"
+      "joy"
     ],
     [
-      "row",
+      "moral",
       1,
       "anger"
     ],
@@ -281,11 +286,6 @@
       "legislators",
       1,
       "trust"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
     ],
     [
       "malicious",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 61,
+    "joy": 18,
+    "trust": 60,
     "fear": 48,
     "surprise": 18,
     "sadness": 13,
-    "disgust": 3,
-    "anger": 109,
+    "disgust": 4,
+    "anger": 111,
     "anticipation": 25
   }
 }
