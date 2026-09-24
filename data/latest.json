@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-24T01:34:14.789Z",
+  "generated_at": "2026-09-24T01:49:17.566Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      15,
+      14,
       "anger"
     ],
     [
@@ -19,12 +19,12 @@
     ],
     [
       "iran",
-      6,
+      5,
       "anger"
     ],
     [
       "war",
-      6,
+      5,
       "anger"
     ],
     [
@@ -69,16 +69,6 @@
     ],
     [
       "leader",
-      3,
-      "trust"
-    ],
-    [
-      "base",
-      3,
-      "trust"
-    ],
-    [
-      "trade",
       3,
       "trust"
     ],
@@ -158,6 +148,11 @@
       "fear"
     ],
     [
+      "base",
+      2,
+      "trust"
+    ],
+    [
       "alleged",
       2,
       "fear"
@@ -218,6 +213,11 @@
       "joy"
     ],
     [
+      "trade",
+      2,
+      "trust"
+    ],
+    [
       "daily",
       2,
       "anticipation"
@@ -261,6 +261,11 @@
       "setbacks",
       1,
       "sadness"
+    ],
+    [
+      "arriving",
+      1,
+      "anticipation"
     ],
     [
       "poisonous",
@@ -371,21 +376,16 @@
       "disabled",
       1,
       "fear"
-    ],
-    [
-      "evicted",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 77,
+    "trust": 75,
     "fear": 57,
     "surprise": 18,
     "sadness": 11,
     "disgust": 7,
-    "anger": 89,
-    "anticipation": 27
+    "anger": 86,
+    "anticipation": 28
   }
 }
