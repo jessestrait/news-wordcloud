@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T15:41:57.772Z",
+  "generated_at": "2026-09-24T15:57:00.240Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "anger"
     ],
     [
+      "fear",
+      3,
+      "anger"
+    ],
+    [
       "agreement",
       3,
       "trust"
@@ -99,11 +104,6 @@
     ],
     [
       "rebel",
-      2,
-      "anger"
-    ],
-    [
-      "fears",
       2,
       "anger"
     ],
@@ -258,19 +258,19 @@
       "sadness"
     ],
     [
-      "offensive",
+      "homeless",
       1,
       "anger"
     ],
     [
-      "escalates",
+      "invasion",
       1,
       "anger"
     ],
     [
-      "overthrowing",
+      "people",
       1,
-      "fear"
+      "trust"
     ],
     [
       "denied",
@@ -291,6 +291,56 @@
       "row",
       1,
       "anger"
+    ],
+    [
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "bears",
+      1,
+      "anger"
+    ],
+    [
+      "sanctuary",
+      1,
+      "joy"
+    ],
+    [
+      "awareness",
+      1,
+      "trust"
+    ],
+    [
+      "cages",
+      1,
+      "sadness"
+    ],
+    [
+      "bile",
+      1,
+      "anger"
+    ],
+    [
+      "farms",
+      1,
+      "anticipation"
+    ],
+    [
+      "offensive",
+      1,
+      "anger"
+    ],
+    [
+      "escalates",
+      1,
+      "anger"
+    ],
+    [
+      "overthrowing",
+      1,
+      "fear"
     ],
     [
       "improve",
@@ -326,66 +376,16 @@
       "suspected",
       1,
       "fear"
-    ],
-    [
-      "guard",
-      1,
-      "fear"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "murders",
-      1,
-      "anger"
-    ],
-    [
-      "prosecute",
-      1,
-      "anger"
-    ],
-    [
-      "suspects",
-      1,
-      "fear"
-    ],
-    [
-      "create",
-      1,
-      "joy"
-    ],
-    [
-      "awful",
-      1,
-      "anger"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
-    ],
-    [
-      "threatening",
-      1,
-      "anger"
-    ],
-    [
-      "independence",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 63,
-    "fear": 50,
-    "surprise": 19,
-    "sadness": 12,
+    "trust": 64,
+    "fear": 46,
+    "surprise": 20,
+    "sadness": 13,
     "disgust": 4,
-    "anger": 104,
-    "anticipation": 24
+    "anger": 109,
+    "anticipation": 25
   }
 }
