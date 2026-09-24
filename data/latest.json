@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:55:12.577Z",
+  "generated_at": "2026-09-24T13:10:15.791Z",
   "article_count": 50,
   "top_words": [
     [
@@ -223,6 +223,21 @@
       "trust"
     ],
     [
+      "escalate",
+      1,
+      "anger"
+    ],
+    [
+      "warfare",
+      1,
+      "anger"
+    ],
+    [
+      "coming",
+      1,
+      "anticipation"
+    ],
+    [
       "abuse",
       1,
       "anger"
@@ -239,21 +254,6 @@
     ],
     [
       "investigation",
-      1,
-      "anticipation"
-    ],
-    [
-      "escalate",
-      1,
-      "anger"
-    ],
-    [
-      "warfare",
-      1,
-      "anger"
-    ],
-    [
-      "coming",
       1,
       "anticipation"
     ],
