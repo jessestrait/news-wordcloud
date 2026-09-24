@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-24T04:35:46.909Z",
+  "generated_at": "2026-09-24T04:50:49.440Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      13,
+      12,
       "anger"
     ],
     [
       "president",
-      9,
+      8,
       "trust"
     ],
     [
@@ -43,9 +43,9 @@
       "trust"
     ],
     [
-      "leader",
+      "happened",
       4,
-      "trust"
+      "anticipation"
     ],
     [
       "world",
@@ -98,9 +98,9 @@
       "trust"
     ],
     [
-      "happened",
+      "leader",
       3,
-      "anticipation"
+      "trust"
     ],
     [
       "family",
@@ -248,16 +248,6 @@
       "trust"
     ],
     [
-      "setbacks",
-      1,
-      "sadness"
-    ],
-    [
-      "arriving",
-      1,
-      "anticipation"
-    ],
-    [
       "die",
       1,
       "fear"
@@ -376,16 +366,26 @@
       "sentencing",
       1,
       "anger"
+    ],
+    [
+      "appeals",
+      1,
+      "anticipation"
+    ],
+    [
+      "production",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 71,
+    "trust": 69,
     "fear": 56,
     "surprise": 19,
-    "sadness": 12,
+    "sadness": 11,
     "disgust": 5,
-    "anger": 95,
+    "anger": 94,
     "anticipation": 25
   }
 }
