@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-24T14:56:31.081Z",
+  "generated_at": "2026-09-24T15:11:34.368Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      12,
+      11,
       "anger"
     ],
     [
       "president",
-      8,
+      7,
       "trust"
     ],
     [
@@ -23,17 +23,7 @@
       "anger"
     ],
     [
-      "world",
-      5,
-      "trust"
-    ],
-    [
       "war",
-      5,
-      "anger"
-    ],
-    [
-      "attack",
       5,
       "anger"
     ],
@@ -41,6 +31,16 @@
       "threats",
       4,
       "anger"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
+      "world",
+      4,
+      "trust"
     ],
     [
       "government",
@@ -58,9 +58,9 @@
       "trust"
     ],
     [
-      "top",
-      3,
-      "trust"
+      "attack",
+      4,
+      "anger"
     ],
     [
       "agreement",
@@ -71,11 +71,6 @@
       "sentenced",
       3,
       "anger"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "council",
@@ -101,6 +96,31 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "chicken",
+      2,
+      "fear"
+    ],
+    [
+      "art",
+      2,
+      "sadness"
+    ],
+    [
+      "top",
+      2,
+      "trust"
+    ],
+    [
+      "murders",
+      2,
+      "anger"
+    ],
+    [
+      "die",
+      2,
+      "fear"
     ],
     [
       "inequality",
@@ -153,17 +173,7 @@
       "fear"
     ],
     [
-      "achievements",
-      2,
-      "joy"
-    ],
-    [
       "fragile",
-      2,
-      "fear"
-    ],
-    [
-      "risk",
       2,
       "fear"
     ],
@@ -184,11 +194,6 @@
     ],
     [
       "killed",
-      2,
-      "fear"
-    ],
-    [
-      "intelligence",
       2,
       "fear"
     ],
@@ -243,14 +248,29 @@
       "sadness"
     ],
     [
-      "growing",
-      2,
-      "joy"
+      "denied",
+      1,
+      "sadness"
     ],
     [
-      "warn",
-      2,
-      "fear"
+      "authority",
+      1,
+      "trust"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "row",
+      1,
+      "anger"
+    ],
+    [
+      "improve",
+      1,
+      "joy"
     ],
     [
       "continue",
@@ -278,24 +298,29 @@
       "trust"
     ],
     [
-      "denied",
-      1,
-      "sadness"
-    ],
-    [
-      "authority",
-      1,
-      "trust"
-    ],
-    [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "row",
+      "pow",
       1,
       "anger"
+    ],
+    [
+      "accused",
+      1,
+      "anger"
+    ],
+    [
+      "judiciary",
+      1,
+      "trust"
+    ],
+    [
+      "prosecute",
+      1,
+      "anger"
+    ],
+    [
+      "suspects",
+      1,
+      "fear"
     ],
     [
       "leaning",
@@ -351,41 +376,16 @@
       "star",
       1,
       "joy"
-    ],
-    [
-      "public",
-      1,
-      "anticipation"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
-    ],
-    [
-      "defiant",
-      1,
-      "anger"
-    ],
-    [
-      "isolation",
-      1,
-      "sadness"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 69,
-    "fear": 47,
-    "surprise": 22,
-    "sadness": 11,
-    "disgust": 5,
-    "anger": 101,
+    "joy": 19,
+    "trust": 65,
+    "fear": 48,
+    "surprise": 18,
+    "sadness": 12,
+    "disgust": 4,
+    "anger": 103,
     "anticipation": 24
   }
 }
