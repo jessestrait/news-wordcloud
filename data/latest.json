@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:37:21.187Z",
+  "generated_at": "2026-09-24T07:52:23.493Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "president",
-      8,
+      9,
       "trust"
     ],
     [
@@ -23,9 +23,19 @@
       "anger"
     ],
     [
+      "general",
+      6,
+      "trust"
+    ],
+    [
       "iran",
       6,
       "anger"
+    ],
+    [
+      "assembly",
+      5,
+      "trust"
     ],
     [
       "war",
@@ -38,16 +48,6 @@
       "fear"
     ],
     [
-      "general",
-      5,
-      "trust"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "world",
       4,
       "trust"
@@ -58,14 +58,14 @@
       "anticipation"
     ],
     [
-      "assembly",
-      4,
-      "trust"
-    ],
-    [
       "gaza",
       3,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "lawyer",
@@ -98,23 +98,13 @@
       "fear"
     ],
     [
-      "home",
-      3,
-      "joy"
-    ],
-    [
       "top",
       3,
       "trust"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
-      "loss",
-      3,
+      "strikes",
+      2,
       "anger"
     ],
     [
@@ -173,6 +163,11 @@
       "trust"
     ],
     [
+      "home",
+      2,
+      "joy"
+    ],
+    [
       "base",
       2,
       "trust"
@@ -186,6 +181,11 @@
       "court",
       2,
       "anger"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
     ],
     [
       "official",
@@ -261,11 +261,6 @@
       "destruction",
       1,
       "anger"
-    ],
-    [
-      "remains",
-      1,
-      "fear"
     ],
     [
       "die",
@@ -376,16 +371,21 @@
       "obituary",
       1,
       "sadness"
+    ],
+    [
+      "assault",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 69,
-    "fear": 55,
+    "joy": 22,
+    "trust": 70,
+    "fear": 54,
     "surprise": 19,
     "sadness": 11,
     "disgust": 5,
-    "anger": 96,
-    "anticipation": 24
+    "anger": 95,
+    "anticipation": 23
   }
 }
