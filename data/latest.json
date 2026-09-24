@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:10:15.791Z",
+  "generated_at": "2026-09-24T13:25:18.747Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,9 +23,9 @@
       "trust"
     ],
     [
-      "general",
+      "war",
       6,
-      "trust"
+      "anger"
     ],
     [
       "iran",
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
-      "assembly",
+      "general",
       5,
       "trust"
     ],
     [
-      "war",
+      "assembly",
       5,
-      "anger"
+      "trust"
     ],
     [
       "killed",
@@ -51,6 +51,21 @@
       "world",
       4,
       "trust"
+    ],
+    [
+      "family",
+      3,
+      "joy"
+    ],
+    [
+      "sentenced",
+      3,
+      "anger"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "gaza",
@@ -108,6 +123,11 @@
       "fear"
     ],
     [
+      "jail",
+      2,
+      "fear"
+    ],
+    [
       "expected",
       2,
       "anticipation"
@@ -153,11 +173,6 @@
       "anticipation"
     ],
     [
-      "sentenced",
-      2,
-      "anger"
-    ],
-    [
       "case",
       2,
       "fear"
@@ -198,19 +213,9 @@
       "anger"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "fall",
       2,
       "sadness"
-    ],
-    [
-      "family",
-      2,
-      "joy"
     ],
     [
       "growing",
@@ -218,9 +223,14 @@
       "joy"
     ],
     [
-      "trade",
-      2,
-      "trust"
+      "twins",
+      1,
+      "joy"
+    ],
+    [
+      "god",
+      1,
+      "surprise"
     ],
     [
       "escalate",
@@ -366,26 +376,16 @@
       "choking",
       1,
       "anger"
-    ],
-    [
-      "wounded",
-      1,
-      "anger"
-    ],
-    [
-      "poisonous",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 63,
-    "fear": 51,
-    "surprise": 19,
-    "sadness": 12,
+    "joy": 24,
+    "trust": 61,
+    "fear": 52,
+    "surprise": 20,
+    "sadness": 13,
     "disgust": 5,
-    "anger": 93,
+    "anger": 94,
     "anticipation": 27
   }
 }
