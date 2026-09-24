@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-09-24T12:24:50.510Z",
+  "generated_at": "2026-09-24T12:39:52.661Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      12,
+      11,
       "anger"
-    ],
-    [
-      "president",
-      8,
-      "trust"
     ],
     [
       "deal",
@@ -21,6 +16,11 @@
       "attack",
       7,
       "anger"
+    ],
+    [
+      "president",
+      7,
+      "trust"
     ],
     [
       "general",
@@ -148,11 +148,6 @@
       "trust"
     ],
     [
-      "mind",
-      2,
-      "trust"
-    ],
-    [
       "ready",
       2,
       "anticipation"
@@ -226,6 +221,26 @@
       "trade",
       2,
       "trust"
+    ],
+    [
+      "abuse",
+      1,
+      "anger"
+    ],
+    [
+      "star",
+      1,
+      "joy"
+    ],
+    [
+      "public",
+      1,
+      "anticipation"
+    ],
+    [
+      "investigation",
+      1,
+      "anticipation"
     ],
     [
       "escalate",
@@ -361,31 +376,16 @@
       "poisonous",
       1,
       "anger"
-    ],
-    [
-      "disinformation",
-      1,
-      "anger"
-    ],
-    [
-      "despair",
-      1,
-      "anger"
-    ],
-    [
-      "deceitful",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 65,
-    "fear": 54,
+    "joy": 22,
+    "trust": 63,
+    "fear": 51,
     "surprise": 19,
     "sadness": 12,
     "disgust": 5,
-    "anger": 94,
-    "anticipation": 25
+    "anger": 93,
+    "anticipation": 27
   }
 }
