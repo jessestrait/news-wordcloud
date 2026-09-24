@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-24T15:57:00.240Z",
+  "generated_at": "2026-09-24T16:12:02.722Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      11,
+      10,
       "anger"
     ],
     [
@@ -20,6 +20,11 @@
     [
       "iran",
       6,
+      "anger"
+    ],
+    [
+      "attack",
+      5,
       "anger"
     ],
     [
@@ -56,11 +61,6 @@
       "assembly",
       4,
       "trust"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "fear",
@@ -101,6 +101,11 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "intelligence",
+      2,
+      "fear"
     ],
     [
       "rebel",
@@ -258,21 +263,6 @@
       "sadness"
     ],
     [
-      "homeless",
-      1,
-      "anger"
-    ],
-    [
-      "invasion",
-      1,
-      "anger"
-    ],
-    [
-      "people",
-      1,
-      "trust"
-    ],
-    [
       "denied",
       1,
       "sadness"
@@ -291,6 +281,36 @@
       "row",
       1,
       "anger"
+    ],
+    [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
+    ],
+    [
+      "sabotage",
+      1,
+      "anger"
+    ],
+    [
+      "homeless",
+      1,
+      "anger"
+    ],
+    [
+      "invasion",
+      1,
+      "anger"
+    ],
+    [
+      "people",
+      1,
+      "trust"
     ],
     [
       "rescued",
@@ -356,36 +376,16 @@
       "provide",
       1,
       "trust"
-    ],
-    [
-      "critical",
-      1,
-      "trust"
-    ],
-    [
-      "limited",
-      1,
-      "anger"
-    ],
-    [
-      "alliance",
-      1,
-      "trust"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 64,
-    "fear": 46,
+    "trust": 62,
+    "fear": 49,
     "surprise": 20,
     "sadness": 13,
     "disgust": 4,
-    "anger": 109,
-    "anticipation": 25
+    "anger": 110,
+    "anticipation": 23
   }
 }
