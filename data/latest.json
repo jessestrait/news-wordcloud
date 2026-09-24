@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T04:05:27.066Z",
+  "generated_at": "2026-09-24T04:20:29.406Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "surprise"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "attack",
       7,
       "anger"
@@ -30,6 +25,11 @@
     [
       "iran",
       6,
+      "anger"
+    ],
+    [
+      "war",
+      5,
       "anger"
     ],
     [
@@ -68,6 +68,16 @@
       "trust"
     ],
     [
+      "lawyer",
+      3,
+      "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "military",
       3,
       "fear"
@@ -101,6 +111,11 @@
       "loss",
       3,
       "anger"
+    ],
+    [
+      "vows",
+      2,
+      "joy"
     ],
     [
       "threats",
@@ -153,11 +168,6 @@
       "trust"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "base",
       2,
       "trust"
@@ -196,11 +206,6 @@
       "death",
       2,
       "sadness"
-    ],
-    [
-      "lawyer",
-      2,
-      "anger"
     ],
     [
       "fall",
@@ -243,9 +248,19 @@
       "trust"
     ],
     [
-      "parliament",
-      2,
-      "trust"
+      "die",
+      1,
+      "fear"
+    ],
+    [
+      "child",
+      1,
+      "joy"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
     ],
     [
       "supremacy",
@@ -361,31 +376,16 @@
       "sentencing",
       1,
       "anger"
-    ],
-    [
-      "appeals",
-      1,
-      "anticipation"
-    ],
-    [
-      "production",
-      1,
-      "anticipation"
-    ],
-    [
-      "reality",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 75,
-    "fear": 54,
+    "joy": 26,
+    "trust": 71,
+    "fear": 56,
     "surprise": 19,
     "sadness": 12,
     "disgust": 5,
-    "anger": 97,
+    "anger": 95,
     "anticipation": 25
   }
 }
