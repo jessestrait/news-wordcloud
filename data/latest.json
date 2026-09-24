@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:29:08.448Z",
+  "generated_at": "2026-09-24T19:44:11.002Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,9 +33,9 @@
       "trust"
     ],
     [
-      "calls",
-      4,
-      "trust"
+      "happened",
+      5,
+      "anticipation"
     ],
     [
       "world",
@@ -43,19 +43,19 @@
       "trust"
     ],
     [
-      "happened",
+      "calls",
       4,
-      "anticipation"
-    ],
-    [
-      "gaza",
-      3,
-      "anger"
+      "trust"
     ],
     [
       "hails",
       3,
       "trust"
+    ],
+    [
+      "gaza",
+      3,
+      "anger"
     ],
     [
       "strait",
@@ -386,6 +386,6 @@
     "sadness": 12,
     "disgust": 4,
     "anger": 110,
-    "anticipation": 23
+    "anticipation": 24
   }
 }
