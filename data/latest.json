@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:37:33.526Z",
+  "generated_at": "2026-09-25T11:52:36.017Z",
   "article_count": 50,
   "top_words": [
     [
@@ -218,6 +218,26 @@
       "anger"
     ],
     [
+      "warns",
+      1,
+      "fear"
+    ],
+    [
+      "creating",
+      1,
+      "joy"
+    ],
+    [
+      "machines",
+      1,
+      "trust"
+    ],
+    [
+      "landmark",
+      1,
+      "trust"
+    ],
+    [
       "shameful",
       1,
       "sadness"
@@ -261,26 +281,6 @@
       "clashes",
       1,
       "anger"
-    ],
-    [
-      "warns",
-      1,
-      "fear"
-    ],
-    [
-      "creating",
-      1,
-      "joy"
-    ],
-    [
-      "machines",
-      1,
-      "trust"
-    ],
-    [
-      "landmark",
-      1,
-      "trust"
     ],
     [
       "second",
