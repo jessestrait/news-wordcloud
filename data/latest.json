@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-25T13:38:47.825Z",
+  "generated_at": "2026-09-25T13:53:50.376Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      12,
+      13,
       "anger"
     ],
     [
       "president",
-      7,
+      8,
       "trust"
     ],
     [
@@ -23,24 +23,19 @@
       "trust"
     ],
     [
+      "police",
+      4,
+      "fear"
+    ],
+    [
       "iran",
       4,
       "anger"
     ],
     [
-      "deal",
-      4,
-      "surprise"
-    ],
-    [
       "warning",
       3,
       "fear"
-    ],
-    [
-      "hope",
-      3,
-      "surprise"
     ],
     [
       "leaders",
@@ -56,11 +51,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "hails",
-      3,
-      "trust"
     ],
     [
       "calls",
@@ -88,14 +78,14 @@
       "anger"
     ],
     [
-      "council",
+      "deal",
       3,
-      "trust"
+      "surprise"
     ],
     [
-      "police",
-      3,
-      "fear"
+      "vows",
+      2,
+      "joy"
     ],
     [
       "accused",
@@ -118,14 +108,19 @@
       "fear"
     ],
     [
-      "emergency",
+      "hope",
       2,
-      "fear"
+      "surprise"
     ],
     [
       "change",
       2,
       "fear"
+    ],
+    [
+      "hails",
+      2,
+      "trust"
     ],
     [
       "intelligence",
@@ -203,6 +198,11 @@
       "fear"
     ],
     [
+      "council",
+      2,
+      "trust"
+    ],
+    [
       "case",
       2,
       "fear"
@@ -231,6 +231,51 @@
       "landmark",
       1,
       "trust"
+    ],
+    [
+      "khan",
+      1,
+      "fear"
+    ],
+    [
+      "barricaded",
+      1,
+      "fear"
+    ],
+    [
+      "demands",
+      1,
+      "anger"
+    ],
+    [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
+      "progress",
+      1,
+      "joy"
+    ],
+    [
+      "hailed",
+      1,
+      "trust"
+    ],
+    [
+      "nothing",
+      1,
+      "sadness"
+    ],
+    [
+      "achieved",
+      1,
+      "joy"
+    ],
+    [
+      "thorny",
+      1,
+      "fear"
     ],
     [
       "scared",
@@ -308,6 +353,11 @@
       "trust"
     ],
     [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
       "stark",
       1,
       "trust"
@@ -326,64 +376,14 @@
       "truths",
       1,
       "trust"
-    ],
-    [
-      "collectively",
-      1,
-      "trust"
-    ],
-    [
-      "found",
-      1,
-      "joy"
-    ],
-    [
-      "flood",
-      1,
-      "fear"
-    ],
-    [
-      "scolds",
-      1,
-      "anger"
-    ],
-    [
-      "reconstruction",
-      1,
-      "anticipation"
-    ],
-    [
-      "appealed",
-      1,
-      "anticipation"
-    ],
-    [
-      "resources",
-      1,
-      "joy"
-    ],
-    [
-      "meddling",
-      1,
-      "anger"
-    ],
-    [
-      "vote",
-      1,
-      "anger"
-    ],
-    [
-      "opponents",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 64,
-    "fear": 47,
-    "surprise": 14,
-    "sadness": 11,
+    "joy": 21,
+    "trust": 62,
+    "fear": 50,
+    "surprise": 11,
+    "sadness": 12,
     "disgust": 5,
     "anger": 103,
     "anticipation": 23
