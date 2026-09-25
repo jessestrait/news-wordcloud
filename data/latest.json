@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-09-25T03:33:15.006Z",
+  "generated_at": "2026-09-25T03:48:17.508Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      13,
+      14,
       "anger"
+    ],
+    [
+      "president",
+      7,
+      "trust"
     ],
     [
       "war",
@@ -26,11 +31,6 @@
       "attack",
       6,
       "anger"
-    ],
-    [
-      "president",
-      6,
-      "trust"
     ],
     [
       "happened",
@@ -173,16 +173,6 @@
       "surprise"
     ],
     [
-      "family",
-      2,
-      "joy"
-    ],
-    [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "jail",
       2,
       "fear"
@@ -191,11 +181,6 @@
       "fragile",
       2,
       "fear"
-    ],
-    [
-      "lawyer",
-      2,
-      "anger"
     ],
     [
       "military",
@@ -253,9 +238,24 @@
       "anger"
     ],
     [
-      "fall",
-      2,
-      "sadness"
+      "resources",
+      1,
+      "joy"
+    ],
+    [
+      "meddling",
+      1,
+      "anger"
+    ],
+    [
+      "vote",
+      1,
+      "anger"
+    ],
+    [
+      "opponents",
+      1,
+      "anger"
     ],
     [
       "awaiting",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 60,
-    "fear": 47,
+    "trust": 61,
+    "fear": 45,
     "surprise": 18,
-    "sadness": 12,
+    "sadness": 10,
     "disgust": 4,
-    "anger": 111,
+    "anger": 113,
     "anticipation": 25
   }
 }
