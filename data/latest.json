@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:39:57.943Z",
+  "generated_at": "2026-09-25T15:55:00.689Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "president",
-      8,
+      7,
       "trust"
     ],
     [
@@ -18,19 +18,29 @@
       "anger"
     ],
     [
+      "iran",
+      6,
+      "anger"
+    ],
+    [
       "world",
       6,
       "trust"
     ],
     [
+      "deal",
+      4,
+      "surprise"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "police",
       4,
       "fear"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
     ],
     [
       "warning",
@@ -46,16 +56,6 @@
       "missile",
       3,
       "fear"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
-      "calls",
-      3,
-      "trust"
     ],
     [
       "gaza",
@@ -78,9 +78,9 @@
       "anger"
     ],
     [
-      "deal",
-      3,
-      "surprise"
+      "hormuz",
+      2,
+      "fear"
     ],
     [
       "vows",
@@ -119,6 +119,11 @@
     ],
     [
       "hails",
+      2,
+      "trust"
+    ],
+    [
+      "calls",
       2,
       "trust"
     ],
@@ -208,9 +213,9 @@
       "fear"
     ],
     [
-      "court",
-      2,
-      "anger"
+      "tough",
+      1,
+      "sadness"
     ],
     [
       "warns",
@@ -371,21 +376,16 @@
       "collectively",
       1,
       "trust"
-    ],
-    [
-      "found",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 61,
-    "fear": 50,
-    "surprise": 11,
-    "sadness": 12,
+    "joy": 19,
+    "trust": 59,
+    "fear": 51,
+    "surprise": 12,
+    "sadness": 13,
     "disgust": 5,
-    "anger": 103,
-    "anticipation": 23
+    "anger": 102,
+    "anticipation": 24
   }
 }
