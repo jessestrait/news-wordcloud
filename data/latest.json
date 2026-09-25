@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-09-25T15:55:20.765Z",
+  "generated_at": "2026-09-25T16:10:24.080Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      13,
+      12,
       "anger"
-    ],
-    [
-      "president",
-      7,
-      "trust"
     ],
     [
       "war",
@@ -23,9 +18,19 @@
       "anger"
     ],
     [
-      "world",
+      "president",
       6,
       "trust"
+    ],
+    [
+      "world",
+      5,
+      "trust"
+    ],
+    [
+      "threat",
+      4,
+      "anger"
     ],
     [
       "deal",
@@ -40,6 +45,11 @@
     [
       "police",
       4,
+      "fear"
+    ],
+    [
+      "intelligence",
+      3,
       "fear"
     ],
     [
@@ -73,9 +83,19 @@
       "fear"
     ],
     [
-      "threats",
-      3,
-      "anger"
+      "warns",
+      2,
+      "fear"
+    ],
+    [
+      "people",
+      2,
+      "trust"
+    ],
+    [
+      "official",
+      2,
+      "trust"
     ],
     [
       "hormuz",
@@ -126,11 +146,6 @@
       "calls",
       2,
       "trust"
-    ],
-    [
-      "intelligence",
-      2,
-      "fear"
     ],
     [
       "rebel",
@@ -198,11 +213,6 @@
       "fear"
     ],
     [
-      "fragile",
-      2,
-      "fear"
-    ],
-    [
       "council",
       2,
       "trust"
@@ -213,14 +223,24 @@
       "fear"
     ],
     [
+      "humanity",
+      1,
+      "joy"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
+      "pontiff",
+      1,
+      "trust"
+    ],
+    [
       "tough",
       1,
       "sadness"
-    ],
-    [
-      "warns",
-      1,
-      "fear"
     ],
     [
       "landmark",
@@ -343,11 +363,6 @@
       "anger"
     ],
     [
-      "people",
-      1,
-      "trust"
-    ],
-    [
       "emergency",
       1,
       "fear"
@@ -361,27 +376,12 @@
       "sharing",
       1,
       "joy"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
-    ],
-    [
-      "truths",
-      1,
-      "trust"
-    ],
-    [
-      "collectively",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 59,
-    "fear": 51,
+    "joy": 20,
+    "trust": 60,
+    "fear": 52,
     "surprise": 12,
     "sadness": 13,
     "disgust": 5,
