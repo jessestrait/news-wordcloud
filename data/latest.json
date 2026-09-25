@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-09-25T08:35:51.338Z",
+  "generated_at": "2026-09-25T08:50:53.414Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      14,
+      12,
+      "anger"
+    ],
+    [
+      "war",
+      8,
       "anger"
     ],
     [
@@ -13,14 +18,9 @@
       "trust"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
-      "iran",
+      "world",
       6,
-      "anger"
+      "trust"
     ],
     [
       "attack",
@@ -29,23 +29,23 @@
     ],
     [
       "deal",
-      6,
+      5,
       "surprise"
     ],
     [
-      "world",
-      5,
+      "iran",
+      4,
+      "anger"
+    ],
+    [
+      "leader",
+      4,
       "trust"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
-      "calls",
-      4,
-      "trust"
+      "warning",
+      3,
+      "fear"
     ],
     [
       "hope",
@@ -53,7 +53,22 @@
       "surprise"
     ],
     [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "hails",
+      3,
+      "trust"
+    ],
+    [
+      "calls",
       3,
       "trust"
     ],
@@ -88,32 +103,12 @@
       "fear"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
       "emergency",
       2,
       "fear"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
-      "difficult",
-      2,
-      "fear"
-    ],
-    [
-      "strait",
-      2,
-      "fear"
-    ],
-    [
-      "hormuz",
+      "change",
       2,
       "fear"
     ],
@@ -213,16 +208,6 @@
       "anger"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "landmark",
       1,
       "trust"
@@ -248,6 +233,11 @@
       "joy"
     ],
     [
+      "difficult",
+      1,
+      "fear"
+    ],
+    [
       "truths",
       1,
       "trust"
@@ -266,6 +256,26 @@
       "found",
       1,
       "joy"
+    ],
+    [
+      "flood",
+      1,
+      "fear"
+    ],
+    [
+      "scolds",
+      1,
+      "anger"
+    ],
+    [
+      "reconstruction",
+      1,
+      "anticipation"
+    ],
+    [
+      "appealed",
+      1,
+      "anticipation"
     ],
     [
       "resources",
@@ -288,9 +298,29 @@
       "anger"
     ],
     [
+      "winning",
+      1,
+      "disgust"
+    ],
+    [
+      "titles",
+      1,
+      "trust"
+    ],
+    [
       "awaiting",
       1,
       "anticipation"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
     ],
     [
       "condemns",
@@ -346,46 +376,16 @@
       "fire",
       1,
       "fear"
-    ],
-    [
-      "sabotage",
-      1,
-      "anger"
-    ],
-    [
-      "rescued",
-      1,
-      "surprise"
-    ],
-    [
-      "bears",
-      1,
-      "anger"
-    ],
-    [
-      "sanctuary",
-      1,
-      "joy"
-    ],
-    [
-      "awareness",
-      1,
-      "trust"
-    ],
-    [
-      "cages",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 62,
-    "fear": 46,
-    "surprise": 18,
-    "sadness": 10,
-    "disgust": 4,
-    "anger": 110,
-    "anticipation": 21
+    "trust": 63,
+    "fear": 47,
+    "surprise": 17,
+    "sadness": 9,
+    "disgust": 5,
+    "anger": 105,
+    "anticipation": 22
   }
 }
