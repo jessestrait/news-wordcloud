@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:07:09.051Z",
+  "generated_at": "2026-09-25T11:22:11.653Z",
   "article_count": 50,
   "top_words": [
     [
@@ -100,6 +100,11 @@
     [
       "police",
       3,
+      "fear"
+    ],
+    [
+      "warns",
+      2,
       "fear"
     ],
     [
@@ -206,6 +211,16 @@
       "court",
       2,
       "anger"
+    ],
+    [
+      "creating",
+      1,
+      "joy"
+    ],
+    [
+      "machines",
+      1,
+      "trust"
     ],
     [
       "landmark",
@@ -361,27 +376,12 @@
       "letter",
       1,
       "anticipation"
-    ],
-    [
-      "law",
-      1,
-      "trust"
-    ],
-    [
-      "don",
-      1,
-      "trust"
-    ],
-    [
-      "policy",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 63,
-    "fear": 48,
+    "joy": 20,
+    "trust": 64,
+    "fear": 49,
     "surprise": 16,
     "sadness": 9,
     "disgust": 5,
