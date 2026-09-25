@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:25:26.683Z",
+  "generated_at": "2026-09-25T16:40:29.336Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,6 +83,16 @@
       "fear"
     ],
     [
+      "rat",
+      2,
+      "fear"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "warns",
       2,
       "fear"
@@ -153,11 +163,6 @@
       "anger"
     ],
     [
-      "fears",
-      2,
-      "anger"
-    ],
-    [
       "chicken",
       2,
       "fear"
@@ -176,11 +181,6 @@
       "die",
       2,
       "fear"
-    ],
-    [
-      "tackle",
-      2,
-      "anger"
     ],
     [
       "reality",
@@ -221,6 +221,21 @@
       "case",
       2,
       "fear"
+    ],
+    [
+      "patrol",
+      1,
+      "trust"
+    ],
+    [
+      "operations",
+      1,
+      "fear"
+    ],
+    [
+      "vermin",
+      1,
+      "anger"
     ],
     [
       "humanity",
@@ -361,31 +376,16 @@
       "anxiety",
       1,
       "anger"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "stark",
-      1,
-      "trust"
-    ],
-    [
-      "sharing",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
     "trust": 60,
-    "fear": 52,
+    "fear": 55,
     "surprise": 12,
     "sadness": 13,
     "disgust": 5,
-    "anger": 102,
+    "anger": 101,
     "anticipation": 24
   }
 }
