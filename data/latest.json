@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T07:35:26.924Z",
+  "generated_at": "2026-09-25T07:50:29.191Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,11 +118,6 @@
       "fear"
     ],
     [
-      "letter",
-      2,
-      "anticipation"
-    ],
-    [
       "intelligence",
       2,
       "fear"
@@ -228,6 +223,11 @@
       "anger"
     ],
     [
+      "landmark",
+      1,
+      "trust"
+    ],
+    [
       "anxiety",
       1,
       "anger"
@@ -318,6 +318,11 @@
       "trust"
     ],
     [
+      "letter",
+      1,
+      "anticipation"
+    ],
+    [
       "law",
       1,
       "trust"
@@ -371,21 +376,16 @@
       "cages",
       1,
       "sadness"
-    ],
-    [
-      "bile",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
     "trust": 62,
-    "fear": 47,
+    "fear": 46,
     "surprise": 18,
     "sadness": 10,
     "disgust": 4,
-    "anger": 113,
-    "anticipation": 22
+    "anger": 110,
+    "anticipation": 21
   }
 }
