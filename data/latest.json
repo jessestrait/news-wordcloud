@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:21:43.168Z",
+  "generated_at": "2026-09-25T10:36:45.762Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,11 @@
       "fear"
     ],
     [
+      "hurricane",
+      2,
+      "fear"
+    ],
+    [
       "emergency",
       2,
       "fear"
@@ -193,11 +198,6 @@
       "anticipation"
     ],
     [
-      "force",
-      2,
-      "anger"
-    ],
-    [
       "case",
       2,
       "fear"
@@ -211,6 +211,16 @@
       "landmark",
       1,
       "trust"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "intense",
+      1,
+      "anger"
     ],
     [
       "anxiety",
@@ -366,26 +376,16 @@
       "policy",
       1,
       "trust"
-    ],
-    [
-      "competition",
-      1,
-      "anticipation"
-    ],
-    [
-      "fire",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
     "trust": 63,
-    "fear": 47,
-    "surprise": 17,
+    "fear": 48,
+    "surprise": 16,
     "sadness": 9,
     "disgust": 5,
-    "anger": 105,
-    "anticipation": 22
+    "anger": 104,
+    "anticipation": 21
   }
 }
