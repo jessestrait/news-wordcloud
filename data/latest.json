@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:08:52.336Z",
+  "generated_at": "2026-09-25T14:23:54.437Z",
   "article_count": 50,
   "top_words": [
     [
@@ -218,16 +218,6 @@
       "fear"
     ],
     [
-      "creating",
-      1,
-      "joy"
-    ],
-    [
-      "machines",
-      1,
-      "trust"
-    ],
-    [
       "landmark",
       1,
       "trust"
@@ -376,11 +366,21 @@
       "truths",
       1,
       "trust"
+    ],
+    [
+      "collectively",
+      1,
+      "trust"
+    ],
+    [
+      "found",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 62,
+    "joy": 20,
+    "trust": 61,
     "fear": 50,
     "surprise": 11,
     "sadness": 12,
