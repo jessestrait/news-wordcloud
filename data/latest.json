@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:38:05.506Z",
+  "generated_at": "2026-09-25T12:53:08.008Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,11 +31,6 @@
       "deal",
       4,
       "surprise"
-    ],
-    [
-      "plans",
-      3,
-      "anticipation"
     ],
     [
       "warning",
@@ -111,6 +106,11 @@
       "shows",
       2,
       "trust"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "hurricane",
@@ -258,14 +258,19 @@
       "anger"
     ],
     [
-      "renovation",
+      "dark",
       1,
-      "joy"
+      "sadness"
     ],
     [
-      "disagreements",
+      "hated",
       1,
       "anger"
+    ],
+    [
+      "renovate",
+      1,
+      "anticipation"
     ],
     [
       "building",
@@ -371,19 +376,14 @@
       "opponents",
       1,
       "anger"
-    ],
-    [
-      "winning",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 19,
     "trust": 64,
     "fear": 47,
     "surprise": 14,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 5,
     "anger": 103,
     "anticipation": 23
