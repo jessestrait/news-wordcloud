@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-25T18:26:46.233Z",
+  "generated_at": "2026-09-25T18:41:48.279Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      12,
+      13,
       "anger"
     ],
     [
@@ -43,9 +43,14 @@
       "anticipation"
     ],
     [
-      "police",
+      "attack",
       4,
-      "fear"
+      "anger"
+    ],
+    [
+      "calls",
+      3,
+      "trust"
     ],
     [
       "rat",
@@ -78,14 +83,14 @@
       "anger"
     ],
     [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
       "government",
       3,
       "fear"
+    ],
+    [
+      "court",
+      2,
+      "anger"
     ],
     [
       "warns",
@@ -111,6 +116,11 @@
       "vows",
       2,
       "joy"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "accused",
@@ -148,11 +158,6 @@
       "trust"
     ],
     [
-      "calls",
-      2,
-      "trust"
-    ],
-    [
       "rebel",
       2,
       "anger"
@@ -166,11 +171,6 @@
       "art",
       2,
       "sadness"
-    ],
-    [
-      "top",
-      2,
-      "trust"
     ],
     [
       "die",
@@ -213,9 +213,19 @@
       "trust"
     ],
     [
-      "case",
-      2,
+      "alarm",
+      1,
       "fear"
+    ],
+    [
+      "threatened",
+      1,
+      "anger"
+    ],
+    [
+      "criminal",
+      1,
+      "anger"
     ],
     [
       "self",
@@ -366,26 +376,16 @@
       "second",
       1,
       "trust"
-    ],
-    [
-      "intense",
-      1,
-      "anger"
-    ],
-    [
-      "anxiety",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 62,
-    "fear": 55,
+    "trust": 61,
+    "fear": 52,
     "surprise": 12,
     "sadness": 14,
-    "disgust": 5,
-    "anger": 100,
+    "disgust": 4,
+    "anger": 104,
     "anticipation": 24
   }
 }
