@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:56:26.641Z",
+  "generated_at": "2026-09-25T18:11:29.200Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anger"
     ],
     [
+      "world",
+      6,
+      "trust"
+    ],
+    [
       "iran",
       6,
       "anger"
@@ -20,11 +25,6 @@
     [
       "president",
       6,
-      "trust"
-    ],
-    [
-      "world",
-      5,
       "trust"
     ],
     [
@@ -45,6 +45,11 @@
     [
       "police",
       4,
+      "fear"
+    ],
+    [
+      "rat",
+      3,
       "fear"
     ],
     [
@@ -81,16 +86,6 @@
       "government",
       3,
       "fear"
-    ],
-    [
-      "rat",
-      2,
-      "fear"
-    ],
-    [
-      "hit",
-      2,
-      "anger"
     ],
     [
       "warns",
@@ -223,14 +218,19 @@
       "fear"
     ],
     [
-      "patrol",
+      "self",
       1,
       "trust"
     ],
     [
-      "operations",
+      "shattered",
       1,
-      "fear"
+      "sadness"
+    ],
+    [
+      "patrol",
+      1,
+      "trust"
     ],
     [
       "vermin",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 60,
+    "trust": 62,
     "fear": 55,
     "surprise": 12,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 101,
+    "anger": 100,
     "anticipation": 24
   }
 }
