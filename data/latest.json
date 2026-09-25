@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:52:36.017Z",
+  "generated_at": "2026-09-25T12:07:38.486Z",
   "article_count": 50,
   "top_words": [
     [
@@ -111,11 +111,6 @@
       "shows",
       2,
       "trust"
-    ],
-    [
-      "vote",
-      2,
-      "anger"
     ],
     [
       "hurricane",
@@ -238,9 +233,9 @@
       "trust"
     ],
     [
-      "shameful",
+      "scared",
       1,
-      "sadness"
+      "anger"
     ],
     [
       "cap",
@@ -253,7 +248,12 @@
       "trust"
     ],
     [
-      "scared",
+      "worried",
+      1,
+      "sadness"
+    ],
+    [
+      "losing",
       1,
       "anger"
     ],
@@ -363,6 +363,11 @@
       "anger"
     ],
     [
+      "vote",
+      1,
+      "anger"
+    ],
+    [
       "opponents",
       1,
       "anger"
@@ -371,11 +376,6 @@
       "winning",
       1,
       "disgust"
-    ],
-    [
-      "titles",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
