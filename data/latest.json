@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T05:34:19.729Z",
+  "generated_at": "2026-09-25T05:49:22.426Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "deal",
-      7,
-      "surprise"
-    ],
-    [
       "iran",
       6,
       "anger"
@@ -33,19 +28,29 @@
       "anger"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
+      "deal",
+      6,
+      "surprise"
     ],
     [
       "world",
-      4,
+      5,
       "trust"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "calls",
       4,
       "trust"
+    ],
+    [
+      "hope",
+      3,
+      "surprise"
     ],
     [
       "hails",
@@ -68,11 +73,6 @@
       "anger"
     ],
     [
-      "agreement",
-      3,
-      "trust"
-    ],
-    [
       "sentenced",
       3,
       "anger"
@@ -91,6 +91,21 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "emergency",
+      2,
+      "fear"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
+    ],
+    [
+      "difficult",
+      2,
+      "fear"
     ],
     [
       "strait",
@@ -168,9 +183,9 @@
       "anger"
     ],
     [
-      "hope",
+      "agreement",
       2,
-      "surprise"
+      "trust"
     ],
     [
       "jail",
@@ -179,11 +194,6 @@
     ],
     [
       "fragile",
-      2,
-      "fear"
-    ],
-    [
-      "military",
       2,
       "fear"
     ],
@@ -203,29 +213,9 @@
       "fear"
     ],
     [
-      "base",
-      2,
-      "trust"
-    ],
-    [
-      "seek",
-      2,
-      "anticipation"
-    ],
-    [
       "court",
       2,
       "anger"
-    ],
-    [
-      "general",
-      2,
-      "trust"
-    ],
-    [
-      "assembly",
-      2,
-      "trust"
     ],
     [
       "official",
@@ -236,6 +226,46 @@
       "hit",
       2,
       "anger"
+    ],
+    [
+      "anxiety",
+      1,
+      "anger"
+    ],
+    [
+      "people",
+      1,
+      "trust"
+    ],
+    [
+      "stark",
+      1,
+      "trust"
+    ],
+    [
+      "sharing",
+      1,
+      "joy"
+    ],
+    [
+      "truths",
+      1,
+      "trust"
+    ],
+    [
+      "collectively",
+      1,
+      "trust"
+    ],
+    [
+      "shows",
+      1,
+      "trust"
+    ],
+    [
+      "found",
+      1,
+      "joy"
     ],
     [
       "resources",
@@ -308,11 +338,6 @@
       "anticipation"
     ],
     [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
       "fire",
       1,
       "fear"
@@ -351,41 +376,16 @@
       "bile",
       1,
       "anger"
-    ],
-    [
-      "farms",
-      1,
-      "anticipation"
-    ],
-    [
-      "offensive",
-      1,
-      "anger"
-    ],
-    [
-      "fighting",
-      1,
-      "anger"
-    ],
-    [
-      "escalates",
-      1,
-      "anger"
-    ],
-    [
-      "overthrowing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 61,
-    "fear": 45,
+    "joy": 19,
+    "trust": 62,
+    "fear": 47,
     "surprise": 18,
     "sadness": 10,
     "disgust": 4,
     "anger": 113,
-    "anticipation": 25
+    "anticipation": 22
   }
 }
