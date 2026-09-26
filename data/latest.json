@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T07:33:30.280Z",
+  "generated_at": "2026-09-26T07:48:32.813Z",
   "article_count": 50,
   "top_words": [
     [
@@ -228,16 +228,6 @@
       "trust"
     ],
     [
-      "respite",
-      1,
-      "joy"
-    ],
-    [
-      "dread",
-      1,
-      "fear"
-    ],
-    [
       "prepare",
       1,
       "anticipation"
@@ -376,12 +366,22 @@
       "tough",
       1,
       "sadness"
+    ],
+    [
+      "landmark",
+      1,
+      "trust"
+    ],
+    [
+      "khan",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 23,
     "trust": 66,
-    "fear": 50,
+    "fear": 49,
     "surprise": 10,
     "sadness": 15,
     "disgust": 3,
