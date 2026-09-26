@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:38:24.887Z",
+  "generated_at": "2026-09-26T15:53:26.786Z",
   "article_count": 50,
   "top_words": [
     [
@@ -41,6 +41,16 @@
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "people",
+      3,
+      "trust"
+    ],
+    [
+      "official",
+      3,
+      "trust"
     ],
     [
       "deal",
@@ -98,6 +108,16 @@
       "anger"
     ],
     [
+      "second",
+      2,
+      "trust"
+    ],
+    [
+      "pontiff",
+      2,
+      "trust"
+    ],
+    [
       "strait",
       2,
       "fear"
@@ -141,16 +161,6 @@
       "court",
       2,
       "anger"
-    ],
-    [
-      "people",
-      2,
-      "trust"
-    ],
-    [
-      "official",
-      2,
-      "trust"
     ],
     [
       "vows",
@@ -366,24 +376,14 @@
       "shattered",
       1,
       "sadness"
-    ],
-    [
-      "patrol",
-      1,
-      "trust"
-    ],
-    [
-      "vermin",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 64,
+    "trust": 68,
     "fear": 51,
     "surprise": 11,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 3,
     "anger": 105,
     "anticipation": 27
