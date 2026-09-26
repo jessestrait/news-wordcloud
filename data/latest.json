@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T09:19:45.764Z",
+  "generated_at": "2026-09-26T09:34:48.142Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,19 +18,19 @@
       "trust"
     ],
     [
-      "attack",
+      "iran",
       6,
       "anger"
     ],
     [
-      "iran",
-      5,
-      "anger"
+      "president",
+      6,
+      "trust"
     ],
     [
-      "president",
-      5,
-      "trust"
+      "attack",
+      6,
+      "anger"
     ],
     [
       "threat",
@@ -40,6 +40,26 @@
     [
       "happened",
       4,
+      "anticipation"
+    ],
+    [
+      "deal",
+      3,
+      "surprise"
+    ],
+    [
+      "hormuz",
+      3,
+      "fear"
+    ],
+    [
+      "official",
+      3,
+      "trust"
+    ],
+    [
+      "plan",
+      3,
       "anticipation"
     ],
     [
@@ -83,6 +103,16 @@
       "anger"
     ],
     [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
       "power",
       2,
       "anticipation"
@@ -123,21 +153,6 @@
       "trust"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
-      "hormuz",
-      2,
-      "fear"
-    ],
-    [
       "vows",
       2,
       "joy"
@@ -151,11 +166,6 @@
       "shows",
       2,
       "trust"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "hurricane",
@@ -198,11 +208,6 @@
       "fear"
     ],
     [
-      "reality",
-      2,
-      "surprise"
-    ],
-    [
       "inequality",
       2,
       "anger"
@@ -228,6 +233,26 @@
       "trust"
     ],
     [
+      "rejects",
+      1,
+      "anger"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
+    ],
+    [
+      "awaits",
+      1,
+      "anticipation"
+    ],
+    [
+      "expect",
+      1,
+      "surprise"
+    ],
+    [
       "prepare",
       1,
       "anticipation"
@@ -236,11 +261,6 @@
       "food",
       1,
       "joy"
-    ],
-    [
-      "strikes",
-      1,
-      "anger"
     ],
     [
       "heart",
@@ -356,36 +376,16 @@
       "start",
       1,
       "anticipation"
-    ],
-    [
-      "pontiff",
-      1,
-      "trust"
-    ],
-    [
-      "tough",
-      1,
-      "sadness"
-    ],
-    [
-      "landmark",
-      1,
-      "trust"
-    ],
-    [
-      "khan",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 66,
-    "fear": 49,
-    "surprise": 10,
+    "joy": 24,
+    "trust": 65,
+    "fear": 51,
+    "surprise": 11,
     "sadness": 15,
     "disgust": 3,
-    "anger": 104,
-    "anticipation": 28
+    "anger": 106,
+    "anticipation": 30
   }
 }
