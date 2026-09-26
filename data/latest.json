@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-26T16:54:44.595Z",
+  "generated_at": "2026-09-26T17:09:46.582Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      11,
+      10,
       "anger"
     ],
     [
@@ -29,7 +29,7 @@
     ],
     [
       "president",
-      5,
+      4,
       "trust"
     ],
     [
@@ -53,14 +53,9 @@
       "trust"
     ],
     [
-      "official",
+      "second",
       3,
       "trust"
-    ],
-    [
-      "deal",
-      3,
-      "surprise"
     ],
     [
       "hormuz",
@@ -113,19 +108,39 @@
       "anger"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "emergency",
+      2,
+      "fear"
+    ],
+    [
+      "building",
+      2,
+      "anticipation"
+    ],
+    [
       "losing",
       2,
       "anger"
     ],
     [
-      "second",
+      "pontiff",
       2,
       "trust"
     ],
     [
-      "pontiff",
+      "official",
       2,
       "trust"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
     ],
     [
       "strait",
@@ -193,11 +208,6 @@
       "surprise"
     ],
     [
-      "change",
-      2,
-      "fear"
-    ],
-    [
       "rebel",
       2,
       "anger"
@@ -228,14 +238,39 @@
       "anger"
     ],
     [
-      "agreement",
+      "council",
       2,
       "trust"
     ],
     [
-      "council",
-      2,
+      "authorities",
+      1,
       "trust"
+    ],
+    [
+      "seek",
+      1,
+      "anticipation"
+    ],
+    [
+      "explosion",
+      1,
+      "fear"
+    ],
+    [
+      "teams",
+      1,
+      "trust"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
+      "collapsed",
+      1,
+      "fear"
     ],
     [
       "humanitarian",
@@ -341,51 +376,16 @@
       "coaches",
       1,
       "trust"
-    ],
-    [
-      "cube",
-      1,
-      "trust"
-    ],
-    [
-      "mother",
-      1,
-      "sadness"
-    ],
-    [
-      "true",
-      1,
-      "joy"
-    ],
-    [
-      "fellow",
-      1,
-      "trust"
-    ],
-    [
-      "force",
-      1,
-      "anger"
-    ],
-    [
-      "daily",
-      1,
-      "anticipation"
-    ],
-    [
-      "life",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 66,
-    "fear": 52,
-    "surprise": 12,
+    "trust": 65,
+    "fear": 55,
+    "surprise": 11,
     "sadness": 14,
     "disgust": 3,
     "anger": 104,
-    "anticipation": 27
+    "anticipation": 28
   }
 }
