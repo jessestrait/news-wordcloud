@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:37:09.233Z",
+  "generated_at": "2026-09-26T14:38:00.028Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,16 +51,6 @@
       "hormuz",
       3,
       "fear"
-    ],
-    [
-      "official",
-      3,
-      "trust"
-    ],
-    [
-      "plan",
-      3,
-      "anticipation"
     ],
     [
       "government",
@@ -158,6 +148,11 @@
       "trust"
     ],
     [
+      "official",
+      2,
+      "trust"
+    ],
+    [
       "vows",
       2,
       "joy"
@@ -171,6 +166,11 @@
       "shows",
       2,
       "trust"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "hurricane",
@@ -236,11 +236,6 @@
       "peace",
       1,
       "joy"
-    ],
-    [
-      "awaits",
-      1,
-      "anticipation"
     ],
     [
       "expect",
@@ -376,16 +371,21 @@
       "patrol",
       1,
       "trust"
+    ],
+    [
+      "vermin",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 65,
+    "trust": 64,
     "fear": 51,
     "surprise": 11,
     "sadness": 15,
     "disgust": 3,
     "anger": 105,
-    "anticipation": 29
+    "anticipation": 27
   }
 }
