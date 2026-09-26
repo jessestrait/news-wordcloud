@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-26T05:47:40.669Z",
+  "generated_at": "2026-09-26T06:02:42.904Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      12,
+      11,
       "anger"
     ],
     [
@@ -18,11 +18,6 @@
       "trust"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "attack",
       6,
       "anger"
@@ -31,6 +26,11 @@
       "iran",
       5,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "threat",
@@ -81,6 +81,11 @@
       "gaza",
       3,
       "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "fears",
@@ -168,11 +173,6 @@
       "fear"
     ],
     [
-      "hails",
-      2,
-      "trust"
-    ],
-    [
       "rebel",
       2,
       "anger"
@@ -223,14 +223,29 @@
       "anger"
     ],
     [
-      "jail",
-      2,
-      "fear"
-    ],
-    [
       "council",
       2,
       "trust"
+    ],
+    [
+      "respite",
+      1,
+      "joy"
+    ],
+    [
+      "dread",
+      1,
+      "fear"
+    ],
+    [
+      "prepare",
+      1,
+      "anticipation"
+    ],
+    [
+      "food",
+      1,
+      "joy"
     ],
     [
       "strikes",
@@ -361,31 +376,16 @@
       "tough",
       1,
       "sadness"
-    ],
-    [
-      "landmark",
-      1,
-      "trust"
-    ],
-    [
-      "khan",
-      1,
-      "fear"
-    ],
-    [
-      "police",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 68,
+    "joy": 24,
+    "trust": 66,
     "fear": 50,
     "surprise": 10,
     "sadness": 15,
     "disgust": 3,
-    "anger": 105,
-    "anticipation": 27
+    "anger": 104,
+    "anticipation": 28
   }
 }
