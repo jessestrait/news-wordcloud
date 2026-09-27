@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:06:38.241Z",
+  "generated_at": "2026-09-27T15:21:40.531Z",
   "article_count": 50,
   "top_words": [
     [
@@ -96,6 +96,21 @@
       "missile",
       3,
       "fear"
+    ],
+    [
+      "reject",
+      2,
+      "anger"
+    ],
+    [
+      "neutrality",
+      2,
+      "trust"
+    ],
+    [
+      "vote",
+      2,
+      "anger"
     ],
     [
       "truth",
@@ -228,8 +243,18 @@
       "anger"
     ],
     [
-      "challenge",
-      2,
+      "rules",
+      1,
+      "fear"
+    ],
+    [
+      "cooperation",
+      1,
+      "trust"
+    ],
+    [
+      "tightening",
+      1,
       "anger"
     ],
     [
@@ -351,41 +376,16 @@
       "debris",
       1,
       "disgust"
-    ],
-    [
-      "bombs",
-      1,
-      "anger"
-    ],
-    [
-      "lie",
-      1,
-      "anger"
-    ],
-    [
-      "buried",
-      1,
-      "fear"
-    ],
-    [
-      "clearance",
-      1,
-      "trust"
-    ],
-    [
-      "operations",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 70,
-    "fear": 56,
+    "joy": 28,
+    "trust": 73,
+    "fear": 57,
     "surprise": 14,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 3,
-    "anger": 104,
+    "anger": 105,
     "anticipation": 26
   }
 }
