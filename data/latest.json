@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T05:01:10.783Z",
+  "generated_at": "2026-09-27T05:16:13.096Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      9,
+      8,
       "anger"
     ],
     [
@@ -18,12 +18,12 @@
       "trust"
     ],
     [
-      "attack",
-      6,
+      "iran",
+      5,
       "anger"
     ],
     [
-      "iran",
+      "attack",
       5,
       "anger"
     ],
@@ -88,11 +88,6 @@
       "fear"
     ],
     [
-      "leaders",
-      3,
-      "trust"
-    ],
-    [
       "missile",
       3,
       "fear"
@@ -103,9 +98,14 @@
       "anger"
     ],
     [
-      "killed",
+      "military",
       2,
       "fear"
+    ],
+    [
+      "economy",
+      2,
+      "trust"
     ],
     [
       "emergency",
@@ -208,6 +208,11 @@
       "surprise"
     ],
     [
+      "leaders",
+      2,
+      "trust"
+    ],
+    [
       "rebel",
       2,
       "anger"
@@ -236,6 +241,16 @@
       "challenge",
       2,
       "anger"
+    ],
+    [
+      "damage",
+      1,
+      "anger"
+    ],
+    [
+      "series",
+      1,
+      "trust"
     ],
     [
       "eviction",
@@ -303,6 +318,11 @@
       "anticipation"
     ],
     [
+      "killed",
+      1,
+      "fear"
+    ],
+    [
       "explosion",
       1,
       "fear"
@@ -356,36 +376,16 @@
       "expect",
       1,
       "surprise"
-    ],
-    [
-      "broken",
-      1,
-      "anger"
-    ],
-    [
-      "promises",
-      1,
-      "joy"
-    ],
-    [
-      "confiscated",
-      1,
-      "anger"
-    ],
-    [
-      "resulted",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 66,
+    "trust": 67,
     "fear": 56,
     "surprise": 11,
     "sadness": 14,
     "disgust": 2,
-    "anger": 106,
+    "anger": 103,
     "anticipation": 28
   }
 }
