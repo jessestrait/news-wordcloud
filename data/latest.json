@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:50:52.725Z",
+  "generated_at": "2026-09-27T14:05:55.131Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "president",
       4,
       "trust"
-    ],
-    [
-      "gaza",
-      4,
-      "anger"
     ],
     [
       "iran",
@@ -88,11 +88,6 @@
       "anger"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "warning",
       3,
       "fear"
@@ -101,6 +96,11 @@
       "missile",
       3,
       "fear"
+    ],
+    [
+      "truth",
+      2,
+      "trust"
     ],
     [
       "child",
@@ -116,6 +116,11 @@
       "risk",
       2,
       "fear"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
     ],
     [
       "deal",
@@ -243,6 +248,21 @@
       "anger"
     ],
     [
+      "holocaust",
+      1,
+      "anger"
+    ],
+    [
+      "witness",
+      1,
+      "trust"
+    ],
+    [
+      "testimony",
+      1,
+      "trust"
+    ],
+    [
       "healing",
       1,
       "joy"
@@ -356,36 +376,16 @@
       "operations",
       1,
       "fear"
-    ],
-    [
-      "history",
-      1,
-      "trust"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
-      "expect",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 69,
+    "trust": 72,
     "fear": 58,
     "surprise": 12,
     "sadness": 16,
     "disgust": 3,
-    "anger": 107,
-    "anticipation": 27
+    "anger": 104,
+    "anticipation": 28
   }
 }
