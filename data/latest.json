@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:00:26.574Z",
+  "generated_at": "2026-09-27T04:15:29.113Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "world",
-      7,
+      6,
       "trust"
     ],
     [
@@ -79,11 +79,6 @@
     ],
     [
       "rat",
-      3,
-      "fear"
-    ],
-    [
-      "intelligence",
       3,
       "fear"
     ],
@@ -178,6 +173,11 @@
       "anger"
     ],
     [
+      "intelligence",
+      2,
+      "fear"
+    ],
+    [
       "vows",
       2,
       "joy"
@@ -238,8 +238,33 @@
       "anger"
     ],
     [
-      "council",
-      2,
+      "eviction",
+      1,
+      "anger"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
+    ],
+    [
+      "forcibly",
+      1,
+      "anger"
+    ],
+    [
+      "removed",
+      1,
+      "anger"
+    ],
+    [
+      "home",
+      1,
+      "joy"
+    ],
+    [
+      "real",
+      1,
       "trust"
     ],
     [
@@ -351,41 +376,16 @@
       "resulted",
       1,
       "anticipation"
-    ],
-    [
-      "prepare",
-      1,
-      "anticipation"
-    ],
-    [
-      "food",
-      1,
-      "joy"
-    ],
-    [
-      "heart",
-      1,
-      "joy"
-    ],
-    [
-      "economy",
-      1,
-      "trust"
-    ],
-    [
-      "disruption",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 67,
-    "fear": 57,
+    "joy": 27,
+    "trust": 66,
+    "fear": 56,
     "surprise": 11,
     "sadness": 14,
     "disgust": 2,
-    "anger": 103,
+    "anger": 106,
     "anticipation": 28
   }
 }
