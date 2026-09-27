@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:21:40.531Z",
+  "generated_at": "2026-09-27T15:36:42.876Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,6 +98,16 @@
       "fear"
     ],
     [
+      "child",
+      2,
+      "joy"
+    ],
+    [
+      "abuse",
+      2,
+      "anger"
+    ],
+    [
       "reject",
       2,
       "anger"
@@ -116,16 +126,6 @@
       "truth",
       2,
       "trust"
-    ],
-    [
-      "child",
-      2,
-      "joy"
-    ],
-    [
-      "abuse",
-      2,
-      "anger"
     ],
     [
       "gaza",
@@ -243,6 +243,36 @@
       "anger"
     ],
     [
+      "healing",
+      1,
+      "joy"
+    ],
+    [
+      "deep",
+      1,
+      "joy"
+    ],
+    [
+      "wounds",
+      1,
+      "anger"
+    ],
+    [
+      "church",
+      1,
+      "joy"
+    ],
+    [
+      "painful",
+      1,
+      "anger"
+    ],
+    [
+      "errors",
+      1,
+      "sadness"
+    ],
+    [
       "rules",
       1,
       "fear"
@@ -281,36 +311,6 @@
       "testimony",
       1,
       "trust"
-    ],
-    [
-      "healing",
-      1,
-      "joy"
-    ],
-    [
-      "deep",
-      1,
-      "joy"
-    ],
-    [
-      "wounds",
-      1,
-      "anger"
-    ],
-    [
-      "church",
-      1,
-      "joy"
-    ],
-    [
-      "painful",
-      1,
-      "anger"
-    ],
-    [
-      "errors",
-      1,
-      "sadness"
     ],
     [
       "hell",
