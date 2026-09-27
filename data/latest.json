@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T02:29:39.246Z",
+  "generated_at": "2026-09-27T02:44:41.775Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      8,
+      9,
       "anger"
     ],
     [
@@ -243,6 +243,31 @@
       "trust"
     ],
     [
+      "abandon",
+      1,
+      "fear"
+    ],
+    [
+      "dangerous",
+      1,
+      "fear"
+    ],
+    [
+      "general",
+      1,
+      "trust"
+    ],
+    [
+      "assembly",
+      1,
+      "trust"
+    ],
+    [
+      "invasion",
+      1,
+      "anger"
+    ],
+    [
       "authorities",
       1,
       "trust"
@@ -351,41 +376,16 @@
       "disruption",
       1,
       "anger"
-    ],
-    [
-      "networks",
-      1,
-      "anticipation"
-    ],
-    [
-      "banks",
-      1,
-      "trust"
-    ],
-    [
-      "systems",
-      1,
-      "trust"
-    ],
-    [
-      "specialist",
-      1,
-      "trust"
-    ],
-    [
-      "coaches",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 65,
-    "fear": 55,
+    "trust": 67,
+    "fear": 57,
     "surprise": 11,
     "sadness": 14,
-    "disgust": 3,
-    "anger": 104,
+    "disgust": 2,
+    "anger": 103,
     "anticipation": 28
   }
 }
