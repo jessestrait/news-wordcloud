@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:22:53.205Z",
+  "generated_at": "2026-09-27T17:37:55.743Z",
   "article_count": 50,
   "top_words": [
     [
@@ -15,6 +15,11 @@
     [
       "world",
       6,
+      "trust"
+    ],
+    [
+      "people",
+      5,
       "trust"
     ],
     [
@@ -58,11 +63,6 @@
       "anger"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "second",
       3,
       "trust"
@@ -98,14 +98,14 @@
       "fear"
     ],
     [
+      "series",
+      2,
+      "trust"
+    ],
+    [
       "child",
       2,
       "joy"
-    ],
-    [
-      "abuse",
-      2,
-      "anger"
     ],
     [
       "reject",
@@ -173,11 +173,6 @@
       "fear"
     ],
     [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
       "force",
       2,
       "anger"
@@ -223,6 +218,11 @@
       "trust"
     ],
     [
+      "letter",
+      2,
+      "anticipation"
+    ],
+    [
       "rebel",
       2,
       "anger"
@@ -243,6 +243,21 @@
       "anger"
     ],
     [
+      "enslaved",
+      1,
+      "anger"
+    ],
+    [
+      "embraced",
+      1,
+      "surprise"
+    ],
+    [
+      "monk",
+      1,
+      "trust"
+    ],
+    [
       "healing",
       1,
       "joy"
@@ -254,6 +269,11 @@
     ],
     [
       "wounds",
+      1,
+      "anger"
+    ],
+    [
+      "abuse",
       1,
       "anger"
     ],
@@ -356,36 +376,16 @@
       "justice",
       1,
       "trust"
-    ],
-    [
-      "rubble",
-      1,
-      "fear"
-    ],
-    [
-      "ruins",
-      1,
-      "fear"
-    ],
-    [
-      "concealing",
-      1,
-      "sadness"
-    ],
-    [
-      "debris",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 74,
+    "joy": 26,
+    "trust": 78,
     "fear": 58,
-    "surprise": 14,
+    "surprise": 15,
     "sadness": 15,
     "disgust": 3,
     "anger": 104,
-    "anticipation": 26
+    "anticipation": 25
   }
 }
