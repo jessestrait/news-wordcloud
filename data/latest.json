@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:55:42.914Z",
+  "generated_at": "2026-09-27T23:10:45.182Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -43,9 +43,19 @@
       "anger"
     ],
     [
+      "shows",
+      3,
+      "trust"
+    ],
+    [
       "pontiff",
       3,
       "trust"
+    ],
+    [
+      "vote",
+      3,
+      "anger"
     ],
     [
       "fears",
@@ -116,11 +126,6 @@
       "neutrality",
       2,
       "trust"
-    ],
-    [
-      "vote",
-      2,
-      "anger"
     ],
     [
       "truth",
@@ -198,11 +203,6 @@
       "anger"
     ],
     [
-      "shows",
-      2,
-      "trust"
-    ],
-    [
       "hurricane",
       2,
       "fear"
@@ -223,6 +223,11 @@
       "anticipation"
     ],
     [
+      "policy",
+      2,
+      "trust"
+    ],
+    [
       "rebel",
       2,
       "anger"
@@ -241,6 +246,26 @@
       "inequality",
       2,
       "anger"
+    ],
+    [
+      "failure",
+      1,
+      "fear"
+    ],
+    [
+      "liberty",
+      1,
+      "surprise"
+    ],
+    [
+      "polling",
+      1,
+      "trust"
+    ],
+    [
+      "negative",
+      1,
+      "sadness"
     ],
     [
       "enslaved",
@@ -351,41 +376,16 @@
       "supplies",
       1,
       "fear"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "risk",
-      1,
-      "fear"
-    ],
-    [
-      "crunch",
-      1,
-      "anger"
-    ],
-    [
-      "friend",
-      1,
-      "joy"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 78,
+    "joy": 24,
+    "trust": 81,
     "fear": 58,
     "surprise": 15,
     "sadness": 15,
     "disgust": 3,
-    "anger": 104,
+    "anger": 103,
     "anticipation": 25
   }
 }
