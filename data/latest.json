@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:50:25.896Z",
+  "generated_at": "2026-09-27T13:05:28.408Z",
   "article_count": 50,
   "top_words": [
     [
@@ -166,6 +166,11 @@
       "public",
       2,
       "anticipation"
+    ],
+    [
+      "force",
+      2,
+      "anger"
     ],
     [
       "closure",
@@ -371,11 +376,6 @@
       "expect",
       1,
       "surprise"
-    ],
-    [
-      "military",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 12,
     "sadness": 16,
     "disgust": 3,
-    "anger": 106,
+    "anger": 107,
     "anticipation": 27
   }
 }
