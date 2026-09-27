@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:36:59.873Z",
+  "generated_at": "2026-09-27T15:52:02.482Z",
   "article_count": 50,
   "top_words": [
     [
@@ -258,19 +258,19 @@
       "anger"
     ],
     [
-      "church",
+      "assisted",
       1,
-      "joy"
+      "trust"
     ],
     [
-      "painful",
-      1,
-      "anger"
-    ],
-    [
-      "errors",
+      "dying",
       1,
       "sadness"
+    ],
+    [
+      "compassion",
+      1,
+      "fear"
     ],
     [
       "rules",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 73,
-    "fear": 57,
+    "joy": 27,
+    "trust": 74,
+    "fear": 58,
     "surprise": 14,
     "sadness": 15,
     "disgust": 3,
-    "anger": 105,
+    "anger": 104,
     "anticipation": 26
   }
 }
