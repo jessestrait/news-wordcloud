@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T10:49:14.635Z",
+  "generated_at": "2026-09-27T11:04:17.231Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,11 +68,6 @@
       "trust"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "warns",
       3,
       "fear"
@@ -100,6 +95,11 @@
     [
       "missile",
       3,
+      "fear"
+    ],
+    [
+      "risk",
+      2,
       "fear"
     ],
     [
@@ -143,6 +143,11 @@
       "trust"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "power",
       2,
       "anticipation"
@@ -151,11 +156,6 @@
       "public",
       2,
       "anticipation"
-    ],
-    [
-      "child",
-      2,
-      "joy"
     ],
     [
       "closure",
@@ -171,11 +171,6 @@
       "intelligence",
       2,
       "fear"
-    ],
-    [
-      "vows",
-      2,
-      "joy"
     ],
     [
       "accused",
@@ -223,11 +218,6 @@
       "sadness"
     ],
     [
-      "die",
-      2,
-      "fear"
-    ],
-    [
       "inequality",
       2,
       "anger"
@@ -235,6 +225,31 @@
     [
       "challenge",
       2,
+      "anger"
+    ],
+    [
+      "hell",
+      1,
+      "anger"
+    ],
+    [
+      "earth",
+      1,
+      "surprise"
+    ],
+    [
+      "weeds",
+      1,
+      "sadness"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
+      "deadly",
+      1,
       "anger"
     ],
     [
@@ -361,31 +376,16 @@
       "real",
       1,
       "trust"
-    ],
-    [
-      "abandon",
-      1,
-      "fear"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
-      "general",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 25,
     "trust": 68,
     "fear": 58,
-    "surprise": 11,
-    "sadness": 14,
+    "surprise": 12,
+    "sadness": 15,
     "disgust": 3,
-    "anger": 102,
+    "anger": 103,
     "anticipation": 28
   }
 }
