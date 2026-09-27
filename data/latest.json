@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:21:13.543Z",
+  "generated_at": "2026-09-27T14:36:15.726Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,11 +113,6 @@
       "anger"
     ],
     [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
       "gaza",
       2,
       "anger"
@@ -163,11 +158,6 @@
       "fear"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "public",
       2,
       "anticipation"
@@ -201,11 +191,6 @@
       "shows",
       2,
       "trust"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "hurricane",
@@ -246,6 +231,16 @@
       "challenge",
       2,
       "anger"
+    ],
+    [
+      "surge",
+      1,
+      "surprise"
+    ],
+    [
+      "surged",
+      1,
+      "surprise"
     ],
     [
       "holocaust",
@@ -318,6 +313,11 @@
       "anger"
     ],
     [
+      "risk",
+      1,
+      "fear"
+    ],
+    [
       "crunch",
       1,
       "anger"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 72,
-    "fear": 58,
-    "surprise": 12,
+    "trust": 70,
+    "fear": 56,
+    "surprise": 14,
     "sadness": 16,
     "disgust": 3,
     "anger": 104,
-    "anticipation": 28
+    "anticipation": 26
   }
 }
