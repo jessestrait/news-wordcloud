@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:32:02.032Z",
+  "generated_at": "2026-09-27T06:47:04.467Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "anticipation"
     ],
     [
+      "hormuz",
+      3,
+      "fear"
+    ],
+    [
       "strikes",
       3,
       "anger"
@@ -56,11 +61,6 @@
       "second",
       3,
       "trust"
-    ],
-    [
-      "hormuz",
-      3,
-      "fear"
     ],
     [
       "government",
@@ -98,6 +98,16 @@
       "anger"
     ],
     [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
       "military",
       2,
       "fear"
@@ -131,16 +141,6 @@
       "official",
       2,
       "trust"
-    ],
-    [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
-      "strait",
-      2,
-      "fear"
     ],
     [
       "power",
@@ -241,6 +241,21 @@
       "challenge",
       2,
       "anger"
+    ],
+    [
+      "rejects",
+      1,
+      "anger"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
+    ],
+    [
+      "expect",
+      1,
+      "surprise"
     ],
     [
       "damage",
@@ -361,21 +376,6 @@
       "ships",
       1,
       "anticipation"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
-      "expect",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
