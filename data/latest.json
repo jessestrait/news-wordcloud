@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:02:06.881Z",
+  "generated_at": "2026-09-27T07:17:09.339Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "trust"
     ],
     [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
       "attack",
       5,
       "anger"
@@ -33,7 +28,12 @@
       "trust"
     ],
     [
-      "threat",
+      "gaza",
+      4,
+      "anger"
+    ],
+    [
+      "iran",
       4,
       "anger"
     ],
@@ -41,6 +41,11 @@
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "fears",
+      3,
+      "anger"
     ],
     [
       "hormuz",
@@ -83,6 +88,11 @@
       "fear"
     ],
     [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
       "warning",
       3,
       "fear"
@@ -93,22 +103,12 @@
       "fear"
     ],
     [
-      "gaza",
-      3,
-      "anger"
-    ],
-    [
       "deal",
       2,
       "surprise"
     ],
     [
       "strait",
-      2,
-      "fear"
-    ],
-    [
-      "military",
       2,
       "fear"
     ],
@@ -146,11 +146,6 @@
       "power",
       2,
       "anticipation"
-    ],
-    [
-      "fears",
-      2,
-      "anger"
     ],
     [
       "public",
@@ -243,6 +238,71 @@
       "anger"
     ],
     [
+      "crunch",
+      1,
+      "anger"
+    ],
+    [
+      "friend",
+      1,
+      "joy"
+    ],
+    [
+      "justice",
+      1,
+      "trust"
+    ],
+    [
+      "rubble",
+      1,
+      "fear"
+    ],
+    [
+      "ruins",
+      1,
+      "fear"
+    ],
+    [
+      "concealing",
+      1,
+      "sadness"
+    ],
+    [
+      "debris",
+      1,
+      "disgust"
+    ],
+    [
+      "bombs",
+      1,
+      "anger"
+    ],
+    [
+      "lie",
+      1,
+      "anger"
+    ],
+    [
+      "buried",
+      1,
+      "fear"
+    ],
+    [
+      "clearance",
+      1,
+      "trust"
+    ],
+    [
+      "operations",
+      1,
+      "fear"
+    ],
+    [
+      "history",
+      1,
+      "trust"
+    ],
+    [
       "rejects",
       1,
       "anger"
@@ -256,6 +316,11 @@
       "expect",
       1,
       "surprise"
+    ],
+    [
+      "military",
+      1,
+      "fear"
     ],
     [
       "damage",
@@ -311,81 +376,16 @@
       "general",
       1,
       "trust"
-    ],
-    [
-      "assembly",
-      1,
-      "trust"
-    ],
-    [
-      "invasion",
-      1,
-      "anger"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "seek",
-      1,
-      "anticipation"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
-    ],
-    [
-      "explosion",
-      1,
-      "fear"
-    ],
-    [
-      "teams",
-      1,
-      "trust"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
-      "collapsed",
-      1,
-      "fear"
-    ],
-    [
-      "humanitarian",
-      1,
-      "surprise"
-    ],
-    [
-      "wavering",
-      1,
-      "fear"
-    ],
-    [
-      "attorney",
-      1,
-      "anger"
-    ],
-    [
-      "ships",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 67,
-    "fear": 56,
+    "joy": 28,
+    "trust": 68,
+    "fear": 58,
     "surprise": 11,
     "sadness": 14,
-    "disgust": 2,
-    "anger": 103,
+    "disgust": 3,
+    "anger": 102,
     "anticipation": 28
   }
 }
