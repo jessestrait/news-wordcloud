@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:19:49.576Z",
+  "generated_at": "2026-09-28T15:34:52.279Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,17 +18,17 @@
       "anger"
     ],
     [
-      "iran",
+      "attack",
       6,
       "anger"
     ],
     [
       "strike",
-      5,
+      6,
       "anger"
     ],
     [
-      "attacks",
+      "iran",
       5,
       "anger"
     ],
@@ -48,11 +48,6 @@
       "trust"
     ],
     [
-      "warns",
-      4,
-      "fear"
-    ],
-    [
       "killed",
       4,
       "fear"
@@ -63,9 +58,19 @@
       "trust"
     ],
     [
-      "global",
+      "military",
       3,
-      "anticipation"
+      "fear"
+    ],
+    [
+      "warning",
+      3,
+      "fear"
+    ],
+    [
+      "threat",
+      3,
+      "anger"
     ],
     [
       "pontiff",
@@ -98,6 +103,11 @@
       "anger"
     ],
     [
+      "warns",
+      3,
+      "fear"
+    ],
+    [
       "rat",
       3,
       "fear"
@@ -106,16 +116,6 @@
       "missile",
       3,
       "fear"
-    ],
-    [
-      "military",
-      2,
-      "fear"
-    ],
-    [
-      "threat",
-      2,
-      "anger"
     ],
     [
       "self",
@@ -263,22 +263,12 @@
       "fear"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "letter",
       2,
       "anticipation"
     ],
     [
-      "unsettled",
-      1,
-      "anger"
-    ],
-    [
-      "top",
+      "shelter",
       1,
       "trust"
     ],
@@ -348,6 +338,11 @@
       "trust"
     ],
     [
+      "global",
+      1,
+      "anticipation"
+    ],
+    [
       "exposed",
       1,
       "fear"
@@ -376,16 +371,21 @@
       "failure",
       1,
       "fear"
+    ],
+    [
+      "liberty",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 89,
-    "fear": 58,
+    "fear": 59,
     "surprise": 14,
     "sadness": 14,
     "disgust": 3,
-    "anger": 98,
-    "anticipation": 27
+    "anger": 99,
+    "anticipation": 25
   }
 }
