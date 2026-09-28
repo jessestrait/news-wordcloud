@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:05:17.036Z",
+  "generated_at": "2026-09-28T16:20:19.807Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,11 +53,6 @@
       "anticipation"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "calls",
       4,
       "trust"
@@ -86,6 +81,11 @@
       "vote",
       3,
       "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "hormuz",
@@ -161,6 +161,11 @@
       "gambling",
       2,
       "surprise"
+    ],
+    [
+      "kill",
+      2,
+      "fear"
     ],
     [
       "series",
@@ -283,6 +288,16 @@
       "anticipation"
     ],
     [
+      "medical",
+      1,
+      "fear"
+    ],
+    [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
       "american",
       1,
       "sadness"
@@ -361,31 +376,16 @@
       "committed",
       1,
       "trust"
-    ],
-    [
-      "kill",
-      1,
-      "fear"
-    ],
-    [
-      "failure",
-      1,
-      "fear"
-    ],
-    [
-      "liberty",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 89,
-    "fear": 59,
+    "fear": 60,
     "surprise": 14,
     "sadness": 14,
     "disgust": 3,
-    "anger": 99,
+    "anger": 100,
     "anticipation": 26
   }
 }
