@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:41:46.497Z",
+  "generated_at": "2026-09-28T00:56:49.060Z",
   "article_count": 50,
   "top_words": [
     [
@@ -40,6 +40,11 @@
     [
       "iran",
       4,
+      "anger"
+    ],
+    [
+      "threat",
+      3,
       "anger"
     ],
     [
@@ -93,11 +98,6 @@
       "fear"
     ],
     [
-      "threat",
-      3,
-      "anger"
-    ],
-    [
       "warning",
       3,
       "fear"
@@ -106,6 +106,16 @@
       "missile",
       3,
       "fear"
+    ],
+    [
+      "military",
+      2,
+      "fear"
+    ],
+    [
+      "self",
+      2,
+      "trust"
     ],
     [
       "series",
@@ -208,11 +218,6 @@
       "fear"
     ],
     [
-      "hope",
-      2,
-      "surprise"
-    ],
-    [
       "leaders",
       2,
       "trust"
@@ -246,6 +251,26 @@
       "inequality",
       2,
       "anger"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "ambassador",
+      1,
+      "trust"
+    ],
+    [
+      "david",
+      1,
+      "trust"
+    ],
+    [
+      "ruled",
+      1,
+      "fear"
     ],
     [
       "failure",
@@ -351,39 +376,14 @@
       "witness",
       1,
       "trust"
-    ],
-    [
-      "testimony",
-      1,
-      "trust"
-    ],
-    [
-      "hell",
-      1,
-      "anger"
-    ],
-    [
-      "earth",
-      1,
-      "surprise"
-    ],
-    [
-      "weeds",
-      1,
-      "sadness"
-    ],
-    [
-      "supplies",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 81,
-    "fear": 58,
-    "surprise": 15,
-    "sadness": 15,
+    "trust": 83,
+    "fear": 60,
+    "surprise": 12,
+    "sadness": 16,
     "disgust": 3,
     "anger": 103,
     "anticipation": 25
