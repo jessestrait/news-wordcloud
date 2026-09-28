@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-28T18:06:39.228Z",
+  "generated_at": "2026-09-28T18:21:41.951Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      9,
+      10,
       "anger"
     ],
     [
@@ -19,17 +19,17 @@
     ],
     [
       "attack",
-      7,
-      "anger"
-    ],
-    [
-      "iran",
       6,
       "anger"
     ],
     [
       "strike",
       6,
+      "anger"
+    ],
+    [
+      "iran",
+      5,
       "anger"
     ],
     [
@@ -121,11 +121,6 @@
       "missile",
       3,
       "fear"
-    ],
-    [
-      "bomb",
-      2,
-      "anger"
     ],
     [
       "hails",
@@ -278,13 +273,8 @@
       "fear"
     ],
     [
-      "alleged",
-      1,
-      "fear"
-    ],
-    [
-      "track",
-      1,
+      "letter",
+      2,
       "anticipation"
     ],
     [
@@ -376,16 +366,26 @@
       "awaited",
       1,
       "anticipation"
+    ],
+    [
+      "committed",
+      1,
+      "trust"
+    ],
+    [
+      "failure",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 89,
-    "fear": 61,
+    "trust": 90,
+    "fear": 60,
     "surprise": 14,
     "sadness": 14,
     "disgust": 3,
-    "anger": 103,
+    "anger": 101,
     "anticipation": 26
   }
 }
