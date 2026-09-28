@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:19:21.658Z",
+  "generated_at": "2026-09-28T14:34:24.533Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,18 +18,8 @@
       "anger"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "iran",
-      5,
+      6,
       "anger"
     ],
     [
@@ -48,14 +38,29 @@
       "trust"
     ],
     [
-      "building",
+      "warns",
       4,
-      "anticipation"
+      "fear"
+    ],
+    [
+      "strikes",
+      4,
+      "anger"
     ],
     [
       "calls",
       4,
       "trust"
+    ],
+    [
+      "attacks",
+      4,
+      "anger"
+    ],
+    [
+      "global",
+      3,
+      "anticipation"
     ],
     [
       "pontiff",
@@ -91,11 +96,6 @@
       "force",
       3,
       "anger"
-    ],
-    [
-      "warns",
-      3,
-      "fear"
     ],
     [
       "rat",
@@ -233,6 +233,11 @@
       "fear"
     ],
     [
+      "building",
+      2,
+      "anticipation"
+    ],
+    [
       "losing",
       2,
       "anger"
@@ -273,24 +278,14 @@
       "trust"
     ],
     [
-      "condemned",
+      "unsettled",
       1,
       "anger"
     ],
     [
-      "flee",
-      1,
-      "fear"
-    ],
-    [
-      "director",
+      "top",
       1,
       "trust"
-    ],
-    [
-      "blast",
-      1,
-      "anger"
     ],
     [
       "american",
@@ -348,11 +343,6 @@
       "trust"
     ],
     [
-      "global",
-      1,
-      "anticipation"
-    ],
-    [
       "exposed",
       1,
       "fear"
@@ -376,6 +366,16 @@
       "kill",
       1,
       "fear"
+    ],
+    [
+      "failure",
+      1,
+      "fear"
+    ],
+    [
+      "liberty",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 14,
     "sadness": 14,
     "disgust": 3,
-    "anger": 97,
+    "anger": 95,
     "anticipation": 27
   }
 }
