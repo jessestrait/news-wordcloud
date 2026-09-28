@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:32:11.765Z",
+  "generated_at": "2026-09-28T10:47:14.542Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,21 @@
       "fear"
     ],
     [
+      "military",
+      2,
+      "fear"
+    ],
+    [
+      "threat",
+      2,
+      "anger"
+    ],
+    [
+      "self",
+      2,
+      "trust"
+    ],
+    [
       "history",
       2,
       "trust"
@@ -151,21 +166,6 @@
       "gambling",
       2,
       "surprise"
-    ],
-    [
-      "military",
-      2,
-      "fear"
-    ],
-    [
-      "threat",
-      2,
-      "anger"
-    ],
-    [
-      "self",
-      2,
-      "trust"
     ],
     [
       "series",
@@ -283,6 +283,26 @@
       "trust"
     ],
     [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "ambassador",
+      1,
+      "trust"
+    ],
+    [
+      "david",
+      1,
+      "trust"
+    ],
+    [
+      "ruled",
+      1,
+      "fear"
+    ],
+    [
       "expected",
       1,
       "anticipation"
@@ -354,26 +374,6 @@
     ],
     [
       "kill",
-      1,
-      "fear"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "ambassador",
-      1,
-      "trust"
-    ],
-    [
-      "david",
-      1,
-      "trust"
-    ],
-    [
-      "ruled",
       1,
       "fear"
     ]
