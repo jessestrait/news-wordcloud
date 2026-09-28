@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:04:46.919Z",
+  "generated_at": "2026-09-28T15:19:49.576Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,16 @@
       "anger"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
+      "attacks",
+      5,
+      "anger"
+    ],
+    [
       "show",
       5,
       "trust"
@@ -43,19 +53,14 @@
       "fear"
     ],
     [
-      "strikes",
+      "killed",
       4,
-      "anger"
+      "fear"
     ],
     [
       "calls",
       4,
       "trust"
-    ],
-    [
-      "attacks",
-      4,
-      "anger"
     ],
     [
       "global",
@@ -76,11 +81,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
     ],
     [
       "hormuz",
@@ -273,11 +273,6 @@
       "anticipation"
     ],
     [
-      "policy",
-      2,
-      "trust"
-    ],
-    [
       "unsettled",
       1,
       "anger"
@@ -286,6 +281,16 @@
       "top",
       1,
       "trust"
+    ],
+    [
+      "wounded",
+      1,
+      "anger"
+    ],
+    [
+      "powered",
+      1,
+      "anticipation"
     ],
     [
       "american",
@@ -371,21 +376,16 @@
       "failure",
       1,
       "fear"
-    ],
-    [
-      "liberty",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 92,
-    "fear": 57,
+    "trust": 89,
+    "fear": 58,
     "surprise": 14,
     "sadness": 14,
     "disgust": 3,
-    "anger": 95,
+    "anger": 98,
     "anticipation": 27
   }
 }
