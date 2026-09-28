@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:11:51.550Z",
+  "generated_at": "2026-09-28T01:26:54.033Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,16 +9,21 @@
     ],
     [
       "war",
-      7,
+      9,
       "anger"
     ],
     [
-      "world",
-      6,
+      "president",
+      5,
       "trust"
     ],
     [
       "people",
+      5,
+      "trust"
+    ],
+    [
+      "world",
       5,
       "trust"
     ],
@@ -28,14 +33,24 @@
       "anger"
     ],
     [
+      "strikes",
+      4,
+      "anger"
+    ],
+    [
+      "shows",
+      4,
+      "trust"
+    ],
+    [
+      "calls",
+      4,
+      "trust"
+    ],
+    [
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "iran",
@@ -46,11 +61,6 @@
       "threat",
       3,
       "anger"
-    ],
-    [
-      "shows",
-      3,
-      "trust"
     ],
     [
       "pontiff",
@@ -73,11 +83,6 @@
       "fear"
     ],
     [
-      "strikes",
-      3,
-      "anger"
-    ],
-    [
       "second",
       3,
       "trust"
@@ -86,11 +91,6 @@
       "warns",
       3,
       "fear"
-    ],
-    [
-      "calls",
-      3,
-      "trust"
     ],
     [
       "rat",
@@ -218,11 +218,6 @@
       "fear"
     ],
     [
-      "leaders",
-      2,
-      "trust"
-    ],
-    [
       "letter",
       2,
       "anticipation"
@@ -248,9 +243,9 @@
       "sadness"
     ],
     [
-      "inequality",
-      2,
-      "anger"
+      "kill",
+      1,
+      "fear"
     ],
     [
       "american",
@@ -376,16 +371,21 @@
       "witness",
       1,
       "trust"
+    ],
+    [
+      "testimony",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 83,
-    "fear": 60,
-    "surprise": 12,
+    "joy": 23,
+    "trust": 84,
+    "fear": 61,
+    "surprise": 11,
     "sadness": 16,
     "disgust": 3,
-    "anger": 103,
-    "anticipation": 25
+    "anger": 100,
+    "anticipation": 24
   }
 }
