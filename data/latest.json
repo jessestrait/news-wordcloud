@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T22:09:04.627Z",
+  "generated_at": "2026-09-28T22:24:07.264Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,13 +18,13 @@
       "anger"
     ],
     [
-      "attack",
+      "strike",
       6,
       "anger"
     ],
     [
-      "strike",
-      6,
+      "attack",
+      5,
       "anger"
     ],
     [
@@ -385,7 +385,7 @@
     "surprise": 14,
     "sadness": 14,
     "disgust": 3,
-    "anger": 101,
+    "anger": 100,
     "anticipation": 26
   }
 }
