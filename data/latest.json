@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-28T03:12:55.446Z",
+  "generated_at": "2026-09-28T03:27:58.888Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      10,
+      "anger"
+    ],
     [
       "trump",
       10,
       "anger"
     ],
     [
-      "war",
-      9,
-      "anger"
-    ],
-    [
-      "president",
-      5,
+      "people",
+      6,
       "trust"
     ],
     [
-      "people",
+      "president",
       5,
       "trust"
     ],
@@ -71,6 +71,11 @@
       "vote",
       3,
       "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "fears",
@@ -143,6 +148,11 @@
       "trust"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
       "gaza",
       2,
       "anger"
@@ -206,11 +216,6 @@
       "intelligence",
       2,
       "fear"
-    ],
-    [
-      "accused",
-      2,
-      "anger"
     ],
     [
       "hurricane",
@@ -371,21 +376,16 @@
       "witness",
       1,
       "trust"
-    ],
-    [
-      "testimony",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 84,
+    "trust": 85,
     "fear": 61,
-    "surprise": 11,
+    "surprise": 12,
     "sadness": 16,
     "disgust": 3,
-    "anger": 100,
+    "anger": 99,
     "anticipation": 24
   }
 }
