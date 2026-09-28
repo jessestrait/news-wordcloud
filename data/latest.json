@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T12:48:24.026Z",
+  "generated_at": "2026-09-28T13:03:26.342Z",
   "article_count": 50,
   "top_words": [
     [
@@ -15,6 +15,16 @@
     [
       "war",
       9,
+      "anger"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
+      "attack",
+      5,
       "anger"
     ],
     [
@@ -38,29 +48,14 @@
       "trust"
     ],
     [
-      "strikes",
+      "building",
       4,
-      "anger"
+      "anticipation"
     ],
     [
       "calls",
       4,
       "trust"
-    ],
-    [
-      "attacks",
-      4,
-      "anger"
-    ],
-    [
-      "policy",
-      3,
-      "trust"
-    ],
-    [
-      "emergency",
-      3,
-      "fear"
     ],
     [
       "pontiff",
@@ -111,11 +106,6 @@
       "missile",
       3,
       "fear"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "military",
@@ -238,9 +228,9 @@
       "trust"
     ],
     [
-      "building",
+      "emergency",
       2,
-      "anticipation"
+      "fear"
     ],
     [
       "losing",
@@ -278,9 +268,29 @@
       "anticipation"
     ],
     [
-      "interested",
+      "policy",
+      2,
+      "trust"
+    ],
+    [
+      "condemned",
       1,
-      "disgust"
+      "anger"
+    ],
+    [
+      "flee",
+      1,
+      "fear"
+    ],
+    [
+      "director",
+      1,
+      "trust"
+    ],
+    [
+      "blast",
+      1,
+      "anger"
     ],
     [
       "american",
@@ -366,26 +376,16 @@
       "kill",
       1,
       "fear"
-    ],
-    [
-      "failure",
-      1,
-      "fear"
-    ],
-    [
-      "liberty",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 23,
     "trust": 92,
     "fear": 57,
     "surprise": 14,
     "sadness": 14,
-    "disgust": 4,
-    "anger": 93,
-    "anticipation": 25
+    "disgust": 3,
+    "anger": 97,
+    "anticipation": 27
   }
 }
