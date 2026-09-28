@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:47:14.542Z",
+  "generated_at": "2026-09-28T11:02:17.338Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,16 @@
       "fear"
     ],
     [
+      "history",
+      2,
+      "trust"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
       "military",
       2,
       "fear"
@@ -116,16 +126,6 @@
       "self",
       2,
       "trust"
-    ],
-    [
-      "history",
-      2,
-      "trust"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "hails",
@@ -283,6 +283,16 @@
       "trust"
     ],
     [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "rising",
+      1,
+      "joy"
+    ],
+    [
       "american",
       1,
       "sadness"
@@ -301,16 +311,6 @@
       "ruled",
       1,
       "fear"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "rising",
-      1,
-      "joy"
     ],
     [
       "senate",
