@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-09-29T03:12:03.472Z",
+  "generated_at": "2026-09-29T03:27:05.850Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      9,
-      "anger"
-    ],
     [
       "people",
       9,
       "trust"
     ],
     [
-      "trump",
+      "war",
       8,
+      "anger"
+    ],
+    [
+      "trump",
+      7,
       "anger"
     ],
     [
       "strike",
       6,
-      "anger"
-    ],
-    [
-      "iran",
-      5,
       "anger"
     ],
     [
@@ -49,6 +44,11 @@
     ],
     [
       "attack",
+      4,
+      "anger"
+    ],
+    [
+      "iran",
       4,
       "anger"
     ],
@@ -89,11 +89,6 @@
     ],
     [
       "killed",
-      3,
-      "fear"
-    ],
-    [
-      "hormuz",
       3,
       "fear"
     ],
@@ -248,7 +243,7 @@
       "surprise"
     ],
     [
-      "strait",
+      "hormuz",
       2,
       "fear"
     ],
@@ -333,6 +328,31 @@
       "trust"
     ],
     [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
+      "attacked",
+      1,
+      "anger"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "prevent",
+      1,
+      "fear"
+    ],
+    [
+      "disease",
+      1,
+      "anger"
+    ],
+    [
       "wounded",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "american",
       1,
       "sadness"
-    ],
-    [
-      "ambassador",
-      1,
-      "trust"
-    ],
-    [
-      "david",
-      1,
-      "trust"
-    ],
-    [
-      "ruled",
-      1,
-      "fear"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 85,
-    "fear": 64,
+    "trust": 86,
+    "fear": 63,
     "surprise": 15,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 2,
-    "anger": 99,
-    "anticipation": 24
+    "anger": 98,
+    "anticipation": 23
   }
 }
