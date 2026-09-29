@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-29T04:47:18.802Z",
+  "generated_at": "2026-09-29T05:02:21.319Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      9,
+      "anger"
+    ],
     [
       "people",
       9,
       "trust"
-    ],
-    [
-      "war",
-      7,
-      "anger"
     ],
     [
       "trump",
@@ -116,6 +116,11 @@
       "rat",
       3,
       "fear"
+    ],
+    [
+      "prisoners",
+      2,
+      "anger"
     ],
     [
       "housing",
@@ -288,6 +293,16 @@
       "fear"
     ],
     [
+      "angry",
+      1,
+      "anger"
+    ],
+    [
+      "unexpected",
+      1,
+      "fear"
+    ],
+    [
       "growing",
       1,
       "joy"
@@ -361,31 +376,16 @@
       "disease",
       1,
       "anger"
-    ],
-    [
-      "wounded",
-      1,
-      "anger"
-    ],
-    [
-      "powered",
-      1,
-      "anticipation"
-    ],
-    [
-      "medical",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 87,
-    "fear": 62,
+    "trust": 86,
+    "fear": 63,
     "surprise": 15,
     "sadness": 16,
-    "disgust": 2,
-    "anger": 97,
+    "disgust": 1,
+    "anger": 102,
     "anticipation": 23
   }
 }
