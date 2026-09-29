@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:37:58.128Z",
+  "generated_at": "2026-09-29T14:53:20.859Z",
   "article_count": 50,
   "top_words": [
     [
@@ -138,14 +138,14 @@
       "fear"
     ],
     [
-      "measures",
-      2,
-      "trust"
-    ],
-    [
       "arson",
       2,
       "anger"
+    ],
+    [
+      "measures",
+      2,
+      "trust"
     ],
     [
       "public",
@@ -288,6 +288,26 @@
       "anger"
     ],
     [
+      "intimidated",
+      1,
+      "fear"
+    ],
+    [
+      "special",
+      1,
+      "joy"
+    ],
+    [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "involvement",
+      1,
+      "anger"
+    ],
+    [
       "plan",
       1,
       "anticipation"
@@ -321,26 +341,6 @@
       "leaders",
       1,
       "trust"
-    ],
-    [
-      "intimidated",
-      1,
-      "fear"
-    ],
-    [
-      "special",
-      1,
-      "joy"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
-    ],
-    [
-      "involvement",
-      1,
-      "anger"
     ],
     [
       "bribery",
