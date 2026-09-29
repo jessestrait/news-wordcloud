@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-29T15:08:28.715Z",
+  "generated_at": "2026-09-29T15:23:31.774Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      10,
+      "anger"
+    ],
     [
       "people",
       9,
       "trust"
-    ],
-    [
-      "war",
-      9,
-      "anger"
     ],
     [
       "attack",
@@ -28,9 +28,9 @@
       "anger"
     ],
     [
-      "happened",
+      "president",
       4,
-      "anticipation"
+      "trust"
     ],
     [
       "vote",
@@ -46,6 +46,16 @@
       "force",
       4,
       "anger"
+    ],
+    [
+      "calls",
+      3,
+      "trust"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "housing",
@@ -108,11 +118,6 @@
       "trust"
     ],
     [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "pontiff",
       3,
       "trust"
@@ -128,14 +133,14 @@
       "trust"
     ],
     [
-      "warns",
+      "rat",
       3,
       "fear"
     ],
     [
-      "rat",
-      3,
-      "fear"
+      "marine",
+      2,
+      "trust"
     ],
     [
       "arson",
@@ -228,11 +233,6 @@
       "surprise"
     ],
     [
-      "calls",
-      2,
-      "trust"
-    ],
-    [
       "series",
       2,
       "trust"
@@ -283,8 +283,23 @@
       "sadness"
     ],
     [
+      "warns",
+      2,
+      "fear"
+    ],
+    [
       "court",
       2,
+      "anger"
+    ],
+    [
+      "rails",
+      1,
+      "anger"
+    ],
+    [
+      "resign",
+      1,
       "anger"
     ],
     [
@@ -361,31 +376,16 @@
       "continue",
       1,
       "trust"
-    ],
-    [
-      "doctors",
-      1,
-      "trust"
-    ],
-    [
-      "inquiry",
-      1,
-      "anticipation"
-    ],
-    [
-      "results",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 79,
-    "fear": 54,
+    "trust": 81,
+    "fear": 53,
     "surprise": 15,
     "sadness": 14,
     "disgust": 4,
-    "anger": 108,
-    "anticipation": 25
+    "anger": 111,
+    "anticipation": 24
   }
 }
