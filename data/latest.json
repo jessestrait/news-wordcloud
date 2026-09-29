@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T16:54:30.232Z",
+  "generated_at": "2026-09-29T17:09:32.923Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,7 +23,7 @@
       "anger"
     ],
     [
-      "trump",
+      "force",
       5,
       "anger"
     ],
@@ -38,12 +38,7 @@
       "anger"
     ],
     [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
-      "force",
+      "trump",
       4,
       "anger"
     ],
@@ -223,6 +218,11 @@
       "joy"
     ],
     [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
       "shattered",
       2,
       "sadness"
@@ -258,16 +258,6 @@
       "anger"
     ],
     [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
-      "hormuz",
-      2,
-      "fear"
-    ],
-    [
       "second",
       2,
       "trust"
@@ -291,6 +281,21 @@
       "court",
       2,
       "anger"
+    ],
+    [
+      "separatists",
+      1,
+      "anger"
+    ],
+    [
+      "soured",
+      1,
+      "disgust"
+    ],
+    [
+      "defeated",
+      1,
+      "sadness"
     ],
     [
       "rails",
@@ -371,21 +376,16 @@
       "waste",
       1,
       "disgust"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 81,
-    "fear": 53,
-    "surprise": 15,
+    "fear": 52,
+    "surprise": 14,
     "sadness": 14,
-    "disgust": 4,
-    "anger": 111,
+    "disgust": 5,
+    "anger": 110,
     "anticipation": 24
   }
 }
