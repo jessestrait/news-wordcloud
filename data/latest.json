@@ -1,35 +1,30 @@
 {
-  "generated_at": "2026-09-29T08:19:22.037Z",
+  "generated_at": "2026-09-29T08:34:24.247Z",
   "article_count": 50,
   "top_words": [
-    [
-      "people",
-      9,
-      "trust"
-    ],
     [
       "war",
       9,
       "anger"
     ],
     [
+      "people",
+      8,
+      "trust"
+    ],
+    [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
       "strike",
-      7,
+      6,
       "anger"
     ],
     [
       "trump",
       6,
-      "anger"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
-      "attack",
-      4,
       "anger"
     ],
     [
@@ -111,6 +106,11 @@
       "rat",
       3,
       "fear"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
     ],
     [
       "suspected",
@@ -278,24 +278,19 @@
       "fear"
     ],
     [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "damaged",
+      "arson",
       1,
       "anger"
     ],
     [
-      "governor",
+      "sabotage",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "black",
+      "special",
       1,
-      "sadness"
+      "joy"
     ],
     [
       "based",
@@ -376,14 +371,19 @@
       "hopes",
       1,
       "surprise"
+    ],
+    [
+      "tackle",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 82,
-    "fear": 56,
+    "joy": 25,
+    "trust": 80,
+    "fear": 55,
     "surprise": 14,
-    "sadness": 17,
+    "sadness": 16,
     "disgust": 1,
     "anger": 103,
     "anticipation": 23
