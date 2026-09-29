@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:07:53.421Z",
+  "generated_at": "2026-09-29T14:22:55.914Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "attack",
-      6,
+      8,
       "anger"
     ],
     [
@@ -138,6 +138,11 @@
       "fear"
     ],
     [
+      "arson",
+      2,
+      "anger"
+    ],
+    [
       "measures",
       2,
       "trust"
@@ -258,11 +263,6 @@
       "trust"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "fears",
       2,
       "anger"
@@ -298,24 +298,24 @@
       "anger"
     ],
     [
-      "approves",
-      1,
-      "joy"
-    ],
-    [
-      "outcry",
+      "blames",
       1,
       "anger"
+    ],
+    [
+      "supplying",
+      1,
+      "fear"
+    ],
+    [
+      "leaders",
+      1,
+      "trust"
     ],
     [
       "intimidated",
       1,
       "fear"
-    ],
-    [
-      "arson",
-      1,
-      "anger"
     ],
     [
       "special",
@@ -329,6 +329,16 @@
     ],
     [
       "involvement",
+      1,
+      "anger"
+    ],
+    [
+      "approves",
+      1,
+      "joy"
+    ],
+    [
+      "outcry",
       1,
       "anger"
     ],
@@ -366,26 +376,16 @@
       "results",
       1,
       "anticipation"
-    ],
-    [
-      "intrusive",
-      1,
-      "anger"
-    ],
-    [
-      "examinations",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 78,
-    "fear": 59,
+    "joy": 26,
+    "trust": 79,
+    "fear": 56,
     "surprise": 15,
     "sadness": 14,
     "disgust": 3,
-    "anger": 105,
+    "anger": 108,
     "anticipation": 23
   }
 }
