@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-29T13:52:32.047Z",
+  "generated_at": "2026-09-29T14:07:34.768Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      9,
+      "trust"
+    ],
     [
       "war",
       9,
       "anger"
-    ],
-    [
-      "people",
-      8,
-      "trust"
     ],
     [
       "attack",
@@ -24,8 +24,13 @@
     ],
     [
       "trump",
-      6,
+      5,
       "anger"
+    ],
+    [
+      "government",
+      4,
+      "fear"
     ],
     [
       "vote",
@@ -38,22 +43,22 @@
       "anger"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "force",
       4,
       "anger"
     ],
     [
-      "suspected",
+      "housing",
       3,
-      "fear"
+      "joy"
     ],
     [
-      "government",
+      "eviction",
+      3,
+      "anger"
+    ],
+    [
+      "suspected",
       3,
       "fear"
     ],
@@ -103,6 +108,11 @@
       "trust"
     ],
     [
+      "president",
+      3,
+      "trust"
+    ],
+    [
       "pontiff",
       3,
       "trust"
@@ -126,6 +136,21 @@
       "rat",
       3,
       "fear"
+    ],
+    [
+      "measures",
+      2,
+      "trust"
+    ],
+    [
+      "forced",
+      2,
+      "fear"
+    ],
+    [
+      "home",
+      2,
+      "joy"
     ],
     [
       "public",
@@ -166,11 +191,6 @@
       "prisoners",
       2,
       "anger"
-    ],
-    [
-      "housing",
-      2,
-      "joy"
     ],
     [
       "dying",
@@ -278,6 +298,16 @@
       "anger"
     ],
     [
+      "approves",
+      1,
+      "joy"
+    ],
+    [
+      "outcry",
+      1,
+      "anger"
+    ],
+    [
       "intimidated",
       1,
       "fear"
@@ -346,46 +376,16 @@
       "examinations",
       1,
       "fear"
-    ],
-    [
-      "based",
-      1,
-      "trust"
-    ],
-    [
-      "rape",
-      1,
-      "anger"
-    ],
-    [
-      "production",
-      1,
-      "anticipation"
-    ],
-    [
-      "star",
-      1,
-      "joy"
-    ],
-    [
-      "county",
-      1,
-      "trust"
-    ],
-    [
-      "visitors",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 27,
     "trust": 78,
-    "fear": 58,
+    "fear": 59,
     "surprise": 15,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 3,
-    "anger": 103,
+    "anger": 105,
     "anticipation": 23
   }
 }
