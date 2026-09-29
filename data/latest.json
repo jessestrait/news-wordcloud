@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:53:20.859Z",
+  "generated_at": "2026-09-29T15:08:28.715Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,6 +26,11 @@
       "trump",
       5,
       "anger"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "vote",
@@ -91,11 +96,6 @@
       "military",
       3,
       "fear"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "threat",
@@ -386,6 +386,6 @@
     "sadness": 14,
     "disgust": 4,
     "anger": 108,
-    "anticipation": 24
+    "anticipation": 25
   }
 }
