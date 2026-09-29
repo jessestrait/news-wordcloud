@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:22:55.914Z",
+  "generated_at": "2026-09-29T14:37:58.128Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "anger"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "vote",
       4,
       "anger"
@@ -59,6 +54,11 @@
     ],
     [
       "suspected",
+      3,
+      "fear"
+    ],
+    [
+      "government",
       3,
       "fear"
     ],
@@ -138,24 +138,14 @@
       "fear"
     ],
     [
-      "arson",
-      2,
-      "anger"
-    ],
-    [
       "measures",
       2,
       "trust"
     ],
     [
-      "forced",
+      "arson",
       2,
-      "fear"
-    ],
-    [
-      "home",
-      2,
-      "joy"
+      "anger"
     ],
     [
       "public",
@@ -298,6 +288,26 @@
       "anger"
     ],
     [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "outcry",
+      1,
+      "anger"
+    ],
+    [
+      "approved",
+      1,
+      "joy"
+    ],
+    [
+      "congress",
+      1,
+      "disgust"
+    ],
+    [
       "blames",
       1,
       "anger"
@@ -329,16 +339,6 @@
     ],
     [
       "involvement",
-      1,
-      "anger"
-    ],
-    [
-      "approves",
-      1,
-      "joy"
-    ],
-    [
-      "outcry",
       1,
       "anger"
     ],
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 25,
     "trust": 79,
-    "fear": 56,
+    "fear": 54,
     "surprise": 15,
     "sadness": 14,
-    "disgust": 3,
+    "disgust": 4,
     "anger": 108,
-    "anticipation": 23
+    "anticipation": 24
   }
 }
