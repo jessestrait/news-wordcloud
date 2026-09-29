@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T10:05:14.393Z",
+  "generated_at": "2026-09-29T10:20:16.983Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "trust"
     ],
     [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
       "strike",
       6,
       "anger"
@@ -20,16 +25,6 @@
     [
       "trump",
       6,
-      "anger"
-    ],
-    [
-      "warns",
-      4,
-      "fear"
-    ],
-    [
-      "attack",
-      4,
       "anger"
     ],
     [
@@ -108,24 +103,14 @@
       "trust"
     ],
     [
-      "rat",
+      "warns",
       3,
       "fear"
     ],
     [
-      "general",
-      2,
-      "trust"
-    ],
-    [
-      "allies",
-      2,
-      "trust"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
+      "rat",
+      3,
+      "fear"
     ],
     [
       "medical",
@@ -253,11 +238,6 @@
       "fear"
     ],
     [
-      "incident",
-      2,
-      "surprise"
-    ],
-    [
       "fears",
       2,
       "anger"
@@ -303,24 +283,34 @@
       "anger"
     ],
     [
-      "sabotage",
+      "intimidated",
+      1,
+      "fear"
+    ],
+    [
+      "arson",
       1,
       "anger"
     ],
     [
-      "failing",
+      "special",
+      1,
+      "joy"
+    ],
+    [
+      "denies",
       1,
       "anger"
     ],
     [
-      "reckless",
+      "involvement",
       1,
       "anger"
     ],
     [
-      "hostile",
+      "continue",
       1,
-      "anger"
+      "trust"
     ],
     [
       "doctors",
@@ -376,16 +366,26 @@
       "visitors",
       1,
       "joy"
+    ],
+    [
+      "terrorism",
+      1,
+      "anger"
+    ],
+    [
+      "powered",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 84,
+    "joy": 26,
+    "trust": 81,
     "fear": 56,
-    "surprise": 15,
+    "surprise": 14,
     "sadness": 16,
     "disgust": 1,
-    "anger": 105,
+    "anger": 106,
     "anticipation": 25
   }
 }
