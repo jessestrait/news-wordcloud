@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:48:31.534Z",
+  "generated_at": "2026-09-29T07:03:34.451Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "trust"
     ],
     [
-      "world",
-      4,
-      "trust"
-    ],
-    [
       "force",
       4,
       "anger"
@@ -78,11 +73,6 @@
       "anticipation"
     ],
     [
-      "warning",
-      3,
-      "fear"
-    ],
-    [
       "threat",
       3,
       "anger"
@@ -104,6 +94,11 @@
     ],
     [
       "official",
+      3,
+      "trust"
+    ],
+    [
+      "world",
       3,
       "trust"
     ],
@@ -171,6 +166,11 @@
       "surge",
       2,
       "surprise"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
     ],
     [
       "self",
@@ -298,6 +298,31 @@
       "surprise"
     ],
     [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "rape",
+      1,
+      "anger"
+    ],
+    [
+      "production",
+      1,
+      "anticipation"
+    ],
+    [
+      "star",
+      1,
+      "joy"
+    ],
+    [
+      "county",
+      1,
+      "trust"
+    ],
+    [
       "visitors",
       1,
       "joy"
@@ -351,41 +376,16 @@
       "tackle",
       1,
       "anger"
-    ],
-    [
-      "syringe",
-      1,
-      "fear"
-    ],
-    [
-      "casualties",
-      1,
-      "anger"
-    ],
-    [
-      "marine",
-      1,
-      "trust"
-    ],
-    [
-      "hails",
-      1,
-      "trust"
-    ],
-    [
-      "allies",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 86,
-    "fear": 61,
+    "fear": 58,
     "surprise": 15,
     "sadness": 16,
     "disgust": 1,
     "anger": 100,
-    "anticipation": 24
+    "anticipation": 23
   }
 }
