@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-29T00:40:24.662Z",
+  "generated_at": "2026-09-29T00:55:26.761Z",
   "article_count": 50,
   "top_words": [
     [
-      "trump",
+      "war",
       10,
+      "anger"
+    ],
+    [
+      "trump",
+      9,
       "anger"
     ],
     [
       "people",
       9,
       "trust"
-    ],
-    [
-      "war",
-      9,
-      "anger"
     ],
     [
       "strike",
@@ -63,6 +63,11 @@
       "trust"
     ],
     [
+      "force",
+      4,
+      "anger"
+    ],
+    [
       "military",
       3,
       "fear"
@@ -101,11 +106,6 @@
       "official",
       3,
       "trust"
-    ],
-    [
-      "force",
-      3,
-      "anger"
     ],
     [
       "warns",
@@ -273,9 +273,9 @@
       "fear"
     ],
     [
-      "letter",
-      2,
-      "anticipation"
+      "casualties",
+      1,
+      "anger"
     ],
     [
       "marine",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 90,
+    "trust": 89,
     "fear": 60,
     "surprise": 14,
     "sadness": 14,
     "disgust": 3,
-    "anger": 100,
-    "anticipation": 26
+    "anger": 102,
+    "anticipation": 25
   }
 }
