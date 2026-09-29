@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T03:57:25.756Z",
+  "generated_at": "2026-09-29T04:12:28.003Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -63,6 +63,11 @@
       "anger"
     ],
     [
+      "economy",
+      3,
+      "trust"
+    ],
+    [
       "military",
       3,
       "fear"
@@ -113,9 +118,9 @@
       "fear"
     ],
     [
-      "missile",
-      3,
-      "fear"
+      "housing",
+      2,
+      "joy"
     ],
     [
       "government",
@@ -248,11 +253,6 @@
       "fear"
     ],
     [
-      "economy",
-      2,
-      "trust"
-    ],
-    [
       "building",
       2,
       "anticipation"
@@ -281,6 +281,16 @@
       "hope",
       2,
       "surprise"
+    ],
+    [
+      "missiles",
+      2,
+      "fear"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
     ],
     [
       "anti",
@@ -366,26 +376,16 @@
       "medical",
       1,
       "fear"
-    ],
-    [
-      "hit",
-      1,
-      "anger"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 86,
-    "fear": 63,
+    "joy": 25,
+    "trust": 87,
+    "fear": 62,
     "surprise": 15,
     "sadness": 16,
     "disgust": 2,
-    "anger": 98,
+    "anger": 97,
     "anticipation": 23
   }
 }
