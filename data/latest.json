@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-09-29T01:10:42.662Z",
+  "generated_at": "2026-09-29T01:25:44.677Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
-      "anger"
-    ],
-    [
-      "trump",
       9,
       "anger"
     ],
@@ -18,13 +13,13 @@
       "trust"
     ],
     [
-      "strike",
-      6,
+      "trump",
+      8,
       "anger"
     ],
     [
-      "attack",
-      5,
+      "strike",
+      6,
       "anger"
     ],
     [
@@ -43,9 +38,9 @@
       "trust"
     ],
     [
-      "world",
-      5,
-      "trust"
+      "emergency",
+      4,
+      "fear"
     ],
     [
       "vote",
@@ -53,12 +48,12 @@
       "anger"
     ],
     [
-      "happened",
+      "attack",
       4,
-      "anticipation"
+      "anger"
     ],
     [
-      "calls",
+      "world",
       4,
       "trust"
     ],
@@ -71,6 +66,11 @@
       "military",
       3,
       "fear"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "warning",
@@ -123,9 +123,24 @@
       "fear"
     ],
     [
-      "hails",
+      "government",
       2,
-      "trust"
+      "fear"
+    ],
+    [
+      "accused",
+      2,
+      "anger"
+    ],
+    [
+      "dying",
+      2,
+      "sadness"
+    ],
+    [
+      "sharing",
+      2,
+      "joy"
     ],
     [
       "senate",
@@ -183,6 +198,11 @@
       "fear"
     ],
     [
+      "calls",
+      2,
+      "trust"
+    ],
+    [
       "series",
       2,
       "trust"
@@ -223,11 +243,6 @@
       "anger"
     ],
     [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
       "deal",
       2,
       "surprise"
@@ -241,11 +256,6 @@
       "economy",
       2,
       "trust"
-    ],
-    [
-      "emergency",
-      2,
-      "fear"
     ],
     [
       "building",
@@ -273,12 +283,37 @@
       "fear"
     ],
     [
+      "hope",
+      2,
+      "surprise"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "tackle",
+      1,
+      "anger"
+    ],
+    [
+      "syringe",
+      1,
+      "fear"
+    ],
+    [
       "casualties",
       1,
       "anger"
     ],
     [
       "marine",
+      1,
+      "trust"
+    ],
+    [
+      "hails",
       1,
       "trust"
     ],
@@ -341,51 +376,16 @@
       "forced",
       1,
       "fear"
-    ],
-    [
-      "relative",
-      1,
-      "trust"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
-    ],
-    [
-      "exposed",
-      1,
-      "fear"
-    ],
-    [
-      "struggles",
-      1,
-      "anger"
-    ],
-    [
-      "awaited",
-      1,
-      "anticipation"
-    ],
-    [
-      "committed",
-      1,
-      "trust"
-    ],
-    [
-      "failure",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 89,
-    "fear": 60,
-    "surprise": 14,
-    "sadness": 14,
-    "disgust": 3,
-    "anger": 102,
-    "anticipation": 25
+    "trust": 85,
+    "fear": 64,
+    "surprise": 15,
+    "sadness": 15,
+    "disgust": 2,
+    "anger": 99,
+    "anticipation": 24
   }
 }
