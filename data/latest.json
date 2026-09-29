@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T11:51:30.535Z",
+  "generated_at": "2026-09-29T12:06:33.170Z",
   "article_count": 50,
   "top_words": [
     [
@@ -45,6 +45,16 @@
     [
       "force",
       4,
+      "anger"
+    ],
+    [
+      "surge",
+      3,
+      "surprise"
+    ],
+    [
+      "illegal",
+      3,
       "anger"
     ],
     [
@@ -113,6 +123,11 @@
       "fear"
     ],
     [
+      "criminal",
+      2,
+      "anger"
+    ],
+    [
       "medical",
       2,
       "fear"
@@ -163,11 +178,6 @@
       "trust"
     ],
     [
-      "surge",
-      2,
-      "surprise"
-    ],
-    [
       "self",
       2,
       "trust"
@@ -196,11 +206,6 @@
       "shattered",
       2,
       "sadness"
-    ],
-    [
-      "illegal",
-      2,
-      "anger"
     ],
     [
       "gambling",
@@ -253,11 +258,6 @@
       "fear"
     ],
     [
-      "building",
-      2,
-      "anticipation"
-    ],
-    [
       "losing",
       2,
       "anger"
@@ -281,6 +281,16 @@
       "court",
       2,
       "anger"
+    ],
+    [
+      "cocaine",
+      1,
+      "sadness"
+    ],
+    [
+      "waste",
+      1,
+      "disgust"
     ],
     [
       "intimidated",
@@ -366,26 +376,16 @@
       "visitors",
       1,
       "joy"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "powered",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 81,
     "fear": 56,
-    "surprise": 14,
+    "surprise": 15,
     "sadness": 16,
-    "disgust": 1,
-    "anger": 106,
-    "anticipation": 25
+    "disgust": 2,
+    "anger": 105,
+    "anticipation": 22
   }
 }
