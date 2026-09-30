@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-09-30T02:15:02.461Z",
+  "generated_at": "2026-09-30T02:30:05.676Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
-      "anger"
-    ],
-    [
-      "attack",
-      8,
+      11,
       "anger"
     ],
     [
@@ -18,8 +13,13 @@
       "trust"
     ],
     [
+      "attack",
+      7,
+      "anger"
+    ],
+    [
       "strike",
-      6,
+      7,
       "anger"
     ],
     [
@@ -35,16 +35,6 @@
     [
       "president",
       4,
-      "trust"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
-      "calls",
-      3,
       "trust"
     ],
     [
@@ -103,6 +93,11 @@
       "fear"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "show",
       3,
       "trust"
@@ -143,6 +138,11 @@
       "trust"
     ],
     [
+      "calls",
+      2,
+      "trust"
+    ],
+    [
       "arson",
       2,
       "anger"
@@ -156,11 +156,6 @@
       "public",
       2,
       "anticipation"
-    ],
-    [
-      "criminal",
-      2,
-      "anger"
     ],
     [
       "medical",
@@ -278,8 +273,18 @@
       "sadness"
     ],
     [
-      "court",
-      2,
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "threatened",
+      1,
       "anger"
     ],
     [
@@ -371,21 +376,16 @@
       "denies",
       1,
       "anger"
-    ],
-    [
-      "involvement",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 80,
+    "trust": 79,
     "fear": 51,
     "surprise": 14,
     "sadness": 16,
     "disgust": 5,
-    "anger": 112,
+    "anger": 110,
     "anticipation": 24
   }
 }
