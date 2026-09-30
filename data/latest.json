@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:34:51.324Z",
+  "generated_at": "2026-09-30T10:49:53.874Z",
   "article_count": 50,
   "top_words": [
     [
@@ -101,6 +101,11 @@
       "show",
       3,
       "trust"
+    ],
+    [
+      "warned",
+      2,
+      "fear"
     ],
     [
       "pilots",
@@ -273,6 +278,21 @@
       "anger"
     ],
     [
+      "dark",
+      1,
+      "sadness"
+    ],
+    [
+      "warfare",
+      1,
+      "anger"
+    ],
+    [
+      "vulnerability",
+      1,
+      "fear"
+    ],
+    [
       "passenger",
       1,
       "anticipation"
@@ -289,26 +309,6 @@
     ],
     [
       "feud",
-      1,
-      "anger"
-    ],
-    [
-      "dark",
-      1,
-      "sadness"
-    ],
-    [
-      "warfare",
-      1,
-      "anger"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
-    ],
-    [
-      "provocations",
       1,
       "anger"
     ],
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 27,
     "trust": 73,
-    "fear": 56,
+    "fear": 57,
     "surprise": 17,
     "sadness": 16,
     "disgust": 7,
-    "anger": 107,
+    "anger": 106,
     "anticipation": 19
   }
 }
