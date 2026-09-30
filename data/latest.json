@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:38:56.894Z",
+  "generated_at": "2026-09-30T16:53:59.756Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,23 +9,18 @@
     ],
     [
       "attack",
-      8,
+      9,
       "anger"
     ],
     [
       "pilot",
-      7,
+      8,
       "trust"
     ],
     [
       "war",
       7,
       "anger"
-    ],
-    [
-      "emergency",
-      5,
-      "fear"
     ],
     [
       "threat",
@@ -38,14 +33,24 @@
       "anger"
     ],
     [
-      "vote",
+      "strike",
       5,
       "anger"
     ],
     [
-      "strike",
-      5,
-      "anger"
+      "president",
+      4,
+      "trust"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
+      "emergency",
+      4,
+      "fear"
     ],
     [
       "life",
@@ -58,9 +63,24 @@
       "joy"
     ],
     [
+      "vote",
+      4,
+      "anger"
+    ],
+    [
       "crash",
       3,
       "fear"
+    ],
+    [
+      "accused",
+      3,
+      "anger"
+    ],
+    [
+      "officials",
+      3,
+      "trust"
     ],
     [
       "incident",
@@ -78,24 +98,9 @@
       "anger"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
       "family",
       3,
       "joy"
-    ],
-    [
-      "president",
-      3,
-      "trust"
     ],
     [
       "measures",
@@ -128,6 +133,21 @@
       "trust"
     ],
     [
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
+      "attempted",
+      2,
+      "anticipation"
+    ],
+    [
+      "terror",
+      2,
+      "fear"
+    ],
+    [
       "found",
       2,
       "joy"
@@ -151,21 +171,6 @@
       "prepared",
       2,
       "trust"
-    ],
-    [
-      "forced",
-      2,
-      "fear"
-    ],
-    [
-      "attempted",
-      2,
-      "anticipation"
-    ],
-    [
-      "terror",
-      2,
-      "fear"
     ],
     [
       "violence",
@@ -263,11 +268,6 @@
       "fear"
     ],
     [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
       "sharing",
       2,
       "joy"
@@ -298,9 +298,9 @@
       "surprise"
     ],
     [
-      "neutrality",
-      2,
-      "trust"
+      "good",
+      1,
+      "surprise"
     ],
     [
       "fellow",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 34,
     "trust": 89,
-    "fear": 59,
-    "surprise": 13,
+    "fear": 56,
+    "surprise": 14,
     "sadness": 16,
     "disgust": 6,
-    "anger": 109,
-    "anticipation": 22
+    "anger": 108,
+    "anticipation": 23
   }
 }
