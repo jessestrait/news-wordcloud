@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:00:57.263Z",
+  "generated_at": "2026-09-30T04:16:00.043Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,16 +14,16 @@
     ],
     [
       "strike",
-      8,
-      "anger"
-    ],
-    [
-      "attack",
-      6,
+      7,
       "anger"
     ],
     [
       "vote",
+      5,
+      "anger"
+    ],
+    [
+      "attack",
       5,
       "anger"
     ],
@@ -158,11 +158,6 @@
       "trust"
     ],
     [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
       "continue",
       2,
       "trust"
@@ -248,11 +243,6 @@
       "trust"
     ],
     [
-      "fears",
-      2,
-      "anger"
-    ],
-    [
       "second",
       2,
       "trust"
@@ -261,6 +251,11 @@
       "official",
       2,
       "trust"
+    ],
+    [
+      "freedom",
+      1,
+      "joy"
     ],
     [
       "missile",
@@ -376,16 +371,21 @@
       "problem",
       1,
       "fear"
+    ],
+    [
+      "losses",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 78,
+    "trust": 76,
     "fear": 55,
     "surprise": 15,
     "sadness": 14,
     "disgust": 5,
-    "anger": 110,
-    "anticipation": 23
+    "anger": 106,
+    "anticipation": 21
   }
 }
