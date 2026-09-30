@@ -1,19 +1,14 @@
 {
-  "generated_at": "2026-09-30T15:38:06.544Z",
+  "generated_at": "2026-09-30T15:53:08.927Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
-      8,
-      "anger"
-    ],
-    [
       "people",
-      8,
+      9,
       "trust"
     ],
     [
-      "war",
+      "attack",
       8,
       "anger"
     ],
@@ -21,6 +16,11 @@
       "pilot",
       7,
       "trust"
+    ],
+    [
+      "war",
+      7,
+      "anger"
     ],
     [
       "emergency",
@@ -68,11 +68,6 @@
       "fear"
     ],
     [
-      "incident",
-      3,
-      "surprise"
-    ],
-    [
       "officials",
       3,
       "trust"
@@ -108,19 +103,9 @@
       "fear"
     ],
     [
-      "suspected",
-      3,
-      "fear"
-    ],
-    [
       "surge",
       3,
       "surprise"
-    ],
-    [
-      "illegal",
-      3,
-      "anger"
     ],
     [
       "abuse",
@@ -131,6 +116,21 @@
       "show",
       3,
       "trust"
+    ],
+    [
+      "incident",
+      2,
+      "surprise"
+    ],
+    [
+      "truth",
+      2,
+      "trust"
+    ],
+    [
+      "tensions",
+      2,
+      "anger"
     ],
     [
       "imminent",
@@ -228,9 +228,19 @@
       "anger"
     ],
     [
+      "suspected",
+      2,
+      "fear"
+    ],
+    [
       "government",
       2,
       "fear"
+    ],
+    [
+      "illegal",
+      2,
+      "anger"
     ],
     [
       "continue",
@@ -283,11 +293,6 @@
       "trust"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "fellow",
       1,
       "trust"
@@ -301,6 +306,26 @@
       "plummet",
       1,
       "fear"
+    ],
+    [
+      "harm",
+      1,
+      "fear"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "failing",
+      1,
+      "anger"
+    ],
+    [
+      "rising",
+      1,
+      "joy"
     ],
     [
       "alliance",
@@ -351,41 +376,16 @@
       "house",
       1,
       "joy"
-    ],
-    [
-      "opportunity",
-      1,
-      "anticipation"
-    ],
-    [
-      "top",
-      1,
-      "trust"
-    ],
-    [
-      "killings",
-      1,
-      "anger"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 86,
-    "fear": 57,
-    "surprise": 15,
+    "joy": 33,
+    "trust": 89,
+    "fear": 54,
+    "surprise": 14,
     "sadness": 15,
     "disgust": 5,
-    "anger": 104,
+    "anger": 103,
     "anticipation": 22
   }
 }
