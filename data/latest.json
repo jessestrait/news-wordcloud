@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:16:00.043Z",
+  "generated_at": "2026-09-30T04:31:02.603Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,6 +253,31 @@
       "trust"
     ],
     [
+      "rain",
+      1,
+      "joy"
+    ],
+    [
+      "blamed",
+      1,
+      "anger"
+    ],
+    [
+      "change",
+      1,
+      "fear"
+    ],
+    [
+      "created",
+      1,
+      "joy"
+    ],
+    [
+      "prolonged",
+      1,
+      "disgust"
+    ],
+    [
       "freedom",
       1,
       "joy"
@@ -351,41 +376,16 @@
       "ice",
       1,
       "fear"
-    ],
-    [
-      "lowest",
-      1,
-      "sadness"
-    ],
-    [
-      "scientists",
-      1,
-      "trust"
-    ],
-    [
-      "warn",
-      1,
-      "fear"
-    ],
-    [
-      "problem",
-      1,
-      "fear"
-    ],
-    [
-      "losses",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 76,
-    "fear": 55,
+    "fear": 56,
     "surprise": 15,
     "sadness": 14,
-    "disgust": 5,
-    "anger": 106,
-    "anticipation": 21
+    "disgust": 6,
+    "anger": 107,
+    "anticipation": 19
   }
 }
