@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:39:27.895Z",
+  "generated_at": "2026-09-30T17:54:30.542Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,11 +108,6 @@
       "trust"
     ],
     [
-      "dying",
-      3,
-      "sadness"
-    ],
-    [
       "calls",
       3,
       "trust"
@@ -123,14 +118,19 @@
       "fear"
     ],
     [
-      "abuse",
-      3,
-      "anger"
-    ],
-    [
       "show",
       3,
       "trust"
+    ],
+    [
+      "assault",
+      2,
+      "anger"
+    ],
+    [
+      "plummet",
+      2,
+      "fear"
     ],
     [
       "authorities",
@@ -191,6 +191,11 @@
       "based",
       2,
       "trust"
+    ],
+    [
+      "dying",
+      2,
+      "sadness"
     ],
     [
       "soldiers",
@@ -258,6 +263,11 @@
       "anger"
     ],
     [
+      "abuse",
+      2,
+      "anger"
+    ],
+    [
       "continue",
       2,
       "trust"
@@ -298,6 +308,46 @@
       "surprise"
     ],
     [
+      "hearing",
+      1,
+      "fear"
+    ],
+    [
+      "plunge",
+      1,
+      "fear"
+    ],
+    [
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
+      "passengers",
+      1,
+      "anticipation"
+    ],
+    [
+      "witnessed",
+      1,
+      "trust"
+    ],
+    [
+      "horrific",
+      1,
+      "anger"
+    ],
+    [
+      "daring",
+      1,
+      "trust"
+    ],
+    [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
       "good",
       1,
       "surprise"
@@ -313,11 +363,6 @@
       "trust"
     ],
     [
-      "plummet",
-      1,
-      "fear"
-    ],
-    [
       "court",
       1,
       "anger"
@@ -331,61 +376,16 @@
       "manslaughter",
       1,
       "anger"
-    ],
-    [
-      "drowning",
-      1,
-      "fear"
-    ],
-    [
-      "guilty",
-      1,
-      "anger"
-    ],
-    [
-      "lesser",
-      1,
-      "disgust"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
-    ],
-    [
-      "universities",
-      1,
-      "anticipation"
-    ],
-    [
-      "nothing",
-      1,
-      "sadness"
-    ],
-    [
-      "changed",
-      1,
-      "fear"
-    ],
-    [
-      "infamous",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 31,
     "trust": 89,
-    "fear": 56,
-    "surprise": 14,
-    "sadness": 16,
+    "fear": 58,
+    "surprise": 15,
+    "sadness": 15,
     "disgust": 6,
     "anger": 108,
-    "anticipation": 23
+    "anticipation": 25
   }
 }
