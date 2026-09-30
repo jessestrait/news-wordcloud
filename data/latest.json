@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:50:24.983Z",
+  "generated_at": "2026-09-30T12:05:27.162Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "force",
+      5,
+      "anger"
+    ],
+    [
       "attack",
       5,
       "anger"
@@ -31,11 +36,6 @@
       "emergency",
       4,
       "fear"
-    ],
-    [
-      "force",
-      4,
-      "anger"
     ],
     [
       "president",
@@ -111,11 +111,6 @@
       "pilots",
       2,
       "trust"
-    ],
-    [
-      "warned",
-      2,
-      "fear"
     ],
     [
       "officials",
@@ -278,6 +273,21 @@
       "anger"
     ],
     [
+      "vulnerability",
+      1,
+      "fear"
+    ],
+    [
+      "armed",
+      1,
+      "anger"
+    ],
+    [
+      "lessons",
+      1,
+      "trust"
+    ],
+    [
       "terrorist",
       1,
       "anger"
@@ -296,21 +306,6 @@
       "feud",
       1,
       "anger"
-    ],
-    [
-      "dark",
-      1,
-      "sadness"
-    ],
-    [
-      "warfare",
-      1,
-      "anger"
-    ],
-    [
-      "vulnerability",
-      1,
-      "fear"
     ],
     [
       "passenger",
@@ -376,16 +371,21 @@
       "bunker",
       1,
       "fear"
+    ],
+    [
+      "missile",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 72,
-    "fear": 58,
+    "trust": 73,
+    "fear": 57,
     "surprise": 17,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 7,
-    "anger": 107,
+    "anger": 108,
     "anticipation": 20
   }
 }
