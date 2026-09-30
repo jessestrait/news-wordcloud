@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:03:12.729Z",
+  "generated_at": "2026-09-30T08:18:15.533Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,16 +108,6 @@
       "trust"
     ],
     [
-      "soldiers",
-      2,
-      "anger"
-    ],
-    [
-      "operation",
-      2,
-      "fear"
-    ],
-    [
       "debris",
       2,
       "disgust"
@@ -126,6 +116,16 @@
       "found",
       2,
       "joy"
+    ],
+    [
+      "soldiers",
+      2,
+      "anger"
+    ],
+    [
+      "operation",
+      2,
+      "fear"
     ],
     [
       "growing",
@@ -268,6 +268,11 @@
       "anger"
     ],
     [
+      "communications",
+      1,
+      "trust"
+    ],
+    [
       "afraid",
       1,
       "fear"
@@ -334,11 +339,6 @@
     ],
     [
       "trade",
-      1,
-      "trust"
-    ],
-    [
-      "communications",
       1,
       "trust"
     ],
