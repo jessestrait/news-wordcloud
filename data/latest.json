@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:09:52.267Z",
+  "generated_at": "2026-09-30T18:24:54.730Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "trust"
     ],
     [
-      "attack",
-      9,
-      "anger"
-    ],
-    [
       "pilot",
       8,
       "trust"
+    ],
+    [
+      "attack",
+      8,
+      "anger"
     ],
     [
       "war",
@@ -131,11 +131,6 @@
       "plummet",
       2,
       "fear"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "attempted",
@@ -376,16 +371,21 @@
       "manslaughter",
       1,
       "anger"
+    ],
+    [
+      "drowning",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 89,
+    "trust": 88,
     "fear": 58,
     "surprise": 15,
     "sadness": 15,
     "disgust": 6,
-    "anger": 108,
+    "anger": 107,
     "anticipation": 25
   }
 }
