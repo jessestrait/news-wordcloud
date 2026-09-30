@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:37:38.107Z",
+  "generated_at": "2026-09-30T14:52:40.708Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "force",
+      5,
+      "anger"
+    ],
+    [
       "vote",
       5,
       "anger"
@@ -31,6 +36,11 @@
       "strike",
       5,
       "anger"
+    ],
+    [
+      "housing",
+      4,
+      "joy"
     ],
     [
       "pilot",
@@ -43,24 +53,19 @@
       "fear"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "life",
       4,
       "joy"
     ],
     [
-      "force",
-      4,
-      "anger"
-    ],
-    [
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "measures",
@@ -131,6 +136,11 @@
       "crash",
       2,
       "fear"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
     ],
     [
       "based",
@@ -206,11 +216,6 @@
       "arson",
       2,
       "anger"
-    ],
-    [
-      "housing",
-      2,
-      "joy"
     ],
     [
       "eviction",
@@ -298,6 +303,21 @@
       "sadness"
     ],
     [
+      "house",
+      1,
+      "joy"
+    ],
+    [
+      "opportunity",
+      1,
+      "anticipation"
+    ],
+    [
+      "top",
+      1,
+      "trust"
+    ],
+    [
       "fellow",
       1,
       "trust"
@@ -356,36 +376,16 @@
       "attempted",
       1,
       "anticipation"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "afraid",
-      1,
-      "fear"
-    ],
-    [
-      "cover",
-      1,
-      "trust"
-    ],
-    [
-      "injures",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 32,
     "trust": 83,
     "fear": 55,
     "surprise": 16,
     "sadness": 15,
     "disgust": 5,
-    "anger": 106,
-    "anticipation": 20
+    "anger": 105,
+    "anticipation": 21
   }
 }
