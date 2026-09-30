@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T23:58:42.727Z",
+  "generated_at": "2026-09-30T00:13:45.332Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "people",
-      9,
-      "trust"
-    ],
-    [
       "attack",
       8,
       "anger"
+    ],
+    [
+      "people",
+      8,
+      "trust"
     ],
     [
       "strike",
@@ -103,17 +103,7 @@
       "fear"
     ],
     [
-      "threat",
-      3,
-      "anger"
-    ],
-    [
       "show",
-      3,
-      "trust"
-    ],
-    [
-      "pontiff",
       3,
       "trust"
     ],
@@ -123,14 +113,24 @@
       "fear"
     ],
     [
-      "official",
-      3,
-      "trust"
-    ],
-    [
       "rat",
       3,
       "fear"
+    ],
+    [
+      "falls",
+      2,
+      "sadness"
+    ],
+    [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
+      "global",
+      2,
+      "anticipation"
     ],
     [
       "marine",
@@ -198,6 +198,11 @@
       "trust"
     ],
     [
+      "threat",
+      2,
+      "anger"
+    ],
+    [
       "self",
       2,
       "trust"
@@ -243,6 +248,11 @@
       "joy"
     ],
     [
+      "pontiff",
+      2,
+      "trust"
+    ],
+    [
       "reject",
       2,
       "anger"
@@ -263,6 +273,11 @@
       "trust"
     ],
     [
+      "official",
+      2,
+      "trust"
+    ],
+    [
       "world",
       2,
       "trust"
@@ -273,13 +288,38 @@
       "sadness"
     ],
     [
-      "warns",
+      "court",
       2,
+      "anger"
+    ],
+    [
+      "ice",
+      1,
       "fear"
     ],
     [
-      "court",
-      2,
+      "lowest",
+      1,
+      "sadness"
+    ],
+    [
+      "level",
+      1,
+      "trust"
+    ],
+    [
+      "scientists",
+      1,
+      "trust"
+    ],
+    [
+      "problem",
+      1,
+      "fear"
+    ],
+    [
+      "losses",
+      1,
       "anger"
     ],
     [
@@ -336,54 +376,14 @@
       "outcry",
       1,
       "anger"
-    ],
-    [
-      "approved",
-      1,
-      "joy"
-    ],
-    [
-      "congress",
-      1,
-      "disgust"
-    ],
-    [
-      "blames",
-      1,
-      "anger"
-    ],
-    [
-      "supplying",
-      1,
-      "fear"
-    ],
-    [
-      "leaders",
-      1,
-      "trust"
-    ],
-    [
-      "bribery",
-      1,
-      "disgust"
-    ],
-    [
-      "cocaine",
-      1,
-      "sadness"
-    ],
-    [
-      "waste",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 81,
-    "fear": 52,
+    "joy": 24,
+    "trust": 80,
+    "fear": 53,
     "surprise": 14,
-    "sadness": 14,
+    "sadness": 17,
     "disgust": 5,
     "anger": 110,
     "anticipation": 24
