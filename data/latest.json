@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T07:33:07.039Z",
+  "generated_at": "2026-09-30T07:48:09.684Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,17 +13,17 @@
       "trust"
     ],
     [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
       "strike",
-      7,
+      6,
       "anger"
     ],
     [
       "vote",
-      5,
-      "anger"
-    ],
-    [
-      "attack",
       5,
       "anger"
     ],
@@ -93,11 +93,6 @@
       "fear"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "show",
       3,
       "trust"
@@ -106,6 +101,16 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "debris",
+      2,
+      "disgust"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "growing",
@@ -213,6 +218,11 @@
       "anger"
     ],
     [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "fighting",
       2,
       "anger"
@@ -253,6 +263,11 @@
       "anger"
     ],
     [
+      "communications",
+      1,
+      "trust"
+    ],
+    [
       "faith",
       1,
       "joy"
@@ -286,11 +301,6 @@
       "backer",
       1,
       "trust"
-    ],
-    [
-      "found",
-      1,
-      "joy"
     ],
     [
       "rain",
@@ -366,26 +376,16 @@
       "escape",
       1,
       "fear"
-    ],
-    [
-      "hunting",
-      1,
-      "anger"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 73,
-    "fear": 57,
-    "surprise": 17,
+    "joy": 29,
+    "trust": 74,
+    "fear": 56,
+    "surprise": 16,
     "sadness": 14,
-    "disgust": 6,
-    "anger": 107,
-    "anticipation": 19
+    "disgust": 7,
+    "anger": 104,
+    "anticipation": 18
   }
 }
