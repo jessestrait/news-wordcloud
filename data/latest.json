@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:04:56.246Z",
+  "generated_at": "2026-09-30T11:19:58.790Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,24 +103,19 @@
       "trust"
     ],
     [
-      "warned",
-      2,
-      "fear"
-    ],
-    [
-      "pilots",
+      "officials",
       2,
       "trust"
-    ],
-    [
-      "incident",
-      2,
-      "surprise"
     ],
     [
       "fears",
       2,
       "anger"
+    ],
+    [
+      "warned",
+      2,
+      "fear"
     ],
     [
       "soldiers",
@@ -278,6 +273,26 @@
       "anger"
     ],
     [
+      "passenger",
+      1,
+      "anticipation"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "pilots",
+      1,
+      "trust"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
       "dark",
       1,
       "sadness"
@@ -291,26 +306,6 @@
       "vulnerability",
       1,
       "fear"
-    ],
-    [
-      "passenger",
-      1,
-      "anticipation"
-    ],
-    [
-      "fight",
-      1,
-      "anger"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "feud",
-      1,
-      "anger"
     ],
     [
       "afraid",
@@ -376,16 +371,21 @@
       "guardian",
       1,
       "trust"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
     "trust": 73,
     "fear": 57,
-    "surprise": 17,
+    "surprise": 16,
     "sadness": 16,
-    "disgust": 7,
-    "anger": 106,
-    "anticipation": 19
+    "disgust": 6,
+    "anger": 105,
+    "anticipation": 20
   }
 }
