@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:21:16.979Z",
+  "generated_at": "2026-09-30T13:36:19.079Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "people",
       8,
       "trust"
+    ],
+    [
+      "attack",
+      6,
+      "anger"
     ],
     [
       "strike",
@@ -28,11 +33,6 @@
       "anger"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "emergency",
       4,
       "fear"
@@ -43,9 +43,14 @@
       "trust"
     ],
     [
-      "fears",
+      "pilot",
       3,
-      "anger"
+      "trust"
+    ],
+    [
+      "incident",
+      3,
+      "surprise"
     ],
     [
       "dying",
@@ -103,19 +108,24 @@
       "trust"
     ],
     [
-      "incident",
+      "crash",
       2,
-      "surprise"
-    ],
-    [
-      "pilots",
-      2,
-      "trust"
+      "fear"
     ],
     [
       "officials",
       2,
       "trust"
+    ],
+    [
+      "forced",
+      2,
+      "fear"
+    ],
+    [
+      "fears",
+      2,
+      "anger"
     ],
     [
       "soldiers",
@@ -273,6 +283,36 @@
       "anger"
     ],
     [
+      "passenger",
+      1,
+      "anticipation"
+    ],
+    [
+      "attempted",
+      1,
+      "anticipation"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
+    ],
+    [
+      "terrorist",
+      1,
+      "anger"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "feud",
+      1,
+      "anger"
+    ],
+    [
       "vulnerability",
       1,
       "fear"
@@ -286,41 +326,6 @@
       "lessons",
       1,
       "trust"
-    ],
-    [
-      "terrorist",
-      1,
-      "anger"
-    ],
-    [
-      "crash",
-      1,
-      "fear"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "feud",
-      1,
-      "anger"
-    ],
-    [
-      "passenger",
-      1,
-      "anticipation"
-    ],
-    [
-      "fight",
-      1,
-      "anger"
-    ],
-    [
-      "airport",
-      1,
-      "anticipation"
     ],
     [
       "afraid",
@@ -371,21 +376,16 @@
       "bunker",
       1,
       "fear"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 73,
-    "fear": 57,
-    "surprise": 17,
+    "trust": 74,
+    "fear": 60,
+    "surprise": 18,
     "sadness": 15,
     "disgust": 7,
-    "anger": 108,
+    "anger": 107,
     "anticipation": 20
   }
 }
