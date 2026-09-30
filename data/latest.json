@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:47:41.956Z",
+  "generated_at": "2026-09-30T07:02:44.623Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
@@ -106,6 +106,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "team",
@@ -228,11 +233,6 @@
       "trust"
     ],
     [
-      "pontiff",
-      2,
-      "trust"
-    ],
-    [
       "reject",
       2,
       "anger"
@@ -248,14 +248,34 @@
       "fear"
     ],
     [
-      "second",
+      "lie",
       2,
-      "trust"
+      "anger"
     ],
     [
-      "official",
-      2,
-      "trust"
+      "faith",
+      1,
+      "joy"
+    ],
+    [
+      "glow",
+      1,
+      "joy"
+    ],
+    [
+      "enthusiasm",
+      1,
+      "surprise"
+    ],
+    [
+      "delivery",
+      1,
+      "anticipation"
+    ],
+    [
+      "hopeful",
+      1,
+      "surprise"
     ],
     [
       "soldiers",
@@ -356,36 +376,16 @@
       "condemns",
       1,
       "anger"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
-    ],
-    [
-      "threatened",
-      1,
-      "anger"
-    ],
-    [
-      "looms",
-      1,
-      "fear"
-    ],
-    [
-      "bad",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 77,
+    "joy": 28,
+    "trust": 73,
     "fear": 57,
-    "surprise": 15,
+    "surprise": 17,
     "sadness": 14,
     "disgust": 6,
-    "anger": 106,
-    "anticipation": 18
+    "anger": 107,
+    "anticipation": 19
   }
 }
