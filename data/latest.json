@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:37:11.442Z",
+  "generated_at": "2026-09-30T13:52:13.713Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,6 +51,11 @@
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "forced",
+      3,
+      "fear"
     ],
     [
       "dying",
@@ -108,24 +113,9 @@
       "trust"
     ],
     [
-      "crash",
-      2,
-      "fear"
-    ],
-    [
       "officials",
       2,
       "trust"
-    ],
-    [
-      "forced",
-      2,
-      "fear"
-    ],
-    [
-      "fears",
-      2,
-      "anger"
     ],
     [
       "soldiers",
@@ -283,36 +273,6 @@
       "anger"
     ],
     [
-      "passenger",
-      1,
-      "anticipation"
-    ],
-    [
-      "attempted",
-      1,
-      "anticipation"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "terrorist",
-      1,
-      "anger"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "feud",
-      1,
-      "anger"
-    ],
-    [
       "vulnerability",
       1,
       "fear"
@@ -326,6 +286,36 @@
       "lessons",
       1,
       "trust"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
+      "crash",
+      1,
+      "fear"
+    ],
+    [
+      "passenger",
+      1,
+      "anticipation"
+    ],
+    [
+      "attempted",
+      1,
+      "anticipation"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
     ],
     [
       "afraid",
@@ -376,16 +366,26 @@
       "bunker",
       1,
       "fear"
+    ],
+    [
+      "missile",
+      1,
+      "fear"
+    ],
+    [
+      "alerts",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 74,
+    "trust": 76,
     "fear": 60,
     "surprise": 18,
     "sadness": 15,
-    "disgust": 7,
-    "anger": 107,
+    "disgust": 6,
+    "anger": 104,
     "anticipation": 20
   }
 }
