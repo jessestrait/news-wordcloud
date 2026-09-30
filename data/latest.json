@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:39:57.550Z",
+  "generated_at": "2026-09-30T18:55:00.191Z",
   "article_count": 50,
   "top_words": [
     [
@@ -136,11 +136,6 @@
       "assault",
       2,
       "anger"
-    ],
-    [
-      "plummet",
-      2,
-      "fear"
     ],
     [
       "found",
@@ -358,6 +353,11 @@
       "trust"
     ],
     [
+      "plummet",
+      1,
+      "fear"
+    ],
+    [
       "court",
       1,
       "anger"
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 31,
     "trust": 88,
-    "fear": 58,
+    "fear": 57,
     "surprise": 15,
     "sadness": 15,
     "disgust": 6,
