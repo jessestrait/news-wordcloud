@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:19:32.166Z",
+  "generated_at": "2026-09-30T10:34:34.313Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "trust"
     ],
     [
+      "emergency",
+      3,
+      "fear"
+    ],
+    [
       "dying",
       3,
       "sadness"
@@ -66,16 +71,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "housing",
-      3,
-      "joy"
-    ],
-    [
-      "eviction",
-      3,
-      "anger"
     ],
     [
       "suspected",
@@ -108,6 +103,21 @@
       "trust"
     ],
     [
+      "pilots",
+      2,
+      "trust"
+    ],
+    [
+      "incident",
+      2,
+      "surprise"
+    ],
+    [
+      "fears",
+      2,
+      "anger"
+    ],
+    [
       "soldiers",
       2,
       "anger"
@@ -119,11 +129,6 @@
     ],
     [
       "growing",
-      2,
-      "joy"
-    ],
-    [
-      "home",
       2,
       "joy"
     ],
@@ -154,6 +159,16 @@
     ],
     [
       "arson",
+      2,
+      "anger"
+    ],
+    [
+      "housing",
+      2,
+      "joy"
+    ],
+    [
+      "eviction",
       2,
       "anger"
     ],
@@ -201,11 +216,6 @@
       "prisoners",
       2,
       "anger"
-    ],
-    [
-      "emergency",
-      2,
-      "fear"
     ],
     [
       "senate",
@@ -260,6 +270,26 @@
     [
       "lie",
       2,
+      "anger"
+    ],
+    [
+      "passenger",
+      1,
+      "anticipation"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "feud",
+      1,
       "anger"
     ],
     [
@@ -346,46 +376,16 @@
       "guardian",
       1,
       "trust"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "faith",
-      1,
-      "joy"
-    ],
-    [
-      "glow",
-      1,
-      "joy"
-    ],
-    [
-      "enthusiasm",
-      1,
-      "surprise"
-    ],
-    [
-      "delivery",
-      1,
-      "anticipation"
-    ],
-    [
-      "hopeful",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 72,
-    "fear": 55,
-    "surprise": 16,
+    "joy": 27,
+    "trust": 73,
+    "fear": 56,
+    "surprise": 17,
     "sadness": 16,
-    "disgust": 6,
+    "disgust": 7,
     "anger": 107,
-    "anticipation": 18
+    "anticipation": 19
   }
 }
