@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:05:44.794Z",
+  "generated_at": "2026-09-30T12:20:47.964Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,21 +273,6 @@
       "anger"
     ],
     [
-      "vulnerability",
-      1,
-      "fear"
-    ],
-    [
-      "armed",
-      1,
-      "anger"
-    ],
-    [
-      "lessons",
-      1,
-      "trust"
-    ],
-    [
       "terrorist",
       1,
       "anger"
@@ -306,6 +291,21 @@
       "feud",
       1,
       "anger"
+    ],
+    [
+      "vulnerability",
+      1,
+      "fear"
+    ],
+    [
+      "armed",
+      1,
+      "anger"
+    ],
+    [
+      "lessons",
+      1,
+      "trust"
     ],
     [
       "passenger",
