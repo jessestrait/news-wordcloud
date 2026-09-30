@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-30T14:07:16.132Z",
+  "generated_at": "2026-09-30T14:22:18.298Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      9,
-      "anger"
-    ],
     [
       "people",
       8,
       "trust"
+    ],
+    [
+      "war",
+      8,
+      "anger"
     ],
     [
       "attack",
@@ -18,12 +18,12 @@
       "anger"
     ],
     [
-      "vote",
+      "threat",
       5,
       "anger"
     ],
     [
-      "force",
+      "vote",
       5,
       "anger"
     ],
@@ -33,14 +33,34 @@
       "anger"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "pilot",
       4,
       "trust"
     ],
     [
+      "emergency",
+      4,
+      "fear"
+    ],
+    [
       "life",
       4,
       "joy"
+    ],
+    [
+      "force",
+      4,
+      "anger"
+    ],
+    [
+      "measures",
+      3,
+      "trust"
     ],
     [
       "incident",
@@ -51,11 +71,6 @@
       "family",
       3,
       "joy"
-    ],
-    [
-      "emergency",
-      3,
-      "fear"
     ],
     [
       "dying",
@@ -71,11 +86,6 @@
       "military",
       3,
       "fear"
-    ],
-    [
-      "president",
-      3,
-      "trust"
     ],
     [
       "happened",
@@ -103,13 +113,33 @@
       "anger"
     ],
     [
-      "threat",
+      "show",
       3,
+      "trust"
+    ],
+    [
+      "based",
+      2,
+      "trust"
+    ],
+    [
+      "violence",
+      2,
       "anger"
     ],
     [
-      "show",
-      3,
+      "series",
+      2,
+      "trust"
+    ],
+    [
+      "imminent",
+      2,
+      "fear"
+    ],
+    [
+      "prepared",
+      2,
       "trust"
     ],
     [
@@ -143,11 +173,6 @@
       "anger"
     ],
     [
-      "operation",
-      2,
-      "fear"
-    ],
-    [
       "growing",
       2,
       "joy"
@@ -161,11 +186,6 @@
       "level",
       2,
       "trust"
-    ],
-    [
-      "warn",
-      2,
-      "fear"
     ],
     [
       "fall",
@@ -198,11 +218,6 @@
       "anger"
     ],
     [
-      "measures",
-      2,
-      "trust"
-    ],
-    [
       "government",
       2,
       "fear"
@@ -229,11 +244,6 @@
     ],
     [
       "hit",
-      2,
-      "anger"
-    ],
-    [
-      "bomb",
       2,
       "anger"
     ],
@@ -273,9 +283,44 @@
       "fear"
     ],
     [
-      "lie",
-      2,
+      "killings",
+      1,
       "anger"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "murders",
+      1,
+      "anger"
+    ],
+    [
+      "alliance",
+      1,
+      "trust"
+    ],
+    [
+      "aggression",
+      1,
+      "anger"
+    ],
+    [
+      "worried",
+      1,
+      "sadness"
+    ],
+    [
+      "fellow",
+      1,
+      "trust"
     ],
     [
       "statement",
@@ -283,14 +328,9 @@
       "trust"
     ],
     [
-      "piloted",
+      "plummet",
       1,
-      "trust"
-    ],
-    [
-      "attempting",
-      1,
-      "anticipation"
+      "fear"
     ],
     [
       "terrorist",
@@ -303,29 +343,9 @@
       "anger"
     ],
     [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
       "assault",
       1,
       "anger"
-    ],
-    [
-      "vulnerability",
-      1,
-      "fear"
-    ],
-    [
-      "armed",
-      1,
-      "anger"
-    ],
-    [
-      "lessons",
-      1,
-      "trust"
     ],
     [
       "passenger",
@@ -356,36 +376,16 @@
       "injures",
       1,
       "anger"
-    ],
-    [
-      "blast",
-      1,
-      "anger"
-    ],
-    [
-      "tensions",
-      1,
-      "anger"
-    ],
-    [
-      "attempts",
-      1,
-      "anticipation"
-    ],
-    [
-      "revive",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 78,
-    "fear": 57,
+    "trust": 83,
+    "fear": 55,
     "surprise": 16,
     "sadness": 15,
-    "disgust": 6,
-    "anger": 105,
-    "anticipation": 21
+    "disgust": 5,
+    "anger": 106,
+    "anticipation": 20
   }
 }
