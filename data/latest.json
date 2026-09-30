@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:44:11.076Z",
+  "generated_at": "2026-09-30T00:59:13.824Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "vote",
+      5,
+      "anger"
+    ],
+    [
       "force",
       5,
       "anger"
@@ -31,11 +36,6 @@
       "president",
       4,
       "trust"
-    ],
-    [
-      "vote",
-      4,
-      "anger"
     ],
     [
       "trump",
@@ -113,9 +113,9 @@
       "fear"
     ],
     [
-      "rat",
-      3,
-      "fear"
+      "home",
+      2,
+      "joy"
     ],
     [
       "level",
@@ -208,11 +208,6 @@
       "anger"
     ],
     [
-      "self",
-      2,
-      "trust"
-    ],
-    [
       "fighting",
       2,
       "anger"
@@ -231,11 +226,6 @@
       "iran",
       2,
       "anger"
-    ],
-    [
-      "shattered",
-      2,
-      "sadness"
     ],
     [
       "gambling",
@@ -283,11 +273,6 @@
       "trust"
     ],
     [
-      "world",
-      2,
-      "trust"
-    ],
-    [
       "closure",
       2,
       "sadness"
@@ -295,6 +280,31 @@
     [
       "court",
       2,
+      "anger"
+    ],
+    [
+      "looms",
+      1,
+      "fear"
+    ],
+    [
+      "bad",
+      1,
+      "anger"
+    ],
+    [
+      "enrolled",
+      1,
+      "trust"
+    ],
+    [
+      "poll",
+      1,
+      "trust"
+    ],
+    [
+      "unhappy",
+      1,
       "anger"
     ],
     [
@@ -366,26 +376,16 @@
       "involvement",
       1,
       "anger"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
-      "outcry",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 81,
-    "fear": 53,
+    "joy": 25,
+    "trust": 80,
+    "fear": 51,
     "surprise": 14,
-    "sadness": 17,
+    "sadness": 16,
     "disgust": 5,
-    "anger": 110,
+    "anger": 112,
     "anticipation": 24
   }
 }
