@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:27:15.253Z",
+  "generated_at": "2026-09-30T22:42:17.608Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "trust"
     ],
     [
-      "attack",
-      8,
-      "anger"
-    ],
-    [
       "pilot",
       8,
       "trust"
+    ],
+    [
+      "attack",
+      8,
+      "anger"
     ],
     [
       "war",
@@ -68,11 +68,6 @@
       "anger"
     ],
     [
-      "family",
-      3,
-      "joy"
-    ],
-    [
       "crash",
       3,
       "fear"
@@ -91,6 +86,11 @@
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "family",
+      3,
+      "joy"
     ],
     [
       "series",
@@ -123,6 +123,16 @@
       "trust"
     ],
     [
+      "attempted",
+      2,
+      "anticipation"
+    ],
+    [
+      "terror",
+      2,
+      "fear"
+    ],
+    [
       "violence",
       2,
       "anger"
@@ -136,16 +146,6 @@
       "home",
       2,
       "joy"
-    ],
-    [
-      "attempted",
-      2,
-      "anticipation"
-    ],
-    [
-      "terror",
-      2,
-      "fear"
     ],
     [
       "found",
