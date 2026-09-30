@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:22:35.301Z",
+  "generated_at": "2026-09-30T14:37:38.107Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anger"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "pilot",
       4,
       "trust"
@@ -46,6 +41,11 @@
       "emergency",
       4,
       "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "life",
@@ -58,14 +58,14 @@
       "anger"
     ],
     [
-      "measures",
-      3,
-      "trust"
-    ],
-    [
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "measures",
+      3,
+      "trust"
     ],
     [
       "family",
@@ -118,21 +118,6 @@
       "trust"
     ],
     [
-      "based",
-      2,
-      "trust"
-    ],
-    [
-      "violence",
-      2,
-      "anger"
-    ],
-    [
-      "series",
-      2,
-      "trust"
-    ],
-    [
       "imminent",
       2,
       "fear"
@@ -146,6 +131,21 @@
       "crash",
       2,
       "fear"
+    ],
+    [
+      "based",
+      2,
+      "trust"
+    ],
+    [
+      "violence",
+      2,
+      "anger"
+    ],
+    [
+      "series",
+      2,
+      "trust"
     ],
     [
       "bank",
@@ -283,26 +283,6 @@
       "fear"
     ],
     [
-      "killings",
-      1,
-      "anger"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "murders",
-      1,
-      "anger"
-    ],
-    [
       "alliance",
       1,
       "trust"
@@ -331,6 +311,26 @@
       "plummet",
       1,
       "fear"
+    ],
+    [
+      "killings",
+      1,
+      "anger"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "murders",
+      1,
+      "anger"
     ],
     [
       "terrorist",
