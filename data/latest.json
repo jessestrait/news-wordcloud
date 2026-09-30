@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:52:13.713Z",
+  "generated_at": "2026-09-30T14:07:16.132Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,12 +14,7 @@
     ],
     [
       "attack",
-      6,
-      "anger"
-    ],
-    [
-      "strike",
-      6,
+      7,
       "anger"
     ],
     [
@@ -33,19 +28,19 @@
       "anger"
     ],
     [
-      "emergency",
-      4,
-      "fear"
-    ],
-    [
-      "president",
-      4,
-      "trust"
+      "strike",
+      5,
+      "anger"
     ],
     [
       "pilot",
-      3,
+      4,
       "trust"
+    ],
+    [
+      "life",
+      4,
+      "joy"
     ],
     [
       "incident",
@@ -53,7 +48,12 @@
       "surprise"
     ],
     [
-      "forced",
+      "family",
+      3,
+      "joy"
+    ],
+    [
+      "emergency",
       3,
       "fear"
     ],
@@ -68,14 +68,14 @@
       "trust"
     ],
     [
-      "life",
-      3,
-      "joy"
-    ],
-    [
       "military",
       3,
       "fear"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "happened",
@@ -113,9 +113,29 @@
       "trust"
     ],
     [
+      "crash",
+      2,
+      "fear"
+    ],
+    [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
+      "home",
+      2,
+      "joy"
+    ],
+    [
       "officials",
       2,
       "trust"
+    ],
+    [
+      "forced",
+      2,
+      "fear"
     ],
     [
       "soldiers",
@@ -228,17 +248,7 @@
       "trust"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "fighting",
-      2,
-      "anger"
-    ],
-    [
-      "iran",
       2,
       "anger"
     ],
@@ -246,11 +256,6 @@
       "gambling",
       2,
       "surprise"
-    ],
-    [
-      "reject",
-      2,
-      "anger"
     ],
     [
       "neutrality",
@@ -273,6 +278,41 @@
       "anger"
     ],
     [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
+      "piloted",
+      1,
+      "trust"
+    ],
+    [
+      "attempting",
+      1,
+      "anticipation"
+    ],
+    [
+      "terrorist",
+      1,
+      "anger"
+    ],
+    [
+      "condemned",
+      1,
+      "anger"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "assault",
+      1,
+      "anger"
+    ],
+    [
       "vulnerability",
       1,
       "fear"
@@ -286,21 +326,6 @@
       "lessons",
       1,
       "trust"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
-    ],
-    [
-      "crash",
-      1,
-      "fear"
     ],
     [
       "passenger",
@@ -328,11 +353,6 @@
       "trust"
     ],
     [
-      "families",
-      1,
-      "joy"
-    ],
-    [
       "injures",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "revive",
       1,
       "anticipation"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "bunker",
-      1,
-      "fear"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
-    ],
-    [
-      "alerts",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 76,
-    "fear": 60,
-    "surprise": 18,
+    "joy": 30,
+    "trust": 78,
+    "fear": 57,
+    "surprise": 16,
     "sadness": 15,
     "disgust": 6,
-    "anger": 104,
-    "anticipation": 20
+    "anger": 105,
+    "anticipation": 21
   }
 }
