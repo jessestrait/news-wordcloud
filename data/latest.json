@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:13:45.332Z",
+  "generated_at": "2026-09-30T00:28:47.896Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,14 +118,19 @@
       "fear"
     ],
     [
-      "falls",
+      "level",
       2,
-      "sadness"
+      "trust"
     ],
     [
       "warn",
       2,
       "fear"
+    ],
+    [
+      "fall",
+      2,
+      "sadness"
     ],
     [
       "global",
@@ -303,11 +308,6 @@
       "sadness"
     ],
     [
-      "level",
-      1,
-      "trust"
-    ],
-    [
       "scientists",
       1,
       "trust"
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 80,
+    "trust": 81,
     "fear": 53,
     "surprise": 14,
     "sadness": 17,
