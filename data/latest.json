@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:08:01.715Z",
+  "generated_at": "2026-09-30T15:23:04.164Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "threat",
-      5,
-      "anger"
-    ],
-    [
       "emergency",
       5,
       "fear"
+    ],
+    [
+      "threat",
+      5,
+      "anger"
     ],
     [
       "force",
@@ -133,14 +133,9 @@
       "trust"
     ],
     [
-      "imminent",
+      "forced",
       2,
       "fear"
-    ],
-    [
-      "prepared",
-      2,
-      "trust"
     ],
     [
       "attempted",
@@ -151,6 +146,16 @@
       "terror",
       2,
       "fear"
+    ],
+    [
+      "imminent",
+      2,
+      "fear"
+    ],
+    [
+      "prepared",
+      2,
+      "trust"
     ],
     [
       "violence",
@@ -176,11 +181,6 @@
       "series",
       2,
       "trust"
-    ],
-    [
-      "forced",
-      2,
-      "fear"
     ],
     [
       "soldiers",
@@ -303,11 +303,6 @@
       "sadness"
     ],
     [
-      "alleged",
-      1,
-      "fear"
-    ],
-    [
       "fellow",
       1,
       "trust"
@@ -319,6 +314,11 @@
     ],
     [
       "plummet",
+      1,
+      "fear"
+    ],
+    [
+      "alleged",
       1,
       "fear"
     ],
@@ -386,6 +386,6 @@
     "sadness": 15,
     "disgust": 5,
     "anger": 104,
-    "anticipation": 22
+    "anticipation": 21
   }
 }
