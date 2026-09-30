@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:35:22.892Z",
+  "generated_at": "2026-09-30T11:50:24.983Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,7 +28,7 @@
       "anger"
     ],
     [
-      "military",
+      "emergency",
       4,
       "fear"
     ],
@@ -43,9 +43,9 @@
       "trust"
     ],
     [
-      "emergency",
+      "fears",
       3,
-      "fear"
+      "anger"
     ],
     [
       "dying",
@@ -63,9 +63,9 @@
       "joy"
     ],
     [
-      "economy",
+      "military",
       3,
-      "trust"
+      "fear"
     ],
     [
       "happened",
@@ -103,19 +103,24 @@
       "trust"
     ],
     [
-      "officials",
+      "incident",
       2,
-      "trust"
+      "surprise"
     ],
     [
-      "fears",
+      "pilots",
       2,
-      "anger"
+      "trust"
     ],
     [
       "warned",
       2,
       "fear"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "soldiers",
@@ -131,6 +136,11 @@
       "growing",
       2,
       "joy"
+    ],
+    [
+      "economy",
+      2,
+      "trust"
     ],
     [
       "level",
@@ -243,11 +253,6 @@
       "surprise"
     ],
     [
-      "series",
-      2,
-      "trust"
-    ],
-    [
       "reject",
       2,
       "anger"
@@ -273,24 +278,24 @@
       "anger"
     ],
     [
-      "passenger",
-      1,
-      "anticipation"
-    ],
-    [
-      "fight",
+      "terrorist",
       1,
       "anger"
     ],
     [
-      "pilots",
+      "crash",
       1,
-      "trust"
+      "fear"
     ],
     [
-      "airport",
+      "media",
       1,
-      "anticipation"
+      "disgust"
+    ],
+    [
+      "feud",
+      1,
+      "anger"
     ],
     [
       "dark",
@@ -306,6 +311,21 @@
       "vulnerability",
       1,
       "fear"
+    ],
+    [
+      "passenger",
+      1,
+      "anticipation"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
     ],
     [
       "afraid",
@@ -356,36 +376,16 @@
       "bunker",
       1,
       "fear"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
-    ],
-    [
-      "alerts",
-      1,
-      "fear"
-    ],
-    [
-      "guardian",
-      1,
-      "trust"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 73,
-    "fear": 57,
-    "surprise": 16,
+    "trust": 72,
+    "fear": 58,
+    "surprise": 17,
     "sadness": 16,
-    "disgust": 6,
-    "anger": 105,
+    "disgust": 7,
+    "anger": 107,
     "anticipation": 20
   }
 }
