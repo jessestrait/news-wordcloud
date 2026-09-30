@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-30T15:53:28.040Z",
+  "generated_at": "2026-09-30T16:08:30.834Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      9,
+      10,
       "trust"
     ],
     [
@@ -48,11 +48,6 @@
       "anger"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "life",
       4,
       "joy"
@@ -66,6 +61,26 @@
       "crash",
       3,
       "fear"
+    ],
+    [
+      "incident",
+      3,
+      "surprise"
+    ],
+    [
+      "series",
+      3,
+      "trust"
+    ],
+    [
+      "rape",
+      3,
+      "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "officials",
@@ -103,11 +118,6 @@
       "fear"
     ],
     [
-      "surge",
-      3,
-      "surprise"
-    ],
-    [
       "abuse",
       3,
       "anger"
@@ -118,14 +128,14 @@
       "trust"
     ],
     [
-      "incident",
+      "found",
       2,
-      "surprise"
+      "joy"
     ],
     [
-      "truth",
+      "killing",
       2,
-      "trust"
+      "anger"
     ],
     [
       "tensions",
@@ -174,11 +184,6 @@
     ],
     [
       "based",
-      2,
-      "trust"
-    ],
-    [
-      "series",
       2,
       "trust"
     ],
@@ -236,6 +241,11 @@
       "government",
       2,
       "fear"
+    ],
+    [
+      "surge",
+      2,
+      "surprise"
     ],
     [
       "illegal",
@@ -308,84 +318,74 @@
       "fear"
     ],
     [
-      "harm",
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "jails",
       1,
       "fear"
     ],
     [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "failing",
+      "manslaughter",
       1,
       "anger"
     ],
     [
-      "rising",
-      1,
-      "joy"
-    ],
-    [
-      "alliance",
-      1,
-      "trust"
-    ],
-    [
-      "aggression",
-      1,
-      "anger"
-    ],
-    [
-      "worried",
-      1,
-      "sadness"
-    ],
-    [
-      "alleged",
+      "drowning",
       1,
       "fear"
     ],
     [
-      "overwhelmed",
-      1,
-      "sadness"
-    ],
-    [
-      "violent",
+      "guilty",
       1,
       "anger"
     ],
     [
-      "terrorist",
+      "lesser",
       1,
-      "anger"
+      "disgust"
     ],
     [
-      "bank",
+      "missing",
+      1,
+      "fear"
+    ],
+    [
+      "justice",
       1,
       "trust"
     ],
     [
-      "assault",
+      "universities",
       1,
-      "anger"
+      "anticipation"
     ],
     [
-      "house",
+      "nothing",
       1,
-      "joy"
+      "sadness"
+    ],
+    [
+      "changed",
+      1,
+      "fear"
+    ],
+    [
+      "infamous",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 34,
     "trust": 89,
-    "fear": 54,
-    "surprise": 14,
-    "sadness": 15,
-    "disgust": 5,
-    "anger": 103,
+    "fear": 59,
+    "surprise": 13,
+    "sadness": 16,
+    "disgust": 6,
+    "anger": 109,
     "anticipation": 22
   }
 }
