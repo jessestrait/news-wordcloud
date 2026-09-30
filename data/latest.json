@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-09-30T14:52:40.708Z",
+  "generated_at": "2026-09-30T15:07:43.310Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      8,
+      "anger"
+    ],
     [
       "people",
       8,
@@ -13,14 +18,19 @@
       "anger"
     ],
     [
-      "attack",
+      "pilot",
       7,
-      "anger"
+      "trust"
     ],
     [
       "threat",
       5,
       "anger"
+    ],
+    [
+      "emergency",
+      5,
+      "fear"
     ],
     [
       "force",
@@ -38,29 +48,34 @@
       "anger"
     ],
     [
-      "housing",
-      4,
-      "joy"
-    ],
-    [
-      "pilot",
-      4,
-      "trust"
-    ],
-    [
-      "emergency",
-      4,
-      "fear"
-    ],
-    [
       "life",
       4,
       "joy"
     ],
     [
+      "housing",
+      4,
+      "joy"
+    ],
+    [
+      "crash",
+      3,
+      "fear"
+    ],
+    [
+      "officials",
+      3,
+      "trust"
+    ],
+    [
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "family",
+      3,
+      "joy"
     ],
     [
       "president",
@@ -71,11 +86,6 @@
       "measures",
       3,
       "trust"
-    ],
-    [
-      "family",
-      3,
-      "joy"
     ],
     [
       "dying",
@@ -133,9 +143,24 @@
       "trust"
     ],
     [
-      "crash",
+      "attempted",
+      2,
+      "anticipation"
+    ],
+    [
+      "terror",
       2,
       "fear"
+    ],
+    [
+      "violence",
+      2,
+      "anger"
+    ],
+    [
+      "home",
+      2,
+      "joy"
     ],
     [
       "leader",
@@ -148,27 +173,7 @@
       "trust"
     ],
     [
-      "violence",
-      2,
-      "anger"
-    ],
-    [
       "series",
-      2,
-      "trust"
-    ],
-    [
-      "bank",
-      2,
-      "trust"
-    ],
-    [
-      "home",
-      2,
-      "joy"
-    ],
-    [
-      "officials",
       2,
       "trust"
     ],
@@ -283,11 +288,6 @@
       "fear"
     ],
     [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
       "alliance",
       1,
       "trust"
@@ -303,19 +303,9 @@
       "sadness"
     ],
     [
-      "house",
+      "alleged",
       1,
-      "joy"
-    ],
-    [
-      "opportunity",
-      1,
-      "anticipation"
-    ],
-    [
-      "top",
-      1,
-      "trust"
+      "fear"
     ],
     [
       "fellow",
@@ -333,6 +323,46 @@
       "fear"
     ],
     [
+      "overwhelmed",
+      1,
+      "sadness"
+    ],
+    [
+      "violent",
+      1,
+      "anger"
+    ],
+    [
+      "terrorist",
+      1,
+      "anger"
+    ],
+    [
+      "bank",
+      1,
+      "trust"
+    ],
+    [
+      "assault",
+      1,
+      "anger"
+    ],
+    [
+      "house",
+      1,
+      "joy"
+    ],
+    [
+      "opportunity",
+      1,
+      "anticipation"
+    ],
+    [
+      "top",
+      1,
+      "trust"
+    ],
+    [
       "killings",
       1,
       "anger"
@@ -346,46 +376,16 @@
       "authorities",
       1,
       "trust"
-    ],
-    [
-      "murders",
-      1,
-      "anger"
-    ],
-    [
-      "terrorist",
-      1,
-      "anger"
-    ],
-    [
-      "condemned",
-      1,
-      "anger"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
-    ],
-    [
-      "passenger",
-      1,
-      "anticipation"
-    ],
-    [
-      "attempted",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 83,
-    "fear": 55,
-    "surprise": 16,
+    "trust": 86,
+    "fear": 57,
+    "surprise": 15,
     "sadness": 15,
     "disgust": 5,
-    "anger": 105,
-    "anticipation": 21
+    "anger": 104,
+    "anticipation": 22
   }
 }
