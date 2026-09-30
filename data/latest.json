@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:23:04.164Z",
+  "generated_at": "2026-09-30T15:38:06.544Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anger"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "life",
       4,
       "joy"
@@ -63,14 +68,14 @@
       "fear"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "officials",
+      3,
+      "trust"
     ],
     [
       "family",
@@ -103,11 +108,6 @@
       "fear"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "suspected",
       3,
       "fear"
@@ -133,6 +133,16 @@
       "trust"
     ],
     [
+      "imminent",
+      2,
+      "fear"
+    ],
+    [
+      "prepared",
+      2,
+      "trust"
+    ],
+    [
       "forced",
       2,
       "fear"
@@ -146,16 +156,6 @@
       "terror",
       2,
       "fear"
-    ],
-    [
-      "imminent",
-      2,
-      "fear"
-    ],
-    [
-      "prepared",
-      2,
-      "trust"
     ],
     [
       "violence",
@@ -288,21 +288,6 @@
       "fear"
     ],
     [
-      "alliance",
-      1,
-      "trust"
-    ],
-    [
-      "aggression",
-      1,
-      "anger"
-    ],
-    [
-      "worried",
-      1,
-      "sadness"
-    ],
-    [
       "fellow",
       1,
       "trust"
@@ -316,6 +301,21 @@
       "plummet",
       1,
       "fear"
+    ],
+    [
+      "alliance",
+      1,
+      "trust"
+    ],
+    [
+      "aggression",
+      1,
+      "anger"
+    ],
+    [
+      "worried",
+      1,
+      "sadness"
     ],
     [
       "alleged",
@@ -386,6 +386,6 @@
     "sadness": 15,
     "disgust": 5,
     "anger": 104,
-    "anticipation": 21
+    "anticipation": 22
   }
 }
