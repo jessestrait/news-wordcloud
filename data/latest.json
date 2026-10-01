@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:00:20.780Z",
+  "generated_at": "2026-10-01T04:15:23.182Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,13 +14,8 @@
     ],
     [
       "people",
-      8,
+      5,
       "trust"
-    ],
-    [
-      "war",
-      7,
-      "anger"
     ],
     [
       "threat",
@@ -28,24 +23,19 @@
       "anger"
     ],
     [
-      "force",
+      "war",
       5,
       "anger"
     ],
     [
-      "strike",
-      5,
+      "vote",
+      4,
       "anger"
     ],
     [
-      "life",
+      "military",
       4,
-      "joy"
-    ],
-    [
-      "president",
-      4,
-      "trust"
+      "fear"
     ],
     [
       "happened",
@@ -61,6 +51,16 @@
       "housing",
       4,
       "joy"
+    ],
+    [
+      "force",
+      4,
+      "anger"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
     ],
     [
       "crash",
@@ -88,6 +88,21 @@
       "joy"
     ],
     [
+      "life",
+      3,
+      "joy"
+    ],
+    [
+      "home",
+      3,
+      "joy"
+    ],
+    [
+      "president",
+      3,
+      "trust"
+    ],
+    [
       "rape",
       3,
       "anger"
@@ -98,19 +113,14 @@
       "trust"
     ],
     [
-      "calls",
-      3,
-      "trust"
+      "hope",
+      2,
+      "surprise"
     ],
     [
-      "military",
-      3,
+      "change",
+      2,
       "fear"
-    ],
-    [
-      "vote",
-      3,
-      "anger"
     ],
     [
       "attacked",
@@ -141,11 +151,6 @@
       "assault",
       2,
       "anger"
-    ],
-    [
-      "home",
-      2,
-      "joy"
     ],
     [
       "found",
@@ -193,6 +198,11 @@
       "sadness"
     ],
     [
+      "calls",
+      2,
+      "trust"
+    ],
+    [
       "soldiers",
       2,
       "anger"
@@ -216,11 +226,6 @@
       "fall",
       2,
       "sadness"
-    ],
-    [
-      "global",
-      2,
-      "anticipation"
     ],
     [
       "marine",
@@ -253,16 +258,6 @@
       "surprise"
     ],
     [
-      "illegal",
-      2,
-      "anger"
-    ],
-    [
-      "abuse",
-      2,
-      "anger"
-    ],
-    [
       "continue",
       2,
       "trust"
@@ -293,99 +288,104 @@
       "trust"
     ],
     [
-      "fighting",
+      "gain",
       2,
+      "joy"
+    ],
+    [
+      "oust",
+      1,
       "anger"
     ],
     [
-      "gambling",
-      2,
-      "surprise"
+      "pledge",
+      1,
+      "joy"
     ],
     [
-      "show",
-      2,
+      "raped",
+      1,
+      "anger"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "restitution",
+      1,
+      "anger"
+    ],
+    [
+      "stolen",
+      1,
+      "anger"
+    ],
+    [
+      "ancestral",
+      1,
       "trust"
+    ],
+    [
+      "displaced",
+      1,
+      "anger"
+    ],
+    [
+      "massive",
+      1,
+      "anger"
+    ],
+    [
+      "devastation",
+      1,
+      "anger"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "shows",
+      1,
+      "trust"
+    ],
+    [
+      "destruction",
+      1,
+      "anger"
+    ],
+    [
+      "worship",
+      1,
+      "fear"
+    ],
+    [
+      "fragile",
+      1,
+      "fear"
+    ],
+    [
+      "corruption",
+      1,
+      "disgust"
     ],
     [
       "hero",
       1,
       "surprise"
-    ],
-    [
-      "saved",
-      1,
-      "joy"
-    ],
-    [
-      "assist",
-      1,
-      "trust"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
-    ],
-    [
-      "ribbon",
-      1,
-      "anger"
-    ],
-    [
-      "overwhelmed",
-      1,
-      "sadness"
-    ],
-    [
-      "violent",
-      1,
-      "anger"
-    ],
-    [
-      "terrorist",
-      1,
-      "anger"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
-      "hearing",
-      1,
-      "fear"
-    ],
-    [
-      "plunge",
-      1,
-      "fear"
-    ],
-    [
-      "morning",
-      1,
-      "anticipation"
-    ],
-    [
-      "witnessed",
-      1,
-      "trust"
-    ],
-    [
-      "horrific",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 86,
-    "fear": 56,
-    "surprise": 14,
-    "sadness": 14,
-    "disgust": 6,
-    "anger": 107,
-    "anticipation": 26
+    "joy": 34,
+    "trust": 78,
+    "fear": 57,
+    "surprise": 13,
+    "sadness": 13,
+    "disgust": 7,
+    "anger": 108,
+    "anticipation": 23
   }
 }
