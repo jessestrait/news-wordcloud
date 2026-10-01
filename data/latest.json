@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:24:13.029Z",
+  "generated_at": "2026-10-01T18:39:15.502Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "joy"
     ],
     [
+      "calls",
+      4,
+      "trust"
+    ],
+    [
       "happened",
       4,
       "anticipation"
@@ -43,14 +48,14 @@
       "surprise"
     ],
     [
-      "violence",
+      "trump",
       3,
       "anger"
     ],
     [
-      "calls",
+      "violence",
       3,
-      "trust"
+      "anger"
     ],
     [
       "alleged",
@@ -93,11 +98,6 @@
       "joy"
     ],
     [
-      "rape",
-      3,
-      "anger"
-    ],
-    [
       "threat",
       3,
       "anger"
@@ -111,6 +111,11 @@
       "force",
       3,
       "anger"
+    ],
+    [
+      "guardian",
+      2,
+      "trust"
     ],
     [
       "school",
@@ -154,11 +159,6 @@
     ],
     [
       "court",
-      2,
-      "anger"
-    ],
-    [
-      "trump",
       2,
       "anger"
     ],
@@ -238,6 +238,11 @@
       "trust"
     ],
     [
+      "rape",
+      2,
+      "anger"
+    ],
+    [
       "tensions",
       2,
       "anger"
@@ -258,11 +263,6 @@
       "trust"
     ],
     [
-      "based",
-      2,
-      "trust"
-    ],
-    [
       "measures",
       2,
       "trust"
@@ -271,6 +271,11 @@
       "soldiers",
       2,
       "anger"
+    ],
+    [
+      "poll",
+      2,
+      "trust"
     ],
     [
       "level",
@@ -293,6 +298,11 @@
       "anger"
     ],
     [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
       "eviction",
       2,
       "anger"
@@ -301,6 +311,41 @@
       "continue",
       2,
       "trust"
+    ],
+    [
+      "attorney",
+      1,
+      "anger"
+    ],
+    [
+      "general",
+      1,
+      "trust"
+    ],
+    [
+      "meddling",
+      1,
+      "anger"
+    ],
+    [
+      "tolerated",
+      1,
+      "anger"
+    ],
+    [
+      "important",
+      1,
+      "trust"
+    ],
+    [
+      "nation",
+      1,
+      "trust"
+    ],
+    [
+      "prepares",
+      1,
+      "anticipation"
     ],
     [
       "escalate",
@@ -331,61 +376,16 @@
       "policy",
       1,
       "trust"
-    ],
-    [
-      "letters",
-      1,
-      "anticipation"
-    ],
-    [
-      "david",
-      1,
-      "trust"
-    ],
-    [
-      "suggests",
-      1,
-      "trust"
-    ],
-    [
-      "network",
-      1,
-      "anticipation"
-    ],
-    [
-      "space",
-      1,
-      "joy"
-    ],
-    [
-      "indoctrination",
-      1,
-      "anger"
-    ],
-    [
-      "interrogated",
-      1,
-      "fear"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
-    ],
-    [
-      "break",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 81,
-    "fear": 62,
+    "joy": 33,
+    "trust": 85,
+    "fear": 61,
     "surprise": 14,
     "sadness": 13,
     "disgust": 8,
-    "anger": 109,
-    "anticipation": 31
+    "anger": 112,
+    "anticipation": 32
   }
 }
