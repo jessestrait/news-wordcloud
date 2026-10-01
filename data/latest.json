@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:33:22.760Z",
+  "generated_at": "2026-10-01T08:48:24.840Z",
   "article_count": 50,
   "top_words": [
     [
@@ -34,11 +34,6 @@
     ],
     [
       "war",
-      4,
-      "anger"
-    ],
-    [
-      "strike",
       4,
       "anger"
     ],
@@ -98,9 +93,14 @@
       "anger"
     ],
     [
-      "continue",
+      "strike",
       3,
-      "trust"
+      "anger"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "alleged",
@@ -273,6 +273,11 @@
       "fear"
     ],
     [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
       "medical",
       2,
       "fear"
@@ -283,14 +288,19 @@
       "joy"
     ],
     [
-      "hit",
+      "prisoners",
       2,
       "anger"
     ],
     [
-      "prisoners",
-      2,
+      "trump",
+      1,
       "anger"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
     ],
     [
       "damage",
@@ -366,26 +376,16 @@
       "oust",
       1,
       "anger"
-    ],
-    [
-      "pledge",
-      1,
-      "joy"
-    ],
-    [
-      "raped",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 74,
+    "trust": 73,
     "fear": 58,
     "surprise": 13,
     "sadness": 11,
     "disgust": 7,
-    "anger": 105,
-    "anticipation": 24
+    "anger": 106,
+    "anticipation": 25
   }
 }
