@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:22:54.159Z",
+  "generated_at": "2026-10-01T16:37:56.275Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,17 @@
     ],
     [
       "attack",
-      9,
+      11,
       "anger"
     ],
     [
       "people",
       6,
+      "trust"
+    ],
+    [
+      "president",
+      5,
       "trust"
     ],
     [
@@ -28,24 +33,9 @@
       "fear"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "strike",
       4,
       "anger"
-    ],
-    [
-      "violence",
-      3,
-      "anger"
-    ],
-    [
-      "suspected",
-      3,
-      "fear"
     ],
     [
       "alleged",
@@ -113,17 +103,12 @@
       "anger"
     ],
     [
-      "authorities",
+      "warning",
       2,
-      "trust"
+      "fear"
     ],
     [
-      "injuries",
-      2,
-      "anger"
-    ],
-    [
-      "police",
+      "suspected",
       2,
       "fear"
     ],
@@ -203,6 +188,11 @@
       "fear"
     ],
     [
+      "violence",
+      2,
+      "anger"
+    ],
+    [
       "assault",
       2,
       "anger"
@@ -226,11 +216,6 @@
       "series",
       2,
       "trust"
-    ],
-    [
-      "case",
-      2,
-      "fear"
     ],
     [
       "tensions",
@@ -313,26 +298,6 @@
       "anger"
     ],
     [
-      "school",
-      1,
-      "trust"
-    ],
-    [
-      "escalate",
-      1,
-      "anger"
-    ],
-    [
-      "riot",
-      1,
-      "anger"
-    ],
-    [
-      "projectiles",
-      1,
-      "fear"
-    ],
-    [
       "indoctrination",
       1,
       "anger"
@@ -358,6 +323,11 @@
       "anticipation"
     ],
     [
+      "police",
+      1,
+      "fear"
+    ],
+    [
       "broken",
       1,
       "anger"
@@ -368,24 +338,54 @@
       "sadness"
     ],
     [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
       "contempt",
       1,
       "anger"
+    ],
+    [
+      "defiance",
+      1,
+      "anger"
+    ],
+    [
+      "analysts",
+      1,
+      "trust"
+    ],
+    [
+      "iran",
+      1,
+      "anger"
+    ],
+    [
+      "stones",
+      1,
+      "anger"
+    ],
+    [
+      "council",
+      1,
+      "trust"
+    ],
+    [
+      "installed",
+      1,
+      "anticipation"
+    ],
+    [
+      "lament",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 74,
-    "fear": 66,
+    "trust": 73,
+    "fear": 63,
     "surprise": 13,
     "sadness": 12,
     "disgust": 7,
-    "anger": 112,
+    "anger": 110,
     "anticipation": 28
   }
 }
