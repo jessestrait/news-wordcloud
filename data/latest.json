@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:34:18.909Z",
+  "generated_at": "2026-10-01T10:49:21.519Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,12 +88,12 @@
       "anger"
     ],
     [
-      "victims",
+      "trump",
       2,
       "anger"
     ],
     [
-      "trump",
+      "victims",
       2,
       "anger"
     ],
@@ -288,6 +288,16 @@
       "anger"
     ],
     [
+      "announcement",
+      1,
+      "anticipation"
+    ],
+    [
+      "damage",
+      1,
+      "anger"
+    ],
+    [
       "stones",
       1,
       "anger"
@@ -301,16 +311,6 @@
       "installed",
       1,
       "anticipation"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
     ],
     [
       "lament",
