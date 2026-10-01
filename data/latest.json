@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:06:28.980Z",
+  "generated_at": "2026-10-01T14:21:31.666Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "trust"
     ],
     [
-      "threat",
-      5,
-      "anger"
-    ],
-    [
       "president",
       4,
       "trust"
@@ -36,11 +31,6 @@
       "strike",
       4,
       "anger"
-    ],
-    [
-      "level",
-      3,
-      "trust"
     ],
     [
       "government",
@@ -88,6 +78,11 @@
       "anger"
     ],
     [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
       "housing",
       3,
       "joy"
@@ -98,14 +93,9 @@
       "anger"
     ],
     [
-      "warn",
-      3,
-      "fear"
-    ],
-    [
-      "unprecedented",
+      "statement",
       2,
-      "surprise"
+      "trust"
     ],
     [
       "jail",
@@ -253,6 +243,16 @@
       "anger"
     ],
     [
+      "level",
+      2,
+      "trust"
+    ],
+    [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
       "fall",
       2,
       "sadness"
@@ -285,21 +285,6 @@
     [
       "hit",
       2,
-      "anger"
-    ],
-    [
-      "rob",
-      1,
-      "anger"
-    ],
-    [
-      "intelligence",
-      1,
-      "fear"
-    ],
-    [
-      "combat",
-      1,
       "anger"
     ],
     [
@@ -376,16 +361,31 @@
       "struggle",
       1,
       "anger"
+    ],
+    [
+      "interim",
+      1,
+      "anticipation"
+    ],
+    [
+      "board",
+      1,
+      "anticipation"
+    ],
+    [
+      "die",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
     "trust": 73,
-    "fear": 61,
-    "surprise": 14,
+    "fear": 59,
+    "surprise": 13,
     "sadness": 11,
     "disgust": 7,
-    "anger": 110,
+    "anger": 106,
     "anticipation": 27
   }
 }
