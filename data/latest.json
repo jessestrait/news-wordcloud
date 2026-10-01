@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:36:54.405Z",
+  "generated_at": "2026-10-01T14:51:56.881Z",
   "article_count": 50,
   "top_words": [
     [
@@ -36,6 +36,16 @@
       "strike",
       4,
       "anger"
+    ],
+    [
+      "violence",
+      3,
+      "anger"
+    ],
+    [
+      "suspected",
+      3,
+      "fear"
     ],
     [
       "government",
@@ -93,12 +103,17 @@
       "anger"
     ],
     [
-      "statement",
+      "authorities",
       2,
       "trust"
     ],
     [
-      "suspected",
+      "injuries",
+      2,
+      "anger"
+    ],
+    [
+      "police",
       2,
       "fear"
     ],
@@ -188,11 +203,6 @@
       "fear"
     ],
     [
-      "violence",
-      2,
-      "anger"
-    ],
-    [
       "assault",
       2,
       "anger"
@@ -216,6 +226,11 @@
       "series",
       2,
       "trust"
+    ],
+    [
+      "case",
+      2,
+      "fear"
     ],
     [
       "tensions",
@@ -298,6 +313,26 @@
       "anger"
     ],
     [
+      "school",
+      1,
+      "trust"
+    ],
+    [
+      "escalate",
+      1,
+      "anger"
+    ],
+    [
+      "riot",
+      1,
+      "anger"
+    ],
+    [
+      "projectiles",
+      1,
+      "fear"
+    ],
+    [
       "break",
       1,
       "surprise"
@@ -306,11 +341,6 @@
       "power",
       1,
       "anticipation"
-    ],
-    [
-      "police",
-      1,
-      "fear"
     ],
     [
       "broken",
@@ -346,46 +376,16 @@
       "iran",
       1,
       "anger"
-    ],
-    [
-      "unknown",
-      1,
-      "fear"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
-    ],
-    [
-      "stones",
-      1,
-      "anger"
-    ],
-    [
-      "council",
-      1,
-      "trust"
-    ],
-    [
-      "installed",
-      1,
-      "anticipation"
-    ],
-    [
-      "lament",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 72,
-    "fear": 60,
+    "trust": 73,
+    "fear": 64,
     "surprise": 14,
     "sadness": 12,
     "disgust": 7,
-    "anger": 107,
+    "anger": 111,
     "anticipation": 27
   }
 }
