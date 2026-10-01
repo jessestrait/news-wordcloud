@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:50:37.395Z",
+  "generated_at": "2026-10-01T13:05:39.623Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
       "incident",
       4,
       "surprise"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
     ],
     [
       "level",
@@ -323,9 +323,9 @@
       "anger"
     ],
     [
-      "crucial",
+      "bombardment",
       1,
-      "trust"
+      "anger"
     ],
     [
       "analysts",
@@ -336,11 +336,6 @@
       "iran",
       1,
       "anger"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
     ],
     [
       "unknown",
@@ -376,11 +371,16 @@
       "embrace",
       1,
       "surprise"
+    ],
+    [
+      "supporters",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 74,
+    "trust": 72,
     "fear": 62,
     "surprise": 14,
     "sadness": 11,
