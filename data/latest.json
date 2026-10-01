@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-01T15:06:59.696Z",
+  "generated_at": "2026-10-01T15:22:02.177Z",
   "article_count": 50,
   "top_words": [
     [
       "pilot",
-      13,
+      14,
       "trust"
     ],
     [
@@ -23,19 +23,29 @@
       "joy"
     ],
     [
+      "crash",
+      4,
+      "fear"
+    ],
+    [
       "president",
       4,
       "trust"
     ],
     [
-      "incident",
-      4,
-      "surprise"
-    ],
-    [
       "strike",
       4,
       "anger"
+    ],
+    [
+      "alleged",
+      3,
+      "fear"
+    ],
+    [
+      "attempt",
+      3,
+      "anticipation"
     ],
     [
       "violence",
@@ -63,9 +73,9 @@
       "anger"
     ],
     [
-      "crash",
+      "incident",
       3,
-      "fear"
+      "surprise"
     ],
     [
       "family",
@@ -153,19 +163,9 @@
       "anger"
     ],
     [
-      "alleged",
-      2,
-      "fear"
-    ],
-    [
       "illegal",
       2,
       "anger"
-    ],
-    [
-      "attempts",
-      2,
-      "anticipation"
     ],
     [
       "change",
@@ -313,6 +313,21 @@
       "anger"
     ],
     [
+      "indoctrination",
+      1,
+      "anger"
+    ],
+    [
+      "interrogated",
+      1,
+      "fear"
+    ],
+    [
+      "investigation",
+      1,
+      "anticipation"
+    ],
+    [
       "school",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "contempt",
       1,
       "anger"
-    ],
-    [
-      "defiance",
-      1,
-      "anger"
-    ],
-    [
-      "analysts",
-      1,
-      "trust"
-    ],
-    [
-      "iran",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 73,
-    "fear": 64,
-    "surprise": 14,
+    "trust": 74,
+    "fear": 66,
+    "surprise": 13,
     "sadness": 12,
     "disgust": 7,
-    "anger": 111,
-    "anticipation": 27
+    "anger": 112,
+    "anticipation": 28
   }
 }
