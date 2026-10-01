@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:31:46.551Z",
+  "generated_at": "2026-10-01T05:46:48.819Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      8,
+      7,
       "anger"
     ],
     [
@@ -33,19 +33,9 @@
       "anger"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "emergency",
       4,
       "fear"
-    ],
-    [
-      "threat",
-      4,
-      "anger"
     ],
     [
       "housing",
@@ -58,19 +48,9 @@
       "anger"
     ],
     [
-      "strike",
-      4,
-      "anger"
-    ],
-    [
       "passengers",
       3,
       "anticipation"
-    ],
-    [
-      "military",
-      3,
-      "fear"
     ],
     [
       "crash",
@@ -108,7 +88,22 @@
       "trust"
     ],
     [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "rape",
+      3,
+      "anger"
+    ],
+    [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
+      "strike",
       3,
       "anger"
     ],
@@ -129,6 +124,11 @@
     ],
     [
       "change",
+      2,
+      "fear"
+    ],
+    [
+      "military",
       2,
       "fear"
     ],
@@ -298,6 +298,16 @@
       "joy"
     ],
     [
+      "wait",
+      1,
+      "anticipation"
+    ],
+    [
+      "pill",
+      1,
+      "trust"
+    ],
+    [
       "board",
       1,
       "anticipation"
@@ -366,26 +376,16 @@
       "gaza",
       1,
       "anger"
-    ],
-    [
-      "shows",
-      1,
-      "trust"
-    ],
-    [
-      "destruction",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
     "trust": 75,
-    "fear": 54,
+    "fear": 52,
     "surprise": 14,
     "sadness": 11,
     "disgust": 7,
-    "anger": 106,
+    "anger": 103,
     "anticipation": 25
   }
 }
