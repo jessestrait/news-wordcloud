@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:20:32.766Z",
+  "generated_at": "2026-10-01T12:35:35.053Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,24 +18,39 @@
       "trust"
     ],
     [
-      "strike",
-      6,
-      "anger"
-    ],
-    [
-      "war",
+      "threat",
       5,
       "anger"
     ],
     [
-      "trump",
-      4,
+      "strike",
+      5,
       "anger"
     ],
     [
       "incident",
       4,
       "surprise"
+    ],
+    [
+      "level",
+      3,
+      "trust"
+    ],
+    [
+      "government",
+      3,
+      "fear"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
+      "war",
+      3,
+      "anger"
     ],
     [
       "vote",
@@ -78,11 +93,6 @@
       "anger"
     ],
     [
-      "threat",
-      3,
-      "anger"
-    ],
-    [
       "housing",
       3,
       "joy"
@@ -90,6 +100,31 @@
     [
       "force",
       3,
+      "anger"
+    ],
+    [
+      "warn",
+      3,
+      "fear"
+    ],
+    [
+      "unprecedented",
+      2,
+      "surprise"
+    ],
+    [
+      "jail",
+      2,
+      "fear"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
+    ],
+    [
+      "court",
+      2,
       "anger"
     ],
     [
@@ -101,11 +136,6 @@
       "victims",
       2,
       "anger"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "alleged",
@@ -228,16 +258,6 @@
       "anger"
     ],
     [
-      "level",
-      2,
-      "trust"
-    ],
-    [
-      "warn",
-      2,
-      "fear"
-    ],
-    [
       "fall",
       2,
       "sadness"
@@ -273,19 +293,34 @@
       "anger"
     ],
     [
-      "prisoners",
-      2,
+      "rob",
+      1,
+      "anger"
+    ],
+    [
+      "intelligence",
+      1,
+      "fear"
+    ],
+    [
+      "combat",
+      1,
+      "anger"
+    ],
+    [
+      "detention",
+      1,
+      "sadness"
+    ],
+    [
+      "contempt",
+      1,
       "anger"
     ],
     [
       "defying",
       1,
       "anger"
-    ],
-    [
-      "warnings",
-      1,
-      "fear"
     ],
     [
       "crucial",
@@ -306,16 +341,6 @@
       "responsible",
       1,
       "trust"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
     ],
     [
       "unknown",
@@ -351,41 +376,16 @@
       "embrace",
       1,
       "surprise"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
-    ],
-    [
-      "struggle",
-      1,
-      "anger"
-    ],
-    [
-      "interim",
-      1,
-      "anticipation"
-    ],
-    [
-      "board",
-      1,
-      "anticipation"
-    ],
-    [
-      "die",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 73,
-    "fear": 58,
-    "surprise": 13,
-    "sadness": 10,
+    "trust": 74,
+    "fear": 62,
+    "surprise": 14,
+    "sadness": 11,
     "disgust": 7,
-    "anger": 112,
-    "anticipation": 28
+    "anger": 110,
+    "anticipation": 27
   }
 }
