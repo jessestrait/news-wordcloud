@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-01T02:44:34.378Z",
+  "generated_at": "2026-10-01T02:59:36.753Z",
   "article_count": 50,
   "top_words": [
     [
       "pilot",
-      8,
+      12,
       "trust"
     ],
     [
@@ -63,11 +63,6 @@
       "joy"
     ],
     [
-      "vote",
-      4,
-      "anger"
-    ],
-    [
       "crash",
       3,
       "fear"
@@ -113,9 +108,19 @@
       "fear"
     ],
     [
-      "show",
+      "vote",
       3,
-      "trust"
+      "anger"
+    ],
+    [
+      "attacked",
+      2,
+      "anger"
+    ],
+    [
+      "passengers",
+      2,
+      "anticipation"
     ],
     [
       "attempted",
@@ -298,6 +303,26 @@
       "surprise"
     ],
     [
+      "show",
+      2,
+      "trust"
+    ],
+    [
+      "hero",
+      1,
+      "surprise"
+    ],
+    [
+      "saved",
+      1,
+      "joy"
+    ],
+    [
+      "assist",
+      1,
+      "trust"
+    ],
+    [
       "prepares",
       1,
       "anticipation"
@@ -343,11 +368,6 @@
       "anticipation"
     ],
     [
-      "passengers",
-      1,
-      "anticipation"
-    ],
-    [
       "witnessed",
       1,
       "trust"
@@ -356,36 +376,16 @@
       "horrific",
       1,
       "anger"
-    ],
-    [
-      "daring",
-      1,
-      "trust"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
-    ],
-    [
-      "good",
-      1,
-      "surprise"
-    ],
-    [
-      "fellow",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 84,
-    "fear": 57,
+    "joy": 32,
+    "trust": 86,
+    "fear": 56,
     "surprise": 14,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 6,
     "anger": 107,
-    "anticipation": 25
+    "anticipation": 26
   }
 }
