@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:21:00.296Z",
+  "generated_at": "2026-10-01T13:36:02.773Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      8,
+      9,
       "anger"
     ],
     [
@@ -21,6 +21,11 @@
       "threat",
       5,
       "anger"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "incident",
@@ -41,11 +46,6 @@
       "government",
       3,
       "fear"
-    ],
-    [
-      "trump",
-      3,
-      "anger"
     ],
     [
       "war",
@@ -76,11 +76,6 @@
       "home",
       3,
       "joy"
-    ],
-    [
-      "president",
-      3,
-      "trust"
     ],
     [
       "happened",
@@ -118,19 +113,19 @@
       "fear"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "court",
       2,
       "anger"
     ],
     [
-      "rising",
+      "trump",
       2,
-      "joy"
+      "anger"
+    ],
+    [
+      "blames",
+      2,
+      "anger"
     ],
     [
       "victims",
@@ -313,17 +308,17 @@
       "sadness"
     ],
     [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
       "contempt",
       1,
       "anger"
     ],
     [
-      "defying",
-      1,
-      "anger"
-    ],
-    [
-      "bombardment",
+      "defiance",
       1,
       "anger"
     ],
@@ -376,12 +371,17 @@
       "supporters",
       1,
       "joy"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 72,
-    "fear": 62,
+    "joy": 32,
+    "trust": 73,
+    "fear": 61,
     "surprise": 14,
     "sadness": 11,
     "disgust": 7,
