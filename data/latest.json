@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:49:39.288Z",
+  "generated_at": "2026-10-01T11:04:41.820Z",
   "article_count": 50,
   "top_words": [
     [
@@ -116,11 +116,6 @@
       "attempts",
       2,
       "anticipation"
-    ],
-    [
-      "involvement",
-      2,
-      "anger"
     ],
     [
       "change",
@@ -298,6 +293,11 @@
       "anger"
     ],
     [
+      "unknown",
+      1,
+      "fear"
+    ],
+    [
       "stones",
       1,
       "anger"
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 34,
     "trust": 74,
-    "fear": 56,
+    "fear": 57,
     "surprise": 13,
     "sadness": 10,
     "disgust": 7,
-    "anger": 108,
+    "anger": 106,
     "anticipation": 27
   }
 }
