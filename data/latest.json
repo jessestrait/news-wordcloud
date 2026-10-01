@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:01:51.095Z",
+  "generated_at": "2026-10-01T06:16:53.031Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,14 +108,14 @@
       "anger"
     ],
     [
-      "involvement",
-      2,
-      "anger"
-    ],
-    [
       "attempts",
       2,
       "anticipation"
+    ],
+    [
+      "involvement",
+      2,
+      "anger"
     ],
     [
       "hope",
@@ -298,6 +298,11 @@
       "joy"
     ],
     [
+      "ribbon",
+      1,
+      "anger"
+    ],
+    [
       "wait",
       1,
       "anticipation"
@@ -314,11 +319,6 @@
     ],
     [
       "cautions",
-      1,
-      "anger"
-    ],
-    [
-      "ribbon",
       1,
       "anger"
     ],
