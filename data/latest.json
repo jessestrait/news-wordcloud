@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:45:46.789Z",
+  "generated_at": "2026-10-01T05:00:49.700Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,24 +18,19 @@
       "trust"
     ],
     [
-      "threat",
-      5,
-      "anger"
-    ],
-    [
       "war",
       5,
       "anger"
     ],
     [
+      "incident",
+      4,
+      "surprise"
+    ],
+    [
       "vote",
       4,
       "anger"
-    ],
-    [
-      "military",
-      4,
-      "fear"
     ],
     [
       "happened",
@@ -46,6 +41,11 @@
       "emergency",
       4,
       "fear"
+    ],
+    [
+      "threat",
+      4,
+      "anger"
     ],
     [
       "housing",
@@ -63,6 +63,11 @@
       "anger"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "crash",
       3,
       "fear"
@@ -76,11 +81,6 @@
       "officials",
       3,
       "trust"
-    ],
-    [
-      "incident",
-      3,
-      "surprise"
     ],
     [
       "family",
@@ -111,6 +111,11 @@
       "measures",
       3,
       "trust"
+    ],
+    [
+      "involvement",
+      2,
+      "anger"
     ],
     [
       "attempts",
@@ -298,6 +303,11 @@
       "joy"
     ],
     [
+      "cautions",
+      1,
+      "anger"
+    ],
+    [
       "ribbon",
       1,
       "anger"
@@ -366,24 +376,14 @@
       "destruction",
       1,
       "anger"
-    ],
-    [
-      "worship",
-      1,
-      "fear"
-    ],
-    [
-      "fragile",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 78,
-    "fear": 57,
-    "surprise": 13,
-    "sadness": 13,
+    "trust": 75,
+    "fear": 55,
+    "surprise": 14,
+    "sadness": 12,
     "disgust": 7,
     "anger": 108,
     "anticipation": 23
