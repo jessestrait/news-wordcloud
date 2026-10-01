@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-10-01T00:58:46.816Z",
+  "generated_at": "2026-10-01T01:13:48.896Z",
   "article_count": 50,
   "top_words": [
-    [
-      "people",
-      10,
-      "trust"
-    ],
     [
       "pilot",
       8,
@@ -16,6 +11,11 @@
       "attack",
       8,
       "anger"
+    ],
+    [
+      "people",
+      8,
+      "trust"
     ],
     [
       "war",
@@ -93,11 +93,6 @@
       "joy"
     ],
     [
-      "series",
-      3,
-      "trust"
-    ],
-    [
       "rape",
       3,
       "anger"
@@ -156,6 +151,11 @@
       "killing",
       2,
       "anger"
+    ],
+    [
+      "series",
+      2,
+      "trust"
     ],
     [
       "tensions",
@@ -298,6 +298,16 @@
       "surprise"
     ],
     [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
+      "ribbon",
+      1,
+      "anger"
+    ],
+    [
       "overwhelmed",
       1,
       "sadness"
@@ -366,23 +376,13 @@
       "fellow",
       1,
       "trust"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
-    ],
-    [
-      "plummet",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 88,
+    "trust": 84,
     "fear": 57,
-    "surprise": 15,
+    "surprise": 14,
     "sadness": 15,
     "disgust": 6,
     "anger": 107,
