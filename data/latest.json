@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:32:39.779Z",
+  "generated_at": "2026-10-01T07:47:41.910Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "trust"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "incident",
       4,
       "surprise"
@@ -38,7 +33,12 @@
       "joy"
     ],
     [
-      "force",
+      "war",
+      4,
+      "anger"
+    ],
+    [
+      "strike",
       4,
       "anger"
     ],
@@ -93,9 +93,14 @@
       "anger"
     ],
     [
-      "strike",
+      "force",
       3,
       "anger"
+    ],
+    [
+      "continue",
+      3,
+      "trust"
     ],
     [
       "illegal",
@@ -273,11 +278,6 @@
       "fear"
     ],
     [
-      "continue",
-      2,
-      "trust"
-    ],
-    [
       "medical",
       2,
       "fear"
@@ -295,6 +295,11 @@
     [
       "prisoners",
       2,
+      "anger"
+    ],
+    [
+      "damage",
+      1,
       "anger"
     ],
     [
@@ -371,21 +376,16 @@
       "pill",
       1,
       "trust"
-    ],
-    [
-      "cautions",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 73,
+    "trust": 74,
     "fear": 58,
     "surprise": 15,
     "sadness": 11,
     "disgust": 7,
-    "anger": 106,
+    "anger": 105,
     "anticipation": 24
   }
 }
