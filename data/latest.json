@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:22:25.491Z",
+  "generated_at": "2026-10-01T15:37:27.729Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,16 +38,6 @@
       "anger"
     ],
     [
-      "alleged",
-      3,
-      "fear"
-    ],
-    [
-      "attempt",
-      3,
-      "anticipation"
-    ],
-    [
       "violence",
       3,
       "anger"
@@ -56,6 +46,16 @@
       "suspected",
       3,
       "fear"
+    ],
+    [
+      "alleged",
+      3,
+      "fear"
+    ],
+    [
+      "attempt",
+      3,
+      "anticipation"
     ],
     [
       "government",
@@ -313,21 +313,6 @@
       "anger"
     ],
     [
-      "indoctrination",
-      1,
-      "anger"
-    ],
-    [
-      "interrogated",
-      1,
-      "fear"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
-    ],
-    [
       "school",
       1,
       "trust"
@@ -346,6 +331,21 @@
       "projectiles",
       1,
       "fear"
+    ],
+    [
+      "indoctrination",
+      1,
+      "anger"
+    ],
+    [
+      "interrogated",
+      1,
+      "fear"
+    ],
+    [
+      "investigation",
+      1,
+      "anticipation"
     ],
     [
       "break",
