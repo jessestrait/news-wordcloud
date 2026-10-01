@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-01T11:04:41.820Z",
+  "generated_at": "2026-10-01T11:19:44.347Z",
   "article_count": 50,
   "top_words": [
     [
       "pilot",
-      15,
+      13,
       "trust"
     ],
     [
@@ -298,6 +298,11 @@
       "fear"
     ],
     [
+      "investigation",
+      1,
+      "anticipation"
+    ],
+    [
       "stones",
       1,
       "anger"
@@ -371,21 +376,16 @@
       "injuries",
       1,
       "anger"
-    ],
-    [
-      "bleeding",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 74,
+    "trust": 71,
     "fear": 57,
     "surprise": 13,
     "sadness": 10,
     "disgust": 7,
-    "anger": 106,
-    "anticipation": 27
+    "anger": 105,
+    "anticipation": 28
   }
 }
