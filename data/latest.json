@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:47:57.970Z",
+  "generated_at": "2026-10-01T08:03:00.336Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "people",
-      5,
+      6,
       "trust"
     ],
     [
@@ -103,14 +103,14 @@
       "trust"
     ],
     [
-      "illegal",
-      2,
-      "anger"
-    ],
-    [
       "alleged",
       2,
       "fear"
+    ],
+    [
+      "illegal",
+      2,
+      "anger"
     ],
     [
       "attempts",
@@ -136,11 +136,6 @@
       "military",
       2,
       "fear"
-    ],
-    [
-      "hero",
-      2,
-      "surprise"
     ],
     [
       "passengers",
@@ -303,6 +298,11 @@
       "anger"
     ],
     [
+      "board",
+      1,
+      "anticipation"
+    ],
+    [
       "die",
       1,
       "fear"
@@ -343,26 +343,6 @@
       "joy"
     ],
     [
-      "thwarted",
-      1,
-      "surprise"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
-      "safe",
-      1,
-      "joy"
-    ],
-    [
-      "board",
-      1,
-      "anticipation"
-    ],
-    [
       "ribbon",
       1,
       "anger"
@@ -376,13 +356,33 @@
       "pill",
       1,
       "trust"
+    ],
+    [
+      "cautions",
+      1,
+      "anger"
+    ],
+    [
+      "oust",
+      1,
+      "anger"
+    ],
+    [
+      "pledge",
+      1,
+      "joy"
+    ],
+    [
+      "raped",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
+    "joy": 34,
     "trust": 74,
     "fear": 58,
-    "surprise": 15,
+    "surprise": 13,
     "sadness": 11,
     "disgust": 7,
     "anger": 105,
