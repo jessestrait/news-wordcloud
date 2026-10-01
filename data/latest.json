@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:18:48.250Z",
+  "generated_at": "2026-10-01T09:33:50.531Z",
   "article_count": 50,
   "top_words": [
     [
@@ -29,6 +29,11 @@
     ],
     [
       "war",
+      4,
+      "anger"
+    ],
+    [
+      "strike",
       4,
       "anger"
     ],
@@ -89,16 +94,6 @@
     ],
     [
       "force",
-      3,
-      "anger"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
-    ],
-    [
-      "hit",
       3,
       "anger"
     ],
@@ -276,6 +271,11 @@
       "medical",
       2,
       "fear"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
     ],
     [
       "prisoners",
