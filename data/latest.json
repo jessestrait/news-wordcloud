@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-01T06:17:10.883Z",
+  "generated_at": "2026-10-01T06:32:13.446Z",
   "article_count": 50,
   "top_words": [
     [
       "pilot",
-      13,
+      15,
       "trust"
     ],
     [
       "attack",
-      7,
+      8,
       "anger"
     ],
     [
@@ -108,6 +108,11 @@
       "anger"
     ],
     [
+      "alleged",
+      2,
+      "fear"
+    ],
+    [
       "attempts",
       2,
       "anticipation"
@@ -131,6 +136,11 @@
       "military",
       2,
       "fear"
+    ],
+    [
+      "hero",
+      2,
+      "surprise"
     ],
     [
       "attempted",
@@ -298,6 +308,26 @@
       "joy"
     ],
     [
+      "thwarted",
+      1,
+      "surprise"
+    ],
+    [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
+      "safe",
+      1,
+      "joy"
+    ],
+    [
+      "board",
+      1,
+      "anticipation"
+    ],
+    [
       "ribbon",
       1,
       "anger"
@@ -311,11 +341,6 @@
       "pill",
       1,
       "trust"
-    ],
-    [
-      "board",
-      1,
-      "anticipation"
     ],
     [
       "cautions",
@@ -351,41 +376,16 @@
       "stolen",
       1,
       "anger"
-    ],
-    [
-      "ancestral",
-      1,
-      "trust"
-    ],
-    [
-      "displaced",
-      1,
-      "anger"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "devastation",
-      1,
-      "anger"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 75,
-    "fear": 52,
-    "surprise": 14,
+    "joy": 35,
+    "trust": 78,
+    "fear": 53,
+    "surprise": 16,
     "sadness": 11,
     "disgust": 7,
-    "anger": 103,
+    "anger": 104,
     "anticipation": 25
   }
 }
