@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:15:23.182Z",
+  "generated_at": "2026-10-01T04:30:25.566Z",
   "article_count": 50,
   "top_words": [
     [
@@ -111,6 +111,11 @@
       "measures",
       3,
       "trust"
+    ],
+    [
+      "attempts",
+      2,
+      "anticipation"
     ],
     [
       "hope",
@@ -293,6 +298,11 @@
       "joy"
     ],
     [
+      "ribbon",
+      1,
+      "anger"
+    ],
+    [
       "oust",
       1,
       "anger"
@@ -366,16 +376,6 @@
       "fragile",
       1,
       "fear"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
-    ],
-    [
-      "hero",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
