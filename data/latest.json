@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:17:37.815Z",
+  "generated_at": "2026-10-01T07:32:39.779Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "surprise"
     ],
     [
-      "vote",
-      4,
-      "anger"
-    ],
-    [
       "emergency",
       4,
       "fear"
@@ -48,9 +43,9 @@
       "anger"
     ],
     [
-      "passengers",
+      "vote",
       3,
-      "anticipation"
+      "anger"
     ],
     [
       "crash",
@@ -61,11 +56,6 @@
       "accused",
       3,
       "anger"
-    ],
-    [
-      "officials",
-      3,
-      "trust"
     ],
     [
       "family",
@@ -108,6 +98,11 @@
       "anger"
     ],
     [
+      "illegal",
+      2,
+      "anger"
+    ],
+    [
       "alleged",
       2,
       "fear"
@@ -141,6 +136,16 @@
       "hero",
       2,
       "surprise"
+    ],
+    [
+      "passengers",
+      2,
+      "anticipation"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "attempted",
@@ -238,14 +243,14 @@
       "trust"
     ],
     [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
       "fall",
       2,
       "sadness"
-    ],
-    [
-      "marine",
-      2,
-      "trust"
     ],
     [
       "arson",
@@ -266,11 +271,6 @@
       "government",
       2,
       "fear"
-    ],
-    [
-      "surge",
-      2,
-      "surprise"
     ],
     [
       "continue",
@@ -298,13 +298,43 @@
       "anger"
     ],
     [
-      "senate",
-      2,
+      "die",
+      1,
+      "fear"
+    ],
+    [
+      "seized",
+      1,
+      "fear"
+    ],
+    [
+      "laws",
+      1,
       "trust"
     ],
     [
-      "gain",
-      2,
+      "crushed",
+      1,
+      "anger"
+    ],
+    [
+      "hospital",
+      1,
+      "fear"
+    ],
+    [
+      "injuries",
+      1,
+      "anger"
+    ],
+    [
+      "bleeding",
+      1,
+      "fear"
+    ],
+    [
+      "organs",
+      1,
       "joy"
     ],
     [
@@ -346,46 +376,16 @@
       "cautions",
       1,
       "anger"
-    ],
-    [
-      "oust",
-      1,
-      "anger"
-    ],
-    [
-      "pledge",
-      1,
-      "joy"
-    ],
-    [
-      "raped",
-      1,
-      "anger"
-    ],
-    [
-      "fight",
-      1,
-      "anger"
-    ],
-    [
-      "restitution",
-      1,
-      "anger"
-    ],
-    [
-      "stolen",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 78,
-    "fear": 53,
-    "surprise": 16,
+    "trust": 73,
+    "fear": 58,
+    "surprise": 15,
     "sadness": 11,
     "disgust": 7,
-    "anger": 104,
-    "anticipation": 25
+    "anger": 106,
+    "anticipation": 24
   }
 }
