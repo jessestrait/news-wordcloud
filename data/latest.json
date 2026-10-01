@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:48:52.880Z",
+  "generated_at": "2026-10-01T10:03:55.332Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "vote",
       3,
       "anger"
@@ -51,11 +46,6 @@
       "crash",
       3,
       "fear"
-    ],
-    [
-      "accused",
-      3,
-      "anger"
     ],
     [
       "family",
@@ -98,9 +88,19 @@
       "anger"
     ],
     [
+      "victims",
+      2,
+      "anger"
+    ],
+    [
       "trump",
       2,
       "anger"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "alleged",
@@ -136,6 +136,11 @@
       "passengers",
       2,
       "anticipation"
+    ],
+    [
+      "accused",
+      2,
+      "anger"
     ],
     [
       "officials",
@@ -283,6 +288,21 @@
       "anger"
     ],
     [
+      "stones",
+      1,
+      "anger"
+    ],
+    [
+      "council",
+      1,
+      "trust"
+    ],
+    [
+      "installed",
+      1,
+      "anticipation"
+    ],
+    [
       "announcement",
       1,
       "anticipation"
@@ -356,36 +376,16 @@
       "bleeding",
       1,
       "fear"
-    ],
-    [
-      "organs",
-      1,
-      "joy"
-    ],
-    [
-      "ribbon",
-      1,
-      "anger"
-    ],
-    [
-      "wait",
-      1,
-      "anticipation"
-    ],
-    [
-      "pill",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 73,
-    "fear": 57,
+    "trust": 74,
+    "fear": 56,
     "surprise": 13,
     "sadness": 10,
     "disgust": 7,
-    "anger": 107,
-    "anticipation": 26
+    "anger": 108,
+    "anticipation": 27
   }
 }
