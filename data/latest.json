@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:47:22.813Z",
+  "generated_at": "2026-10-02T10:02:25.373Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,11 +133,6 @@
       "anger"
     ],
     [
-      "force",
-      3,
-      "anger"
-    ],
-    [
       "escalate",
       2,
       "anger"
@@ -263,6 +258,11 @@
       "joy"
     ],
     [
+      "force",
+      2,
+      "anger"
+    ],
+    [
       "soldiers",
       2,
       "anger"
@@ -380,11 +380,11 @@
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 88,
+    "trust": 91,
     "fear": 64,
     "surprise": 15,
-    "sadness": 14,
-    "disgust": 5,
+    "sadness": 13,
+    "disgust": 6,
     "anger": 106,
     "anticipation": 34
   }
