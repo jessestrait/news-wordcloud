@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:06:25.402Z",
+  "generated_at": "2026-10-02T17:21:27.490Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,11 +133,6 @@
       "anticipation"
     ],
     [
-      "change",
-      3,
-      "fear"
-    ],
-    [
       "emergency",
       3,
       "fear"
@@ -156,6 +151,11 @@
       "force",
       3,
       "anger"
+    ],
+    [
+      "obituary",
+      2,
+      "sadness"
     ],
     [
       "plans",
@@ -228,6 +228,11 @@
       "anger"
     ],
     [
+      "change",
+      2,
+      "fear"
+    ],
+    [
       "military",
       2,
       "fear"
@@ -291,6 +296,11 @@
       "soldiers",
       2,
       "anger"
+    ],
+    [
+      "launched",
+      1,
+      "anticipation"
     ],
     [
       "grows",
@@ -366,26 +376,16 @@
       "fires",
       1,
       "fear"
-    ],
-    [
-      "fury",
-      1,
-      "anger"
-    ],
-    [
-      "struggling",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 27,
     "trust": 85,
-    "fear": 64,
+    "fear": 63,
     "surprise": 16,
-    "sadness": 10,
-    "disgust": 7,
-    "anger": 109,
-    "anticipation": 35
+    "sadness": 11,
+    "disgust": 6,
+    "anger": 108,
+    "anticipation": 36
   }
 }
