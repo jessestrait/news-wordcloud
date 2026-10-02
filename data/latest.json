@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:48:56.372Z",
+  "generated_at": "2026-10-02T13:03:59.082Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "attack",
       8,
       "anger"
+    ],
+    [
+      "school",
+      6,
+      "trust"
     ],
     [
       "incident",
@@ -36,11 +41,6 @@
       "war",
       4,
       "anger"
-    ],
-    [
-      "school",
-      4,
-      "trust"
     ],
     [
       "president",
@@ -136,6 +136,11 @@
       "escalate",
       2,
       "anger"
+    ],
+    [
+      "poor",
+      2,
+      "sadness"
     ],
     [
       "police",
@@ -273,21 +278,6 @@
       "trust"
     ],
     [
-      "level",
-      2,
-      "trust"
-    ],
-    [
-      "warn",
-      2,
-      "fear"
-    ],
-    [
-      "fall",
-      2,
-      "sadness"
-    ],
-    [
       "damaged",
       1,
       "anger"
@@ -296,6 +286,21 @@
       "start",
       1,
       "anticipation"
+    ],
+    [
+      "crumbling",
+      1,
+      "sadness"
+    ],
+    [
+      "teacher",
+      1,
+      "trust"
+    ],
+    [
+      "pay",
+      1,
+      "joy"
     ],
     [
       "abuse",
@@ -371,21 +376,16 @@
       "speculation",
       1,
       "fear"
-    ],
-    [
-      "strip",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 30,
     "trust": 91,
-    "fear": 64,
+    "fear": 61,
     "surprise": 15,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 6,
-    "anger": 106,
-    "anticipation": 34
+    "anger": 105,
+    "anticipation": 33
   }
 }
