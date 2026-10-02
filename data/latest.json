@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:34:21.922Z",
+  "generated_at": "2026-10-02T13:49:24.174Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "attack",
       8,
       "anger"
-    ],
-    [
-      "school",
-      6,
-      "trust"
     ],
     [
       "incident",
@@ -43,6 +38,11 @@
       "anger"
     ],
     [
+      "school",
+      4,
+      "trust"
+    ],
+    [
       "president",
       4,
       "trust"
@@ -56,6 +56,11 @@
       "tensions",
       3,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "victims",
@@ -138,9 +143,9 @@
       "anger"
     ],
     [
-      "poor",
+      "massive",
       2,
-      "sadness"
+      "anger"
     ],
     [
       "police",
@@ -174,11 +179,6 @@
     ],
     [
       "jail",
-      2,
-      "fear"
-    ],
-    [
-      "government",
       2,
       "fear"
     ],
@@ -288,19 +288,29 @@
       "anticipation"
     ],
     [
-      "crumbling",
+      "fires",
       1,
-      "sadness"
+      "fear"
     ],
     [
-      "teacher",
+      "fury",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "pay",
+      "struggling",
       1,
-      "joy"
+      "anger"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "surprise",
+      1,
+      "fear"
     ],
     [
       "abuse",
@@ -366,26 +376,16 @@
       "patron",
       1,
       "trust"
-    ],
-    [
-      "saint",
-      1,
-      "surprise"
-    ],
-    [
-      "speculation",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 91,
-    "fear": 61,
-    "surprise": 15,
-    "sadness": 12,
+    "joy": 29,
+    "trust": 88,
+    "fear": 64,
+    "surprise": 16,
+    "sadness": 10,
     "disgust": 6,
-    "anger": 105,
+    "anger": 108,
     "anticipation": 33
   }
 }
