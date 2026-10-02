@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:58:58.702Z",
+  "generated_at": "2026-10-02T04:14:00.856Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      12,
+      10,
       "anger"
     ],
     [
@@ -163,11 +163,6 @@
       "anger"
     ],
     [
-      "blames",
-      2,
-      "anger"
-    ],
-    [
       "victims",
       2,
       "anger"
@@ -248,11 +243,6 @@
       "trust"
     ],
     [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
       "measures",
       2,
       "trust"
@@ -283,11 +273,6 @@
       "sadness"
     ],
     [
-      "arson",
-      2,
-      "anger"
-    ],
-    [
       "plan",
       2,
       "anticipation"
@@ -296,6 +281,36 @@
       "eviction",
       2,
       "anger"
+    ],
+    [
+      "disrespects",
+      1,
+      "anger"
+    ],
+    [
+      "fears",
+      1,
+      "anger"
+    ],
+    [
+      "patron",
+      1,
+      "trust"
+    ],
+    [
+      "saint",
+      1,
+      "surprise"
+    ],
+    [
+      "speculation",
+      1,
+      "fear"
+    ],
+    [
+      "strip",
+      1,
+      "sadness"
     ],
     [
       "combat",
@@ -361,31 +376,16 @@
       "escalate",
       1,
       "anger"
-    ],
-    [
-      "cabinet",
-      1,
-      "trust"
-    ],
-    [
-      "blockades",
-      1,
-      "anger"
-    ],
-    [
-      "related",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
     "trust": 85,
     "fear": 61,
-    "surprise": 13,
-    "sadness": 13,
+    "surprise": 14,
+    "sadness": 14,
     "disgust": 6,
-    "anger": 111,
+    "anger": 109,
     "anticipation": 33
   }
 }
