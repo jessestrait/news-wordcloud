@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T19:52:49.889Z",
+  "generated_at": "2026-10-02T20:07:52.099Z",
   "article_count": 50,
   "top_words": [
     [
@@ -233,11 +233,6 @@
       "fear"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "officials",
       2,
       "trust"
@@ -256,11 +251,6 @@
       "plunge",
       2,
       "fear"
-    ],
-    [
-      "found",
-      2,
-      "joy"
     ],
     [
       "killing",
@@ -293,9 +283,29 @@
       "trust"
     ],
     [
-      "soldiers",
+      "house",
       2,
+      "joy"
+    ],
+    [
+      "earthquake",
+      1,
       "anger"
+    ],
+    [
+      "hits",
+      1,
+      "anger"
+    ],
+    [
+      "tremors",
+      1,
+      "anger"
+    ],
+    [
+      "shaking",
+      1,
+      "fear"
     ],
     [
       "launched",
@@ -366,26 +376,16 @@
       "denied",
       1,
       "sadness"
-    ],
-    [
-      "voting",
-      1,
-      "anger"
-    ],
-    [
-      "fires",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 85,
-    "fear": 63,
+    "trust": 84,
+    "fear": 62,
     "surprise": 16,
     "sadness": 11,
     "disgust": 6,
-    "anger": 108,
+    "anger": 110,
     "anticipation": 36
   }
 }
