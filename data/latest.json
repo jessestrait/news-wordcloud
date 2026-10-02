@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:34:49.119Z",
+  "generated_at": "2026-10-02T14:49:51.481Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,24 +23,9 @@
       "trust"
     ],
     [
-      "home",
-      5,
-      "joy"
-    ],
-    [
-      "violence",
-      4,
-      "anger"
-    ],
-    [
       "war",
       4,
       "anger"
-    ],
-    [
-      "school",
-      4,
-      "trust"
     ],
     [
       "president",
@@ -53,9 +38,14 @@
       "fear"
     ],
     [
-      "tensions",
+      "home",
+      4,
+      "joy"
+    ],
+    [
+      "police",
       3,
-      "anger"
+      "fear"
     ],
     [
       "government",
@@ -93,6 +83,11 @@
       "trust"
     ],
     [
+      "violence",
+      3,
+      "anger"
+    ],
+    [
       "happened",
       3,
       "anticipation"
@@ -118,6 +113,11 @@
       "anger"
     ],
     [
+      "change",
+      3,
+      "fear"
+    ],
+    [
       "emergency",
       3,
       "fear"
@@ -138,7 +138,7 @@
       "anger"
     ],
     [
-      "escalate",
+      "combat",
       2,
       "anger"
     ],
@@ -146,11 +146,6 @@
       "massive",
       2,
       "anger"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "case",
@@ -161,6 +156,11 @@
       "university",
       2,
       "anticipation"
+    ],
+    [
+      "school",
+      2,
+      "trust"
     ],
     [
       "warning",
@@ -186,16 +186,6 @@
       "court",
       2,
       "anger"
-    ],
-    [
-      "vote",
-      2,
-      "anger"
-    ],
-    [
-      "change",
-      2,
-      "fear"
     ],
     [
       "military",
@@ -248,6 +238,11 @@
       "anger"
     ],
     [
+      "tensions",
+      2,
+      "anger"
+    ],
+    [
       "imminent",
       2,
       "fear"
@@ -273,19 +268,29 @@
       "anger"
     ],
     [
-      "poll",
-      2,
-      "trust"
-    ],
-    [
-      "damaged",
+      "surging",
       1,
-      "anger"
+      "surprise"
     ],
     [
-      "start",
+      "petroleum",
+      1,
+      "disgust"
+    ],
+    [
+      "launches",
       1,
       "anticipation"
+    ],
+    [
+      "denied",
+      1,
+      "sadness"
+    ],
+    [
+      "voting",
+      1,
+      "anger"
     ],
     [
       "fires",
@@ -371,21 +376,16 @@
       "fears",
       1,
       "anger"
-    ],
-    [
-      "patron",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 88,
-    "fear": 64,
-    "surprise": 16,
-    "sadness": 10,
-    "disgust": 6,
-    "anger": 108,
+    "joy": 28,
+    "trust": 84,
+    "fear": 65,
+    "surprise": 17,
+    "sadness": 11,
+    "disgust": 7,
+    "anger": 103,
     "anticipation": 33
   }
 }
