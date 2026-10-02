@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-02T15:35:34.966Z",
+  "generated_at": "2026-10-02T15:50:37.291Z",
   "article_count": 50,
   "top_words": [
     [
       "pilot",
-      14,
+      15,
       "trust"
     ],
     [
@@ -138,11 +138,6 @@
       "joy"
     ],
     [
-      "life",
-      3,
-      "joy"
-    ],
-    [
       "threat",
       3,
       "anger"
@@ -213,6 +208,11 @@
       "anticipation"
     ],
     [
+      "life",
+      2,
+      "joy"
+    ],
+    [
       "assault",
       2,
       "anger"
@@ -281,6 +281,16 @@
       "petroleum",
       1,
       "disgust"
+    ],
+    [
+      "nightmare",
+      1,
+      "fear"
+    ],
+    [
+      "disaster",
+      1,
+      "anger"
     ],
     [
       "enemy",
@@ -366,26 +376,16 @@
       "terrorism",
       1,
       "anger"
-    ],
-    [
-      "intrigue",
-      1,
-      "fear"
-    ],
-    [
-      "fact",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 85,
-    "fear": 66,
-    "surprise": 17,
-    "sadness": 11,
+    "joy": 27,
+    "trust": 84,
+    "fear": 64,
+    "surprise": 16,
+    "sadness": 10,
     "disgust": 7,
-    "anger": 103,
+    "anger": 102,
     "anticipation": 33
   }
 }
