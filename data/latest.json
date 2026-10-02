@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:50:09.985Z",
+  "generated_at": "2026-10-02T15:05:12.478Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      8,
+      9,
       "anger"
     ],
     [
@@ -21,11 +21,6 @@
       "people",
       5,
       "trust"
-    ],
-    [
-      "war",
-      4,
-      "anger"
     ],
     [
       "president",
@@ -41,6 +36,21 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "terror",
+      3,
+      "fear"
+    ],
+    [
+      "strikes",
+      3,
+      "anger"
+    ],
+    [
+      "school",
+      3,
+      "trust"
     ],
     [
       "police",
@@ -66,6 +76,11 @@
       "guardian",
       3,
       "trust"
+    ],
+    [
+      "war",
+      3,
+      "anger"
     ],
     [
       "missile",
@@ -108,11 +123,6 @@
       "anticipation"
     ],
     [
-      "strikes",
-      3,
-      "anger"
-    ],
-    [
       "change",
       3,
       "fear"
@@ -143,6 +153,11 @@
       "anger"
     ],
     [
+      "hospital",
+      2,
+      "fear"
+    ],
+    [
       "massive",
       2,
       "anger"
@@ -156,11 +171,6 @@
       "university",
       2,
       "anticipation"
-    ],
-    [
-      "school",
-      2,
-      "trust"
     ],
     [
       "warning",
@@ -201,11 +211,6 @@
       "attempted",
       2,
       "anticipation"
-    ],
-    [
-      "terror",
-      2,
-      "fear"
     ],
     [
       "assault",
@@ -276,6 +281,16 @@
       "petroleum",
       1,
       "disgust"
+    ],
+    [
+      "enemy",
+      1,
+      "anger"
+    ],
+    [
+      "apart",
+      1,
+      "anger"
     ],
     [
       "launches",
@@ -361,27 +376,12 @@
       "fact",
       1,
       "trust"
-    ],
-    [
-      "real",
-      1,
-      "trust"
-    ],
-    [
-      "disrespects",
-      1,
-      "anger"
-    ],
-    [
-      "fears",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 84,
-    "fear": 65,
+    "trust": 85,
+    "fear": 66,
     "surprise": 17,
     "sadness": 11,
     "disgust": 7,
