@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:24:50.291Z",
+  "generated_at": "2026-10-02T23:39:52.805Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "surprise"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "happened",
       4,
       "anticipation"
@@ -36,6 +31,11 @@
       "crash",
       4,
       "fear"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "home",
@@ -48,19 +48,9 @@
       "joy"
     ],
     [
-      "life",
-      3,
-      "joy"
-    ],
-    [
       "terror",
       3,
       "fear"
-    ],
-    [
-      "strikes",
-      3,
-      "anger"
     ],
     [
       "school",
@@ -88,19 +78,9 @@
       "anticipation"
     ],
     [
-      "guardian",
-      3,
-      "trust"
-    ],
-    [
       "war",
       3,
       "anger"
-    ],
-    [
-      "missile",
-      3,
-      "fear"
     ],
     [
       "trump",
@@ -188,6 +168,16 @@
       "fear"
     ],
     [
+      "life",
+      2,
+      "joy"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
       "hospital",
       2,
       "fear"
@@ -199,6 +189,16 @@
     ],
     [
       "case",
+      2,
+      "fear"
+    ],
+    [
+      "guardian",
+      2,
+      "trust"
+    ],
+    [
+      "missile",
       2,
       "fear"
     ],
@@ -298,6 +298,11 @@
       "joy"
     ],
     [
+      "cop",
+      1,
+      "fear"
+    ],
+    [
       "earthquake",
       1,
       "anger"
@@ -371,21 +376,16 @@
       "enemy",
       1,
       "anger"
-    ],
-    [
-      "apart",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 86,
-    "fear": 62,
+    "joy": 23,
+    "trust": 83,
+    "fear": 61,
     "surprise": 14,
     "sadness": 11,
     "disgust": 7,
-    "anger": 109,
+    "anger": 108,
     "anticipation": 35
   }
 }
