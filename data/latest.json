@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:13:39.090Z",
+  "generated_at": "2026-10-02T03:28:41.055Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,13 +9,18 @@
     ],
     [
       "attack",
-      11,
+      12,
       "anger"
     ],
     [
       "people",
       6,
       "trust"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "president",
@@ -48,6 +53,11 @@
       "surprise"
     ],
     [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
       "trump",
       3,
       "anger"
@@ -68,9 +78,9 @@
       "anticipation"
     ],
     [
-      "government",
+      "power",
       3,
-      "fear"
+      "anticipation"
     ],
     [
       "strikes",
@@ -78,14 +88,9 @@
       "anger"
     ],
     [
-      "war",
+      "emergency",
       3,
-      "anger"
-    ],
-    [
-      "vote",
-      3,
-      "anger"
+      "fear"
     ],
     [
       "family",
@@ -128,22 +133,7 @@
       "trust"
     ],
     [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
-      "waste",
-      2,
-      "disgust"
-    ],
-    [
       "warning",
-      2,
-      "fear"
-    ],
-    [
-      "suspected",
       2,
       "fear"
     ],
@@ -163,6 +153,11 @@
       "fear"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "court",
       2,
       "anger"
@@ -178,7 +173,7 @@
       "anger"
     ],
     [
-      "illegal",
+      "vote",
       2,
       "anger"
     ],
@@ -216,11 +211,6 @@
       "assault",
       2,
       "anger"
-    ],
-    [
-      "emergency",
-      2,
-      "fear"
     ],
     [
       "found",
@@ -308,6 +298,21 @@
       "anger"
     ],
     [
+      "combat",
+      1,
+      "anger"
+    ],
+    [
+      "hails",
+      1,
+      "trust"
+    ],
+    [
+      "developed",
+      1,
+      "anticipation"
+    ],
+    [
       "obituary",
       1,
       "sadness"
@@ -371,21 +376,16 @@
       "related",
       1,
       "trust"
-    ],
-    [
-      "poor",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 84,
-    "fear": 59,
-    "surprise": 14,
-    "sadness": 14,
-    "disgust": 8,
-    "anger": 109,
-    "anticipation": 31
+    "trust": 85,
+    "fear": 61,
+    "surprise": 13,
+    "sadness": 13,
+    "disgust": 6,
+    "anger": 111,
+    "anticipation": 33
   }
 }
