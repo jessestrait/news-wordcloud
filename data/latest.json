@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:08:38.213Z",
+  "generated_at": "2026-10-02T21:23:40.707Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "attack",
       10,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "incident",
@@ -26,11 +31,6 @@
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "crash",
@@ -151,6 +151,16 @@
       "force",
       3,
       "anger"
+    ],
+    [
+      "fascism",
+      2,
+      "disgust"
+    ],
+    [
+      "important",
+      2,
+      "trust"
     ],
     [
       "obituary",
@@ -366,26 +376,16 @@
       "apart",
       1,
       "anger"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "denied",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 84,
+    "joy": 24,
+    "trust": 86,
     "fear": 62,
-    "surprise": 16,
+    "surprise": 14,
     "sadness": 11,
-    "disgust": 6,
-    "anger": 110,
-    "anticipation": 36
+    "disgust": 7,
+    "anger": 109,
+    "anticipation": 35
   }
 }
