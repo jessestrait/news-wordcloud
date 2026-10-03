@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T09:00:54.125Z",
+  "generated_at": "2026-10-03T09:15:56.621Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      11,
+      12,
       "anger"
     ],
     [
@@ -28,18 +28,23 @@
       "joy"
     ],
     [
-      "incident",
-      5,
-      "surprise"
-    ],
-    [
       "trump",
       4,
       "anger"
     ],
     [
+      "incident",
+      4,
+      "surprise"
+    ],
+    [
       "passenger",
       4,
+      "anticipation"
+    ],
+    [
+      "plan",
+      3,
       "anticipation"
     ],
     [
@@ -153,11 +158,6 @@
       "sadness"
     ],
     [
-      "plans",
-      2,
-      "anticipation"
-    ],
-    [
       "forces",
       2,
       "anger"
@@ -218,24 +218,14 @@
       "anticipation"
     ],
     [
+      "break",
+      2,
+      "surprise"
+    ],
+    [
       "stolen",
       2,
       "anger"
-    ],
-    [
-      "jail",
-      2,
-      "fear"
-    ],
-    [
-      "court",
-      2,
-      "anger"
-    ],
-    [
-      "people",
-      2,
-      "trust"
     ],
     [
       "change",
@@ -261,6 +251,16 @@
       "plunge",
       2,
       "fear"
+    ],
+    [
+      "unity",
+      1,
+      "trust"
+    ],
+    [
+      "impossible",
+      1,
+      "sadness"
     ],
     [
       "enemy",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 22,
     "trust": 69,
-    "fear": 55,
+    "fear": 52,
     "surprise": 18,
-    "sadness": 10,
-    "disgust": 7,
-    "anger": 109,
-    "anticipation": 31
+    "sadness": 11,
+    "disgust": 6,
+    "anger": 106,
+    "anticipation": 32
   }
 }
