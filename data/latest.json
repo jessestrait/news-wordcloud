@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T01:55:58.468Z",
+  "generated_at": "2026-10-03T02:11:00.322Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,11 +88,6 @@
       "anger"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "violence",
       3,
       "anger"
@@ -101,11 +96,6 @@
       "alleged",
       3,
       "fear"
-    ],
-    [
-      "attempt",
-      3,
-      "anticipation"
     ],
     [
       "power",
@@ -131,6 +121,16 @@
       "force",
       3,
       "anger"
+    ],
+    [
+      "experts",
+      2,
+      "trust"
+    ],
+    [
+      "warn",
+      2,
+      "fear"
     ],
     [
       "fascism",
@@ -208,9 +208,19 @@
       "anticipation"
     ],
     [
+      "calls",
+      2,
+      "trust"
+    ],
+    [
       "warning",
       2,
       "fear"
+    ],
+    [
+      "attempt",
+      2,
+      "anticipation"
     ],
     [
       "nothing",
@@ -278,11 +288,6 @@
       "anger"
     ],
     [
-      "tensions",
-      2,
-      "anger"
-    ],
-    [
       "imminent",
       2,
       "fear"
@@ -296,6 +301,31 @@
       "house",
       2,
       "joy"
+    ],
+    [
+      "breaking",
+      1,
+      "surprise"
+    ],
+    [
+      "floods",
+      1,
+      "fear"
+    ],
+    [
+      "stagnant",
+      1,
+      "sadness"
+    ],
+    [
+      "disaster",
+      1,
+      "anger"
+    ],
+    [
+      "flooding",
+      1,
+      "fear"
     ],
     [
       "earthquake",
@@ -346,46 +376,16 @@
       "eviction",
       1,
       "anger"
-    ],
-    [
-      "surging",
-      1,
-      "surprise"
-    ],
-    [
-      "petroleum",
-      1,
-      "disgust"
-    ],
-    [
-      "suicide",
-      1,
-      "anger"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
-      "sceptical",
-      1,
-      "trust"
-    ],
-    [
-      "enemy",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 83,
-    "fear": 61,
-    "surprise": 14,
-    "sadness": 11,
+    "trust": 82,
+    "fear": 63,
+    "surprise": 15,
+    "sadness": 12,
     "disgust": 7,
-    "anger": 108,
-    "anticipation": 35
+    "anger": 105,
+    "anticipation": 33
   }
 }
