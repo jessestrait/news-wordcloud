@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-10-03T04:58:34.191Z",
+  "generated_at": "2026-10-03T05:13:36.654Z",
   "article_count": 50,
   "top_words": [
     [
       "pilot",
-      16,
+      13,
       "trust"
     ],
     [
       "attack",
-      12,
+      11,
+      "anger"
+    ],
+    [
+      "war",
+      5,
       "anger"
     ],
     [
@@ -23,19 +28,9 @@
       "surprise"
     ],
     [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "president",
       4,
       "trust"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "passenger",
@@ -43,14 +38,14 @@
       "anticipation"
     ],
     [
-      "crash",
-      4,
-      "fear"
-    ],
-    [
       "people",
       4,
       "trust"
+    ],
+    [
+      "vote",
+      3,
+      "anger"
     ],
     [
       "strikes",
@@ -68,14 +63,14 @@
       "anger"
     ],
     [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "life",
       3,
       "joy"
-    ],
-    [
-      "terror",
-      3,
-      "fear"
     ],
     [
       "school",
@@ -103,7 +98,7 @@
       "anger"
     ],
     [
-      "alleged",
+      "crash",
       3,
       "fear"
     ],
@@ -113,9 +108,9 @@
       "anticipation"
     ],
     [
-      "emergency",
-      3,
-      "fear"
+      "mosque",
+      2,
+      "anger"
     ],
     [
       "experts",
@@ -159,6 +154,11 @@
     ],
     [
       "speculation",
+      2,
+      "fear"
+    ],
+    [
+      "terror",
       2,
       "fear"
     ],
@@ -208,6 +208,11 @@
       "fear"
     ],
     [
+      "alleged",
+      2,
+      "fear"
+    ],
+    [
       "attempt",
       2,
       "anticipation"
@@ -233,24 +238,14 @@
       "anger"
     ],
     [
-      "vote",
-      2,
-      "anger"
-    ],
-    [
       "change",
       2,
       "fear"
     ],
     [
-      "officials",
+      "emergency",
       2,
-      "trust"
-    ],
-    [
-      "attempted",
-      2,
-      "anticipation"
+      "fear"
     ],
     [
       "family",
@@ -273,18 +268,38 @@
       "anger"
     ],
     [
-      "imminent",
-      2,
+      "negotiate",
+      1,
+      "trust"
+    ],
+    [
+      "wary",
+      1,
       "fear"
     ],
     [
-      "threat",
-      2,
+      "peace",
+      1,
+      "joy"
+    ],
+    [
+      "raid",
+      1,
       "anger"
     ],
     [
-      "prepared",
-      2,
+      "shelter",
+      1,
+      "trust"
+    ],
+    [
+      "world",
+      1,
+      "trust"
+    ],
+    [
+      "history",
+      1,
       "trust"
     ],
     [
@@ -361,31 +376,16 @@
       "housing",
       1,
       "joy"
-    ],
-    [
-      "grows",
-      1,
-      "joy"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
-      "socialist",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 75,
-    "fear": 63,
+    "joy": 22,
+    "trust": 72,
+    "fear": 58,
     "surprise": 16,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 7,
-    "anger": 109,
-    "anticipation": 33
+    "anger": 110,
+    "anticipation": 31
   }
 }
