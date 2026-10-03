@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T03:58:09.962Z",
+  "generated_at": "2026-10-03T04:13:11.771Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,17 +13,17 @@
       "anger"
     ],
     [
+      "home",
+      5,
+      "joy"
+    ],
+    [
       "incident",
       5,
       "surprise"
     ],
     [
       "war",
-      4,
-      "anger"
-    ],
-    [
-      "force",
       4,
       "anger"
     ],
@@ -53,14 +53,19 @@
       "trust"
     ],
     [
-      "home",
-      4,
-      "joy"
+      "strikes",
+      3,
+      "anger"
     ],
     [
-      "housing",
+      "hit",
       3,
-      "joy"
+      "anger"
+    ],
+    [
+      "force",
+      3,
+      "anger"
     ],
     [
       "life",
@@ -123,11 +128,6 @@
       "fear"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "fascism",
       2,
       "disgust"
@@ -161,11 +161,6 @@
       "speculation",
       2,
       "fear"
-    ],
-    [
-      "strikes",
-      2,
-      "anger"
     ],
     [
       "hospital",
@@ -293,9 +288,9 @@
       "trust"
     ],
     [
-      "house",
-      2,
-      "joy"
+      "director",
+      1,
+      "trust"
     ],
     [
       "breaking",
@@ -343,6 +338,11 @@
       "anger"
     ],
     [
+      "houses",
+      1,
+      "joy"
+    ],
+    [
       "shaking",
       1,
       "fear"
@@ -358,6 +358,11 @@
       "anticipation"
     ],
     [
+      "housing",
+      1,
+      "joy"
+    ],
+    [
       "grows",
       1,
       "joy"
@@ -371,21 +376,16 @@
       "socialist",
       1,
       "anger"
-    ],
-    [
-      "eviction",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 21,
     "trust": 75,
     "fear": 63,
     "surprise": 16,
     "sadness": 11,
     "disgust": 7,
-    "anger": 108,
-    "anticipation": 34
+    "anger": 109,
+    "anticipation": 33
   }
 }
