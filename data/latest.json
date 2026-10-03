@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:03:59.924Z",
+  "generated_at": "2026-10-03T15:19:01.830Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,11 +31,6 @@
       "president",
       4,
       "trust"
-    ],
-    [
-      "passenger",
-      4,
-      "anticipation"
     ],
     [
       "plan",
@@ -88,8 +83,18 @@
       "surprise"
     ],
     [
+      "passenger",
+      3,
+      "anticipation"
+    ],
+    [
       "power",
       3,
+      "anticipation"
+    ],
+    [
+      "investigation",
+      2,
       "anticipation"
     ],
     [
@@ -248,14 +253,29 @@
       "joy"
     ],
     [
-      "assault",
-      2,
-      "anger"
+      "prevent",
+      1,
+      "fear"
     ],
     [
-      "plunge",
-      2,
-      "fear"
+      "amusement",
+      1,
+      "joy"
+    ],
+    [
+      "beer",
+      1,
+      "joy"
+    ],
+    [
+      "festival",
+      1,
+      "surprise"
+    ],
+    [
+      "devil",
+      1,
+      "anger"
     ],
     [
       "relics",
@@ -356,36 +376,16 @@
       "arguments",
       1,
       "anger"
-    ],
-    [
-      "negotiate",
-      1,
-      "trust"
-    ],
-    [
-      "wary",
-      1,
-      "fear"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
-      "raid",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 71,
-    "fear": 50,
+    "joy": 24,
+    "trust": 69,
+    "fear": 49,
     "surprise": 18,
     "sadness": 12,
     "disgust": 6,
-    "anger": 106,
-    "anticipation": 31
+    "anger": 105,
+    "anticipation": 30
   }
 }
