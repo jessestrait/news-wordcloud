@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:59:21.983Z",
+  "generated_at": "2026-10-03T06:14:24.201Z",
   "article_count": 50,
   "top_words": [
     [
@@ -36,11 +36,6 @@
       "passenger",
       4,
       "anticipation"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "vote",
@@ -106,6 +101,16 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "zionism",
+      2,
+      "surprise"
+    ],
+    [
+      "history",
+      2,
+      "trust"
     ],
     [
       "mosque",
@@ -238,6 +243,11 @@
       "anger"
     ],
     [
+      "people",
+      2,
+      "trust"
+    ],
+    [
       "change",
       2,
       "fear"
@@ -268,6 +278,21 @@
       "anger"
     ],
     [
+      "green",
+      1,
+      "joy"
+    ],
+    [
+      "motion",
+      1,
+      "anticipation"
+    ],
+    [
+      "arguments",
+      1,
+      "anger"
+    ],
+    [
       "negotiate",
       1,
       "trust"
@@ -294,11 +319,6 @@
     ],
     [
       "world",
-      1,
-      "trust"
-    ],
-    [
-      "history",
       1,
       "trust"
     ],
@@ -356,36 +376,16 @@
       "houses",
       1,
       "joy"
-    ],
-    [
-      "shaking",
-      1,
-      "fear"
-    ],
-    [
-      "cop",
-      1,
-      "fear"
-    ],
-    [
-      "launched",
-      1,
-      "anticipation"
-    ],
-    [
-      "housing",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 72,
-    "fear": 58,
-    "surprise": 16,
+    "trust": 69,
+    "fear": 57,
+    "surprise": 18,
     "sadness": 10,
     "disgust": 7,
-    "anger": 110,
-    "anticipation": 31
+    "anger": 109,
+    "anticipation": 32
   }
 }
