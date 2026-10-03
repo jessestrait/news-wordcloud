@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T13:48:16.627Z",
+  "generated_at": "2026-10-03T14:03:19.032Z",
   "article_count": 50,
   "top_words": [
     [
@@ -248,9 +248,9 @@
       "fear"
     ],
     [
-      "incensed",
+      "embraced",
       1,
-      "anger"
+      "surprise"
     ],
     [
       "authorities",
@@ -382,10 +382,10 @@
     "joy": 22,
     "trust": 67,
     "fear": 50,
-    "surprise": 17,
+    "surprise": 18,
     "sadness": 11,
     "disgust": 6,
-    "anger": 107,
+    "anger": 106,
     "anticipation": 31
   }
 }
