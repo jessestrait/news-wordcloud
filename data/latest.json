@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-03T03:12:13.221Z",
+  "generated_at": "2026-10-03T03:27:15.344Z",
   "article_count": 50,
   "top_words": [
     [
       "pilot",
-      15,
+      16,
       "trust"
     ],
     [
       "attack",
-      10,
+      12,
       "anger"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "incident",
@@ -23,7 +18,27 @@
       "surprise"
     ],
     [
+      "war",
+      4,
+      "anger"
+    ],
+    [
+      "force",
+      4,
+      "anger"
+    ],
+    [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "happened",
+      4,
+      "anticipation"
+    ],
+    [
+      "passenger",
       4,
       "anticipation"
     ],
@@ -44,6 +59,11 @@
     ],
     [
       "housing",
+      3,
+      "joy"
+    ],
+    [
+      "life",
       3,
       "joy"
     ],
@@ -73,22 +93,7 @@
       "anger"
     ],
     [
-      "passenger",
-      3,
-      "anticipation"
-    ],
-    [
-      "war",
-      3,
-      "anger"
-    ],
-    [
       "trump",
-      3,
-      "anger"
-    ],
-    [
-      "violence",
       3,
       "anger"
     ],
@@ -108,21 +113,6 @@
       "fear"
     ],
     [
-      "family",
-      3,
-      "joy"
-    ],
-    [
-      "threat",
-      3,
-      "anger"
-    ],
-    [
-      "force",
-      3,
-      "anger"
-    ],
-    [
       "experts",
       2,
       "trust"
@@ -131,6 +121,11 @@
       "warn",
       2,
       "fear"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
     ],
     [
       "fascism",
@@ -168,11 +163,6 @@
       "fear"
     ],
     [
-      "life",
-      2,
-      "joy"
-    ],
-    [
       "strikes",
       2,
       "anger"
@@ -186,6 +176,11 @@
       "massive",
       2,
       "anger"
+    ],
+    [
+      "hero",
+      2,
+      "surprise"
     ],
     [
       "case",
@@ -208,9 +203,9 @@
       "anticipation"
     ],
     [
-      "calls",
+      "violence",
       2,
-      "trust"
+      "anger"
     ],
     [
       "warning",
@@ -263,6 +258,11 @@
       "anticipation"
     ],
     [
+      "family",
+      2,
+      "joy"
+    ],
+    [
       "assault",
       2,
       "anger"
@@ -273,16 +273,6 @@
       "fear"
     ],
     [
-      "killing",
-      2,
-      "anger"
-    ],
-    [
-      "series",
-      2,
-      "trust"
-    ],
-    [
       "rape",
       2,
       "anger"
@@ -291,6 +281,11 @@
       "imminent",
       2,
       "fear"
+    ],
+    [
+      "threat",
+      2,
+      "anger"
     ],
     [
       "prepared",
@@ -328,12 +323,17 @@
       "fear"
     ],
     [
-      "earthquake",
+      "chaos",
       1,
       "anger"
     ],
     [
-      "hits",
+      "suspensions",
+      1,
+      "fear"
+    ],
+    [
+      "earthquake",
       1,
       "anger"
     ],
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 82,
+    "trust": 75,
     "fear": 63,
-    "surprise": 15,
-    "sadness": 12,
+    "surprise": 16,
+    "sadness": 11,
     "disgust": 7,
-    "anger": 105,
-    "anticipation": 33
+    "anger": 108,
+    "anticipation": 34
   }
 }
