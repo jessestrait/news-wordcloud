@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:45:34.726Z",
+  "generated_at": "2026-10-03T09:00:36.558Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,12 +43,17 @@
       "anticipation"
     ],
     [
-      "vote",
+      "strikes",
       3,
       "anger"
     ],
     [
-      "strikes",
+      "school",
+      3,
+      "trust"
+    ],
+    [
+      "vote",
       3,
       "anger"
     ],
@@ -66,11 +71,6 @@
       "life",
       3,
       "joy"
-    ],
-    [
-      "school",
-      3,
-      "trust"
     ],
     [
       "police",
@@ -96,6 +96,16 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "terror",
+      2,
+      "fear"
+    ],
+    [
+      "hospital",
+      2,
+      "fear"
     ],
     [
       "poll",
@@ -164,16 +174,6 @@
     ],
     [
       "speculation",
-      2,
-      "fear"
-    ],
-    [
-      "terror",
-      2,
-      "fear"
-    ],
-    [
-      "hospital",
       2,
       "fear"
     ],
@@ -261,6 +261,16 @@
       "plunge",
       2,
       "fear"
+    ],
+    [
+      "enemy",
+      1,
+      "anger"
+    ],
+    [
+      "apart",
+      1,
+      "anger"
     ],
     [
       "growing",
@@ -364,16 +374,6 @@
     ],
     [
       "forcing",
-      1,
-      "anger"
-    ],
-    [
-      "suspensions",
-      1,
-      "fear"
-    ],
-    [
-      "earthquake",
       1,
       "anger"
     ]
