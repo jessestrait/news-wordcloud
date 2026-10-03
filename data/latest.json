@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:10:13.385Z",
+  "generated_at": "2026-10-03T00:25:15.213Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,11 +298,6 @@
       "joy"
     ],
     [
-      "cop",
-      1,
-      "fear"
-    ],
-    [
       "earthquake",
       1,
       "anger"
@@ -319,6 +314,11 @@
     ],
     [
       "shaking",
+      1,
+      "fear"
+    ],
+    [
+      "cop",
       1,
       "fear"
     ],
