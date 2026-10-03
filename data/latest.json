@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:44:46.204Z",
+  "generated_at": "2026-10-03T06:59:48.365Z",
   "article_count": 50,
   "top_words": [
     [
@@ -49,11 +49,6 @@
     ],
     [
       "hit",
-      3,
-      "anger"
-    ],
-    [
-      "force",
       3,
       "anger"
     ],
@@ -146,6 +141,11 @@
       "plans",
       2,
       "anticipation"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
     ],
     [
       "combat",
@@ -358,6 +358,11 @@
       "anger"
     ],
     [
+      "forcing",
+      1,
+      "anger"
+    ],
+    [
       "suspensions",
       1,
       "fear"
@@ -371,11 +376,6 @@
       "tremors",
       1,
       "anger"
-    ],
-    [
-      "houses",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
