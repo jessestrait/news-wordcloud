@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-03T09:46:17.194Z",
+  "generated_at": "2026-10-03T10:01:19.194Z",
   "article_count": 50,
   "top_words": [
-    [
-      "pilot",
-      13,
-      "trust"
-    ],
     [
       "attack",
       12,
       "anger"
+    ],
+    [
+      "pilot",
+      11,
+      "trust"
     ],
     [
       "president",
@@ -31,11 +31,6 @@
       "trump",
       4,
       "anger"
-    ],
-    [
-      "incident",
-      4,
-      "surprise"
     ],
     [
       "passenger",
@@ -68,11 +63,6 @@
       "anger"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "life",
       3,
       "joy"
@@ -93,9 +83,9 @@
       "anger"
     ],
     [
-      "crash",
+      "incident",
       3,
-      "fear"
+      "surprise"
     ],
     [
       "power",
@@ -168,6 +158,11 @@
       "anger"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "terrorism",
       2,
       "anger"
@@ -213,6 +208,11 @@
       "fear"
     ],
     [
+      "crash",
+      2,
+      "fear"
+    ],
+    [
       "attempt",
       2,
       "anticipation"
@@ -233,11 +233,6 @@
       "fear"
     ],
     [
-      "emergency",
-      2,
-      "fear"
-    ],
-    [
       "family",
       2,
       "joy"
@@ -250,6 +245,26 @@
     [
       "plunge",
       2,
+      "fear"
+    ],
+    [
+      "incensed",
+      1,
+      "anger"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
+    ],
+    [
+      "risks",
+      1,
       "fear"
     ],
     [
@@ -361,31 +376,16 @@
       "disaster",
       1,
       "anger"
-    ],
-    [
-      "flooding",
-      1,
-      "fear"
-    ],
-    [
-      "chaos",
-      1,
-      "anger"
-    ],
-    [
-      "forcing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 69,
-    "fear": 52,
-    "surprise": 18,
+    "trust": 67,
+    "fear": 50,
+    "surprise": 17,
     "sadness": 11,
     "disgust": 6,
-    "anger": 106,
-    "anticipation": 32
+    "anger": 107,
+    "anticipation": 31
   }
 }
