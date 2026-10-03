@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:59:48.365Z",
+  "generated_at": "2026-10-03T07:14:50.745Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "attack",
       11,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "war",
@@ -28,9 +33,9 @@
       "surprise"
     ],
     [
-      "president",
+      "trump",
       4,
-      "trust"
+      "anger"
     ],
     [
       "passenger",
@@ -83,11 +88,6 @@
       "anger"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "crash",
       3,
       "fear"
@@ -96,6 +96,11 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "poll",
+      2,
+      "trust"
     ],
     [
       "zionism",
@@ -183,11 +188,6 @@
       "surprise"
     ],
     [
-      "case",
-      2,
-      "fear"
-    ],
-    [
       "guardian",
       2,
       "trust"
@@ -196,11 +196,6 @@
       "missile",
       2,
       "fear"
-    ],
-    [
-      "university",
-      2,
-      "anticipation"
     ],
     [
       "violence",
@@ -221,11 +216,6 @@
       "attempt",
       2,
       "anticipation"
-    ],
-    [
-      "nothing",
-      2,
-      "sadness"
     ],
     [
       "stolen",
@@ -273,8 +263,23 @@
       "fear"
     ],
     [
-      "rape",
-      2,
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "convicted",
+      1,
+      "anger"
+    ],
+    [
+      "coup",
+      1,
       "anger"
     ],
     [
@@ -371,21 +376,16 @@
       "earthquake",
       1,
       "anger"
-    ],
-    [
-      "tremors",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 23,
     "trust": 69,
-    "fear": 57,
+    "fear": 55,
     "surprise": 18,
     "sadness": 10,
     "disgust": 7,
     "anger": 109,
-    "anticipation": 32
+    "anticipation": 31
   }
 }
