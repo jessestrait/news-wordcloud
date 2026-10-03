@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T14:48:42.909Z",
+  "generated_at": "2026-10-03T15:03:45.268Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,11 +10,6 @@
     [
       "pilot",
       11,
-      "trust"
-    ],
-    [
-      "president",
-      5,
       "trust"
     ],
     [
@@ -31,6 +26,11 @@
       "trump",
       4,
       "anger"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "passenger",
@@ -91,6 +91,11 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "suggests",
+      2,
+      "trust"
     ],
     [
       "terror",
@@ -228,6 +233,11 @@
       "anger"
     ],
     [
+      "hope",
+      2,
+      "surprise"
+    ],
+    [
       "change",
       2,
       "fear"
@@ -246,6 +256,31 @@
       "plunge",
       2,
       "fear"
+    ],
+    [
+      "relics",
+      1,
+      "sadness"
+    ],
+    [
+      "persuade",
+      1,
+      "trust"
+    ],
+    [
+      "truth",
+      1,
+      "trust"
+    ],
+    [
+      "justice",
+      1,
+      "trust"
+    ],
+    [
+      "morality",
+      1,
+      "trust"
     ],
     [
       "embraced",
@@ -341,49 +376,14 @@
       "raid",
       1,
       "anger"
-    ],
-    [
-      "shelter",
-      1,
-      "trust"
-    ],
-    [
-      "world",
-      1,
-      "trust"
-    ],
-    [
-      "director",
-      1,
-      "trust"
-    ],
-    [
-      "breaking",
-      1,
-      "surprise"
-    ],
-    [
-      "floods",
-      1,
-      "fear"
-    ],
-    [
-      "stagnant",
-      1,
-      "sadness"
-    ],
-    [
-      "disaster",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 67,
+    "trust": 71,
     "fear": 50,
     "surprise": 18,
-    "sadness": 11,
+    "sadness": 12,
     "disgust": 6,
     "anger": 106,
     "anticipation": 31
