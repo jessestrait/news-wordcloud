@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:28:30.802Z",
+  "generated_at": "2026-10-04T09:43:33.066Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,17 +14,17 @@
     ],
     [
       "president",
-      5,
+      6,
       "trust"
     ],
     [
-      "war",
+      "strikes",
       5,
       "anger"
     ],
     [
-      "strikes",
-      4,
+      "war",
+      5,
       "anger"
     ],
     [
@@ -108,6 +108,11 @@
       "fear"
     ],
     [
+      "force",
+      2,
+      "anger"
+    ],
+    [
       "launch",
       2,
       "anticipation"
@@ -116,11 +121,6 @@
       "pill",
       2,
       "trust"
-    ],
-    [
-      "force",
-      2,
-      "anger"
     ],
     [
       "attempted",
@@ -278,17 +278,17 @@
       "trust"
     ],
     [
-      "morning",
-      1,
-      "anticipation"
-    ],
-    [
       "chancellor",
       1,
       "trust"
     ],
     [
-      "arrived",
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
+      "arrival",
       1,
       "anticipation"
     ],
@@ -348,21 +348,6 @@
       "trust"
     ],
     [
-      "abortion",
-      1,
-      "fear"
-    ],
-    [
-      "challenge",
-      1,
-      "anger"
-    ],
-    [
-      "restrictions",
-      1,
-      "anger"
-    ],
-    [
       "destroyed",
       1,
       "anger"
@@ -376,16 +361,31 @@
       "threat",
       1,
       "anger"
+    ],
+    [
+      "abortion",
+      1,
+      "fear"
+    ],
+    [
+      "challenge",
+      1,
+      "anger"
+    ],
+    [
+      "restrictions",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 71,
+    "trust": 72,
     "fear": 54,
     "surprise": 15,
     "sadness": 12,
     "disgust": 5,
-    "anger": 103,
+    "anger": 104,
     "anticipation": 34
   }
 }
