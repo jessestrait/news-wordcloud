@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:16:20.141Z",
+  "generated_at": "2026-10-04T15:31:22.373Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "plan",
       4,
       "anticipation"
@@ -53,14 +48,24 @@
       "fear"
     ],
     [
-      "trump",
-      4,
-      "anger"
+      "obituary",
+      3,
+      "sadness"
+    ],
+    [
+      "expert",
+      3,
+      "trust"
     ],
     [
       "terrorism",
       3,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "alleged",
@@ -71,6 +76,11 @@
       "investigation",
       3,
       "anticipation"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "poll",
@@ -203,19 +213,9 @@
       "anger"
     ],
     [
-      "experts",
-      2,
-      "trust"
-    ],
-    [
       "important",
       2,
       "trust"
-    ],
-    [
-      "obituary",
-      2,
-      "sadness"
     ],
     [
       "combat",
@@ -261,6 +261,16 @@
       "break",
       2,
       "surprise"
+    ],
+    [
+      "united",
+      1,
+      "trust"
+    ],
+    [
+      "institute",
+      1,
+      "trust"
     ],
     [
       "unknown",
@@ -366,26 +376,16 @@
       "books",
       1,
       "trust"
-    ],
-    [
-      "invasion",
-      1,
-      "anger"
-    ],
-    [
-      "threat",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 69,
-    "fear": 53,
-    "surprise": 15,
-    "sadness": 12,
+    "joy": 20,
+    "trust": 72,
+    "fear": 51,
+    "surprise": 14,
+    "sadness": 13,
     "disgust": 4,
-    "anger": 101,
-    "anticipation": 35
+    "anger": 99,
+    "anticipation": 34
   }
 }
