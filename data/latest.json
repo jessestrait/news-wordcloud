@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:14:53.180Z",
+  "generated_at": "2026-10-04T12:29:55.356Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,18 +13,18 @@
       "trust"
     ],
     [
-      "strikes",
+      "war",
       6,
       "anger"
     ],
     [
       "president",
-      6,
+      5,
       "trust"
     ],
     [
-      "war",
-      6,
+      "strikes",
+      4,
       "anger"
     ],
     [
@@ -48,9 +48,19 @@
       "fear"
     ],
     [
+      "school",
+      4,
+      "trust"
+    ],
+    [
       "trump",
       4,
       "anger"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "happened",
@@ -61,11 +71,6 @@
       "investigation",
       3,
       "anticipation"
-    ],
-    [
-      "school",
-      3,
-      "trust"
     ],
     [
       "poll",
@@ -86,11 +91,6 @@
       "victims",
       3,
       "anger"
-    ],
-    [
-      "chancellor",
-      2,
-      "trust"
     ],
     [
       "show",
@@ -273,19 +273,19 @@
       "surprise"
     ],
     [
-      "continues",
+      "teachers",
       1,
       "trust"
     ],
     [
-      "morning",
+      "injured",
       1,
-      "anticipation"
+      "fear"
     ],
     [
-      "arrival",
+      "chancellor",
       1,
-      "anticipation"
+      "trust"
     ],
     [
       "shortly",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 71,
-    "fear": 55,
+    "trust": 72,
+    "fear": 56,
     "surprise": 15,
     "sadness": 12,
     "disgust": 3,
-    "anger": 106,
-    "anticipation": 37
+    "anger": 104,
+    "anticipation": 35
   }
 }
