@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-10-04T17:02:04.257Z",
+  "generated_at": "2026-10-04T17:17:06.369Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      14,
-      "anger"
-    ],
-    [
-      "war",
-      6,
+      13,
       "anger"
     ],
     [
@@ -18,9 +13,9 @@
       "trust"
     ],
     [
-      "president",
+      "war",
       5,
-      "trust"
+      "anger"
     ],
     [
       "pilot",
@@ -28,9 +23,14 @@
       "trust"
     ],
     [
-      "strikes",
+      "home",
       4,
-      "anger"
+      "joy"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "plan",
@@ -41,6 +41,21 @@
       "police",
       4,
       "fear"
+    ],
+    [
+      "letter",
+      3,
+      "anticipation"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
+      "strikes",
+      3,
+      "anger"
     ],
     [
       "obituary",
@@ -78,27 +93,12 @@
       "anticipation"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "poll",
       3,
       "trust"
     ],
     [
-      "home",
-      3,
-      "joy"
-    ],
-    [
       "hit",
-      3,
-      "anger"
-    ],
-    [
-      "victims",
       3,
       "anger"
     ],
@@ -263,6 +263,36 @@
       "surprise"
     ],
     [
+      "late",
+      1,
+      "sadness"
+    ],
+    [
+      "compassion",
+      1,
+      "fear"
+    ],
+    [
+      "protecting",
+      1,
+      "trust"
+    ],
+    [
+      "cutting",
+      1,
+      "anger"
+    ],
+    [
+      "patience",
+      1,
+      "trust"
+    ],
+    [
+      "loved",
+      1,
+      "joy"
+    ],
+    [
       "chancellor",
       1,
       "trust"
@@ -346,46 +376,16 @@
       "charity",
       1,
       "joy"
-    ],
-    [
-      "progress",
-      1,
-      "joy"
-    ],
-    [
-      "slaughter",
-      1,
-      "anger"
-    ],
-    [
-      "laws",
-      1,
-      "trust"
-    ],
-    [
-      "farmed",
-      1,
-      "anticipation"
-    ],
-    [
-      "destroyed",
-      1,
-      "anger"
-    ],
-    [
-      "books",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 72,
-    "fear": 51,
+    "joy": 22,
+    "trust": 71,
+    "fear": 52,
     "surprise": 14,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 4,
-    "anger": 99,
-    "anticipation": 33
+    "anger": 91,
+    "anticipation": 34
   }
 }
