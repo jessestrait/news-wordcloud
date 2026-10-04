@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:43:08.461Z",
+  "generated_at": "2026-10-04T08:58:10.787Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,6 +10,11 @@
     [
       "pilot",
       8,
+      "trust"
+    ],
+    [
+      "president",
+      5,
       "trust"
     ],
     [
@@ -48,22 +53,17 @@
       "anger"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
-      "pill",
-      3,
-      "trust"
-    ],
-    [
       "investigation",
       3,
       "anticipation"
     ],
     [
       "school",
+      3,
+      "trust"
+    ],
+    [
+      "poll",
       3,
       "trust"
     ],
@@ -113,6 +113,11 @@
       "anticipation"
     ],
     [
+      "pill",
+      2,
+      "trust"
+    ],
+    [
       "force",
       2,
       "anger"
@@ -156,11 +161,6 @@
       "hospital",
       2,
       "fear"
-    ],
-    [
-      "poll",
-      2,
-      "trust"
     ],
     [
       "zionism",
@@ -293,6 +293,21 @@
       "anticipation"
     ],
     [
+      "america",
+      1,
+      "sadness"
+    ],
+    [
+      "battle",
+      1,
+      "anger"
+    ],
+    [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
       "slaughterhouses",
       1,
       "anger"
@@ -361,31 +376,16 @@
       "threat",
       1,
       "anger"
-    ],
-    [
-      "prevent",
-      1,
-      "fear"
-    ],
-    [
-      "amusement",
-      1,
-      "joy"
-    ],
-    [
-      "beer",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 70,
-    "fear": 53,
+    "trust": 71,
+    "fear": 54,
     "surprise": 15,
-    "sadness": 11,
+    "sadness": 12,
     "disgust": 5,
-    "anger": 102,
-    "anticipation": 35
+    "anger": 103,
+    "anticipation": 34
   }
 }
