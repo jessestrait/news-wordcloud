@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:28:06.263Z",
+  "generated_at": "2026-10-04T08:43:08.461Z",
   "article_count": 50,
   "top_words": [
     [
@@ -15,6 +15,11 @@
     [
       "war",
       5,
+      "anger"
+    ],
+    [
+      "strikes",
+      4,
       "anger"
     ],
     [
@@ -58,19 +63,9 @@
       "anticipation"
     ],
     [
-      "strikes",
-      3,
-      "anger"
-    ],
-    [
       "school",
       3,
       "trust"
-    ],
-    [
-      "vote",
-      3,
-      "anger"
     ],
     [
       "home",
@@ -178,6 +173,11 @@
       "trust"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "mosque",
       2,
       "anger"
@@ -273,14 +273,24 @@
       "trust"
     ],
     [
-      "hope",
-      2,
-      "surprise"
+      "continues",
+      1,
+      "trust"
     ],
     [
-      "change",
-      2,
-      "fear"
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
+      "chancellor",
+      1,
+      "trust"
+    ],
+    [
+      "arrived",
+      1,
+      "anticipation"
     ],
     [
       "slaughterhouses",
@@ -366,26 +376,16 @@
       "beer",
       1,
       "joy"
-    ],
-    [
-      "festival",
-      1,
-      "surprise"
-    ],
-    [
-      "devil",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 68,
-    "fear": 54,
-    "surprise": 16,
+    "joy": 20,
+    "trust": 70,
+    "fear": 53,
+    "surprise": 15,
     "sadness": 11,
     "disgust": 5,
-    "anger": 103,
-    "anticipation": 33
+    "anger": 102,
+    "anticipation": 35
   }
 }
