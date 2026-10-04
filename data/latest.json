@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:04:06.705Z",
+  "generated_at": "2026-10-04T21:19:09.167Z",
   "article_count": 50,
   "top_words": [
     [
@@ -338,12 +338,7 @@
       "trust"
     ],
     [
-      "america",
-      1,
-      "sadness"
-    ],
-    [
-      "battle",
+      "fight",
       1,
       "anger"
     ],
@@ -376,6 +371,11 @@
       "progress",
       1,
       "joy"
+    ],
+    [
+      "slaughter",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
@@ -383,7 +383,7 @@
     "trust": 72,
     "fear": 49,
     "surprise": 14,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 4,
     "anger": 89,
     "anticipation": 36
