@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-04T04:56:14.268Z",
+  "generated_at": "2026-10-04T05:11:16.199Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      13,
+      14,
       "anger"
     ],
     [
       "pilot",
-      10,
+      8,
       "trust"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "alleged",
@@ -33,14 +38,14 @@
       "trust"
     ],
     [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "home",
       4,
       "joy"
+    ],
+    [
+      "pill",
+      3,
+      "trust"
     ],
     [
       "investigation",
@@ -83,8 +88,13 @@
       "anger"
     ],
     [
-      "passenger",
-      3,
+      "force",
+      2,
+      "anger"
+    ],
+    [
+      "launch",
+      2,
       "anticipation"
     ],
     [
@@ -203,14 +213,14 @@
       "anger"
     ],
     [
-      "hero",
+      "incident",
       2,
       "surprise"
     ],
     [
-      "incident",
+      "passenger",
       2,
-      "surprise"
+      "anticipation"
     ],
     [
       "guardian",
@@ -243,6 +253,11 @@
       "anger"
     ],
     [
+      "book",
+      2,
+      "trust"
+    ],
+    [
       "hope",
       2,
       "surprise"
@@ -251,6 +266,36 @@
       "change",
       2,
       "fear"
+    ],
+    [
+      "destroyed",
+      1,
+      "anger"
+    ],
+    [
+      "invasion",
+      1,
+      "anger"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
+      "abortion",
+      1,
+      "fear"
+    ],
+    [
+      "challenge",
+      1,
+      "anger"
+    ],
+    [
+      "restrictions",
+      1,
+      "anger"
     ],
     [
       "prevent",
@@ -331,61 +376,16 @@
       "risks",
       1,
       "fear"
-    ],
-    [
-      "unity",
-      1,
-      "trust"
-    ],
-    [
-      "impossible",
-      1,
-      "sadness"
-    ],
-    [
-      "enemy",
-      1,
-      "anger"
-    ],
-    [
-      "apart",
-      1,
-      "anger"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "convicted",
-      1,
-      "anger"
-    ],
-    [
-      "coup",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 67,
+    "joy": 19,
+    "trust": 68,
     "fear": 51,
-    "surprise": 17,
+    "surprise": 16,
     "sadness": 11,
-    "disgust": 6,
-    "anger": 101,
+    "disgust": 5,
+    "anger": 109,
     "anticipation": 30
   }
 }
