@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:47:51.556Z",
+  "generated_at": "2026-10-04T19:02:53.558Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,6 +10,11 @@
     [
       "school",
       6,
+      "trust"
+    ],
+    [
+      "president",
+      5,
       "trust"
     ],
     [
@@ -26,11 +31,6 @@
       "home",
       4,
       "joy"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "plan",
@@ -78,11 +78,6 @@
       "anticipation"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "alleged",
       3,
       "fear"
@@ -103,6 +98,11 @@
       "anger"
     ],
     [
+      "results",
+      2,
+      "anticipation"
+    ],
+    [
       "show",
       2,
       "trust"
@@ -116,6 +116,11 @@
       "people",
       2,
       "trust"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "prepare",
@@ -151,11 +156,6 @@
       "pill",
       2,
       "trust"
-    ],
-    [
-      "court",
-      2,
-      "anger"
     ],
     [
       "attempted",
@@ -249,11 +249,6 @@
     ],
     [
       "missile",
-      2,
-      "fear"
-    ],
-    [
-      "warning",
       2,
       "fear"
     ],
@@ -376,16 +371,21 @@
       "charity",
       1,
       "joy"
+    ],
+    [
+      "progress",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 71,
-    "fear": 52,
+    "trust": 72,
+    "fear": 49,
     "surprise": 14,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 4,
-    "anger": 91,
-    "anticipation": 34
+    "anger": 89,
+    "anticipation": 36
   }
 }
