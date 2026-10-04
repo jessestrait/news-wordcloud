@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T07:57:47.062Z",
+  "generated_at": "2026-10-04T08:12:48.932Z",
   "article_count": 50,
   "top_words": [
     [
@@ -86,6 +86,11 @@
       "victims",
       3,
       "anger"
+    ],
+    [
+      "laws",
+      2,
+      "trust"
     ],
     [
       "prepare",
@@ -263,11 +268,6 @@
       "surprise"
     ],
     [
-      "stolen",
-      2,
-      "anger"
-    ],
-    [
       "book",
       2,
       "trust"
@@ -281,6 +281,41 @@
       "change",
       2,
       "fear"
+    ],
+    [
+      "slaughterhouses",
+      1,
+      "anger"
+    ],
+    [
+      "disgrace",
+      1,
+      "anger"
+    ],
+    [
+      "equality",
+      1,
+      "joy"
+    ],
+    [
+      "charity",
+      1,
+      "joy"
+    ],
+    [
+      "progress",
+      1,
+      "joy"
+    ],
+    [
+      "slaughter",
+      1,
+      "anger"
+    ],
+    [
+      "farmed",
+      1,
+      "anticipation"
     ],
     [
       "shows",
@@ -341,51 +376,16 @@
       "devil",
       1,
       "anger"
-    ],
-    [
-      "relics",
-      1,
-      "sadness"
-    ],
-    [
-      "persuade",
-      1,
-      "trust"
-    ],
-    [
-      "truth",
-      1,
-      "trust"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
-    ],
-    [
-      "morality",
-      1,
-      "trust"
-    ],
-    [
-      "suspect",
-      1,
-      "fear"
-    ],
-    [
-      "flying",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
+    "joy": 21,
     "trust": 68,
     "fear": 54,
     "surprise": 16,
     "sadness": 11,
     "disgust": 5,
-    "anger": 105,
-    "anticipation": 32
+    "anger": 103,
+    "anticipation": 33
   }
 }
