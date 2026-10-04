@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:59:35.185Z",
+  "generated_at": "2026-10-04T12:14:37.615Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,21 +273,6 @@
       "surprise"
     ],
     [
-      "shortly",
-      1,
-      "anticipation"
-    ],
-    [
-      "arrived",
-      1,
-      "anticipation"
-    ],
-    [
-      "intended",
-      1,
-      "anticipation"
-    ],
-    [
       "continues",
       1,
       "trust"
@@ -299,6 +284,21 @@
     ],
     [
       "arrival",
+      1,
+      "anticipation"
+    ],
+    [
+      "shortly",
+      1,
+      "anticipation"
+    ],
+    [
+      "arrived",
+      1,
+      "anticipation"
+    ],
+    [
+      "intended",
       1,
       "anticipation"
     ],
