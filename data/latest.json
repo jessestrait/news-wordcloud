@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T13:45:37.324Z",
+  "generated_at": "2026-10-04T14:00:39.150Z",
   "article_count": 50,
   "top_words": [
     [
@@ -283,6 +283,21 @@
       "fear"
     ],
     [
+      "america",
+      1,
+      "sadness"
+    ],
+    [
+      "battle",
+      1,
+      "anger"
+    ],
+    [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
       "chancellor",
       1,
       "trust"
@@ -301,21 +316,6 @@
       "intended",
       1,
       "anticipation"
-    ],
-    [
-      "america",
-      1,
-      "sadness"
-    ],
-    [
-      "battle",
-      1,
-      "anger"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
     ],
     [
       "slaughterhouses",
