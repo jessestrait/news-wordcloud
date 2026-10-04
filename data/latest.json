@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T06:57:22.188Z",
+  "generated_at": "2026-10-04T07:12:24.564Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,16 @@
       "war",
       5,
       "anger"
+    ],
+    [
+      "government",
+      4,
+      "fear"
+    ],
+    [
+      "plan",
+      4,
+      "anticipation"
     ],
     [
       "alleged",
@@ -38,22 +48,12 @@
       "trust"
     ],
     [
-      "home",
-      4,
-      "joy"
-    ],
-    [
       "pill",
       3,
       "trust"
     ],
     [
       "investigation",
-      3,
-      "anticipation"
-    ],
-    [
-      "plan",
       3,
       "anticipation"
     ],
@@ -73,19 +73,39 @@
       "anger"
     ],
     [
+      "home",
+      3,
+      "joy"
+    ],
+    [
       "hit",
       3,
       "anger"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "victims",
       3,
       "anger"
+    ],
+    [
+      "prepare",
+      2,
+      "anticipation"
+    ],
+    [
+      "wildfire",
+      2,
+      "fear"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
     ],
     [
       "force",
@@ -208,11 +228,6 @@
       "joy"
     ],
     [
-      "massive",
-      2,
-      "anger"
-    ],
-    [
       "incident",
       2,
       "surprise"
@@ -266,6 +281,11 @@
       "change",
       2,
       "fear"
+    ],
+    [
+      "shows",
+      1,
+      "trust"
     ],
     [
       "destroyed",
@@ -356,36 +376,16 @@
       "flying",
       1,
       "fear"
-    ],
-    [
-      "embraced",
-      1,
-      "surprise"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "risks",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
+    "joy": 18,
     "trust": 68,
-    "fear": 51,
+    "fear": 54,
     "surprise": 16,
     "sadness": 11,
     "disgust": 5,
-    "anger": 109,
-    "anticipation": 30
+    "anger": 105,
+    "anticipation": 32
   }
 }
