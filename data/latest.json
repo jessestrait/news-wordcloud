@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:58:50.163Z",
+  "generated_at": "2026-10-04T10:13:52.218Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,12 +18,12 @@
       "trust"
     ],
     [
-      "strikes",
-      5,
+      "war",
+      6,
       "anger"
     ],
     [
-      "war",
+      "strikes",
       5,
       "anger"
     ],
@@ -123,6 +123,11 @@
       "trust"
     ],
     [
+      "court",
+      2,
+      "anger"
+    ],
+    [
       "attempted",
       2,
       "anticipation"
@@ -193,11 +198,6 @@
       "fear"
     ],
     [
-      "fascism",
-      2,
-      "disgust"
-    ],
-    [
       "important",
       2,
       "trust"
@@ -266,11 +266,6 @@
       "break",
       2,
       "surprise"
-    ],
-    [
-      "book",
-      2,
-      "trust"
     ],
     [
       "continues",
@@ -353,6 +348,11 @@
       "anger"
     ],
     [
+      "books",
+      1,
+      "trust"
+    ],
+    [
       "invasion",
       1,
       "anger"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 72,
-    "fear": 54,
+    "joy": 22,
+    "trust": 69,
+    "fear": 55,
     "surprise": 15,
     "sadness": 12,
-    "disgust": 5,
-    "anger": 104,
+    "disgust": 3,
+    "anger": 105,
     "anticipation": 34
   }
 }
