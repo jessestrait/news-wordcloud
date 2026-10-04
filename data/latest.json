@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-10-04T15:01:03.438Z",
+  "generated_at": "2026-10-04T15:16:05.585Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      15,
+      14,
       "anger"
-    ],
-    [
-      "pilot",
-      8,
-      "trust"
     ],
     [
       "war",
@@ -18,9 +13,24 @@
       "anger"
     ],
     [
+      "school",
+      6,
+      "trust"
+    ],
+    [
       "president",
       5,
       "trust"
+    ],
+    [
+      "pilot",
+      5,
+      "trust"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "strikes",
@@ -38,19 +48,9 @@
       "anticipation"
     ],
     [
-      "alleged",
-      4,
-      "fear"
-    ],
-    [
       "police",
       4,
       "fear"
-    ],
-    [
-      "school",
-      4,
-      "trust"
     ],
     [
       "trump",
@@ -58,14 +58,14 @@
       "anger"
     ],
     [
-      "people",
+      "terrorism",
       3,
-      "trust"
+      "anger"
     ],
     [
-      "happened",
+      "alleged",
       3,
-      "anticipation"
+      "fear"
     ],
     [
       "investigation",
@@ -93,12 +93,17 @@
       "anger"
     ],
     [
-      "show",
+      "injured",
+      2,
+      "fear"
+    ],
+    [
+      "people",
       2,
       "trust"
     ],
     [
-      "laws",
+      "show",
       2,
       "trust"
     ],
@@ -178,11 +183,6 @@
       "trust"
     ],
     [
-      "hospital",
-      2,
-      "fear"
-    ],
-    [
       "zionism",
       2,
       "surprise"
@@ -208,11 +208,6 @@
       "trust"
     ],
     [
-      "warn",
-      2,
-      "fear"
-    ],
-    [
       "important",
       2,
       "trust"
@@ -224,11 +219,6 @@
     ],
     [
       "combat",
-      2,
-      "anger"
-    ],
-    [
-      "terrorism",
       2,
       "anger"
     ],
@@ -273,14 +263,24 @@
       "surprise"
     ],
     [
+      "unknown",
+      1,
+      "fear"
+    ],
+    [
+      "burnt",
+      1,
+      "disgust"
+    ],
+    [
+      "unrest",
+      1,
+      "fear"
+    ],
+    [
       "teachers",
       1,
       "trust"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
     ],
     [
       "america",
@@ -348,6 +348,11 @@
       "anger"
     ],
     [
+      "laws",
+      1,
+      "trust"
+    ],
+    [
       "farmed",
       1,
       "anticipation"
@@ -371,21 +376,16 @@
       "threat",
       1,
       "anger"
-    ],
-    [
-      "abortion",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 72,
-    "fear": 56,
+    "joy": 21,
+    "trust": 69,
+    "fear": 53,
     "surprise": 15,
     "sadness": 12,
-    "disgust": 3,
-    "anger": 104,
+    "disgust": 4,
+    "anger": 101,
     "anticipation": 35
   }
 }
