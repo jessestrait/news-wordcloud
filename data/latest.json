@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T03:52:35.570Z",
+  "generated_at": "2026-10-05T04:07:37.332Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,13 +13,8 @@
       "anger"
     ],
     [
-      "school",
-      6,
-      "trust"
-    ],
-    [
       "president",
-      5,
+      6,
       "trust"
     ],
     [
@@ -29,6 +24,11 @@
     ],
     [
       "pilot",
+      4,
+      "trust"
+    ],
+    [
+      "school",
       4,
       "trust"
     ],
@@ -238,11 +238,6 @@
       "joy"
     ],
     [
-      "incident",
-      2,
-      "surprise"
-    ],
-    [
       "passenger",
       2,
       "anticipation"
@@ -251,6 +246,41 @@
       "guardian",
       2,
       "trust"
+    ],
+    [
+      "exiled",
+      1,
+      "anger"
+    ],
+    [
+      "separatist",
+      1,
+      "anger"
+    ],
+    [
+      "leader",
+      1,
+      "trust"
+    ],
+    [
+      "independence",
+      1,
+      "surprise"
+    ],
+    [
+      "carles",
+      1,
+      "trust"
+    ],
+    [
+      "times",
+      1,
+      "anticipation"
+    ],
+    [
+      "changed",
+      1,
+      "fear"
     ],
     [
       "pledges",
@@ -346,46 +376,16 @@
       "institute",
       1,
       "trust"
-    ],
-    [
-      "unknown",
-      1,
-      "fear"
-    ],
-    [
-      "burnt",
-      1,
-      "disgust"
-    ],
-    [
-      "unrest",
-      1,
-      "fear"
-    ],
-    [
-      "teachers",
-      1,
-      "trust"
-    ],
-    [
-      "fight",
-      1,
-      "anger"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 71,
-    "fear": 49,
+    "trust": 70,
+    "fear": 50,
     "surprise": 13,
     "sadness": 10,
     "disgust": 3,
-    "anger": 89,
-    "anticipation": 34
+    "anger": 88,
+    "anticipation": 35
   }
 }
