@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:25:33.004Z",
+  "generated_at": "2026-10-05T09:40:36.536Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,11 +78,6 @@
       "anticipation"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -91,6 +86,11 @@
       "emergency",
       2,
       "fear"
+    ],
+    [
+      "independence",
+      2,
+      "surprise"
     ],
     [
       "law",
@@ -106,6 +106,11 @@
       "world",
       2,
       "trust"
+    ],
+    [
+      "separatist",
+      2,
+      "anger"
     ],
     [
       "military",
@@ -183,6 +188,11 @@
       "trust"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
       "investigation",
       2,
       "anticipation"
@@ -243,6 +253,21 @@
       "trust"
     ],
     [
+      "elect",
+      1,
+      "trust"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "promises",
+      1,
+      "joy"
+    ],
+    [
       "voted",
       1,
       "anger"
@@ -293,19 +318,9 @@
       "anger"
     ],
     [
-      "separatist",
-      1,
-      "anger"
-    ],
-    [
       "leader",
       1,
       "trust"
-    ],
-    [
-      "independence",
-      1,
-      "surprise"
     ],
     [
       "carles",
@@ -361,31 +376,16 @@
       "unexpected",
       1,
       "fear"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "compassion",
-      1,
-      "fear"
-    ],
-    [
-      "protecting",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 65,
-    "fear": 49,
-    "surprise": 11,
+    "joy": 25,
+    "trust": 64,
+    "fear": 47,
+    "surprise": 12,
     "sadness": 10,
     "disgust": 4,
-    "anger": 86,
-    "anticipation": 31
+    "anger": 84,
+    "anticipation": 32
   }
 }
