@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:59:31.785Z",
+  "generated_at": "2026-10-05T15:14:34.330Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "school",
-      8,
+      9,
       "trust"
     ],
     [
@@ -23,19 +23,14 @@
       "anger"
     ],
     [
-      "police",
-      4,
-      "fear"
-    ],
-    [
       "housing",
-      4,
+      5,
       "joy"
     ],
     [
-      "people",
-      3,
-      "trust"
+      "police",
+      4,
+      "fear"
     ],
     [
       "injured",
@@ -81,6 +76,11 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "hope",
+      2,
+      "surprise"
     ],
     [
       "court",
@@ -163,6 +163,11 @@
       "trust"
     ],
     [
+      "people",
+      2,
+      "trust"
+    ],
+    [
       "plan",
       2,
       "anticipation"
@@ -228,19 +233,29 @@
       "anger"
     ],
     [
+      "ruling",
+      1,
+      "fear"
+    ],
+    [
       "young",
       1,
       "surprise"
     ],
     [
-      "denied",
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "crumbling",
       1,
       "sadness"
     ],
     [
-      "enjoyed",
+      "withdrawing",
       1,
-      "joy"
+      "sadness"
     ],
     [
       "clashes",
@@ -361,31 +376,16 @@
       "dies",
       1,
       "fear"
-    ],
-    [
-      "plague",
-      1,
-      "fear"
-    ],
-    [
-      "quarantine",
-      1,
-      "fear"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 67,
-    "fear": 54,
-    "surprise": 11,
-    "sadness": 11,
+    "fear": 55,
+    "surprise": 12,
+    "sadness": 12,
     "disgust": 4,
-    "anger": 75,
+    "anger": 76,
     "anticipation": 29
   }
 }
