@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:24:49.758Z",
+  "generated_at": "2026-10-05T08:39:51.519Z",
   "article_count": 50,
   "top_words": [
     [
@@ -91,6 +91,11 @@
       "emergency",
       2,
       "fear"
+    ],
+    [
+      "law",
+      2,
+      "trust"
     ],
     [
       "authorities",
@@ -371,16 +376,11 @@
       "protecting",
       1,
       "trust"
-    ],
-    [
-      "cutting",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 64,
+    "trust": 65,
     "fear": 49,
     "surprise": 11,
     "sadness": 10,
