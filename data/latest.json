@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:37:27.991Z",
+  "generated_at": "2026-10-05T23:52:30.246Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "president",
       6,
       "trust"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "police",
@@ -36,11 +41,6 @@
       "result",
       4,
       "anticipation"
-    ],
-    [
-      "war",
-      4,
-      "anger"
     ],
     [
       "supporters",
@@ -218,9 +218,9 @@
       "trust"
     ],
     [
-      "zionism",
-      2,
-      "surprise"
+      "guardian",
+      1,
+      "trust"
     ],
     [
       "shock",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 25,
     "trust": 63,
     "fear": 54,
-    "surprise": 14,
+    "surprise": 12,
     "sadness": 13,
     "disgust": 4,
     "anger": 67,
-    "anticipation": 36
+    "anticipation": 35
   }
 }
