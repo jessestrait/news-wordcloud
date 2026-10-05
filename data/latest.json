@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:05:41.186Z",
+  "generated_at": "2026-10-05T00:20:43.651Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,13 +8,13 @@
       "anger"
     ],
     [
-      "school",
-      6,
+      "president",
+      7,
       "trust"
     ],
     [
-      "president",
-      5,
+      "school",
+      6,
       "trust"
     ],
     [
@@ -28,19 +28,14 @@
       "trust"
     ],
     [
-      "home",
-      4,
-      "joy"
-    ],
-    [
       "plan",
       4,
       "anticipation"
     ],
     [
-      "police",
-      4,
-      "fear"
+      "vote",
+      3,
+      "anger"
     ],
     [
       "letter",
@@ -83,6 +78,11 @@
       "fear"
     ],
     [
+      "police",
+      3,
+      "fear"
+    ],
+    [
       "investigation",
       3,
       "anticipation"
@@ -101,6 +101,11 @@
       "results",
       2,
       "anticipation"
+    ],
+    [
+      "home",
+      2,
+      "joy"
     ],
     [
       "show",
@@ -203,11 +208,6 @@
       "trust"
     ],
     [
-      "vote",
-      2,
-      "anger"
-    ],
-    [
       "mosque",
       2,
       "anger"
@@ -253,9 +253,14 @@
       "fear"
     ],
     [
-      "break",
-      2,
-      "surprise"
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "disgraced",
+      1,
+      "anger"
     ],
     [
       "late",
@@ -371,21 +376,16 @@
       "progress",
       1,
       "joy"
-    ],
-    [
-      "slaughter",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 72,
-    "fear": 49,
-    "surprise": 14,
-    "sadness": 12,
+    "joy": 20,
+    "trust": 75,
+    "fear": 47,
+    "surprise": 13,
+    "sadness": 11,
     "disgust": 4,
     "anger": 89,
-    "anticipation": 36
+    "anticipation": 35
   }
 }
