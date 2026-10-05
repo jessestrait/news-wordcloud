@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:43:20.415Z",
+  "generated_at": "2026-10-05T12:58:22.905Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,6 +243,16 @@
       "anger"
     ],
     [
+      "clashes",
+      1,
+      "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
+    ],
+    [
       "grenade",
       1,
       "fear"
@@ -254,11 +264,6 @@
     ],
     [
       "demands",
-      1,
-      "anger"
-    ],
-    [
-      "clash",
       1,
       "anger"
     ],
@@ -371,16 +376,11 @@
       "weigh",
       1,
       "trust"
-    ],
-    [
-      "loss",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 67,
+    "trust": 68,
     "fear": 48,
     "surprise": 11,
     "sadness": 10,
