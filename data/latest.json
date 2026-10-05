@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:44:56.249Z",
+  "generated_at": "2026-10-05T15:59:58.234Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "school",
-      9,
+      8,
       "trust"
     ],
     [
@@ -78,6 +78,11 @@
       "anger"
     ],
     [
+      "expected",
+      2,
+      "anticipation"
+    ],
+    [
       "destroyed",
       2,
       "anger"
@@ -98,17 +103,7 @@
       "anger"
     ],
     [
-      "demands",
-      2,
-      "anger"
-    ],
-    [
       "law",
-      2,
-      "trust"
-    ],
-    [
-      "teachers",
       2,
       "trust"
     ],
@@ -243,6 +238,31 @@
       "anger"
     ],
     [
+      "clashes",
+      1,
+      "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
+    ],
+    [
+      "boy",
+      1,
+      "disgust"
+    ],
+    [
+      "loses",
+      1,
+      "anger"
+    ],
+    [
+      "grow",
+      1,
+      "joy"
+    ],
+    [
       "case",
       1,
       "fear"
@@ -271,16 +291,6 @@
       "friction",
       1,
       "anger"
-    ],
-    [
-      "clashes",
-      1,
-      "anger"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
     ],
     [
       "operation",
@@ -333,6 +343,11 @@
       "sadness"
     ],
     [
+      "demands",
+      1,
+      "anger"
+    ],
+    [
       "changes",
       1,
       "fear"
@@ -361,31 +376,16 @@
       "shrinking",
       1,
       "fear"
-    ],
-    [
-      "economy",
-      1,
-      "trust"
-    ],
-    [
-      "voted",
-      1,
-      "anger"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 66,
-    "fear": 57,
+    "joy": 25,
+    "trust": 64,
+    "fear": 56,
     "surprise": 12,
     "sadness": 12,
-    "disgust": 3,
-    "anger": 75,
-    "anticipation": 30
+    "disgust": 4,
+    "anger": 73,
+    "anticipation": 31
   }
 }
