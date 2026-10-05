@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T18:01:10.568Z",
+  "generated_at": "2026-10-05T18:16:12.533Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      10,
+      11,
       "anger"
     ],
     [
@@ -18,14 +18,19 @@
       "trust"
     ],
     [
+      "police",
+      5,
+      "fear"
+    ],
+    [
       "housing",
       5,
       "joy"
     ],
     [
-      "war",
-      5,
-      "anger"
+      "pilot",
+      4,
+      "trust"
     ],
     [
       "result",
@@ -33,9 +38,9 @@
       "anticipation"
     ],
     [
-      "police",
+      "war",
       4,
-      "fear"
+      "anger"
     ],
     [
       "expected",
@@ -71,11 +76,6 @@
       "alleged",
       3,
       "fear"
-    ],
-    [
-      "pilot",
-      3,
-      "trust"
     ],
     [
       "trump",
@@ -131,11 +131,6 @@
       "vote",
       2,
       "anger"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "separatist",
@@ -221,16 +216,6 @@
       "zionism",
       2,
       "surprise"
-    ],
-    [
-      "history",
-      2,
-      "trust"
-    ],
-    [
-      "mosque",
-      2,
-      "anger"
     ],
     [
       "threatens",
@@ -376,16 +361,31 @@
       "ruling",
       1,
       "fear"
+    ],
+    [
+      "young",
+      1,
+      "surprise"
+    ],
+    [
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "crumbling",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 64,
-    "fear": 53,
+    "joy": 25,
+    "trust": 62,
+    "fear": 54,
     "surprise": 13,
     "sadness": 12,
     "disgust": 4,
-    "anger": 71,
+    "anger": 68,
     "anticipation": 36
   }
 }
