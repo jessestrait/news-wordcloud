@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:26:50.650Z",
+  "generated_at": "2026-10-05T12:28:18.022Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "school",
-      6,
+      8,
       "trust"
     ],
     [
@@ -73,14 +73,19 @@
       "anticipation"
     ],
     [
-      "launch",
-      3,
-      "anticipation"
-    ],
-    [
       "hit",
       3,
       "anger"
+    ],
+    [
+      "loses",
+      2,
+      "anger"
+    ],
+    [
+      "teachers",
+      2,
+      "trust"
     ],
     [
       "general",
@@ -183,6 +188,11 @@
       "anger"
     ],
     [
+      "launch",
+      2,
+      "anticipation"
+    ],
+    [
       "pill",
       2,
       "trust"
@@ -233,7 +243,17 @@
       "anger"
     ],
     [
-      "loses",
+      "grenade",
+      1,
+      "fear"
+    ],
+    [
+      "tackle",
+      1,
+      "anger"
+    ],
+    [
+      "demands",
       1,
       "anger"
     ],
@@ -356,36 +376,16 @@
       "loss",
       1,
       "anger"
-    ],
-    [
-      "exiled",
-      1,
-      "anger"
-    ],
-    [
-      "leader",
-      1,
-      "trust"
-    ],
-    [
-      "carles",
-      1,
-      "trust"
-    ],
-    [
-      "times",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 64,
+    "trust": 67,
     "fear": 48,
     "surprise": 11,
-    "sadness": 11,
+    "sadness": 10,
     "disgust": 4,
-    "anger": 79,
-    "anticipation": 32
+    "anger": 81,
+    "anticipation": 31
   }
 }
