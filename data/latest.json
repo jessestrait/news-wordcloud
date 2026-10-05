@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T11:56:46.308Z",
+  "generated_at": "2026-10-05T12:11:48.481Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,17 +83,17 @@
       "anger"
     ],
     [
-      "general",
-      2,
-      "trust"
-    ],
-    [
       "emergency",
       2,
       "fear"
     ],
     [
       "measures",
+      2,
+      "trust"
+    ],
+    [
+      "general",
       2,
       "trust"
     ],
@@ -243,6 +243,16 @@
       "anger"
     ],
     [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "rejected",
+      1,
+      "anger"
+    ],
+    [
       "pay",
       1,
       "joy"
@@ -264,16 +274,6 @@
     ],
     [
       "anger",
-      1,
-      "anger"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "rejected",
       1,
       "anger"
     ],
