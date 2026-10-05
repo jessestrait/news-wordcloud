@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:16:12.533Z",
+  "generated_at": "2026-10-05T18:31:14.620Z",
   "article_count": 50,
   "top_words": [
     [
@@ -228,6 +228,11 @@
       "anger"
     ],
     [
+      "closure",
+      1,
+      "sadness"
+    ],
+    [
       "expulsions",
       1,
       "anger"
@@ -371,11 +376,6 @@
       "protesters",
       1,
       "anger"
-    ],
-    [
-      "crumbling",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
@@ -383,7 +383,7 @@
     "trust": 62,
     "fear": 54,
     "surprise": 13,
-    "sadness": 12,
+    "sadness": 13,
     "disgust": 4,
     "anger": 68,
     "anticipation": 36
