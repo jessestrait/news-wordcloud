@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:54:06.070Z",
+  "generated_at": "2026-10-05T07:09:08.414Z",
   "article_count": 50,
   "top_words": [
     [
@@ -228,6 +228,11 @@
       "anticipation"
     ],
     [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
       "parliament",
       1,
       "trust"
@@ -371,16 +376,11 @@
       "protecting",
       1,
       "trust"
-    ],
-    [
-      "cutting",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 68,
+    "trust": 69,
     "fear": 51,
     "surprise": 12,
     "sadness": 10,
