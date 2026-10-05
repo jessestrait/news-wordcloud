@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-10-05T11:11:25.801Z",
+  "generated_at": "2026-10-05T11:26:27.805Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       12,
       "anger"
+    ],
+    [
+      "housing",
+      6,
+      "joy"
     ],
     [
       "president",
@@ -18,24 +23,9 @@
       "anger"
     ],
     [
-      "calls",
-      5,
-      "trust"
-    ],
-    [
-      "housing",
-      5,
-      "joy"
-    ],
-    [
       "vote",
       4,
       "anger"
-    ],
-    [
-      "government",
-      4,
-      "fear"
     ],
     [
       "pilot",
@@ -46,6 +36,11 @@
       "school",
       4,
       "trust"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "alleged",
@@ -86,6 +81,11 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "general",
+      2,
+      "trust"
     ],
     [
       "emergency",
@@ -183,11 +183,6 @@
       "fear"
     ],
     [
-      "fire",
-      2,
-      "fear"
-    ],
-    [
       "force",
       2,
       "anger"
@@ -245,6 +240,31 @@
     [
       "mosque",
       2,
+      "anger"
+    ],
+    [
+      "pay",
+      1,
+      "joy"
+    ],
+    [
+      "hoping",
+      1,
+      "surprise"
+    ],
+    [
+      "fragile",
+      1,
+      "fear"
+    ],
+    [
+      "public",
+      1,
+      "anticipation"
+    ],
+    [
+      "anger",
+      1,
       "anger"
     ],
     [
@@ -356,36 +376,16 @@
       "times",
       1,
       "anticipation"
-    ],
-    [
-      "changed",
-      1,
-      "fear"
-    ],
-    [
-      "pledges",
-      1,
-      "joy"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "supply",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 68,
-    "fear": 51,
+    "joy": 26,
+    "trust": 64,
+    "fear": 49,
     "surprise": 11,
     "sadness": 11,
     "disgust": 4,
-    "anger": 81,
-    "anticipation": 31
+    "anger": 79,
+    "anticipation": 32
   }
 }
