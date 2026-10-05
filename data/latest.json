@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:11:48.481Z",
+  "generated_at": "2026-10-05T12:26:50.650Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,9 +8,9 @@
       "anger"
     ],
     [
-      "housing",
+      "school",
       6,
-      "joy"
+      "trust"
     ],
     [
       "president",
@@ -23,9 +23,9 @@
       "anger"
     ],
     [
-      "vote",
-      4,
-      "anger"
+      "housing",
+      5,
+      "joy"
     ],
     [
       "pilot",
@@ -33,12 +33,7 @@
       "trust"
     ],
     [
-      "school",
-      4,
-      "trust"
-    ],
-    [
-      "government",
+      "police",
       3,
       "fear"
     ],
@@ -46,6 +41,11 @@
       "alleged",
       3,
       "fear"
+    ],
+    [
+      "vote",
+      3,
+      "anger"
     ],
     [
       "trump",
@@ -81,16 +81,6 @@
       "hit",
       3,
       "anger"
-    ],
-    [
-      "emergency",
-      2,
-      "fear"
-    ],
-    [
-      "measures",
-      2,
-      "trust"
     ],
     [
       "general",
@@ -131,6 +121,11 @@
       "chancellor",
       2,
       "trust"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "letter",
@@ -193,11 +188,6 @@
       "trust"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "investigation",
       2,
       "anticipation"
@@ -243,12 +233,12 @@
       "anger"
     ],
     [
-      "parliament",
+      "loses",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "rejected",
+      "clash",
       1,
       "anger"
     ],
@@ -293,6 +283,11 @@
       "fear"
     ],
     [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
       "death",
       1,
       "sadness"
@@ -316,6 +311,11 @@
       "voted",
       1,
       "anger"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
     ],
     [
       "tackling",
@@ -379,9 +379,9 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 25,
     "trust": 64,
-    "fear": 49,
+    "fear": 48,
     "surprise": 11,
     "sadness": 11,
     "disgust": 4,
