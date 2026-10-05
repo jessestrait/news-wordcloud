@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:39:03.844Z",
+  "generated_at": "2026-10-05T06:54:06.070Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,9 +23,24 @@
       "trust"
     ],
     [
+      "vote",
+      4,
+      "anger"
+    ],
+    [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "school",
       4,
       "trust"
+    ],
+    [
+      "housing",
+      3,
+      "joy"
     ],
     [
       "alleged",
@@ -33,19 +48,9 @@
       "fear"
     ],
     [
-      "vote",
-      3,
-      "anger"
-    ],
-    [
       "trump",
       3,
       "anger"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "result",
@@ -86,6 +91,11 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "speculation",
+      2,
+      "fear"
     ],
     [
       "authorities",
@@ -183,11 +193,6 @@
       "anger"
     ],
     [
-      "housing",
-      2,
-      "joy"
-    ],
-    [
       "american",
       2,
       "sadness"
@@ -213,11 +218,6 @@
       "anger"
     ],
     [
-      "speculation",
-      2,
-      "fear"
-    ],
-    [
       "life",
       2,
       "joy"
@@ -226,6 +226,26 @@
       "passenger",
       2,
       "anticipation"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "rejected",
+      1,
+      "anger"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
     ],
     [
       "university",
@@ -356,34 +376,14 @@
       "cutting",
       1,
       "anger"
-    ],
-    [
-      "patience",
-      1,
-      "trust"
-    ],
-    [
-      "loved",
-      1,
-      "joy"
-    ],
-    [
-      "shortly",
-      1,
-      "anticipation"
-    ],
-    [
-      "arrived",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 67,
-    "fear": 49,
-    "surprise": 13,
-    "sadness": 11,
+    "joy": 22,
+    "trust": 68,
+    "fear": 51,
+    "surprise": 12,
+    "sadness": 10,
     "disgust": 4,
     "anger": 85,
     "anticipation": 33
