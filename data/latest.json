@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:46:08.172Z",
+  "generated_at": "2026-10-05T18:01:10.568Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,9 +28,19 @@
       "anger"
     ],
     [
+      "result",
+      4,
+      "anticipation"
+    ],
+    [
       "police",
       4,
       "fear"
+    ],
+    [
+      "expected",
+      3,
+      "anticipation"
     ],
     [
       "supporters",
@@ -73,16 +83,6 @@
       "anger"
     ],
     [
-      "result",
-      3,
-      "anticipation"
-    ],
-    [
-      "strikes",
-      3,
-      "anger"
-    ],
-    [
       "plan",
       3,
       "anticipation"
@@ -94,11 +94,6 @@
     ],
     [
       "happened",
-      2,
-      "anticipation"
-    ],
-    [
-      "expected",
       2,
       "anticipation"
     ],
@@ -163,9 +158,9 @@
       "anticipation"
     ],
     [
-      "home",
+      "strikes",
       2,
-      "joy"
+      "anger"
     ],
     [
       "show",
@@ -235,6 +230,36 @@
     [
       "mosque",
       2,
+      "anger"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
+      "expel",
+      1,
+      "anger"
+    ],
+    [
+      "expulsions",
+      1,
+      "anger"
+    ],
+    [
+      "deteriorate",
+      1,
+      "fear"
+    ],
+    [
+      "goods",
+      1,
+      "surprise"
+    ],
+    [
+      "illegal",
+      1,
       "anger"
     ],
     [
@@ -351,41 +376,16 @@
       "ruling",
       1,
       "fear"
-    ],
-    [
-      "young",
-      1,
-      "surprise"
-    ],
-    [
-      "protesters",
-      1,
-      "anger"
-    ],
-    [
-      "crumbling",
-      1,
-      "sadness"
-    ],
-    [
-      "withdrawing",
-      1,
-      "sadness"
-    ],
-    [
-      "demands",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 65,
-    "fear": 52,
-    "surprise": 12,
+    "joy": 26,
+    "trust": 64,
+    "fear": 53,
+    "surprise": 13,
     "sadness": 12,
     "disgust": 4,
-    "anger": 69,
-    "anticipation": 34
+    "anger": 71,
+    "anticipation": 36
   }
 }
