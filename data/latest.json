@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T03:07:12.885Z",
+  "generated_at": "2026-10-05T03:22:15.109Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,9 +8,9 @@
       "anger"
     ],
     [
-      "president",
-      6,
-      "trust"
+      "war",
+      7,
+      "anger"
     ],
     [
       "school",
@@ -18,12 +18,7 @@
       "trust"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
-      "pilot",
+      "president",
       5,
       "trust"
     ],
@@ -33,12 +28,17 @@
       "anticipation"
     ],
     [
-      "result",
-      3,
-      "anticipation"
+      "pilot",
+      4,
+      "trust"
     ],
     [
-      "letter",
+      "government",
+      3,
+      "fear"
+    ],
+    [
+      "result",
       3,
       "anticipation"
     ],
@@ -68,24 +68,14 @@
       "anger"
     ],
     [
-      "happened",
+      "launch",
       3,
       "anticipation"
-    ],
-    [
-      "alleged",
-      3,
-      "fear"
     ],
     [
       "police",
       3,
       "fear"
-    ],
-    [
-      "investigation",
-      3,
-      "anticipation"
     ],
     [
       "poll",
@@ -96,6 +86,26 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
+      "military",
+      2,
+      "fear"
+    ],
+    [
+      "chancellor",
+      2,
+      "trust"
+    ],
+    [
+      "letter",
+      2,
+      "anticipation"
     ],
     [
       "home",
@@ -113,14 +123,14 @@
       "fear"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "people",
       2,
       "trust"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "prepare",
@@ -148,14 +158,19 @@
       "anger"
     ],
     [
-      "launch",
-      2,
-      "anticipation"
-    ],
-    [
       "pill",
       2,
       "trust"
+    ],
+    [
+      "alleged",
+      2,
+      "fear"
+    ],
+    [
+      "investigation",
+      2,
+      "anticipation"
     ],
     [
       "attempted",
@@ -168,19 +183,9 @@
       "anger"
     ],
     [
-      "suggests",
-      2,
-      "trust"
-    ],
-    [
       "housing",
       2,
       "joy"
-    ],
-    [
-      "crash",
-      2,
-      "fear"
     ],
     [
       "attorney",
@@ -248,8 +253,18 @@
       "trust"
     ],
     [
-      "missile",
-      2,
+      "pledges",
+      1,
+      "joy"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
+    ],
+    [
+      "supply",
+      1,
       "fear"
     ],
     [
@@ -308,11 +323,6 @@
       "joy"
     ],
     [
-      "chancellor",
-      1,
-      "trust"
-    ],
-    [
       "shortly",
       1,
       "anticipation"
@@ -366,26 +376,16 @@
       "jailed",
       1,
       "fear"
-    ],
-    [
-      "slaughterhouses",
-      1,
-      "anger"
-    ],
-    [
-      "disgrace",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 75,
-    "fear": 48,
+    "trust": 71,
+    "fear": 49,
     "surprise": 13,
-    "sadness": 11,
-    "disgust": 4,
-    "anger": 88,
-    "anticipation": 37
+    "sadness": 10,
+    "disgust": 3,
+    "anger": 89,
+    "anticipation": 34
   }
 }
