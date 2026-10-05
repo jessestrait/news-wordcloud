@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T13:43:46.652Z",
+  "generated_at": "2026-10-05T13:58:48.624Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      12,
+      11,
       "anger"
     ],
     [
@@ -28,19 +28,24 @@
       "joy"
     ],
     [
-      "pilot",
+      "police",
       4,
-      "trust"
+      "fear"
     ],
     [
-      "police",
+      "investigation",
       3,
-      "fear"
+      "anticipation"
     ],
     [
       "alleged",
       3,
       "fear"
+    ],
+    [
+      "pilot",
+      3,
+      "trust"
     ],
     [
       "vote",
@@ -61,11 +66,6 @@
       "strikes",
       3,
       "anger"
-    ],
-    [
-      "expert",
-      3,
-      "trust"
     ],
     [
       "plan",
@@ -153,9 +153,9 @@
       "sadness"
     ],
     [
-      "terrorism",
+      "expert",
       2,
-      "anger"
+      "trust"
     ],
     [
       "injured",
@@ -196,11 +196,6 @@
       "pill",
       2,
       "trust"
-    ],
-    [
-      "investigation",
-      2,
-      "anticipation"
     ],
     [
       "attempted",
@@ -251,6 +246,21 @@
       "continue",
       1,
       "trust"
+    ],
+    [
+      "parrots",
+      1,
+      "disgust"
+    ],
+    [
+      "smuggling",
+      1,
+      "fear"
+    ],
+    [
+      "found",
+      1,
+      "joy"
     ],
     [
       "grenade",
@@ -366,26 +376,16 @@
       "disconnect",
       1,
       "sadness"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
-    ],
-    [
-      "weigh",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 68,
-    "fear": 48,
+    "trust": 65,
+    "fear": 49,
     "surprise": 11,
     "sadness": 10,
-    "disgust": 4,
-    "anger": 81,
-    "anticipation": 31
+    "disgust": 5,
+    "anger": 78,
+    "anticipation": 32
   }
 }
