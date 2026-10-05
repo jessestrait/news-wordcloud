@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:59:05.243Z",
+  "generated_at": "2026-10-05T14:14:07.421Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,6 +78,11 @@
       "anger"
     ],
     [
+      "law",
+      2,
+      "trust"
+    ],
+    [
       "loses",
       2,
       "anger"
@@ -96,11 +101,6 @@
       "independence",
       2,
       "surprise"
-    ],
-    [
-      "law",
-      2,
-      "trust"
     ],
     [
       "authorities",
@@ -238,6 +238,21 @@
       "anger"
     ],
     [
+      "voted",
+      1,
+      "anger"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "tackling",
+      1,
+      "anger"
+    ],
+    [
       "clashes",
       1,
       "anger"
@@ -341,21 +356,6 @@
       "promises",
       1,
       "joy"
-    ],
-    [
-      "voted",
-      1,
-      "anger"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "tackling",
-      1,
-      "anger"
     ],
     [
       "university",
