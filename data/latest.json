@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:14:07.421Z",
+  "generated_at": "2026-10-05T14:29:09.501Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,12 +24,17 @@
     ],
     [
       "housing",
-      5,
+      4,
       "joy"
     ],
     [
       "police",
       4,
+      "fear"
+    ],
+    [
+      "government",
+      3,
       "fear"
     ],
     [
@@ -48,11 +53,6 @@
       "trust"
     ],
     [
-      "vote",
-      3,
-      "anger"
-    ],
-    [
       "trump",
       3,
       "anger"
@@ -68,13 +68,18 @@
       "anger"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "hit",
       3,
+      "anger"
+    ],
+    [
+      "court",
+      2,
+      "anger"
+    ],
+    [
+      "demands",
+      2,
       "anger"
     ],
     [
@@ -108,6 +113,11 @@
       "trust"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "world",
       2,
       "trust"
@@ -126,11 +136,6 @@
       "chancellor",
       2,
       "trust"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "letter",
@@ -163,14 +168,14 @@
       "fear"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "people",
       2,
       "trust"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "wildfire",
@@ -181,11 +186,6 @@
       "risk",
       2,
       "fear"
-    ],
-    [
-      "force",
-      2,
-      "anger"
     ],
     [
       "launch",
@@ -238,6 +238,41 @@
       "anger"
     ],
     [
+      "changes",
+      1,
+      "fear"
+    ],
+    [
+      "iran",
+      1,
+      "anger"
+    ],
+    [
+      "resigns",
+      1,
+      "anger"
+    ],
+    [
+      "departure",
+      1,
+      "sadness"
+    ],
+    [
+      "inflation",
+      1,
+      "fear"
+    ],
+    [
+      "shrinking",
+      1,
+      "fear"
+    ],
+    [
+      "economy",
+      1,
+      "trust"
+    ],
+    [
       "voted",
       1,
       "anger"
@@ -284,11 +319,6 @@
     ],
     [
       "tackle",
-      1,
-      "anger"
-    ],
-    [
-      "demands",
       1,
       "anger"
     ],
@@ -346,46 +376,16 @@
       "elect",
       1,
       "trust"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
-    ],
-    [
-      "promises",
-      1,
-      "joy"
-    ],
-    [
-      "university",
-      1,
-      "anticipation"
-    ],
-    [
-      "ready",
-      1,
-      "anticipation"
-    ],
-    [
-      "congress",
-      1,
-      "disgust"
-    ],
-    [
-      "disconnect",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 65,
-    "fear": 49,
-    "surprise": 11,
-    "sadness": 10,
-    "disgust": 5,
-    "anger": 78,
-    "anticipation": 32
+    "joy": 23,
+    "trust": 66,
+    "fear": 53,
+    "surprise": 10,
+    "sadness": 11,
+    "disgust": 4,
+    "anger": 76,
+    "anticipation": 30
   }
 }
