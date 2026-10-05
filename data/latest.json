@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:14:34.330Z",
+  "generated_at": "2026-10-05T15:29:37.196Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "trust"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "war",
       6,
       "anger"
@@ -28,6 +23,11 @@
       "joy"
     ],
     [
+      "president",
+      5,
+      "trust"
+    ],
+    [
       "police",
       4,
       "fear"
@@ -36,6 +36,11 @@
       "injured",
       3,
       "fear"
+    ],
+    [
+      "authorities",
+      3,
+      "trust"
     ],
     [
       "government",
@@ -78,6 +83,16 @@
       "anger"
     ],
     [
+      "destroyed",
+      2,
+      "anger"
+    ],
+    [
+      "supporters",
+      2,
+      "joy"
+    ],
+    [
       "hope",
       2,
       "surprise"
@@ -111,11 +126,6 @@
       "independence",
       2,
       "surprise"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "vote",
@@ -233,6 +243,56 @@
       "anger"
     ],
     [
+      "clashes",
+      1,
+      "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
+    ],
+    [
+      "operation",
+      1,
+      "fear"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "case",
+      1,
+      "fear"
+    ],
+    [
+      "plague",
+      1,
+      "fear"
+    ],
+    [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
+      "khan",
+      1,
+      "fear"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
+      "jail",
+      1,
+      "fear"
+    ],
+    [
       "ruling",
       1,
       "fear"
@@ -256,16 +316,6 @@
       "withdrawing",
       1,
       "sadness"
-    ],
-    [
-      "clashes",
-      1,
-      "anger"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
     ],
     [
       "changes",
@@ -326,66 +376,16 @@
       "smuggling",
       1,
       "fear"
-    ],
-    [
-      "found",
-      1,
-      "joy"
-    ],
-    [
-      "loses",
-      1,
-      "anger"
-    ],
-    [
-      "grenade",
-      1,
-      "fear"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
-    ],
-    [
-      "pay",
-      1,
-      "joy"
-    ],
-    [
-      "hoping",
-      1,
-      "surprise"
-    ],
-    [
-      "fragile",
-      1,
-      "fear"
-    ],
-    [
-      "public",
-      1,
-      "anticipation"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
-      "dies",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 67,
-    "fear": 55,
+    "joy": 25,
+    "trust": 65,
+    "fear": 57,
     "surprise": 12,
     "sadness": 12,
-    "disgust": 4,
-    "anger": 76,
-    "anticipation": 29
+    "disgust": 3,
+    "anger": 77,
+    "anticipation": 30
   }
 }
