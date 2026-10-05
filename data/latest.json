@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T10:56:23.509Z",
+  "generated_at": "2026-10-05T11:11:25.801Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,14 +88,14 @@
       "anger"
     ],
     [
-      "measures",
-      2,
-      "trust"
-    ],
-    [
       "emergency",
       2,
       "fear"
+    ],
+    [
+      "measures",
+      2,
+      "trust"
     ],
     [
       "independence",
@@ -248,6 +248,16 @@
       "anger"
     ],
     [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "rejected",
+      1,
+      "anger"
+    ],
+    [
       "dies",
       1,
       "fear"
@@ -266,16 +276,6 @@
       "death",
       1,
       "sadness"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "rejected",
-      1,
-      "anger"
     ],
     [
       "elect",
