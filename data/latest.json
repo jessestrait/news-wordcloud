@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T10:41:05.209Z",
+  "generated_at": "2026-10-05T10:56:07.741Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      13,
+      12,
       "anger"
     ],
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
+      "calls",
+      5,
+      "trust"
+    ],
+    [
       "housing",
       5,
       "joy"
-    ],
-    [
-      "pilot",
-      5,
-      "trust"
     ],
     [
       "vote",
@@ -36,6 +36,11 @@
       "government",
       4,
       "fear"
+    ],
+    [
+      "pilot",
+      4,
+      "trust"
     ],
     [
       "school",
@@ -81,6 +86,11 @@
       "hit",
       3,
       "anger"
+    ],
+    [
+      "measures",
+      2,
+      "trust"
     ],
     [
       "emergency",
@@ -208,6 +218,11 @@
       "anger"
     ],
     [
+      "hospital",
+      2,
+      "fear"
+    ],
+    [
       "american",
       2,
       "sadness"
@@ -233,9 +248,24 @@
       "anger"
     ],
     [
-      "life",
-      2,
-      "joy"
+      "dies",
+      1,
+      "fear"
+    ],
+    [
+      "plague",
+      1,
+      "fear"
+    ],
+    [
+      "quarantine",
+      1,
+      "fear"
+    ],
+    [
+      "death",
+      1,
+      "sadness"
     ],
     [
       "parliament",
@@ -246,11 +276,6 @@
       "rejected",
       1,
       "anger"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
     ],
     [
       "elect",
@@ -351,41 +376,16 @@
       "supply",
       1,
       "fear"
-    ],
-    [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "disgraced",
-      1,
-      "anger"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "showing",
-      1,
-      "trust"
-    ],
-    [
-      "unexpected",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 64,
-    "fear": 47,
-    "surprise": 12,
-    "sadness": 10,
+    "joy": 24,
+    "trust": 68,
+    "fear": 51,
+    "surprise": 11,
+    "sadness": 11,
     "disgust": 4,
-    "anger": 84,
-    "anticipation": 32
+    "anger": 81,
+    "anticipation": 31
   }
 }
