@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:09:23.554Z",
+  "generated_at": "2026-10-05T07:24:25.345Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "war",
       6,
       "anger"
+    ],
+    [
+      "housing",
+      5,
+      "joy"
     ],
     [
       "pilot",
@@ -36,11 +41,6 @@
       "school",
       4,
       "trust"
-    ],
-    [
-      "housing",
-      3,
-      "joy"
     ],
     [
       "alleged",
@@ -68,11 +68,6 @@
       "trust"
     ],
     [
-      "terrorism",
-      3,
-      "anger"
-    ],
-    [
       "plan",
       3,
       "anticipation"
@@ -93,7 +88,7 @@
       "anger"
     ],
     [
-      "speculation",
+      "emergency",
       2,
       "fear"
     ],
@@ -136,6 +131,11 @@
       "obituary",
       2,
       "sadness"
+    ],
+    [
+      "terrorism",
+      2,
+      "anger"
     ],
     [
       "injured",
@@ -223,16 +223,6 @@
       "joy"
     ],
     [
-      "passenger",
-      2,
-      "anticipation"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
-    ],
-    [
       "parliament",
       1,
       "trust"
@@ -243,14 +233,19 @@
       "anger"
     ],
     [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
       "measures",
       1,
       "trust"
+    ],
+    [
+      "voted",
+      1,
+      "anger"
+    ],
+    [
+      "tackling",
+      1,
+      "anger"
     ],
     [
       "university",
@@ -376,16 +371,21 @@
       "protecting",
       1,
       "trust"
+    ],
+    [
+      "cutting",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 69,
-    "fear": 51,
-    "surprise": 12,
+    "joy": 24,
+    "trust": 64,
+    "fear": 49,
+    "surprise": 11,
     "sadness": 10,
     "disgust": 4,
-    "anger": 85,
-    "anticipation": 33
+    "anger": 86,
+    "anticipation": 31
   }
 }
