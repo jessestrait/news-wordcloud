@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:38:40.573Z",
+  "generated_at": "2026-10-05T05:53:42.481Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,24 +8,39 @@
       "anger"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "president",
       6,
       "trust"
     ],
     [
+      "war",
+      6,
+      "anger"
+    ],
+    [
       "pilot",
-      4,
+      5,
       "trust"
     ],
     [
       "school",
       4,
       "trust"
+    ],
+    [
+      "alleged",
+      3,
+      "fear"
+    ],
+    [
+      "vote",
+      3,
+      "anger"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "government",
@@ -41,11 +56,6 @@
       "strikes",
       3,
       "anger"
-    ],
-    [
-      "obituary",
-      3,
-      "sadness"
     ],
     [
       "expert",
@@ -78,9 +88,9 @@
       "anger"
     ],
     [
-      "missile",
-      3,
-      "fear"
+      "authorities",
+      2,
+      "trust"
     ],
     [
       "world",
@@ -108,14 +118,14 @@
       "joy"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "show",
       2,
       "trust"
+    ],
+    [
+      "obituary",
+      2,
+      "sadness"
     ],
     [
       "injured",
@@ -158,11 +168,6 @@
       "trust"
     ],
     [
-      "alleged",
-      2,
-      "fear"
-    ],
-    [
       "investigation",
       2,
       "anticipation"
@@ -183,6 +188,11 @@
       "joy"
     ],
     [
+      "american",
+      2,
+      "sadness"
+    ],
+    [
       "poll",
       2,
       "trust"
@@ -198,17 +208,7 @@
       "trust"
     ],
     [
-      "vote",
-      2,
-      "anger"
-    ],
-    [
       "mosque",
-      2,
-      "anger"
-    ],
-    [
-      "combat",
       2,
       "anger"
     ],
@@ -226,6 +226,31 @@
       "passenger",
       2,
       "anticipation"
+    ],
+    [
+      "university",
+      1,
+      "anticipation"
+    ],
+    [
+      "ready",
+      1,
+      "anticipation"
+    ],
+    [
+      "congress",
+      1,
+      "disgust"
+    ],
+    [
+      "disconnect",
+      1,
+      "sadness"
+    ],
+    [
+      "supporters",
+      1,
+      "joy"
     ],
     [
       "weigh",
@@ -351,40 +376,15 @@
       "arrived",
       1,
       "anticipation"
-    ],
-    [
-      "intended",
-      1,
-      "anticipation"
-    ],
-    [
-      "united",
-      1,
-      "trust"
-    ],
-    [
-      "institute",
-      1,
-      "trust"
-    ],
-    [
-      "unknown",
-      1,
-      "fear"
-    ],
-    [
-      "burnt",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 21,
     "trust": 67,
-    "fear": 50,
+    "fear": 49,
     "surprise": 13,
-    "sadness": 10,
-    "disgust": 3,
+    "sadness": 11,
+    "disgust": 4,
     "anger": 85,
     "anticipation": 33
   }
