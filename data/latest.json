@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:01:43.685Z",
+  "generated_at": "2026-10-06T14:16:46.250Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "president",
-      8,
+      7,
       "trust"
     ],
     [
@@ -33,6 +33,11 @@
       "anticipation"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "result",
       4,
       "anticipation"
@@ -46,6 +51,11 @@
       "clashes",
       3,
       "anger"
+    ],
+    [
+      "public",
+      3,
+      "anticipation"
     ],
     [
       "alleged",
@@ -73,11 +83,6 @@
       "surprise"
     ],
     [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
       "injured",
       3,
       "fear"
@@ -91,6 +96,11 @@
       "expert",
       3,
       "trust"
+    ],
+    [
+      "launch",
+      2,
+      "anticipation"
     ],
     [
       "institute",
@@ -183,11 +193,6 @@
       "trust"
     ],
     [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
       "happened",
       2,
       "anticipation"
@@ -241,6 +246,56 @@
       "people",
       2,
       "trust"
+    ],
+    [
+      "sue",
+      1,
+      "anger"
+    ],
+    [
+      "friends",
+      1,
+      "joy"
+    ],
+    [
+      "betrayal",
+      1,
+      "anger"
+    ],
+    [
+      "trust",
+      1,
+      "trust"
+    ],
+    [
+      "defamation",
+      1,
+      "fear"
+    ],
+    [
+      "lawsuit",
+      1,
+      "anger"
+    ],
+    [
+      "angeles",
+      1,
+      "surprise"
+    ],
+    [
+      "series",
+      1,
+      "trust"
+    ],
+    [
+      "devastating",
+      1,
+      "anger"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
     ],
     [
       "denied",
@@ -321,71 +376,16 @@
       "gaza",
       1,
       "anger"
-    ],
-    [
-      "appealing",
-      1,
-      "anticipation"
-    ],
-    [
-      "dismissal",
-      1,
-      "anger"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "director",
-      1,
-      "trust"
-    ],
-    [
-      "games",
-      1,
-      "anticipation"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "rage",
-      1,
-      "anger"
-    ],
-    [
-      "policing",
-      1,
-      "fear"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
-      "income",
-      1,
-      "sadness"
-    ],
-    [
-      "ugly",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 24,
     "trust": 67,
     "fear": 52,
-    "surprise": 15,
+    "surprise": 16,
     "sadness": 16,
     "disgust": 7,
-    "anger": 66,
-    "anticipation": 32
+    "anger": 70,
+    "anticipation": 34
   }
 }
