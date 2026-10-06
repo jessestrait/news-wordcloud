@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T05:41:16.881Z",
+  "generated_at": "2026-10-06T05:56:18.969Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      10,
+      9,
       "anger"
     ],
     [
@@ -83,9 +83,24 @@
       "anticipation"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
+      "green",
+      2,
+      "joy"
+    ],
+    [
+      "zionism",
+      2,
+      "surprise"
+    ],
+    [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
+      "voted",
+      2,
+      "anger"
     ],
     [
       "strikes",
@@ -178,6 +193,11 @@
       "trust"
     ],
     [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
       "wildfire",
       2,
       "fear"
@@ -206,6 +226,16 @@
       "terrorist",
       2,
       "anger"
+    ],
+    [
+      "policy",
+      1,
+      "trust"
+    ],
+    [
+      "alarm",
+      1,
+      "fear"
     ],
     [
       "outcry",
@@ -346,46 +376,16 @@
       "grow",
       1,
       "joy"
-    ],
-    [
-      "case",
-      1,
-      "fear"
-    ],
-    [
-      "plague",
-      1,
-      "fear"
-    ],
-    [
-      "quarantine",
-      1,
-      "fear"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
-    ],
-    [
-      "hospitals",
-      1,
-      "fear"
-    ],
-    [
-      "death",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 26,
     "trust": 63,
-    "fear": 53,
-    "surprise": 12,
-    "sadness": 12,
+    "fear": 54,
+    "surprise": 13,
+    "sadness": 11,
     "disgust": 4,
-    "anger": 68,
-    "anticipation": 35
+    "anger": 69,
+    "anticipation": 34
   }
 }
