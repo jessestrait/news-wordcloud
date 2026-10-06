@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:15:25.386Z",
+  "generated_at": "2026-10-06T11:30:27.452Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,19 +18,14 @@
       "anger"
     ],
     [
+      "police",
+      6,
+      "fear"
+    ],
+    [
       "war",
       6,
       "anger"
-    ],
-    [
-      "expected",
-      5,
-      "anticipation"
-    ],
-    [
-      "police",
-      5,
-      "fear"
     ],
     [
       "alleged",
@@ -48,9 +43,14 @@
       "joy"
     ],
     [
-      "public",
+      "clashes",
       3,
-      "anticipation"
+      "anger"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "destroyed",
@@ -68,14 +68,14 @@
       "trust"
     ],
     [
+      "expected",
+      3,
+      "anticipation"
+    ],
+    [
       "injured",
       3,
       "fear"
-    ],
-    [
-      "hope",
-      3,
-      "surprise"
     ],
     [
       "government",
@@ -88,14 +88,9 @@
       "anticipation"
     ],
     [
-      "start",
-      2,
-      "anticipation"
-    ],
-    [
-      "teachers",
-      2,
-      "trust"
+      "separatist",
+      3,
+      "anger"
     ],
     [
       "disgraced",
@@ -123,6 +118,21 @@
       "anger"
     ],
     [
+      "unity",
+      2,
+      "trust"
+    ],
+    [
+      "strategy",
+      2,
+      "anticipation"
+    ],
+    [
+      "threat",
+      2,
+      "anger"
+    ],
+    [
       "strikes",
       2,
       "anger"
@@ -138,6 +148,11 @@
       "surprise"
     ],
     [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
       "happened",
       2,
       "anticipation"
@@ -146,6 +161,11 @@
       "authorities",
       2,
       "trust"
+    ],
+    [
+      "hope",
+      2,
+      "surprise"
     ],
     [
       "court",
@@ -161,16 +181,6 @@
       "independence",
       2,
       "surprise"
-    ],
-    [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
-      "separatist",
-      2,
-      "anger"
     ],
     [
       "military",
@@ -223,11 +233,6 @@
       "trust"
     ],
     [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
       "ambassador",
       1,
       "trust"
@@ -271,6 +276,21 @@
       "alarm",
       1,
       "fear"
+    ],
+    [
+      "govern",
+      1,
+      "trust"
+    ],
+    [
+      "alone",
+      1,
+      "sadness"
+    ],
+    [
+      "tariffs",
+      1,
+      "anger"
     ],
     [
       "outcry",
@@ -356,36 +376,16 @@
       "expulsions",
       1,
       "anger"
-    ],
-    [
-      "deteriorate",
-      1,
-      "fear"
-    ],
-    [
-      "goods",
-      1,
-      "surprise"
-    ],
-    [
-      "illegal",
-      1,
-      "anger"
-    ],
-    [
-      "enabled",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 66,
-    "fear": 51,
-    "surprise": 13,
+    "trust": 62,
+    "fear": 52,
+    "surprise": 12,
     "sadness": 11,
     "disgust": 5,
-    "anger": 67,
-    "anticipation": 37
+    "anger": 73,
+    "anticipation": 34
   }
 }
