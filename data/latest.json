@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:01:17.032Z",
+  "generated_at": "2026-10-06T13:16:19.617Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,16 +21,6 @@
       "expected",
       4,
       "anticipation"
-    ],
-    [
-      "war",
-      4,
-      "anger"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "result",
@@ -58,7 +48,7 @@
       "anger"
     ],
     [
-      "destroyed",
+      "war",
       3,
       "anger"
     ],
@@ -71,6 +61,11 @@
       "surge",
       3,
       "surprise"
+    ],
+    [
+      "attack",
+      3,
+      "anger"
     ],
     [
       "injured",
@@ -148,7 +143,7 @@
       "trust"
     ],
     [
-      "threat",
+      "destroyed",
       2,
       "anger"
     ],
@@ -376,16 +371,21 @@
       "alarm",
       1,
       "fear"
+    ],
+    [
+      "strategy",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 65,
+    "trust": 64,
     "fear": 52,
     "surprise": 13,
     "sadness": 13,
     "disgust": 6,
-    "anger": 70,
+    "anger": 67,
     "anticipation": 34
   }
 }
