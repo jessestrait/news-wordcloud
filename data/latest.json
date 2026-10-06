@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T13:46:41.460Z",
+  "generated_at": "2026-10-06T14:01:43.685Z",
   "article_count": 50,
   "top_words": [
     [
       "school",
-      9,
+      10,
       "trust"
     ],
     [
@@ -15,6 +15,16 @@
     [
       "police",
       6,
+      "fear"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
+    ],
+    [
+      "plague",
+      4,
       "fear"
     ],
     [
@@ -36,11 +46,6 @@
       "clashes",
       3,
       "anger"
-    ],
-    [
-      "death",
-      3,
-      "sadness"
     ],
     [
       "alleged",
@@ -83,6 +88,21 @@
       "anger"
     ],
     [
+      "expert",
+      3,
+      "trust"
+    ],
+    [
+      "institute",
+      2,
+      "trust"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
       "protesters",
       2,
       "anger"
@@ -96,11 +116,6 @@
       "arrived",
       2,
       "anticipation"
-    ],
-    [
-      "plague",
-      2,
-      "fear"
     ],
     [
       "world",
@@ -178,6 +193,11 @@
       "anticipation"
     ],
     [
+      "start",
+      2,
+      "anticipation"
+    ],
+    [
       "authorities",
       2,
       "trust"
@@ -191,11 +211,6 @@
       "government",
       2,
       "fear"
-    ],
-    [
-      "law",
-      2,
-      "trust"
     ],
     [
       "investigation",
@@ -223,14 +238,49 @@
       "anticipation"
     ],
     [
-      "expert",
+      "people",
       2,
       "trust"
     ],
     [
-      "people",
-      2,
+      "denied",
+      1,
+      "sadness"
+    ],
+    [
+      "ill",
+      1,
+      "anger"
+    ],
+    [
+      "dilapidated",
+      1,
+      "disgust"
+    ],
+    [
+      "bad",
+      1,
+      "anger"
+    ],
+    [
+      "inequality",
+      1,
+      "anger"
+    ],
+    [
+      "system",
+      1,
       "trust"
+    ],
+    [
+      "promised",
+      1,
+      "joy"
+    ],
+    [
+      "complaints",
+      1,
+      "anger"
     ],
     [
       "blockaded",
@@ -241,11 +291,6 @@
       "epidemic",
       1,
       "anger"
-    ],
-    [
-      "risk",
-      1,
-      "fear"
     ],
     [
       "organization",
@@ -331,61 +376,16 @@
       "ugly",
       1,
       "disgust"
-    ],
-    [
-      "brutality",
-      1,
-      "anger"
-    ],
-    [
-      "ambassador",
-      1,
-      "trust"
-    ],
-    [
-      "friendship",
-      1,
-      "joy"
-    ],
-    [
-      "soured",
-      1,
-      "disgust"
-    ],
-    [
-      "surprise",
-      1,
-      "fear"
-    ],
-    [
-      "rapid",
-      1,
-      "surprise"
-    ],
-    [
-      "house",
-      1,
-      "joy"
-    ],
-    [
-      "family",
-      1,
-      "joy"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 64,
-    "fear": 49,
+    "joy": 23,
+    "trust": 67,
+    "fear": 52,
     "surprise": 15,
-    "sadness": 14,
-    "disgust": 6,
-    "anger": 68,
+    "sadness": 16,
+    "disgust": 7,
+    "anger": 66,
     "anticipation": 32
   }
 }
