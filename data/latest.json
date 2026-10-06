@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-10-06T07:43:14.284Z",
+  "generated_at": "2026-10-06T07:58:16.355Z",
   "article_count": 50,
   "top_words": [
+    [
+      "school",
+      8,
+      "trust"
+    ],
     [
       "president",
       7,
@@ -13,24 +18,19 @@
       "anger"
     ],
     [
-      "school",
-      7,
-      "trust"
-    ],
-    [
       "war",
       6,
       "anger"
     ],
     [
+      "expected",
+      5,
+      "anticipation"
+    ],
+    [
       "police",
       5,
       "fear"
-    ],
-    [
-      "housing",
-      5,
-      "joy"
     ],
     [
       "alleged",
@@ -40,6 +40,16 @@
     [
       "result",
       4,
+      "anticipation"
+    ],
+    [
+      "housing",
+      4,
+      "joy"
+    ],
+    [
+      "public",
+      3,
       "anticipation"
     ],
     [
@@ -56,11 +66,6 @@
       "pilot",
       3,
       "trust"
-    ],
-    [
-      "expected",
-      3,
-      "anticipation"
     ],
     [
       "injured",
@@ -81,6 +86,16 @@
       "investigation",
       3,
       "anticipation"
+    ],
+    [
+      "grow",
+      2,
+      "joy"
+    ],
+    [
+      "teachers",
+      2,
+      "trust"
     ],
     [
       "disgraced",
@@ -121,11 +136,6 @@
       "surge",
       2,
       "surprise"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "happened",
@@ -210,6 +220,11 @@
     [
       "pill",
       2,
+      "trust"
+    ],
+    [
+      "trade",
+      1,
       "trust"
     ],
     [
@@ -361,31 +376,16 @@
       "enabled",
       1,
       "trust"
-    ],
-    [
-      "restricted",
-      1,
-      "sadness"
-    ],
-    [
-      "fears",
-      1,
-      "anger"
-    ],
-    [
-      "clashes",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 63,
+    "trust": 66,
     "fear": 51,
     "surprise": 13,
     "sadness": 11,
     "disgust": 5,
     "anger": 67,
-    "anticipation": 33
+    "anticipation": 36
   }
 }
