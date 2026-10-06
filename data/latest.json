@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:49:00.954Z",
+  "generated_at": "2026-10-06T18:04:04.353Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anger"
     ],
     [
+      "letter",
+      3,
+      "anticipation"
+    ],
+    [
       "world",
       3,
       "trust"
@@ -93,9 +98,9 @@
       "anger"
     ],
     [
-      "expert",
-      3,
-      "trust"
+      "fear",
+      2,
+      "anger"
     ],
     [
       "outcry",
@@ -123,14 +128,14 @@
       "anticipation"
     ],
     [
-      "institute",
-      2,
-      "trust"
-    ],
-    [
       "risk",
       2,
       "fear"
+    ],
+    [
+      "experts",
+      2,
+      "trust"
     ],
     [
       "case",
@@ -258,11 +263,6 @@
       "trust"
     ],
     [
-      "letter",
-      2,
-      "anticipation"
-    ],
-    [
       "people",
       1,
       "trust"
@@ -281,6 +281,11 @@
       "officers",
       1,
       "trust"
+    ],
+    [
+      "john",
+      1,
+      "disgust"
     ],
     [
       "freedom",
@@ -371,21 +376,16 @@
       "trust",
       1,
       "trust"
-    ],
-    [
-      "defamation",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 70,
+    "trust": 67,
     "fear": 56,
     "surprise": 16,
-    "sadness": 16,
-    "disgust": 6,
-    "anger": 71,
-    "anticipation": 33
+    "sadness": 15,
+    "disgust": 7,
+    "anger": 72,
+    "anticipation": 34
   }
 }
