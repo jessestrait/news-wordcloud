@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-06T15:32:40.979Z",
+  "generated_at": "2026-10-06T15:47:43.959Z",
   "article_count": 50,
   "top_words": [
     [
-      "school",
-      9,
+      "president",
+      8,
       "trust"
     ],
     [
-      "president",
+      "school",
       7,
       "trust"
     ],
@@ -16,6 +16,11 @@
       "police",
       6,
       "fear"
+    ],
+    [
+      "war",
+      4,
+      "anger"
     ],
     [
       "death",
@@ -53,6 +58,11 @@
       "anger"
     ],
     [
+      "world",
+      3,
+      "trust"
+    ],
+    [
       "public",
       3,
       "anticipation"
@@ -64,11 +74,6 @@
     ],
     [
       "trump",
-      3,
-      "anger"
-    ],
-    [
-      "war",
       3,
       "anger"
     ],
@@ -90,6 +95,11 @@
     [
       "expert",
       3,
+      "trust"
+    ],
+    [
+      "second",
+      2,
       "trust"
     ],
     [
@@ -126,11 +136,6 @@
       "arrived",
       2,
       "anticipation"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "intelligence",
@@ -193,11 +198,6 @@
       "trust"
     ],
     [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
       "start",
       2,
       "anticipation"
@@ -223,6 +223,11 @@
       "anticipation"
     ],
     [
+      "elect",
+      2,
+      "trust"
+    ],
+    [
       "independence",
       2,
       "surprise"
@@ -246,6 +251,46 @@
       "letter",
       2,
       "anticipation"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "rage",
+      1,
+      "anger"
+    ],
+    [
+      "policing",
+      1,
+      "fear"
+    ],
+    [
+      "unprecedented",
+      1,
+      "surprise"
+    ],
+    [
+      "income",
+      1,
+      "sadness"
+    ],
+    [
+      "ugly",
+      1,
+      "disgust"
+    ],
+    [
+      "brutality",
+      1,
+      "anger"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
     ],
     [
       "probation",
@@ -331,61 +376,16 @@
       "inequality",
       1,
       "anger"
-    ],
-    [
-      "system",
-      1,
-      "trust"
-    ],
-    [
-      "promised",
-      1,
-      "joy"
-    ],
-    [
-      "complaints",
-      1,
-      "anger"
-    ],
-    [
-      "blockaded",
-      1,
-      "anger"
-    ],
-    [
-      "epidemic",
-      1,
-      "anger"
-    ],
-    [
-      "organization",
-      1,
-      "surprise"
-    ],
-    [
-      "served",
-      1,
-      "trust"
-    ],
-    [
-      "food",
-      1,
-      "joy"
-    ],
-    [
-      "official",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 65,
-    "fear": 52,
+    "trust": 68,
+    "fear": 50,
     "surprise": 16,
     "sadness": 16,
-    "disgust": 7,
-    "anger": 70,
+    "disgust": 6,
+    "anger": 71,
     "anticipation": 34
   }
 }
