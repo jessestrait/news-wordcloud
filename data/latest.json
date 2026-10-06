@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:22:50.989Z",
+  "generated_at": "2026-10-06T23:37:53.609Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "fear"
     ],
     [
-      "president",
-      8,
+      "school",
+      7,
       "trust"
     ],
     [
-      "school",
+      "president",
       7,
       "trust"
     ],
@@ -38,14 +38,19 @@
       "anger"
     ],
     [
-      "result",
-      4,
-      "anticipation"
-    ],
-    [
       "housing",
       4,
       "joy"
+    ],
+    [
+      "director",
+      3,
+      "trust"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "world",
@@ -78,7 +83,7 @@
       "surprise"
     ],
     [
-      "expected",
+      "result",
       3,
       "anticipation"
     ],
@@ -88,14 +93,19 @@
       "anger"
     ],
     [
+      "cry",
+      2,
+      "sadness"
+    ],
+    [
+      "explores",
+      2,
+      "anticipation"
+    ],
+    [
       "risk",
       2,
       "fear"
-    ],
-    [
-      "hit",
-      2,
-      "anger"
     ],
     [
       "violence",
@@ -133,11 +143,6 @@
       "anger"
     ],
     [
-      "second",
-      2,
-      "trust"
-    ],
-    [
       "plans",
       2,
       "anticipation"
@@ -166,11 +171,6 @@
       "general",
       2,
       "trust"
-    ],
-    [
-      "disgraced",
-      2,
-      "anger"
     ],
     [
       "green",
@@ -218,6 +218,11 @@
       "trust"
     ],
     [
+      "expected",
+      2,
+      "anticipation"
+    ],
+    [
       "operation",
       2,
       "fear"
@@ -261,6 +266,36 @@
       "military",
       2,
       "fear"
+    ],
+    [
+      "don",
+      1,
+      "trust"
+    ],
+    [
+      "wounds",
+      1,
+      "anger"
+    ],
+    [
+      "love",
+      1,
+      "joy"
+    ],
+    [
+      "festival",
+      1,
+      "surprise"
+    ],
+    [
+      "coming",
+      1,
+      "anticipation"
+    ],
+    [
+      "age",
+      1,
+      "anticipation"
     ],
     [
       "epidemic",
@@ -341,51 +376,16 @@
       "soured",
       1,
       "disgust"
-    ],
-    [
-      "cry",
-      1,
-      "sadness"
-    ],
-    [
-      "shattered",
-      1,
-      "sadness"
-    ],
-    [
-      "massacres",
-      1,
-      "anger"
-    ],
-    [
-      "lost",
-      1,
-      "sadness"
-    ],
-    [
-      "relatives",
-      1,
-      "trust"
-    ],
-    [
-      "people",
-      1,
-      "trust"
-    ],
-    [
-      "riot",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 67,
-    "fear": 58,
-    "surprise": 16,
-    "sadness": 17,
+    "fear": 57,
+    "surprise": 17,
+    "sadness": 18,
     "disgust": 7,
-    "anger": 78,
-    "anticipation": 30
+    "anger": 79,
+    "anticipation": 32
   }
 }
