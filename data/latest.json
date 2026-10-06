@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T14:32:08.421Z",
+  "generated_at": "2026-10-06T14:47:11.201Z",
   "article_count": 50,
   "top_words": [
     [
       "school",
-      10,
+      9,
       "trust"
     ],
     [
@@ -83,11 +83,6 @@
       "surprise"
     ],
     [
-      "injured",
-      3,
-      "fear"
-    ],
-    [
       "separatist",
       3,
       "anger"
@@ -96,6 +91,11 @@
       "expert",
       3,
       "trust"
+    ],
+    [
+      "plans",
+      2,
+      "anticipation"
     ],
     [
       "launch",
@@ -193,9 +193,9 @@
       "trust"
     ],
     [
-      "happened",
+      "injured",
       2,
-      "anticipation"
+      "fear"
     ],
     [
       "start",
@@ -228,6 +228,11 @@
       "surprise"
     ],
     [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "military",
       2,
       "fear"
@@ -243,8 +248,13 @@
       "anticipation"
     ],
     [
-      "people",
-      2,
+      "probation",
+      1,
+      "fear"
+    ],
+    [
+      "safeguards",
+      1,
       "trust"
     ],
     [
@@ -366,21 +376,11 @@
       "official",
       1,
       "trust"
-    ],
-    [
-      "fired",
-      1,
-      "fear"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 67,
+    "trust": 65,
     "fear": 52,
     "surprise": 16,
     "sadness": 16,
