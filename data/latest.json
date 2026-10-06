@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T12:30:54.311Z",
+  "generated_at": "2026-10-06T12:45:56.811Z",
   "article_count": 50,
   "top_words": [
     [
       "school",
-      8,
+      9,
       "trust"
     ],
     [
@@ -16,6 +16,11 @@
       "police",
       6,
       "fear"
+    ],
+    [
+      "expected",
+      4,
+      "anticipation"
     ],
     [
       "war",
@@ -68,11 +73,6 @@
       "surprise"
     ],
     [
-      "expected",
-      3,
-      "anticipation"
-    ],
-    [
       "injured",
       3,
       "fear"
@@ -85,6 +85,11 @@
     [
       "separatist",
       3,
+      "anger"
+    ],
+    [
+      "protesters",
+      2,
       "anger"
     ],
     [
@@ -238,14 +243,9 @@
       "fear"
     ],
     [
-      "launch",
-      2,
-      "anticipation"
-    ],
-    [
-      "pill",
-      2,
-      "trust"
+      "blockaded",
+      1,
+      "anger"
     ],
     [
       "served",
@@ -380,8 +380,8 @@
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 66,
-    "fear": 53,
+    "trust": 65,
+    "fear": 52,
     "surprise": 13,
     "sadness": 13,
     "disgust": 6,
