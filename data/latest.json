@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T17:33:57.777Z",
+  "generated_at": "2026-10-06T17:49:00.954Z",
   "article_count": 50,
   "top_words": [
     [
       "police",
-      8,
+      9,
       "fear"
     ],
     [
@@ -31,11 +31,6 @@
       "plague",
       4,
       "fear"
-    ],
-    [
-      "expected",
-      4,
-      "anticipation"
     ],
     [
       "attack",
@@ -88,6 +83,11 @@
       "surprise"
     ],
     [
+      "expected",
+      3,
+      "anticipation"
+    ],
+    [
       "separatist",
       3,
       "anger"
@@ -131,11 +131,6 @@
       "risk",
       2,
       "fear"
-    ],
-    [
-      "protesters",
-      2,
-      "anger"
     ],
     [
       "case",
@@ -273,6 +268,21 @@
       "trust"
     ],
     [
+      "riot",
+      1,
+      "anger"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
+    ],
+    [
+      "officers",
+      1,
+      "trust"
+    ],
+    [
       "freedom",
       1,
       "joy"
@@ -366,26 +376,16 @@
       "defamation",
       1,
       "fear"
-    ],
-    [
-      "lawsuit",
-      1,
-      "anger"
-    ],
-    [
-      "angeles",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 69,
-    "fear": 54,
+    "trust": 70,
+    "fear": 56,
     "surprise": 16,
     "sadness": 16,
     "disgust": 6,
-    "anger": 72,
-    "anticipation": 34
+    "anger": 71,
+    "anticipation": 33
   }
 }
