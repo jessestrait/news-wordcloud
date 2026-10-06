@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:30:27.452Z",
+  "generated_at": "2026-10-06T11:45:29.429Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,19 +8,14 @@
       "trust"
     ],
     [
+      "police",
+      7,
+      "fear"
+    ],
+    [
       "president",
       7,
       "trust"
-    ],
-    [
-      "attack",
-      7,
-      "anger"
-    ],
-    [
-      "police",
-      6,
-      "fear"
     ],
     [
       "war",
@@ -28,9 +23,9 @@
       "anger"
     ],
     [
-      "alleged",
-      4,
-      "fear"
+      "attack",
+      5,
+      "anger"
     ],
     [
       "result",
@@ -63,11 +58,6 @@
       "joy"
     ],
     [
-      "pilot",
-      3,
-      "trust"
-    ],
-    [
       "expected",
       3,
       "anticipation"
@@ -83,14 +73,14 @@
       "fear"
     ],
     [
-      "investigation",
-      3,
-      "anticipation"
-    ],
-    [
       "separatist",
       3,
       "anger"
+    ],
+    [
+      "general",
+      2,
+      "trust"
     ],
     [
       "disgraced",
@@ -133,6 +123,11 @@
       "anger"
     ],
     [
+      "alleged",
+      2,
+      "fear"
+    ],
+    [
       "strikes",
       2,
       "anger"
@@ -146,6 +141,11 @@
       "surge",
       2,
       "surprise"
+    ],
+    [
+      "pilot",
+      2,
+      "trust"
     ],
     [
       "public",
@@ -176,6 +176,11 @@
       "law",
       2,
       "trust"
+    ],
+    [
+      "investigation",
+      2,
+      "anticipation"
     ],
     [
       "independence",
@@ -231,6 +236,86 @@
       "pill",
       2,
       "trust"
+    ],
+    [
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "official",
+      1,
+      "trust"
+    ],
+    [
+      "fired",
+      1,
+      "fear"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "appealing",
+      1,
+      "anticipation"
+    ],
+    [
+      "dismissal",
+      1,
+      "anger"
+    ],
+    [
+      "accused",
+      1,
+      "anger"
+    ],
+    [
+      "director",
+      1,
+      "trust"
+    ],
+    [
+      "games",
+      1,
+      "anticipation"
+    ],
+    [
+      "barricades",
+      1,
+      "fear"
+    ],
+    [
+      "shopping",
+      1,
+      "surprise"
+    ],
+    [
+      "rage",
+      1,
+      "anger"
+    ],
+    [
+      "unprecedented",
+      1,
+      "surprise"
+    ],
+    [
+      "income",
+      1,
+      "sadness"
+    ],
+    [
+      "ugly",
+      1,
+      "disgust"
+    ],
+    [
+      "brutality",
+      1,
+      "anger"
     ],
     [
       "ambassador",
@@ -291,101 +376,16 @@
       "tariffs",
       1,
       "anger"
-    ],
-    [
-      "outcry",
-      1,
-      "anger"
-    ],
-    [
-      "marine",
-      1,
-      "trust"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
-      "crimes",
-      1,
-      "anger"
-    ],
-    [
-      "constant",
-      1,
-      "trust"
-    ],
-    [
-      "tension",
-      1,
-      "anger"
-    ],
-    [
-      "hurt",
-      1,
-      "anger"
-    ],
-    [
-      "guardian",
-      1,
-      "trust"
-    ],
-    [
-      "shock",
-      1,
-      "anger"
-    ],
-    [
-      "victory",
-      1,
-      "joy"
-    ],
-    [
-      "failures",
-      1,
-      "fear"
-    ],
-    [
-      "strength",
-      1,
-      "trust"
-    ],
-    [
-      "church",
-      1,
-      "joy"
-    ],
-    [
-      "threatens",
-      1,
-      "anger"
-    ],
-    [
-      "expel",
-      1,
-      "anger"
-    ],
-    [
-      "closure",
-      1,
-      "sadness"
-    ],
-    [
-      "expulsions",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 62,
+    "joy": 26,
+    "trust": 64,
     "fear": 52,
-    "surprise": 12,
-    "sadness": 11,
-    "disgust": 5,
-    "anger": 73,
+    "surprise": 13,
+    "sadness": 12,
+    "disgust": 6,
+    "anger": 74,
     "anticipation": 34
   }
 }
