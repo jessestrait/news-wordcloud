@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:19:24.982Z",
+  "generated_at": "2026-10-06T18:34:27.412Z",
   "article_count": 50,
   "top_words": [
     [
@@ -91,6 +91,11 @@
       "separatist",
       3,
       "anger"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "clashes",
@@ -371,11 +376,6 @@
       "betrayal",
       1,
       "anger"
-    ],
-    [
-      "trust",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 15,
     "disgust": 7,
     "anger": 71,
-    "anticipation": 34
+    "anticipation": 35
   }
 }
