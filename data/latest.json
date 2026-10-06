@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:50:16.236Z",
+  "generated_at": "2026-10-06T20:05:18.310Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,6 +93,11 @@
       "anger"
     ],
     [
+      "friends",
+      2,
+      "joy"
+    ],
+    [
       "happened",
       2,
       "anticipation"
@@ -148,11 +153,6 @@
       "fear"
     ],
     [
-      "arrived",
-      2,
-      "anticipation"
-    ],
-    [
       "intelligence",
       2,
       "fear"
@@ -194,11 +194,6 @@
     ],
     [
       "destroyed",
-      2,
-      "anger"
-    ],
-    [
-      "strikes",
       2,
       "anger"
     ],
@@ -263,8 +258,23 @@
       "fear"
     ],
     [
-      "chancellor",
-      2,
+      "cry",
+      1,
+      "sadness"
+    ],
+    [
+      "shattered",
+      1,
+      "sadness"
+    ],
+    [
+      "lost",
+      1,
+      "sadness"
+    ],
+    [
+      "relatives",
+      1,
       "trust"
     ],
     [
@@ -366,26 +376,16 @@
       "sue",
       1,
       "anger"
-    ],
-    [
-      "friends",
-      1,
-      "joy"
-    ],
-    [
-      "betrayal",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 67,
+    "joy": 27,
+    "trust": 66,
     "fear": 56,
     "surprise": 16,
-    "sadness": 15,
+    "sadness": 18,
     "disgust": 7,
-    "anger": 71,
-    "anticipation": 35
+    "anger": 70,
+    "anticipation": 32
   }
 }
