@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:15:51.712Z",
+  "generated_at": "2026-10-06T12:30:54.311Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "president",
-      7,
+      8,
       "trust"
     ],
     [
@@ -19,12 +19,12 @@
     ],
     [
       "war",
-      5,
+      4,
       "anger"
     ],
     [
       "attack",
-      5,
+      4,
       "anger"
     ],
     [
@@ -41,6 +41,11 @@
       "clashes",
       3,
       "anger"
+    ],
+    [
+      "alleged",
+      3,
+      "fear"
     ],
     [
       "trump",
@@ -81,6 +86,11 @@
       "separatist",
       3,
       "anger"
+    ],
+    [
+      "intelligence",
+      2,
+      "fear"
     ],
     [
       "general",
@@ -133,19 +143,9 @@
       "trust"
     ],
     [
-      "strategy",
-      2,
-      "anticipation"
-    ],
-    [
       "threat",
       2,
       "anger"
-    ],
-    [
-      "alleged",
-      2,
-      "fear"
     ],
     [
       "strikes",
@@ -245,6 +245,11 @@
     [
       "pill",
       2,
+      "trust"
+    ],
+    [
+      "served",
+      1,
       "trust"
     ],
     [
@@ -371,21 +376,16 @@
       "alarm",
       1,
       "fear"
-    ],
-    [
-      "govern",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 64,
-    "fear": 51,
+    "trust": 66,
+    "fear": 53,
     "surprise": 13,
     "sadness": 13,
     "disgust": 6,
-    "anger": 72,
-    "anticipation": 35
+    "anger": 70,
+    "anticipation": 34
   }
 }
