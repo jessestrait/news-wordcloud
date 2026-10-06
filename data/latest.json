@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-06T03:54:52.800Z",
+  "generated_at": "2026-10-06T04:09:55.069Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      11,
+      10,
       "anger"
     ],
     [
       "school",
-      8,
+      7,
       "trust"
     ],
     [
@@ -33,6 +33,11 @@
       "joy"
     ],
     [
+      "alleged",
+      4,
+      "fear"
+    ],
+    [
       "pilot",
       4,
       "trust"
@@ -44,11 +49,6 @@
     ],
     [
       "destroyed",
-      3,
-      "anger"
-    ],
-    [
-      "strikes",
       3,
       "anger"
     ],
@@ -83,14 +83,14 @@
       "anticipation"
     ],
     [
-      "alleged",
-      3,
-      "fear"
-    ],
-    [
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
     ],
     [
       "economy",
@@ -208,9 +208,34 @@
       "anger"
     ],
     [
-      "hospital",
-      2,
-      "fear"
+      "outcry",
+      1,
+      "anger"
+    ],
+    [
+      "marine",
+      1,
+      "trust"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
+    ],
+    [
+      "crimes",
+      1,
+      "anger"
+    ],
+    [
+      "constant",
+      1,
+      "trust"
+    ],
+    [
+      "tension",
+      1,
+      "anger"
     ],
     [
       "hurt",
@@ -343,45 +368,20 @@
       "trust"
     ],
     [
+      "hospitals",
+      1,
+      "fear"
+    ],
+    [
       "death",
       1,
       "sadness"
-    ],
-    [
-      "friction",
-      1,
-      "anger"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
-      "khan",
-      1,
-      "fear"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
-    ],
-    [
-      "jail",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 62,
-    "fear": 54,
+    "trust": 63,
+    "fear": 53,
     "surprise": 12,
     "sadness": 12,
     "disgust": 4,
