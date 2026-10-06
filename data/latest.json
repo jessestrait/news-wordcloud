@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:04:22.637Z",
+  "generated_at": "2026-10-06T18:19:24.982Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "joy"
     ],
     [
-      "clashes",
-      3,
-      "anger"
-    ],
-    [
       "letter",
       3,
       "anticipation"
@@ -95,6 +90,11 @@
     [
       "separatist",
       3,
+      "anger"
+    ],
+    [
+      "clashes",
+      2,
       "anger"
     ],
     [
@@ -385,7 +385,7 @@
     "surprise": 16,
     "sadness": 15,
     "disgust": 7,
-    "anger": 72,
+    "anger": 71,
     "anticipation": 34
   }
 }
