@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:06:54.285Z",
+  "generated_at": "2026-10-06T23:21:56.579Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,9 +18,9 @@
       "trust"
     ],
     [
-      "war",
+      "plague",
       4,
-      "anger"
+      "fear"
     ],
     [
       "death",
@@ -28,9 +28,9 @@
       "sadness"
     ],
     [
-      "plague",
+      "war",
       4,
-      "fear"
+      "anger"
     ],
     [
       "attack",
@@ -51,6 +51,11 @@
       "world",
       3,
       "trust"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "public",
@@ -83,6 +88,16 @@
       "anger"
     ],
     [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "violence",
       2,
       "anger"
@@ -101,11 +116,6 @@
       "clashes",
       2,
       "anger"
-    ],
-    [
-      "letter",
-      2,
-      "anticipation"
     ],
     [
       "fear",
@@ -136,11 +146,6 @@
       "launch",
       2,
       "anticipation"
-    ],
-    [
-      "risk",
-      2,
-      "fear"
     ],
     [
       "experts",
@@ -228,11 +233,6 @@
       "surprise"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "investigation",
       2,
       "anticipation"
@@ -260,6 +260,46 @@
     [
       "military",
       2,
+      "fear"
+    ],
+    [
+      "epidemic",
+      1,
+      "anger"
+    ],
+    [
+      "organization",
+      1,
+      "surprise"
+    ],
+    [
+      "levels",
+      1,
+      "trust"
+    ],
+    [
+      "threatening",
+      1,
+      "anger"
+    ],
+    [
+      "intense",
+      1,
+      "anger"
+    ],
+    [
+      "damaging",
+      1,
+      "anger"
+    ],
+    [
+      "storms",
+      1,
+      "anger"
+    ],
+    [
+      "cyclones",
+      1,
       "fear"
     ],
     [
@@ -336,56 +376,16 @@
       "riot",
       1,
       "anger"
-    ],
-    [
-      "fire",
-      1,
-      "fear"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
-    ],
-    [
-      "john",
-      1,
-      "disgust"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
-    ],
-    [
-      "urgent",
-      1,
-      "fear"
-    ],
-    [
-      "special",
-      1,
-      "joy"
-    ],
-    [
-      "seizure",
-      1,
-      "fear"
-    ],
-    [
-      "rage",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 25,
     "trust": 67,
-    "fear": 57,
+    "fear": 58,
     "surprise": 16,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 7,
-    "anger": 72,
-    "anticipation": 31
+    "anger": 78,
+    "anticipation": 30
   }
 }
