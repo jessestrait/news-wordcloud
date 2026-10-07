@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:03:22.769Z",
+  "generated_at": "2026-10-07T18:18:24.803Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,19 +28,24 @@
       "trust"
     ],
     [
+      "brutality",
+      3,
+      "anger"
+    ],
+    [
       "continue",
       3,
       "trust"
     ],
     [
-      "intelligence",
-      3,
-      "fear"
-    ],
-    [
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "intelligence",
+      3,
+      "fear"
     ],
     [
       "world",
@@ -103,9 +108,14 @@
       "surprise"
     ],
     [
-      "brutality",
+      "grenades",
       2,
-      "anger"
+      "fear"
+    ],
+    [
+      "lost",
+      2,
+      "sadness"
     ],
     [
       "accused",
@@ -136,11 +146,6 @@
       "people",
       2,
       "trust"
-    ],
-    [
-      "grenades",
-      2,
-      "fear"
     ],
     [
       "leaders",
@@ -328,6 +333,16 @@
       "trust"
     ],
     [
+      "rejects",
+      1,
+      "anger"
+    ],
+    [
+      "accusations",
+      1,
+      "anger"
+    ],
+    [
       "court",
       1,
       "anger"
@@ -361,21 +376,6 @@
       "bombed",
       1,
       "anger"
-    ],
-    [
-      "gift",
-      1,
-      "surprise"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
-    ],
-    [
-      "pay",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 76,
     "fear": 54,
     "surprise": 19,
-    "sadness": 17,
+    "sadness": 18,
     "disgust": 4,
-    "anger": 95,
+    "anger": 98,
     "anticipation": 33
   }
 }
