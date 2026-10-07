@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:46:38.191Z",
+  "generated_at": "2026-10-07T15:01:40.740Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "attack",
-      6,
+      7,
       "anger"
     ],
     [
@@ -31,16 +31,6 @@
       "continue",
       4,
       "trust"
-    ],
-    [
-      "plague",
-      4,
-      "fear"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "world",
@@ -63,19 +53,9 @@
       "anticipation"
     ],
     [
-      "hospitals",
-      3,
-      "fear"
-    ],
-    [
       "bank",
       3,
       "trust"
-    ],
-    [
-      "case",
-      3,
-      "fear"
     ],
     [
       "investigation",
@@ -98,6 +78,16 @@
       "anger"
     ],
     [
+      "plague",
+      3,
+      "fear"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
       "fear",
       3,
       "anger"
@@ -111,6 +101,11 @@
       "brutality",
       2,
       "anger"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "leaders",
@@ -213,9 +208,19 @@
       "anger"
     ],
     [
+      "hospitals",
+      2,
+      "fear"
+    ],
+    [
       "power",
       2,
       "anticipation"
+    ],
+    [
+      "case",
+      2,
+      "fear"
     ],
     [
       "government",
@@ -328,6 +333,21 @@
       "trust"
     ],
     [
+      "show",
+      1,
+      "trust"
+    ],
+    [
+      "harmed",
+      1,
+      "fear"
+    ],
+    [
+      "changing",
+      1,
+      "fear"
+    ],
+    [
       "pay",
       1,
       "joy"
@@ -356,34 +376,14 @@
       "seek",
       1,
       "anticipation"
-    ],
-    [
-      "father",
-      1,
-      "trust"
-    ],
-    [
-      "rule",
-      1,
-      "fear"
-    ],
-    [
-      "bear",
-      1,
-      "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
     "trust": 78,
-    "fear": 58,
+    "fear": 57,
     "surprise": 19,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 5,
     "anger": 93,
     "anticipation": 33
