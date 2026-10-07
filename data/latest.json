@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:28:08.951Z",
+  "generated_at": "2026-10-07T08:43:11.396Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "joy"
     ],
     [
+      "launch",
+      3,
+      "anticipation"
+    ],
+    [
       "series",
       3,
       "trust"
@@ -59,11 +64,6 @@
     ],
     [
       "power",
-      3,
-      "anticipation"
-    ],
-    [
-      "launch",
       3,
       "anticipation"
     ],
@@ -113,11 +113,6 @@
       "surprise"
     ],
     [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
       "devastating",
       2,
       "anger"
@@ -126,6 +121,11 @@
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
     ],
     [
       "independence",
