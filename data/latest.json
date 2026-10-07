@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T11:44:56.002Z",
+  "generated_at": "2026-10-07T11:59:58.491Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,11 @@
       "surprise"
     ],
     [
+      "success",
+      2,
+      "joy"
+    ],
+    [
       "music",
       2,
       "joy"
@@ -131,11 +136,6 @@
       "strikes",
       2,
       "anger"
-    ],
-    [
-      "success",
-      2,
-      "joy"
     ],
     [
       "birthday",
@@ -298,6 +298,36 @@
       "surprise"
     ],
     [
+      "advance",
+      1,
+      "fear"
+    ],
+    [
+      "grim",
+      1,
+      "anger"
+    ],
+    [
+      "jolt",
+      1,
+      "surprise"
+    ],
+    [
+      "polls",
+      1,
+      "trust"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
       "star",
       1,
       "joy"
@@ -311,31 +341,6 @@
       "foray",
       1,
       "anger"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "advance",
-      1,
-      "fear"
-    ],
-    [
-      "jolt",
-      1,
-      "surprise"
-    ],
-    [
-      "polls",
-      1,
-      "trust"
     ],
     [
       "bombed",
@@ -371,11 +376,6 @@
       "trade",
       1,
       "trust"
-    ],
-    [
-      "nurse",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 20,
     "sadness": 16,
     "disgust": 5,
-    "anger": 87,
+    "anger": 88,
     "anticipation": 32
   }
 }
