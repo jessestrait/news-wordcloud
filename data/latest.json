@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T06:11:38.652Z",
+  "generated_at": "2026-10-07T06:26:41.100Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,19 @@
       "trust"
     ],
     [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
+      "war",
+      5,
+      "anger"
+    ],
+    [
       "president",
       5,
       "trust"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "investigation",
@@ -31,11 +36,6 @@
       "alleged",
       4,
       "fear"
-    ],
-    [
-      "war",
-      4,
-      "anger"
     ],
     [
       "plague",
@@ -51,6 +51,11 @@
       "housing",
       4,
       "joy"
+    ],
+    [
+      "launch",
+      3,
+      "anticipation"
     ],
     [
       "bank",
@@ -83,11 +88,6 @@
       "anger"
     ],
     [
-      "world",
-      3,
-      "trust"
-    ],
-    [
       "public",
       3,
       "anticipation"
@@ -103,14 +103,19 @@
       "surprise"
     ],
     [
+      "devastating",
+      2,
+      "anger"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
       "independence",
       2,
       "surprise"
-    ],
-    [
-      "launch",
-      2,
-      "anticipation"
     ],
     [
       "iran",
@@ -146,6 +151,11 @@
       "risk",
       2,
       "fear"
+    ],
+    [
+      "world",
+      2,
+      "trust"
     ],
     [
       "violence",
@@ -366,26 +376,16 @@
       "organization",
       1,
       "surprise"
-    ],
-    [
-      "levels",
-      1,
-      "trust"
-    ],
-    [
-      "threatening",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 69,
+    "trust": 67,
     "fear": 55,
     "surprise": 17,
     "sadness": 18,
     "disgust": 7,
-    "anger": 81,
-    "anticipation": 31
+    "anger": 85,
+    "anticipation": 32
   }
 }
