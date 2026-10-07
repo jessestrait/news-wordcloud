@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:00:43.637Z",
+  "generated_at": "2026-10-07T13:15:46.186Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,22 +38,22 @@
       "sadness"
     ],
     [
-      "series",
-      3,
-      "trust"
-    ],
-    [
-      "public",
-      3,
-      "anticipation"
-    ],
-    [
       "world",
       3,
       "trust"
     ],
     [
       "launch",
+      3,
+      "anticipation"
+    ],
+    [
+      "series",
+      3,
+      "trust"
+    ],
+    [
+      "public",
       3,
       "anticipation"
     ],
@@ -113,21 +113,6 @@
       "surprise"
     ],
     [
-      "strategy",
-      2,
-      "anticipation"
-    ],
-    [
-      "strikes",
-      2,
-      "anger"
-    ],
-    [
-      "housing",
-      2,
-      "joy"
-    ],
-    [
       "leaders",
       2,
       "trust"
@@ -141,6 +126,21 @@
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "strategy",
+      2,
+      "anticipation"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
+      "housing",
+      2,
+      "joy"
     ],
     [
       "grenades",
@@ -298,6 +298,16 @@
       "fear"
     ],
     [
+      "pay",
+      1,
+      "joy"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
       "terror",
       1,
       "fear"
@@ -321,16 +331,6 @@
       "change",
       1,
       "fear"
-    ],
-    [
-      "pay",
-      1,
-      "joy"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
     ],
     [
       "advance",
