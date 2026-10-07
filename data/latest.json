@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-07T20:34:52.864Z",
+  "generated_at": "2026-10-07T20:49:55.134Z",
   "article_count": 50,
   "top_words": [
-    [
-      "police",
-      8,
-      "fear"
-    ],
     [
       "president",
       8,
       "trust"
     ],
     [
-      "attack",
+      "police",
       7,
+      "fear"
+    ],
+    [
+      "attack",
+      6,
       "anger"
     ],
     [
@@ -23,9 +23,19 @@
       "anger"
     ],
     [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
       "school",
       5,
       "trust"
+    ],
+    [
+      "plague",
+      4,
+      "fear"
     ],
     [
       "hit",
@@ -33,9 +43,9 @@
       "anger"
     ],
     [
-      "death",
-      4,
-      "sadness"
+      "risk",
+      3,
+      "fear"
     ],
     [
       "brutality",
@@ -86,11 +96,6 @@
       "director",
       3,
       "trust"
-    ],
-    [
-      "plague",
-      3,
-      "fear"
     ],
     [
       "surge",
@@ -268,11 +273,6 @@
       "anticipation"
     ],
     [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
       "violence",
       2,
       "anger"
@@ -311,6 +311,21 @@
       "unity",
       2,
       "trust"
+    ],
+    [
+      "suspected",
+      1,
+      "fear"
+    ],
+    [
+      "sharing",
+      1,
+      "joy"
+    ],
+    [
+      "assessment",
+      1,
+      "surprise"
     ],
     [
       "rejects",
@@ -361,31 +376,16 @@
       "jolt",
       1,
       "surprise"
-    ],
-    [
-      "polls",
-      1,
-      "trust"
-    ],
-    [
-      "illness",
-      1,
-      "fear"
-    ],
-    [
-      "euthanasia",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 77,
-    "fear": 57,
-    "surprise": 18,
-    "sadness": 17,
+    "joy": 28,
+    "trust": 76,
+    "fear": 59,
+    "surprise": 19,
+    "sadness": 18,
     "disgust": 4,
-    "anger": 97,
+    "anger": 96,
     "anticipation": 30
   }
 }
