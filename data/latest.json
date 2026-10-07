@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T02:09:08.780Z",
+  "generated_at": "2026-10-07T02:24:11.065Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "joy"
     ],
     [
+      "alleged",
+      3,
+      "fear"
+    ],
+    [
       "director",
       3,
       "trust"
@@ -68,11 +73,6 @@
       "anticipation"
     ],
     [
-      "alleged",
-      3,
-      "fear"
-    ],
-    [
       "supporters",
       3,
       "joy"
@@ -90,6 +90,11 @@
     [
       "separatist",
       3,
+      "anger"
+    ],
+    [
+      "outcry",
+      2,
       "anger"
     ],
     [
@@ -129,11 +134,6 @@
     ],
     [
       "fear",
-      2,
-      "anger"
-    ],
-    [
-      "outcry",
       2,
       "anger"
     ],
@@ -268,6 +268,31 @@
       "fear"
     ],
     [
+      "marine",
+      1,
+      "trust"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
+    ],
+    [
+      "crimes",
+      1,
+      "anger"
+    ],
+    [
+      "constant",
+      1,
+      "trust"
+    ],
+    [
+      "tension",
+      1,
+      "anger"
+    ],
+    [
       "don",
       1,
       "trust"
@@ -351,31 +376,6 @@
       "bank",
       1,
       "trust"
-    ],
-    [
-      "covering",
-      1,
-      "trust"
-    ],
-    [
-      "rifles",
-      1,
-      "anger"
-    ],
-    [
-      "ambassador",
-      1,
-      "trust"
-    ],
-    [
-      "friendship",
-      1,
-      "joy"
-    ],
-    [
-      "soured",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
