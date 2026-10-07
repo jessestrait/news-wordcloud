@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:13:35.789Z",
+  "generated_at": "2026-10-07T09:28:38.316Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "fear"
     ],
     [
-      "school",
-      8,
-      "trust"
-    ],
-    [
       "attack",
       8,
       "anger"
+    ],
+    [
+      "school",
+      8,
+      "trust"
     ],
     [
       "president",
@@ -48,6 +48,11 @@
       "joy"
     ],
     [
+      "series",
+      3,
+      "trust"
+    ],
+    [
       "happened",
       3,
       "anticipation"
@@ -56,11 +61,6 @@
       "launch",
       3,
       "anticipation"
-    ],
-    [
-      "series",
-      3,
-      "trust"
     ],
     [
       "hospitals",
@@ -113,6 +113,11 @@
       "surprise"
     ],
     [
+      "injured",
+      2,
+      "fear"
+    ],
+    [
       "grenades",
       2,
       "fear"
@@ -123,6 +128,11 @@
       "trust"
     ],
     [
+      "festival",
+      2,
+      "surprise"
+    ],
+    [
       "devastating",
       2,
       "anger"
@@ -131,11 +141,6 @@
       "gaza",
       2,
       "anger"
-    ],
-    [
-      "injured",
-      2,
-      "fear"
     ],
     [
       "power",
@@ -268,14 +273,14 @@
       "surprise"
     ],
     [
-      "interior",
-      1,
-      "disgust"
-    ],
-    [
       "birthday",
       1,
       "surprise"
+    ],
+    [
+      "music",
+      1,
+      "joy"
     ],
     [
       "nurse",
@@ -371,20 +376,15 @@
       "wounds",
       1,
       "anger"
-    ],
-    [
-      "love",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 69,
     "fear": 62,
-    "surprise": 17,
+    "surprise": 18,
     "sadness": 16,
-    "disgust": 7,
+    "disgust": 6,
     "anger": 84,
     "anticipation": 31
   }
