@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:59:02.208Z",
+  "generated_at": "2026-10-07T10:14:04.278Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,14 +48,14 @@
       "joy"
     ],
     [
-      "launch",
-      3,
-      "anticipation"
-    ],
-    [
       "series",
       3,
       "trust"
+    ],
+    [
+      "launch",
+      3,
+      "anticipation"
     ],
     [
       "happened",
@@ -113,6 +113,16 @@
       "surprise"
     ],
     [
+      "strategy",
+      2,
+      "anticipation"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
       "festival",
       2,
       "surprise"
@@ -124,16 +134,6 @@
     ],
     [
       "gaza",
-      2,
-      "anger"
-    ],
-    [
-      "strategy",
-      2,
-      "anticipation"
-    ],
-    [
-      "strikes",
       2,
       "anger"
     ],
@@ -278,11 +278,6 @@
       "surprise"
     ],
     [
-      "music",
-      1,
-      "joy"
-    ],
-    [
       "terror",
       1,
       "fear"
@@ -291,6 +286,11 @@
       "deadly",
       1,
       "anger"
+    ],
+    [
+      "music",
+      1,
+      "joy"
     ],
     [
       "nurse",
