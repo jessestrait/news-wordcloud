@@ -1,20 +1,15 @@
 {
-  "generated_at": "2026-10-07T17:02:57.861Z",
+  "generated_at": "2026-10-07T17:17:59.997Z",
   "article_count": 50,
   "top_words": [
     [
       "police",
-      9,
+      8,
       "fear"
     ],
     [
       "president",
       8,
-      "trust"
-    ],
-    [
-      "school",
-      7,
       "trust"
     ],
     [
@@ -28,13 +23,23 @@
       "anger"
     ],
     [
-      "continue",
-      4,
+      "school",
+      5,
       "trust"
     ],
     [
+      "continue",
+      3,
+      "trust"
+    ],
+    [
+      "intelligence",
+      3,
+      "fear"
+    ],
+    [
       "happened",
-      4,
+      3,
       "anticipation"
     ],
     [
@@ -98,14 +103,19 @@
       "surprise"
     ],
     [
-      "letter",
-      2,
-      "anticipation"
-    ],
-    [
       "brutality",
       2,
       "anger"
+    ],
+    [
+      "accused",
+      2,
+      "anger"
+    ],
+    [
+      "letter",
+      2,
+      "anticipation"
     ],
     [
       "birthday",
@@ -273,11 +283,6 @@
       "joy"
     ],
     [
-      "clashes",
-      2,
-      "anger"
-    ],
-    [
       "threaten",
       2,
       "anger"
@@ -291,11 +296,6 @@
       "experts",
       2,
       "trust"
-    ],
-    [
-      "intelligence",
-      2,
-      "fear"
     ],
     [
       "official",
@@ -318,6 +318,31 @@
       "trust"
     ],
     [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "continuing",
+      1,
+      "trust"
+    ],
+    [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "detention",
+      1,
+      "sadness"
+    ],
+    [
+      "treason",
+      1,
+      "anger"
+    ],
+    [
       "clan",
       1,
       "trust"
@@ -329,16 +354,6 @@
     ],
     [
       "council",
-      1,
-      "trust"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
-    ],
-    [
-      "continuing",
       1,
       "trust"
     ],
@@ -361,31 +376,16 @@
       "pay",
       1,
       "joy"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
-      "bear",
-      1,
-      "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 79,
-    "fear": 55,
+    "trust": 76,
+    "fear": 54,
     "surprise": 19,
-    "sadness": 16,
+    "sadness": 17,
     "disgust": 4,
-    "anger": 93,
-    "anticipation": 34
+    "anger": 95,
+    "anticipation": 33
   }
 }
