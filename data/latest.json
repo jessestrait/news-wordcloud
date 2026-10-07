@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:32:10.368Z",
+  "generated_at": "2026-10-07T15:47:12.998Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,21 @@
       "anger"
     ],
     [
+      "leaders",
+      2,
+      "trust"
+    ],
+    [
+      "devastating",
+      2,
+      "anger"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
       "closure",
       2,
       "sadness"
@@ -136,21 +151,6 @@
       "military",
       2,
       "fear"
-    ],
-    [
-      "leaders",
-      2,
-      "trust"
-    ],
-    [
-      "devastating",
-      2,
-      "anger"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
     ],
     [
       "storm",
@@ -333,6 +333,16 @@
       "trust"
     ],
     [
+      "pay",
+      1,
+      "joy"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
       "bear",
       1,
       "anger"
@@ -366,22 +376,12 @@
       "suggest",
       1,
       "trust"
-    ],
-    [
-      "seek",
-      1,
-      "anticipation"
-    ],
-    [
-      "father",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
     "trust": 78,
-    "fear": 57,
+    "fear": 56,
     "surprise": 19,
     "sadness": 15,
     "disgust": 5,
