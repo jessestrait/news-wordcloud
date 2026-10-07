@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:46:09.732Z",
+  "generated_at": "2026-10-07T14:01:11.856Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "school",
-      9,
+      8,
       "trust"
     ],
     [
@@ -38,6 +38,11 @@
       "sadness"
     ],
     [
+      "continue",
+      3,
+      "trust"
+    ],
+    [
       "world",
       3,
       "trust"
@@ -46,11 +51,6 @@
       "launch",
       3,
       "anticipation"
-    ],
-    [
-      "continue",
-      3,
-      "trust"
     ],
     [
       "public",
@@ -108,9 +108,19 @@
       "surprise"
     ],
     [
-      "hope",
-      3,
-      "surprise"
+      "brutality",
+      2,
+      "anger"
+    ],
+    [
+      "storm",
+      2,
+      "anger"
+    ],
+    [
+      "hurricane",
+      2,
+      "fear"
     ],
     [
       "leaders",
@@ -128,14 +138,9 @@
       "anger"
     ],
     [
-      "brutality",
+      "hopes",
       2,
-      "anger"
-    ],
-    [
-      "housing",
-      2,
-      "joy"
+      "surprise"
     ],
     [
       "grenades",
@@ -293,6 +298,31 @@
       "fear"
     ],
     [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "continuing",
+      1,
+      "trust"
+    ],
+    [
+      "forecast",
+      1,
+      "trust"
+    ],
+    [
+      "succeeded",
+      1,
+      "surprise"
+    ],
+    [
+      "depression",
+      1,
+      "sadness"
+    ],
+    [
       "pay",
       1,
       "joy"
@@ -303,14 +333,9 @@
       "anger"
     ],
     [
-      "denies",
+      "housing",
       1,
-      "anger"
-    ],
-    [
-      "continuing",
-      1,
-      "trust"
+      "joy"
     ],
     [
       "wary",
@@ -351,41 +376,16 @@
       "music",
       1,
       "joy"
-    ],
-    [
-      "star",
-      1,
-      "joy"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "foray",
-      1,
-      "anger"
-    ],
-    [
-      "bombed",
-      1,
-      "anger"
-    ],
-    [
-      "gift",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 25,
     "trust": 75,
-    "fear": 58,
-    "surprise": 20,
-    "sadness": 16,
+    "fear": 59,
+    "surprise": 19,
+    "sadness": 15,
     "disgust": 5,
-    "anger": 87,
+    "anger": 88,
     "anticipation": 32
   }
 }
