@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:30:19.576Z",
+  "generated_at": "2026-10-07T12:45:21.688Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "fear"
     ],
     [
-      "president",
+      "school",
       8,
       "trust"
     ],
     [
-      "school",
+      "president",
       8,
       "trust"
     ],
@@ -38,9 +38,9 @@
       "sadness"
     ],
     [
-      "series",
+      "public",
       3,
-      "trust"
+      "anticipation"
     ],
     [
       "world",
@@ -53,14 +53,19 @@
       "anticipation"
     ],
     [
-      "destroyed",
-      3,
-      "anger"
-    ],
-    [
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "series",
+      3,
+      "trust"
+    ],
+    [
+      "destroyed",
+      3,
+      "anger"
     ],
     [
       "hospitals",
@@ -88,11 +93,6 @@
       "fear"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "director",
       3,
       "trust"
@@ -108,14 +108,14 @@
       "surprise"
     ],
     [
-      "strategy",
-      2,
-      "anticipation"
+      "hope",
+      3,
+      "surprise"
     ],
     [
-      "strikes",
+      "housing",
       2,
-      "anger"
+      "joy"
     ],
     [
       "leaders",
@@ -129,6 +129,26 @@
     ],
     [
       "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "grenades",
+      2,
+      "fear"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
+      "strategy",
+      2,
+      "anticipation"
+    ],
+    [
+      "strikes",
       2,
       "anger"
     ],
@@ -163,19 +183,14 @@
       "anger"
     ],
     [
-      "grenades",
-      2,
-      "fear"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
-    ],
-    [
       "power",
       2,
       "anticipation"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "second",
@@ -238,11 +253,6 @@
       "anticipation"
     ],
     [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
       "experts",
       2,
       "trust"
@@ -288,19 +298,19 @@
       "fear"
     ],
     [
-      "hope",
-      2,
-      "surprise"
-    ],
-    [
-      "terror",
+      "wary",
       1,
       "fear"
     ],
     [
-      "deadly",
+      "challenge",
       1,
       "anger"
+    ],
+    [
+      "change",
+      1,
+      "fear"
     ],
     [
       "pay",
@@ -309,6 +319,16 @@
     ],
     [
       "victims",
+      1,
+      "anger"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
+    ],
+    [
+      "deadly",
       1,
       "anger"
     ],
@@ -356,36 +376,16 @@
       "bombed",
       1,
       "anger"
-    ],
-    [
-      "gift",
-      1,
-      "surprise"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
-    ],
-    [
-      "majority",
-      1,
-      "joy"
-    ],
-    [
-      "doubt",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 74,
     "fear": 58,
-    "surprise": 19,
+    "surprise": 20,
     "sadness": 16,
     "disgust": 5,
-    "anger": 89,
-    "anticipation": 32
+    "anger": 88,
+    "anticipation": 33
   }
 }
