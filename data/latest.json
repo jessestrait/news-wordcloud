@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T11:29:53.250Z",
+  "generated_at": "2026-10-07T11:44:56.002Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,9 +38,9 @@
       "sadness"
     ],
     [
-      "destroyed",
+      "launch",
       3,
-      "anger"
+      "anticipation"
     ],
     [
       "series",
@@ -48,9 +48,9 @@
       "trust"
     ],
     [
-      "launch",
+      "destroyed",
       3,
-      "anticipation"
+      "anger"
     ],
     [
       "happened",
@@ -88,11 +88,6 @@
       "fear"
     ],
     [
-      "economy",
-      3,
-      "trust"
-    ],
-    [
       "director",
       3,
       "trust"
@@ -106,6 +101,36 @@
       "surge",
       3,
       "surprise"
+    ],
+    [
+      "music",
+      2,
+      "joy"
+    ],
+    [
+      "festival",
+      2,
+      "surprise"
+    ],
+    [
+      "devastating",
+      2,
+      "anger"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "strategy",
+      2,
+      "anticipation"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
     ],
     [
       "success",
@@ -126,31 +151,6 @@
       "people",
       2,
       "trust"
-    ],
-    [
-      "strategy",
-      2,
-      "anticipation"
-    ],
-    [
-      "strikes",
-      2,
-      "anger"
-    ],
-    [
-      "festival",
-      2,
-      "surprise"
-    ],
-    [
-      "devastating",
-      2,
-      "anger"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
     ],
     [
       "separatists",
@@ -178,12 +178,12 @@
       "anticipation"
     ],
     [
-      "iran",
+      "second",
       2,
-      "anger"
+      "trust"
     ],
     [
-      "second",
+      "economy",
       2,
       "trust"
     ],
@@ -258,6 +258,11 @@
       "fear"
     ],
     [
+      "official",
+      2,
+      "trust"
+    ],
+    [
       "green",
       2,
       "joy"
@@ -293,6 +298,31 @@
       "surprise"
     ],
     [
+      "star",
+      1,
+      "joy"
+    ],
+    [
+      "late",
+      1,
+      "sadness"
+    ],
+    [
+      "foray",
+      1,
+      "anger"
+    ],
+    [
+      "terror",
+      1,
+      "fear"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
       "advance",
       1,
       "fear"
@@ -308,7 +338,7 @@
       "trust"
     ],
     [
-      "bombing",
+      "bombed",
       1,
       "anger"
     ],
@@ -321,21 +351,6 @@
       "building",
       1,
       "anticipation"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "music",
-      1,
-      "joy"
     ],
     [
       "majority",
@@ -361,31 +376,16 @@
       "nurse",
       1,
       "trust"
-    ],
-    [
-      "stripped",
-      1,
-      "anger"
-    ],
-    [
-      "resources",
-      1,
-      "joy"
-    ],
-    [
-      "supplies",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 25,
     "trust": 72,
-    "fear": 60,
+    "fear": 58,
     "surprise": 20,
     "sadness": 16,
     "disgust": 5,
-    "anger": 88,
+    "anger": 87,
     "anticipation": 32
   }
 }
