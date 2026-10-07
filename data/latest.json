@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:48:44.803Z",
+  "generated_at": "2026-10-07T19:03:47.582Z",
   "article_count": 50,
   "top_words": [
     [
@@ -25,6 +25,16 @@
     [
       "school",
       5,
+      "trust"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
+    ],
+    [
+      "people",
+      3,
       "trust"
     ],
     [
@@ -54,11 +64,6 @@
     ],
     [
       "launch",
-      3,
-      "anticipation"
-    ],
-    [
-      "public",
       3,
       "anticipation"
     ],
@@ -93,19 +98,19 @@
       "fear"
     ],
     [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
-      "fear",
-      3,
-      "anger"
-    ],
-    [
       "surge",
       3,
       "surprise"
+    ],
+    [
+      "assisted",
+      2,
+      "trust"
+    ],
+    [
+      "clash",
+      2,
+      "anger"
     ],
     [
       "grenades",
@@ -141,11 +146,6 @@
       "killing",
       2,
       "anger"
-    ],
-    [
-      "people",
-      2,
-      "trust"
     ],
     [
       "leaders",
@@ -206,6 +206,11 @@
       "hopes",
       2,
       "surprise"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
     ],
     [
       "success",
@@ -288,14 +293,14 @@
       "joy"
     ],
     [
-      "threaten",
+      "fear",
       2,
       "anger"
     ],
     [
-      "plans",
+      "threaten",
       2,
-      "anticipation"
+      "anger"
     ],
     [
       "experts",
@@ -323,6 +328,36 @@
       "trust"
     ],
     [
+      "dying",
+      1,
+      "sadness"
+    ],
+    [
+      "exclusion",
+      1,
+      "fear"
+    ],
+    [
+      "illness",
+      1,
+      "fear"
+    ],
+    [
+      "ruling",
+      1,
+      "fear"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "doctor",
+      1,
+      "trust"
+    ],
+    [
       "denies",
       1,
       "anger"
@@ -341,51 +376,16 @@
       "accusations",
       1,
       "anger"
-    ],
-    [
-      "court",
-      1,
-      "anger"
-    ],
-    [
-      "detention",
-      1,
-      "sadness"
-    ],
-    [
-      "treason",
-      1,
-      "anger"
-    ],
-    [
-      "clan",
-      1,
-      "trust"
-    ],
-    [
-      "mistake",
-      1,
-      "sadness"
-    ],
-    [
-      "council",
-      1,
-      "trust"
-    ],
-    [
-      "bombed",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 76,
-    "fear": 54,
+    "joy": 27,
+    "trust": 79,
+    "fear": 57,
     "surprise": 19,
-    "sadness": 18,
+    "sadness": 19,
     "disgust": 4,
     "anger": 98,
-    "anticipation": 33
+    "anticipation": 31
   }
 }
