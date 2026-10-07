@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:41:16.181Z",
+  "generated_at": "2026-10-07T05:56:18.490Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "president",
-      6,
+      5,
       "trust"
     ],
     [
@@ -51,6 +51,16 @@
       "housing",
       4,
       "joy"
+    ],
+    [
+      "bank",
+      3,
+      "trust"
+    ],
+    [
+      "case",
+      3,
+      "fear"
     ],
     [
       "government",
@@ -93,9 +103,14 @@
       "surprise"
     ],
     [
-      "separatist",
-      3,
-      "anger"
+      "independence",
+      2,
+      "surprise"
+    ],
+    [
+      "launch",
+      2,
+      "anticipation"
     ],
     [
       "iran",
@@ -173,11 +188,6 @@
       "trust"
     ],
     [
-      "case",
-      2,
-      "fear"
-    ],
-    [
       "intelligence",
       2,
       "fear"
@@ -204,6 +214,11 @@
     ],
     [
       "voted",
+      2,
+      "anger"
+    ],
+    [
+      "separatists",
       2,
       "anger"
     ],
@@ -258,14 +273,19 @@
       "anticipation"
     ],
     [
-      "independence",
-      2,
-      "surprise"
+      "inquiry",
+      1,
+      "anticipation"
     ],
     [
-      "leader",
-      2,
+      "leading",
+      1,
       "trust"
+    ],
+    [
+      "powerful",
+      1,
+      "anger"
     ],
     [
       "conflict",
@@ -356,26 +376,6 @@
       "threatening",
       1,
       "anger"
-    ],
-    [
-      "intense",
-      1,
-      "anger"
-    ],
-    [
-      "damaging",
-      1,
-      "anger"
-    ],
-    [
-      "storms",
-      1,
-      "anger"
-    ],
-    [
-      "cyclones",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 17,
     "sadness": 18,
     "disgust": 7,
-    "anger": 82,
-    "anticipation": 30
+    "anger": 81,
+    "anticipation": 31
   }
 }
