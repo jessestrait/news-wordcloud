@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:01:40.740Z",
+  "generated_at": "2026-10-07T15:16:43.212Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,27 +98,17 @@
       "surprise"
     ],
     [
+      "closure",
+      2,
+      "sadness"
+    ],
+    [
+      "expulsion",
+      2,
+      "anger"
+    ],
+    [
       "brutality",
-      2,
-      "anger"
-    ],
-    [
-      "military",
-      2,
-      "fear"
-    ],
-    [
-      "leaders",
-      2,
-      "trust"
-    ],
-    [
-      "devastating",
-      2,
-      "anger"
-    ],
-    [
-      "gaza",
       2,
       "anger"
     ],
@@ -143,12 +133,22 @@
       "anger"
     ],
     [
-      "closure",
+      "military",
       2,
-      "sadness"
+      "fear"
     ],
     [
-      "expulsion",
+      "leaders",
+      2,
+      "trust"
+    ],
+    [
+      "devastating",
+      2,
+      "anger"
+    ],
+    [
+      "gaza",
       2,
       "anger"
     ],
@@ -323,6 +323,26 @@
       "anticipation"
     ],
     [
+      "bear",
+      1,
+      "anger"
+    ],
+    [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "retaliatory",
+      1,
+      "anger"
+    ],
+    [
       "denies",
       1,
       "anger"
@@ -331,31 +351,6 @@
       "continuing",
       1,
       "trust"
-    ],
-    [
-      "show",
-      1,
-      "trust"
-    ],
-    [
-      "harmed",
-      1,
-      "fear"
-    ],
-    [
-      "changing",
-      1,
-      "fear"
-    ],
-    [
-      "pay",
-      1,
-      "joy"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
     ],
     [
       "coup",
@@ -376,6 +371,11 @@
       "seek",
       1,
       "anticipation"
+    ],
+    [
+      "father",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
