@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-07T19:19:07.865Z",
+  "generated_at": "2026-10-07T19:34:10.359Z",
   "article_count": 50,
   "top_words": [
-    [
-      "police",
-      8,
-      "fear"
-    ],
     [
       "president",
       8,
       "trust"
+    ],
+    [
+      "police",
+      8,
+      "fear"
     ],
     [
       "attack",
@@ -33,17 +33,17 @@
       "sadness"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "brutality",
       3,
       "anger"
     ],
     [
       "continue",
+      3,
+      "trust"
+    ],
+    [
+      "people",
       3,
       "trust"
     ],
@@ -103,14 +103,19 @@
       "surprise"
     ],
     [
-      "assisted",
-      2,
-      "trust"
-    ],
-    [
-      "clash",
+      "storm",
       2,
       "anger"
+    ],
+    [
+      "hurricane",
+      2,
+      "fear"
+    ],
+    [
+      "success",
+      2,
+      "joy"
     ],
     [
       "grenades",
@@ -121,6 +126,16 @@
       "lost",
       2,
       "sadness"
+    ],
+    [
+      "assisted",
+      2,
+      "trust"
+    ],
+    [
+      "clash",
+      2,
+      "anger"
     ],
     [
       "accused",
@@ -193,16 +208,6 @@
       "fear"
     ],
     [
-      "storm",
-      2,
-      "anger"
-    ],
-    [
-      "hurricane",
-      2,
-      "fear"
-    ],
-    [
       "hopes",
       2,
       "surprise"
@@ -211,11 +216,6 @@
       "public",
       2,
       "anticipation"
-    ],
-    [
-      "success",
-      2,
-      "joy"
     ],
     [
       "separatists",
@@ -328,42 +328,37 @@
       "trust"
     ],
     [
-      "dying",
-      1,
-      "sadness"
-    ],
-    [
-      "exclusion",
-      1,
-      "fear"
-    ],
-    [
-      "illness",
-      1,
-      "fear"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
-      "doctor",
+      "forecast",
       1,
       "trust"
     ],
     [
-      "denies",
+      "succeeded",
+      1,
+      "surprise"
+    ],
+    [
+      "depression",
+      1,
+      "sadness"
+    ],
+    [
+      "advance",
+      1,
+      "fear"
+    ],
+    [
+      "grim",
       1,
       "anger"
     ],
     [
-      "continuing",
+      "jolt",
+      1,
+      "surprise"
+    ],
+    [
+      "polls",
       1,
       "trust"
     ],
@@ -376,6 +371,11 @@
       "accusations",
       1,
       "anger"
+    ],
+    [
+      "dying",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
