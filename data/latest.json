@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T11:59:58.491Z",
+  "generated_at": "2026-10-07T12:15:00.985Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,11 +103,6 @@
       "surprise"
     ],
     [
-      "success",
-      2,
-      "joy"
-    ],
-    [
       "music",
       2,
       "joy"
@@ -126,6 +121,11 @@
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "success",
+      2,
+      "joy"
     ],
     [
       "strategy",
