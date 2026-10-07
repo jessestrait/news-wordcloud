@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:45:21.688Z",
+  "generated_at": "2026-10-07T13:00:23.834Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "fear"
     ],
     [
-      "school",
+      "president",
       8,
       "trust"
     ],
     [
-      "president",
+      "school",
       8,
       "trust"
     ],
@@ -38,6 +38,11 @@
       "sadness"
     ],
     [
+      "series",
+      3,
+      "trust"
+    ],
+    [
       "public",
       3,
       "anticipation"
@@ -56,11 +61,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "series",
-      3,
-      "trust"
     ],
     [
       "destroyed",
@@ -113,6 +113,16 @@
       "surprise"
     ],
     [
+      "strategy",
+      2,
+      "anticipation"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
       "housing",
       2,
       "joy"
@@ -141,16 +151,6 @@
       "continue",
       2,
       "trust"
-    ],
-    [
-      "strategy",
-      2,
-      "anticipation"
-    ],
-    [
-      "strikes",
-      2,
-      "anger"
     ],
     [
       "success",
@@ -298,6 +298,16 @@
       "fear"
     ],
     [
+      "terror",
+      1,
+      "fear"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
       "wary",
       1,
       "fear"
@@ -319,16 +329,6 @@
     ],
     [
       "victims",
-      1,
-      "anger"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "deadly",
       1,
       "anger"
     ],
