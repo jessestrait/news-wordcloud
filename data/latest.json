@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-07T16:47:55.835Z",
+  "generated_at": "2026-10-07T17:02:57.861Z",
   "article_count": 50,
   "top_words": [
     [
       "police",
-      10,
+      9,
       "fear"
     ],
     [
@@ -14,7 +14,7 @@
     ],
     [
       "school",
-      8,
+      7,
       "trust"
     ],
     [
@@ -98,6 +98,11 @@
       "surprise"
     ],
     [
+      "letter",
+      2,
+      "anticipation"
+    ],
+    [
       "brutality",
       2,
       "anger"
@@ -151,11 +156,6 @@
       "expulsion",
       2,
       "anger"
-    ],
-    [
-      "grow",
-      2,
-      "joy"
     ],
     [
       "surprise",
@@ -318,9 +318,19 @@
       "trust"
     ],
     [
-      "expected",
-      2,
-      "anticipation"
+      "clan",
+      1,
+      "trust"
+    ],
+    [
+      "mistake",
+      1,
+      "sadness"
+    ],
+    [
+      "council",
+      1,
+      "trust"
     ],
     [
       "denies",
@@ -366,25 +376,15 @@
       "prepares",
       1,
       "anticipation"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
-      "retaliatory",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 78,
-    "fear": 56,
+    "joy": 26,
+    "trust": 79,
+    "fear": 55,
     "surprise": 19,
-    "sadness": 15,
-    "disgust": 5,
+    "sadness": 16,
+    "disgust": 4,
     "anger": 93,
     "anticipation": 34
   }
