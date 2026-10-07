@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:34:10.359Z",
+  "generated_at": "2026-10-07T19:49:12.921Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
       "death",
       4,
       "sadness"
@@ -39,11 +44,6 @@
     ],
     [
       "continue",
-      3,
-      "trust"
-    ],
-    [
-      "people",
       3,
       "trust"
     ],
@@ -88,11 +88,6 @@
       "trust"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "plague",
       3,
       "fear"
@@ -101,6 +96,11 @@
       "surge",
       3,
       "surprise"
+    ],
+    [
+      "advance",
+      2,
+      "fear"
     ],
     [
       "storm",
@@ -126,11 +126,6 @@
       "lost",
       2,
       "sadness"
-    ],
-    [
-      "assisted",
-      2,
-      "trust"
     ],
     [
       "clash",
@@ -163,6 +158,11 @@
       "anger"
     ],
     [
+      "people",
+      2,
+      "trust"
+    ],
+    [
       "leaders",
       2,
       "trust"
@@ -174,16 +174,6 @@
     ],
     [
       "gaza",
-      2,
-      "anger"
-    ],
-    [
-      "closure",
-      2,
-      "sadness"
-    ],
-    [
-      "expulsion",
       2,
       "anger"
     ],
@@ -298,11 +288,6 @@
       "anger"
     ],
     [
-      "threaten",
-      2,
-      "anger"
-    ],
-    [
       "experts",
       2,
       "trust"
@@ -328,6 +313,21 @@
       "trust"
     ],
     [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
+      "explosive",
+      1,
+      "anger"
+    ],
+    [
       "forecast",
       1,
       "trust"
@@ -341,11 +341,6 @@
       "depression",
       1,
       "sadness"
-    ],
-    [
-      "advance",
-      1,
-      "fear"
     ],
     [
       "grim",
@@ -373,19 +368,24 @@
       "anger"
     ],
     [
-      "dying",
+      "illness",
       1,
-      "sadness"
+      "fear"
+    ],
+    [
+      "euthanasia",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 79,
+    "trust": 77,
     "fear": 57,
-    "surprise": 19,
-    "sadness": 19,
+    "surprise": 18,
+    "sadness": 17,
     "disgust": 4,
-    "anger": 98,
-    "anticipation": 31
+    "anger": 97,
+    "anticipation": 30
   }
 }
