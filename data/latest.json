@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-07T19:49:30.802Z",
+  "generated_at": "2026-10-07T20:04:33.089Z",
   "article_count": 50,
   "top_words": [
-    [
-      "president",
-      8,
-      "trust"
-    ],
     [
       "police",
       8,
       "fear"
+    ],
+    [
+      "president",
+      8,
+      "trust"
     ],
     [
       "attack",
@@ -98,6 +98,16 @@
       "surprise"
     ],
     [
+      "grenades",
+      2,
+      "fear"
+    ],
+    [
+      "lost",
+      2,
+      "sadness"
+    ],
+    [
       "advance",
       2,
       "fear"
@@ -116,16 +126,6 @@
       "success",
       2,
       "joy"
-    ],
-    [
-      "grenades",
-      2,
-      "fear"
-    ],
-    [
-      "lost",
-      2,
-      "sadness"
     ],
     [
       "clash",
@@ -313,6 +313,16 @@
       "trust"
     ],
     [
+      "rejects",
+      1,
+      "anger"
+    ],
+    [
+      "accusations",
+      1,
+      "anger"
+    ],
+    [
       "forces",
       1,
       "anger"
@@ -356,16 +366,6 @@
       "polls",
       1,
       "trust"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "accusations",
-      1,
-      "anger"
     ],
     [
       "illness",
