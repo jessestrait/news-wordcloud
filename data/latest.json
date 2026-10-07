@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:12:47.750Z",
+  "generated_at": "2026-10-07T08:27:49.847Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "joy"
     ],
     [
+      "series",
+      3,
+      "trust"
+    ],
+    [
       "hospitals",
       3,
       "fear"
@@ -61,11 +66,6 @@
       "launch",
       3,
       "anticipation"
-    ],
-    [
-      "series",
-      3,
-      "trust"
     ],
     [
       "bank",
@@ -113,6 +113,11 @@
       "surprise"
     ],
     [
+      "injured",
+      2,
+      "fear"
+    ],
+    [
       "devastating",
       2,
       "anger"
@@ -121,11 +126,6 @@
       "gaza",
       2,
       "anger"
-    ],
-    [
-      "injured",
-      2,
-      "fear"
     ],
     [
       "independence",
@@ -273,6 +273,11 @@
       "trust"
     ],
     [
+      "birthday",
+      1,
+      "surprise"
+    ],
+    [
       "nurse",
       1,
       "trust"
@@ -296,11 +301,6 @@
       "military",
       1,
       "fear"
-    ],
-    [
-      "birthday",
-      1,
-      "surprise"
     ],
     [
       "inquiry",
