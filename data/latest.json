@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:17:03.321Z",
+  "generated_at": "2026-10-07T15:32:10.368Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,17 +98,17 @@
       "surprise"
     ],
     [
+      "brutality",
+      2,
+      "anger"
+    ],
+    [
       "closure",
       2,
       "sadness"
     ],
     [
       "expulsion",
-      2,
-      "anger"
-    ],
-    [
-      "brutality",
       2,
       "anger"
     ],
@@ -323,6 +323,16 @@
       "anticipation"
     ],
     [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "continuing",
+      1,
+      "trust"
+    ],
+    [
       "bear",
       1,
       "anger"
@@ -341,16 +351,6 @@
       "retaliatory",
       1,
       "anger"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
-    ],
-    [
-      "continuing",
-      1,
-      "trust"
     ],
     [
       "coup",
