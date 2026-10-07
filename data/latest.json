@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:17:35.703Z",
+  "generated_at": "2026-10-07T16:32:37.752Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "fear"
     ],
     [
-      "school",
+      "president",
       8,
       "trust"
     ],
     [
-      "president",
+      "school",
       8,
       "trust"
     ],
@@ -98,14 +98,34 @@
       "surprise"
     ],
     [
-      "grenades",
-      2,
-      "fear"
-    ],
-    [
       "brutality",
       2,
       "anger"
+    ],
+    [
+      "birthday",
+      2,
+      "surprise"
+    ],
+    [
+      "destroyed",
+      2,
+      "anger"
+    ],
+    [
+      "killing",
+      2,
+      "anger"
+    ],
+    [
+      "people",
+      2,
+      "trust"
+    ],
+    [
+      "grenades",
+      2,
+      "fear"
     ],
     [
       "leaders",
@@ -176,26 +196,6 @@
       "success",
       2,
       "joy"
-    ],
-    [
-      "birthday",
-      2,
-      "surprise"
-    ],
-    [
-      "destroyed",
-      2,
-      "anger"
-    ],
-    [
-      "killing",
-      2,
-      "anger"
-    ],
-    [
-      "people",
-      2,
-      "trust"
     ],
     [
       "separatists",
@@ -333,6 +333,21 @@
       "trust"
     ],
     [
+      "bombed",
+      1,
+      "anger"
+    ],
+    [
+      "gift",
+      1,
+      "surprise"
+    ],
+    [
+      "building",
+      1,
+      "anticipation"
+    ],
+    [
       "pay",
       1,
       "joy"
@@ -361,21 +376,6 @@
       "retaliatory",
       1,
       "anger"
-    ],
-    [
-      "coup",
-      1,
-      "anger"
-    ],
-    [
-      "vows",
-      1,
-      "joy"
-    ],
-    [
-      "suggest",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
