@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:57:45.516Z",
+  "generated_at": "2026-10-07T08:12:47.750Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anticipation"
     ],
     [
-      "alleged",
-      4,
-      "fear"
-    ],
-    [
       "plague",
       4,
       "fear"
@@ -51,6 +46,16 @@
       "housing",
       4,
       "joy"
+    ],
+    [
+      "hospitals",
+      3,
+      "fear"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "launch",
@@ -69,6 +74,11 @@
     ],
     [
       "case",
+      3,
+      "fear"
+    ],
+    [
+      "alleged",
       3,
       "fear"
     ],
@@ -243,11 +253,6 @@
       "joy"
     ],
     [
-      "pilot",
-      2,
-      "trust"
-    ],
-    [
       "expected",
       2,
       "anticipation"
@@ -256,11 +261,6 @@
       "operation",
       2,
       "fear"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "hope",
@@ -273,9 +273,29 @@
       "trust"
     ],
     [
-      "power",
-      2,
-      "anticipation"
+      "nurse",
+      1,
+      "trust"
+    ],
+    [
+      "stripped",
+      1,
+      "anger"
+    ],
+    [
+      "resources",
+      1,
+      "joy"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
+      "military",
+      1,
+      "fear"
     ],
     [
       "birthday",
@@ -356,36 +376,16 @@
       "festival",
       1,
       "surprise"
-    ],
-    [
-      "coming",
-      1,
-      "anticipation"
-    ],
-    [
-      "age",
-      1,
-      "anticipation"
-    ],
-    [
-      "epidemic",
-      1,
-      "anger"
-    ],
-    [
-      "organization",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 69,
-    "fear": 56,
+    "joy": 25,
+    "trust": 68,
+    "fear": 59,
     "surprise": 18,
     "sadness": 16,
     "disgust": 6,
-    "anger": 85,
+    "anger": 86,
     "anticipation": 31
   }
 }
