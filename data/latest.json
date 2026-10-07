@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-10-07T11:14:32.208Z",
+  "generated_at": "2026-10-07T11:29:34.634Z",
   "article_count": 50,
   "top_words": [
     [
       "police",
-      10,
+      9,
       "fear"
+    ],
+    [
+      "president",
+      8,
+      "trust"
     ],
     [
       "school",
@@ -18,19 +23,9 @@
       "anger"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "war",
       6,
       "anger"
-    ],
-    [
-      "investigation",
-      4,
-      "anticipation"
     ],
     [
       "plague",
@@ -41,6 +36,11 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "destroyed",
+      3,
+      "anger"
     ],
     [
       "series",
@@ -73,6 +73,11 @@
       "fear"
     ],
     [
+      "investigation",
+      3,
+      "anticipation"
+    ],
+    [
       "alleged",
       3,
       "fear"
@@ -103,9 +108,24 @@
       "surprise"
     ],
     [
-      "housing",
-      3,
+      "success",
+      2,
       "joy"
+    ],
+    [
+      "birthday",
+      2,
+      "surprise"
+    ],
+    [
+      "killing",
+      2,
+      "anger"
+    ],
+    [
+      "people",
+      2,
+      "trust"
     ],
     [
       "strategy",
@@ -248,19 +268,9 @@
       "surprise"
     ],
     [
-      "voted",
-      2,
-      "anger"
-    ],
-    [
       "unity",
       2,
       "trust"
-    ],
-    [
-      "destroyed",
-      2,
-      "anger"
     ],
     [
       "supporters",
@@ -281,6 +291,36 @@
       "hope",
       2,
       "surprise"
+    ],
+    [
+      "advance",
+      1,
+      "fear"
+    ],
+    [
+      "jolt",
+      1,
+      "surprise"
+    ],
+    [
+      "polls",
+      1,
+      "trust"
+    ],
+    [
+      "bombing",
+      1,
+      "anger"
+    ],
+    [
+      "gift",
+      1,
+      "surprise"
+    ],
+    [
+      "building",
+      1,
+      "anticipation"
     ],
     [
       "terror",
@@ -336,56 +376,16 @@
       "supplies",
       1,
       "fear"
-    ],
-    [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "independence",
-      1,
-      "surprise"
-    ],
-    [
-      "inquiry",
-      1,
-      "anticipation"
-    ],
-    [
-      "leading",
-      1,
-      "trust"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "solidarity",
-      1,
-      "trust"
-    ],
-    [
-      "aggression",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 69,
-    "fear": 62,
-    "surprise": 16,
+    "joy": 23,
+    "trust": 72,
+    "fear": 60,
+    "surprise": 20,
     "sadness": 16,
-    "disgust": 6,
-    "anger": 87,
+    "disgust": 5,
+    "anger": 88,
     "anticipation": 32
   }
 }
