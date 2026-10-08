@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:26:45.332Z",
+  "generated_at": "2026-10-08T10:41:47.437Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,16 @@
       "anticipation"
     ],
     [
+      "wildfires",
+      3,
+      "fear"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
       "hospital",
       3,
       "fear"
@@ -93,14 +103,19 @@
       "trust"
     ],
     [
+      "devastating",
+      2,
+      "anger"
+    ],
+    [
+      "blaze",
+      2,
+      "anger"
+    ],
+    [
       "promise",
       2,
       "joy"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "growing",
@@ -218,24 +233,19 @@
       "trust"
     ],
     [
-      "leaders",
-      2,
-      "trust"
-    ],
-    [
       "launch",
       2,
       "anticipation"
     ],
     [
+      "show",
+      2,
+      "trust"
+    ],
+    [
       "hopes",
       2,
       "surprise"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "case",
@@ -303,6 +313,11 @@
       "surprise"
     ],
     [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
       "system",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "focus",
       1,
       "trust"
-    ],
-    [
-      "educational",
-      1,
-      "trust"
-    ],
-    [
-      "inequalities",
-      1,
-      "anger"
-    ],
-    [
-      "legal",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 69,
-    "fear": 64,
+    "trust": 68,
+    "fear": 65,
     "surprise": 15,
     "sadness": 21,
     "disgust": 4,
-    "anger": 108,
+    "anger": 110,
     "anticipation": 30
   }
 }
