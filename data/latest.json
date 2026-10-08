@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:39:24.852Z",
+  "generated_at": "2026-10-08T05:54:26.589Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,13 +23,18 @@
       "fear"
     ],
     [
+      "school",
+      5,
+      "trust"
+    ],
+    [
       "death",
       5,
       "sadness"
     ],
     [
-      "school",
-      5,
+      "people",
+      4,
       "trust"
     ],
     [
@@ -61,11 +66,6 @@
       "military",
       3,
       "fear"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "housing",
@@ -188,6 +188,11 @@
       "surprise"
     ],
     [
+      "building",
+      2,
+      "anticipation"
+    ],
+    [
       "killing",
       2,
       "anger"
@@ -293,6 +298,46 @@
       "anger"
     ],
     [
+      "young",
+      1,
+      "surprise"
+    ],
+    [
+      "youth",
+      1,
+      "anger"
+    ],
+    [
+      "crumbling",
+      1,
+      "sadness"
+    ],
+    [
+      "teacher",
+      1,
+      "trust"
+    ],
+    [
+      "shortages",
+      1,
+      "anger"
+    ],
+    [
+      "focus",
+      1,
+      "trust"
+    ],
+    [
+      "educational",
+      1,
+      "trust"
+    ],
+    [
+      "inequalities",
+      1,
+      "anger"
+    ],
+    [
       "legal",
       1,
       "trust"
@@ -331,61 +376,16 @@
       "suspicions",
       1,
       "fear"
-    ],
-    [
-      "gross",
-      1,
-      "disgust"
-    ],
-    [
-      "wildfires",
-      1,
-      "fear"
-    ],
-    [
-      "haze",
-      1,
-      "fear"
-    ],
-    [
-      "class",
-      1,
-      "sadness"
-    ],
-    [
-      "manage",
-      1,
-      "trust"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
-    ],
-    [
-      "ships",
-      1,
-      "anticipation"
-    ],
-    [
-      "launching",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 67,
+    "joy": 25,
+    "trust": 70,
     "fear": 65,
-    "surprise": 14,
-    "sadness": 21,
-    "disgust": 5,
+    "surprise": 15,
+    "sadness": 22,
+    "disgust": 4,
     "anger": 111,
-    "anticipation": 30
+    "anticipation": 31
   }
 }
