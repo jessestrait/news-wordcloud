@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:43:32.800Z",
+  "generated_at": "2026-10-08T13:58:35.386Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
+      "school",
+      6,
+      "trust"
+    ],
+    [
       "war",
       6,
       "anger"
-    ],
-    [
-      "police",
-      6,
-      "fear"
     ],
     [
       "death",
@@ -33,9 +33,14 @@
       "trust"
     ],
     [
-      "school",
-      5,
+      "continue",
+      4,
       "trust"
+    ],
+    [
+      "government",
+      4,
+      "fear"
     ],
     [
       "housing",
@@ -44,6 +49,11 @@
     ],
     [
       "military",
+      4,
+      "fear"
+    ],
+    [
+      "police",
       4,
       "fear"
     ],
@@ -63,24 +73,9 @@
       "fear"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "hospital",
       3,
       "fear"
-    ],
-    [
-      "government",
-      3,
-      "fear"
-    ],
-    [
-      "continue",
-      3,
-      "trust"
     ],
     [
       "president",
@@ -101,6 +96,36 @@
       "investigation",
       3,
       "anticipation"
+    ],
+    [
+      "vow",
+      2,
+      "joy"
+    ],
+    [
+      "challenge",
+      2,
+      "anger"
+    ],
+    [
+      "law",
+      2,
+      "trust"
+    ],
+    [
+      "court",
+      2,
+      "anger"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
+      "leaders",
+      2,
+      "trust"
     ],
     [
       "focus",
@@ -131,6 +156,11 @@
       "blaze",
       2,
       "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "constant",
@@ -268,6 +298,11 @@
       "trust"
     ],
     [
+      "change",
+      2,
+      "fear"
+    ],
+    [
       "case",
       2,
       "fear"
@@ -276,11 +311,6 @@
       "alleged",
       2,
       "fear"
-    ],
-    [
-      "outcry",
-      2,
-      "anger"
     ],
     [
       "cry",
@@ -303,89 +333,59 @@
       "anger"
     ],
     [
-      "threaten",
-      2,
+      "vote",
+      1,
       "anger"
     ],
     [
-      "committed",
+      "controversial",
       1,
-      "trust"
+      "anger"
     ],
     [
-      "cooperation",
-      1,
-      "trust"
-    ],
-    [
-      "welcomed",
-      1,
-      "joy"
-    ],
-    [
-      "chancellor",
-      1,
-      "trust"
-    ],
-    [
-      "trip",
+      "bonus",
       1,
       "surprise"
     ],
     [
-      "berlin",
-      1,
-      "joy"
-    ],
-    [
-      "convince",
+      "system",
       1,
       "trust"
     ],
     [
-      "kills",
+      "opposition",
+      1,
+      "anger"
+    ],
+    [
+      "arguing",
+      1,
+      "anger"
+    ],
+    [
+      "reward",
+      1,
+      "surprise"
+    ],
+    [
+      "warn",
       1,
       "fear"
     ],
     [
-      "governor",
-      1,
-      "trust"
-    ],
-    [
-      "blast",
+      "demands",
       1,
       "anger"
-    ],
-    [
-      "injuries",
-      1,
-      "anger"
-    ],
-    [
-      "overwhelmed",
-      1,
-      "sadness"
-    ],
-    [
-      "fighting",
-      1,
-      "anger"
-    ],
-    [
-      "never",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 69,
-    "fear": 65,
-    "surprise": 15,
+    "joy": 24,
+    "trust": 73,
+    "fear": 63,
+    "surprise": 16,
     "sadness": 21,
     "disgust": 3,
-    "anger": 109,
+    "anger": 115,
     "anticipation": 28
   }
 }
