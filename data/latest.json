@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-08T15:14:22.749Z",
+  "generated_at": "2026-10-08T15:29:25.566Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      12,
+      11,
       "anger"
     ],
     [
@@ -13,14 +13,19 @@
       "anger"
     ],
     [
+      "death",
+      6,
+      "sadness"
+    ],
+    [
       "war",
       6,
       "anger"
     ],
     [
-      "death",
+      "housing",
       5,
-      "sadness"
+      "joy"
     ],
     [
       "continue",
@@ -31,11 +36,6 @@
       "people",
       4,
       "trust"
-    ],
-    [
-      "housing",
-      4,
-      "joy"
     ],
     [
       "military",
@@ -228,11 +228,6 @@
       "anger"
     ],
     [
-      "lost",
-      2,
-      "sadness"
-    ],
-    [
       "advance",
       2,
       "fear"
@@ -283,11 +278,6 @@
       "trust"
     ],
     [
-      "change",
-      2,
-      "fear"
-    ],
-    [
       "case",
       2,
       "fear"
@@ -324,6 +314,16 @@
     ],
     [
       "abandoned",
+      1,
+      "anger"
+    ],
+    [
+      "evicted",
+      1,
+      "sadness"
+    ],
+    [
+      "battle",
       1,
       "anger"
     ],
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 28,
     "trust": 70,
-    "fear": 61,
-    "surprise": 18,
+    "fear": 60,
+    "surprise": 17,
     "sadness": 21,
     "disgust": 2,
-    "anger": 117,
+    "anger": 115,
     "anticipation": 27
   }
 }
