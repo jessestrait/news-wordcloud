@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:33:25.024Z",
+  "generated_at": "2026-10-08T22:48:28.578Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,11 +26,6 @@
       "hit",
       5,
       "anger"
-    ],
-    [
-      "continue",
-      4,
-      "trust"
     ],
     [
       "president",
@@ -86,6 +81,11 @@
       "hospital",
       3,
       "fear"
+    ],
+    [
+      "continue",
+      3,
+      "trust"
     ],
     [
       "killing",
@@ -308,7 +308,7 @@
       "anticipation"
     ],
     [
-      "pledges",
+      "promises",
       1,
       "joy"
     ],
@@ -316,21 +316,6 @@
       "blockaded",
       1,
       "anger"
-    ],
-    [
-      "demand",
-      1,
-      "anger"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
-    ],
-    [
-      "improve",
-      1,
-      "joy"
     ],
     [
       "evicted",
@@ -376,16 +361,31 @@
       "indicted",
       1,
       "anger"
+    ],
+    [
+      "torture",
+      1,
+      "anger"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "jail",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 71,
+    "joy": 27,
+    "trust": 69,
     "fear": 57,
     "surprise": 16,
     "sadness": 21,
     "disgust": 1,
-    "anger": 113,
+    "anger": 112,
     "anticipation": 29
   }
 }
