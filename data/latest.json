@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:32:59.068Z",
+  "generated_at": "2026-10-08T21:48:01.171Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,12 +28,12 @@
       "anger"
     ],
     [
-      "president",
+      "continue",
       4,
       "trust"
     ],
     [
-      "continue",
+      "president",
       4,
       "trust"
     ],
@@ -308,6 +308,31 @@
       "anticipation"
     ],
     [
+      "pledges",
+      1,
+      "joy"
+    ],
+    [
+      "blockaded",
+      1,
+      "anger"
+    ],
+    [
+      "demand",
+      1,
+      "anger"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "improve",
+      1,
+      "joy"
+    ],
+    [
       "evicted",
       1,
       "sadness"
@@ -351,31 +376,6 @@
       "indicted",
       1,
       "anger"
-    ],
-    [
-      "torture",
-      1,
-      "anger"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
-    ],
-    [
-      "jail",
-      1,
-      "fear"
-    ],
-    [
-      "real",
-      1,
-      "trust"
-    ],
-    [
-      "pledges",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
