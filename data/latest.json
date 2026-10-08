@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:15:39.763Z",
+  "generated_at": "2026-10-08T17:30:42.310Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,11 +68,6 @@
       "anticipation"
     ],
     [
-      "hope",
-      3,
-      "surprise"
-    ],
-    [
       "wildfires",
       3,
       "fear"
@@ -136,6 +131,11 @@
       "law",
       2,
       "trust"
+    ],
+    [
+      "hope",
+      2,
+      "surprise"
     ],
     [
       "focus",
@@ -248,6 +248,11 @@
       "joy"
     ],
     [
+      "clash",
+      2,
+      "anger"
+    ],
+    [
       "birthday",
       2,
       "surprise"
@@ -303,6 +308,31 @@
       "anticipation"
     ],
     [
+      "tighten",
+      1,
+      "anger"
+    ],
+    [
+      "spat",
+      1,
+      "anger"
+    ],
+    [
+      "diplomatic",
+      1,
+      "trust"
+    ],
+    [
+      "ambitions",
+      1,
+      "joy"
+    ],
+    [
+      "fully",
+      1,
+      "trust"
+    ],
+    [
       "real",
       1,
       "trust"
@@ -346,46 +376,16 @@
       "demand",
       1,
       "anger"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
-    ],
-    [
-      "improve",
-      1,
-      "joy"
-    ],
-    [
-      "fraudulent",
-      1,
-      "anger"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
-    ],
-    [
-      "limited",
-      1,
-      "anger"
-    ],
-    [
-      "kills",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 71,
+    "trust": 72,
     "fear": 56,
-    "surprise": 15,
+    "surprise": 14,
     "sadness": 21,
-    "disgust": 2,
-    "anger": 116,
+    "disgust": 1,
+    "anger": 119,
     "anticipation": 28
   }
 }
