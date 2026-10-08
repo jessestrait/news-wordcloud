@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T04:38:45.679Z",
+  "generated_at": "2026-10-08T04:53:47.999Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,7 +24,7 @@
     ],
     [
       "death",
-      6,
+      5,
       "sadness"
     ],
     [
@@ -288,6 +288,36 @@
       "anger"
     ],
     [
+      "threaten",
+      2,
+      "anger"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
+    ],
+    [
+      "found",
+      1,
+      "joy"
+    ],
+    [
+      "broken",
+      1,
+      "anger"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
+      "guardian",
+      1,
+      "trust"
+    ],
+    [
       "giants",
       1,
       "fear"
@@ -346,46 +376,16 @@
       "launching",
       1,
       "anticipation"
-    ],
-    [
-      "strikes",
-      1,
-      "anger"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
-      "disease",
-      1,
-      "anger"
-    ],
-    [
-      "despair",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 64,
+    "joy": 26,
+    "trust": 67,
     "fear": 65,
-    "surprise": 15,
-    "sadness": 22,
+    "surprise": 14,
+    "sadness": 21,
     "disgust": 5,
-    "anger": 109,
-    "anticipation": 31
+    "anger": 111,
+    "anticipation": 30
   }
 }
