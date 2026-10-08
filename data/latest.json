@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:58:52.562Z",
+  "generated_at": "2026-10-08T14:13:54.619Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "people",
       5,
       "trust"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
     ],
     [
       "continue",
@@ -58,14 +58,19 @@
       "fear"
     ],
     [
+      "court",
+      3,
+      "anger"
+    ],
+    [
+      "public",
+      3,
+      "anticipation"
+    ],
+    [
       "hope",
       3,
       "surprise"
-    ],
-    [
-      "fire",
-      3,
-      "fear"
     ],
     [
       "wildfires",
@@ -98,6 +103,16 @@
       "anticipation"
     ],
     [
+      "leaders",
+      2,
+      "trust"
+    ],
+    [
+      "wounded",
+      2,
+      "anger"
+    ],
+    [
       "vow",
       2,
       "joy"
@@ -113,37 +128,7 @@
       "trust"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
-      "leaders",
-      2,
-      "trust"
-    ],
-    [
       "focus",
-      2,
-      "trust"
-    ],
-    [
-      "strike",
-      2,
-      "anger"
-    ],
-    [
-      "wounded",
-      2,
-      "anger"
-    ],
-    [
-      "second",
       2,
       "trust"
     ],
@@ -258,11 +243,6 @@
       "anger"
     ],
     [
-      "letter",
-      2,
-      "anticipation"
-    ],
-    [
       "birthday",
       2,
       "surprise"
@@ -328,9 +308,49 @@
       "anticipation"
     ],
     [
-      "fear",
+      "fire",
       2,
+      "fear"
+    ],
+    [
+      "warn",
+      1,
+      "fear"
+    ],
+    [
+      "demands",
+      1,
       "anger"
+    ],
+    [
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "policies",
+      1,
+      "trust"
+    ],
+    [
+      "fraudulent",
+      1,
+      "anger"
+    ],
+    [
+      "justice",
+      1,
+      "trust"
+    ],
+    [
+      "limited",
+      1,
+      "anger"
+    ],
+    [
+      "kills",
+      1,
+      "fear"
     ],
     [
       "vote",
@@ -356,36 +376,16 @@
       "opposition",
       1,
       "anger"
-    ],
-    [
-      "arguing",
-      1,
-      "anger"
-    ],
-    [
-      "reward",
-      1,
-      "surprise"
-    ],
-    [
-      "warn",
-      1,
-      "fear"
-    ],
-    [
-      "demands",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 73,
-    "fear": 63,
+    "trust": 72,
+    "fear": 62,
     "surprise": 16,
     "sadness": 21,
-    "disgust": 3,
-    "anger": 115,
+    "disgust": 2,
+    "anger": 116,
     "anticipation": 28
   }
 }
