@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:59:20.302Z",
+  "generated_at": "2026-10-08T15:14:22.749Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,16 +18,6 @@
       "anger"
     ],
     [
-      "school",
-      5,
-      "trust"
-    ],
-    [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "death",
       5,
       "sadness"
@@ -38,9 +28,9 @@
       "trust"
     ],
     [
-      "government",
+      "people",
       4,
-      "fear"
+      "trust"
     ],
     [
       "housing",
@@ -51,6 +41,16 @@
       "military",
       4,
       "fear"
+    ],
+    [
+      "school",
+      4,
+      "trust"
+    ],
+    [
+      "vow",
+      3,
+      "joy"
     ],
     [
       "hurricane",
@@ -88,7 +88,7 @@
       "fear"
     ],
     [
-      "police",
+      "government",
       3,
       "fear"
     ],
@@ -96,11 +96,6 @@
       "president",
       3,
       "trust"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "bank",
@@ -113,9 +108,9 @@
       "anticipation"
     ],
     [
-      "leaders",
+      "found",
       2,
-      "trust"
+      "joy"
     ],
     [
       "forecast",
@@ -126,11 +121,6 @@
       "wounded",
       2,
       "anger"
-    ],
-    [
-      "vow",
-      2,
-      "joy"
     ],
     [
       "challenge",
@@ -164,6 +154,11 @@
     ],
     [
       "constant",
+      2,
+      "trust"
+    ],
+    [
+      "teacher",
       2,
       "trust"
     ],
@@ -218,6 +213,11 @@
       "fear"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
       "grenades",
       2,
       "fear"
@@ -243,9 +243,9 @@
       "joy"
     ],
     [
-      "clash",
+      "happened",
       2,
-      "anger"
+      "anticipation"
     ],
     [
       "birthday",
@@ -313,24 +313,44 @@
       "anticipation"
     ],
     [
-      "warn",
-      1,
-      "fear"
-    ],
-    [
-      "demands",
+      "trespass",
       1,
       "anger"
     ],
     [
-      "protesters",
-      1,
-      "anger"
-    ],
-    [
-      "policies",
+      "patrols",
       1,
       "trust"
+    ],
+    [
+      "abandoned",
+      1,
+      "anger"
+    ],
+    [
+      "pledges",
+      1,
+      "joy"
+    ],
+    [
+      "blockaded",
+      1,
+      "anger"
+    ],
+    [
+      "demand",
+      1,
+      "anger"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "improve",
+      1,
+      "joy"
     ],
     [
       "dangerous",
@@ -356,36 +376,16 @@
       "evacuate",
       1,
       "fear"
-    ],
-    [
-      "fraudulent",
-      1,
-      "anger"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
-    ],
-    [
-      "limited",
-      1,
-      "anger"
-    ],
-    [
-      "kills",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 71,
-    "fear": 64,
+    "joy": 28,
+    "trust": 70,
+    "fear": 61,
     "surprise": 18,
     "sadness": 21,
     "disgust": 2,
-    "anger": 116,
-    "anticipation": 28
+    "anger": 117,
+    "anticipation": 27
   }
 }
