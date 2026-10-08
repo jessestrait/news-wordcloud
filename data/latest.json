@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:28:01.060Z",
+  "generated_at": "2026-10-08T12:43:03.802Z",
   "article_count": 50,
   "top_words": [
     [
@@ -308,16 +308,6 @@
       "anger"
     ],
     [
-      "convince",
-      1,
-      "trust"
-    ],
-    [
-      "general",
-      1,
-      "trust"
-    ],
-    [
       "committed",
       1,
       "trust"
@@ -348,6 +338,11 @@
       "joy"
     ],
     [
+      "convince",
+      1,
+      "trust"
+    ],
+    [
       "kills",
       1,
       "fear"
@@ -376,11 +371,16 @@
       "fighting",
       1,
       "anger"
+    ],
+    [
+      "never",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 70,
+    "trust": 69,
     "fear": 65,
     "surprise": 15,
     "sadness": 21,
