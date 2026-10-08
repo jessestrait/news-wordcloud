@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:30:42.310Z",
+  "generated_at": "2026-10-08T17:45:44.846Z",
   "article_count": 50,
   "top_words": [
     [
@@ -308,6 +308,31 @@
       "anticipation"
     ],
     [
+      "pledges",
+      1,
+      "joy"
+    ],
+    [
+      "blockaded",
+      1,
+      "anger"
+    ],
+    [
+      "demand",
+      1,
+      "anger"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "improve",
+      1,
+      "joy"
+    ],
+    [
       "tighten",
       1,
       "anger"
@@ -349,31 +374,6 @@
     ],
     [
       "abandoned",
-      1,
-      "anger"
-    ],
-    [
-      "evicted",
-      1,
-      "sadness"
-    ],
-    [
-      "battle",
-      1,
-      "anger"
-    ],
-    [
-      "pledges",
-      1,
-      "joy"
-    ],
-    [
-      "blockaded",
-      1,
-      "anger"
-    ],
-    [
-      "demand",
       1,
       "anger"
     ]
