@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:13:54.619Z",
+  "generated_at": "2026-10-08T14:28:56.538Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "school",
-      6,
-      "trust"
-    ],
-    [
       "war",
       6,
       "anger"
+    ],
+    [
+      "school",
+      5,
+      "trust"
     ],
     [
       "people",
@@ -53,9 +53,14 @@
       "fear"
     ],
     [
-      "police",
-      4,
+      "hurricane",
+      3,
       "fear"
+    ],
+    [
+      "storm",
+      3,
+      "anger"
     ],
     [
       "court",
@@ -83,6 +88,11 @@
       "fear"
     ],
     [
+      "police",
+      3,
+      "fear"
+    ],
+    [
       "president",
       3,
       "trust"
@@ -104,6 +114,11 @@
     ],
     [
       "leaders",
+      2,
+      "trust"
+    ],
+    [
+      "forecast",
       2,
       "trust"
     ],
@@ -223,16 +238,6 @@
       "fear"
     ],
     [
-      "storm",
-      2,
-      "anger"
-    ],
-    [
-      "hurricane",
-      2,
-      "fear"
-    ],
-    [
       "success",
       2,
       "joy"
@@ -308,11 +313,6 @@
       "anticipation"
     ],
     [
-      "fire",
-      2,
-      "fear"
-    ],
-    [
       "warn",
       1,
       "fear"
@@ -333,6 +333,31 @@
       "trust"
     ],
     [
+      "dangerous",
+      1,
+      "fear"
+    ],
+    [
+      "surge",
+      1,
+      "surprise"
+    ],
+    [
+      "warnings",
+      1,
+      "fear"
+    ],
+    [
+      "mouth",
+      1,
+      "surprise"
+    ],
+    [
+      "evacuate",
+      1,
+      "fear"
+    ],
+    [
       "fraudulent",
       1,
       "anger"
@@ -351,38 +376,13 @@
       "kills",
       1,
       "fear"
-    ],
-    [
-      "vote",
-      1,
-      "anger"
-    ],
-    [
-      "controversial",
-      1,
-      "anger"
-    ],
-    [
-      "bonus",
-      1,
-      "surprise"
-    ],
-    [
-      "system",
-      1,
-      "trust"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 72,
-    "fear": 62,
-    "surprise": 16,
+    "trust": 71,
+    "fear": 64,
+    "surprise": 18,
     "sadness": 21,
     "disgust": 2,
     "anger": 116,
