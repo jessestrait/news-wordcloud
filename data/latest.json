@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:01:03.448Z",
+  "generated_at": "2026-10-08T18:16:05.907Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "joy"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "continue",
       4,
       "trust"
@@ -46,6 +51,11 @@
       "school",
       4,
       "trust"
+    ],
+    [
+      "alleged",
+      3,
+      "fear"
     ],
     [
       "gaza",
@@ -83,19 +93,9 @@
       "fear"
     ],
     [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "killing",
       3,
       "anger"
-    ],
-    [
-      "bank",
-      3,
-      "trust"
     ],
     [
       "investigation",
@@ -283,12 +283,12 @@
       "trust"
     ],
     [
-      "case",
+      "bank",
       2,
-      "fear"
+      "trust"
     ],
     [
-      "alleged",
+      "case",
       2,
       "fear"
     ],
@@ -306,6 +306,26 @@
       "explores",
       2,
       "anticipation"
+    ],
+    [
+      "indicted",
+      1,
+      "anger"
+    ],
+    [
+      "torture",
+      1,
+      "anger"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "jail",
+      1,
+      "fear"
     ],
     [
       "real",
@@ -356,32 +376,12 @@
       "ambitions",
       1,
       "joy"
-    ],
-    [
-      "fully",
-      1,
-      "trust"
-    ],
-    [
-      "trespass",
-      1,
-      "anger"
-    ],
-    [
-      "patrols",
-      1,
-      "trust"
-    ],
-    [
-      "abandoned",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 72,
-    "fear": 56,
+    "trust": 71,
+    "fear": 57,
     "surprise": 14,
     "sadness": 21,
     "disgust": 1,
