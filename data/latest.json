@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:53:22.905Z",
+  "generated_at": "2026-10-08T04:08:24.952Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
       "death",
       6,
       "sadness"
@@ -43,19 +38,29 @@
       "fear"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "investigation",
       4,
       "anticipation"
     ],
     [
-      "military",
+      "lawsuit",
+      3,
+      "anger"
+    ],
+    [
+      "government",
       3,
       "fear"
     ],
     [
-      "gaza",
+      "military",
       3,
-      "anger"
+      "fear"
     ],
     [
       "people",
@@ -88,11 +93,6 @@
       "anticipation"
     ],
     [
-      "intelligence",
-      3,
-      "fear"
-    ],
-    [
       "world",
       3,
       "trust"
@@ -108,19 +108,19 @@
       "trust"
     ],
     [
-      "alleged",
-      3,
-      "fear"
+      "blue",
+      2,
+      "sadness"
     ],
     [
-      "director",
-      3,
-      "trust"
+      "beer",
+      2,
+      "joy"
     ],
     [
-      "official",
-      3,
-      "trust"
+      "accused",
+      2,
+      "anger"
     ],
     [
       "attacked",
@@ -134,6 +134,11 @@
     ],
     [
       "trump",
+      2,
+      "anger"
+    ],
+    [
+      "gaza",
       2,
       "anger"
     ],
@@ -173,11 +178,6 @@
       "anger"
     ],
     [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
       "letter",
       2,
       "anticipation"
@@ -193,22 +193,17 @@
       "anger"
     ],
     [
+      "officials",
+      2,
+      "trust"
+    ],
+    [
       "leaders",
       2,
       "trust"
     ],
     [
       "devastating",
-      2,
-      "anger"
-    ],
-    [
-      "surprise",
-      2,
-      "fear"
-    ],
-    [
-      "disgraced",
       2,
       "anger"
     ],
@@ -238,7 +233,7 @@
       "fear"
     ],
     [
-      "government",
+      "alleged",
       2,
       "fear"
     ],
@@ -263,6 +258,11 @@
       "sadness"
     ],
     [
+      "director",
+      2,
+      "trust"
+    ],
+    [
       "explores",
       2,
       "anticipation"
@@ -278,9 +278,54 @@
       "joy"
     ],
     [
+      "fire",
+      2,
+      "fear"
+    ],
+    [
       "fear",
       2,
       "anger"
+    ],
+    [
+      "giants",
+      1,
+      "fear"
+    ],
+    [
+      "raided",
+      1,
+      "anger"
+    ],
+    [
+      "suspicions",
+      1,
+      "fear"
+    ],
+    [
+      "gross",
+      1,
+      "disgust"
+    ],
+    [
+      "wildfires",
+      1,
+      "fear"
+    ],
+    [
+      "haze",
+      1,
+      "fear"
+    ],
+    [
+      "class",
+      1,
+      "sadness"
+    ],
+    [
+      "manage",
+      1,
+      "trust"
     ],
     [
       "strait",
@@ -331,61 +376,16 @@
       "despair",
       1,
       "anger"
-    ],
-    [
-      "ruins",
-      1,
-      "fear"
-    ],
-    [
-      "changed",
-      1,
-      "fear"
-    ],
-    [
-      "offensive",
-      1,
-      "anger"
-    ],
-    [
-      "dies",
-      1,
-      "fear"
-    ],
-    [
-      "eviction",
-      1,
-      "anger"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
-    ],
-    [
-      "sharing",
-      1,
-      "joy"
-    ],
-    [
-      "assessment",
-      1,
-      "surprise"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 71,
-    "fear": 64,
-    "surprise": 16,
-    "sadness": 19,
-    "disgust": 4,
-    "anger": 110,
-    "anticipation": 33
+    "joy": 25,
+    "trust": 64,
+    "fear": 65,
+    "surprise": 15,
+    "sadness": 22,
+    "disgust": 5,
+    "anger": 109,
+    "anticipation": 31
   }
 }
