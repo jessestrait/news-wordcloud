@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T11:27:11.234Z",
+  "generated_at": "2026-10-08T11:42:13.803Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "fear"
     ],
     [
-      "school",
-      6,
-      "trust"
-    ],
-    [
       "war",
       6,
       "anger"
@@ -33,8 +28,8 @@
       "trust"
     ],
     [
-      "continue",
-      4,
+      "school",
+      5,
       "trust"
     ],
     [
@@ -88,6 +83,11 @@
       "anger"
     ],
     [
+      "continue",
+      3,
+      "trust"
+    ],
+    [
       "president",
       3,
       "trust"
@@ -118,11 +118,6 @@
       "trust"
     ],
     [
-      "promise",
-      2,
-      "joy"
-    ],
-    [
       "devastating",
       2,
       "anger"
@@ -133,9 +128,9 @@
       "anger"
     ],
     [
-      "growing",
+      "constant",
       2,
-      "joy"
+      "trust"
     ],
     [
       "blue",
@@ -313,6 +308,36 @@
       "anger"
     ],
     [
+      "committed",
+      1,
+      "trust"
+    ],
+    [
+      "cooperation",
+      1,
+      "trust"
+    ],
+    [
+      "welcomed",
+      1,
+      "joy"
+    ],
+    [
+      "chancellor",
+      1,
+      "trust"
+    ],
+    [
+      "trip",
+      1,
+      "surprise"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
       "kills",
       1,
       "fear"
@@ -323,27 +348,12 @@
       "trust"
     ],
     [
-      "rejected",
+      "blast",
       1,
       "anger"
     ],
     [
-      "present",
-      1,
-      "surprise"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
-      "system",
-      1,
-      "trust"
-    ],
-    [
-      "demand",
+      "injuries",
       1,
       "anger"
     ],
@@ -366,26 +376,16 @@
       "young",
       1,
       "surprise"
-    ],
-    [
-      "youth",
-      1,
-      "anger"
-    ],
-    [
-      "crumbling",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 66,
+    "joy": 26,
+    "trust": 67,
     "fear": 67,
     "surprise": 15,
     "sadness": 21,
     "disgust": 4,
     "anger": 112,
-    "anticipation": 30
+    "anticipation": 29
   }
 }
