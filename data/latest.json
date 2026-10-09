@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:31:42.285Z",
+  "generated_at": "2026-10-09T22:46:44.246Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,11 +298,6 @@
       "anticipation"
     ],
     [
-      "prepare",
-      1,
-      "anticipation"
-    ],
-    [
       "deteriorating",
       1,
       "fear"
@@ -311,6 +306,11 @@
       "warn",
       1,
       "fear"
+    ],
+    [
+      "prepare",
+      1,
+      "anticipation"
     ],
     [
       "pilot",
