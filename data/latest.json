@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T05:53:05.285Z",
+  "generated_at": "2026-10-09T06:08:07.877Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      7,
+      6,
       "anger"
     ],
     [
@@ -33,11 +33,6 @@
       "joy"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "military",
       4,
       "fear"
@@ -53,9 +48,19 @@
       "anger"
     ],
     [
+      "challenge",
+      3,
+      "anger"
+    ],
+    [
       "airport",
       3,
       "anticipation"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "calls",
@@ -163,11 +168,6 @@
       "fear"
     ],
     [
-      "conflict",
-      2,
-      "anger"
-    ],
-    [
       "found",
       2,
       "joy"
@@ -181,11 +181,6 @@
       "vow",
       2,
       "joy"
-    ],
-    [
-      "challenge",
-      2,
-      "anger"
     ],
     [
       "law",
@@ -244,11 +239,6 @@
     ],
     [
       "attacked",
-      2,
-      "anger"
-    ],
-    [
-      "iran",
       2,
       "anger"
     ],
@@ -338,6 +328,16 @@
       "anticipation"
     ],
     [
+      "green",
+      1,
+      "joy"
+    ],
+    [
+      "promised",
+      1,
+      "joy"
+    ],
+    [
       "confirmed",
       1,
       "trust"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 29,
     "trust": 68,
-    "fear": 61,
+    "fear": 60,
     "surprise": 14,
     "sadness": 19,
     "disgust": 1,
-    "anger": 113,
+    "anger": 111,
     "anticipation": 27
   }
 }
