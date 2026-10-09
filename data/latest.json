@@ -1,19 +1,24 @@
 {
-  "generated_at": "2026-10-09T03:06:29.686Z",
+  "generated_at": "2026-10-09T03:21:32.275Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      11,
+      12,
       "anger"
     ],
     [
       "war",
-      6,
+      7,
       "anger"
     ],
     [
       "people",
+      5,
+      "trust"
+    ],
+    [
+      "president",
       5,
       "trust"
     ],
@@ -28,14 +33,9 @@
       "joy"
     ],
     [
-      "hit",
-      5,
-      "anger"
-    ],
-    [
-      "president",
+      "government",
       4,
-      "trust"
+      "fear"
     ],
     [
       "military",
@@ -48,14 +48,24 @@
       "trust"
     ],
     [
+      "hit",
+      4,
+      "anger"
+    ],
+    [
+      "airport",
+      3,
+      "anticipation"
+    ],
+    [
+      "calls",
+      3,
+      "trust"
+    ],
+    [
       "growing",
       3,
       "joy"
-    ],
-    [
-      "alleged",
-      3,
-      "fear"
     ],
     [
       "gaza",
@@ -93,17 +103,32 @@
       "trust"
     ],
     [
-      "killing",
-      3,
-      "anger"
-    ],
-    [
-      "investigation",
+      "launch",
       3,
       "anticipation"
     ],
     [
-      "calls",
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
+      "detention",
+      2,
+      "sadness"
+    ],
+    [
+      "world",
+      2,
+      "trust"
+    ],
+    [
+      "nation",
       2,
       "trust"
     ],
@@ -118,9 +143,29 @@
       "trust"
     ],
     [
+      "alleged",
+      2,
+      "fear"
+    ],
+    [
       "guardian",
       2,
       "trust"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
+    ],
+    [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
+      "conflict",
+      2,
+      "anger"
     ],
     [
       "found",
@@ -173,11 +218,6 @@
       "anticipation"
     ],
     [
-      "constant",
-      2,
-      "trust"
-    ],
-    [
       "teacher",
       2,
       "trust"
@@ -201,11 +241,6 @@
       "lawsuit",
       2,
       "anger"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "attacked",
@@ -268,19 +303,24 @@
       "anticipation"
     ],
     [
+      "killing",
+      2,
+      "anger"
+    ],
+    [
       "officials",
       2,
       "trust"
     ],
     [
-      "launch",
-      2,
-      "anticipation"
-    ],
-    [
       "show",
       2,
       "trust"
+    ],
+    [
+      "change",
+      2,
+      "fear"
     ],
     [
       "bank",
@@ -293,19 +333,29 @@
       "fear"
     ],
     [
-      "cry",
+      "investigation",
       2,
-      "sadness"
+      "anticipation"
     ],
     [
-      "director",
-      2,
+      "confirmed",
+      1,
       "trust"
     ],
     [
-      "explores",
-      2,
+      "expected",
+      1,
       "anticipation"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "controversial",
+      1,
+      "anger"
     ],
     [
       "throne",
@@ -313,79 +363,29 @@
       "trust"
     ],
     [
-      "nation",
-      1,
-      "trust"
-    ],
-    [
-      "promises",
-      1,
-      "joy"
-    ],
-    [
-      "blockaded",
+      "deadly",
       1,
       "anger"
     ],
     [
-      "evicted",
-      1,
-      "sadness"
-    ],
-    [
-      "battle",
+      "assault",
       1,
       "anger"
     ],
     [
-      "mountains",
-      1,
-      "anticipation"
-    ],
-    [
-      "emergency",
+      "missile",
       1,
       "fear"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
-    ],
-    [
-      "reliance",
-      1,
-      "trust"
-    ],
-    [
-      "wilderness",
-      1,
-      "fear"
-    ],
-    [
-      "indicted",
-      1,
-      "anger"
-    ],
-    [
-      "torture",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 73,
-    "fear": 56,
-    "surprise": 15,
-    "sadness": 20,
+    "joy": 27,
+    "trust": 68,
+    "fear": 61,
+    "surprise": 14,
+    "sadness": 19,
     "disgust": 1,
-    "anger": 111,
-    "anticipation": 29
+    "anger": 113,
+    "anticipation": 27
   }
 }
