@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:27:48.860Z",
+  "generated_at": "2026-10-09T15:42:51.540Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,11 +113,6 @@
       "trust"
     ],
     [
-      "emergency",
-      2,
-      "fear"
-    ],
-    [
       "prepare",
       2,
       "anticipation"
@@ -186,6 +181,11 @@
       "poll",
       2,
       "trust"
+    ],
+    [
+      "emergency",
+      2,
+      "fear"
     ],
     [
       "guardian",
