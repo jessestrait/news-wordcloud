@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:28:59.201Z",
+  "generated_at": "2026-10-09T17:44:01.578Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,6 +93,11 @@
       "anticipation"
     ],
     [
+      "airport",
+      3,
+      "anticipation"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -136,11 +141,6 @@
       "killed",
       2,
       "fear"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
     ],
     [
       "offensive",
@@ -386,6 +386,6 @@
     "sadness": 20,
     "disgust": 1,
     "anger": 116,
-    "anticipation": 29
+    "anticipation": 30
   }
 }
