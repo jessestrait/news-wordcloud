@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:27:20.022Z",
+  "generated_at": "2026-10-09T14:42:22.671Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "public",
       6,
       "anticipation"
+    ],
+    [
+      "war",
+      6,
+      "anger"
     ],
     [
       "death",
@@ -56,11 +56,6 @@
       "peace",
       3,
       "joy"
-    ],
-    [
-      "crimes",
-      3,
-      "anger"
     ],
     [
       "hurricane",
@@ -110,16 +105,6 @@
     [
       "continue",
       3,
-      "trust"
-    ],
-    [
-      "condemns",
-      2,
-      "anger"
-    ],
-    [
-      "committee",
-      2,
       "trust"
     ],
     [
@@ -328,24 +313,19 @@
       "trust"
     ],
     [
-      "award",
+      "deputy",
       1,
-      "surprise"
+      "trust"
     ],
     [
-      "winner",
-      1,
-      "surprise"
-    ],
-    [
-      "humanity",
-      1,
-      "joy"
-    ],
-    [
-      "prosecuted",
+      "condemned",
       1,
       "anger"
+    ],
+    [
+      "tribunal",
+      1,
+      "fear"
     ],
     [
       "plan",
@@ -376,16 +356,36 @@
       "earths",
       1,
       "surprise"
+    ],
+    [
+      "gang",
+      1,
+      "anger"
+    ],
+    [
+      "breaks",
+      1,
+      "surprise"
+    ],
+    [
+      "trucks",
+      1,
+      "trust"
+    ],
+    [
+      "influential",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 26,
     "trust": 69,
-    "fear": 57,
-    "surprise": 14,
+    "fear": 58,
+    "surprise": 12,
     "sadness": 20,
     "disgust": 1,
-    "anger": 120,
+    "anger": 115,
     "anticipation": 29
   }
 }
