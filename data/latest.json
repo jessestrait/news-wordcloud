@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:26:53.788Z",
+  "generated_at": "2026-10-09T13:41:56.106Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,13 +9,8 @@
     ],
     [
       "war",
-      6,
+      7,
       "anger"
-    ],
-    [
-      "public",
-      6,
-      "anticipation"
     ],
     [
       "death",
@@ -26,6 +21,11 @@
       "military",
       5,
       "fear"
+    ],
+    [
+      "public",
+      5,
+      "anticipation"
     ],
     [
       "people",
@@ -48,11 +48,6 @@
       "joy"
     ],
     [
-      "housing",
-      4,
-      "joy"
-    ],
-    [
       "school",
       4,
       "trust"
@@ -68,19 +63,24 @@
       "anger"
     ],
     [
+      "hurricane",
+      3,
+      "fear"
+    ],
+    [
       "law",
       3,
       "trust"
     ],
     [
-      "challenge",
-      3,
-      "anger"
-    ],
-    [
       "government",
       3,
       "fear"
+    ],
+    [
+      "housing",
+      3,
+      "joy"
     ],
     [
       "happened",
@@ -118,6 +118,16 @@
       "trust"
     ],
     [
+      "emergency",
+      2,
+      "fear"
+    ],
+    [
+      "expected",
+      2,
+      "anticipation"
+    ],
+    [
       "officials",
       2,
       "trust"
@@ -139,6 +149,11 @@
     ],
     [
       "anger",
+      2,
+      "anger"
+    ],
+    [
+      "challenge",
       2,
       "anger"
     ],
@@ -268,11 +283,6 @@
       "fear"
     ],
     [
-      "hurricane",
-      2,
-      "fear"
-    ],
-    [
       "success",
       2,
       "joy"
@@ -308,11 +318,6 @@
       "trust"
     ],
     [
-      "change",
-      2,
-      "fear"
-    ],
-    [
       "award",
       1,
       "surprise"
@@ -331,6 +336,21 @@
       "prosecuted",
       1,
       "anger"
+    ],
+    [
+      "surges",
+      1,
+      "surprise"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
+    ],
+    [
+      "earths",
+      1,
+      "surprise"
     ],
     [
       "gang",
@@ -356,36 +376,16 @@
       "warnings",
       1,
       "fear"
-    ],
-    [
-      "attempts",
-      1,
-      "anticipation"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "guilty",
-      1,
-      "anger"
-    ],
-    [
-      "launched",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 68,
+    "joy": 27,
+    "trust": 69,
     "fear": 59,
-    "surprise": 13,
-    "sadness": 21,
+    "surprise": 14,
+    "sadness": 20,
     "disgust": 1,
-    "anger": 117,
+    "anger": 116,
     "anticipation": 26
   }
 }
