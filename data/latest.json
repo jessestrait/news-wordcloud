@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T11:55:54.226Z",
+  "generated_at": "2026-10-09T11:56:10.106Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "trust"
     ],
     [
-      "law",
-      4,
-      "trust"
-    ],
-    [
       "gaza",
       4,
       "anger"
@@ -66,6 +61,11 @@
       "peace",
       3,
       "joy"
+    ],
+    [
+      "law",
+      3,
+      "trust"
     ],
     [
       "challenge",
@@ -103,9 +103,9 @@
       "trust"
     ],
     [
-      "winner",
+      "condemns",
       2,
-      "surprise"
+      "anger"
     ],
     [
       "committee",
@@ -318,6 +318,16 @@
       "fear"
     ],
     [
+      "award",
+      1,
+      "surprise"
+    ],
+    [
+      "winner",
+      1,
+      "surprise"
+    ],
+    [
       "humanity",
       1,
       "joy"
@@ -366,26 +376,16 @@
       "self",
       1,
       "trust"
-    ],
-    [
-      "failing",
-      1,
-      "anger"
-    ],
-    [
-      "criticism",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 69,
+    "trust": 68,
     "fear": 59,
     "surprise": 13,
     "sadness": 21,
     "disgust": 1,
-    "anger": 117,
+    "anger": 118,
     "anticipation": 27
   }
 }
