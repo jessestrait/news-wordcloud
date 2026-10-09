@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:15:58.836Z",
+  "generated_at": "2026-10-09T21:31:01.130Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,6 +73,11 @@
       "trust"
     ],
     [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
       "officials",
       3,
       "trust"
@@ -91,11 +96,6 @@
       "law",
       3,
       "trust"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
     ],
     [
       "government",
@@ -308,6 +308,11 @@
       "anticipation"
     ],
     [
+      "prepare",
+      1,
+      "anticipation"
+    ],
+    [
       "deteriorating",
       1,
       "fear"
@@ -371,11 +376,6 @@
       "influential",
       1,
       "trust"
-    ],
-    [
-      "warnings",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
