@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:11:11.911Z",
+  "generated_at": "2026-10-09T12:26:13.772Z",
   "article_count": 50,
   "top_words": [
     [
@@ -313,21 +313,6 @@
       "fear"
     ],
     [
-      "gang",
-      1,
-      "anger"
-    ],
-    [
-      "broke",
-      1,
-      "fear"
-    ],
-    [
-      "trucks",
-      1,
-      "trust"
-    ],
-    [
       "award",
       1,
       "surprise"
@@ -346,6 +331,21 @@
       "prosecuted",
       1,
       "anger"
+    ],
+    [
+      "gang",
+      1,
+      "anger"
+    ],
+    [
+      "broke",
+      1,
+      "fear"
+    ],
+    [
+      "trucks",
+      1,
+      "trust"
     ],
     [
       "influential",
