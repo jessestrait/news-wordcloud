@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T11:56:10.106Z",
+  "generated_at": "2026-10-09T12:11:11.911Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      7,
+      6,
       "anger"
     ],
     [
@@ -248,11 +248,6 @@
       "anger"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -318,6 +313,21 @@
       "fear"
     ],
     [
+      "gang",
+      1,
+      "anger"
+    ],
+    [
+      "broke",
+      1,
+      "fear"
+    ],
+    [
+      "trucks",
+      1,
+      "trust"
+    ],
+    [
       "award",
       1,
       "surprise"
@@ -366,26 +376,16 @@
       "launched",
       1,
       "anticipation"
-    ],
-    [
-      "allies",
-      1,
-      "trust"
-    ],
-    [
-      "self",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 30,
     "trust": 68,
     "fear": 59,
     "surprise": 13,
     "sadness": 21,
     "disgust": 1,
-    "anger": 118,
-    "anticipation": 27
+    "anger": 116,
+    "anticipation": 26
   }
 }
