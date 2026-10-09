@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T00:19:56.042Z",
+  "generated_at": "2026-10-09T00:34:58.385Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,19 @@
       "anger"
     ],
     [
-      "death",
-      6,
-      "sadness"
-    ],
-    [
       "war",
       6,
       "anger"
+    ],
+    [
+      "people",
+      5,
+      "trust"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
     ],
     [
       "housing",
@@ -33,11 +38,6 @@
       "trust"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "military",
       4,
       "fear"
@@ -46,6 +46,11 @@
       "school",
       4,
       "trust"
+    ],
+    [
+      "growing",
+      3,
+      "joy"
     ],
     [
       "alleged",
@@ -98,9 +103,19 @@
       "anticipation"
     ],
     [
-      "growing",
+      "calls",
       2,
-      "joy"
+      "trust"
+    ],
+    [
+      "never",
+      2,
+      "fear"
+    ],
+    [
+      "poll",
+      2,
+      "trust"
     ],
     [
       "guardian",
@@ -208,16 +223,6 @@
       "anger"
     ],
     [
-      "plague",
-      2,
-      "fear"
-    ],
-    [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -268,11 +273,6 @@
       "trust"
     ],
     [
-      "world",
-      2,
-      "trust"
-    ],
-    [
       "launch",
       2,
       "anticipation"
@@ -306,6 +306,16 @@
       "explores",
       2,
       "anticipation"
+    ],
+    [
+      "throne",
+      1,
+      "trust"
+    ],
+    [
+      "nation",
+      1,
+      "trust"
     ],
     [
       "promises",
@@ -366,26 +376,16 @@
       "torture",
       1,
       "anger"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
-    ],
-    [
-      "jail",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 69,
-    "fear": 57,
-    "surprise": 16,
-    "sadness": 21,
+    "joy": 28,
+    "trust": 73,
+    "fear": 56,
+    "surprise": 15,
+    "sadness": 20,
     "disgust": 1,
-    "anger": 112,
+    "anger": 111,
     "anticipation": 29
   }
 }
