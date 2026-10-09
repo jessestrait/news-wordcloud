@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:25:06.614Z",
+  "generated_at": "2026-10-09T10:25:23.600Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,19 @@
       "trust"
     ],
     [
+      "public",
+      6,
+      "anticipation"
+    ],
+    [
+      "death",
+      6,
+      "sadness"
+    ],
+    [
       "military",
       5,
       "fear"
-    ],
-    [
-      "public",
-      5,
-      "anticipation"
     ],
     [
       "president",
@@ -33,17 +38,12 @@
       "trust"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
-      "housing",
-      5,
+      "growing",
+      4,
       "joy"
     ],
     [
-      "growing",
+      "housing",
       4,
       "joy"
     ],
@@ -81,6 +81,11 @@
       "court",
       3,
       "anger"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "wildfires",
@@ -198,9 +203,9 @@
       "joy"
     ],
     [
-      "hope",
+      "eviction",
       2,
-      "surprise"
+      "anger"
     ],
     [
       "focus",
@@ -211,11 +216,6 @@
       "devastating",
       2,
       "anger"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "teacher",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 69,
+    "joy": 31,
+    "trust": 68,
     "fear": 61,
-    "surprise": 14,
-    "sadness": 20,
+    "surprise": 13,
+    "sadness": 21,
     "disgust": 1,
-    "anger": 116,
-    "anticipation": 26
+    "anger": 119,
+    "anticipation": 28
   }
 }
