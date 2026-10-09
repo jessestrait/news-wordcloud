@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:15:33.402Z",
+  "generated_at": "2026-10-09T20:30:35.831Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,11 +93,6 @@
       "anticipation"
     ],
     [
-      "airport",
-      3,
-      "anticipation"
-    ],
-    [
       "government",
       3,
       "fear"
@@ -146,6 +141,11 @@
       "killed",
       2,
       "fear"
+    ],
+    [
+      "airport",
+      2,
+      "anticipation"
     ],
     [
       "offensive",
@@ -313,6 +313,11 @@
       "anticipation"
     ],
     [
+      "deteriorating",
+      1,
+      "fear"
+    ],
+    [
       "warn",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "tribunal",
       1,
       "fear"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 66,
-    "fear": 62,
+    "fear": 63,
     "surprise": 15,
     "sadness": 20,
     "disgust": 1,
     "anger": 116,
-    "anticipation": 30
+    "anticipation": 29
   }
 }
