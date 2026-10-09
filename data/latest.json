@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:56:33.520Z",
+  "generated_at": "2026-10-09T13:11:35.825Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "joy"
     ],
     [
+      "crimes",
+      3,
+      "anger"
+    ],
+    [
       "law",
       3,
       "trust"
@@ -111,11 +116,6 @@
       "committee",
       2,
       "trust"
-    ],
-    [
-      "crimes",
-      2,
-      "anger"
     ],
     [
       "officials",
@@ -385,7 +385,7 @@
     "surprise": 13,
     "sadness": 21,
     "disgust": 1,
-    "anger": 116,
+    "anger": 117,
     "anticipation": 26
   }
 }
