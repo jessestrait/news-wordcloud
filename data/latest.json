@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-09T09:39:59.320Z",
+  "generated_at": "2026-10-09T09:55:01.688Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      11,
+      12,
       "anger"
     ],
     [
@@ -16,6 +16,11 @@
       "people",
       6,
       "trust"
+    ],
+    [
+      "military",
+      5,
+      "fear"
     ],
     [
       "public",
@@ -43,11 +48,6 @@
       "joy"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "school",
       4,
       "trust"
@@ -61,11 +61,6 @@
       "challenge",
       3,
       "anger"
-    ],
-    [
-      "airport",
-      3,
-      "anticipation"
     ],
     [
       "government",
@@ -123,17 +118,22 @@
       "anger"
     ],
     [
-      "anger",
-      2,
-      "anger"
-    ],
-    [
       "killed",
       2,
       "fear"
     ],
     [
-      "strikes",
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
+      "offensive",
+      2,
+      "anger"
+    ],
+    [
+      "anger",
       2,
       "anger"
     ],
@@ -328,6 +328,16 @@
       "anger"
     ],
     [
+      "launched",
+      1,
+      "anticipation"
+    ],
+    [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
       "beings",
       1,
       "trust"
@@ -366,26 +376,16 @@
       "failing",
       1,
       "anger"
-    ],
-    [
-      "criticism",
-      1,
-      "anger"
-    ],
-    [
-      "remains",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
     "trust": 69,
-    "fear": 60,
+    "fear": 61,
     "surprise": 14,
     "sadness": 20,
     "disgust": 1,
-    "anger": 115,
+    "anger": 116,
     "anticipation": 26
   }
 }
