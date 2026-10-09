@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-10-09T08:54:37.361Z",
+  "generated_at": "2026-10-09T09:09:39.211Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      12,
+      11,
       "anger"
     ],
     [
       "war",
-      6,
+      7,
       "anger"
     ],
     [
       "people",
-      5,
+      6,
       "trust"
+    ],
+    [
+      "public",
+      5,
+      "anticipation"
     ],
     [
       "president",
@@ -33,6 +38,11 @@
       "joy"
     ],
     [
+      "growing",
+      4,
+      "joy"
+    ],
+    [
       "military",
       4,
       "fear"
@@ -40,6 +50,11 @@
     [
       "school",
       4,
+      "trust"
+    ],
+    [
+      "law",
+      3,
       "trust"
     ],
     [
@@ -58,16 +73,6 @@
       "fear"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
-      "growing",
-      3,
-      "joy"
-    ],
-    [
       "gaza",
       3,
       "anger"
@@ -81,11 +86,6 @@
       "court",
       3,
       "anger"
-    ],
-    [
-      "public",
-      3,
-      "anticipation"
     ],
     [
       "wildfires",
@@ -108,11 +108,6 @@
       "trust"
     ],
     [
-      "launch",
-      3,
-      "anticipation"
-    ],
-    [
       "winner",
       2,
       "surprise"
@@ -121,6 +116,16 @@
       "peace",
       2,
       "joy"
+    ],
+    [
+      "crimes",
+      2,
+      "anger"
+    ],
+    [
+      "anger",
+      2,
+      "anger"
     ],
     [
       "killed",
@@ -143,6 +148,11 @@
       "trust"
     ],
     [
+      "calls",
+      2,
+      "trust"
+    ],
+    [
       "nation",
       2,
       "trust"
@@ -156,11 +166,6 @@
       "poll",
       2,
       "trust"
-    ],
-    [
-      "alleged",
-      2,
-      "fear"
     ],
     [
       "guardian",
@@ -191,11 +196,6 @@
       "vow",
       2,
       "joy"
-    ],
-    [
-      "law",
-      2,
-      "trust"
     ],
     [
       "hope",
@@ -298,6 +298,11 @@
       "anger"
     ],
     [
+      "launch",
+      2,
+      "anticipation"
+    ],
+    [
       "show",
       2,
       "trust"
@@ -308,84 +313,79 @@
       "fear"
     ],
     [
-      "bank",
-      2,
+      "committee",
+      1,
       "trust"
     ],
     [
-      "case",
-      2,
+      "humanity",
+      1,
+      "joy"
+    ],
+    [
+      "prosecuted",
+      1,
+      "anger"
+    ],
+    [
+      "beings",
+      1,
+      "trust"
+    ],
+    [
+      "provides",
+      1,
+      "trust"
+    ],
+    [
+      "blame",
+      1,
+      "anger"
+    ],
+    [
+      "brutes",
+      1,
+      "anger"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "recognizable",
+      1,
+      "anticipation"
+    ],
+    [
+      "self",
+      1,
+      "trust"
+    ],
+    [
+      "failing",
+      1,
+      "anger"
+    ],
+    [
+      "criticism",
+      1,
+      "anger"
+    ],
+    [
+      "remains",
+      1,
       "fear"
-    ],
-    [
-      "investigation",
-      2,
-      "anticipation"
-    ],
-    [
-      "ceremony",
-      1,
-      "surprise"
-    ],
-    [
-      "starts",
-      1,
-      "anticipation"
-    ],
-    [
-      "green",
-      1,
-      "joy"
-    ],
-    [
-      "promised",
-      1,
-      "joy"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
-      "controversial",
-      1,
-      "anger"
-    ],
-    [
-      "throne",
-      1,
-      "trust"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 66,
+    "joy": 32,
+    "trust": 69,
     "fear": 60,
-    "surprise": 16,
-    "sadness": 19,
+    "surprise": 14,
+    "sadness": 20,
     "disgust": 1,
-    "anger": 107,
-    "anticipation": 28
+    "anger": 115,
+    "anticipation": 26
   }
 }
