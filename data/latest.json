@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-09T23:32:08.240Z",
+  "generated_at": "2026-10-09T23:47:10.614Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      12,
+      10,
       "anger"
     ],
     [
@@ -18,17 +18,17 @@
       "anticipation"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "death",
       6,
       "sadness"
     ],
     [
       "storm",
+      5,
+      "anger"
+    ],
+    [
+      "war",
       5,
       "anger"
     ],
@@ -48,19 +48,9 @@
       "anticipation"
     ],
     [
-      "gaza",
-      4,
-      "anger"
-    ],
-    [
       "military",
       4,
       "fear"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "growing",
@@ -91,6 +81,16 @@
       "law",
       3,
       "trust"
+    ],
+    [
+      "gaza",
+      3,
+      "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "government",
@@ -146,11 +146,6 @@
       "detention",
       2,
       "sadness"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "calls",
@@ -211,11 +206,6 @@
       "focus",
       2,
       "trust"
-    ],
-    [
-      "devastating",
-      2,
-      "anger"
     ],
     [
       "teacher",
@@ -293,11 +283,6 @@
       "anger"
     ],
     [
-      "launch",
-      2,
-      "anticipation"
-    ],
-    [
       "deteriorating",
       1,
       "fear"
@@ -306,6 +291,41 @@
       "warn",
       1,
       "fear"
+    ],
+    [
+      "weight",
+      1,
+      "fear"
+    ],
+    [
+      "loss",
+      1,
+      "anger"
+    ],
+    [
+      "advocates",
+      1,
+      "trust"
+    ],
+    [
+      "treat",
+      1,
+      "anger"
+    ],
+    [
+      "approved",
+      1,
+      "joy"
+    ],
+    [
+      "patients",
+      1,
+      "anticipation"
+    ],
+    [
+      "label",
+      1,
+      "trust"
     ],
     [
       "prepare",
@@ -356,36 +376,16 @@
       "influential",
       1,
       "trust"
-    ],
-    [
-      "warnings",
-      1,
-      "fear"
-    ],
-    [
-      "attempts",
-      1,
-      "anticipation"
-    ],
-    [
-      "deputy",
-      1,
-      "trust"
-    ],
-    [
-      "condemned",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 66,
-    "fear": 63,
+    "fear": 64,
     "surprise": 14,
     "sadness": 19,
     "disgust": 1,
-    "anger": 114,
-    "anticipation": 31
+    "anger": 110,
+    "anticipation": 30
   }
 }
