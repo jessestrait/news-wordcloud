@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:56:58.238Z",
+  "generated_at": "2026-10-09T14:12:00.500Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,11 +113,6 @@
       "trust"
     ],
     [
-      "iran",
-      2,
-      "anger"
-    ],
-    [
       "condemns",
       2,
       "anger"
@@ -126,6 +121,11 @@
       "committee",
       2,
       "trust"
+    ],
+    [
+      "iran",
+      2,
+      "anger"
     ],
     [
       "storm",
@@ -328,26 +328,6 @@
       "trust"
     ],
     [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
-      "execution",
-      1,
-      "anger"
-    ],
-    [
-      "poor",
-      1,
-      "sadness"
-    ],
-    [
-      "sentences",
-      1,
-      "anger"
-    ],
-    [
       "award",
       1,
       "surprise"
@@ -368,6 +348,26 @@
       "anger"
     ],
     [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "execution",
+      1,
+      "anger"
+    ],
+    [
+      "dubious",
+      1,
+      "fear"
+    ],
+    [
+      "sentences",
+      1,
+      "anger"
+    ],
+    [
       "trade",
       1,
       "trust"
@@ -382,8 +382,8 @@
     "joy": 27,
     "trust": 69,
     "fear": 57,
-    "surprise": 13,
-    "sadness": 21,
+    "surprise": 14,
+    "sadness": 20,
     "disgust": 1,
     "anger": 120,
     "anticipation": 29
