@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:28:34.023Z",
+  "generated_at": "2026-10-09T16:43:35.934Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "trust"
     ],
     [
+      "gaza",
+      4,
+      "anger"
+    ],
+    [
       "military",
       4,
       "fear"
@@ -46,11 +51,6 @@
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "gaza",
-      4,
-      "anger"
     ],
     [
       "growing",
@@ -83,14 +83,14 @@
       "joy"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "law",
       3,
       "trust"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "government",
@@ -323,6 +323,21 @@
       "anger"
     ],
     [
+      "committee",
+      1,
+      "trust"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "guilty",
+      1,
+      "anger"
+    ],
+    [
       "influential",
       1,
       "trust"
@@ -361,21 +376,6 @@
       "execution",
       1,
       "anger"
-    ],
-    [
-      "dubious",
-      1,
-      "fear"
-    ],
-    [
-      "sentences",
-      1,
-      "anger"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
