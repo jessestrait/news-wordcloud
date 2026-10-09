@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-10-09T16:13:15.249Z",
+  "generated_at": "2026-10-09T16:28:17.789Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       11,
       "anger"
+    ],
+    [
+      "hurricane",
+      6,
+      "fear"
     ],
     [
       "public",
@@ -23,12 +28,12 @@
       "sadness"
     ],
     [
-      "people",
+      "storm",
       5,
-      "trust"
+      "anger"
     ],
     [
-      "president",
+      "people",
       5,
       "trust"
     ],
@@ -43,11 +48,6 @@
       "anticipation"
     ],
     [
-      "hurricane",
-      4,
-      "fear"
-    ],
-    [
       "gaza",
       4,
       "anger"
@@ -58,19 +58,29 @@
       "joy"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "school",
       4,
       "trust"
     ],
     [
+      "officials",
+      3,
+      "trust"
+    ],
+    [
+      "force",
+      3,
+      "anger"
+    ],
+    [
       "peace",
       3,
       "joy"
-    ],
-    [
-      "storm",
-      3,
-      "anger"
     ],
     [
       "power",
@@ -108,14 +118,9 @@
       "anger"
     ],
     [
-      "continue",
-      3,
-      "trust"
-    ],
-    [
-      "officials",
+      "surge",
       2,
-      "trust"
+      "surprise"
     ],
     [
       "prepare",
@@ -193,11 +198,6 @@
       "trust"
     ],
     [
-      "forces",
-      2,
-      "anger"
-    ],
-    [
       "risk",
       2,
       "fear"
@@ -211,11 +211,6 @@
       "wounded",
       2,
       "anger"
-    ],
-    [
-      "vow",
-      2,
-      "joy"
     ],
     [
       "eviction",
@@ -273,6 +268,11 @@
       "anger"
     ],
     [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
       "advance",
       2,
       "fear"
@@ -306,6 +306,21 @@
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "warn",
+      1,
+      "fear"
+    ],
+    [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "threatening",
+      1,
+      "anger"
     ],
     [
       "influential",
@@ -361,31 +376,16 @@
       "trade",
       1,
       "trust"
-    ],
-    [
-      "earths",
-      1,
-      "surprise"
-    ],
-    [
-      "gang",
-      1,
-      "anger"
-    ],
-    [
-      "breaks",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 68,
-    "fear": 60,
-    "surprise": 14,
+    "joy": 24,
+    "trust": 65,
+    "fear": 62,
+    "surprise": 15,
     "sadness": 20,
     "disgust": 1,
-    "anger": 115,
-    "anticipation": 30
+    "anger": 116,
+    "anticipation": 29
   }
 }
