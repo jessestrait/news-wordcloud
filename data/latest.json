@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:23:52.283Z",
+  "generated_at": "2026-10-09T07:38:54.861Z",
   "article_count": 50,
   "top_words": [
     [
@@ -41,11 +41,6 @@
       "school",
       4,
       "trust"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "challenge",
@@ -103,6 +98,11 @@
       "fear"
     ],
     [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
       "continue",
       3,
       "trust"
@@ -111,6 +111,16 @@
       "launch",
       3,
       "anticipation"
+    ],
+    [
+      "winner",
+      2,
+      "surprise"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "killed",
@@ -203,11 +213,6 @@
       "anger"
     ],
     [
-      "blaze",
-      2,
-      "anger"
-    ],
-    [
       "power",
       2,
       "anticipation"
@@ -234,11 +239,6 @@
     ],
     [
       "lawsuit",
-      2,
-      "anger"
-    ],
-    [
-      "attacked",
       2,
       "anger"
     ],
@@ -298,11 +298,6 @@
       "anger"
     ],
     [
-      "officials",
-      2,
-      "trust"
-    ],
-    [
       "show",
       2,
       "trust"
@@ -325,6 +320,16 @@
     [
       "investigation",
       2,
+      "anticipation"
+    ],
+    [
+      "ceremony",
+      1,
+      "surprise"
+    ],
+    [
+      "starts",
+      1,
       "anticipation"
     ],
     [
@@ -371,21 +376,16 @@
       "assault",
       1,
       "anger"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 68,
+    "joy": 30,
+    "trust": 66,
     "fear": 60,
-    "surprise": 14,
+    "surprise": 16,
     "sadness": 19,
     "disgust": 1,
-    "anger": 111,
-    "anticipation": 27
+    "anger": 107,
+    "anticipation": 28
   }
 }
