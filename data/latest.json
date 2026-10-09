@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T11:40:52.077Z",
+  "generated_at": "2026-10-09T11:55:54.226Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,17 +88,7 @@
       "anger"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "wildfires",
-      3,
-      "fear"
-    ],
-    [
-      "hospital",
       3,
       "fear"
     ],
@@ -113,19 +103,24 @@
       "trust"
     ],
     [
-      "committee",
-      2,
-      "trust"
-    ],
-    [
       "winner",
       2,
       "surprise"
     ],
     [
+      "committee",
+      2,
+      "trust"
+    ],
+    [
       "crimes",
       2,
       "anger"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "killed",
@@ -211,6 +206,11 @@
       "eviction",
       2,
       "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "focus",
@@ -318,22 +318,37 @@
       "fear"
     ],
     [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "guilty",
-      1,
-      "anger"
-    ],
-    [
       "humanity",
       1,
       "joy"
     ],
     [
       "prosecuted",
+      1,
+      "anger"
+    ],
+    [
+      "influential",
+      1,
+      "trust"
+    ],
+    [
+      "warnings",
+      1,
+      "fear"
+    ],
+    [
+      "attempts",
+      1,
+      "anticipation"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "guilty",
       1,
       "anger"
     ],
@@ -361,31 +376,16 @@
       "criticism",
       1,
       "anger"
-    ],
-    [
-      "remains",
-      1,
-      "fear"
-    ],
-    [
-      "familiar",
-      1,
-      "trust"
-    ],
-    [
-      "fault",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 68,
-    "fear": 61,
+    "joy": 31,
+    "trust": 69,
+    "fear": 59,
     "surprise": 13,
     "sadness": 21,
     "disgust": 1,
-    "anger": 118,
+    "anger": 117,
     "anticipation": 27
   }
 }
