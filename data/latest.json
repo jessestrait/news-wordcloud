@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:58:12.779Z",
+  "generated_at": "2026-10-09T16:13:15.249Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,17 +33,17 @@
       "trust"
     ],
     [
+      "military",
+      4,
+      "fear"
+    ],
+    [
       "happened",
       4,
       "anticipation"
     ],
     [
       "hurricane",
-      4,
-      "fear"
-    ],
-    [
-      "military",
       4,
       "fear"
     ],
@@ -113,6 +113,11 @@
       "trust"
     ],
     [
+      "officials",
+      2,
+      "trust"
+    ],
+    [
       "prepare",
       2,
       "anticipation"
@@ -121,11 +126,6 @@
       "iran",
       2,
       "anger"
-    ],
-    [
-      "officials",
-      2,
-      "trust"
     ],
     [
       "killed",
@@ -308,6 +308,21 @@
       "anticipation"
     ],
     [
+      "influential",
+      1,
+      "trust"
+    ],
+    [
+      "warnings",
+      1,
+      "fear"
+    ],
+    [
+      "attempts",
+      1,
+      "anticipation"
+    ],
+    [
       "deputy",
       1,
       "trust"
@@ -361,21 +376,6 @@
       "breaks",
       1,
       "surprise"
-    ],
-    [
-      "trucks",
-      1,
-      "trust"
-    ],
-    [
-      "influential",
-      1,
-      "trust"
-    ],
-    [
-      "warnings",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
