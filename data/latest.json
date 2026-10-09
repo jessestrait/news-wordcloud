@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:31:01.130Z",
+  "generated_at": "2026-10-09T21:46:03.350Z",
   "article_count": 50,
   "top_words": [
     [
@@ -36,6 +36,11 @@
       "people",
       5,
       "trust"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
     ],
     [
       "airport",
@@ -78,16 +83,6 @@
       "anticipation"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
-      "force",
-      3,
-      "anger"
-    ],
-    [
       "peace",
       3,
       "joy"
@@ -118,19 +113,9 @@
       "fear"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
-      "forecast",
+      "officials",
       2,
       "trust"
-    ],
-    [
-      "surge",
-      2,
-      "surprise"
     ],
     [
       "iran",
@@ -196,6 +181,11 @@
       "guardian",
       2,
       "trust"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
     ],
     [
       "risk",
@@ -323,16 +313,6 @@
       "fear"
     ],
     [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "threatening",
-      1,
-      "anger"
-    ],
-    [
       "pilot",
       1,
       "trust"
@@ -376,16 +356,36 @@
       "influential",
       1,
       "trust"
+    ],
+    [
+      "warnings",
+      1,
+      "fear"
+    ],
+    [
+      "attempts",
+      1,
+      "anticipation"
+    ],
+    [
+      "deputy",
+      1,
+      "trust"
+    ],
+    [
+      "condemned",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 68,
+    "joy": 23,
+    "trust": 66,
     "fear": 63,
-    "surprise": 15,
+    "surprise": 14,
     "sadness": 19,
     "disgust": 1,
-    "anger": 115,
+    "anger": 114,
     "anticipation": 31
   }
 }
