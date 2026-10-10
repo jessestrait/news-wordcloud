@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T14:24:46.638Z",
+  "generated_at": "2026-10-10T14:39:48.730Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,19 @@
       "anticipation"
     ],
     [
+      "power",
+      5,
+      "anticipation"
+    ],
+    [
       "hurricane",
       5,
       "fear"
     ],
     [
-      "power",
+      "death",
       5,
-      "anticipation"
+      "sadness"
     ],
     [
       "people",
@@ -41,11 +46,6 @@
       "war",
       4,
       "anger"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "school",
@@ -283,6 +283,16 @@
       "anger"
     ],
     [
+      "falling",
+      1,
+      "sadness"
+    ],
+    [
+      "trees",
+      1,
+      "anger"
+    ],
+    [
       "rain",
       1,
       "joy"
@@ -366,16 +376,6 @@
       "treasure",
       1,
       "joy"
-    ],
-    [
-      "luxury",
-      1,
-      "joy"
-    ],
-    [
-      "bad",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 62,
     "fear": 57,
     "surprise": 12,
-    "sadness": 17,
+    "sadness": 19,
     "disgust": 2,
-    "anger": 110,
+    "anger": 111,
     "anticipation": 30
   }
 }
