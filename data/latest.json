@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:22:17.475Z",
+  "generated_at": "2026-10-10T09:37:19.268Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,21 @@
       "sadness"
     ],
     [
+      "hurricane",
+      5,
+      "fear"
+    ],
+    [
+      "power",
+      4,
+      "anticipation"
+    ],
+    [
+      "storm",
+      4,
+      "anger"
+    ],
+    [
       "school",
       4,
       "trust"
@@ -38,11 +53,6 @@
       "joy"
     ],
     [
-      "airport",
-      4,
-      "anticipation"
-    ],
-    [
       "military",
       4,
       "fear"
@@ -53,19 +63,9 @@
       "trust"
     ],
     [
-      "hurricane",
-      3,
-      "fear"
-    ],
-    [
       "emergency",
       3,
       "fear"
-    ],
-    [
-      "storm",
-      3,
-      "anger"
     ],
     [
       "happened",
@@ -93,7 +93,7 @@
       "fear"
     ],
     [
-      "power",
+      "airport",
       3,
       "anticipation"
     ],
@@ -121,11 +121,6 @@
       "wildfires",
       3,
       "fear"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "protesters",
@@ -228,11 +223,6 @@
       "trust"
     ],
     [
-      "forces",
-      2,
-      "anger"
-    ],
-    [
       "risk",
       2,
       "fear"
@@ -283,9 +273,19 @@
       "anger"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "grenades",
       2,
       "fear"
+    ],
+    [
+      "batters",
+      1,
+      "anger"
     ],
     [
       "luxury",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 26,
     "trust": 60,
-    "fear": 62,
+    "fear": 63,
     "surprise": 12,
     "sadness": 18,
     "disgust": 2,
-    "anger": 117,
+    "anger": 116,
     "anticipation": 29
   }
 }
