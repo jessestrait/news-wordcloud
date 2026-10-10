@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:08:42.163Z",
+  "generated_at": "2026-10-10T12:23:43.983Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,11 +118,6 @@
       "fear"
     ],
     [
-      "assault",
-      2,
-      "anger"
-    ],
-    [
       "warning",
       2,
       "fear"
@@ -131,6 +126,11 @@
       "tornadoes",
       2,
       "fear"
+    ],
+    [
+      "assault",
+      2,
+      "anger"
     ],
     [
       "attempts",
