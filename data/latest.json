@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:57:15.726Z",
+  "generated_at": "2026-10-10T19:12:17.576Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,19 @@
       "anticipation"
     ],
     [
-      "hurricane",
+      "people",
       5,
-      "fear"
+      "trust"
     ],
     [
       "power",
       5,
       "anticipation"
+    ],
+    [
+      "hurricane",
+      5,
+      "fear"
     ],
     [
       "war",
@@ -46,11 +51,6 @@
       "government",
       4,
       "fear"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "storm",
@@ -108,9 +108,9 @@
       "joy"
     ],
     [
-      "warning",
+      "officials",
       2,
-      "fear"
+      "trust"
     ],
     [
       "tornadoes",
@@ -283,6 +283,41 @@
       "trust"
     ],
     [
+      "cyclone",
+      1,
+      "fear"
+    ],
+    [
+      "striking",
+      1,
+      "anger"
+    ],
+    [
+      "falling",
+      1,
+      "sadness"
+    ],
+    [
+      "trees",
+      1,
+      "anger"
+    ],
+    [
+      "rain",
+      1,
+      "joy"
+    ],
+    [
+      "flooding",
+      1,
+      "fear"
+    ],
+    [
+      "warn",
+      1,
+      "fear"
+    ],
+    [
       "dies",
       1,
       "fear"
@@ -333,36 +368,6 @@
       "anger"
     ],
     [
-      "cyclone",
-      1,
-      "fear"
-    ],
-    [
-      "striking",
-      1,
-      "anger"
-    ],
-    [
-      "falling",
-      1,
-      "sadness"
-    ],
-    [
-      "trees",
-      1,
-      "anger"
-    ],
-    [
-      "rain",
-      1,
-      "joy"
-    ],
-    [
-      "flooding",
-      1,
-      "fear"
-    ],
-    [
       "denies",
       1,
       "anger"
@@ -371,16 +376,11 @@
       "allegations",
       1,
       "anger"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 66,
+    "trust": 68,
     "fear": 54,
     "surprise": 13,
     "sadness": 16,
