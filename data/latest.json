@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-10-09T23:47:10.614Z",
+  "generated_at": "2026-10-10T00:02:13.037Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       10,
       "anger"
-    ],
-    [
-      "hurricane",
-      6,
-      "fear"
     ],
     [
       "public",
@@ -26,6 +21,11 @@
       "storm",
       5,
       "anger"
+    ],
+    [
+      "hurricane",
+      5,
+      "fear"
     ],
     [
       "war",
@@ -111,6 +111,11 @@
       "wildfires",
       3,
       "fear"
+    ],
+    [
+      "surge",
+      2,
+      "surprise"
     ],
     [
       "officials",
@@ -283,6 +288,21 @@
       "anger"
     ],
     [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "threatening",
+      1,
+      "anger"
+    ],
+    [
+      "preparations",
+      1,
+      "anticipation"
+    ],
+    [
       "deteriorating",
       1,
       "fear"
@@ -328,11 +348,6 @@
       "trust"
     ],
     [
-      "prepare",
-      1,
-      "anticipation"
-    ],
-    [
       "pilot",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "committee",
       1,
       "trust"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "guilty",
-      1,
-      "anger"
-    ],
-    [
-      "influential",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 24,
     "trust": 66,
-    "fear": 64,
-    "surprise": 14,
+    "fear": 63,
+    "surprise": 15,
     "sadness": 19,
     "disgust": 1,
-    "anger": 110,
+    "anger": 111,
     "anticipation": 30
   }
 }
