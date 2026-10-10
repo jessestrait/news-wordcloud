@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:10:54.429Z",
+  "generated_at": "2026-10-10T17:25:56.626Z",
   "article_count": 50,
   "top_words": [
     [
@@ -116,16 +116,6 @@
       "tornadoes",
       2,
       "fear"
-    ],
-    [
-      "injury",
-      2,
-      "anger"
-    ],
-    [
-      "incident",
-      2,
-      "surprise"
     ],
     [
       "injured",
@@ -293,14 +283,9 @@
       "trust"
     ],
     [
-      "bank",
+      "dies",
       1,
-      "trust"
-    ],
-    [
-      "unlawful",
-      1,
-      "anger"
+      "fear"
     ],
     [
       "jumping",
@@ -313,9 +298,19 @@
       "fear"
     ],
     [
-      "family",
+      "attacked",
       1,
-      "joy"
+      "anger"
+    ],
+    [
+      "bank",
+      1,
+      "trust"
+    ],
+    [
+      "unlawful",
+      1,
+      "anger"
     ],
     [
       "allied",
@@ -376,13 +371,18 @@
       "allegations",
       1,
       "anger"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 24,
     "trust": 66,
-    "fear": 53,
-    "surprise": 14,
+    "fear": 54,
+    "surprise": 13,
     "sadness": 16,
     "disgust": 1,
     "anger": 113,
