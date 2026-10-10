@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:47:53.566Z",
+  "generated_at": "2026-10-10T01:02:55.566Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,19 +28,14 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
+      "hurricane",
+      4,
+      "fear"
     ],
     [
       "power",
       4,
       "anticipation"
-    ],
-    [
-      "hurricane",
-      4,
-      "fear"
     ],
     [
       "airport",
@@ -58,7 +53,7 @@
       "joy"
     ],
     [
-      "president",
+      "people",
       4,
       "trust"
     ],
@@ -98,6 +93,11 @@
       "fear"
     ],
     [
+      "president",
+      3,
+      "trust"
+    ],
+    [
       "housing",
       3,
       "joy"
@@ -113,14 +113,14 @@
       "fear"
     ],
     [
+      "pilot",
+      2,
+      "trust"
+    ],
+    [
       "surge",
       2,
       "surprise"
-    ],
-    [
-      "officials",
-      2,
-      "trust"
     ],
     [
       "iran",
@@ -273,19 +273,14 @@
       "anger"
     ],
     [
-      "birthday",
-      2,
-      "surprise"
-    ],
-    [
-      "building",
-      2,
-      "anticipation"
-    ],
-    [
-      "killing",
-      2,
+      "attorney",
+      1,
       "anger"
+    ],
+    [
+      "general",
+      1,
+      "trust"
     ],
     [
       "life",
@@ -338,11 +333,6 @@
       "trust"
     ],
     [
-      "pilot",
-      1,
-      "trust"
-    ],
-    [
       "suicide",
       1,
       "anger"
@@ -376,16 +366,26 @@
       "guilty",
       1,
       "anger"
+    ],
+    [
+      "influential",
+      1,
+      "trust"
+    ],
+    [
+      "warnings",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 66,
+    "trust": 65,
     "fear": 60,
-    "surprise": 15,
+    "surprise": 12,
     "sadness": 19,
     "disgust": 1,
-    "anger": 110,
-    "anticipation": 31
+    "anger": 108,
+    "anticipation": 29
   }
 }
