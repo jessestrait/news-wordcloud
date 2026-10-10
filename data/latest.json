@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:12:40.368Z",
+  "generated_at": "2026-10-10T20:27:42.690Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,23 +43,18 @@
       "anticipation"
     ],
     [
-      "strike",
+      "trump",
       4,
       "anger"
     ],
     [
-      "government",
+      "strikes",
       4,
-      "fear"
+      "anger"
     ],
     [
       "storm",
       4,
-      "anger"
-    ],
-    [
-      "trump",
-      3,
       "anger"
     ],
     [
@@ -71,6 +66,11 @@
       "school",
       3,
       "trust"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "emergency",
@@ -123,17 +123,7 @@
       "fear"
     ],
     [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
-      "forces",
-      2,
-      "anger"
-    ],
-    [
-      "offensive",
+      "iran",
       2,
       "anger"
     ],
@@ -348,19 +338,9 @@
       "anger"
     ],
     [
-      "allied",
+      "rebels",
       1,
-      "trust"
-    ],
-    [
-      "successful",
-      1,
-      "joy"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
+      "anger"
     ],
     [
       "money",
@@ -376,16 +356,36 @@
       "allegations",
       1,
       "anger"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
+      "accusations",
+      1,
+      "anger"
+    ],
+    [
+      "crackdown",
+      1,
+      "anger"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 68,
-    "fear": 54,
+    "joy": 23,
+    "trust": 66,
+    "fear": 52,
     "surprise": 13,
     "sadness": 16,
     "disgust": 1,
-    "anger": 113,
+    "anger": 114,
     "anticipation": 29
   }
 }
