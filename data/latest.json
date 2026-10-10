@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T02:03:26.934Z",
+  "generated_at": "2026-10-10T02:18:29.152Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "hit",
-      5,
-      "anger"
-    ],
-    [
       "war",
       5,
       "anger"
@@ -38,7 +33,7 @@
       "anger"
     ],
     [
-      "power",
+      "happened",
       4,
       "anticipation"
     ],
@@ -73,6 +68,11 @@
       "fear"
     ],
     [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
       "peace",
       3,
       "joy"
@@ -86,11 +86,6 @@
       "gaza",
       3,
       "anger"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "government",
@@ -116,6 +111,11 @@
       "wildfires",
       3,
       "fear"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "expected",
@@ -385,7 +385,7 @@
     "surprise": 12,
     "sadness": 18,
     "disgust": 1,
-    "anger": 109,
+    "anger": 107,
     "anticipation": 29
   }
 }
