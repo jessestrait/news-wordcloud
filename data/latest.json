@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:20:47.876Z",
+  "generated_at": "2026-10-10T06:35:50.242Z",
   "article_count": 50,
   "top_words": [
     [
@@ -134,11 +134,6 @@
     ],
     [
       "plan",
-      2,
-      "anticipation"
-    ],
-    [
-      "expected",
       2,
       "anticipation"
     ],
@@ -376,6 +371,11 @@
       "quake",
       1,
       "fear"
+    ],
+    [
+      "collapse",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 18,
     "disgust": 2,
     "anger": 115,
-    "anticipation": 30
+    "anticipation": 29
   }
 }
