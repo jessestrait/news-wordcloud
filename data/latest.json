@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:12:17.576Z",
+  "generated_at": "2026-10-10T19:27:19.518Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anticipation"
     ],
     [
+      "hurricane",
+      5,
+      "fear"
+    ],
+    [
       "people",
       5,
       "trust"
@@ -21,11 +26,6 @@
       "power",
       5,
       "anticipation"
-    ],
-    [
-      "hurricane",
-      5,
-      "fear"
     ],
     [
       "war",
@@ -283,6 +283,11 @@
       "trust"
     ],
     [
+      "warn",
+      1,
+      "fear"
+    ],
+    [
       "cyclone",
       1,
       "fear"
@@ -309,11 +314,6 @@
     ],
     [
       "flooding",
-      1,
-      "fear"
-    ],
-    [
-      "warn",
       1,
       "fear"
     ],
