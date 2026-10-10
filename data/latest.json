@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:10:30.032Z",
+  "generated_at": "2026-10-10T16:25:32.498Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,16 @@
       "joy"
     ],
     [
+      "warning",
+      2,
+      "fear"
+    ],
+    [
+      "tornadoes",
+      2,
+      "fear"
+    ],
+    [
       "injured",
       2,
       "fear"
@@ -126,16 +136,6 @@
       "offensive",
       2,
       "anger"
-    ],
-    [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
-      "tornadoes",
-      2,
-      "fear"
     ],
     [
       "hit",
