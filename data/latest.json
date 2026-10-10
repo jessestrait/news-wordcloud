@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:28:27.868Z",
+  "generated_at": "2026-10-10T21:43:29.919Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,12 +108,7 @@
       "joy"
     ],
     [
-      "officials",
-      2,
-      "trust"
-    ],
-    [
-      "tornadoes",
+      "cyclone",
       2,
       "fear"
     ],
@@ -263,19 +258,9 @@
       "trust"
     ],
     [
-      "warn",
-      1,
-      "fear"
-    ],
-    [
       "suggests",
       1,
       "trust"
-    ],
-    [
-      "cyclone",
-      1,
-      "fear"
     ],
     [
       "striking",
@@ -373,15 +358,30 @@
       "anger"
     ],
     [
+      "tornadoes",
+      1,
+      "fear"
+    ],
+    [
       "hit",
       1,
       "anger"
+    ],
+    [
+      "badly",
+      1,
+      "sadness"
+    ],
+    [
+      "don",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 68,
-    "fear": 52,
+    "trust": 67,
+    "fear": 51,
     "surprise": 13,
     "sadness": 16,
     "disgust": 1,
