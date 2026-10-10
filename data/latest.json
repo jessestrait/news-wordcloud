@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:43:02.183Z",
+  "generated_at": "2026-10-10T20:58:04.711Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "public",
       6,
       "anticipation"
-    ],
-    [
-      "war",
-      5,
-      "anger"
     ],
     [
       "hurricane",
@@ -31,6 +26,11 @@
       "power",
       5,
       "anticipation"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "death",
@@ -108,16 +108,6 @@
       "joy"
     ],
     [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
       "officials",
       2,
       "trust"
@@ -126,6 +116,16 @@
       "tornadoes",
       2,
       "fear"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
     ],
     [
       "injured",
@@ -263,14 +263,14 @@
       "trust"
     ],
     [
-      "suggests",
-      1,
-      "trust"
-    ],
-    [
       "warn",
       1,
       "fear"
+    ],
+    [
+      "suggests",
+      1,
+      "trust"
     ],
     [
       "cyclone",
