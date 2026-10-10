@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:29:29.990Z",
+  "generated_at": "2026-10-10T23:44:32.109Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,7 +38,7 @@
       "sadness"
     ],
     [
-      "happened",
+      "airport",
       4,
       "anticipation"
     ],
@@ -48,18 +48,28 @@
       "anger"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "president",
       4,
       "trust"
     ],
     [
-      "airport",
-      4,
-      "anticipation"
-    ],
-    [
       "storm",
       4,
+      "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
+      "strikes",
+      3,
       "anger"
     ],
     [
@@ -71,16 +81,6 @@
       "found",
       3,
       "joy"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
-      "strikes",
-      3,
-      "anger"
     ],
     [
       "school",
@@ -113,6 +113,16 @@
       "joy"
     ],
     [
+      "injured",
+      2,
+      "fear"
+    ],
+    [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
       "cyclone",
       2,
       "fear"
@@ -129,16 +139,6 @@
     ],
     [
       "conflict",
-      2,
-      "anger"
-    ],
-    [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
-      "iran",
       2,
       "anger"
     ],
@@ -258,6 +258,11 @@
       "trust"
     ],
     [
+      "rebels",
+      1,
+      "anger"
+    ],
+    [
       "striking",
       1,
       "anger"
@@ -324,11 +329,6 @@
     ],
     [
       "unlawful",
-      1,
-      "anger"
-    ],
-    [
-      "rebels",
       1,
       "anger"
     ],
