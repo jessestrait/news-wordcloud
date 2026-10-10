@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:52:35.581Z",
+  "generated_at": "2026-10-10T10:07:37.759Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "school",
-      4,
-      "trust"
-    ],
-    [
       "government",
       4,
       "fear"
@@ -60,6 +55,11 @@
     [
       "people",
       4,
+      "trust"
+    ],
+    [
+      "school",
+      3,
       "trust"
     ],
     [
@@ -136,11 +136,6 @@
       "class",
       2,
       "sadness"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "escape",
@@ -278,9 +273,29 @@
       "anger"
     ],
     [
-      "grenades",
-      2,
-      "fear"
+      "don",
+      1,
+      "trust"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
+      "uncovered",
+      1,
+      "surprise"
+    ],
+    [
+      "sabotage",
+      1,
+      "anger"
+    ],
+    [
+      "treasure",
+      1,
+      "joy"
     ],
     [
       "batters",
@@ -296,6 +311,11 @@
       "bad",
       1,
       "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
     ],
     [
       "demand",
@@ -356,36 +376,16 @@
       "murders",
       1,
       "anger"
-    ],
-    [
-      "trip",
-      1,
-      "surprise"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "threatening",
-      1,
-      "anger"
-    ],
-    [
-      "preparations",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 27,
     "trust": 60,
-    "fear": 63,
-    "surprise": 12,
-    "sadness": 18,
+    "fear": 60,
+    "surprise": 13,
+    "sadness": 17,
     "disgust": 2,
-    "anger": 116,
+    "anger": 114,
     "anticipation": 29
   }
 }
