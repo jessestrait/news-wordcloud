@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-10T13:54:27.334Z",
+  "generated_at": "2026-10-10T14:09:29.428Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      9,
+      7,
       "anger"
     ],
     [
@@ -18,19 +18,14 @@
       "fear"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "power",
-      4,
+      5,
       "anticipation"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "storm",
@@ -43,14 +38,14 @@
       "fear"
     ],
     [
-      "military",
+      "war",
       4,
-      "fear"
+      "anger"
     ],
     [
-      "hit",
-      3,
-      "anger"
+      "death",
+      4,
+      "sadness"
     ],
     [
       "school",
@@ -88,11 +83,6 @@
       "joy"
     ],
     [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
       "airport",
       3,
       "anticipation"
@@ -103,14 +93,14 @@
       "trust"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "growing",
       3,
       "joy"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "wildfires",
@@ -129,6 +119,11 @@
     ],
     [
       "assault",
+      2,
+      "anger"
+    ],
+    [
+      "hit",
       2,
       "anger"
     ],
@@ -181,6 +176,11 @@
       "friend",
       2,
       "joy"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
     ],
     [
       "surge",
@@ -273,6 +273,26 @@
       "anger"
     ],
     [
+      "cyclone",
+      1,
+      "fear"
+    ],
+    [
+      "striking",
+      1,
+      "anger"
+    ],
+    [
+      "rain",
+      1,
+      "joy"
+    ],
+    [
+      "flooding",
+      1,
+      "fear"
+    ],
+    [
       "denies",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "bad",
       1,
       "anger"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
-    ],
-    [
-      "demand",
-      1,
-      "anger"
-    ],
-    [
-      "expose",
-      1,
-      "fear"
-    ],
-    [
-      "debt",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 61,
-    "fear": 58,
+    "joy": 24,
+    "trust": 62,
+    "fear": 57,
     "surprise": 12,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 2,
-    "anger": 114,
-    "anticipation": 29
+    "anger": 110,
+    "anticipation": 30
   }
 }
