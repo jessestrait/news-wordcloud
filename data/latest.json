@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:02:31.036Z",
+  "generated_at": "2026-10-10T00:17:33.514Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,9 @@
       "sadness"
     ],
     [
-      "storm",
+      "hit",
       5,
       "anger"
-    ],
-    [
-      "hurricane",
-      5,
-      "fear"
     ],
     [
       "war",
@@ -38,9 +33,14 @@
       "trust"
     ],
     [
-      "hit",
+      "hurricane",
       4,
-      "anger"
+      "fear"
+    ],
+    [
+      "power",
+      4,
+      "anticipation"
     ],
     [
       "airport",
@@ -68,9 +68,9 @@
       "trust"
     ],
     [
-      "power",
+      "storm",
       3,
-      "anticipation"
+      "anger"
     ],
     [
       "peace",
@@ -303,16 +303,6 @@
       "anticipation"
     ],
     [
-      "deteriorating",
-      1,
-      "fear"
-    ],
-    [
-      "warn",
-      1,
-      "fear"
-    ],
-    [
       "weight",
       1,
       "fear"
@@ -376,16 +366,26 @@
       "committee",
       1,
       "trust"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "guilty",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 66,
-    "fear": 63,
+    "fear": 60,
     "surprise": 15,
     "sadness": 19,
     "disgust": 1,
-    "anger": 111,
-    "anticipation": 30
+    "anger": 110,
+    "anticipation": 31
   }
 }
