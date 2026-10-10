@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:22:39.910Z",
+  "generated_at": "2026-10-10T10:37:42.134Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,6 +273,11 @@
       "anger"
     ],
     [
+      "batters",
+      1,
+      "anger"
+    ],
+    [
       "don",
       1,
       "trust"
@@ -296,11 +301,6 @@
       "treasure",
       1,
       "joy"
-    ],
-    [
-      "batters",
-      1,
-      "anger"
     ],
     [
       "luxury",
