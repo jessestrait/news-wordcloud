@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-10-10T03:19:13.230Z",
+  "generated_at": "2026-10-10T03:34:15.146Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       10,
+      "anger"
+    ],
+    [
+      "war",
+      6,
       "anger"
     ],
     [
@@ -23,19 +28,14 @@
       "fear"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "storm",
       4,
       "anger"
     ],
     [
-      "happened",
+      "peace",
       4,
-      "anticipation"
+      "joy"
     ],
     [
       "airport",
@@ -48,19 +48,14 @@
       "fear"
     ],
     [
-      "growing",
-      4,
-      "joy"
-    ],
-    [
       "people",
       4,
       "trust"
     ],
     [
-      "school",
-      4,
-      "trust"
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "emergency",
@@ -68,14 +63,29 @@
       "fear"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
+      "strikes",
+      3,
+      "anger"
+    ],
+    [
+      "found",
+      3,
+      "joy"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "peace",
-      3,
-      "joy"
     ],
     [
       "law",
@@ -86,6 +96,11 @@
       "gaza",
       3,
       "anger"
+    ],
+    [
+      "growing",
+      3,
+      "joy"
     ],
     [
       "government",
@@ -103,14 +118,14 @@
       "joy"
     ],
     [
-      "court",
-      3,
-      "anger"
-    ],
-    [
       "wildfires",
       3,
       "fear"
+    ],
+    [
+      "school",
+      3,
+      "trust"
     ],
     [
       "hit",
@@ -128,6 +143,21 @@
       "trust"
     ],
     [
+      "guilty",
+      2,
+      "anger"
+    ],
+    [
+      "brothers",
+      2,
+      "trust"
+    ],
+    [
+      "friend",
+      2,
+      "joy"
+    ],
+    [
       "surge",
       2,
       "surprise"
@@ -136,11 +166,6 @@
       "iran",
       2,
       "anger"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "offensive",
@@ -156,11 +181,6 @@
       "challenge",
       2,
       "anger"
-    ],
-    [
-      "detention",
-      2,
-      "sadness"
     ],
     [
       "calls",
@@ -198,9 +218,9 @@
       "fear"
     ],
     [
-      "found",
+      "court",
       2,
-      "joy"
+      "anger"
     ],
     [
       "wounded",
@@ -218,6 +238,11 @@
       "trust"
     ],
     [
+      "blast",
+      2,
+      "anger"
+    ],
+    [
       "teacher",
       2,
       "trust"
@@ -233,34 +258,14 @@
       "joy"
     ],
     [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
       "lawsuit",
       2,
       "anger"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "grenades",
       2,
       "fear"
-    ],
-    [
-      "brutality",
-      2,
-      "anger"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "advance",
@@ -273,14 +278,24 @@
       "joy"
     ],
     [
-      "clash",
-      2,
-      "anger"
-    ],
-    [
       "governors",
       1,
       "trust"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
+    ],
+    [
+      "betrayal",
+      1,
+      "anger"
     ],
     [
       "attorney",
@@ -291,6 +306,16 @@
       "general",
       1,
       "trust"
+    ],
+    [
+      "murders",
+      1,
+      "anger"
+    ],
+    [
+      "trip",
+      1,
+      "surprise"
     ],
     [
       "life",
@@ -308,6 +333,41 @@
       "anticipation"
     ],
     [
+      "powerful",
+      1,
+      "anger"
+    ],
+    [
+      "earthquake",
+      1,
+      "anger"
+    ],
+    [
+      "panic",
+      1,
+      "fear"
+    ],
+    [
+      "quake",
+      1,
+      "fear"
+    ],
+    [
+      "collapse",
+      1,
+      "fear"
+    ],
+    [
+      "escape",
+      1,
+      "fear"
+    ],
+    [
+      "destruction",
+      1,
+      "anger"
+    ],
+    [
       "weight",
       1,
       "fear"
@@ -316,76 +376,16 @@
       "loss",
       1,
       "anger"
-    ],
-    [
-      "advocates",
-      1,
-      "trust"
-    ],
-    [
-      "treat",
-      1,
-      "anger"
-    ],
-    [
-      "approved",
-      1,
-      "joy"
-    ],
-    [
-      "patients",
-      1,
-      "anticipation"
-    ],
-    [
-      "label",
-      1,
-      "trust"
-    ],
-    [
-      "suicide",
-      1,
-      "anger"
-    ],
-    [
-      "believed",
-      1,
-      "trust"
-    ],
-    [
-      "passenger",
-      1,
-      "anticipation"
-    ],
-    [
-      "terminal",
-      1,
-      "fear"
-    ],
-    [
-      "committee",
-      1,
-      "trust"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "guilty",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 64,
+    "joy": 27,
+    "trust": 61,
     "fear": 62,
-    "surprise": 12,
-    "sadness": 18,
+    "surprise": 14,
+    "sadness": 17,
     "disgust": 1,
-    "anger": 107,
+    "anger": 113,
     "anticipation": 29
   }
 }
