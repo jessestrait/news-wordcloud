@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:58:45.929Z",
+  "generated_at": "2026-10-10T22:13:47.686Z",
   "article_count": 50,
   "top_words": [
     [
@@ -56,6 +56,11 @@
       "storm",
       4,
       "anger"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "strikes",
@@ -181,11 +186,6 @@
       "friend",
       2,
       "joy"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "surge",
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 23,
     "trust": 67,
-    "fear": 51,
+    "fear": 52,
     "surprise": 13,
     "sadness": 16,
     "disgust": 1,
