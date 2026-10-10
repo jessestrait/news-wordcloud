@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T08:51:58.480Z",
+  "generated_at": "2026-10-10T09:07:01.209Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,19 +23,14 @@
       "sadness"
     ],
     [
-      "hurricane",
-      5,
-      "fear"
+      "school",
+      4,
+      "trust"
     ],
     [
       "government",
       4,
       "fear"
-    ],
-    [
-      "storm",
-      4,
-      "anger"
     ],
     [
       "peace",
@@ -58,9 +53,19 @@
       "trust"
     ],
     [
+      "hurricane",
+      3,
+      "fear"
+    ],
+    [
       "emergency",
       3,
       "fear"
+    ],
+    [
+      "storm",
+      3,
+      "anger"
     ],
     [
       "happened",
@@ -118,14 +123,29 @@
       "fear"
     ],
     [
-      "school",
-      3,
-      "trust"
-    ],
-    [
       "hit",
       3,
       "anger"
+    ],
+    [
+      "protesters",
+      2,
+      "anger"
+    ],
+    [
+      "abandoned",
+      2,
+      "anger"
+    ],
+    [
+      "class",
+      2,
+      "sadness"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
     ],
     [
       "escape",
@@ -268,7 +288,12 @@
       "fear"
     ],
     [
-      "protesters",
+      "luxury",
+      1,
+      "joy"
+    ],
+    [
+      "bad",
       1,
       "anger"
     ],
@@ -351,41 +376,16 @@
       "preparations",
       1,
       "anticipation"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "earthquake",
-      1,
-      "anger"
-    ],
-    [
-      "panic",
-      1,
-      "fear"
-    ],
-    [
-      "quake",
-      1,
-      "fear"
-    ],
-    [
-      "collapse",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 59,
-    "fear": 64,
-    "surprise": 13,
+    "joy": 26,
+    "trust": 60,
+    "fear": 62,
+    "surprise": 12,
     "sadness": 18,
     "disgust": 2,
-    "anger": 115,
+    "anger": 117,
     "anticipation": 29
   }
 }
