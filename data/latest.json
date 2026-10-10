@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-10-10T11:53:24.066Z",
+  "generated_at": "2026-10-10T12:08:26.600Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      10,
-      "anger"
-    ],
-    [
-      "war",
-      6,
+      9,
       "anger"
     ],
     [
@@ -23,14 +18,14 @@
       "fear"
     ],
     [
-      "storm",
-      5,
-      "anger"
-    ],
-    [
       "government",
       5,
       "fear"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "death",
@@ -43,19 +38,14 @@
       "anticipation"
     ],
     [
-      "peace",
+      "storm",
       4,
-      "joy"
+      "anger"
     ],
     [
       "military",
       4,
       "fear"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "hit",
@@ -76,6 +66,11 @@
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "peace",
+      3,
+      "joy"
     ],
     [
       "trump",
@@ -108,18 +103,33 @@
       "trust"
     ],
     [
-      "gaza",
-      3,
-      "anger"
-    ],
-    [
       "growing",
       3,
       "joy"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "wildfires",
       3,
+      "fear"
+    ],
+    [
+      "assault",
+      2,
+      "anger"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
+    ],
+    [
+      "tornadoes",
+      2,
       "fear"
     ],
     [
@@ -183,12 +193,12 @@
       "surprise"
     ],
     [
-      "iran",
+      "gaza",
       2,
       "anger"
     ],
     [
-      "offensive",
+      "iran",
       2,
       "anger"
     ],
@@ -268,7 +278,22 @@
       "anger"
     ],
     [
-      "batters",
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "allegations",
+      1,
+      "anger"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
+      "accusations",
       1,
       "anger"
     ],
@@ -301,11 +326,6 @@
       "damaged",
       1,
       "anger"
-    ],
-    [
-      "tornadoes",
-      1,
-      "fear"
     ],
     [
       "badly",
@@ -356,36 +376,16 @@
       "demand",
       1,
       "anger"
-    ],
-    [
-      "expose",
-      1,
-      "fear"
-    ],
-    [
-      "debt",
-      1,
-      "sadness"
-    ],
-    [
-      "wrangling",
-      1,
-      "anger"
-    ],
-    [
-      "stalling",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 61,
+    "joy": 24,
+    "trust": 60,
     "fear": 60,
     "surprise": 12,
-    "sadness": 17,
+    "sadness": 18,
     "disgust": 2,
-    "anger": 118,
+    "anger": 114,
     "anticipation": 30
   }
 }
