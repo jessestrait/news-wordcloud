@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:37:56.345Z",
+  "generated_at": "2026-10-10T10:52:58.360Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,24 +18,24 @@
       "anticipation"
     ],
     [
-      "death",
-      6,
-      "sadness"
-    ],
-    [
       "hurricane",
       5,
       "fear"
     ],
     [
+      "storm",
+      5,
+      "anger"
+    ],
+    [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
       "power",
       4,
       "anticipation"
-    ],
-    [
-      "storm",
-      4,
-      "anger"
     ],
     [
       "government",
@@ -56,6 +56,11 @@
       "people",
       4,
       "trust"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "school",
@@ -121,6 +126,11 @@
       "wildfires",
       3,
       "fear"
+    ],
+    [
+      "powerful",
+      2,
+      "anger"
     ],
     [
       "protesters",
@@ -218,11 +228,6 @@
       "trust"
     ],
     [
-      "risk",
-      2,
-      "fear"
-    ],
-    [
       "court",
       2,
       "anger"
@@ -268,14 +273,29 @@
       "anger"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "batters",
       1,
       "anger"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "damaged",
+      1,
+      "anger"
+    ],
+    [
+      "tornadoes",
+      1,
+      "fear"
+    ],
+    [
+      "badly",
+      1,
+      "sadness"
     ],
     [
       "don",
@@ -356,36 +376,16 @@
       "announcement",
       1,
       "anticipation"
-    ],
-    [
-      "betrayal",
-      1,
-      "anger"
-    ],
-    [
-      "attorney",
-      1,
-      "anger"
-    ],
-    [
-      "general",
-      1,
-      "trust"
-    ],
-    [
-      "murders",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 26,
     "trust": 60,
-    "fear": 60,
-    "surprise": 13,
+    "fear": 59,
+    "surprise": 12,
     "sadness": 17,
     "disgust": 2,
-    "anger": 114,
+    "anger": 118,
     "anticipation": 29
   }
 }
