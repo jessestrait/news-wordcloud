@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:39:25.096Z",
+  "generated_at": "2026-10-10T13:54:27.334Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,11 +14,6 @@
     ],
     [
       "hurricane",
-      5,
-      "fear"
-    ],
-    [
-      "government",
       5,
       "fear"
     ],
@@ -41,6 +36,11 @@
       "storm",
       4,
       "anger"
+    ],
+    [
+      "government",
+      4,
+      "fear"
     ],
     [
       "military",
@@ -131,11 +131,6 @@
       "assault",
       2,
       "anger"
-    ],
-    [
-      "attempts",
-      2,
-      "anticipation"
     ],
     [
       "powerful",
@@ -298,24 +293,19 @@
       "anger"
     ],
     [
-      "police",
-      1,
-      "fear"
-    ],
-    [
       "leader",
       1,
       "trust"
     ],
     [
-      "anti",
+      "crackdown",
       1,
       "anger"
     ],
     [
-      "purify",
+      "authorities",
       1,
-      "joy"
+      "trust"
     ],
     [
       "injured",
@@ -376,16 +366,26 @@
       "demand",
       1,
       "anger"
+    ],
+    [
+      "expose",
+      1,
+      "fear"
+    ],
+    [
+      "debt",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 60,
-    "fear": 60,
+    "joy": 23,
+    "trust": 61,
+    "fear": 58,
     "surprise": 12,
     "sadness": 18,
     "disgust": 2,
     "anger": 114,
-    "anticipation": 30
+    "anticipation": 29
   }
 }
