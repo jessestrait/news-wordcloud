@@ -1,11 +1,26 @@
 {
-  "generated_at": "2026-10-11T15:52:41.094Z",
+  "generated_at": "2026-10-11T16:07:42.928Z",
   "article_count": 50,
   "top_words": [
+    [
+      "trump",
+      9,
+      "anger"
+    ],
+    [
+      "war",
+      9,
+      "anger"
+    ],
     [
       "airport",
       8,
       "anticipation"
+    ],
+    [
+      "attack",
+      8,
+      "anger"
     ],
     [
       "people",
@@ -13,22 +28,7 @@
       "trust"
     ],
     [
-      "trump",
-      8,
-      "anger"
-    ],
-    [
-      "war",
-      8,
-      "anger"
-    ],
-    [
-      "attack",
-      7,
-      "anger"
-    ],
-    [
-      "calls",
+      "president",
       5,
       "trust"
     ],
@@ -43,14 +43,14 @@
       "fear"
     ],
     [
+      "deal",
+      4,
+      "surprise"
+    ],
+    [
       "killed",
       4,
       "fear"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "public",
@@ -103,11 +103,6 @@
       "joy"
     ],
     [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "strikes",
       3,
       "anger"
@@ -121,11 +116,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "school",
-      3,
-      "trust"
     ],
     [
       "peace",
@@ -208,6 +198,11 @@
       "anger"
     ],
     [
+      "school",
+      2,
+      "trust"
+    ],
+    [
       "protesters",
       2,
       "anger"
@@ -266,6 +261,16 @@
       "nation",
       2,
       "trust"
+    ],
+    [
+      "rejected",
+      1,
+      "anger"
+    ],
+    [
+      "bombing",
+      1,
+      "anger"
     ],
     [
       "middle",
@@ -371,21 +376,16 @@
       "powered",
       1,
       "anticipation"
-    ],
-    [
-      "teams",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 71,
+    "joy": 28,
+    "trust": 65,
     "fear": 53,
-    "surprise": 10,
+    "surprise": 11,
     "sadness": 13,
     "disgust": 4,
-    "anger": 104,
+    "anger": 108,
     "anticipation": 37
   }
 }
