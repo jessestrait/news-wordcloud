@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:51:52.161Z",
+  "generated_at": "2026-10-11T14:06:54.786Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "people",
       7,
       "trust"
+    ],
+    [
+      "war",
+      7,
+      "anger"
     ],
     [
       "calls",
@@ -263,6 +263,11 @@
       "sadness"
     ],
     [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
       "strategy",
       1,
       "anticipation"
@@ -311,11 +316,6 @@
       "physicians",
       1,
       "trust"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
     ],
     [
       "volunteers",
