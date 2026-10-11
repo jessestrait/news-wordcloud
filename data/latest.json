@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-10-11T14:21:57.361Z",
+  "generated_at": "2026-10-11T14:36:59.812Z",
   "article_count": 50,
   "top_words": [
+    [
+      "airport",
+      9,
+      "anticipation"
+    ],
+    [
+      "attack",
+      8,
+      "anger"
+    ],
+    [
+      "people",
+      8,
+      "trust"
+    ],
     [
       "trump",
       8,
@@ -11,21 +26,6 @@
       "war",
       8,
       "anger"
-    ],
-    [
-      "airport",
-      7,
-      "anticipation"
-    ],
-    [
-      "attack",
-      7,
-      "anger"
-    ],
-    [
-      "people",
-      7,
-      "trust"
     ],
     [
       "calls",
@@ -58,11 +58,6 @@
       "trust"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "public",
       4,
       "anticipation"
@@ -70,6 +65,11 @@
     [
       "storm",
       4,
+      "anger"
+    ],
+    [
+      "deadly",
+      3,
       "anger"
     ],
     [
@@ -81,6 +81,11 @@
       "iran",
       3,
       "anger"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "growing",
@@ -123,14 +128,14 @@
       "disgust"
     ],
     [
-      "deadly",
+      "forces",
       2,
       "anger"
     ],
     [
-      "forces",
+      "official",
       2,
-      "anger"
+      "trust"
     ],
     [
       "green",
@@ -258,6 +263,26 @@
       "sadness"
     ],
     [
+      "vows",
+      1,
+      "joy"
+    ],
+    [
+      "retaliation",
+      1,
+      "anger"
+    ],
+    [
+      "warn",
+      1,
+      "fear"
+    ],
+    [
+      "avoid",
+      1,
+      "fear"
+    ],
+    [
       "missing",
       1,
       "fear"
@@ -351,41 +376,16 @@
       "coach",
       1,
       "trust"
-    ],
-    [
-      "child",
-      1,
-      "joy"
-    ],
-    [
-      "sentenced",
-      1,
-      "anger"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
-    ],
-    [
-      "abusing",
-      1,
-      "anger"
-    ],
-    [
-      "track",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 69,
-    "fear": 49,
+    "trust": 71,
+    "fear": 51,
     "surprise": 10,
-    "sadness": 15,
+    "sadness": 13,
     "disgust": 5,
-    "anger": 103,
-    "anticipation": 32
+    "anger": 105,
+    "anticipation": 34
   }
 }
