@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:20:23.831Z",
+  "generated_at": "2026-10-11T11:35:26.171Z",
   "article_count": 50,
   "top_words": [
     [
@@ -338,21 +338,6 @@
       "fear"
     ],
     [
-      "church",
-      1,
-      "joy"
-    ],
-    [
-      "crosses",
-      1,
-      "anger"
-    ],
-    [
-      "revival",
-      1,
-      "joy"
-    ],
-    [
       "problem",
       1,
       "fear"
@@ -376,6 +361,21 @@
       "worthy",
       1,
       "trust"
+    ],
+    [
+      "respect",
+      1,
+      "joy"
+    ],
+    [
+      "trash",
+      1,
+      "disgust"
+    ],
+    [
+      "wrecking",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
