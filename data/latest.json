@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T07:33:33.920Z",
+  "generated_at": "2026-10-11T07:48:35.890Z",
   "article_count": 50,
   "top_words": [
     [
@@ -248,6 +248,21 @@
       "fear"
     ],
     [
+      "church",
+      1,
+      "joy"
+    ],
+    [
+      "crosses",
+      1,
+      "anger"
+    ],
+    [
+      "revival",
+      1,
+      "joy"
+    ],
+    [
       "problem",
       1,
       "fear"
@@ -311,21 +326,6 @@
       "boredom",
       1,
       "sadness"
-    ],
-    [
-      "church",
-      1,
-      "joy"
-    ],
-    [
-      "crosses",
-      1,
-      "anger"
-    ],
-    [
-      "revival",
-      1,
-      "joy"
     ],
     [
       "tussle",
