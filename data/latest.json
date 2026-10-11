@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-10-11T13:21:32.029Z",
+  "generated_at": "2026-10-11T13:36:34.239Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      8,
+      9,
+      "anger"
+    ],
+    [
+      "war",
+      7,
       "anger"
     ],
     [
@@ -13,14 +18,14 @@
       "trust"
     ],
     [
-      "war",
-      6,
+      "attack",
+      5,
       "anger"
     ],
     [
-      "strikes",
+      "airport",
       5,
-      "anger"
+      "anticipation"
     ],
     [
       "president",
@@ -28,7 +33,17 @@
       "trust"
     ],
     [
+      "strikes",
+      5,
+      "anger"
+    ],
+    [
       "calls",
+      5,
+      "trust"
+    ],
+    [
+      "leader",
       5,
       "trust"
     ],
@@ -38,27 +53,17 @@
       "fear"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
       "death",
       4,
       "sadness"
     ],
     [
-      "growing",
-      4,
-      "joy"
-    ],
-    [
       "public",
-      4,
-      "anticipation"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
-    ],
-    [
-      "airport",
       4,
       "anticipation"
     ],
@@ -68,19 +73,24 @@
       "anger"
     ],
     [
-      "iran",
+      "plan",
       3,
-      "anger"
+      "anticipation"
+    ],
+    [
+      "government",
+      3,
+      "fear"
+    ],
+    [
+      "growing",
+      3,
+      "joy"
     ],
     [
       "deal",
       3,
       "surprise"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
     ],
     [
       "killed",
@@ -101,11 +111,6 @@
       "school",
       3,
       "trust"
-    ],
-    [
-      "emergency",
-      3,
-      "fear"
     ],
     [
       "peace",
@@ -163,6 +168,11 @@
       "joy"
     ],
     [
+      "conflict",
+      2,
+      "anger"
+    ],
+    [
       "assault",
       2,
       "anger"
@@ -178,19 +188,14 @@
       "anger"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "escape",
       2,
       "fear"
     ],
     [
-      "plan",
+      "emergency",
       2,
-      "anticipation"
+      "fear"
     ],
     [
       "pilot",
@@ -238,6 +243,21 @@
       "trust"
     ],
     [
+      "force",
+      1,
+      "anger"
+    ],
+    [
+      "strategy",
+      1,
+      "anticipation"
+    ],
+    [
+      "blaming",
+      1,
+      "anger"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -256,6 +276,21 @@
       "weighing",
       1,
       "trust"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
+      "creating",
+      1,
+      "joy"
+    ],
+    [
+      "fear",
+      1,
+      "anger"
     ],
     [
       "capitalism",
@@ -341,51 +376,16 @@
       "justice",
       1,
       "trust"
-    ],
-    [
-      "abusing",
-      1,
-      "anger"
-    ],
-    [
-      "track",
-      1,
-      "anticipation"
-    ],
-    [
-      "stab",
-      1,
-      "anger"
-    ],
-    [
-      "heart",
-      1,
-      "joy"
-    ],
-    [
-      "intelligence",
-      1,
-      "fear"
-    ],
-    [
-      "scandals",
-      1,
-      "fear"
-    ],
-    [
-      "church",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 70,
-    "fear": 51,
-    "surprise": 12,
+    "trust": 72,
+    "fear": 48,
+    "surprise": 10,
     "sadness": 15,
     "disgust": 4,
-    "anger": 97,
-    "anticipation": 28
+    "anger": 102,
+    "anticipation": 30
   }
 }
