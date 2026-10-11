@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:50:47.053Z",
+  "generated_at": "2026-10-11T12:05:49.366Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,13 +9,18 @@
     ],
     [
       "people",
-      6,
+      7,
       "trust"
     ],
     [
       "war",
       6,
       "anger"
+    ],
+    [
+      "calls",
+      5,
+      "trust"
     ],
     [
       "airport",
@@ -46,11 +51,6 @@
       "death",
       4,
       "sadness"
-    ],
-    [
-      "calls",
-      4,
-      "trust"
     ],
     [
       "growing",
@@ -98,11 +98,6 @@
       "anticipation"
     ],
     [
-      "gaza",
-      3,
-      "anger"
-    ],
-    [
       "school",
       3,
       "trust"
@@ -116,6 +111,16 @@
       "peace",
       3,
       "joy"
+    ],
+    [
+      "green",
+      2,
+      "joy"
+    ],
+    [
+      "experts",
+      2,
+      "trust"
     ],
     [
       "deadly",
@@ -146,6 +151,11 @@
       "cyclone",
       2,
       "fear"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
     ],
     [
       "found",
@@ -230,6 +240,31 @@
     [
       "nation",
       2,
+      "trust"
+    ],
+    [
+      "capitalism",
+      1,
+      "disgust"
+    ],
+    [
+      "desert",
+      1,
+      "anger"
+    ],
+    [
+      "crucial",
+      1,
+      "trust"
+    ],
+    [
+      "escalating",
+      1,
+      "anger"
+    ],
+    [
+      "physicians",
+      1,
       "trust"
     ],
     [
@@ -338,54 +373,19 @@
       "fear"
     ],
     [
-      "problem",
-      1,
-      "fear"
-    ],
-    [
-      "violently",
-      1,
-      "anger"
-    ],
-    [
-      "smashing",
-      1,
-      "anger"
-    ],
-    [
-      "think",
-      1,
-      "trust"
-    ],
-    [
-      "worthy",
-      1,
-      "trust"
-    ],
-    [
-      "respect",
+      "church",
       1,
       "joy"
-    ],
-    [
-      "trash",
-      1,
-      "disgust"
-    ],
-    [
-      "wrecking",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 68,
+    "trust": 69,
     "fear": 51,
     "surprise": 12,
     "sadness": 15,
-    "disgust": 3,
-    "anger": 101,
+    "disgust": 4,
+    "anger": 98,
     "anticipation": 30
   }
 }
