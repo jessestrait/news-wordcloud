@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:51:11.849Z",
+  "generated_at": "2026-10-11T13:06:13.859Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,12 +18,7 @@
       "anger"
     ],
     [
-      "airport",
-      5,
-      "anticipation"
-    ],
-    [
-      "attack",
+      "strikes",
       5,
       "anger"
     ],
@@ -43,11 +38,6 @@
       "fear"
     ],
     [
-      "strikes",
-      4,
-      "anger"
-    ],
-    [
       "death",
       4,
       "sadness"
@@ -59,6 +49,16 @@
     ],
     [
       "public",
+      4,
+      "anticipation"
+    ],
+    [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
+      "airport",
       4,
       "anticipation"
     ],
@@ -113,9 +113,9 @@
       "joy"
     ],
     [
-      "deadly",
+      "continue",
       2,
-      "anger"
+      "trust"
     ],
     [
       "green",
@@ -218,11 +218,6 @@
       "surprise"
     ],
     [
-      "passenger",
-      2,
-      "anticipation"
-    ],
-    [
       "military",
       2,
       "fear"
@@ -248,7 +243,12 @@
       "sadness"
     ],
     [
-      "warn",
+      "ministry",
+      1,
+      "joy"
+    ],
+    [
+      "worse",
       1,
       "fear"
     ],
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 69,
+    "joy": 30,
+    "trust": 70,
     "fear": 51,
     "surprise": 12,
     "sadness": 15,
     "disgust": 4,
-    "anger": 98,
-    "anticipation": 30
+    "anger": 97,
+    "anticipation": 28
   }
 }
