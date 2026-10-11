@@ -1,9 +1,14 @@
 {
-  "generated_at": "2026-10-11T14:06:54.786Z",
+  "generated_at": "2026-10-11T14:21:57.361Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
+      8,
+      "anger"
+    ],
+    [
+      "war",
       8,
       "anger"
     ],
@@ -21,11 +26,6 @@
       "people",
       7,
       "trust"
-    ],
-    [
-      "war",
-      7,
-      "anger"
     ],
     [
       "calls",
@@ -128,7 +128,7 @@
       "anger"
     ],
     [
-      "force",
+      "forces",
       2,
       "anger"
     ],
@@ -176,11 +176,6 @@
       "found",
       2,
       "joy"
-    ],
-    [
-      "conflict",
-      2,
-      "anger"
     ],
     [
       "assault",
@@ -376,6 +371,11 @@
       "abusing",
       1,
       "anger"
+    ],
+    [
+      "track",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
