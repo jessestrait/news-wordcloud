@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-10-11T17:08:20.106Z",
+  "generated_at": "2026-10-11T17:23:24.263Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       10,
       "anger"
-    ],
-    [
-      "airport",
-      9,
-      "anticipation"
     ],
     [
       "trump",
@@ -23,19 +18,24 @@
       "anger"
     ],
     [
+      "airport",
+      8,
+      "anticipation"
+    ],
+    [
       "people",
       7,
       "trust"
     ],
     [
-      "strikes",
-      5,
-      "anger"
-    ],
-    [
       "president",
       5,
       "trust"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
     ],
     [
       "leader",
@@ -48,14 +48,19 @@
       "fear"
     ],
     [
+      "deal",
+      4,
+      "surprise"
+    ],
+    [
       "killed",
       4,
       "fear"
     ],
     [
-      "deal",
+      "iran",
       4,
-      "surprise"
+      "anger"
     ],
     [
       "public",
@@ -73,14 +78,14 @@
       "anger"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "plan",
       3,
       "anticipation"
-    ],
-    [
-      "iran",
-      3,
-      "anger"
     ],
     [
       "government",
@@ -121,6 +126,11 @@
       "missile",
       2,
       "fear"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
     ],
     [
       "escalating",
@@ -233,11 +243,6 @@
       "surprise"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "anger",
       2,
       "anger"
@@ -253,12 +258,22 @@
       "trust"
     ],
     [
+      "rejected",
+      1,
+      "anger"
+    ],
+    [
+      "bombing",
+      1,
+      "anger"
+    ],
+    [
       "middle",
       1,
       "sadness"
     ],
     [
-      "statement",
+      "spokesman",
       1,
       "trust"
     ],
@@ -269,16 +284,6 @@
     ],
     [
       "threaten",
-      1,
-      "anger"
-    ],
-    [
-      "rejected",
-      1,
-      "anger"
-    ],
-    [
-      "bombing",
       1,
       "anger"
     ],
@@ -371,21 +376,16 @@
       "importance",
       1,
       "anticipation"
-    ],
-    [
-      "coach",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 64,
-    "fear": 50,
+    "trust": 65,
+    "fear": 51,
     "surprise": 11,
     "sadness": 13,
     "disgust": 4,
-    "anger": 113,
-    "anticipation": 34
+    "anger": 114,
+    "anticipation": 33
   }
 }
