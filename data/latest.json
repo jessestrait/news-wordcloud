@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-10-11T15:07:21.342Z",
+  "generated_at": "2026-10-11T15:22:23.584Z",
   "article_count": 50,
   "top_words": [
     [
       "airport",
-      9,
-      "anticipation"
-    ],
-    [
-      "attack",
       8,
-      "anger"
+      "anticipation"
     ],
     [
       "people",
@@ -25,6 +20,11 @@
     [
       "war",
       8,
+      "anger"
+    ],
+    [
+      "attack",
+      7,
       "anger"
     ],
     [
@@ -43,12 +43,7 @@
       "fear"
     ],
     [
-      "strike",
-      4,
-      "anger"
-    ],
-    [
-      "government",
+      "killed",
       4,
       "fear"
     ],
@@ -68,9 +63,19 @@
       "anger"
     ],
     [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
       "deadly",
       3,
       "anger"
+    ],
+    [
+      "building",
+      3,
+      "anticipation"
     ],
     [
       "plan",
@@ -81,6 +86,11 @@
       "iran",
       3,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "death",
@@ -98,9 +108,9 @@
       "surprise"
     ],
     [
-      "killed",
+      "strikes",
       3,
-      "fear"
+      "anger"
     ],
     [
       "power",
@@ -123,14 +133,19 @@
       "joy"
     ],
     [
-      "media",
+      "passenger",
       2,
-      "disgust"
+      "anticipation"
     ],
     [
-      "forces",
+      "terminal",
       2,
-      "anger"
+      "fear"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
     ],
     [
       "official",
@@ -233,11 +248,6 @@
       "surprise"
     ],
     [
-      "terminal",
-      2,
-      "fear"
-    ],
-    [
       "military",
       2,
       "fear"
@@ -263,6 +273,11 @@
       "sadness"
     ],
     [
+      "projectile",
+      1,
+      "fear"
+    ],
+    [
       "vows",
       1,
       "joy"
@@ -286,6 +301,11 @@
       "missing",
       1,
       "fear"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
     ],
     [
       "strategy",
@@ -356,36 +376,16 @@
       "teams",
       1,
       "trust"
-    ],
-    [
-      "terrible",
-      1,
-      "anger"
-    ],
-    [
-      "denying",
-      1,
-      "anticipation"
-    ],
-    [
-      "importance",
-      1,
-      "anticipation"
-    ],
-    [
-      "coach",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 71,
-    "fear": 51,
+    "fear": 53,
     "surprise": 10,
     "sadness": 13,
-    "disgust": 5,
-    "anger": 105,
-    "anticipation": 34
+    "disgust": 4,
+    "anger": 104,
+    "anticipation": 37
   }
 }
