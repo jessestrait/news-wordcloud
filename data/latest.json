@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:02:19.166Z",
+  "generated_at": "2026-10-11T05:17:21.660Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "public",
-      7,
-      "anticipation"
-    ],
-    [
       "attack",
       7,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "trump",
@@ -23,9 +23,9 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
+      "public",
+      6,
+      "anticipation"
     ],
     [
       "hurricane",
@@ -33,22 +33,17 @@
       "fear"
     ],
     [
-      "death",
-      5,
-      "sadness"
-    ],
-    [
       "calls",
       4,
       "trust"
     ],
     [
-      "airport",
+      "growing",
       4,
-      "anticipation"
+      "joy"
     ],
     [
-      "power",
+      "airport",
       4,
       "anticipation"
     ],
@@ -88,6 +83,11 @@
       "anger"
     ],
     [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
       "gaza",
       3,
       "anger"
@@ -118,9 +118,14 @@
       "joy"
     ],
     [
-      "growing",
+      "challenge",
       3,
-      "joy"
+      "anger"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "injured",
@@ -213,11 +218,6 @@
       "anger"
     ],
     [
-      "challenge",
-      2,
-      "anger"
-    ],
-    [
       "nation",
       2,
       "trust"
@@ -246,6 +246,21 @@
       "scandals",
       1,
       "fear"
+    ],
+    [
+      "church",
+      1,
+      "joy"
+    ],
+    [
+      "crosses",
+      1,
+      "anger"
+    ],
+    [
+      "revival",
+      1,
+      "joy"
     ],
     [
       "problem",
@@ -361,31 +376,16 @@
       "beach",
       1,
       "joy"
-    ],
-    [
-      "dies",
-      1,
-      "fear"
-    ],
-    [
-      "jumping",
-      1,
-      "joy"
-    ],
-    [
-      "police",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 29,
     "trust": 65,
     "fear": 52,
     "surprise": 13,
-    "sadness": 16,
+    "sadness": 14,
     "disgust": 3,
-    "anger": 110,
-    "anticipation": 30
+    "anger": 109,
+    "anticipation": 28
   }
 }
