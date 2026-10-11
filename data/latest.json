@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:22:59.161Z",
+  "generated_at": "2026-10-11T16:38:01.386Z",
   "article_count": 50,
   "top_words": [
     [
@@ -111,11 +111,6 @@
       "peace",
       3,
       "joy"
-    ],
-    [
-      "second",
-      2,
-      "trust"
     ],
     [
       "deadly",
@@ -308,6 +303,11 @@
       "anger"
     ],
     [
+      "second",
+      1,
+      "trust"
+    ],
+    [
       "creating",
       1,
       "joy"
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 65,
+    "trust": 64,
     "fear": 50,
     "surprise": 11,
     "sadness": 13,
