@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:32:25.229Z",
+  "generated_at": "2026-10-12T09:47:27.747Z",
   "article_count": 50,
   "top_words": [
     [
@@ -233,6 +233,21 @@
       "joy"
     ],
     [
+      "battle",
+      1,
+      "anger"
+    ],
+    [
+      "prevent",
+      1,
+      "fear"
+    ],
+    [
+      "winning",
+      1,
+      "disgust"
+    ],
+    [
       "immediately",
       1,
       "anticipation"
@@ -361,30 +376,15 @@
       "rejected",
       1,
       "anger"
-    ],
-    [
-      "bombing",
-      1,
-      "anger"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 67,
-    "fear": 44,
-    "surprise": 11,
+    "trust": 66,
+    "fear": 45,
+    "surprise": 10,
     "sadness": 13,
-    "disgust": 4,
+    "disgust": 5,
     "anger": 112,
     "anticipation": 34
   }
