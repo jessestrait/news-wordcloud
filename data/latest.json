@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T13:34:54.804Z",
+  "generated_at": "2026-10-12T13:49:57.060Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      10,
+      11,
       "anger"
     ],
     [
@@ -23,34 +23,39 @@
       "anger"
     ],
     [
+      "airport",
+      7,
+      "anticipation"
+    ],
+    [
       "people",
       7,
       "trust"
     ],
     [
       "strike",
-      7,
+      6,
       "anger"
     ],
     [
-      "airport",
-      6,
-      "anticipation"
-    ],
-    [
       "power",
-      6,
-      "anticipation"
-    ],
-    [
-      "death",
       5,
-      "sadness"
+      "anticipation"
     ],
     [
       "president",
       5,
       "trust"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
+      "death",
+      4,
+      "sadness"
     ],
     [
       "hit",
@@ -68,13 +73,13 @@
       "surprise"
     ],
     [
-      "storm",
-      4,
-      "anger"
-    ],
-    [
       "hurricane",
       4,
+      "fear"
+    ],
+    [
+      "government",
+      3,
       "fear"
     ],
     [
@@ -88,9 +93,14 @@
       "anticipation"
     ],
     [
-      "iran",
+      "storm",
       3,
       "anger"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
     ],
     [
       "rejects",
@@ -148,17 +158,17 @@
       "trust"
     ],
     [
-      "earthquake",
-      2,
-      "anger"
-    ],
-    [
       "warning",
       2,
       "fear"
     ],
     [
       "warn",
+      2,
+      "fear"
+    ],
+    [
+      "missile",
       2,
       "fear"
     ],
@@ -183,24 +193,9 @@
       "fear"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "experts",
       2,
       "trust"
-    ],
-    [
-      "life",
-      2,
-      "joy"
-    ],
-    [
-      "threatening",
-      2,
-      "anger"
     ],
     [
       "injured",
@@ -218,16 +213,6 @@
       "joy"
     ],
     [
-      "destruction",
-      2,
-      "anger"
-    ],
-    [
-      "powerful",
-      2,
-      "anger"
-    ],
-    [
       "school",
       2,
       "trust"
@@ -238,16 +223,6 @@
       "anger"
     ],
     [
-      "escape",
-      2,
-      "fear"
-    ],
-    [
-      "emergency",
-      2,
-      "fear"
-    ],
-    [
       "brothers",
       2,
       "trust"
@@ -256,6 +231,26 @@
       "friend",
       2,
       "joy"
+    ],
+    [
+      "sadness",
+      1,
+      "sadness"
+    ],
+    [
+      "landmark",
+      1,
+      "trust"
+    ],
+    [
+      "escaped",
+      1,
+      "fear"
+    ],
+    [
+      "attacking",
+      1,
+      "anger"
     ],
     [
       "coach",
@@ -376,16 +371,21 @@
       "struggling",
       1,
       "anger"
+    ],
+    [
+      "attendance",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 61,
-    "fear": 44,
-    "surprise": 11,
+    "joy": 27,
+    "trust": 62,
+    "fear": 43,
+    "surprise": 10,
     "sadness": 16,
     "disgust": 5,
-    "anger": 112,
-    "anticipation": 30
+    "anger": 109,
+    "anticipation": 29
   }
 }
