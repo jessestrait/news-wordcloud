@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:47:27.747Z",
+  "generated_at": "2026-10-12T10:02:30.260Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,13 +8,13 @@
       "anger"
     ],
     [
-      "war",
+      "attack",
       9,
       "anger"
     ],
     [
-      "attack",
-      9,
+      "war",
+      8,
       "anger"
     ],
     [
@@ -33,29 +33,24 @@
       "anticipation"
     ],
     [
+      "power",
+      6,
+      "anticipation"
+    ],
+    [
+      "president",
+      6,
+      "trust"
+    ],
+    [
       "strike",
       6,
       "anger"
     ],
     [
-      "power",
-      5,
-      "anticipation"
-    ],
-    [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "hit",
       4,
       "anger"
-    ],
-    [
-      "plan",
-      4,
-      "anticipation"
     ],
     [
       "killed",
@@ -68,14 +63,19 @@
       "anticipation"
     ],
     [
-      "iran",
+      "deal",
+      4,
+      "surprise"
+    ],
+    [
+      "storm",
       4,
       "anger"
     ],
     [
-      "deal",
+      "death",
       4,
-      "surprise"
+      "sadness"
     ],
     [
       "hurricane",
@@ -83,12 +83,17 @@
       "fear"
     ],
     [
-      "death",
+      "plan",
       3,
-      "sadness"
+      "anticipation"
     ],
     [
-      "storm",
+      "warning",
+      3,
+      "fear"
+    ],
+    [
+      "iran",
       3,
       "anger"
     ],
@@ -118,7 +123,7 @@
       "anger"
     ],
     [
-      "warning",
+      "warn",
       2,
       "fear"
     ],
@@ -143,6 +148,11 @@
       "fear"
     ],
     [
+      "flooding",
+      2,
+      "fear"
+    ],
+    [
       "government",
       2,
       "fear"
@@ -163,11 +173,6 @@
       "anger"
     ],
     [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
       "injured",
       2,
       "fear"
@@ -186,6 +191,11 @@
       "found",
       2,
       "joy"
+    ],
+    [
+      "destruction",
+      2,
+      "anger"
     ],
     [
       "powerful",
@@ -233,6 +243,16 @@
       "joy"
     ],
     [
+      "immediately",
+      1,
+      "anticipation"
+    ],
+    [
+      "truth",
+      1,
+      "trust"
+    ],
+    [
       "battle",
       1,
       "anger"
@@ -246,16 +266,6 @@
       "winning",
       1,
       "disgust"
-    ],
-    [
-      "immediately",
-      1,
-      "anticipation"
-    ],
-    [
-      "truth",
-      1,
-      "trust"
     ],
     [
       "struggling",
@@ -313,11 +323,6 @@
       "anger"
     ],
     [
-      "warn",
-      1,
-      "fear"
-    ],
-    [
       "deadly",
       1,
       "anger"
@@ -371,21 +376,16 @@
       "world",
       1,
       "trust"
-    ],
-    [
-      "rejected",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 66,
-    "fear": 45,
-    "surprise": 10,
-    "sadness": 13,
+    "trust": 67,
+    "fear": 47,
+    "surprise": 9,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 112,
-    "anticipation": 34
+    "anger": 111,
+    "anticipation": 33
   }
 }
