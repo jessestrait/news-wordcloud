@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:27:04.595Z",
+  "generated_at": "2026-10-12T00:42:06.454Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,7 +24,7 @@
     ],
     [
       "people",
-      7,
+      6,
       "trust"
     ],
     [
@@ -103,11 +103,6 @@
       "sadness"
     ],
     [
-      "growing",
-      3,
-      "joy"
-    ],
-    [
       "power",
       3,
       "anticipation"
@@ -116,6 +111,16 @@
       "peace",
       3,
       "joy"
+    ],
+    [
+      "earthquake",
+      2,
+      "anger"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
     ],
     [
       "authorities",
@@ -161,6 +166,11 @@
       "ally",
       2,
       "trust"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "injured",
@@ -241,6 +251,21 @@
       "challenge",
       2,
       "anger"
+    ],
+    [
+      "mosque",
+      1,
+      "anger"
+    ],
+    [
+      "systems",
+      1,
+      "trust"
+    ],
+    [
+      "warn",
+      1,
+      "fear"
     ],
     [
       "deadly",
@@ -351,41 +376,16 @@
       "crucial",
       1,
       "trust"
-    ],
-    [
-      "physicians",
-      1,
-      "trust"
-    ],
-    [
-      "volunteers",
-      1,
-      "trust"
-    ],
-    [
-      "protecting",
-      1,
-      "trust"
-    ],
-    [
-      "powered",
-      1,
-      "anticipation"
-    ],
-    [
-      "teams",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 64,
-    "fear": 50,
+    "joy": 26,
+    "trust": 61,
+    "fear": 51,
     "surprise": 12,
     "sadness": 14,
     "disgust": 4,
-    "anger": 113,
+    "anger": 115,
     "anticipation": 34
   }
 }
