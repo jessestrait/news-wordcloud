@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T13:19:52.655Z",
+  "generated_at": "2026-10-12T13:34:54.804Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "attack",
-      9,
+      10,
       "anger"
     ],
     [
       "leader",
-      8,
+      9,
       "trust"
     ],
     [
@@ -43,6 +43,11 @@
       "anticipation"
     ],
     [
+      "death",
+      5,
+      "sadness"
+    ],
+    [
       "president",
       5,
       "trust"
@@ -68,11 +73,6 @@
       "anger"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "hurricane",
       4,
       "fear"
@@ -93,17 +93,17 @@
       "anger"
     ],
     [
-      "church",
-      2,
-      "joy"
-    ],
-    [
       "rejects",
       2,
       "anger"
     ],
     [
       "truce",
+      2,
+      "joy"
+    ],
+    [
+      "church",
       2,
       "joy"
     ],
@@ -258,6 +258,46 @@
       "joy"
     ],
     [
+      "coach",
+      1,
+      "trust"
+    ],
+    [
+      "child",
+      1,
+      "joy"
+    ],
+    [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
+      "justice",
+      1,
+      "trust"
+    ],
+    [
+      "abusing",
+      1,
+      "anger"
+    ],
+    [
+      "track",
+      1,
+      "anticipation"
+    ],
+    [
+      "fragile",
+      1,
+      "fear"
+    ],
+    [
+      "leaves",
+      1,
+      "sadness"
+    ],
+    [
       "family",
       1,
       "joy"
@@ -336,56 +376,16 @@
       "struggling",
       1,
       "anger"
-    ],
-    [
-      "attendance",
-      1,
-      "anticipation"
-    ],
-    [
-      "young",
-      1,
-      "surprise"
-    ],
-    [
-      "love",
-      1,
-      "joy"
-    ],
-    [
-      "lesson",
-      1,
-      "trust"
-    ],
-    [
-      "tax",
-      1,
-      "sadness"
-    ],
-    [
-      "filled",
-      1,
-      "trust"
-    ],
-    [
-      "mosque",
-      1,
-      "anger"
-    ],
-    [
-      "missile",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 62,
-    "fear": 43,
+    "joy": 28,
+    "trust": 61,
+    "fear": 44,
     "surprise": 11,
-    "sadness": 14,
+    "sadness": 16,
     "disgust": 5,
-    "anger": 114,
-    "anticipation": 31
+    "anger": 112,
+    "anticipation": 30
   }
 }
