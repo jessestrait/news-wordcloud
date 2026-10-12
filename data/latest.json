@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T12:18:53.578Z",
+  "generated_at": "2026-10-12T12:33:56.214Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "airport",
-      8,
-      "anticipation"
-    ],
-    [
       "leader",
       8,
       "trust"
+    ],
+    [
+      "airport",
+      8,
+      "anticipation"
     ],
     [
       "war",
@@ -78,6 +78,11 @@
       "fear"
     ],
     [
+      "pilot",
+      3,
+      "trust"
+    ],
+    [
       "plan",
       3,
       "anticipation"
@@ -90,6 +95,11 @@
     [
       "iran",
       3,
+      "anger"
+    ],
+    [
+      "rejects",
+      2,
       "anger"
     ],
     [
@@ -243,11 +253,6 @@
       "joy"
     ],
     [
-      "pilot",
-      2,
-      "trust"
-    ],
-    [
       "guilty",
       2,
       "anger"
@@ -263,9 +268,14 @@
       "joy"
     ],
     [
-      "rejects",
+      "alleged",
       1,
-      "anger"
+      "fear"
+    ],
+    [
+      "associating",
+      1,
+      "trust"
     ],
     [
       "vows",
@@ -328,16 +338,6 @@
       "sadness"
     ],
     [
-      "alleged",
-      1,
-      "fear"
-    ],
-    [
-      "virtues",
-      1,
-      "trust"
-    ],
-    [
       "filled",
       1,
       "trust"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 64,
+    "trust": 65,
     "fear": 44,
     "surprise": 10,
     "sadness": 14,
     "disgust": 5,
-    "anger": 117,
+    "anger": 118,
     "anticipation": 32
   }
 }
