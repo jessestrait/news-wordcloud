@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:20:21.611Z",
+  "generated_at": "2026-10-12T14:35:23.890Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,11 +53,6 @@
       "anger"
     ],
     [
-      "death",
-      4,
-      "sadness"
-    ],
-    [
       "hit",
       4,
       "anger"
@@ -96,6 +91,11 @@
       "storm",
       3,
       "anger"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "rejects",
@@ -233,6 +233,26 @@
       "joy"
     ],
     [
+      "awarded",
+      1,
+      "surprise"
+    ],
+    [
+      "developed",
+      1,
+      "anticipation"
+    ],
+    [
+      "bankers",
+      1,
+      "trust"
+    ],
+    [
+      "economies",
+      1,
+      "trust"
+    ],
+    [
       "sadness",
       1,
       "sadness"
@@ -283,6 +303,16 @@
       "anticipation"
     ],
     [
+      "indecent",
+      1,
+      "disgust"
+    ],
+    [
+      "bereavement",
+      1,
+      "sadness"
+    ],
+    [
       "fragile",
       1,
       "fear"
@@ -306,26 +336,6 @@
       "mountains",
       1,
       "anticipation"
-    ],
-    [
-      "awarded",
-      1,
-      "surprise"
-    ],
-    [
-      "developed",
-      1,
-      "anticipation"
-    ],
-    [
-      "bankers",
-      1,
-      "trust"
-    ],
-    [
-      "economies",
-      1,
-      "trust"
     ],
     [
       "alleged",
@@ -366,16 +376,6 @@
       "winning",
       1,
       "disgust"
-    ],
-    [
-      "struggling",
-      1,
-      "anger"
-    ],
-    [
-      "attendance",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
@@ -384,7 +384,7 @@
     "fear": 43,
     "surprise": 10,
     "sadness": 16,
-    "disgust": 5,
+    "disgust": 6,
     "anger": 109,
     "anticipation": 29
   }
