@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T04:44:02.440Z",
+  "generated_at": "2026-10-12T04:59:04.497Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anticipation"
     ],
     [
+      "leader",
+      7,
+      "trust"
+    ],
+    [
       "strike",
       6,
       "anger"
@@ -36,11 +41,6 @@
       "killed",
       5,
       "fear"
-    ],
-    [
-      "leader",
-      5,
-      "trust"
     ],
     [
       "power",
@@ -93,11 +93,6 @@
       "anticipation"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "death",
       3,
       "sadness"
@@ -138,9 +133,9 @@
       "anger"
     ],
     [
-      "world",
+      "government",
       2,
-      "trust"
+      "fear"
     ],
     [
       "green",
@@ -238,14 +233,19 @@
       "joy"
     ],
     [
-      "anger",
+      "challenge",
       2,
       "anger"
     ],
     [
-      "challenge",
-      2,
-      "anger"
+      "alleged",
+      1,
+      "fear"
+    ],
+    [
+      "virtues",
+      1,
+      "trust"
     ],
     [
       "filled",
@@ -323,6 +323,11 @@
       "surprise"
     ],
     [
+      "world",
+      1,
+      "trust"
+    ],
+    [
       "rejected",
       1,
       "anger"
@@ -371,21 +376,16 @@
       "capitalism",
       1,
       "disgust"
-    ],
-    [
-      "desert",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 62,
-    "fear": 49,
+    "trust": 64,
+    "fear": 48,
     "surprise": 10,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 4,
-    "anger": 118,
-    "anticipation": 35
+    "anger": 116,
+    "anticipation": 34
   }
 }
