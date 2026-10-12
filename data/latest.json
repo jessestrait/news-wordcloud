@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T08:46:58.698Z",
+  "generated_at": "2026-10-12T09:02:01.375Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "trust"
     ],
     [
-      "deal",
-      5,
-      "surprise"
-    ],
-    [
       "hit",
       4,
       "anger"
@@ -76,6 +71,11 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "deal",
+      4,
+      "surprise"
     ],
     [
       "hurricane",
@@ -233,6 +233,16 @@
       "joy"
     ],
     [
+      "immediately",
+      1,
+      "anticipation"
+    ],
+    [
+      "truth",
+      1,
+      "trust"
+    ],
+    [
       "struggling",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "forces",
       1,
       "anger"
-    ],
-    [
-      "strategy",
-      1,
-      "anticipation"
-    ],
-    [
-      "blaming",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 66,
+    "trust": 67,
     "fear": 44,
-    "surprise": 12,
+    "surprise": 11,
     "sadness": 13,
     "disgust": 4,
     "anger": 112,
-    "anticipation": 33
+    "anticipation": 34
   }
 }
