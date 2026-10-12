@@ -1,14 +1,19 @@
 {
-  "generated_at": "2026-10-12T03:13:15.513Z",
+  "generated_at": "2026-10-12T03:28:17.464Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      10,
+      11,
       "anger"
     ],
     [
       "trump",
+      10,
+      "anger"
+    ],
+    [
+      "war",
       9,
       "anger"
     ],
@@ -18,8 +23,8 @@
       "anticipation"
     ],
     [
-      "war",
-      8,
+      "strike",
+      6,
       "anger"
     ],
     [
@@ -28,9 +33,9 @@
       "trust"
     ],
     [
-      "strike",
+      "killed",
       5,
-      "anger"
+      "fear"
     ],
     [
       "leader",
@@ -38,14 +43,9 @@
       "trust"
     ],
     [
-      "hurricane",
-      5,
-      "fear"
-    ],
-    [
-      "killed",
+      "power",
       4,
-      "fear"
+      "anticipation"
     ],
     [
       "happened",
@@ -73,9 +73,9 @@
       "anticipation"
     ],
     [
-      "storm",
+      "hurricane",
       4,
-      "anger"
+      "fear"
     ],
     [
       "hit",
@@ -103,9 +103,9 @@
       "sadness"
     ],
     [
-      "power",
+      "storm",
       3,
-      "anticipation"
+      "anger"
     ],
     [
       "peace",
@@ -238,11 +238,6 @@
       "joy"
     ],
     [
-      "surge",
-      2,
-      "surprise"
-    ],
-    [
       "anger",
       2,
       "anger"
@@ -251,6 +246,16 @@
       "challenge",
       2,
       "anger"
+    ],
+    [
+      "filled",
+      1,
+      "trust"
+    ],
+    [
+      "truce",
+      1,
+      "joy"
     ],
     [
       "mosque",
@@ -371,21 +376,16 @@
       "desert",
       1,
       "anger"
-    ],
-    [
-      "crucial",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 61,
-    "fear": 51,
-    "surprise": 12,
+    "joy": 27,
+    "trust": 62,
+    "fear": 49,
+    "surprise": 10,
     "sadness": 14,
     "disgust": 4,
-    "anger": 115,
-    "anticipation": 34
+    "anger": 118,
+    "anticipation": 35
   }
 }
