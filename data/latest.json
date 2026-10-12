@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T18:22:33.357Z",
+  "generated_at": "2026-10-12T18:37:35.723Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "trust"
     ],
     [
+      "death",
+      4,
+      "sadness"
+    ],
+    [
       "happened",
       4,
       "anticipation"
@@ -73,6 +78,11 @@
       "fear"
     ],
     [
+      "experts",
+      3,
+      "trust"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -93,9 +103,14 @@
       "anger"
     ],
     [
-      "death",
-      3,
-      "sadness"
+      "attacked",
+      2,
+      "anger"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
     ],
     [
       "mountain",
@@ -131,11 +146,6 @@
       "church",
       2,
       "joy"
-    ],
-    [
-      "pilot",
-      2,
-      "trust"
     ],
     [
       "system",
@@ -188,11 +198,6 @@
       "fear"
     ],
     [
-      "experts",
-      2,
-      "trust"
-    ],
-    [
       "injured",
       2,
       "fear"
@@ -211,6 +216,16 @@
       "protesters",
       2,
       "anger"
+    ],
+    [
+      "incidents",
+      1,
+      "surprise"
+    ],
+    [
+      "crocodile",
+      1,
+      "fear"
     ],
     [
       "rescued",
@@ -353,39 +368,24 @@
       "trust"
     ],
     [
+      "pilot",
+      1,
+      "trust"
+    ],
+    [
       "battle",
       1,
       "anger"
-    ],
-    [
-      "prevent",
-      1,
-      "fear"
-    ],
-    [
-      "winning",
-      1,
-      "disgust"
-    ],
-    [
-      "struggling",
-      1,
-      "anger"
-    ],
-    [
-      "attendance",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 61,
-    "fear": 42,
-    "surprise": 10,
-    "sadness": 16,
+    "trust": 60,
+    "fear": 43,
+    "surprise": 11,
+    "sadness": 17,
     "disgust": 6,
     "anger": 106,
-    "anticipation": 31
+    "anticipation": 32
   }
 }
