@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:17:53.703Z",
+  "generated_at": "2026-10-12T10:32:55.615Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,24 +33,19 @@
       "anticipation"
     ],
     [
-      "power",
-      6,
-      "anticipation"
-    ],
-    [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "strike",
       6,
       "anger"
     ],
     [
-      "hit",
-      4,
-      "anger"
+      "power",
+      5,
+      "anticipation"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "killed",
@@ -93,6 +88,11 @@
       "fear"
     ],
     [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
       "iran",
       3,
       "anger"
@@ -100,6 +100,11 @@
     [
       "peace",
       3,
+      "joy"
+    ],
+    [
+      "truce",
+      2,
       "joy"
     ],
     [
@@ -243,14 +248,9 @@
       "joy"
     ],
     [
-      "immediately",
+      "rejects",
       1,
-      "anticipation"
-    ],
-    [
-      "truth",
-      1,
-      "trust"
+      "anger"
     ],
     [
       "battle",
@@ -313,11 +313,6 @@
       "trust"
     ],
     [
-      "truce",
-      1,
-      "joy"
-    ],
-    [
       "mosque",
       1,
       "anger"
@@ -376,16 +371,21 @@
       "world",
       1,
       "trust"
+    ],
+    [
+      "rejected",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 67,
+    "joy": 27,
+    "trust": 65,
     "fear": 47,
     "surprise": 9,
     "sadness": 14,
     "disgust": 5,
     "anger": 111,
-    "anticipation": 33
+    "anticipation": 31
   }
 }
