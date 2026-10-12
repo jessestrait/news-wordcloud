@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T04:59:22.609Z",
+  "generated_at": "2026-10-12T05:14:24.691Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,11 @@
       "joy"
     ],
     [
+      "suggest",
+      2,
+      "trust"
+    ],
+    [
       "earthquake",
       2,
       "anger"
@@ -136,11 +141,6 @@
       "government",
       2,
       "fear"
-    ],
-    [
-      "green",
-      2,
-      "joy"
     ],
     [
       "experts",
@@ -233,9 +233,9 @@
       "joy"
     ],
     [
-      "challenge",
-      2,
-      "anger"
+      "tax",
+      1,
+      "sadness"
     ],
     [
       "alleged",
@@ -373,19 +373,19 @@
       "anger"
     ],
     [
-      "capitalism",
+      "green",
       1,
-      "disgust"
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 64,
+    "joy": 25,
+    "trust": 65,
     "fear": 48,
     "surprise": 10,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 4,
-    "anger": 116,
+    "anger": 115,
     "anticipation": 34
   }
 }
