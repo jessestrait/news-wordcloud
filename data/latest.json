@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:36:39.376Z",
+  "generated_at": "2026-10-12T16:51:41.685Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "trust"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "hit",
       4,
       "anger"
@@ -79,11 +84,6 @@
     ],
     [
       "plan",
-      3,
-      "anticipation"
-    ],
-    [
-      "happened",
       3,
       "anticipation"
     ],
@@ -386,6 +386,6 @@
     "sadness": 16,
     "disgust": 6,
     "anger": 108,
-    "anticipation": 29
+    "anticipation": 30
   }
 }
