@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:16:45.387Z",
+  "generated_at": "2026-10-13T11:31:48.014Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,14 +38,14 @@
       "anticipation"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "power",
       6,
       "anticipation"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "deal",
@@ -100,6 +100,11 @@
     [
       "killed",
       3,
+      "fear"
+    ],
+    [
+      "hospital",
+      2,
       "fear"
     ],
     [
@@ -218,11 +223,6 @@
       "trust"
     ],
     [
-      "warn",
-      2,
-      "fear"
-    ],
-    [
       "missile",
       2,
       "fear"
@@ -240,6 +240,31 @@
     [
       "cyclone",
       2,
+      "fear"
+    ],
+    [
+      "operation",
+      1,
+      "fear"
+    ],
+    [
+      "remove",
+      1,
+      "anger"
+    ],
+    [
+      "arrived",
+      1,
+      "anticipation"
+    ],
+    [
+      "surgery",
+      1,
+      "fear"
+    ],
+    [
+      "risk",
+      1,
       "fear"
     ],
     [
@@ -351,41 +376,16 @@
       "deputy",
       1,
       "trust"
-    ],
-    [
-      "collapsing",
-      1,
-      "fear"
-    ],
-    [
-      "incidents",
-      1,
-      "surprise"
-    ],
-    [
-      "crocodile",
-      1,
-      "fear"
-    ],
-    [
-      "rescued",
-      1,
-      "surprise"
-    ],
-    [
-      "ground",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 67,
-    "fear": 44,
+    "trust": 65,
+    "fear": 48,
     "surprise": 13,
     "sadness": 16,
     "disgust": 6,
-    "anger": 105,
-    "anticipation": 33
+    "anger": 104,
+    "anticipation": 34
   }
 }
