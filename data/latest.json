@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-13T15:19:26.817Z",
+  "generated_at": "2026-10-13T15:34:29.312Z",
   "article_count": 50,
   "top_words": [
     [
-      "trump",
+      "attack",
       12,
       "anger"
     ],
     [
-      "attack",
-      12,
+      "trump",
+      11,
       "anger"
     ],
     [
@@ -24,13 +24,8 @@
     ],
     [
       "leader",
-      8,
-      "trust"
-    ],
-    [
-      "war",
       7,
-      "anger"
+      "trust"
     ],
     [
       "airport",
@@ -38,19 +33,19 @@
       "anticipation"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "power",
       6,
       "anticipation"
     ],
     [
-      "deal",
+      "war",
+      6,
+      "anger"
+    ],
+    [
+      "president",
       4,
-      "surprise"
+      "trust"
     ],
     [
       "death",
@@ -63,19 +58,14 @@
       "anger"
     ],
     [
-      "suggest",
+      "warning",
       3,
-      "trust"
+      "fear"
     ],
     [
       "media",
       3,
       "disgust"
-    ],
-    [
-      "warning",
-      3,
-      "fear"
     ],
     [
       "missile",
@@ -103,6 +93,11 @@
       "fear"
     ],
     [
+      "deal",
+      3,
+      "surprise"
+    ],
+    [
       "happened",
       3,
       "anticipation"
@@ -121,6 +116,11 @@
       "announcement",
       2,
       "anticipation"
+    ],
+    [
+      "suggest",
+      2,
+      "trust"
     ],
     [
       "warn",
@@ -241,6 +241,16 @@
       "cyclone",
       2,
       "fear"
+    ],
+    [
+      "delayed",
+      1,
+      "anger"
+    ],
+    [
+      "advice",
+      1,
+      "trust"
     ],
     [
       "disinformation",
@@ -366,26 +376,16 @@
       "critical",
       1,
       "trust"
-    ],
-    [
-      "leading",
-      1,
-      "trust"
-    ],
-    [
-      "opponent",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 68,
+    "trust": 65,
     "fear": 46,
-    "surprise": 13,
+    "surprise": 12,
     "sadness": 16,
     "disgust": 7,
-    "anger": 106,
+    "anger": 105,
     "anticipation": 34
   }
 }
