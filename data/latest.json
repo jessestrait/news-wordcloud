@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:06:47.927Z",
+  "generated_at": "2026-10-13T19:21:50.510Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,6 +243,26 @@
       "trust"
     ],
     [
+      "surgery",
+      1,
+      "fear"
+    ],
+    [
+      "remove",
+      1,
+      "anger"
+    ],
+    [
+      "operation",
+      1,
+      "fear"
+    ],
+    [
+      "hospital",
+      1,
+      "fear"
+    ],
+    [
       "escalates",
       1,
       "anger"
@@ -348,34 +368,14 @@
       "anger"
     ],
     [
-      "hospital",
-      1,
-      "fear"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "remove",
-      1,
-      "anger"
-    ],
-    [
-      "surgery",
-      1,
-      "fear"
-    ],
-    [
-      "malignant",
-      1,
-      "anger"
-    ],
-    [
       "engulfing",
       1,
       "anticipation"
+    ],
+    [
+      "top",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 12,
     "sadness": 18,
     "disgust": 7,
-    "anger": 105,
+    "anger": 104,
     "anticipation": 33
   }
 }
