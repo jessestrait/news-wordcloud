@@ -1,24 +1,19 @@
 {
-  "generated_at": "2026-10-13T10:00:59.882Z",
+  "generated_at": "2026-10-13T10:16:01.878Z",
   "article_count": 50,
   "top_words": [
+    [
+      "trump",
+      12,
+      "anger"
+    ],
     [
       "attack",
       12,
       "anger"
     ],
     [
-      "trump",
-      10,
-      "anger"
-    ],
-    [
       "people",
-      9,
-      "trust"
-    ],
-    [
-      "leader",
       9,
       "trust"
     ],
@@ -28,24 +23,29 @@
       "anger"
     ],
     [
+      "leader",
+      8,
+      "trust"
+    ],
+    [
+      "strike",
+      8,
+      "anger"
+    ],
+    [
       "airport",
       7,
       "anticipation"
     ],
     [
-      "strike",
+      "president",
       6,
-      "anger"
+      "trust"
     ],
     [
       "power",
-      5,
+      6,
       "anticipation"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "deal",
@@ -61,6 +61,11 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "warning",
+      3,
+      "fear"
     ],
     [
       "church",
@@ -96,6 +101,31 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "announcement",
+      2,
+      "anticipation"
+    ],
+    [
+      "schools",
+      2,
+      "trust"
+    ],
+    [
+      "scandal",
+      2,
+      "fear"
+    ],
+    [
+      "court",
+      2,
+      "anger"
+    ],
+    [
+      "damage",
+      2,
+      "anger"
     ],
     [
       "media",
@@ -188,11 +218,6 @@
       "trust"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "warn",
       2,
       "fear"
@@ -201,11 +226,6 @@
       "missile",
       2,
       "fear"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "escalating",
@@ -221,6 +241,41 @@
       "cyclone",
       2,
       "fear"
+    ],
+    [
+      "stolen",
+      1,
+      "anger"
+    ],
+    [
+      "teacher",
+      1,
+      "trust"
+    ],
+    [
+      "shortages",
+      1,
+      "anger"
+    ],
+    [
+      "crumbling",
+      1,
+      "sadness"
+    ],
+    [
+      "engulfing",
+      1,
+      "anticipation"
+    ],
+    [
+      "top",
+      1,
+      "trust"
+    ],
+    [
+      "convict",
+      1,
+      "anger"
     ],
     [
       "lawyers",
@@ -266,11 +321,6 @@
       "rescue",
       1,
       "surprise"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
     ],
     [
       "falls",
@@ -326,66 +376,16 @@
       "ground",
       1,
       "trust"
-    ],
-    [
-      "vows",
-      1,
-      "joy"
-    ],
-    [
-      "retaliate",
-      1,
-      "anger"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
-    ],
-    [
-      "surprised",
-      1,
-      "surprise"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
-      "barricades",
-      1,
-      "fear"
-    ],
-    [
-      "court",
-      1,
-      "anger"
-    ],
-    [
-      "resignation",
-      1,
-      "sadness"
-    ],
-    [
-      "awarded",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 65,
-    "fear": 42,
+    "trust": 67,
+    "fear": 44,
     "surprise": 13,
     "sadness": 16,
     "disgust": 6,
-    "anger": 101,
-    "anticipation": 30
+    "anger": 105,
+    "anticipation": 33
   }
 }
