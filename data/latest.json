@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:53:24.261Z",
+  "generated_at": "2026-10-13T22:08:26.709Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,16 +108,6 @@
       "anger"
     ],
     [
-      "removed",
-      2,
-      "anger"
-    ],
-    [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
       "warn",
       2,
       "fear"
@@ -126,6 +116,16 @@
       "intelligence",
       2,
       "fear"
+    ],
+    [
+      "removed",
+      2,
+      "anger"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
     ],
     [
       "crumbling",
@@ -243,6 +243,16 @@
       "trust"
     ],
     [
+      "threatened",
+      1,
+      "anger"
+    ],
+    [
+      "sharing",
+      1,
+      "joy"
+    ],
+    [
       "cancer",
       1,
       "anger"
@@ -281,16 +291,6 @@
       "warned",
       1,
       "fear"
-    ],
-    [
-      "threatened",
-      1,
-      "anger"
-    ],
-    [
-      "sharing",
-      1,
-      "joy"
     ],
     [
       "teacher",
