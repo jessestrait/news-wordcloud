@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-13T17:50:54.484Z",
+  "generated_at": "2026-10-13T18:05:56.449Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
+      "strike",
       12,
       "anger"
     ],
     [
-      "strike",
-      11,
+      "attack",
+      12,
       "anger"
     ],
     [
@@ -23,6 +23,11 @@
       "trust"
     ],
     [
+      "airport",
+      7,
+      "anticipation"
+    ],
+    [
       "leader",
       7,
       "trust"
@@ -31,11 +36,6 @@
       "war",
       6,
       "anger"
-    ],
-    [
-      "airport",
-      6,
-      "anticipation"
     ],
     [
       "president",
@@ -51,6 +51,11 @@
       "power",
       4,
       "anticipation"
+    ],
+    [
+      "deadly",
+      3,
+      "anger"
     ],
     [
       "missile",
@@ -101,6 +106,16 @@
       "iran",
       3,
       "anger"
+    ],
+    [
+      "conflict",
+      2,
+      "anger"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
     ],
     [
       "warn",
@@ -183,11 +198,6 @@
       "anticipation"
     ],
     [
-      "deadly",
-      2,
-      "anger"
-    ],
-    [
       "fear",
       2,
       "anger"
@@ -233,12 +243,12 @@
       "trust"
     ],
     [
-      "warned",
+      "escalates",
       1,
-      "fear"
+      "anger"
     ],
     [
-      "evacuate",
+      "warned",
       1,
       "fear"
     ],
@@ -366,26 +376,16 @@
       "engulfing",
       1,
       "anticipation"
-    ],
-    [
-      "top",
-      1,
-      "trust"
-    ],
-    [
-      "convict",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 66,
-    "fear": 42,
+    "fear": 41,
     "surprise": 12,
-    "sadness": 17,
+    "sadness": 18,
     "disgust": 7,
-    "anger": 101,
-    "anticipation": 32
+    "anger": 105,
+    "anticipation": 33
   }
 }
