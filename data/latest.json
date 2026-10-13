@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:03:19.713Z",
+  "generated_at": "2026-10-13T14:18:23.617Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,12 +63,12 @@
       "anger"
     ],
     [
-      "missile",
+      "warning",
       3,
       "fear"
     ],
     [
-      "warning",
+      "missile",
       3,
       "fear"
     ],
@@ -108,6 +108,11 @@
       "fear"
     ],
     [
+      "announcement",
+      2,
+      "anticipation"
+    ],
+    [
       "warn",
       2,
       "fear"
@@ -116,11 +121,6 @@
       "intelligence",
       2,
       "fear"
-    ],
-    [
-      "announcement",
-      2,
-      "anticipation"
     ],
     [
       "deputy",
