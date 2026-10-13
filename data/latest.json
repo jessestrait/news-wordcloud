@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:21:50.510Z",
+  "generated_at": "2026-10-13T19:36:54.771Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "anger"
     ],
     [
+      "missile",
+      4,
+      "fear"
+    ],
+    [
       "president",
       4,
       "trust"
@@ -56,11 +61,6 @@
       "deadly",
       3,
       "anger"
-    ],
-    [
-      "missile",
-      3,
-      "fear"
     ],
     [
       "school",
@@ -105,11 +105,6 @@
     [
       "iran",
       3,
-      "anger"
-    ],
-    [
-      "conflict",
-      2,
       "anger"
     ],
     [
@@ -263,9 +258,9 @@
       "fear"
     ],
     [
-      "escalates",
+      "launched",
       1,
-      "anger"
+      "anticipation"
     ],
     [
       "warned",
@@ -376,16 +371,21 @@
       "top",
       1,
       "trust"
+    ],
+    [
+      "convict",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 66,
-    "fear": 41,
+    "fear": 42,
     "surprise": 12,
     "sadness": 18,
     "disgust": 7,
-    "anger": 104,
-    "anticipation": 33
+    "anger": 102,
+    "anticipation": 34
   }
 }
