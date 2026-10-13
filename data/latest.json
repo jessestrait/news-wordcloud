@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T04:58:07.176Z",
+  "generated_at": "2026-10-13T05:13:09.477Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,11 +53,6 @@
       "sadness"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "hit",
       4,
       "anger"
@@ -68,14 +63,19 @@
       "anger"
     ],
     [
-      "hurricane",
-      4,
-      "fear"
+      "church",
+      3,
+      "joy"
     ],
     [
       "experts",
       3,
       "trust"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "government",
@@ -98,9 +98,14 @@
       "surprise"
     ],
     [
-      "storm",
+      "hurricane",
       3,
-      "anger"
+      "fear"
+    ],
+    [
+      "media",
+      2,
+      "disgust"
     ],
     [
       "attacked",
@@ -141,11 +146,6 @@
       "fire",
       2,
       "fear"
-    ],
-    [
-      "church",
-      2,
-      "joy"
     ],
     [
       "system",
@@ -193,6 +193,11 @@
       "anger"
     ],
     [
+      "storm",
+      2,
+      "anger"
+    ],
+    [
       "flooding",
       2,
       "fear"
@@ -215,6 +220,51 @@
     [
       "protesters",
       2,
+      "anger"
+    ],
+    [
+      "lawyers",
+      1,
+      "anger"
+    ],
+    [
+      "blitz",
+      1,
+      "surprise"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "kill",
+      1,
+      "fear"
+    ],
+    [
+      "slavery",
+      1,
+      "anger"
+    ],
+    [
+      "sir",
+      1,
+      "trust"
+    ],
+    [
+      "critical",
+      1,
+      "trust"
+    ],
+    [
+      "leading",
+      1,
+      "trust"
+    ],
+    [
+      "opponent",
+      1,
       "anger"
     ],
     [
@@ -326,66 +376,16 @@
       "child",
       1,
       "joy"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
-    ],
-    [
-      "abusing",
-      1,
-      "anger"
-    ],
-    [
-      "track",
-      1,
-      "anticipation"
-    ],
-    [
-      "indecent",
-      1,
-      "disgust"
-    ],
-    [
-      "bereavement",
-      1,
-      "sadness"
-    ],
-    [
-      "fragile",
-      1,
-      "fear"
-    ],
-    [
-      "leaves",
-      1,
-      "sadness"
-    ],
-    [
-      "family",
-      1,
-      "joy"
-    ],
-    [
-      "alive",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 60,
+    "joy": 23,
+    "trust": 63,
     "fear": 45,
-    "surprise": 10,
+    "surprise": 11,
     "sadness": 18,
-    "disgust": 6,
-    "anger": 102,
-    "anticipation": 31
+    "disgust": 7,
+    "anger": 105,
+    "anticipation": 30
   }
 }
