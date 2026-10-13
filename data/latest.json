@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:00:31.471Z",
+  "generated_at": "2026-10-13T09:15:34.152Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "hit",
-      5,
-      "anger"
-    ],
-    [
       "power",
       5,
       "anticipation"
@@ -56,6 +51,11 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
     ],
     [
       "iran",
@@ -86,16 +86,6 @@
       "deal",
       3,
       "surprise"
-    ],
-    [
-      "black",
-      2,
-      "sadness"
-    ],
-    [
-      "damaged",
-      2,
-      "anger"
     ],
     [
       "media",
@@ -228,31 +218,6 @@
       "trust"
     ],
     [
-      "ships",
-      1,
-      "anticipation"
-    ],
-    [
-      "unknown",
-      1,
-      "fear"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
-    ],
-    [
-      "operations",
-      1,
-      "fear"
-    ],
-    [
-      "sunk",
-      1,
-      "fear"
-    ],
-    [
       "lawyers",
       1,
       "anger"
@@ -376,16 +341,51 @@
       "economies",
       1,
       "trust"
+    ],
+    [
+      "sadness",
+      1,
+      "sadness"
+    ],
+    [
+      "landmark",
+      1,
+      "trust"
+    ],
+    [
+      "escaped",
+      1,
+      "fear"
+    ],
+    [
+      "attacking",
+      1,
+      "anger"
+    ],
+    [
+      "coach",
+      1,
+      "trust"
+    ],
+    [
+      "child",
+      1,
+      "joy"
+    ],
+    [
+      "jailed",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 62,
-    "fear": 43,
-    "surprise": 12,
-    "sadness": 18,
+    "fear": 40,
+    "surprise": 11,
+    "sadness": 17,
     "disgust": 6,
-    "anger": 104,
-    "anticipation": 30
+    "anger": 102,
+    "anticipation": 29
   }
 }
