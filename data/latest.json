@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:05:32.697Z",
+  "generated_at": "2026-10-13T17:20:34.866Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "people",
-      8,
+      9,
       "trust"
     ],
     [
@@ -38,14 +38,14 @@
       "anger"
     ],
     [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "president",
       4,
       "trust"
+    ],
+    [
+      "hit",
+      4,
+      "anger"
     ],
     [
       "power",
@@ -56,6 +56,16 @@
       "iran",
       4,
       "anger"
+    ],
+    [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
+      "school",
+      3,
+      "trust"
     ],
     [
       "warning",
@@ -71,11 +81,6 @@
       "media",
       3,
       "disgust"
-    ],
-    [
-      "missile",
-      3,
-      "fear"
     ],
     [
       "church",
@@ -103,6 +108,16 @@
       "fear"
     ],
     [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
+      "intelligence",
+      2,
+      "fear"
+    ],
+    [
       "crumbling",
       2,
       "sadness"
@@ -118,22 +133,7 @@
       "trust"
     ],
     [
-      "warn",
-      2,
-      "fear"
-    ],
-    [
-      "intelligence",
-      2,
-      "fear"
-    ],
-    [
       "deputy",
-      2,
-      "trust"
-    ],
-    [
-      "schools",
       2,
       "trust"
     ],
@@ -233,6 +233,26 @@
       "trust"
     ],
     [
+      "threatened",
+      1,
+      "anger"
+    ],
+    [
+      "sharing",
+      1,
+      "joy"
+    ],
+    [
+      "teacher",
+      1,
+      "trust"
+    ],
+    [
+      "shortages",
+      1,
+      "anger"
+    ],
+    [
       "music",
       1,
       "joy"
@@ -293,16 +313,6 @@
       "joy"
     ],
     [
-      "threatened",
-      1,
-      "anger"
-    ],
-    [
-      "sharing",
-      1,
-      "joy"
-    ],
-    [
       "launches",
       1,
       "anticipation"
@@ -343,21 +353,6 @@
       "anger"
     ],
     [
-      "stolen",
-      1,
-      "anger"
-    ],
-    [
-      "teacher",
-      1,
-      "trust"
-    ],
-    [
-      "shortages",
-      1,
-      "anger"
-    ],
-    [
       "engulfing",
       1,
       "anticipation"
@@ -376,16 +371,21 @@
       "lawyers",
       1,
       "anger"
+    ],
+    [
+      "blitz",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 64,
+    "trust": 66,
     "fear": 42,
     "surprise": 12,
     "sadness": 17,
     "disgust": 7,
-    "anger": 105,
+    "anger": 104,
     "anticipation": 33
   }
 }
