@@ -1,11 +1,21 @@
 {
-  "generated_at": "2026-10-13T09:15:34.152Z",
+  "generated_at": "2026-10-13T09:30:36.832Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      11,
+      12,
       "anger"
+    ],
+    [
+      "trump",
+      10,
+      "anger"
+    ],
+    [
+      "people",
+      9,
+      "trust"
     ],
     [
       "leader",
@@ -13,24 +23,14 @@
       "trust"
     ],
     [
-      "trump",
-      9,
+      "war",
+      8,
       "anger"
     ],
     [
       "airport",
       7,
       "anticipation"
-    ],
-    [
-      "people",
-      7,
-      "trust"
-    ],
-    [
-      "war",
-      7,
-      "anger"
     ],
     [
       "strike",
@@ -48,14 +48,14 @@
       "trust"
     ],
     [
+      "deal",
+      4,
+      "surprise"
+    ],
+    [
       "death",
       4,
       "sadness"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "iran",
@@ -68,9 +68,19 @@
       "joy"
     ],
     [
-      "experts",
+      "hurricane",
       3,
-      "trust"
+      "fear"
+    ],
+    [
+      "storm",
+      3,
+      "anger"
+    ],
+    [
+      "flooding",
+      3,
+      "fear"
     ],
     [
       "happened",
@@ -78,14 +88,14 @@
       "anticipation"
     ],
     [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
       "killed",
       3,
       "fear"
-    ],
-    [
-      "deal",
-      3,
-      "surprise"
     ],
     [
       "media",
@@ -93,9 +103,34 @@
       "disgust"
     ],
     [
+      "kill",
+      2,
+      "fear"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
+    ],
+    [
+      "levels",
+      2,
+      "trust"
+    ],
+    [
+      "rain",
+      2,
+      "joy"
+    ],
+    [
       "attacked",
       2,
       "anger"
+    ],
+    [
+      "experts",
+      2,
+      "trust"
     ],
     [
       "public",
@@ -106,11 +141,6 @@
       "mountain",
       2,
       "anticipation"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "deadly",
@@ -188,34 +218,9 @@
       "anger"
     ],
     [
-      "storm",
-      2,
-      "anger"
-    ],
-    [
-      "flooding",
-      2,
-      "fear"
-    ],
-    [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
       "cyclone",
       2,
       "fear"
-    ],
-    [
-      "hurricane",
-      2,
-      "fear"
-    ],
-    [
-      "school",
-      2,
-      "trust"
     ],
     [
       "lawyers",
@@ -231,11 +236,6 @@
       "fight",
       1,
       "anger"
-    ],
-    [
-      "kill",
-      1,
-      "fear"
     ],
     [
       "slavery",
@@ -261,6 +261,51 @@
       "opponent",
       1,
       "anger"
+    ],
+    [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
+      "damage",
+      1,
+      "anger"
+    ],
+    [
+      "falls",
+      1,
+      "sadness"
+    ],
+    [
+      "surge",
+      1,
+      "surprise"
+    ],
+    [
+      "officials",
+      1,
+      "trust"
+    ],
+    [
+      "measure",
+      1,
+      "trust"
+    ],
+    [
+      "times",
+      1,
+      "anticipation"
+    ],
+    [
+      "deputy",
+      1,
+      "trust"
+    ],
+    [
+      "collapsing",
+      1,
+      "fear"
     ],
     [
       "incidents",
@@ -291,6 +336,11 @@
       "retaliate",
       1,
       "anger"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
     ],
     [
       "surprised",
@@ -326,66 +376,16 @@
       "awarded",
       1,
       "surprise"
-    ],
-    [
-      "developed",
-      1,
-      "anticipation"
-    ],
-    [
-      "bankers",
-      1,
-      "trust"
-    ],
-    [
-      "economies",
-      1,
-      "trust"
-    ],
-    [
-      "sadness",
-      1,
-      "sadness"
-    ],
-    [
-      "landmark",
-      1,
-      "trust"
-    ],
-    [
-      "escaped",
-      1,
-      "fear"
-    ],
-    [
-      "attacking",
-      1,
-      "anger"
-    ],
-    [
-      "coach",
-      1,
-      "trust"
-    ],
-    [
-      "child",
-      1,
-      "joy"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 62,
-    "fear": 40,
-    "surprise": 11,
-    "sadness": 17,
+    "joy": 22,
+    "trust": 65,
+    "fear": 42,
+    "surprise": 13,
+    "sadness": 16,
     "disgust": 6,
-    "anger": 102,
-    "anticipation": 29
+    "anger": 101,
+    "anticipation": 30
   }
 }
