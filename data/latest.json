@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:44:45.258Z",
+  "generated_at": "2026-10-13T07:59:47.727Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "anger"
     ],
     [
+      "hit",
+      5,
+      "anger"
+    ],
+    [
       "power",
       5,
       "anticipation"
@@ -51,11 +56,6 @@
       "death",
       4,
       "sadness"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
     ],
     [
       "iran",
@@ -78,16 +78,6 @@
       "anticipation"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "killed",
       3,
       "fear"
@@ -96,6 +86,16 @@
       "deal",
       3,
       "surprise"
+    ],
+    [
+      "damaged",
+      2,
+      "anger"
+    ],
+    [
+      "black",
+      2,
+      "sadness"
     ],
     [
       "media",
@@ -143,6 +143,11 @@
       "fear"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "system",
       2,
       "trust"
@@ -151,6 +156,11 @@
       "growing",
       2,
       "joy"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "suggest",
@@ -218,9 +228,29 @@
       "trust"
     ],
     [
-      "protesters",
-      2,
-      "anger"
+      "ships",
+      1,
+      "anticipation"
+    ],
+    [
+      "unknown",
+      1,
+      "fear"
+    ],
+    [
+      "rescue",
+      1,
+      "surprise"
+    ],
+    [
+      "operations",
+      1,
+      "fear"
+    ],
+    [
+      "sunk",
+      1,
+      "fear"
     ],
     [
       "lawyers",
@@ -346,46 +376,16 @@
       "economies",
       1,
       "trust"
-    ],
-    [
-      "sadness",
-      1,
-      "sadness"
-    ],
-    [
-      "landmark",
-      1,
-      "trust"
-    ],
-    [
-      "escaped",
-      1,
-      "fear"
-    ],
-    [
-      "attacking",
-      1,
-      "anger"
-    ],
-    [
-      "coach",
-      1,
-      "trust"
-    ],
-    [
-      "child",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 62,
     "fear": 43,
-    "surprise": 11,
+    "surprise": 12,
     "sadness": 18,
-    "disgust": 7,
-    "anger": 105,
+    "disgust": 6,
+    "anger": 104,
     "anticipation": 30
   }
 }
