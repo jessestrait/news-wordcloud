@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:20:50.097Z",
+  "generated_at": "2026-10-13T17:35:52.173Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,13 +8,13 @@
       "anger"
     ],
     [
-      "trump",
+      "strike",
       11,
       "anger"
     ],
     [
-      "strike",
-      11,
+      "trump",
+      10,
       "anger"
     ],
     [
@@ -28,14 +28,14 @@
       "trust"
     ],
     [
-      "airport",
-      7,
-      "anticipation"
-    ],
-    [
       "war",
       6,
       "anger"
+    ],
+    [
+      "airport",
+      6,
+      "anticipation"
     ],
     [
       "president",
@@ -51,11 +51,6 @@
       "power",
       4,
       "anticipation"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
     ],
     [
       "missile",
@@ -103,9 +98,9 @@
       "sadness"
     ],
     [
-      "killed",
+      "iran",
       3,
-      "fear"
+      "anger"
     ],
     [
       "warn",
@@ -223,6 +218,11 @@
       "anticipation"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
       "escalating",
       2,
       "anger"
@@ -231,6 +231,16 @@
       "ally",
       2,
       "trust"
+    ],
+    [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "evacuate",
+      1,
+      "fear"
     ],
     [
       "threatened",
@@ -366,16 +376,6 @@
       "convict",
       1,
       "anger"
-    ],
-    [
-      "lawyers",
-      1,
-      "anger"
-    ],
-    [
-      "blitz",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 12,
     "sadness": 17,
     "disgust": 7,
-    "anger": 104,
-    "anticipation": 33
+    "anger": 101,
+    "anticipation": 32
   }
 }
