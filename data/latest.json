@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:50:30.757Z",
+  "generated_at": "2026-10-13T17:05:32.697Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "people",
-      9,
+      8,
       "trust"
     ],
     [
@@ -33,19 +33,14 @@
       "anticipation"
     ],
     [
-      "power",
-      6,
-      "anticipation"
-    ],
-    [
       "war",
       6,
       "anger"
     ],
     [
-      "happened",
+      "hit",
       4,
-      "anticipation"
+      "anger"
     ],
     [
       "president",
@@ -53,9 +48,9 @@
       "trust"
     ],
     [
-      "death",
+      "power",
       4,
-      "sadness"
+      "anticipation"
     ],
     [
       "iran",
@@ -66,6 +61,11 @@
       "warning",
       3,
       "fear"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "media",
@@ -83,19 +83,9 @@
       "joy"
     ],
     [
-      "hurricane",
-      3,
-      "fear"
-    ],
-    [
       "storm",
       3,
       "anger"
-    ],
-    [
-      "flooding",
-      3,
-      "fear"
     ],
     [
       "deal",
@@ -103,14 +93,19 @@
       "surprise"
     ],
     [
-      "hit",
+      "death",
       3,
-      "anger"
+      "sadness"
     ],
     [
       "killed",
       3,
       "fear"
+    ],
+    [
+      "crumbling",
+      2,
+      "sadness"
     ],
     [
       "announcement",
@@ -168,14 +163,14 @@
       "anger"
     ],
     [
+      "flooding",
+      2,
+      "fear"
+    ],
+    [
       "levels",
       2,
       "trust"
-    ],
-    [
-      "rain",
-      2,
-      "joy"
     ],
     [
       "experts",
@@ -238,9 +233,44 @@
       "trust"
     ],
     [
-      "cyclone",
-      2,
+      "music",
+      1,
+      "joy"
+    ],
+    [
+      "lovely",
+      1,
+      "sadness"
+    ],
+    [
+      "cathedrals",
+      1,
+      "joy"
+    ],
+    [
+      "letter",
+      1,
+      "anticipation"
+    ],
+    [
+      "wildfire",
+      1,
       "fear"
+    ],
+    [
+      "homes",
+      1,
+      "joy"
+    ],
+    [
+      "displaced",
+      1,
+      "anger"
+    ],
+    [
+      "badly",
+      1,
+      "sadness"
     ],
     [
       "delayed",
@@ -328,11 +358,6 @@
       "anger"
     ],
     [
-      "crumbling",
-      1,
-      "sadness"
-    ],
-    [
       "engulfing",
       1,
       "anticipation"
@@ -351,41 +376,16 @@
       "lawyers",
       1,
       "anger"
-    ],
-    [
-      "blitz",
-      1,
-      "surprise"
-    ],
-    [
-      "fight",
-      1,
-      "anger"
-    ],
-    [
-      "slavery",
-      1,
-      "anger"
-    ],
-    [
-      "sir",
-      1,
-      "trust"
-    ],
-    [
-      "critical",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 65,
-    "fear": 46,
+    "joy": 24,
+    "trust": 64,
+    "fear": 42,
     "surprise": 12,
-    "sadness": 16,
+    "sadness": 17,
     "disgust": 7,
     "anger": 105,
-    "anticipation": 35
+    "anticipation": 33
   }
 }
