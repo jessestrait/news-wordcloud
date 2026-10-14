@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T09:59:44.737Z",
+  "generated_at": "2026-10-14T10:14:47.770Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "warning",
+      5,
+      "fear"
+    ],
+    [
       "power",
       5,
       "anticipation"
@@ -36,11 +41,6 @@
       "president",
       5,
       "trust"
-    ],
-    [
-      "warning",
-      5,
-      "fear"
     ],
     [
       "war",
@@ -103,14 +103,14 @@
       "anger"
     ],
     [
-      "attacked",
-      2,
-      "anger"
-    ],
-    [
       "launches",
       2,
       "anticipation"
+    ],
+    [
+      "attacked",
+      2,
+      "anger"
     ],
     [
       "jailed",
@@ -233,21 +233,6 @@
       "fear"
     ],
     [
-      "disrespecting",
-      1,
-      "anger"
-    ],
-    [
-      "covered",
-      1,
-      "trust"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
       "soldiers",
       1,
       "anger"
@@ -276,6 +261,21 @@
       "advance",
       1,
       "fear"
+    ],
+    [
+      "disrespecting",
+      1,
+      "anger"
+    ],
+    [
+      "covered",
+      1,
+      "trust"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
     ],
     [
       "collapse",
