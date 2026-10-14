@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:47:52.028Z",
+  "generated_at": "2026-10-14T16:02:54.261Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,11 +31,6 @@
       "power",
       4,
       "anticipation"
-    ],
-    [
-      "warning",
-      4,
-      "fear"
     ],
     [
       "missile",
@@ -73,6 +68,11 @@
       "trust"
     ],
     [
+      "warning",
+      3,
+      "fear"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -93,11 +93,6 @@
       "anger"
     ],
     [
-      "warn",
-      3,
-      "fear"
-    ],
-    [
       "airport",
       3,
       "anticipation"
@@ -106,6 +101,26 @@
       "suggest",
       3,
       "trust"
+    ],
+    [
+      "cancer",
+      2,
+      "anger"
+    ],
+    [
+      "surgery",
+      2,
+      "fear"
+    ],
+    [
+      "pontiff",
+      2,
+      "trust"
+    ],
+    [
+      "operation",
+      2,
+      "fear"
     ],
     [
       "surge",
@@ -183,6 +198,11 @@
       "trust"
     ],
     [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
       "president",
       2,
       "trust"
@@ -248,8 +268,28 @@
       "anticipation"
     ],
     [
-      "system",
-      2,
+      "progressing",
+      1,
+      "joy"
+    ],
+    [
+      "begun",
+      1,
+      "anticipation"
+    ],
+    [
+      "hospital",
+      1,
+      "fear"
+    ],
+    [
+      "remove",
+      1,
+      "anger"
+    ],
+    [
+      "doctors",
+      1,
       "trust"
     ],
     [
@@ -336,56 +376,16 @@
       "hurt",
       1,
       "anger"
-    ],
-    [
-      "intended",
-      1,
-      "anticipation"
-    ],
-    [
-      "competition",
-      1,
-      "anticipation"
-    ],
-    [
-      "approved",
-      1,
-      "joy"
-    ],
-    [
-      "controversial",
-      1,
-      "anger"
-    ],
-    [
-      "authorize",
-      1,
-      "trust"
-    ],
-    [
-      "babies",
-      1,
-      "joy"
-    ],
-    [
-      "stigma",
-      1,
-      "anger"
-    ],
-    [
-      "rape",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 60,
-    "fear": 52,
+    "joy": 26,
+    "trust": 61,
+    "fear": 53,
     "surprise": 14,
     "sadness": 19,
     "disgust": 6,
     "anger": 97,
-    "anticipation": 29
+    "anticipation": 30
   }
 }
