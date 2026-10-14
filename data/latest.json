@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:21:43.563Z",
+  "generated_at": "2026-10-14T22:36:46.103Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,26 @@
       "anticipation"
     ],
     [
+      "cancer",
+      2,
+      "anger"
+    ],
+    [
+      "surgery",
+      2,
+      "fear"
+    ],
+    [
+      "pontiff",
+      2,
+      "trust"
+    ],
+    [
+      "operation",
+      2,
+      "fear"
+    ],
+    [
       "rising",
       2,
       "joy"
@@ -146,26 +166,6 @@
       "launch",
       2,
       "anticipation"
-    ],
-    [
-      "cancer",
-      2,
-      "anger"
-    ],
-    [
-      "surgery",
-      2,
-      "fear"
-    ],
-    [
-      "pontiff",
-      2,
-      "trust"
-    ],
-    [
-      "operation",
-      2,
-      "fear"
     ],
     [
       "denies",
@@ -293,6 +293,31 @@
       "anticipation"
     ],
     [
+      "progressing",
+      1,
+      "joy"
+    ],
+    [
+      "begun",
+      1,
+      "anticipation"
+    ],
+    [
+      "hospital",
+      1,
+      "fear"
+    ],
+    [
+      "remove",
+      1,
+      "anger"
+    ],
+    [
+      "doctors",
+      1,
+      "trust"
+    ],
+    [
       "betrayed",
       1,
       "anger"
@@ -351,31 +376,6 @@
       "corruption",
       1,
       "disgust"
-    ],
-    [
-      "ships",
-      1,
-      "anticipation"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
-    ],
-    [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "suddenly",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
