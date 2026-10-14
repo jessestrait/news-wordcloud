@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:45:10.591Z",
+  "generated_at": "2026-10-14T11:00:12.882Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anticipation"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "warning",
       5,
       "fear"
@@ -58,9 +53,24 @@
       "trust"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "hit",
       4,
       "anger"
+    ],
+    [
+      "intelligence",
+      3,
+      "fear"
+    ],
+    [
+      "sharing",
+      3,
+      "joy"
     ],
     [
       "leave",
@@ -103,11 +113,6 @@
       "anger"
     ],
     [
-      "attacked",
-      2,
-      "anger"
-    ],
-    [
       "launches",
       2,
       "anticipation"
@@ -131,16 +136,6 @@
       "allies",
       2,
       "trust"
-    ],
-    [
-      "intelligence",
-      2,
-      "fear"
-    ],
-    [
-      "sharing",
-      2,
-      "joy"
     ],
     [
       "warn",
@@ -233,19 +228,14 @@
       "fear"
     ],
     [
-      "disrespecting",
-      1,
-      "anger"
-    ],
-    [
-      "covered",
+      "commission",
       1,
       "trust"
     ],
     [
-      "american",
+      "disruption",
       1,
-      "sadness"
+      "anger"
     ],
     [
       "soldiers",
@@ -376,16 +366,26 @@
       "reporter",
       1,
       "trust"
+    ],
+    [
+      "decries",
+      1,
+      "anger"
+    ],
+    [
+      "unjust",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 57,
-    "fear": 51,
+    "joy": 21,
+    "trust": 56,
+    "fear": 52,
     "surprise": 14,
-    "sadness": 20,
+    "sadness": 19,
     "disgust": 5,
-    "anger": 106,
+    "anger": 105,
     "anticipation": 33
   }
 }
