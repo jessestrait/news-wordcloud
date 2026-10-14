@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:52:08.170Z",
+  "generated_at": "2026-10-14T23:07:10.544Z",
   "article_count": 50,
   "top_words": [
     [
@@ -293,6 +293,16 @@
       "anticipation"
     ],
     [
+      "betrayed",
+      1,
+      "anger"
+    ],
+    [
+      "accused",
+      1,
+      "anger"
+    ],
+    [
       "progressing",
       1,
       "joy"
@@ -316,16 +326,6 @@
       "doctors",
       1,
       "trust"
-    ],
-    [
-      "betrayed",
-      1,
-      "anger"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
     ],
     [
       "casualties",
