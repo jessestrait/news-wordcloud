@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:16:32.104Z",
+  "generated_at": "2026-10-14T13:31:34.735Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "attack",
-      12,
+      11,
       "anger"
     ],
     [
       "trump",
-      7,
+      6,
       "anger"
     ],
     [
@@ -48,19 +48,9 @@
       "fear"
     ],
     [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "hit",
       4,
       "anger"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "intelligence",
@@ -78,9 +68,9 @@
       "sadness"
     ],
     [
-      "deal",
+      "government",
       3,
-      "surprise"
+      "fear"
     ],
     [
       "removed",
@@ -88,9 +78,9 @@
       "anger"
     ],
     [
-      "president",
+      "war",
       3,
-      "trust"
+      "anger"
     ],
     [
       "deadly",
@@ -128,6 +118,11 @@
       "anger"
     ],
     [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
       "jailed",
       2,
       "fear"
@@ -151,6 +146,11 @@
       "warn",
       2,
       "fear"
+    ],
+    [
+      "president",
+      2,
+      "trust"
     ],
     [
       "school",
@@ -233,6 +233,36 @@
       "fear"
     ],
     [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "disruption",
+      1,
+      "anger"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
+      "hurt",
+      1,
+      "anger"
+    ],
+    [
+      "intended",
+      1,
+      "anticipation"
+    ],
+    [
+      "competition",
+      1,
+      "anticipation"
+    ],
+    [
       "denies",
       1,
       "anger"
@@ -256,16 +286,6 @@
       "babies",
       1,
       "joy"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "disruption",
-      1,
-      "anger"
     ],
     [
       "soldiers",
@@ -356,36 +376,16 @@
       "prison",
       1,
       "anger"
-    ],
-    [
-      "threats",
-      1,
-      "anger"
-    ],
-    [
-      "coming",
-      1,
-      "anticipation"
-    ],
-    [
-      "explain",
-      1,
-      "trust"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 57,
     "fear": 52,
-    "surprise": 14,
+    "surprise": 13,
     "sadness": 18,
     "disgust": 6,
-    "anger": 106,
-    "anticipation": 29
+    "anger": 102,
+    "anticipation": 31
   }
 }
