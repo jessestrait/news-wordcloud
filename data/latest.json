@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:21:13.191Z",
+  "generated_at": "2026-10-14T21:36:15.826Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,12 +28,17 @@
       "fear"
     ],
     [
-      "people",
-      5,
+      "president",
+      4,
       "trust"
     ],
     [
-      "president",
+      "government",
+      4,
+      "fear"
+    ],
+    [
+      "people",
       4,
       "trust"
     ],
@@ -88,11 +93,6 @@
       "trust"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "court",
       3,
       "anger"
@@ -118,9 +118,19 @@
       "sadness"
     ],
     [
-      "system",
+      "police",
       2,
-      "trust"
+      "fear"
+    ],
+    [
+      "building",
+      2,
+      "anticipation"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
     ],
     [
       "surge",
@@ -313,9 +323,34 @@
       "anticipation"
     ],
     [
+      "system",
+      1,
+      "trust"
+    ],
+    [
       "hoping",
       1,
       "surprise"
+    ],
+    [
+      "violent",
+      1,
+      "anger"
+    ],
+    [
+      "clash",
+      1,
+      "anger"
+    ],
+    [
+      "banks",
+      1,
+      "trust"
+    ],
+    [
+      "corruption",
+      1,
+      "disgust"
     ],
     [
       "ships",
@@ -341,51 +376,16 @@
       "suddenly",
       1,
       "surprise"
-    ],
-    [
-      "restricted",
-      1,
-      "sadness"
-    ],
-    [
-      "managed",
-      1,
-      "trust"
-    ],
-    [
-      "progressing",
-      1,
-      "joy"
-    ],
-    [
-      "begun",
-      1,
-      "anticipation"
-    ],
-    [
-      "hospital",
-      1,
-      "fear"
-    ],
-    [
-      "remove",
-      1,
-      "anger"
-    ],
-    [
-      "doctors",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 61,
-    "fear": 53,
-    "surprise": 15,
+    "joy": 24,
+    "trust": 59,
+    "fear": 56,
+    "surprise": 14,
     "sadness": 19,
-    "disgust": 6,
-    "anger": 102,
+    "disgust": 7,
+    "anger": 103,
     "anticipation": 30
   }
 }
