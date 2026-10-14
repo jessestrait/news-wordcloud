@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:07:10.544Z",
+  "generated_at": "2026-10-14T23:22:12.991Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "missile",
       5,
       "fear"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "government",
@@ -38,7 +38,7 @@
       "fear"
     ],
     [
-      "people",
+      "president",
       4,
       "trust"
     ],
@@ -108,6 +108,21 @@
       "anticipation"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
+      "building",
+      2,
+      "anticipation"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
+    ],
+    [
       "cancer",
       2,
       "anger"
@@ -136,21 +151,6 @@
       "death",
       2,
       "sadness"
-    ],
-    [
-      "police",
-      2,
-      "fear"
-    ],
-    [
-      "building",
-      2,
-      "anticipation"
-    ],
-    [
-      "fire",
-      2,
-      "fear"
     ],
     [
       "surge",
@@ -293,6 +293,26 @@
       "anticipation"
     ],
     [
+      "violent",
+      1,
+      "anger"
+    ],
+    [
+      "clash",
+      1,
+      "anger"
+    ],
+    [
+      "banks",
+      1,
+      "trust"
+    ],
+    [
+      "corruption",
+      1,
+      "disgust"
+    ],
+    [
       "betrayed",
       1,
       "anger"
@@ -356,31 +376,11 @@
       "hoping",
       1,
       "surprise"
-    ],
-    [
-      "violent",
-      1,
-      "anger"
-    ],
-    [
-      "clash",
-      1,
-      "anger"
-    ],
-    [
-      "banks",
-      1,
-      "trust"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 59,
+    "trust": 60,
     "fear": 56,
     "surprise": 14,
     "sadness": 19,
