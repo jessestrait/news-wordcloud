@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:17:00.677Z",
+  "generated_at": "2026-10-14T14:32:03.078Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,14 +38,14 @@
       "trust"
     ],
     [
-      "warning",
-      4,
-      "fear"
-    ],
-    [
       "power",
       4,
       "anticipation"
+    ],
+    [
+      "warning",
+      4,
+      "fear"
     ],
     [
       "hit",
@@ -66,6 +66,16 @@
       "leave",
       3,
       "sadness"
+    ],
+    [
+      "crumbling",
+      3,
+      "sadness"
+    ],
+    [
+      "school",
+      3,
+      "trust"
     ],
     [
       "government",
@@ -158,14 +168,9 @@
       "trust"
     ],
     [
-      "school",
+      "teacher",
       2,
       "trust"
-    ],
-    [
-      "crumbling",
-      2,
-      "sadness"
     ],
     [
       "announcement",
@@ -238,6 +243,36 @@
       "fear"
     ],
     [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "disruption",
+      1,
+      "anger"
+    ],
+    [
+      "angry",
+      1,
+      "anger"
+    ],
+    [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
+      "lies",
+      1,
+      "anger"
+    ],
+    [
+      "worry",
+      1,
+      "fear"
+    ],
+    [
       "suddenly",
       1,
       "surprise"
@@ -251,16 +286,6 @@
       "managed",
       1,
       "trust"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "disruption",
-      1,
-      "anger"
     ],
     [
       "excluding",
@@ -351,41 +376,16 @@
       "collapse",
       1,
       "fear"
-    ],
-    [
-      "asylum",
-      1,
-      "fear"
-    ],
-    [
-      "exposes",
-      1,
-      "fear"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
-    ],
-    [
-      "threats",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 57,
-    "fear": 52,
-    "surprise": 14,
+    "trust": 58,
+    "fear": 54,
+    "surprise": 13,
     "sadness": 19,
     "disgust": 6,
-    "anger": 100,
+    "anger": 102,
     "anticipation": 31
   }
 }
