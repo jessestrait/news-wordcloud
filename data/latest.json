@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:42:18.921Z",
+  "generated_at": "2026-10-14T05:57:20.995Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "anticipation"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "leader",
       7,
       "trust"
@@ -36,6 +31,11 @@
       "war",
       6,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "warning",
@@ -61,6 +61,11 @@
       "power",
       4,
       "anticipation"
+    ],
+    [
+      "deal",
+      3,
+      "surprise"
     ],
     [
       "removed",
@@ -193,19 +198,9 @@
       "trust"
     ],
     [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
       "death",
       2,
       "sadness"
-    ],
-    [
-      "experts",
-      2,
-      "trust"
     ],
     [
       "mountain",
@@ -236,6 +231,26 @@
       "escalating",
       2,
       "anger"
+    ],
+    [
+      "collapse",
+      1,
+      "fear"
+    ],
+    [
+      "asylum",
+      1,
+      "fear"
+    ],
+    [
+      "exposes",
+      1,
+      "fear"
+    ],
+    [
+      "dangerous",
+      1,
+      "fear"
     ],
     [
       "prison",
@@ -361,28 +376,13 @@
       "lower",
       1,
       "sadness"
-    ],
-    [
-      "successful",
-      1,
-      "joy"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "launched",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 61,
-    "fear": 44,
-    "surprise": 13,
+    "trust": 58,
+    "fear": 48,
+    "surprise": 14,
     "sadness": 17,
     "disgust": 6,
     "anger": 105,
