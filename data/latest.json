@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T02:10:23.724Z",
+  "generated_at": "2026-10-14T02:25:25.577Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "anger"
     ],
     [
-      "people",
-      8,
-      "trust"
-    ],
-    [
       "trump",
       8,
       "anger"
@@ -26,6 +21,11 @@
       "airport",
       7,
       "anticipation"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "leader",
@@ -58,6 +58,11 @@
       "anticipation"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "flooding",
       3,
       "fear"
@@ -86,11 +91,6 @@
       "media",
       3,
       "disgust"
-    ],
-    [
-      "church",
-      3,
-      "joy"
     ],
     [
       "storm",
@@ -168,6 +168,11 @@
       "fear"
     ],
     [
+      "church",
+      2,
+      "joy"
+    ],
+    [
       "forces",
       2,
       "anger"
@@ -203,19 +208,9 @@
       "fear"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "system",
       2,
       "trust"
-    ],
-    [
-      "growing",
-      2,
-      "joy"
     ],
     [
       "plan",
@@ -236,6 +231,26 @@
       "ally",
       2,
       "trust"
+    ],
+    [
+      "explain",
+      1,
+      "trust"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "changes",
+      1,
+      "fear"
+    ],
+    [
+      "boiled",
+      1,
+      "disgust"
     ],
     [
       "trip",
@@ -361,31 +376,16 @@
       "homes",
       1,
       "joy"
-    ],
-    [
-      "displaced",
-      1,
-      "anger"
-    ],
-    [
-      "badly",
-      1,
-      "sadness"
-    ],
-    [
-      "delayed",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 24,
     "trust": 65,
-    "fear": 43,
+    "fear": 45,
     "surprise": 13,
     "sadness": 19,
-    "disgust": 7,
-    "anger": 102,
+    "disgust": 8,
+    "anger": 101,
     "anticipation": 33
   }
 }
