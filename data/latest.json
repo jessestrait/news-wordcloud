@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:28:56.963Z",
+  "generated_at": "2026-10-14T08:43:59.562Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,6 +26,11 @@
       "people",
       6,
       "trust"
+    ],
+    [
+      "power",
+      5,
+      "anticipation"
     ],
     [
       "president",
@@ -58,14 +63,9 @@
       "anger"
     ],
     [
-      "power",
-      4,
-      "anticipation"
-    ],
-    [
-      "system",
+      "leave",
       3,
-      "trust"
+      "sadness"
     ],
     [
       "deal",
@@ -148,11 +148,6 @@
       "fear"
     ],
     [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
       "school",
       2,
       "trust"
@@ -223,6 +218,11 @@
       "anticipation"
     ],
     [
+      "system",
+      2,
+      "trust"
+    ],
+    [
       "plan",
       2,
       "anticipation"
@@ -233,12 +233,7 @@
       "fear"
     ],
     [
-      "showing",
-      1,
-      "trust"
-    ],
-    [
-      "disrespect",
+      "disrespecting",
       1,
       "anger"
     ],
@@ -266,6 +261,11 @@
       "restricted",
       1,
       "sadness"
+    ],
+    [
+      "terminals",
+      1,
+      "fear"
     ],
     [
       "managed",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 59,
-    "fear": 50,
+    "trust": 57,
+    "fear": 51,
     "surprise": 14,
-    "sadness": 19,
+    "sadness": 20,
     "disgust": 5,
     "anger": 106,
-    "anticipation": 32
+    "anticipation": 33
   }
 }
