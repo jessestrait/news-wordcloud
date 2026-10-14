@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-14T03:11:00.793Z",
+  "generated_at": "2026-10-14T03:26:03.170Z",
   "article_count": 50,
   "top_words": [
     [
       "strike",
-      12,
+      14,
       "anger"
     ],
     [
@@ -14,7 +14,7 @@
     ],
     [
       "trump",
-      8,
+      9,
       "anger"
     ],
     [
@@ -28,14 +28,19 @@
       "trust"
     ],
     [
+      "war",
+      6,
+      "anger"
+    ],
+    [
       "leader",
       6,
       "trust"
     ],
     [
-      "war",
-      5,
-      "anger"
+      "warning",
+      4,
+      "fear"
     ],
     [
       "missile",
@@ -73,24 +78,9 @@
       "anger"
     ],
     [
-      "school",
-      3,
-      "trust"
-    ],
-    [
-      "warning",
-      3,
-      "fear"
-    ],
-    [
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "media",
-      3,
-      "disgust"
     ],
     [
       "storm",
@@ -108,12 +98,22 @@
       "anger"
     ],
     [
-      "warn",
+      "ally",
+      3,
+      "trust"
+    ],
+    [
+      "intelligence",
       2,
       "fear"
     ],
     [
-      "intelligence",
+      "sharing",
+      2,
+      "joy"
+    ],
+    [
+      "warn",
       2,
       "fear"
     ],
@@ -126,6 +126,11 @@
       "leave",
       2,
       "sadness"
+    ],
+    [
+      "school",
+      2,
+      "trust"
     ],
     [
       "crumbling",
@@ -143,14 +148,14 @@
       "trust"
     ],
     [
+      "media",
+      2,
+      "disgust"
+    ],
+    [
       "deputy",
       2,
       "trust"
-    ],
-    [
-      "scandal",
-      2,
-      "fear"
     ],
     [
       "court",
@@ -203,11 +208,6 @@
       "anger"
     ],
     [
-      "fire",
-      2,
-      "fear"
-    ],
-    [
       "system",
       2,
       "trust"
@@ -226,11 +226,6 @@
       "escalating",
       2,
       "anger"
-    ],
-    [
-      "ally",
-      2,
-      "trust"
     ],
     [
       "explain",
@@ -288,14 +283,39 @@
       "anger"
     ],
     [
-      "threatened",
+      "allegations",
       1,
       "anger"
     ],
     [
-      "sharing",
+      "reporter",
       1,
-      "joy"
+      "trust"
+    ],
+    [
+      "decries",
+      1,
+      "anger"
+    ],
+    [
+      "unjust",
+      1,
+      "anger"
+    ],
+    [
+      "denied",
+      1,
+      "sadness"
+    ],
+    [
+      "demanding",
+      1,
+      "anger"
+    ],
+    [
+      "threatened",
+      1,
+      "anger"
     ],
     [
       "cancer",
@@ -356,36 +376,16 @@
       "lovely",
       1,
       "sadness"
-    ],
-    [
-      "cathedrals",
-      1,
-      "joy"
-    ],
-    [
-      "letter",
-      1,
-      "anticipation"
-    ],
-    [
-      "wildfire",
-      1,
-      "fear"
-    ],
-    [
-      "homes",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 65,
-    "fear": 45,
+    "joy": 23,
+    "trust": 63,
+    "fear": 43,
     "surprise": 13,
-    "sadness": 19,
-    "disgust": 8,
-    "anger": 101,
+    "sadness": 18,
+    "disgust": 6,
+    "anger": 105,
     "anticipation": 33
   }
 }
