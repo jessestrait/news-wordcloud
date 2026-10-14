@@ -1,26 +1,21 @@
 {
-  "generated_at": "2026-10-14T15:02:26.618Z",
+  "generated_at": "2026-10-14T15:17:29.218Z",
   "article_count": 50,
   "top_words": [
     [
       "strike",
-      14,
+      13,
       "anger"
     ],
     [
       "attack",
-      11,
+      9,
       "anger"
     ],
     [
       "trump",
       6,
       "anger"
-    ],
-    [
-      "airport",
-      6,
-      "anticipation"
     ],
     [
       "leader",
@@ -31,6 +26,11 @@
       "missile",
       5,
       "fear"
+    ],
+    [
+      "airport",
+      5,
+      "anticipation"
     ],
     [
       "people",
@@ -48,11 +48,6 @@
       "fear"
     ],
     [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "intelligence",
       3,
       "fear"
@@ -68,6 +63,11 @@
       "sadness"
     ],
     [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "crumbling",
       3,
       "sadness"
@@ -81,6 +81,11 @@
       "government",
       3,
       "fear"
+    ],
+    [
+      "court",
+      3,
+      "anger"
     ],
     [
       "removed",
@@ -103,19 +108,19 @@
       "anger"
     ],
     [
-      "happened",
+      "hit",
       3,
-      "anticipation"
-    ],
-    [
-      "military",
-      2,
-      "fear"
+      "anger"
     ],
     [
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "denies",
+      2,
+      "anger"
     ],
     [
       "attacking",
@@ -134,6 +139,21 @@
     ],
     [
       "allegations",
+      2,
+      "anger"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
+    ],
+    [
+      "badly",
+      2,
+      "sadness"
+    ],
+    [
+      "damaged",
       2,
       "anger"
     ],
@@ -193,11 +213,6 @@
       "trust"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
       "damage",
       2,
       "anger"
@@ -228,19 +243,9 @@
       "anticipation"
     ],
     [
-      "iran",
-      2,
-      "anger"
-    ],
-    [
       "system",
       2,
       "trust"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "commission",
@@ -269,6 +274,11 @@
     ],
     [
       "worry",
+      1,
+      "fear"
+    ],
+    [
+      "military",
       1,
       "fear"
     ],
@@ -311,11 +321,6 @@
       "competition",
       1,
       "anticipation"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
     ],
     [
       "approved",
@@ -371,21 +376,16 @@
       "assault",
       1,
       "anger"
-    ],
-    [
-      "collapse",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 58,
-    "fear": 54,
+    "joy": 25,
+    "trust": 59,
+    "fear": 52,
     "surprise": 13,
     "sadness": 19,
     "disgust": 6,
-    "anger": 102,
-    "anticipation": 31
+    "anger": 104,
+    "anticipation": 30
   }
 }
