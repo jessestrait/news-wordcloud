@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:18:17.860Z",
+  "generated_at": "2026-10-14T16:33:20.588Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "fear"
     ],
     [
+      "warning",
+      3,
+      "fear"
+    ],
+    [
       "intelligence",
       3,
       "fear"
@@ -66,11 +71,6 @@
       "school",
       3,
       "trust"
-    ],
-    [
-      "warning",
-      3,
-      "fear"
     ],
     [
       "government",
@@ -103,6 +103,11 @@
       "trust"
     ],
     [
+      "launch",
+      2,
+      "anticipation"
+    ],
+    [
       "cancer",
       2,
       "anger"
@@ -131,11 +136,6 @@
       "iran",
       2,
       "anger"
-    ],
-    [
-      "launch",
-      2,
-      "anticipation"
     ],
     [
       "denies",
@@ -268,6 +268,26 @@
       "anticipation"
     ],
     [
+      "military",
+      1,
+      "fear"
+    ],
+    [
+      "suddenly",
+      1,
+      "surprise"
+    ],
+    [
+      "restricted",
+      1,
+      "sadness"
+    ],
+    [
+      "managed",
+      1,
+      "trust"
+    ],
+    [
       "progressing",
       1,
       "joy"
@@ -341,26 +361,6 @@
       "worry",
       1,
       "fear"
-    ],
-    [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "suddenly",
-      1,
-      "surprise"
-    ],
-    [
-      "restricted",
-      1,
-      "sadness"
-    ],
-    [
-      "managed",
-      1,
-      "trust"
     ],
     [
       "excluding",
