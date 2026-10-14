@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:49:32.955Z",
+  "generated_at": "2026-10-14T19:04:35.434Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,18 +9,18 @@
     ],
     [
       "attack",
-      8,
-      "anger"
-    ],
-    [
-      "trump",
-      6,
+      7,
       "anger"
     ],
     [
       "leader",
       6,
       "trust"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "missile",
@@ -31,11 +31,6 @@
       "people",
       5,
       "trust"
-    ],
-    [
-      "power",
-      4,
-      "anticipation"
     ],
     [
       "hit",
@@ -61,6 +56,11 @@
       "leave",
       3,
       "sadness"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "happened",
@@ -93,11 +93,6 @@
       "anger"
     ],
     [
-      "war",
-      3,
-      "anger"
-    ],
-    [
       "airport",
       3,
       "anticipation"
@@ -105,6 +100,21 @@
     [
       "suggest",
       3,
+      "trust"
+    ],
+    [
+      "rising",
+      2,
+      "joy"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
+    ],
+    [
+      "system",
+      2,
       "trust"
     ],
     [
@@ -198,6 +208,11 @@
       "fear"
     ],
     [
+      "war",
+      2,
+      "anger"
+    ],
+    [
       "allies",
       2,
       "trust"
@@ -268,6 +283,31 @@
       "anticipation"
     ],
     [
+      "casualties",
+      1,
+      "anger"
+    ],
+    [
+      "restrictions",
+      1,
+      "anger"
+    ],
+    [
+      "throttling",
+      1,
+      "anger"
+    ],
+    [
+      "mobile",
+      1,
+      "anticipation"
+    ],
+    [
+      "hoping",
+      1,
+      "surprise"
+    ],
+    [
       "ships",
       1,
       "anticipation"
@@ -336,54 +376,14 @@
       "disruption",
       1,
       "anger"
-    ],
-    [
-      "angry",
-      1,
-      "anger"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
-    ],
-    [
-      "lies",
-      1,
-      "anger"
-    ],
-    [
-      "worry",
-      1,
-      "fear"
-    ],
-    [
-      "excluding",
-      1,
-      "sadness"
-    ],
-    [
-      "law",
-      1,
-      "trust"
-    ],
-    [
-      "hurt",
-      1,
-      "anger"
-    ],
-    [
-      "intended",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 60,
-    "fear": 54,
-    "surprise": 14,
-    "sadness": 19,
+    "fear": 53,
+    "surprise": 15,
+    "sadness": 20,
     "disgust": 6,
     "anger": 98,
     "anticipation": 30
