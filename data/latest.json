@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:15:58.857Z",
+  "generated_at": "2026-10-14T12:31:01.082Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,16 +28,6 @@
       "trust"
     ],
     [
-      "power",
-      5,
-      "anticipation"
-    ],
-    [
-      "warning",
-      5,
-      "fear"
-    ],
-    [
       "missile",
       5,
       "fear"
@@ -48,6 +38,16 @@
       "trust"
     ],
     [
+      "power",
+      4,
+      "anticipation"
+    ],
+    [
+      "warning",
+      4,
+      "fear"
+    ],
+    [
       "war",
       4,
       "anger"
@@ -56,6 +56,11 @@
       "hit",
       4,
       "anger"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "intelligence",
@@ -83,11 +88,6 @@
       "anger"
     ],
     [
-      "flooding",
-      3,
-      "fear"
-    ],
-    [
       "president",
       3,
       "trust"
@@ -101,11 +101,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "storm",
-      3,
-      "anger"
     ],
     [
       "launches",
@@ -138,7 +133,7 @@
       "trust"
     ],
     [
-      "government",
+      "flooding",
       2,
       "fear"
     ],
@@ -203,14 +198,14 @@
       "joy"
     ],
     [
+      "storm",
+      2,
+      "anger"
+    ],
+    [
       "levels",
       2,
       "trust"
-    ],
-    [
-      "death",
-      2,
-      "sadness"
     ],
     [
       "mountain",
@@ -231,6 +226,31 @@
       "killed",
       2,
       "fear"
+    ],
+    [
+      "denies",
+      1,
+      "anger"
+    ],
+    [
+      "approved",
+      1,
+      "joy"
+    ],
+    [
+      "controversial",
+      1,
+      "anger"
+    ],
+    [
+      "authorize",
+      1,
+      "trust"
+    ],
+    [
+      "babies",
+      1,
+      "joy"
     ],
     [
       "commission",
@@ -356,36 +376,16 @@
       "boiled",
       1,
       "disgust"
-    ],
-    [
-      "trip",
-      1,
-      "surprise"
-    ],
-    [
-      "amusement",
-      1,
-      "joy"
-    ],
-    [
-      "deserted",
-      1,
-      "anger"
-    ],
-    [
-      "amazing",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 56,
-    "fear": 54,
+    "joy": 24,
+    "trust": 57,
+    "fear": 53,
     "surprise": 14,
-    "sadness": 19,
+    "sadness": 18,
     "disgust": 6,
-    "anger": 104,
-    "anticipation": 30
+    "anger": 105,
+    "anticipation": 29
   }
 }
