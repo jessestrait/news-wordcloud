@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:32:49.658Z",
+  "generated_at": "2026-10-14T15:47:52.028Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      9,
+      8,
       "anger"
     ],
     [
@@ -23,16 +23,6 @@
       "trust"
     ],
     [
-      "missile",
-      5,
-      "fear"
-    ],
-    [
-      "airport",
-      5,
-      "anticipation"
-    ],
-    [
       "people",
       5,
       "trust"
@@ -44,6 +34,11 @@
     ],
     [
       "warning",
+      4,
+      "fear"
+    ],
+    [
+      "missile",
       4,
       "fear"
     ],
@@ -103,13 +98,23 @@
       "fear"
     ],
     [
-      "deadly",
+      "airport",
       3,
-      "anger"
+      "anticipation"
     ],
     [
-      "hit",
+      "suggest",
       3,
+      "trust"
+    ],
+    [
+      "surge",
+      2,
+      "surprise"
+    ],
+    [
+      "iran",
+      2,
       "anger"
     ],
     [
@@ -168,11 +173,6 @@
       "fear"
     ],
     [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
       "flooding",
       2,
       "fear"
@@ -188,19 +188,24 @@
       "trust"
     ],
     [
+      "deadly",
+      2,
+      "anger"
+    ],
+    [
       "teacher",
       2,
       "trust"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "announcement",
       2,
       "anticipation"
-    ],
-    [
-      "suggest",
-      2,
-      "trust"
     ],
     [
       "media",
@@ -245,6 +250,26 @@
     [
       "system",
       2,
+      "trust"
+    ],
+    [
+      "ship",
+      1,
+      "anticipation"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
+    ],
+    [
+      "second",
+      1,
       "trust"
     ],
     [
@@ -351,41 +376,16 @@
       "rape",
       1,
       "anger"
-    ],
-    [
-      "case",
-      1,
-      "fear"
-    ],
-    [
-      "book",
-      1,
-      "trust"
-    ],
-    [
-      "perfect",
-      1,
-      "joy"
-    ],
-    [
-      "victim",
-      1,
-      "anger"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 59,
+    "trust": 60,
     "fear": 52,
-    "surprise": 13,
+    "surprise": 14,
     "sadness": 19,
     "disgust": 6,
-    "anger": 104,
-    "anticipation": 30
+    "anger": 97,
+    "anticipation": 29
   }
 }
