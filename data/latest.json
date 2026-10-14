@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:33:20.588Z",
+  "generated_at": "2026-10-14T16:48:23.100Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,16 @@
       "trust"
     ],
     [
+      "surge",
+      2,
+      "surprise"
+    ],
+    [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
       "launch",
       2,
       "anticipation"
@@ -126,16 +136,6 @@
       "operation",
       2,
       "fear"
-    ],
-    [
-      "surge",
-      2,
-      "surprise"
-    ],
-    [
-      "iran",
-      2,
-      "anger"
     ],
     [
       "denies",
@@ -268,6 +268,26 @@
       "anticipation"
     ],
     [
+      "ship",
+      1,
+      "anticipation"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
       "military",
       1,
       "fear"
@@ -309,26 +329,6 @@
     ],
     [
       "doctors",
-      1,
-      "trust"
-    ],
-    [
-      "ship",
-      1,
-      "anticipation"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
-    ],
-    [
-      "second",
       1,
       "trust"
     ],
