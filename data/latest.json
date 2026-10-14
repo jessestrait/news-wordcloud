@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:50:16.495Z",
+  "generated_at": "2026-10-14T20:05:18.641Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
+      "trump",
+      6,
+      "anger"
+    ],
+    [
       "leader",
       6,
       "trust"
-    ],
-    [
-      "trump",
-      5,
-      "anger"
     ],
     [
       "missile",
@@ -31,6 +31,16 @@
       "people",
       5,
       "trust"
+    ],
+    [
+      "president",
+      4,
+      "trust"
+    ],
+    [
+      "war",
+      3,
+      "anger"
     ],
     [
       "hit",
@@ -96,11 +106,6 @@
       "airport",
       3,
       "anticipation"
-    ],
-    [
-      "suggest",
-      3,
-      "trust"
     ],
     [
       "rising",
@@ -208,11 +213,6 @@
       "fear"
     ],
     [
-      "war",
-      2,
-      "anger"
-    ],
-    [
       "allies",
       2,
       "trust"
@@ -221,11 +221,6 @@
       "warn",
       2,
       "fear"
-    ],
-    [
-      "president",
-      2,
-      "trust"
     ],
     [
       "deadly",
@@ -241,6 +236,11 @@
       "announcement",
       2,
       "anticipation"
+    ],
+    [
+      "suggest",
+      2,
+      "trust"
     ],
     [
       "media",
@@ -281,6 +281,16 @@
       "mountain",
       2,
       "anticipation"
+    ],
+    [
+      "betrayed",
+      1,
+      "anger"
+    ],
+    [
+      "accused",
+      1,
+      "anger"
     ],
     [
       "casualties",
@@ -366,26 +376,16 @@
       "doctors",
       1,
       "trust"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "disruption",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 60,
+    "trust": 61,
     "fear": 53,
     "surprise": 15,
-    "sadness": 20,
+    "sadness": 19,
     "disgust": 6,
-    "anger": 98,
+    "anger": 102,
     "anticipation": 30
   }
 }
