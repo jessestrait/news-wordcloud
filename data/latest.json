@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:25:02.996Z",
+  "generated_at": "2026-10-14T01:40:05.153Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "trump",
-      10,
-      "anger"
+      "people",
+      8,
+      "trust"
     ],
     [
-      "people",
-      9,
-      "trust"
+      "trump",
+      8,
+      "anger"
     ],
     [
       "airport",
@@ -29,12 +29,12 @@
     ],
     [
       "leader",
-      7,
+      6,
       "trust"
     ],
     [
       "war",
-      6,
+      5,
       "anger"
     ],
     [
@@ -56,6 +56,11 @@
       "power",
       4,
       "anticipation"
+    ],
+    [
+      "flooding",
+      3,
+      "fear"
     ],
     [
       "deadly",
@@ -91,11 +96,6 @@
       "storm",
       3,
       "anger"
-    ],
-    [
-      "deal",
-      3,
-      "surprise"
     ],
     [
       "death",
@@ -173,24 +173,19 @@
       "anger"
     ],
     [
-      "flooding",
-      2,
-      "fear"
-    ],
-    [
       "levels",
       2,
       "trust"
     ],
     [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
       "experts",
       2,
       "trust"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "mountain",
@@ -241,6 +236,41 @@
       "ally",
       2,
       "trust"
+    ],
+    [
+      "trip",
+      1,
+      "surprise"
+    ],
+    [
+      "amusement",
+      1,
+      "joy"
+    ],
+    [
+      "deserted",
+      1,
+      "anger"
+    ],
+    [
+      "amazing",
+      1,
+      "surprise"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "rising",
+      1,
+      "joy"
+    ],
+    [
+      "damaged",
+      1,
+      "anger"
     ],
     [
       "threatened",
@@ -346,46 +376,16 @@
       "delayed",
       1,
       "anger"
-    ],
-    [
-      "advice",
-      1,
-      "trust"
-    ],
-    [
-      "disinformation",
-      1,
-      "anger"
-    ],
-    [
-      "improved",
-      1,
-      "joy"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "promises",
-      1,
-      "joy"
-    ],
-    [
-      "socialists",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 67,
-    "fear": 41,
-    "surprise": 12,
+    "joy": 27,
+    "trust": 65,
+    "fear": 43,
+    "surprise": 13,
     "sadness": 19,
     "disgust": 7,
-    "anger": 104,
-    "anticipation": 34
+    "anger": 102,
+    "anticipation": 33
   }
 }
