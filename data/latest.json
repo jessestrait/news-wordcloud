@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:03:42.767Z",
+  "generated_at": "2026-10-14T17:18:44.942Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "trust"
     ],
     [
+      "missile",
+      5,
+      "fear"
+    ],
+    [
       "people",
       5,
       "trust"
@@ -33,9 +38,9 @@
       "anticipation"
     ],
     [
-      "missile",
-      4,
-      "fear"
+      "hit",
+      3,
+      "anger"
     ],
     [
       "warning",
@@ -218,11 +223,6 @@
       "trust"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "announcement",
       2,
       "anticipation"
@@ -268,7 +268,7 @@
       "anticipation"
     ],
     [
-      "ship",
+      "ships",
       1,
       "anticipation"
     ],
@@ -281,11 +281,6 @@
       "hormuz",
       1,
       "fear"
-    ],
-    [
-      "second",
-      1,
-      "trust"
     ],
     [
       "military",
@@ -376,16 +371,21 @@
       "hurt",
       1,
       "anger"
+    ],
+    [
+      "intended",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 61,
-    "fear": 53,
+    "trust": 60,
+    "fear": 54,
     "surprise": 14,
     "sadness": 19,
     "disgust": 6,
-    "anger": 97,
+    "anger": 98,
     "anticipation": 30
   }
 }
