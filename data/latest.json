@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T07:43:29.947Z",
+  "generated_at": "2026-10-14T07:58:32.440Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      12,
+      13,
       "anger"
     ],
     [
@@ -38,6 +38,11 @@
       "trust"
     ],
     [
+      "president",
+      5,
+      "trust"
+    ],
+    [
       "warning",
       4,
       "fear"
@@ -46,11 +51,6 @@
       "missile",
       4,
       "fear"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "hit",
@@ -100,6 +100,11 @@
     [
       "iran",
       3,
+      "anger"
+    ],
+    [
+      "attacked",
+      2,
       "anger"
     ],
     [
@@ -228,9 +233,24 @@
       "fear"
     ],
     [
-      "escalating",
-      2,
+      "showing",
+      1,
+      "trust"
+    ],
+    [
+      "disrespect",
+      1,
       "anger"
+    ],
+    [
+      "covered",
+      1,
+      "trust"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
     ],
     [
       "collapse",
@@ -356,36 +376,16 @@
       "threatened",
       1,
       "anger"
-    ],
-    [
-      "cancer",
-      1,
-      "anger"
-    ],
-    [
-      "surgery",
-      1,
-      "fear"
-    ],
-    [
-      "pontiff",
-      1,
-      "trust"
-    ],
-    [
-      "lower",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 58,
+    "joy": 21,
+    "trust": 60,
     "fear": 48,
     "surprise": 14,
-    "sadness": 17,
-    "disgust": 6,
-    "anger": 105,
+    "sadness": 18,
+    "disgust": 5,
+    "anger": 106,
     "anticipation": 31
   }
 }
