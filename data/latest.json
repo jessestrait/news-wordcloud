@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:56:24.953Z",
+  "generated_at": "2026-10-14T04:11:27.483Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "trump",
-      9,
+      8,
       "anger"
     ],
     [
@@ -63,6 +63,11 @@
       "anticipation"
     ],
     [
+      "removed",
+      3,
+      "anger"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -98,8 +103,8 @@
       "anger"
     ],
     [
-      "ally",
-      3,
+      "allies",
+      2,
       "trust"
     ],
     [
@@ -116,11 +121,6 @@
       "warn",
       2,
       "fear"
-    ],
-    [
-      "removed",
-      2,
-      "anger"
     ],
     [
       "leave",
@@ -226,6 +226,16 @@
       "escalating",
       2,
       "anger"
+    ],
+    [
+      "threats",
+      1,
+      "anger"
+    ],
+    [
+      "coming",
+      1,
+      "anticipation"
     ],
     [
       "explain",
@@ -366,26 +376,16 @@
       "shortages",
       1,
       "anger"
-    ],
-    [
-      "music",
-      1,
-      "joy"
-    ],
-    [
-      "lovely",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 63,
+    "trust": 62,
     "fear": 43,
     "surprise": 13,
     "sadness": 18,
     "disgust": 6,
-    "anger": 105,
-    "anticipation": 33
+    "anger": 104,
+    "anticipation": 32
   }
 }
