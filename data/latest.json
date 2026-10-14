@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T07:58:32.440Z",
+  "generated_at": "2026-10-14T08:13:35.064Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,16 +23,6 @@
       "anticipation"
     ],
     [
-      "leader",
-      7,
-      "trust"
-    ],
-    [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "people",
       6,
       "trust"
@@ -44,13 +34,23 @@
     ],
     [
       "warning",
-      4,
+      5,
       "fear"
     ],
     [
+      "war",
+      5,
+      "anger"
+    ],
+    [
       "missile",
-      4,
+      5,
       "fear"
+    ],
+    [
+      "leader",
+      5,
+      "trust"
     ],
     [
       "hit",
@@ -63,6 +63,11 @@
       "anticipation"
     ],
     [
+      "system",
+      3,
+      "trust"
+    ],
+    [
       "deal",
       3,
       "surprise"
@@ -71,11 +76,6 @@
       "removed",
       3,
       "anger"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "flooding",
@@ -108,6 +108,11 @@
       "anger"
     ],
     [
+      "launches",
+      2,
+      "anticipation"
+    ],
+    [
       "jailed",
       2,
       "fear"
@@ -116,6 +121,11 @@
       "authorities",
       2,
       "trust"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "allies",
@@ -213,16 +223,6 @@
       "anticipation"
     ],
     [
-      "fear",
-      2,
-      "anger"
-    ],
-    [
-      "system",
-      2,
-      "trust"
-    ],
-    [
       "plan",
       2,
       "anticipation"
@@ -251,6 +251,31 @@
       "american",
       1,
       "sadness"
+    ],
+    [
+      "soldiers",
+      1,
+      "anger"
+    ],
+    [
+      "combat",
+      1,
+      "anger"
+    ],
+    [
+      "restricted",
+      1,
+      "sadness"
+    ],
+    [
+      "managed",
+      1,
+      "trust"
+    ],
+    [
+      "advance",
+      1,
+      "fear"
     ],
     [
       "collapse",
@@ -351,41 +376,16 @@
       "reporter",
       1,
       "trust"
-    ],
-    [
-      "decries",
-      1,
-      "anger"
-    ],
-    [
-      "unjust",
-      1,
-      "anger"
-    ],
-    [
-      "denied",
-      1,
-      "sadness"
-    ],
-    [
-      "demanding",
-      1,
-      "anger"
-    ],
-    [
-      "threatened",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 60,
-    "fear": 48,
+    "joy": 20,
+    "trust": 59,
+    "fear": 50,
     "surprise": 14,
-    "sadness": 18,
+    "sadness": 19,
     "disgust": 5,
     "anger": 106,
-    "anticipation": 31
+    "anticipation": 32
   }
 }
