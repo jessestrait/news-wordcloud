@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:31:01.082Z",
+  "generated_at": "2026-10-14T12:46:03.217Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,7 +23,7 @@
       "anticipation"
     ],
     [
-      "people",
+      "leader",
       6,
       "trust"
     ],
@@ -33,7 +33,7 @@
       "fear"
     ],
     [
-      "leader",
+      "people",
       5,
       "trust"
     ],
@@ -58,11 +58,6 @@
       "anger"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "intelligence",
       3,
       "fear"
@@ -76,6 +71,11 @@
       "leave",
       3,
       "sadness"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "deal",
@@ -101,6 +101,11 @@
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "attacking",
+      2,
+      "anger"
     ],
     [
       "launches",
@@ -228,6 +233,16 @@
       "fear"
     ],
     [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "disruption",
+      1,
+      "anger"
+    ],
+    [
       "denies",
       1,
       "anger"
@@ -251,16 +266,6 @@
       "babies",
       1,
       "joy"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "disruption",
-      1,
-      "anger"
     ],
     [
       "soldiers",
@@ -371,21 +376,16 @@
       "anger",
       1,
       "anger"
-    ],
-    [
-      "boiled",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 57,
-    "fear": 53,
+    "fear": 52,
     "surprise": 14,
     "sadness": 18,
     "disgust": 6,
-    "anger": 105,
+    "anger": 106,
     "anticipation": 29
   }
 }
