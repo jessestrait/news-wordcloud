@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:01:58.483Z",
+  "generated_at": "2026-10-14T14:17:00.677Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,14 +38,14 @@
       "trust"
     ],
     [
-      "power",
-      4,
-      "anticipation"
-    ],
-    [
       "warning",
       4,
       "fear"
+    ],
+    [
+      "power",
+      4,
+      "anticipation"
     ],
     [
       "hit",
@@ -103,7 +103,7 @@
       "fear"
     ],
     [
-      "launches",
+      "launch",
       2,
       "anticipation"
     ],
@@ -238,6 +238,31 @@
       "fear"
     ],
     [
+      "suddenly",
+      1,
+      "surprise"
+    ],
+    [
+      "restricted",
+      1,
+      "sadness"
+    ],
+    [
+      "managed",
+      1,
+      "trust"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "disruption",
+      1,
+      "anger"
+    ],
+    [
       "excluding",
       1,
       "sadness"
@@ -261,41 +286,6 @@
       "competition",
       1,
       "anticipation"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "disruption",
-      1,
-      "anger"
-    ],
-    [
-      "suddenly",
-      1,
-      "surprise"
-    ],
-    [
-      "restricted",
-      1,
-      "sadness"
-    ],
-    [
-      "terminals",
-      1,
-      "fear"
-    ],
-    [
-      "managed",
-      1,
-      "trust"
-    ],
-    [
-      "advance",
-      1,
-      "fear"
     ],
     [
       "denies",
@@ -376,12 +366,22 @@
       "dangerous",
       1,
       "fear"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
+    ],
+    [
+      "threats",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 57,
-    "fear": 54,
+    "fear": 52,
     "surprise": 14,
     "sadness": 19,
     "disgust": 6,
