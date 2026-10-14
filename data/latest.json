@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:01:29.152Z",
+  "generated_at": "2026-10-14T13:16:32.104Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "anger"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "intelligence",
       3,
       "fear"
@@ -71,11 +76,6 @@
       "leave",
       3,
       "sadness"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "deal",
@@ -233,16 +233,6 @@
       "fear"
     ],
     [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "disruption",
-      1,
-      "anger"
-    ],
-    [
       "denies",
       1,
       "anger"
@@ -266,6 +256,16 @@
       "babies",
       1,
       "joy"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "disruption",
+      1,
+      "anger"
     ],
     [
       "soldiers",
