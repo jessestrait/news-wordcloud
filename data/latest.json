@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:31:34.735Z",
+  "generated_at": "2026-10-14T13:46:37.474Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,14 +93,19 @@
       "anticipation"
     ],
     [
-      "attacking",
+      "military",
       2,
-      "anger"
+      "fear"
     ],
     [
       "launches",
       2,
       "anticipation"
+    ],
+    [
+      "attacking",
+      2,
+      "anger"
     ],
     [
       "change",
@@ -243,6 +248,31 @@
       "anger"
     ],
     [
+      "suddenly",
+      1,
+      "surprise"
+    ],
+    [
+      "restricted",
+      1,
+      "sadness"
+    ],
+    [
+      "terminals",
+      1,
+      "fear"
+    ],
+    [
+      "managed",
+      1,
+      "trust"
+    ],
+    [
+      "advance",
+      1,
+      "fear"
+    ],
+    [
       "law",
       1,
       "trust"
@@ -286,36 +316,6 @@
       "babies",
       1,
       "joy"
-    ],
-    [
-      "soldiers",
-      1,
-      "anger"
-    ],
-    [
-      "combat",
-      1,
-      "anger"
-    ],
-    [
-      "restricted",
-      1,
-      "sadness"
-    ],
-    [
-      "terminals",
-      1,
-      "fear"
-    ],
-    [
-      "managed",
-      1,
-      "trust"
-    ],
-    [
-      "advance",
-      1,
-      "fear"
     ],
     [
       "stigma",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 24,
     "trust": 57,
-    "fear": 52,
-    "surprise": 13,
+    "fear": 53,
+    "surprise": 14,
     "sadness": 18,
     "disgust": 6,
-    "anger": 102,
+    "anger": 100,
     "anticipation": 31
   }
 }
