@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:46:56.315Z",
+  "generated_at": "2026-10-14T14:01:58.483Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,6 +83,11 @@
       "anger"
     ],
     [
+      "warn",
+      3,
+      "fear"
+    ],
+    [
       "deadly",
       3,
       "anger"
@@ -146,11 +151,6 @@
       "allies",
       2,
       "trust"
-    ],
-    [
-      "warn",
-      2,
-      "fear"
     ],
     [
       "president",
@@ -238,6 +238,31 @@
       "fear"
     ],
     [
+      "excluding",
+      1,
+      "sadness"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
+      "hurt",
+      1,
+      "anger"
+    ],
+    [
+      "intended",
+      1,
+      "anticipation"
+    ],
+    [
+      "competition",
+      1,
+      "anticipation"
+    ],
+    [
       "commission",
       1,
       "trust"
@@ -271,26 +296,6 @@
       "advance",
       1,
       "fear"
-    ],
-    [
-      "law",
-      1,
-      "trust"
-    ],
-    [
-      "hurt",
-      1,
-      "anger"
-    ],
-    [
-      "intended",
-      1,
-      "anticipation"
-    ],
-    [
-      "competition",
-      1,
-      "anticipation"
     ],
     [
       "denies",
@@ -371,19 +376,14 @@
       "dangerous",
       1,
       "fear"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 57,
-    "fear": 53,
+    "fear": 54,
     "surprise": 14,
-    "sadness": 18,
+    "sadness": 19,
     "disgust": 6,
     "anger": 100,
     "anticipation": 31
