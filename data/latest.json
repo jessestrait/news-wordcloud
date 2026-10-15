@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:41:01.317Z",
+  "generated_at": "2026-10-15T05:56:03.501Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "trump",
-      7,
+      9,
       "anger"
     ],
     [
@@ -46,6 +46,11 @@
       "missile",
       4,
       "fear"
+    ],
+    [
+      "allies",
+      3,
+      "trust"
     ],
     [
       "government",
@@ -88,11 +93,6 @@
       "trust"
     ],
     [
-      "court",
-      3,
-      "anger"
-    ],
-    [
       "removed",
       3,
       "anger"
@@ -106,6 +106,11 @@
       "top",
       2,
       "trust"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "military",
@@ -133,19 +138,9 @@
       "fear"
     ],
     [
-      "opposition",
-      2,
-      "anger"
-    ],
-    [
       "bank",
       2,
       "trust"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "building",
@@ -213,6 +208,11 @@
       "anger"
     ],
     [
+      "court",
+      2,
+      "anger"
+    ],
+    [
       "forces",
       2,
       "anger"
@@ -236,11 +236,6 @@
       "flooding",
       2,
       "fear"
-    ],
-    [
-      "allies",
-      2,
-      "trust"
     ],
     [
       "warn",
@@ -328,6 +323,16 @@
       "joy"
     ],
     [
+      "erratic",
+      1,
+      "surprise"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
+    ],
+    [
       "sudden",
       1,
       "surprise"
@@ -368,24 +373,19 @@
       "anger"
     ],
     [
-      "peace",
+      "opposition",
       1,
-      "joy"
-    ],
-    [
-      "general",
-      1,
-      "trust"
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 65,
-    "fear": 54,
-    "surprise": 14,
-    "sadness": 16,
+    "joy": 29,
+    "trust": 66,
+    "fear": 52,
+    "surprise": 15,
+    "sadness": 15,
     "disgust": 9,
-    "anger": 112,
+    "anger": 113,
     "anticipation": 28
   }
 }
