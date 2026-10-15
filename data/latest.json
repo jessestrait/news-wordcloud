@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:30:02.815Z",
+  "generated_at": "2026-10-15T13:45:05.594Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,14 +93,14 @@
       "fear"
     ],
     [
-      "dangerous",
-      2,
-      "fear"
-    ],
-    [
       "officials",
       2,
       "trust"
+    ],
+    [
+      "dangerous",
+      2,
+      "fear"
     ],
     [
       "controversial",
@@ -303,11 +303,6 @@
       "anger"
     ],
     [
-      "possibility",
-      1,
-      "anticipation"
-    ],
-    [
       "trees",
       1,
       "anger"
@@ -326,6 +321,11 @@
       "bark",
       1,
       "anger"
+    ],
+    [
+      "possibility",
+      1,
+      "anticipation"
     ],
     [
       "secret",
