@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:18:23.374Z",
+  "generated_at": "2026-10-15T19:33:25.879Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "trust"
     ],
     [
+      "government",
+      5,
+      "fear"
+    ],
+    [
       "president",
       5,
       "trust"
@@ -33,11 +38,6 @@
       "anger"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "missile",
       4,
       "fear"
@@ -51,16 +51,6 @@
       "allies",
       3,
       "trust"
-    ],
-    [
-      "damage",
-      3,
-      "anger"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
     ],
     [
       "warning",
@@ -98,6 +88,11 @@
       "fear"
     ],
     [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
       "missing",
       2,
       "fear"
@@ -128,11 +123,6 @@
       "joy"
     ],
     [
-      "scandal",
-      2,
-      "fear"
-    ],
-    [
       "controversial",
       2,
       "anger"
@@ -146,11 +136,6 @@
       "food",
       2,
       "joy"
-    ],
-    [
-      "top",
-      2,
-      "trust"
     ],
     [
       "peace",
@@ -181,6 +166,16 @@
       "ice",
       2,
       "fear"
+    ],
+    [
+      "damage",
+      2,
+      "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "bank",
@@ -258,11 +253,6 @@
       "anger"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
       "badly",
       2,
       "sadness"
@@ -286,6 +276,11 @@
       "suggest",
       2,
       "trust"
+    ],
+    [
+      "tariffs",
+      1,
+      "anger"
     ],
     [
       "vows",
@@ -363,6 +358,11 @@
       "trust"
     ],
     [
+      "scandal",
+      1,
+      "fear"
+    ],
+    [
       "imprisoned",
       1,
       "anger"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 62,
+    "trust": 61,
     "fear": 55,
     "surprise": 8,
     "sadness": 17,
     "disgust": 10,
-    "anger": 116,
-    "anticipation": 25
+    "anger": 115,
+    "anticipation": 23
   }
 }
