@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T02:39:25.914Z",
+  "generated_at": "2026-10-15T02:54:28.402Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "anger"
     ],
     [
-      "leader",
-      6,
-      "trust"
-    ],
-    [
       "missile",
       5,
       "fear"
@@ -39,6 +34,11 @@
     ],
     [
       "president",
+      4,
+      "trust"
+    ],
+    [
+      "leader",
       4,
       "trust"
     ],
@@ -293,6 +293,21 @@
       "anticipation"
     ],
     [
+      "congress",
+      1,
+      "disgust"
+    ],
+    [
+      "approves",
+      1,
+      "joy"
+    ],
+    [
+      "constitutional",
+      1,
+      "trust"
+    ],
+    [
       "shocked",
       1,
       "anger"
@@ -361,31 +376,16 @@
       "remove",
       1,
       "anger"
-    ],
-    [
-      "doctors",
-      1,
-      "trust"
-    ],
-    [
-      "casualties",
-      1,
-      "anger"
-    ],
-    [
-      "restrictions",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 63,
-    "fear": 55,
+    "joy": 26,
+    "trust": 60,
+    "fear": 54,
     "surprise": 14,
     "sadness": 19,
-    "disgust": 6,
-    "anger": 104,
+    "disgust": 7,
+    "anger": 103,
     "anticipation": 31
   }
 }
