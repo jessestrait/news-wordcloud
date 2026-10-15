@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:13:19.873Z",
+  "generated_at": "2026-10-15T10:28:22.403Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,8 +9,13 @@
     ],
     [
       "trump",
-      9,
+      10,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "attack",
@@ -18,9 +23,9 @@
       "anger"
     ],
     [
-      "people",
-      6,
-      "trust"
+      "war",
+      5,
+      "anger"
     ],
     [
       "government",
@@ -33,11 +38,6 @@
       "anger"
     ],
     [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "damage",
       4,
       "anger"
@@ -46,6 +46,11 @@
       "president",
       4,
       "trust"
+    ],
+    [
+      "warning",
+      4,
+      "fear"
     ],
     [
       "missile",
@@ -68,11 +73,6 @@
       "anticipation"
     ],
     [
-      "warning",
-      3,
-      "fear"
-    ],
-    [
       "intelligence",
       3,
       "fear"
@@ -81,11 +81,6 @@
       "sharing",
       3,
       "joy"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "crumbling",
@@ -111,6 +106,11 @@
       "betrayed",
       2,
       "anger"
+    ],
+    [
+      "advance",
+      2,
+      "fear"
     ],
     [
       "top",
@@ -203,6 +203,11 @@
       "sadness"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "denies",
       2,
       "anger"
@@ -241,11 +246,6 @@
       "damaged",
       2,
       "anger"
-    ],
-    [
-      "collapse",
-      2,
-      "fear"
     ],
     [
       "flooding",
@@ -291,6 +291,26 @@
       "levels",
       2,
       "trust"
+    ],
+    [
+      "expect",
+      1,
+      "surprise"
+    ],
+    [
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
+      "fighting",
+      1,
+      "anger"
     ],
     [
       "swarms",
@@ -356,36 +376,16 @@
       "bombing",
       1,
       "anger"
-    ],
-    [
-      "pilot",
-      1,
-      "trust"
-    ],
-    [
-      "anti",
-      1,
-      "anger"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
-      "general",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 65,
-    "fear": 54,
-    "surprise": 15,
+    "joy": 29,
+    "trust": 66,
+    "fear": 57,
+    "surprise": 16,
     "sadness": 15,
     "disgust": 10,
-    "anger": 112,
-    "anticipation": 25
+    "anger": 115,
+    "anticipation": 24
   }
 }
