@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T03:54:55.795Z",
+  "generated_at": "2026-10-15T04:09:58.136Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      8,
+      7,
       "anger"
     ],
     [
@@ -53,11 +53,6 @@
       "trust"
     ],
     [
-      "leader",
-      4,
-      "trust"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -76,11 +71,6 @@
       "sharing",
       3,
       "joy"
-    ],
-    [
-      "leave",
-      3,
-      "sadness"
     ],
     [
       "happened",
@@ -111,6 +101,16 @@
       "airport",
       3,
       "anticipation"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
     ],
     [
       "bank",
@@ -178,6 +178,11 @@
       "anticipation"
     ],
     [
+      "leave",
+      2,
+      "sadness"
+    ],
+    [
       "denies",
       2,
       "anger"
@@ -216,11 +221,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "jailed",
-      2,
-      "fear"
     ],
     [
       "flooding",
@@ -288,6 +288,66 @@
       "anger"
     ],
     [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
+    ],
+    [
+      "general",
+      1,
+      "trust"
+    ],
+    [
+      "policy",
+      1,
+      "trust"
+    ],
+    [
+      "retains",
+      1,
+      "trust"
+    ],
+    [
+      "waste",
+      1,
+      "disgust"
+    ],
+    [
+      "granted",
+      1,
+      "joy"
+    ],
+    [
+      "lyrical",
+      1,
+      "joy"
+    ],
+    [
+      "lines",
+      1,
+      "fear"
+    ],
+    [
+      "rubbish",
+      1,
+      "disgust"
+    ],
+    [
+      "trucks",
+      1,
+      "trust"
+    ],
+    [
+      "proud",
+      1,
+      "joy"
+    ],
+    [
       "congress",
       1,
       "disgust"
@@ -316,76 +376,16 @@
       "shocked",
       1,
       "anger"
-    ],
-    [
-      "sex",
-      1,
-      "joy"
-    ],
-    [
-      "appeal",
-      1,
-      "anticipation"
-    ],
-    [
-      "suppress",
-      1,
-      "anger"
-    ],
-    [
-      "lesson",
-      1,
-      "trust"
-    ],
-    [
-      "violent",
-      1,
-      "anger"
-    ],
-    [
-      "clash",
-      1,
-      "anger"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
-    ],
-    [
-      "betrayed",
-      1,
-      "anger"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "progressing",
-      1,
-      "joy"
-    ],
-    [
-      "begun",
-      1,
-      "anticipation"
-    ],
-    [
-      "hospital",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 60,
-    "fear": 54,
+    "joy": 27,
+    "trust": 61,
+    "fear": 53,
     "surprise": 14,
-    "sadness": 19,
-    "disgust": 7,
+    "sadness": 17,
+    "disgust": 8,
     "anger": 110,
-    "anticipation": 31
+    "anticipation": 30
   }
 }
