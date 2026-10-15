@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:58:46.215Z",
+  "generated_at": "2026-10-15T11:13:50.306Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "trump",
-      10,
+      12,
       "anger"
     ],
     [
@@ -106,6 +106,16 @@
       "betrayed",
       2,
       "anger"
+    ],
+    [
+      "controversial",
+      2,
+      "anger"
+    ],
+    [
+      "case",
+      2,
+      "fear"
     ],
     [
       "advance",
@@ -293,6 +303,26 @@
       "trust"
     ],
     [
+      "secret",
+      1,
+      "trust"
+    ],
+    [
+      "illegal",
+      1,
+      "anger"
+    ],
+    [
+      "plans",
+      1,
+      "anticipation"
+    ],
+    [
+      "criminal",
+      1,
+      "anger"
+    ],
+    [
       "expect",
       1,
       "surprise"
@@ -346,46 +376,16 @@
       "conflict",
       1,
       "anger"
-    ],
-    [
-      "sudden",
-      1,
-      "surprise"
-    ],
-    [
-      "betrayal",
-      1,
-      "anger"
-    ],
-    [
-      "crucial",
-      1,
-      "trust"
-    ],
-    [
-      "toxic",
-      1,
-      "disgust"
-    ],
-    [
-      "haze",
-      1,
-      "fear"
-    ],
-    [
-      "bombing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 66,
-    "fear": 57,
-    "surprise": 16,
+    "fear": 58,
+    "surprise": 15,
     "sadness": 15,
     "disgust": 10,
-    "anger": 115,
+    "anger": 120,
     "anticipation": 24
   }
 }
