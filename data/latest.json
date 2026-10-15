@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:46:17.792Z",
+  "generated_at": "2026-10-15T16:01:19.969Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "people",
-      8,
+      6,
       "trust"
     ],
     [
@@ -24,11 +24,6 @@
     ],
     [
       "war",
-      4,
-      "anger"
-    ],
-    [
-      "damage",
       4,
       "anger"
     ],
@@ -56,6 +51,11 @@
       "allies",
       3,
       "trust"
+    ],
+    [
+      "damage",
+      3,
+      "anger"
     ],
     [
       "power",
@@ -96,6 +96,11 @@
       "warn",
       3,
       "fear"
+    ],
+    [
+      "threat",
+      2,
+      "anger"
     ],
     [
       "sex",
@@ -243,11 +248,6 @@
       "anger"
     ],
     [
-      "forces",
-      2,
-      "anger"
-    ],
-    [
       "badly",
       2,
       "sadness"
@@ -259,11 +259,6 @@
     ],
     [
       "collapse",
-      2,
-      "fear"
-    ],
-    [
-      "flooding",
       2,
       "fear"
     ],
@@ -288,14 +283,9 @@
       "anger"
     ],
     [
-      "kill",
-      2,
-      "fear"
-    ],
-    [
-      "storm",
-      2,
-      "anger"
+      "cooperation",
+      1,
+      "trust"
     ],
     [
       "prevent",
@@ -376,16 +366,26 @@
       "plans",
       1,
       "anticipation"
+    ],
+    [
+      "criminal",
+      1,
+      "anger"
+    ],
+    [
+      "vows",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 64,
-    "fear": 59,
-    "surprise": 11,
+    "trust": 63,
+    "fear": 56,
+    "surprise": 10,
     "sadness": 15,
     "disgust": 11,
-    "anger": 120,
+    "anger": 117,
     "anticipation": 23
   }
 }
