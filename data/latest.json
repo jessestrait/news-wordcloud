@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-15T03:09:30.793Z",
+  "generated_at": "2026-10-15T03:24:33.489Z",
   "article_count": 50,
   "top_words": [
     [
       "strike",
-      13,
+      14,
       "anger"
     ],
     [
       "attack",
-      7,
+      8,
       "anger"
     ],
     [
@@ -28,6 +28,21 @@
       "fear"
     ],
     [
+      "war",
+      4,
+      "anger"
+    ],
+    [
+      "damage",
+      4,
+      "anger"
+    ],
+    [
+      "power",
+      4,
+      "anticipation"
+    ],
+    [
       "government",
       4,
       "fear"
@@ -41,11 +56,6 @@
       "leader",
       4,
       "trust"
-    ],
-    [
-      "war",
-      3,
-      "anger"
     ],
     [
       "hit",
@@ -71,11 +81,6 @@
       "leave",
       3,
       "sadness"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
     ],
     [
       "happened",
@@ -263,19 +268,9 @@
       "trust"
     ],
     [
-      "damage",
-      2,
-      "anger"
-    ],
-    [
       "kill",
       2,
       "fear"
-    ],
-    [
-      "church",
-      2,
-      "joy"
     ],
     [
       "storm",
@@ -288,9 +283,9 @@
       "trust"
     ],
     [
-      "mountain",
+      "fear",
       2,
-      "anticipation"
+      "anger"
     ],
     [
       "congress",
@@ -306,6 +301,16 @@
       "constitutional",
       1,
       "trust"
+    ],
+    [
+      "pledges",
+      1,
+      "joy"
+    ],
+    [
+      "inflicted",
+      1,
+      "anger"
     ],
     [
       "shocked",
@@ -371,21 +376,16 @@
       "hospital",
       1,
       "fear"
-    ],
-    [
-      "remove",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 24,
     "trust": 60,
     "fear": 54,
     "surprise": 14,
     "sadness": 19,
     "disgust": 7,
-    "anger": 103,
+    "anger": 110,
     "anticipation": 31
   }
 }
