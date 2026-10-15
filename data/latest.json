@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:59:41.274Z",
+  "generated_at": "2026-10-15T13:14:43.664Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "trump",
-      11,
+      10,
       "anger"
     ],
     [
@@ -19,7 +19,7 @@
     ],
     [
       "attack",
-      7,
+      6,
       "anger"
     ],
     [
@@ -29,18 +29,13 @@
     ],
     [
       "war",
-      5,
+      4,
       "anger"
     ],
     [
       "damage",
       4,
       "anger"
-    ],
-    [
-      "warning",
-      4,
-      "fear"
     ],
     [
       "missile",
@@ -59,6 +54,11 @@
     ],
     [
       "government",
+      3,
+      "fear"
+    ],
+    [
+      "warning",
       3,
       "fear"
     ],
@@ -98,6 +98,11 @@
       "fear"
     ],
     [
+      "officials",
+      2,
+      "trust"
+    ],
+    [
       "controversial",
       2,
       "anger"
@@ -106,6 +111,11 @@
       "case",
       2,
       "fear"
+    ],
+    [
+      "demanding",
+      2,
+      "anger"
     ],
     [
       "advance",
@@ -153,6 +163,11 @@
       "trust"
     ],
     [
+      "clash",
+      2,
+      "anger"
+    ],
+    [
       "building",
       2,
       "anticipation"
@@ -181,11 +196,6 @@
       "rising",
       2,
       "joy"
-    ],
-    [
-      "death",
-      2,
-      "sadness"
     ],
     [
       "surge",
@@ -253,9 +263,9 @@
       "anger"
     ],
     [
-      "deal",
+      "collapse",
       2,
-      "surprise"
+      "fear"
     ],
     [
       "flooding",
@@ -278,11 +288,6 @@
       "disgust"
     ],
     [
-      "deputy",
-      2,
-      "trust"
-    ],
-    [
       "fight",
       2,
       "anger"
@@ -298,14 +303,29 @@
       "anger"
     ],
     [
-      "levels",
-      2,
-      "trust"
-    ],
-    [
       "possibility",
       1,
       "anticipation"
+    ],
+    [
+      "trees",
+      1,
+      "anger"
+    ],
+    [
+      "guidance",
+      1,
+      "trust"
+    ],
+    [
+      "ammonia",
+      1,
+      "disgust"
+    ],
+    [
+      "bark",
+      1,
+      "anger"
     ],
     [
       "secret",
@@ -328,6 +348,21 @@
       "anger"
     ],
     [
+      "vows",
+      1,
+      "joy"
+    ],
+    [
+      "resign",
+      1,
+      "anger"
+    ],
+    [
+      "resignation",
+      1,
+      "sadness"
+    ],
+    [
       "expect",
       1,
       "surprise"
@@ -341,51 +376,16 @@
       "supplies",
       1,
       "fear"
-    ],
-    [
-      "fighting",
-      1,
-      "anger"
-    ],
-    [
-      "swarms",
-      1,
-      "disgust"
-    ],
-    [
-      "economy",
-      1,
-      "trust"
-    ],
-    [
-      "brain",
-      1,
-      "trust"
-    ],
-    [
-      "series",
-      1,
-      "trust"
-    ],
-    [
-      "wages",
-      1,
-      "joy"
-    ],
-    [
-      "erratic",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 66,
-    "fear": 59,
-    "surprise": 14,
+    "joy": 30,
+    "trust": 65,
+    "fear": 57,
+    "surprise": 12,
     "sadness": 15,
-    "disgust": 10,
-    "anger": 118,
-    "anticipation": 25
+    "disgust": 11,
+    "anger": 119,
+    "anticipation": 24
   }
 }
