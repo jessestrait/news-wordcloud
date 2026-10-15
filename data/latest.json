@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:00:53.869Z",
+  "generated_at": "2026-10-15T15:15:56.447Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,6 +298,16 @@
       "anger"
     ],
     [
+      "trade",
+      1,
+      "trust"
+    ],
+    [
+      "swarms",
+      1,
+      "disgust"
+    ],
+    [
       "prevent",
       1,
       "fear"
@@ -366,21 +376,11 @@
       "plans",
       1,
       "anticipation"
-    ],
-    [
-      "criminal",
-      1,
-      "anger"
-    ],
-    [
-      "vows",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 63,
+    "trust": 64,
     "fear": 59,
     "surprise": 11,
     "sadness": 15,
