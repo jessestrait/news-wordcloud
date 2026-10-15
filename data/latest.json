@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:15:56.447Z",
+  "generated_at": "2026-10-15T15:30:59.273Z",
   "article_count": 50,
   "top_words": [
     [
@@ -46,6 +46,11 @@
       "missile",
       4,
       "fear"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "allies",
@@ -213,11 +218,6 @@
       "sadness"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "denies",
       2,
       "anger"
@@ -298,16 +298,6 @@
       "anger"
     ],
     [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "swarms",
-      1,
-      "disgust"
-    ],
-    [
       "prevent",
       1,
       "fear"
@@ -316,6 +306,16 @@
       "tackle",
       1,
       "anger"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
+    ],
+    [
+      "swarms",
+      1,
+      "disgust"
     ],
     [
       "obituary",
@@ -386,6 +386,6 @@
     "sadness": 15,
     "disgust": 11,
     "anger": 120,
-    "anticipation": 22
+    "anticipation": 23
   }
 }
