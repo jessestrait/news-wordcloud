@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-15T14:15:28.146Z",
+  "generated_at": "2026-10-15T14:30:30.513Z",
   "article_count": 50,
   "top_words": [
     [
       "strike",
-      15,
+      14,
       "anger"
     ],
     [
@@ -14,18 +14,13 @@
     ],
     [
       "people",
-      7,
+      8,
       "trust"
     ],
     [
       "attack",
-      6,
-      "anger"
-    ],
-    [
-      "president",
       5,
-      "trust"
+      "anger"
     ],
     [
       "war",
@@ -36,6 +31,16 @@
       "damage",
       4,
       "anger"
+    ],
+    [
+      "government",
+      4,
+      "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "missile",
@@ -51,11 +56,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "warning",
@@ -93,14 +93,14 @@
       "fear"
     ],
     [
-      "dangerous",
+      "sex",
       2,
-      "fear"
+      "joy"
     ],
     [
-      "official",
+      "scandal",
       2,
-      "trust"
+      "fear"
     ],
     [
       "controversial",
@@ -196,11 +196,6 @@
       "rising",
       2,
       "joy"
-    ],
-    [
-      "surge",
-      2,
-      "surprise"
     ],
     [
       "hit",
@@ -303,14 +298,44 @@
       "anger"
     ],
     [
-      "possibility",
+      "obituary",
       1,
-      "anticipation"
+      "sadness"
+    ],
+    [
+      "gospel",
+      1,
+      "trust"
+    ],
+    [
+      "imprisoned",
+      1,
+      "anger"
+    ],
+    [
+      "fraud",
+      1,
+      "anger"
+    ],
+    [
+      "prevent",
+      1,
+      "fear"
+    ],
+    [
+      "tackle",
+      1,
+      "anger"
     ],
     [
       "trees",
       1,
       "anger"
+    ],
+    [
+      "official",
+      1,
+      "trust"
     ],
     [
       "guidance",
@@ -351,41 +376,16 @@
       "vows",
       1,
       "joy"
-    ],
-    [
-      "resign",
-      1,
-      "anger"
-    ],
-    [
-      "resignation",
-      1,
-      "sadness"
-    ],
-    [
-      "expect",
-      1,
-      "surprise"
-    ],
-    [
-      "food",
-      1,
-      "joy"
-    ],
-    [
-      "supplies",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 65,
-    "fear": 57,
-    "surprise": 12,
+    "trust": 63,
+    "fear": 59,
+    "surprise": 11,
     "sadness": 15,
     "disgust": 11,
-    "anger": 119,
-    "anticipation": 24
+    "anger": 120,
+    "anticipation": 22
   }
 }
