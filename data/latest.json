@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-10-15T04:40:20.246Z",
+  "generated_at": "2026-10-15T04:55:22.699Z",
   "article_count": 50,
   "top_words": [
     [
       "strike",
       14,
+      "anger"
+    ],
+    [
+      "trump",
+      7,
       "anger"
     ],
     [
@@ -16,11 +21,6 @@
       "people",
       6,
       "trust"
-    ],
-    [
-      "trump",
-      6,
-      "anger"
     ],
     [
       "war",
@@ -45,11 +45,6 @@
     [
       "missile",
       4,
-      "fear"
-    ],
-    [
-      "fire",
-      3,
       "fear"
     ],
     [
@@ -106,6 +101,26 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "military",
+      2,
+      "fear"
+    ],
+    [
+      "system",
+      2,
+      "trust"
+    ],
+    [
+      "restriction",
+      2,
+      "anger"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
     ],
     [
       "ice",
@@ -288,6 +303,21 @@
       "anger"
     ],
     [
+      "sudden",
+      1,
+      "surprise"
+    ],
+    [
+      "betrayal",
+      1,
+      "anger"
+    ],
+    [
+      "crucial",
+      1,
+      "trust"
+    ],
+    [
       "toxic",
       1,
       "disgust"
@@ -346,46 +376,16 @@
       "lyrical",
       1,
       "joy"
-    ],
-    [
-      "lines",
-      1,
-      "fear"
-    ],
-    [
-      "rubbish",
-      1,
-      "disgust"
-    ],
-    [
-      "trucks",
-      1,
-      "trust"
-    ],
-    [
-      "proud",
-      1,
-      "joy"
-    ],
-    [
-      "congress",
-      1,
-      "disgust"
-    ],
-    [
-      "approves",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 62,
-    "fear": 55,
-    "surprise": 14,
-    "sadness": 17,
+    "trust": 63,
+    "fear": 54,
+    "surprise": 15,
+    "sadness": 16,
     "disgust": 9,
-    "anger": 109,
+    "anger": 112,
     "anticipation": 29
   }
 }
