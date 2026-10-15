@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-15T12:44:38.937Z",
+  "generated_at": "2026-10-15T12:59:41.274Z",
   "article_count": 50,
   "top_words": [
     [
       "strike",
-      14,
+      15,
       "anger"
     ],
     [
       "trump",
-      12,
+      11,
       "anger"
     ],
     [
@@ -19,8 +19,13 @@
     ],
     [
       "attack",
-      6,
+      7,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "war",
@@ -28,24 +33,9 @@
       "anger"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
-      "restriction",
-      4,
-      "anger"
-    ],
-    [
       "damage",
       4,
       "anger"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "warning",
@@ -58,11 +48,6 @@
       "fear"
     ],
     [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "allies",
       3,
       "trust"
@@ -71,6 +56,11 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "intelligence",
@@ -98,14 +88,14 @@
       "anger"
     ],
     [
-      "suggest",
+      "warn",
       3,
-      "trust"
+      "fear"
     ],
     [
-      "betrayed",
+      "dangerous",
       2,
-      "anger"
+      "fear"
     ],
     [
       "controversial",
@@ -141,6 +131,11 @@
       "system",
       2,
       "trust"
+    ],
+    [
+      "restriction",
+      2,
+      "anger"
     ],
     [
       "fire",
@@ -258,17 +253,22 @@
       "anger"
     ],
     [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
       "flooding",
       2,
       "fear"
     ],
     [
-      "warn",
+      "teacher",
       2,
-      "fear"
+      "trust"
     ],
     [
-      "teacher",
+      "suggest",
       2,
       "trust"
     ],
@@ -301,6 +301,11 @@
       "levels",
       2,
       "trust"
+    ],
+    [
+      "possibility",
+      1,
+      "anticipation"
     ],
     [
       "secret",
@@ -371,21 +376,16 @@
       "erratic",
       1,
       "surprise"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 66,
-    "fear": 58,
-    "surprise": 15,
+    "fear": 59,
+    "surprise": 14,
     "sadness": 15,
     "disgust": 10,
-    "anger": 120,
-    "anticipation": 24
+    "anger": 118,
+    "anticipation": 25
   }
 }
