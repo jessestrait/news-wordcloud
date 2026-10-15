@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:30:30.513Z",
+  "generated_at": "2026-10-15T14:45:32.988Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,6 +298,16 @@
       "anger"
     ],
     [
+      "prevent",
+      1,
+      "fear"
+    ],
+    [
+      "tackle",
+      1,
+      "anger"
+    ],
+    [
       "obituary",
       1,
       "sadness"
@@ -314,16 +324,6 @@
     ],
     [
       "fraud",
-      1,
-      "anger"
-    ],
-    [
-      "prevent",
-      1,
-      "fear"
-    ],
-    [
-      "tackle",
       1,
       "anger"
     ],
