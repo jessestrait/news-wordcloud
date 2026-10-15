@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T08:42:31.511Z",
+  "generated_at": "2026-10-15T08:57:33.894Z",
   "article_count": 50,
   "top_words": [
     [
@@ -15,11 +15,6 @@
     [
       "people",
       6,
-      "trust"
-    ],
-    [
-      "president",
-      5,
       "trust"
     ],
     [
@@ -51,6 +46,11 @@
       "power",
       4,
       "anticipation"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "missile",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 68,
+    "trust": 67,
     "fear": 53,
     "surprise": 16,
     "sadness": 15,
