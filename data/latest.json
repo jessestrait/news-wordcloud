@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:29:57.948Z",
+  "generated_at": "2026-10-16T17:45:00.816Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "trust"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
       "war",
       6,
       "anger"
@@ -33,9 +38,14 @@
       "fear"
     ],
     [
-      "people",
-      5,
-      "trust"
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
+      "peace",
+      3,
+      "joy"
     ],
     [
       "bank",
@@ -86,11 +96,6 @@
       "missiles",
       3,
       "fear"
-    ],
-    [
-      "media",
-      2,
-      "disgust"
     ],
     [
       "commission",
@@ -213,11 +218,6 @@
       "fear"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "sex",
       2,
       "joy"
@@ -229,11 +229,6 @@
     ],
     [
       "food",
-      2,
-      "joy"
-    ],
-    [
-      "peace",
       2,
       "joy"
     ],
@@ -263,9 +258,9 @@
       "anger"
     ],
     [
-      "dominated",
+      "sours",
       1,
-      "anger"
+      "disgust"
     ],
     [
       "lowering",
@@ -376,16 +371,21 @@
       "prosecute",
       1,
       "anger"
+    ],
+    [
+      "wildfires",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 63,
+    "joy": 31,
+    "trust": 64,
     "fear": 53,
     "surprise": 8,
     "sadness": 13,
-    "disgust": 12,
-    "anger": 112,
-    "anticipation": 19
+    "disgust": 11,
+    "anger": 111,
+    "anticipation": 20
   }
 }
