@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T08:25:18.985Z",
+  "generated_at": "2026-10-16T08:40:21.648Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "fear"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "leaders",
       4,
       "trust"
@@ -43,18 +38,23 @@
       "anger"
     ],
     [
-      "school",
+      "president",
       4,
       "trust"
     ],
     [
-      "president",
+      "people",
       4,
       "trust"
     ],
     [
       "missile",
       4,
+      "fear"
+    ],
+    [
+      "haze",
+      3,
       "fear"
     ],
     [
@@ -83,6 +83,11 @@
       "trust"
     ],
     [
+      "fire",
+      3,
+      "fear"
+    ],
+    [
       "intelligence",
       3,
       "fear"
@@ -108,6 +113,11 @@
       "joy"
     ],
     [
+      "threatened",
+      2,
+      "anger"
+    ],
+    [
       "scandal",
       2,
       "fear"
@@ -131,6 +141,11 @@
       "accused",
       2,
       "anger"
+    ],
+    [
+      "school",
+      2,
+      "trust"
     ],
     [
       "opposition",
@@ -198,11 +213,6 @@
       "anger"
     ],
     [
-      "fire",
-      2,
-      "fear"
-    ],
-    [
       "ice",
       2,
       "fear"
@@ -243,11 +253,6 @@
       "sadness"
     ],
     [
-      "crumbling",
-      2,
-      "sadness"
-    ],
-    [
       "denies",
       2,
       "anger"
@@ -273,14 +278,29 @@
       "fear"
     ],
     [
-      "teacher",
-      2,
-      "trust"
-    ],
-    [
       "worsening",
       1,
       "disgust"
+    ],
+    [
+      "clean",
+      1,
+      "joy"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
+      "prosecute",
+      1,
+      "anger"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
     ],
     [
       "disgrace",
@@ -356,36 +376,16 @@
       "privy",
       1,
       "trust"
-    ],
-    [
-      "council",
-      1,
-      "trust"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "swarms",
-      1,
-      "disgust"
-    ],
-    [
-      "tariffs",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 64,
-    "fear": 59,
+    "joy": 30,
+    "trust": 61,
+    "fear": 62,
     "surprise": 9,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 11,
-    "anger": 119,
+    "anger": 121,
     "anticipation": 19
   }
 }
