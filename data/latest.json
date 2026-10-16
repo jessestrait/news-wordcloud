@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:14:15.218Z",
+  "generated_at": "2026-10-16T16:29:17.287Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,22 +28,22 @@
       "anger"
     ],
     [
+      "government",
+      5,
+      "fear"
+    ],
+    [
       "people",
       5,
       "trust"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
-      "military",
+      "surgery",
       3,
       "fear"
     ],
     [
-      "surgery",
+      "military",
       3,
       "fear"
     ],
@@ -93,16 +93,6 @@
       "fear"
     ],
     [
-      "collapse",
-      3,
-      "fear"
-    ],
-    [
-      "dangerous",
-      2,
-      "fear"
-    ],
-    [
       "supplies",
       2,
       "fear"
@@ -111,6 +101,16 @@
       "hospital",
       2,
       "fear"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
+      "anti",
+      2,
+      "anger"
     ],
     [
       "change",
@@ -128,9 +128,9 @@
       "anger"
     ],
     [
-      "deal",
+      "collapses",
       2,
-      "surprise"
+      "fear"
     ],
     [
       "scandal",
@@ -258,9 +258,19 @@
       "anger"
     ],
     [
+      "crackdown",
+      1,
+      "anger"
+    ],
+    [
       "fully",
       1,
       "trust"
+    ],
+    [
+      "dangerous",
+      1,
+      "fear"
     ],
     [
       "unpleasant",
@@ -366,26 +376,16 @@
       "tensions",
       1,
       "anger"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 63,
-    "fear": 59,
-    "surprise": 9,
+    "trust": 64,
+    "fear": 56,
+    "surprise": 8,
     "sadness": 13,
     "disgust": 10,
-    "anger": 114,
+    "anger": 116,
     "anticipation": 17
   }
 }
