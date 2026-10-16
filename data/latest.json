@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-16T11:57:16.431Z",
+  "generated_at": "2026-10-16T12:12:18.804Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      8,
+      9,
       "anger"
     ],
     [
@@ -16,6 +16,11 @@
       "war",
       6,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "attack",
@@ -33,14 +38,9 @@
       "fear"
     ],
     [
-      "leaders",
-      4,
-      "trust"
-    ],
-    [
-      "president",
-      4,
-      "trust"
+      "deal",
+      3,
+      "surprise"
     ],
     [
       "cancer",
@@ -78,6 +78,11 @@
       "fear"
     ],
     [
+      "difficult",
+      2,
+      "fear"
+    ],
+    [
       "haze",
       2,
       "fear"
@@ -86,11 +91,6 @@
       "disgrace",
       2,
       "anger"
-    ],
-    [
-      "deal",
-      2,
-      "surprise"
     ],
     [
       "scandal",
@@ -253,6 +253,11 @@
       "anger"
     ],
     [
+      "leaders",
+      2,
+      "trust"
+    ],
+    [
       "change",
       2,
       "fear"
@@ -263,9 +268,14 @@
       "anger"
     ],
     [
-      "worsening",
+      "defends",
       1,
-      "disgust"
+      "fear"
+    ],
+    [
+      "fully",
+      1,
+      "trust"
     ],
     [
       "separatist",
@@ -338,11 +348,6 @@
       "trust"
     ],
     [
-      "difficult",
-      1,
-      "fear"
-    ],
-    [
       "exposing",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "injuries",
       1,
       "anger"
-    ],
-    [
-      "mutilated",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 64,
-    "fear": 57,
-    "surprise": 11,
+    "fear": 59,
+    "surprise": 12,
     "sadness": 10,
-    "disgust": 11,
-    "anger": 116,
+    "disgust": 10,
+    "anger": 117,
     "anticipation": 18
   }
 }
