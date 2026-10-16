@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:43:32.366Z",
+  "generated_at": "2026-10-16T14:58:34.548Z",
   "article_count": 50,
   "top_words": [
     [
@@ -80,6 +80,11 @@
     [
       "collapse",
       3,
+      "fear"
+    ],
+    [
+      "change",
+      2,
       "fear"
     ],
     [
@@ -298,9 +303,9 @@
       "joy"
     ],
     [
-      "separatist",
+      "independence",
       1,
-      "anger"
+      "surprise"
     ],
     [
       "ardent",
@@ -313,19 +318,9 @@
       "joy"
     ],
     [
-      "independence",
-      1,
-      "surprise"
-    ],
-    [
       "disagreements",
       1,
       "anger"
-    ],
-    [
-      "strategy",
-      1,
-      "anticipation"
     ],
     [
       "clean",
@@ -376,16 +371,21 @@
       "exposing",
       1,
       "fear"
+    ],
+    [
+      "kind",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 64,
-    "fear": 54,
+    "fear": 55,
     "surprise": 10,
     "sadness": 13,
     "disgust": 9,
-    "anger": 118,
-    "anticipation": 18
+    "anger": 117,
+    "anticipation": 17
   }
 }
