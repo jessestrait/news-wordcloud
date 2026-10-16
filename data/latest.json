@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-10-16T03:52:51.231Z",
+  "generated_at": "2026-10-16T04:07:53.124Z",
   "article_count": 50,
   "top_words": [
     [
       "strike",
-      15,
+      12,
       "anger"
     ],
     [
       "trump",
-      10,
+      8,
+      "anger"
+    ],
+    [
+      "war",
+      6,
       "anger"
     ],
     [
@@ -28,14 +33,19 @@
       "fear"
     ],
     [
-      "president",
-      5,
+      "cancer",
+      4,
+      "anger"
+    ],
+    [
+      "school",
+      4,
       "trust"
     ],
     [
-      "war",
+      "president",
       4,
-      "anger"
+      "trust"
     ],
     [
       "missile",
@@ -43,24 +53,29 @@
       "fear"
     ],
     [
+      "surgery",
+      3,
+      "fear"
+    ],
+    [
+      "operation",
+      3,
+      "fear"
+    ],
+    [
+      "pontiff",
+      3,
+      "trust"
+    ],
+    [
       "case",
       3,
       "fear"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "allies",
       3,
       "trust"
-    ],
-    [
-      "warning",
-      3,
-      "fear"
     ],
     [
       "intelligence",
@@ -78,11 +93,6 @@
       "sadness"
     ],
     [
-      "school",
-      3,
-      "trust"
-    ],
-    [
       "removed",
       3,
       "anger"
@@ -91,6 +101,21 @@
       "warn",
       3,
       "fear"
+    ],
+    [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
+      "police",
+      2,
+      "fear"
+    ],
+    [
+      "accused",
+      2,
+      "anger"
     ],
     [
       "opposition",
@@ -121,6 +146,11 @@
       "threat",
       2,
       "anger"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "sex",
@@ -193,26 +223,6 @@
       "anticipation"
     ],
     [
-      "cancer",
-      2,
-      "anger"
-    ],
-    [
-      "surgery",
-      2,
-      "fear"
-    ],
-    [
-      "pontiff",
-      2,
-      "trust"
-    ],
-    [
-      "operation",
-      2,
-      "fear"
-    ],
-    [
       "rising",
       2,
       "joy"
@@ -221,6 +231,11 @@
       "hit",
       2,
       "anger"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
     ],
     [
       "leave",
@@ -268,8 +283,53 @@
       "trust"
     ],
     [
-      "suggest",
-      2,
+      "kind",
+      1,
+      "joy"
+    ],
+    [
+      "happens",
+      1,
+      "anticipation"
+    ],
+    [
+      "militia",
+      1,
+      "anger"
+    ],
+    [
+      "terrorism",
+      1,
+      "anger"
+    ],
+    [
+      "injuries",
+      1,
+      "anger"
+    ],
+    [
+      "mutilated",
+      1,
+      "disgust"
+    ],
+    [
+      "explosive",
+      1,
+      "anger"
+    ],
+    [
+      "lawyers",
+      1,
+      "anger"
+    ],
+    [
+      "unprecedented",
+      1,
+      "surprise"
+    ],
+    [
+      "custody",
+      1,
       "trust"
     ],
     [
@@ -316,76 +376,16 @@
       "resign",
       1,
       "anger"
-    ],
-    [
-      "demand",
-      1,
-      "anger"
-    ],
-    [
-      "resignation",
-      1,
-      "sadness"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
-    ],
-    [
-      "unacceptable",
-      1,
-      "sadness"
-    ],
-    [
-      "aggression",
-      1,
-      "anger"
-    ],
-    [
-      "ambassador",
-      1,
-      "trust"
-    ],
-    [
-      "cooperation",
-      1,
-      "trust"
-    ],
-    [
-      "prevent",
-      1,
-      "fear"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
-    ],
-    [
-      "gospel",
-      1,
-      "trust"
-    ],
-    [
-      "scandal",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 63,
-    "fear": 56,
-    "surprise": 8,
+    "fear": 58,
+    "surprise": 9,
     "sadness": 17,
     "disgust": 10,
-    "anger": 115,
-    "anticipation": 22
+    "anger": 119,
+    "anticipation": 21
   }
 }
