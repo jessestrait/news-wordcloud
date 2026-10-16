@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:29:32.374Z",
+  "generated_at": "2026-10-16T16:44:34.289Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "fear"
     ],
     [
+      "bank",
+      3,
+      "trust"
+    ],
+    [
       "military",
       3,
       "fear"
@@ -51,11 +56,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "bank",
-      3,
-      "trust"
     ],
     [
       "death",
@@ -258,6 +258,11 @@
       "anger"
     ],
     [
+      "harvest",
+      1,
+      "joy"
+    ],
+    [
       "crackdown",
       1,
       "anger"
@@ -296,11 +301,6 @@
       "punishment",
       1,
       "anger"
-    ],
-    [
-      "harvest",
-      1,
-      "joy"
     ],
     [
       "guilty",
