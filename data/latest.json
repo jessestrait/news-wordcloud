@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:12:18.804Z",
+  "generated_at": "2026-10-16T12:27:21.304Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "fear"
     ],
     [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "cancer",
       3,
       "anger"
@@ -78,11 +73,6 @@
       "fear"
     ],
     [
-      "difficult",
-      2,
-      "fear"
-    ],
-    [
       "haze",
       2,
       "fear"
@@ -91,6 +81,11 @@
       "disgrace",
       2,
       "anger"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
     ],
     [
       "scandal",
@@ -268,7 +263,17 @@
       "anger"
     ],
     [
-      "defends",
+      "smiles",
+      1,
+      "surprise"
+    ],
+    [
+      "scapegoat",
+      1,
+      "anger"
+    ],
+    [
+      "problems",
       1,
       "fear"
     ],
@@ -348,6 +353,11 @@
       "trust"
     ],
     [
+      "difficult",
+      1,
+      "fear"
+    ],
+    [
       "exposing",
       1,
       "fear"
@@ -366,26 +376,16 @@
       "militia",
       1,
       "anger"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "injuries",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 64,
-    "fear": 59,
+    "fear": 58,
     "surprise": 12,
     "sadness": 10,
     "disgust": 10,
-    "anger": 117,
+    "anger": 118,
     "anticipation": 18
   }
 }
