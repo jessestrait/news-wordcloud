@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:41:33.730Z",
+  "generated_at": "2026-10-16T10:56:35.969Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "war",
-      7,
+      6,
       "anger"
     ],
     [
@@ -81,11 +81,6 @@
       "haze",
       2,
       "fear"
-    ],
-    [
-      "pledges",
-      2,
-      "joy"
     ],
     [
       "disgrace",
@@ -376,16 +371,21 @@
       "custody",
       1,
       "trust"
+    ],
+    [
+      "slavery",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 26,
     "trust": 65,
     "fear": 57,
     "surprise": 10,
     "sadness": 10,
     "disgust": 11,
-    "anger": 116,
+    "anger": 115,
     "anticipation": 17
   }
 }
