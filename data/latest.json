@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T08:10:16.234Z",
+  "generated_at": "2026-10-16T08:25:18.985Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "war",
-      6,
+      7,
       "anger"
     ],
     [
@@ -30,6 +30,11 @@
     [
       "people",
       5,
+      "trust"
+    ],
+    [
+      "leaders",
+      4,
       "trust"
     ],
     [
@@ -88,11 +93,6 @@
       "joy"
     ],
     [
-      "crumbling",
-      3,
-      "sadness"
-    ],
-    [
       "removed",
       3,
       "anger"
@@ -101,6 +101,11 @@
       "warn",
       3,
       "fear"
+    ],
+    [
+      "pledges",
+      2,
+      "joy"
     ],
     [
       "scandal",
@@ -144,11 +149,6 @@
     ],
     [
       "ships",
-      2,
-      "anticipation"
-    ],
-    [
-      "letter",
       2,
       "anticipation"
     ],
@@ -228,11 +228,6 @@
       "anger"
     ],
     [
-      "building",
-      2,
-      "anticipation"
-    ],
-    [
       "rising",
       2,
       "joy"
@@ -248,14 +243,14 @@
       "sadness"
     ],
     [
+      "crumbling",
+      2,
+      "sadness"
+    ],
+    [
       "denies",
       2,
       "anger"
-    ],
-    [
-      "leaders",
-      2,
-      "trust"
     ],
     [
       "change",
@@ -281,6 +276,11 @@
       "teacher",
       2,
       "trust"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
     ],
     [
       "disgrace",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 62,
+    "joy": 29,
+    "trust": 64,
     "fear": 59,
     "surprise": 9,
-    "sadness": 16,
-    "disgust": 10,
-    "anger": 118,
-    "anticipation": 21
+    "sadness": 14,
+    "disgust": 11,
+    "anger": 119,
+    "anticipation": 19
   }
 }
