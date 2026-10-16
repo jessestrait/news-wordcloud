@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:02:49.080Z",
+  "generated_at": "2026-10-16T23:17:51.605Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,11 +83,6 @@
       "trust"
     ],
     [
-      "case",
-      3,
-      "fear"
-    ],
-    [
       "system",
       3,
       "trust"
@@ -113,19 +108,9 @@
       "anger"
     ],
     [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
       "anti",
       2,
       "anger"
-    ],
-    [
-      "change",
-      2,
-      "fear"
     ],
     [
       "haze",
@@ -178,6 +163,11 @@
       "anger"
     ],
     [
+      "case",
+      2,
+      "fear"
+    ],
+    [
       "fighting",
       2,
       "anger"
@@ -203,11 +193,6 @@
       "fear"
     ],
     [
-      "attacking",
-      2,
-      "anger"
-    ],
-    [
       "ships",
       2,
       "anticipation"
@@ -221,6 +206,11 @@
       "sex",
       2,
       "joy"
+    ],
+    [
+      "secret",
+      2,
+      "trust"
     ],
     [
       "controversial",
@@ -256,6 +246,51 @@
       "clash",
       2,
       "anger"
+    ],
+    [
+      "uncovering",
+      1,
+      "surprise"
+    ],
+    [
+      "elusive",
+      1,
+      "surprise"
+    ],
+    [
+      "jungle",
+      1,
+      "fear"
+    ],
+    [
+      "scientists",
+      1,
+      "trust"
+    ],
+    [
+      "typhoon",
+      1,
+      "fear"
+    ],
+    [
+      "dark",
+      1,
+      "sadness"
+    ],
+    [
+      "paying",
+      1,
+      "joy"
+    ],
+    [
+      "disasters",
+      1,
+      "anger"
+    ],
+    [
+      "tragedies",
+      1,
+      "fear"
     ],
     [
       "fully",
@@ -308,6 +343,11 @@
       "joy"
     ],
     [
+      "leader",
+      1,
+      "trust"
+    ],
+    [
       "crackdown",
       1,
       "anger"
@@ -336,56 +376,16 @@
       "holiday",
       1,
       "joy"
-    ],
-    [
-      "independence",
-      1,
-      "surprise"
-    ],
-    [
-      "ardent",
-      1,
-      "joy"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
-    ],
-    [
-      "disagreements",
-      1,
-      "anger"
-    ],
-    [
-      "clean",
-      1,
-      "joy"
-    ],
-    [
-      "threatens",
-      1,
-      "anger"
-    ],
-    [
-      "prosecute",
-      1,
-      "anger"
-    ],
-    [
-      "wildfires",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 64,
-    "fear": 53,
-    "surprise": 8,
-    "sadness": 13,
-    "disgust": 11,
-    "anger": 111,
+    "fear": 54,
+    "surprise": 10,
+    "sadness": 14,
+    "disgust": 10,
+    "anger": 106,
     "anticipation": 20
   }
 }
