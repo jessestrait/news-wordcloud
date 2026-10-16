@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:26:31.576Z",
+  "generated_at": "2026-10-16T10:41:33.730Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,11 +43,6 @@
       "trust"
     ],
     [
-      "haze",
-      3,
-      "fear"
-    ],
-    [
       "cancer",
       3,
       "anger"
@@ -56,6 +51,11 @@
       "iran",
       3,
       "anger"
+    ],
+    [
+      "school",
+      3,
+      "trust"
     ],
     [
       "case",
@@ -73,13 +73,13 @@
       "fear"
     ],
     [
-      "fire",
+      "collapse",
       3,
       "fear"
     ],
     [
-      "collapse",
-      3,
+      "haze",
+      2,
       "fear"
     ],
     [
@@ -131,11 +131,6 @@
       "accused",
       2,
       "anger"
-    ],
-    [
-      "school",
-      2,
-      "trust"
     ],
     [
       "fighting",
@@ -223,6 +218,11 @@
       "anger"
     ],
     [
+      "fire",
+      2,
+      "fear"
+    ],
+    [
       "ice",
       2,
       "fear"
@@ -273,21 +273,6 @@
       "anger"
     ],
     [
-      "worsening",
-      1,
-      "disgust"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
-    ],
-    [
       "clean",
       1,
       "joy"
@@ -303,14 +288,39 @@
       "anger"
     ],
     [
-      "threatened",
+      "wildfires",
+      1,
+      "fear"
+    ],
+    [
+      "illnesses",
+      1,
+      "fear"
+    ],
+    [
+      "diplomatic",
+      1,
+      "trust"
+    ],
+    [
+      "tensions",
       1,
       "anger"
     ],
     [
-      "legal",
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
+      "calls",
       1,
       "trust"
+    ],
+    [
+      "difficult",
+      1,
+      "fear"
     ],
     [
       "exposing",
@@ -366,21 +376,11 @@
       "custody",
       1,
       "trust"
-    ],
-    [
-      "slavery",
-      1,
-      "anger"
-    ],
-    [
-      "reparations",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 64,
+    "trust": 65,
     "fear": 57,
     "surprise": 10,
     "sadness": 10,
