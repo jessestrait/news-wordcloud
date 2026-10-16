@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:56:35.969Z",
+  "generated_at": "2026-10-16T11:11:38.335Z",
   "article_count": 50,
   "top_words": [
     [
@@ -258,14 +258,44 @@
       "fear"
     ],
     [
-      "allegations",
+      "damaged",
       2,
       "anger"
     ],
     [
-      "damaged",
-      2,
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
+      "separatist",
+      1,
       "anger"
+    ],
+    [
+      "ardent",
+      1,
+      "joy"
+    ],
+    [
+      "supporters",
+      1,
+      "joy"
+    ],
+    [
+      "independence",
+      1,
+      "surprise"
+    ],
+    [
+      "disagreements",
+      1,
+      "anger"
+    ],
+    [
+      "strategy",
+      1,
+      "anticipation"
     ],
     [
       "clean",
@@ -301,11 +331,6 @@
       "tensions",
       1,
       "anger"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
     ],
     [
       "calls",
@@ -351,41 +376,16 @@
       "mutilated",
       1,
       "disgust"
-    ],
-    [
-      "explosive",
-      1,
-      "anger"
-    ],
-    [
-      "lawyers",
-      1,
-      "anger"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
-      "custody",
-      1,
-      "trust"
-    ],
-    [
-      "slavery",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 65,
+    "joy": 28,
+    "trust": 64,
     "fear": 57,
-    "surprise": 10,
+    "surprise": 11,
     "sadness": 10,
     "disgust": 11,
-    "anger": 115,
-    "anticipation": 17
+    "anger": 116,
+    "anticipation": 18
   }
 }
