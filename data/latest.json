@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-16T08:55:41.831Z",
+  "generated_at": "2026-10-16T09:10:44.193Z",
   "article_count": 50,
   "top_words": [
     [
       "strike",
-      12,
+      11,
       "anger"
     ],
     [
       "trump",
-      8,
+      9,
       "anger"
     ],
     [
@@ -18,9 +18,9 @@
       "anger"
     ],
     [
-      "attack",
+      "president",
       5,
-      "anger"
+      "trust"
     ],
     [
       "government",
@@ -38,19 +38,14 @@
       "anger"
     ],
     [
-      "president",
+      "attack",
       4,
-      "trust"
+      "anger"
     ],
     [
       "people",
       4,
       "trust"
-    ],
-    [
-      "missile",
-      4,
-      "fear"
     ],
     [
       "haze",
@@ -98,6 +93,11 @@
       "joy"
     ],
     [
+      "collapse",
+      3,
+      "fear"
+    ],
+    [
       "removed",
       3,
       "anger"
@@ -108,9 +108,24 @@
       "fear"
     ],
     [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
       "pledges",
       2,
       "joy"
+    ],
+    [
+      "disgrace",
+      2,
+      "anger"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
     ],
     [
       "threatened",
@@ -248,11 +263,6 @@
       "fear"
     ],
     [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
       "denies",
       2,
       "anger"
@@ -273,14 +283,19 @@
       "anger"
     ],
     [
-      "collapse",
-      2,
-      "fear"
-    ],
-    [
       "worsening",
       1,
       "disgust"
+    ],
+    [
+      "calls",
+      1,
+      "trust"
+    ],
+    [
+      "difficult",
+      1,
+      "fear"
     ],
     [
       "clean",
@@ -301,11 +316,6 @@
       "legal",
       1,
       "trust"
-    ],
-    [
-      "disgrace",
-      1,
-      "anger"
     ],
     [
       "exposing",
@@ -366,26 +376,16 @@
       "slavery",
       1,
       "anger"
-    ],
-    [
-      "reparations",
-      1,
-      "trust"
-    ],
-    [
-      "privy",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 61,
+    "trust": 63,
     "fear": 62,
-    "surprise": 9,
-    "sadness": 13,
+    "surprise": 10,
+    "sadness": 12,
     "disgust": 11,
-    "anger": 121,
-    "anticipation": 19
+    "anger": 120,
+    "anticipation": 17
   }
 }
