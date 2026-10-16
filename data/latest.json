@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:28:54.200Z",
+  "generated_at": "2026-10-16T15:43:56.092Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,13 +9,18 @@
     ],
     [
       "strike",
-      8,
+      9,
       "anger"
     ],
     [
       "attack",
-      7,
+      8,
       "anger"
+    ],
+    [
+      "president",
+      6,
+      "trust"
     ],
     [
       "war",
@@ -23,19 +28,24 @@
       "anger"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "people",
       5,
       "trust"
     ],
     [
+      "military",
+      4,
+      "fear"
+    ],
+    [
       "government",
       4,
       "fear"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "bank",
@@ -80,6 +90,16 @@
     [
       "collapse",
       3,
+      "fear"
+    ],
+    [
+      "fully",
+      2,
+      "trust"
+    ],
+    [
+      "dangerous",
+      2,
       "fear"
     ],
     [
@@ -153,11 +173,6 @@
       "anger"
     ],
     [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
       "opposition",
       2,
       "anger"
@@ -176,11 +191,6 @@
       "ships",
       2,
       "anticipation"
-    ],
-    [
-      "threat",
-      2,
-      "anger"
     ],
     [
       "warns",
@@ -213,11 +223,6 @@
       "joy"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "restriction",
       2,
       "anger"
@@ -238,11 +243,6 @@
       "anger"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "clash",
       2,
       "anger"
@@ -253,9 +253,24 @@
       "anger"
     ],
     [
-      "leaders",
-      2,
-      "trust"
+      "unpleasant",
+      1,
+      "disgust"
+    ],
+    [
+      "surprise",
+      1,
+      "fear"
+    ],
+    [
+      "white",
+      1,
+      "joy"
+    ],
+    [
+      "house",
+      1,
+      "joy"
     ],
     [
       "smiles",
@@ -273,9 +288,19 @@
       "fear"
     ],
     [
-      "fully",
+      "show",
       1,
       "trust"
+    ],
+    [
+      "victory",
+      1,
+      "joy"
+    ],
+    [
+      "life",
+      1,
+      "joy"
     ],
     [
       "harvest",
@@ -351,41 +376,16 @@
       "diplomatic",
       1,
       "trust"
-    ],
-    [
-      "tensions",
-      1,
-      "anger"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
-    ],
-    [
-      "exposing",
-      1,
-      "fear"
-    ],
-    [
-      "kind",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 64,
-    "fear": 55,
+    "joy": 33,
+    "trust": 65,
+    "fear": 58,
     "surprise": 10,
     "sadness": 13,
-    "disgust": 9,
-    "anger": 117,
+    "disgust": 10,
+    "anger": 116,
     "anticipation": 17
   }
 }
