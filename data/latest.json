@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:13:28.081Z",
+  "generated_at": "2026-10-16T14:28:30.081Z",
   "article_count": 50,
   "top_words": [
     [
@@ -34,13 +34,18 @@
     ],
     [
       "government",
-      5,
+      4,
       "fear"
     ],
     [
       "bank",
       3,
       "trust"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
     ],
     [
       "cancer",
@@ -248,16 +253,6 @@
       "trust"
     ],
     [
-      "change",
-      2,
-      "fear"
-    ],
-    [
-      "harvest",
-      1,
-      "joy"
-    ],
-    [
       "smiles",
       1,
       "surprise"
@@ -276,6 +271,31 @@
       "fully",
       1,
       "trust"
+    ],
+    [
+      "harvest",
+      1,
+      "joy"
+    ],
+    [
+      "guilty",
+      1,
+      "anger"
+    ],
+    [
+      "fell",
+      1,
+      "sadness"
+    ],
+    [
+      "family",
+      1,
+      "joy"
+    ],
+    [
+      "holiday",
+      1,
+      "joy"
     ],
     [
       "separatist",
@@ -356,35 +376,15 @@
       "exposing",
       1,
       "fear"
-    ],
-    [
-      "kind",
-      1,
-      "joy"
-    ],
-    [
-      "happens",
-      1,
-      "anticipation"
-    ],
-    [
-      "militia",
-      1,
-      "anger"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 65,
-    "fear": 56,
+    "joy": 29,
+    "trust": 64,
+    "fear": 54,
     "surprise": 10,
-    "sadness": 10,
-    "disgust": 10,
+    "sadness": 13,
+    "disgust": 9,
     "anger": 118,
     "anticipation": 18
   }
