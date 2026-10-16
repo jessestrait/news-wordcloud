@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:38:35.244Z",
+  "generated_at": "2026-10-16T05:53:37.546Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
       "attack",
       5,
       "anger"
@@ -31,6 +26,11 @@
       "government",
       5,
       "fear"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "cancer",
@@ -101,6 +101,16 @@
       "warn",
       3,
       "fear"
+    ],
+    [
+      "scandal",
+      2,
+      "fear"
+    ],
+    [
+      "football",
+      2,
+      "joy"
     ],
     [
       "iran",
@@ -228,11 +238,6 @@
       "joy"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "warning",
       2,
       "fear"
@@ -263,11 +268,6 @@
       "anger"
     ],
     [
-      "badly",
-      2,
-      "sadness"
-    ],
-    [
       "damaged",
       2,
       "anger"
@@ -281,6 +281,16 @@
       "teacher",
       2,
       "trust"
+    ],
+    [
+      "disgrace",
+      1,
+      "anger"
+    ],
+    [
+      "exposing",
+      1,
+      "fear"
     ],
     [
       "kind",
@@ -366,26 +376,16 @@
       "tariffs",
       1,
       "anger"
-    ],
-    [
-      "vows",
-      1,
-      "joy"
-    ],
-    [
-      "resign",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 63,
-    "fear": 58,
+    "joy": 30,
+    "trust": 62,
+    "fear": 59,
     "surprise": 9,
-    "sadness": 17,
+    "sadness": 16,
     "disgust": 10,
-    "anger": 119,
+    "anger": 118,
     "anticipation": 21
   }
 }
