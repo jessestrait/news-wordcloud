@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T13:58:08.834Z",
+  "generated_at": "2026-10-16T14:13:11.497Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anger"
     ],
     [
+      "attack",
+      7,
+      "anger"
+    ],
+    [
       "war",
       6,
       "anger"
@@ -23,11 +28,6 @@
       "trust"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "people",
       5,
       "trust"
@@ -36,6 +36,11 @@
       "government",
       5,
       "fear"
+    ],
+    [
+      "bank",
+      3,
+      "trust"
     ],
     [
       "cancer",
@@ -228,19 +233,9 @@
       "anticipation"
     ],
     [
-      "bank",
-      2,
-      "trust"
-    ],
-    [
       "clash",
       2,
       "anger"
-    ],
-    [
-      "rising",
-      2,
-      "joy"
     ],
     [
       "denies",
@@ -258,9 +253,9 @@
       "fear"
     ],
     [
-      "damaged",
-      2,
-      "anger"
+      "harvest",
+      1,
+      "joy"
     ],
     [
       "smiles",
@@ -376,13 +371,18 @@
       "militia",
       1,
       "anger"
+    ],
+    [
+      "terrorism",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 64,
-    "fear": 58,
-    "surprise": 12,
+    "joy": 27,
+    "trust": 65,
+    "fear": 56,
+    "surprise": 10,
     "sadness": 10,
     "disgust": 10,
     "anger": 118,
