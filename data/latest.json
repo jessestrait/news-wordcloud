@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:00:19.690Z",
+  "generated_at": "2026-10-16T18:15:21.858Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "fear"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
       "happened",
       3,
       "anticipation"
@@ -51,11 +56,6 @@
       "bank",
       3,
       "trust"
-    ],
-    [
-      "military",
-      3,
-      "fear"
     ],
     [
       "power",
@@ -258,31 +258,6 @@
       "anger"
     ],
     [
-      "sours",
-      1,
-      "disgust"
-    ],
-    [
-      "lowering",
-      1,
-      "sadness"
-    ],
-    [
-      "crimes",
-      1,
-      "anger"
-    ],
-    [
-      "harvest",
-      1,
-      "joy"
-    ],
-    [
-      "crackdown",
-      1,
-      "anger"
-    ],
-    [
       "fully",
       1,
       "trust"
@@ -311,6 +286,31 @@
       "house",
       1,
       "joy"
+    ],
+    [
+      "sours",
+      1,
+      "disgust"
+    ],
+    [
+      "lowering",
+      1,
+      "sadness"
+    ],
+    [
+      "crimes",
+      1,
+      "anger"
+    ],
+    [
+      "harvest",
+      1,
+      "joy"
+    ],
+    [
+      "crackdown",
+      1,
+      "anger"
     ],
     [
       "punishment",
