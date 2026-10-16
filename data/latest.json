@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:56:09.845Z",
+  "generated_at": "2026-10-16T10:11:12.677Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,12 +33,12 @@
       "fear"
     ],
     [
-      "leaders",
+      "president",
       4,
       "trust"
     ],
     [
-      "president",
+      "leaders",
       4,
       "trust"
     ],
@@ -83,11 +83,6 @@
       "fear"
     ],
     [
-      "pledges",
-      2,
-      "joy"
-    ],
-    [
       "disgrace",
       2,
       "anger"
@@ -96,6 +91,11 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "pledges",
+      2,
+      "joy"
     ],
     [
       "scandal",
@@ -273,11 +273,6 @@
       "anger"
     ],
     [
-      "worsening",
-      1,
-      "disgust"
-    ],
-    [
       "calls",
       1,
       "trust"
@@ -286,6 +281,11 @@
       "difficult",
       1,
       "fear"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
     ],
     [
       "clean",
