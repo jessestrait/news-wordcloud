@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:51:44.630Z",
+  "generated_at": "2026-10-16T02:06:47.484Z",
   "article_count": 50,
   "top_words": [
     [
@@ -40,6 +40,11 @@
     [
       "missile",
       4,
+      "fear"
+    ],
+    [
+      "case",
+      3,
       "fear"
     ],
     [
@@ -126,11 +131,6 @@
       "controversial",
       2,
       "anger"
-    ],
-    [
-      "case",
-      2,
-      "fear"
     ],
     [
       "food",
@@ -223,11 +223,6 @@
       "anger"
     ],
     [
-      "launch",
-      2,
-      "anticipation"
-    ],
-    [
       "leave",
       2,
       "sadness"
@@ -275,6 +270,26 @@
     [
       "suggest",
       2,
+      "trust"
+    ],
+    [
+      "slavery",
+      1,
+      "anger"
+    ],
+    [
+      "reparations",
+      1,
+      "trust"
+    ],
+    [
+      "privy",
+      1,
+      "trust"
+    ],
+    [
+      "council",
+      1,
       "trust"
     ],
     [
@@ -361,31 +376,16 @@
       "scandal",
       1,
       "fear"
-    ],
-    [
-      "imprisoned",
-      1,
-      "anger"
-    ],
-    [
-      "fraud",
-      1,
-      "anger"
-    ],
-    [
-      "trees",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 61,
-    "fear": 55,
+    "joy": 29,
+    "trust": 63,
+    "fear": 56,
     "surprise": 8,
     "sadness": 17,
     "disgust": 10,
     "anger": 115,
-    "anticipation": 23
+    "anticipation": 22
   }
 }
