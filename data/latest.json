@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:59:55.410Z",
+  "generated_at": "2026-10-17T22:14:57.505Z",
   "article_count": 50,
   "top_words": [
     [
@@ -288,16 +288,6 @@
       "joy"
     ],
     [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
-    ],
-    [
       "asylum",
       1,
       "fear"
@@ -376,6 +366,16 @@
       "marry",
       1,
       "fear"
+    ],
+    [
+      "sentences",
+      1,
+      "anger"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 13,
     "disgust": 9,
     "anger": 109,
-    "anticipation": 16
+    "anticipation": 14
   }
 }
