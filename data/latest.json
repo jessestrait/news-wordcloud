@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:40:38.605Z",
+  "generated_at": "2026-10-17T13:55:41.139Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "strike",
-      8,
+      7,
       "anger"
     ],
     [
@@ -33,6 +33,16 @@
       "anger"
     ],
     [
+      "cancer",
+      4,
+      "anger"
+    ],
+    [
+      "operation",
+      4,
+      "fear"
+    ],
+    [
       "peace",
       4,
       "joy"
@@ -41,6 +51,11 @@
       "government",
       4,
       "fear"
+    ],
+    [
+      "pontiff",
+      3,
+      "trust"
     ],
     [
       "warns",
@@ -63,19 +78,19 @@
       "trust"
     ],
     [
-      "death",
-      3,
-      "sadness"
+      "hospital",
+      2,
+      "fear"
     ],
     [
-      "cancer",
-      3,
-      "anger"
-    ],
-    [
-      "system",
-      3,
+      "doctors",
+      2,
       "trust"
+    ],
+    [
+      "remove",
+      2,
+      "anger"
     ],
     [
       "calls",
@@ -123,6 +138,11 @@
       "anger"
     ],
     [
+      "death",
+      2,
+      "sadness"
+    ],
+    [
       "family",
       2,
       "joy"
@@ -158,16 +178,6 @@
       "fear"
     ],
     [
-      "operation",
-      2,
-      "fear"
-    ],
-    [
-      "pontiff",
-      2,
-      "trust"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -186,6 +196,11 @@
       "case",
       2,
       "fear"
+    ],
+    [
+      "system",
+      2,
+      "trust"
     ],
     [
       "fighting",
@@ -213,11 +228,6 @@
       "joy"
     ],
     [
-      "restriction",
-      2,
-      "anger"
-    ],
-    [
       "fire",
       2,
       "fear"
@@ -236,6 +246,11 @@
       "clash",
       2,
       "anger"
+    ],
+    [
+      "tumour",
+      1,
+      "fear"
     ],
     [
       "reward",
@@ -361,31 +376,16 @@
       "typhoon",
       1,
       "fear"
-    ],
-    [
-      "dark",
-      1,
-      "sadness"
-    ],
-    [
-      "paying",
-      1,
-      "joy"
-    ],
-    [
-      "disasters",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 65,
-    "fear": 48,
-    "surprise": 10,
-    "sadness": 13,
+    "joy": 32,
+    "trust": 66,
+    "fear": 52,
+    "surprise": 9,
+    "sadness": 12,
     "disgust": 10,
-    "anger": 108,
-    "anticipation": 16
+    "anger": 106,
+    "anticipation": 15
   }
 }
