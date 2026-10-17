@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:41:05.891Z",
+  "generated_at": "2026-10-17T14:56:08.659Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "trust"
     ],
     [
-      "strike",
-      7,
-      "anger"
-    ],
-    [
       "people",
       6,
       "trust"
@@ -33,12 +28,12 @@
       "anger"
     ],
     [
-      "cancer",
-      4,
+      "strike",
+      6,
       "anger"
     ],
     [
-      "operation",
+      "police",
       4,
       "fear"
     ],
@@ -53,9 +48,14 @@
       "fear"
     ],
     [
-      "pontiff",
+      "clash",
       3,
-      "trust"
+      "anger"
+    ],
+    [
+      "fire",
+      3,
+      "fear"
     ],
     [
       "warns",
@@ -68,6 +68,16 @@
       "anticipation"
     ],
     [
+      "cancer",
+      3,
+      "anger"
+    ],
+    [
+      "operation",
+      3,
+      "fear"
+    ],
+    [
       "iran",
       3,
       "anger"
@@ -78,22 +88,17 @@
       "trust"
     ],
     [
-      "hospital",
-      2,
-      "fear"
-    ],
-    [
-      "doctors",
-      2,
-      "trust"
-    ],
-    [
-      "remove",
+      "protesters",
       2,
       "anger"
     ],
     [
-      "calls",
+      "leader",
+      2,
+      "trust"
+    ],
+    [
+      "pontiff",
       2,
       "trust"
     ],
@@ -173,16 +178,6 @@
       "joy"
     ],
     [
-      "surgery",
-      2,
-      "fear"
-    ],
-    [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "accused",
       2,
       "anger"
@@ -208,6 +203,11 @@
       "anger"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "opposition",
       2,
       "anger"
@@ -216,6 +216,11 @@
       "sex",
       2,
       "joy"
+    ],
+    [
+      "official",
+      2,
+      "trust"
     ],
     [
       "secret",
@@ -228,11 +233,6 @@
       "joy"
     ],
     [
-      "fire",
-      2,
-      "fear"
-    ],
-    [
       "ice",
       2,
       "fear"
@@ -243,19 +243,44 @@
       "anger"
     ],
     [
-      "clash",
-      2,
+      "storm",
+      1,
+      "anger"
+    ],
+    [
+      "blaming",
+      1,
+      "anger"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "reward",
+      1,
+      "surprise"
+    ],
+    [
+      "hospital",
+      1,
+      "fear"
+    ],
+    [
+      "doctors",
+      1,
+      "trust"
+    ],
+    [
+      "remove",
+      1,
       "anger"
     ],
     [
       "tumour",
       1,
       "fear"
-    ],
-    [
-      "reward",
-      1,
-      "surprise"
     ],
     [
       "united",
@@ -351,41 +376,16 @@
       "showing",
       1,
       "trust"
-    ],
-    [
-      "uncovering",
-      1,
-      "surprise"
-    ],
-    [
-      "elusive",
-      1,
-      "surprise"
-    ],
-    [
-      "jungle",
-      1,
-      "fear"
-    ],
-    [
-      "scientists",
-      1,
-      "trust"
-    ],
-    [
-      "typhoon",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 66,
+    "joy": 31,
+    "trust": 65,
     "fear": 52,
     "surprise": 9,
     "sadness": 12,
     "disgust": 10,
-    "anger": 106,
-    "anticipation": 15
+    "anger": 110,
+    "anticipation": 14
   }
 }
