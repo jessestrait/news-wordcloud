@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:26:30.430Z",
+  "generated_at": "2026-10-17T15:41:32.982Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,16 +48,6 @@
       "fear"
     ],
     [
-      "clash",
-      3,
-      "anger"
-    ],
-    [
-      "fire",
-      3,
-      "fear"
-    ],
-    [
       "warns",
       3,
       "fear"
@@ -66,6 +56,16 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "clash",
+      3,
+      "anger"
+    ],
+    [
+      "fire",
+      3,
+      "fear"
     ],
     [
       "cancer",
@@ -88,14 +88,14 @@
       "trust"
     ],
     [
-      "protesters",
-      2,
-      "anger"
-    ],
-    [
       "leader",
       2,
       "trust"
+    ],
+    [
+      "protesters",
+      2,
+      "anger"
     ],
     [
       "pontiff",
@@ -243,6 +243,11 @@
       "anger"
     ],
     [
+      "reward",
+      1,
+      "surprise"
+    ],
+    [
       "storm",
       1,
       "anger"
@@ -256,11 +261,6 @@
       "violence",
       1,
       "anger"
-    ],
-    [
-      "reward",
-      1,
-      "surprise"
     ],
     [
       "hospital",
