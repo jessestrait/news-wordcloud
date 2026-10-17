@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:42:14.810Z",
+  "generated_at": "2026-10-17T16:57:16.972Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,9 +48,19 @@
       "joy"
     ],
     [
+      "clash",
+      3,
+      "anger"
+    ],
+    [
       "protesters",
       3,
       "anger"
+    ],
+    [
+      "fire",
+      3,
+      "fear"
     ],
     [
       "school",
@@ -66,16 +76,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "clash",
-      3,
-      "anger"
-    ],
-    [
-      "fire",
-      3,
-      "fear"
     ],
     [
       "cancer",
@@ -243,6 +243,21 @@
       "anger"
     ],
     [
+      "storm",
+      1,
+      "anger"
+    ],
+    [
+      "blaming",
+      1,
+      "anger"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
       "launches",
       1,
       "anticipation"
@@ -266,21 +281,6 @@
       "reward",
       1,
       "surprise"
-    ],
-    [
-      "storm",
-      1,
-      "anger"
-    ],
-    [
-      "blaming",
-      1,
-      "anger"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
     ],
     [
       "hospital",
