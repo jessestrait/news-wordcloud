@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-10-17T13:25:19.223Z",
+  "generated_at": "2026-10-17T13:40:21.523Z",
   "article_count": 50,
   "top_words": [
     [
-      "war",
-      8,
-      "anger"
-    ],
-    [
       "trump",
-      8,
+      9,
       "anger"
     ],
     [
-      "strike",
-      8,
+      "war",
+      9,
       "anger"
     ],
     [
       "president",
-      7,
+      8,
       "trust"
     ],
     [
-      "attack",
-      7,
+      "strike",
+      8,
       "anger"
     ],
     [
@@ -33,8 +28,8 @@
       "trust"
     ],
     [
-      "iran",
-      4,
+      "attack",
+      6,
       "anger"
     ],
     [
@@ -46,6 +41,21 @@
       "government",
       4,
       "fear"
+    ],
+    [
+      "warns",
+      3,
+      "fear"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
+      "iran",
+      3,
+      "anger"
     ],
     [
       "bank",
@@ -68,6 +78,11 @@
       "trust"
     ],
     [
+      "calls",
+      2,
+      "trust"
+    ],
+    [
       "conflict",
       2,
       "anger"
@@ -76,11 +91,6 @@
       "gains",
       2,
       "joy"
-    ],
-    [
-      "warns",
-      2,
-      "fear"
     ],
     [
       "building",
@@ -111,11 +121,6 @@
       "anti",
       2,
       "anger"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "family",
@@ -183,17 +188,7 @@
       "fear"
     ],
     [
-      "missiles",
-      2,
-      "fear"
-    ],
-    [
       "fighting",
-      2,
-      "anger"
-    ],
-    [
-      "hit",
       2,
       "anger"
     ],
@@ -201,11 +196,6 @@
       "opposition",
       2,
       "anger"
-    ],
-    [
-      "ships",
-      2,
-      "anticipation"
     ],
     [
       "sex",
@@ -246,6 +236,11 @@
       "clash",
       2,
       "anger"
+    ],
+    [
+      "reward",
+      1,
+      "surprise"
     ],
     [
       "united",
@@ -376,16 +371,21 @@
       "paying",
       1,
       "joy"
+    ],
+    [
+      "disasters",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 64,
-    "fear": 50,
+    "trust": 65,
+    "fear": 48,
     "surprise": 10,
     "sadness": 13,
     "disgust": 10,
-    "anger": 109,
+    "anger": 108,
     "anticipation": 16
   }
 }
