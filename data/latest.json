@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:58:25.366Z",
+  "generated_at": "2026-10-17T19:13:27.182Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anger"
     ],
     [
+      "strike",
+      7,
+      "anger"
+    ],
+    [
       "attack",
       7,
       "anger"
@@ -20,16 +25,6 @@
     [
       "president",
       6,
-      "trust"
-    ],
-    [
-      "strike",
-      6,
-      "anger"
-    ],
-    [
-      "people",
-      5,
       "trust"
     ],
     [
@@ -48,8 +43,8 @@
       "joy"
     ],
     [
-      "bank",
-      3,
+      "people",
+      4,
       "trust"
     ],
     [
@@ -96,6 +91,11 @@
       "fire",
       2,
       "fear"
+    ],
+    [
+      "bank",
+      2,
+      "trust"
     ],
     [
       "prevent",
@@ -208,11 +208,6 @@
       "anger"
     ],
     [
-      "sex",
-      2,
-      "joy"
-    ],
-    [
       "official",
       2,
       "trust"
@@ -238,6 +233,41 @@
       "anger"
     ],
     [
+      "storm",
+      1,
+      "anger"
+    ],
+    [
+      "blaming",
+      1,
+      "anger"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "hiding",
+      1,
+      "fear"
+    ],
+    [
+      "turbulence",
+      1,
+      "anger"
+    ],
+    [
+      "blue",
+      1,
+      "sadness"
+    ],
+    [
+      "passengers",
+      1,
+      "anticipation"
+    ],
+    [
       "attacked",
       1,
       "anger"
@@ -256,21 +286,6 @@
       "harvesting",
       1,
       "joy"
-    ],
-    [
-      "storm",
-      1,
-      "anger"
-    ],
-    [
-      "blaming",
-      1,
-      "anger"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
     ],
     [
       "launches",
@@ -361,29 +376,14 @@
       "marry",
       1,
       "fear"
-    ],
-    [
-      "sentences",
-      1,
-      "anger"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
-    ],
-    [
-      "murders",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 63,
-    "fear": 53,
+    "joy": 31,
+    "trust": 60,
+    "fear": 54,
     "surprise": 9,
-    "sadness": 12,
+    "sadness": 13,
     "disgust": 9,
     "anger": 109,
     "anticipation": 16
