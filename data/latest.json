@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:54:31.891Z",
+  "generated_at": "2026-10-17T12:09:34.310Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "trust"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
       "peace",
       4,
       "joy"
@@ -40,11 +45,6 @@
     [
       "government",
       4,
-      "fear"
-    ],
-    [
-      "military",
-      3,
       "fear"
     ],
     [
@@ -63,19 +63,19 @@
       "anger"
     ],
     [
-      "iran",
-      3,
-      "anger"
-    ],
-    [
       "system",
       3,
       "trust"
     ],
     [
-      "missiles",
-      3,
-      "fear"
+      "conflict",
+      2,
+      "anger"
+    ],
+    [
+      "gains",
+      2,
+      "joy"
     ],
     [
       "warns",
@@ -86,6 +86,11 @@
       "building",
       2,
       "anticipation"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "happened",
@@ -178,6 +183,11 @@
       "fear"
     ],
     [
+      "missiles",
+      2,
+      "fear"
+    ],
+    [
       "fighting",
       2,
       "anger"
@@ -236,6 +246,21 @@
       "clash",
       2,
       "anger"
+    ],
+    [
+      "united",
+      1,
+      "trust"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
+      "alarm",
+      1,
+      "fear"
     ],
     [
       "alone",
@@ -351,41 +376,16 @@
       "paying",
       1,
       "joy"
-    ],
-    [
-      "disasters",
-      1,
-      "anger"
-    ],
-    [
-      "tragedies",
-      1,
-      "fear"
-    ],
-    [
-      "fully",
-      1,
-      "trust"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
-      "unpleasant",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 33,
     "trust": 64,
-    "fear": 52,
-    "surprise": 11,
-    "sadness": 14,
+    "fear": 50,
+    "surprise": 10,
+    "sadness": 13,
     "disgust": 10,
-    "anger": 106,
-    "anticipation": 17
+    "anger": 109,
+    "anticipation": 16
   }
 }
