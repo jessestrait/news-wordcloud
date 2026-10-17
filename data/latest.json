@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T06:52:11.233Z",
+  "generated_at": "2026-10-17T07:07:13.409Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
+      "war",
       8,
       "anger"
     ],
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "president",
       7,
       "trust"
+    ],
+    [
+      "attack",
+      7,
+      "anger"
     ],
     [
       "people",
@@ -48,19 +48,9 @@
       "fear"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "bank",
       3,
       "trust"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
     ],
     [
       "death",
@@ -98,9 +88,9 @@
       "anticipation"
     ],
     [
-      "commission",
+      "happened",
       2,
-      "trust"
+      "anticipation"
     ],
     [
       "age",
@@ -116,6 +106,16 @@
       "anti",
       2,
       "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
+      "family",
+      2,
+      "joy"
     ],
     [
       "haze",
@@ -238,6 +238,36 @@
       "anger"
     ],
     [
+      "alone",
+      1,
+      "sadness"
+    ],
+    [
+      "apart",
+      1,
+      "anger"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "fathers",
+      1,
+      "trust"
+    ],
+    [
+      "unable",
+      1,
+      "sadness"
+    ],
+    [
+      "marry",
+      1,
+      "fear"
+    ],
+    [
       "sentences",
       1,
       "anger"
@@ -346,36 +376,6 @@
       "unpleasant",
       1,
       "disgust"
-    ],
-    [
-      "surprise",
-      1,
-      "fear"
-    ],
-    [
-      "white",
-      1,
-      "joy"
-    ],
-    [
-      "house",
-      1,
-      "joy"
-    ],
-    [
-      "sours",
-      1,
-      "disgust"
-    ],
-    [
-      "lowering",
-      1,
-      "sadness"
-    ],
-    [
-      "crimes",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 64,
     "fear": 52,
     "surprise": 11,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 10,
-    "anger": 105,
-    "anticipation": 19
+    "anger": 106,
+    "anticipation": 17
   }
 }
