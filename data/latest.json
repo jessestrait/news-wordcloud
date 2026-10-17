@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:49:22.423Z",
+  "generated_at": "2026-10-17T02:04:24.928Z",
   "article_count": 50,
   "top_words": [
     [
@@ -34,7 +34,12 @@
     ],
     [
       "government",
-      5,
+      4,
+      "fear"
+    ],
+    [
+      "warns",
+      3,
       "fear"
     ],
     [
@@ -198,11 +203,6 @@
       "anticipation"
     ],
     [
-      "warns",
-      2,
-      "fear"
-    ],
-    [
       "sex",
       2,
       "joy"
@@ -211,11 +211,6 @@
       "secret",
       2,
       "trust"
-    ],
-    [
-      "controversial",
-      2,
-      "anger"
     ],
     [
       "food",
@@ -246,6 +241,16 @@
       "clash",
       2,
       "anger"
+    ],
+    [
+      "caps",
+      1,
+      "trust"
+    ],
+    [
+      "showing",
+      1,
+      "trust"
     ],
     [
       "uncovering",
@@ -371,21 +376,16 @@
       "family",
       1,
       "joy"
-    ],
-    [
-      "holiday",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 64,
+    "joy": 29,
+    "trust": 65,
     "fear": 54,
     "surprise": 10,
     "sadness": 14,
     "disgust": 10,
-    "anger": 106,
+    "anger": 104,
     "anticipation": 20
   }
 }
