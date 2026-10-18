@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:05:43.488Z",
+  "generated_at": "2026-10-18T09:20:45.922Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "trust"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "police",
       4,
       "fear"
@@ -41,6 +36,11 @@
       "government",
       4,
       "fear"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "gains",
@@ -81,11 +81,6 @@
       "iran",
       3,
       "anger"
-    ],
-    [
-      "building",
-      3,
-      "anticipation"
     ],
     [
       "peace",
@@ -141,6 +136,11 @@
       "conflict",
       2,
       "anger"
+    ],
+    [
+      "building",
+      2,
+      "anticipation"
     ],
     [
       "military",
@@ -223,6 +223,16 @@
       "joy"
     ],
     [
+      "devastated",
+      1,
+      "anger"
+    ],
+    [
+      "interior",
+      1,
+      "disgust"
+    ],
+    [
       "hilarious",
       1,
       "surprise"
@@ -246,16 +256,6 @@
       "captivating",
       1,
       "surprise"
-    ],
-    [
-      "devastated",
-      1,
-      "anger"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
     ],
     [
       "gifted",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 60,
+    "trust": 58,
     "fear": 50,
     "surprise": 13,
     "sadness": 15,
-    "disgust": 5,
+    "disgust": 6,
     "anger": 100,
-    "anticipation": 18
+    "anticipation": 17
   }
 }
