@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-10-18T15:39:08.510Z",
+  "generated_at": "2026-10-18T15:54:10.527Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       7,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "government",
@@ -33,6 +28,11 @@
       "trust"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "police",
       5,
       "fear"
@@ -51,6 +51,11 @@
       "operation",
       4,
       "fear"
+    ],
+    [
+      "criminal",
+      3,
+      "anger"
     ],
     [
       "gains",
@@ -86,6 +91,16 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "obituary",
+      2,
+      "sadness"
+    ],
+    [
+      "crimes",
+      2,
+      "anger"
     ],
     [
       "violent",
@@ -163,11 +178,6 @@
       "anticipation"
     ],
     [
-      "criminal",
-      2,
-      "anger"
-    ],
-    [
       "death",
       2,
       "sadness"
@@ -203,18 +213,23 @@
       "fear"
     ],
     [
-      "fighting",
-      2,
-      "anger"
-    ],
-    [
       "hit",
       2,
       "anger"
     ],
     [
-      "food",
-      2,
+      "indicted",
+      1,
+      "anger"
+    ],
+    [
+      "tribunal",
+      1,
+      "fear"
+    ],
+    [
+      "humanity",
+      1,
       "joy"
     ],
     [
@@ -361,31 +376,16 @@
       "harvesting",
       1,
       "joy"
-    ],
-    [
-      "asylum",
-      1,
-      "fear"
-    ],
-    [
-      "crossing",
-      1,
-      "anger"
-    ],
-    [
-      "reward",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 54,
-    "fear": 56,
+    "joy": 27,
+    "trust": 53,
+    "fear": 55,
     "surprise": 11,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 6,
-    "anger": 96,
+    "anger": 98,
     "anticipation": 19
   }
 }
