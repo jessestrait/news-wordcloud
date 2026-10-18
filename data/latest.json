@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:50:40.922Z",
+  "generated_at": "2026-10-18T09:05:43.488Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "trust"
     ],
     [
-      "fire",
-      3,
-      "fear"
-    ],
-    [
       "school",
       3,
       "trust"
@@ -116,6 +111,11 @@
       "protesters",
       2,
       "anger"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
     ],
     [
       "bank",
@@ -173,11 +173,6 @@
       "joy"
     ],
     [
-      "haze",
-      2,
-      "fear"
-    ],
-    [
       "disgrace",
       2,
       "anger"
@@ -228,9 +223,29 @@
       "joy"
     ],
     [
-      "ice",
-      2,
-      "fear"
+      "hilarious",
+      1,
+      "surprise"
+    ],
+    [
+      "music",
+      1,
+      "joy"
+    ],
+    [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "unique",
+      1,
+      "surprise"
+    ],
+    [
+      "captivating",
+      1,
+      "surprise"
     ],
     [
       "devastated",
@@ -361,31 +376,16 @@
       "remove",
       1,
       "anger"
-    ],
-    [
-      "tumour",
-      1,
-      "fear"
-    ],
-    [
-      "united",
-      1,
-      "trust"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 29,
     "trust": 60,
-    "fear": 54,
-    "surprise": 10,
+    "fear": 50,
+    "surprise": 13,
     "sadness": 15,
-    "disgust": 6,
-    "anger": 102,
+    "disgust": 5,
+    "anger": 100,
     "anticipation": 18
   }
 }
