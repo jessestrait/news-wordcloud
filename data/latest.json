@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:00:42.001Z",
+  "generated_at": "2026-10-18T00:15:44.183Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,9 +48,9 @@
       "trust"
     ],
     [
-      "protesters",
+      "fire",
       3,
-      "anger"
+      "fear"
     ],
     [
       "school",
@@ -83,14 +83,19 @@
       "anger"
     ],
     [
+      "building",
+      2,
+      "anticipation"
+    ],
+    [
       "clash",
       2,
       "anger"
     ],
     [
-      "fire",
+      "protesters",
       2,
-      "fear"
+      "anger"
     ],
     [
       "bank",
@@ -233,9 +238,9 @@
       "anger"
     ],
     [
-      "storm",
+      "lost",
       1,
-      "anger"
+      "sadness"
     ],
     [
       "blaming",
@@ -371,21 +376,16 @@
       "sentences",
       1,
       "anger"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 60,
-    "fear": 54,
+    "fear": 55,
     "surprise": 9,
-    "sadness": 13,
+    "sadness": 14,
     "disgust": 9,
-    "anger": 109,
-    "anticipation": 14
+    "anger": 107,
+    "anticipation": 15
   }
 }
