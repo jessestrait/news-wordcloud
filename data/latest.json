@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:49:34.978Z",
+  "generated_at": "2026-10-18T07:04:36.811Z",
   "article_count": 50,
   "top_words": [
     [
@@ -91,6 +91,11 @@
       "iran",
       3,
       "anger"
+    ],
+    [
+      "life",
+      2,
+      "joy"
     ],
     [
       "blue",
@@ -238,6 +243,11 @@
       "fear"
     ],
     [
+      "gifted",
+      1,
+      "surprise"
+    ],
+    [
       "hatred",
       1,
       "anger"
@@ -266,11 +276,6 @@
       "sisterhood",
       1,
       "anger"
-    ],
-    [
-      "life",
-      1,
-      "joy"
     ],
     [
       "world",
@@ -371,20 +376,15 @@
       "forces",
       1,
       "anger"
-    ],
-    [
-      "alarm",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 62,
+    "joy": 29,
+    "trust": 61,
     "fear": 54,
-    "surprise": 9,
+    "surprise": 10,
     "sadness": 15,
-    "disgust": 8,
+    "disgust": 6,
     "anger": 103,
     "anticipation": 17
   }
