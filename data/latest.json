@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-18T16:24:30.936Z",
+  "generated_at": "2026-10-18T16:39:33.435Z",
   "article_count": 50,
   "top_words": [
+    [
+      "strike",
+      7,
+      "anger"
+    ],
     [
       "war",
       7,
       "anger"
     ],
     [
-      "government",
+      "people",
       6,
-      "fear"
-    ],
-    [
-      "strike",
-      6,
-      "anger"
+      "trust"
     ],
     [
       "attack",
@@ -28,9 +28,9 @@
       "trust"
     ],
     [
-      "people",
+      "government",
       5,
-      "trust"
+      "fear"
     ],
     [
       "police",
@@ -39,8 +39,18 @@
     ],
     [
       "trump",
-      5,
+      4,
       "anger"
+    ],
+    [
+      "power",
+      4,
+      "anticipation"
+    ],
+    [
+      "school",
+      4,
+      "trust"
     ],
     [
       "cancer",
@@ -53,29 +63,9 @@
       "fear"
     ],
     [
-      "criminal",
-      3,
-      "anger"
-    ],
-    [
       "gains",
       3,
       "joy"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
-      "secret",
-      3,
-      "trust"
-    ],
-    [
-      "school",
-      3,
-      "trust"
     ],
     [
       "warns",
@@ -93,9 +83,29 @@
       "trust"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
+    ],
+    [
+      "trade",
+      2,
+      "trust"
+    ],
+    [
       "obituary",
       2,
       "sadness"
+    ],
+    [
+      "criminal",
+      2,
+      "anger"
     ],
     [
       "crimes",
@@ -116,6 +126,11 @@
       "life",
       2,
       "joy"
+    ],
+    [
+      "secret",
+      2,
+      "trust"
     ],
     [
       "blue",
@@ -208,14 +223,24 @@
       "joy"
     ],
     [
-      "case",
-      2,
-      "fear"
-    ],
-    [
       "hit",
       2,
       "anger"
+    ],
+    [
+      "intelligence",
+      1,
+      "fear"
+    ],
+    [
+      "sharing",
+      1,
+      "joy"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
     ],
     [
       "indicted",
@@ -233,9 +258,9 @@
       "joy"
     ],
     [
-      "started",
+      "housing",
       1,
-      "anticipation"
+      "joy"
     ],
     [
       "failure",
@@ -351,41 +376,16 @@
       "hiding",
       1,
       "fear"
-    ],
-    [
-      "turbulence",
-      1,
-      "anger"
-    ],
-    [
-      "passengers",
-      1,
-      "anticipation"
-    ],
-    [
-      "attacked",
-      1,
-      "anger"
-    ],
-    [
-      "attempt",
-      1,
-      "anticipation"
-    ],
-    [
-      "harvesting",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 53,
-    "fear": 55,
+    "joy": 29,
+    "trust": 56,
+    "fear": 56,
     "surprise": 11,
     "sadness": 16,
     "disgust": 6,
-    "anger": 98,
-    "anticipation": 19
+    "anger": 95,
+    "anticipation": 18
   }
 }
