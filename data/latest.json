@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:48:08.101Z",
+  "generated_at": "2026-10-18T04:03:10.463Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,17 +9,17 @@
     ],
     [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
       "strike",
-      7,
+      6,
       "anger"
     ],
     [
       "attack",
-      7,
+      6,
       "anger"
     ],
     [
@@ -48,6 +48,11 @@
       "trust"
     ],
     [
+      "secret",
+      3,
+      "trust"
+    ],
+    [
       "fire",
       3,
       "fear"
@@ -63,11 +68,6 @@
       "fear"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "cancer",
       3,
       "anger"
@@ -81,6 +81,11 @@
       "iran",
       3,
       "anger"
+    ],
+    [
+      "blue",
+      2,
+      "sadness"
     ],
     [
       "clash",
@@ -106,6 +111,11 @@
       "leader",
       2,
       "trust"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "pontiff",
@@ -218,11 +228,6 @@
       "trust"
     ],
     [
-      "secret",
-      2,
-      "trust"
-    ],
-    [
       "food",
       2,
       "joy"
@@ -233,9 +238,19 @@
       "fear"
     ],
     [
-      "damage",
-      2,
+      "sisterhood",
+      1,
       "anger"
+    ],
+    [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "world",
+      1,
+      "trust"
     ],
     [
       "lost",
@@ -261,11 +276,6 @@
       "turbulence",
       1,
       "anger"
-    ],
-    [
-      "blue",
-      1,
-      "sadness"
     ],
     [
       "passengers",
@@ -366,26 +376,16 @@
       "unable",
       1,
       "sadness"
-    ],
-    [
-      "marry",
-      1,
-      "fear"
-    ],
-    [
-      "sentences",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 60,
-    "fear": 55,
+    "trust": 62,
+    "fear": 54,
     "surprise": 9,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 9,
-    "anger": 107,
-    "anticipation": 15
+    "anger": 101,
+    "anticipation": 14
   }
 }
