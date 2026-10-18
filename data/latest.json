@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:48:49.755Z",
+  "generated_at": "2026-10-18T05:03:51.974Z",
   "article_count": 50,
   "top_words": [
     [
@@ -46,6 +46,16 @@
       "people",
       4,
       "trust"
+    ],
+    [
+      "gains",
+      3,
+      "joy"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "secret",
@@ -113,11 +123,6 @@
       "trust"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "pontiff",
       2,
       "trust"
@@ -126,11 +131,6 @@
       "conflict",
       2,
       "anger"
-    ],
-    [
-      "gains",
-      2,
-      "joy"
     ],
     [
       "building",
@@ -236,6 +236,31 @@
       "ice",
       2,
       "fear"
+    ],
+    [
+      "hatred",
+      1,
+      "anger"
+    ],
+    [
+      "predicted",
+      1,
+      "anticipation"
+    ],
+    [
+      "polls",
+      1,
+      "trust"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "vote",
+      1,
+      "anger"
     ],
     [
       "sisterhood",
@@ -351,31 +376,6 @@
       "alarm",
       1,
       "fear"
-    ],
-    [
-      "alone",
-      1,
-      "sadness"
-    ],
-    [
-      "apart",
-      1,
-      "anger"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "fathers",
-      1,
-      "trust"
-    ],
-    [
-      "unable",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
@@ -384,8 +384,8 @@
     "fear": 54,
     "surprise": 9,
     "sadness": 15,
-    "disgust": 9,
-    "anger": 101,
-    "anticipation": 14
+    "disgust": 8,
+    "anger": 103,
+    "anticipation": 17
   }
 }
