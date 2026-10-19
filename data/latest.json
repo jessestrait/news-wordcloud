@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:50:08.346Z",
+  "generated_at": "2026-10-19T13:05:10.733Z",
   "article_count": 50,
   "top_words": [
     [
@@ -293,6 +293,21 @@
       "joy"
     ],
     [
+      "blames",
+      1,
+      "anger"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
       "defying",
       1,
       "anger"
@@ -321,21 +336,6 @@
       "mafia",
       1,
       "fear"
-    ],
-    [
-      "blames",
-      1,
-      "anger"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
     ],
     [
       "overwhelmed",
