@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-19T23:26:05.452Z",
+  "generated_at": "2026-10-19T23:41:07.831Z",
   "article_count": 50,
   "top_words": [
-    [
-      "people",
-      9,
-      "trust"
-    ],
     [
       "trump",
       9,
       "anger"
+    ],
+    [
+      "people",
+      8,
+      "trust"
     ],
     [
       "attack",
@@ -28,14 +28,19 @@
       "fear"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "violent",
       6,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
+    ],
+    [
+      "life",
+      4,
+      "joy"
     ],
     [
       "public",
@@ -61,16 +66,6 @@
       "power",
       4,
       "anticipation"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
-      "life",
-      3,
-      "joy"
     ],
     [
       "hit",
@@ -115,6 +110,21 @@
     [
       "building",
       3,
+      "anticipation"
+    ],
+    [
+      "scientists",
+      2,
+      "trust"
+    ],
+    [
+      "system",
+      2,
+      "trust"
+    ],
+    [
+      "happened",
+      2,
       "anticipation"
     ],
     [
@@ -283,9 +293,24 @@
       "fear"
     ],
     [
-      "peace",
-      2,
-      "joy"
+      "chance",
+      1,
+      "surprise"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "hope",
+      1,
+      "surprise"
+    ],
+    [
+      "earth",
+      1,
+      "surprise"
     ],
     [
       "authorities",
@@ -351,40 +376,15 @@
       "isolation",
       1,
       "sadness"
-    ],
-    [
-      "errors",
-      1,
-      "sadness"
-    ],
-    [
-      "nurse",
-      1,
-      "trust"
-    ],
-    [
-      "debt",
-      1,
-      "sadness"
-    ],
-    [
-      "investors",
-      1,
-      "anticipation"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 71,
+    "trust": 70,
     "fear": 65,
-    "surprise": 16,
+    "surprise": 19,
     "sadness": 18,
-    "disgust": 6,
+    "disgust": 5,
     "anger": 98,
     "anticipation": 22
   }
