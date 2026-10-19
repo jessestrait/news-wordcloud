@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:48:57.215Z",
+  "generated_at": "2026-10-19T11:03:59.713Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anticipation"
     ],
     [
-      "calls",
-      4,
-      "trust"
-    ],
-    [
       "violence",
       4,
       "anger"
@@ -56,11 +51,6 @@
       "strike",
       4,
       "anger"
-    ],
-    [
-      "unrest",
-      3,
-      "fear"
     ],
     [
       "force",
@@ -98,6 +88,11 @@
       "fear"
     ],
     [
+      "calls",
+      3,
+      "trust"
+    ],
+    [
       "school",
       3,
       "trust"
@@ -131,6 +126,11 @@
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "unrest",
+      2,
+      "fear"
     ],
     [
       "public",
@@ -288,6 +288,21 @@
       "joy"
     ],
     [
+      "blames",
+      1,
+      "anger"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
       "levels",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "chaos",
       1,
       "anger"
-    ],
-    [
-      "riots",
-      1,
-      "anger"
-    ],
-    [
-      "dominated",
-      1,
-      "anger"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
     "trust": 66,
-    "fear": 59,
+    "fear": 58,
     "surprise": 17,
     "sadness": 18,
     "disgust": 5,
-    "anger": 95,
-    "anticipation": 21
+    "anger": 96,
+    "anticipation": 22
   }
 }
