@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:45:30.813Z",
+  "generated_at": "2026-10-19T04:00:32.608Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,6 +98,11 @@
       "anger"
     ],
     [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
       "system",
       2,
       "trust"
@@ -193,11 +198,6 @@
       "sadness"
     ],
     [
-      "clash",
-      2,
-      "anger"
-    ],
-    [
       "protesters",
       2,
       "anger"
@@ -261,6 +261,21 @@
       "football",
       2,
       "joy"
+    ],
+    [
+      "institute",
+      1,
+      "trust"
+    ],
+    [
+      "public",
+      1,
+      "anticipation"
+    ],
+    [
+      "policy",
+      1,
+      "trust"
     ],
     [
       "strained",
@@ -361,31 +376,16 @@
       "cooperation",
       1,
       "trust"
-    ],
-    [
-      "home",
-      1,
-      "joy"
-    ],
-    [
-      "ambassador",
-      1,
-      "trust"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 64,
+    "joy": 29,
+    "trust": 66,
     "fear": 60,
-    "surprise": 11,
-    "sadness": 16,
+    "surprise": 12,
+    "sadness": 15,
     "disgust": 7,
-    "anger": 102,
-    "anticipation": 16
+    "anger": 99,
+    "anticipation": 17
   }
 }
