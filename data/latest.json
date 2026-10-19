@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:19:43.876Z",
+  "generated_at": "2026-10-19T12:34:46.545Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,12 +38,12 @@
       "trust"
     ],
     [
-      "force",
+      "violence",
       4,
       "anger"
     ],
     [
-      "violence",
+      "force",
       4,
       "anger"
     ],
@@ -51,6 +51,11 @@
       "bank",
       4,
       "trust"
+    ],
+    [
+      "crime",
+      3,
+      "anger"
     ],
     [
       "calls",
@@ -64,11 +69,6 @@
     ],
     [
       "violent",
-      3,
-      "anger"
-    ],
-    [
-      "crime",
       3,
       "anger"
     ],
@@ -111,6 +111,21 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "brothers",
+      2,
+      "trust"
+    ],
+    [
+      "murder",
+      2,
+      "anger"
+    ],
+    [
+      "battle",
+      2,
+      "anger"
     ],
     [
       "riots",
@@ -169,21 +184,6 @@
     ],
     [
       "vote",
-      2,
-      "anger"
-    ],
-    [
-      "brothers",
-      2,
-      "trust"
-    ],
-    [
-      "murder",
-      2,
-      "anger"
-    ],
-    [
-      "battle",
       2,
       "anger"
     ],
@@ -293,6 +293,36 @@
       "joy"
     ],
     [
+      "defying",
+      1,
+      "anger"
+    ],
+    [
+      "constant",
+      1,
+      "trust"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
+      "focus",
+      1,
+      "trust"
+    ],
+    [
+      "nation",
+      1,
+      "trust"
+    ],
+    [
+      "mafia",
+      1,
+      "fear"
+    ],
+    [
       "blames",
       1,
       "anger"
@@ -344,36 +374,6 @@
     ],
     [
       "insecurity",
-      1,
-      "fear"
-    ],
-    [
-      "danger",
-      1,
-      "fear"
-    ],
-    [
-      "famine",
-      1,
-      "sadness"
-    ],
-    [
-      "festivals",
-      1,
-      "surprise"
-    ],
-    [
-      "deputy",
-      1,
-      "trust"
-    ],
-    [
-      "incidents",
-      1,
-      "surprise"
-    ],
-    [
-      "warning",
       1,
       "fear"
     ]
