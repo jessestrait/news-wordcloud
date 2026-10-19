@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:36:04.960Z",
+  "generated_at": "2026-10-19T14:51:07.568Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "anger"
     ],
     [
-      "war",
-      7,
+      "attack",
+      8,
       "anger"
     ],
     [
-      "attack",
+      "war",
       7,
       "anger"
     ],
@@ -108,9 +108,9 @@
       "anger"
     ],
     [
-      "death",
-      3,
-      "sadness"
+      "iran",
+      2,
+      "anger"
     ],
     [
       "accused",
@@ -298,9 +298,39 @@
       "anticipation"
     ],
     [
-      "family",
-      2,
-      "joy"
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
+    ],
+    [
+      "ships",
+      1,
+      "anticipation"
+    ],
+    [
+      "goods",
+      1,
+      "surprise"
+    ],
+    [
+      "blames",
+      1,
+      "anger"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
     ],
     [
       "cases",
@@ -319,21 +349,6 @@
     ],
     [
       "center",
-      1,
-      "trust"
-    ],
-    [
-      "blames",
-      1,
-      "anger"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
-      "measures",
       1,
       "trust"
     ],
@@ -361,31 +376,16 @@
       "defying",
       1,
       "anger"
-    ],
-    [
-      "constant",
-      1,
-      "trust"
-    ],
-    [
-      "threat",
-      1,
-      "anger"
-    ],
-    [
-      "focus",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 24,
     "trust": 67,
-    "fear": 59,
-    "surprise": 15,
-    "sadness": 20,
+    "fear": 61,
+    "surprise": 16,
+    "sadness": 17,
     "disgust": 6,
-    "anger": 97,
-    "anticipation": 23
+    "anger": 98,
+    "anticipation": 24
   }
 }
