@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T04:00:32.608Z",
+  "generated_at": "2026-10-19T04:15:34.532Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "trust"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "bank",
       4,
       "trust"
@@ -68,12 +63,27 @@
       "fear"
     ],
     [
+      "violence",
+      3,
+      "anger"
+    ],
+    [
+      "crime",
+      3,
+      "anger"
+    ],
+    [
       "killed",
       3,
       "fear"
     ],
     [
       "fire",
+      3,
+      "fear"
+    ],
+    [
+      "government",
       3,
       "fear"
     ],
@@ -95,6 +105,21 @@
     [
       "hit",
       3,
+      "anger"
+    ],
+    [
+      "brothers",
+      2,
+      "trust"
+    ],
+    [
+      "murder",
+      2,
+      "anger"
+    ],
+    [
+      "battle",
+      2,
       "anger"
     ],
     [
@@ -133,11 +158,6 @@
       "anger"
     ],
     [
-      "violence",
-      2,
-      "anger"
-    ],
-    [
       "officials",
       2,
       "trust"
@@ -169,11 +189,6 @@
     ],
     [
       "criminal",
-      2,
-      "anger"
-    ],
-    [
-      "crimes",
       2,
       "anger"
     ],
@@ -263,6 +278,36 @@
       "joy"
     ],
     [
+      "defying",
+      1,
+      "anger"
+    ],
+    [
+      "constant",
+      1,
+      "trust"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
+      "focus",
+      1,
+      "trust"
+    ],
+    [
+      "nation",
+      1,
+      "trust"
+    ],
+    [
+      "mafia",
+      1,
+      "fear"
+    ],
+    [
       "institute",
       1,
       "trust"
@@ -279,11 +324,6 @@
     ],
     [
       "strained",
-      1,
-      "anger"
-    ],
-    [
-      "battle",
       1,
       "anger"
     ],
@@ -336,56 +376,16 @@
       "unbridled",
       1,
       "anger"
-    ],
-    [
-      "unrest",
-      1,
-      "fear"
-    ],
-    [
-      "failure",
-      1,
-      "fear"
-    ],
-    [
-      "guardian",
-      1,
-      "trust"
-    ],
-    [
-      "reporter",
-      1,
-      "trust"
-    ],
-    [
-      "seconds",
-      1,
-      "trust"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
-    ],
-    [
-      "doubt",
-      1,
-      "fear"
-    ],
-    [
-      "cooperation",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 66,
+    "trust": 70,
     "fear": 60,
     "surprise": 12,
     "sadness": 15,
     "disgust": 7,
-    "anger": 99,
+    "anger": 103,
     "anticipation": 17
   }
 }
