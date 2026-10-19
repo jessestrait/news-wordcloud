@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-10-19T09:03:06.372Z",
+  "generated_at": "2026-10-19T09:18:08.724Z",
   "article_count": 50,
   "top_words": [
+    [
+      "president",
+      7,
+      "trust"
+    ],
     [
       "war",
       7,
@@ -13,24 +18,24 @@
       "anger"
     ],
     [
+      "trump",
+      6,
+      "anger"
+    ],
+    [
       "police",
       6,
       "fear"
     ],
     [
-      "president",
-      6,
-      "trust"
+      "power",
+      5,
+      "anticipation"
     ],
     [
       "people",
       5,
       "trust"
-    ],
-    [
-      "trump",
-      5,
-      "anger"
     ],
     [
       "violence",
@@ -41,11 +46,6 @@
       "bank",
       4,
       "trust"
-    ],
-    [
-      "power",
-      4,
-      "anticipation"
     ],
     [
       "school",
@@ -61,6 +61,11 @@
       "operation",
       4,
       "fear"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
     ],
     [
       "forces",
@@ -106,11 +111,6 @@
       "gains",
       3,
       "joy"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "interior",
@@ -298,6 +298,26 @@
       "joy"
     ],
     [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "reality",
+      1,
+      "surprise"
+    ],
+    [
+      "ongoing",
+      1,
+      "anticipation"
+    ],
+    [
+      "row",
+      1,
+      "anger"
+    ],
+    [
       "resignation",
       1,
       "sadness"
@@ -356,36 +376,16 @@
       "constant",
       1,
       "trust"
-    ],
-    [
-      "threat",
-      1,
-      "anger"
-    ],
-    [
-      "focus",
-      1,
-      "trust"
-    ],
-    [
-      "nation",
-      1,
-      "trust"
-    ],
-    [
-      "mafia",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 67,
+    "trust": 65,
     "fear": 60,
-    "surprise": 14,
+    "surprise": 15,
     "sadness": 17,
     "disgust": 7,
-    "anger": 100,
-    "anticipation": 20
+    "anger": 102,
+    "anticipation": 22
   }
 }
