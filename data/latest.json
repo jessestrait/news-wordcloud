@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-19T09:48:30.112Z",
+  "generated_at": "2026-10-19T10:03:32.315Z",
   "article_count": 50,
   "top_words": [
-    [
-      "president",
-      7,
-      "trust"
-    ],
     [
       "attack",
       7,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
+    ],
+    [
+      "president",
+      6,
+      "trust"
     ],
     [
       "trump",
@@ -23,24 +28,24 @@
       "anger"
     ],
     [
-      "police",
-      5,
-      "fear"
-    ],
-    [
       "power",
       5,
       "anticipation"
     ],
     [
-      "people",
-      5,
+      "calls",
+      4,
       "trust"
     ],
     [
       "violence",
       4,
       "anger"
+    ],
+    [
+      "police",
+      4,
+      "fear"
     ],
     [
       "bank",
@@ -63,9 +68,14 @@
       "anger"
     ],
     [
-      "forces",
+      "force",
       3,
       "anger"
+    ],
+    [
+      "unrest",
+      3,
+      "fear"
     ],
     [
       "hit",
@@ -98,11 +108,6 @@
       "fear"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "school",
       3,
       "trust"
@@ -113,14 +118,19 @@
       "joy"
     ],
     [
-      "interior",
+      "world",
       2,
-      "disgust"
+      "trust"
     ],
     [
-      "unrest",
+      "food",
       2,
-      "fear"
+      "joy"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
     ],
     [
       "public",
@@ -293,29 +303,24 @@
       "joy"
     ],
     [
-      "resignation",
+      "levels",
+      1,
+      "trust"
+    ],
+    [
+      "insecurity",
+      1,
+      "fear"
+    ],
+    [
+      "danger",
+      1,
+      "fear"
+    ],
+    [
+      "famine",
       1,
       "sadness"
-    ],
-    [
-      "economy",
-      1,
-      "trust"
-    ],
-    [
-      "grows",
-      1,
-      "joy"
-    ],
-    [
-      "forecast",
-      1,
-      "trust"
-    ],
-    [
-      "demand",
-      1,
-      "anger"
     ],
     [
       "warning",
@@ -371,20 +376,15 @@
       "anger",
       1,
       "anger"
-    ],
-    [
-      "exposed",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 65,
-    "fear": 59,
+    "joy": 31,
+    "trust": 66,
+    "fear": 61,
     "surprise": 14,
     "sadness": 17,
-    "disgust": 6,
+    "disgust": 5,
     "anger": 98,
     "anticipation": 22
   }
