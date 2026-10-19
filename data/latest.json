@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:01:10.699Z",
+  "generated_at": "2026-10-19T05:16:12.846Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "anger"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
       "trump",
       6,
       "anger"
@@ -26,6 +21,11 @@
       "strike",
       6,
       "anger"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "police",
@@ -103,8 +103,23 @@
       "anger"
     ],
     [
-      "hit",
-      3,
+      "polls",
+      2,
+      "trust"
+    ],
+    [
+      "second",
+      2,
+      "trust"
+    ],
+    [
+      "independence",
+      2,
+      "surprise"
+    ],
+    [
+      "vote",
+      2,
       "anger"
     ],
     [
@@ -158,6 +173,11 @@
       "anger"
     ],
     [
+      "hits",
+      2,
+      "anger"
+    ],
+    [
       "officials",
       2,
       "trust"
@@ -174,11 +194,6 @@
     ],
     [
       "hospital",
-      2,
-      "fear"
-    ],
-    [
-      "injured",
       2,
       "fear"
     ],
@@ -278,6 +293,16 @@
       "joy"
     ],
     [
+      "exposed",
+      1,
+      "fear"
+    ],
+    [
+      "separatists",
+      1,
+      "anger"
+    ],
+    [
       "defying",
       1,
       "anger"
@@ -351,41 +376,16 @@
       "soil",
       1,
       "disgust"
-    ],
-    [
-      "wanting",
-      1,
-      "sadness"
-    ],
-    [
-      "feud",
-      1,
-      "anger"
-    ],
-    [
-      "defends",
-      1,
-      "fear"
-    ],
-    [
-      "terminal",
-      1,
-      "fear"
-    ],
-    [
-      "unbridled",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 70,
     "fear": 60,
-    "surprise": 12,
+    "surprise": 13,
     "sadness": 15,
     "disgust": 7,
-    "anger": 103,
+    "anger": 102,
     "anticipation": 17
   }
 }
