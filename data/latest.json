@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:05:58.540Z",
+  "generated_at": "2026-10-19T14:21:02.220Z",
   "article_count": 50,
   "top_words": [
     [
@@ -303,6 +303,26 @@
       "joy"
     ],
     [
+      "cases",
+      1,
+      "fear"
+    ],
+    [
+      "opposition",
+      1,
+      "anger"
+    ],
+    [
+      "quarantine",
+      1,
+      "fear"
+    ],
+    [
+      "center",
+      1,
+      "trust"
+    ],
+    [
       "blames",
       1,
       "anger"
@@ -356,26 +376,6 @@
       "focus",
       1,
       "trust"
-    ],
-    [
-      "nation",
-      1,
-      "trust"
-    ],
-    [
-      "mafia",
-      1,
-      "fear"
-    ],
-    [
-      "overwhelmed",
-      1,
-      "sadness"
-    ],
-    [
-      "anticipation",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
