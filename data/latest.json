@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T06:16:37.758Z",
+  "generated_at": "2026-10-19T06:31:39.588Z",
   "article_count": 50,
   "top_words": [
     [
@@ -213,6 +213,11 @@
       "anger"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "surgery",
       2,
       "fear"
@@ -371,11 +376,6 @@
       "letting",
       1,
       "joy"
-    ],
-    [
-      "chronic",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 15,
     "disgust": 6,
     "anger": 103,
-    "anticipation": 18
+    "anticipation": 19
   }
 }
