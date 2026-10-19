@@ -1,26 +1,31 @@
 {
-  "generated_at": "2026-10-19T03:15:09.495Z",
+  "generated_at": "2026-10-19T03:30:12.062Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      7,
-      "anger"
-    ],
-    [
-      "strike",
-      7,
+      9,
       "anger"
     ],
     [
       "war",
-      7,
+      8,
       "anger"
     ],
     [
-      "president",
+      "people",
       6,
       "trust"
+    ],
+    [
+      "trump",
+      6,
+      "anger"
+    ],
+    [
+      "strike",
+      6,
+      "anger"
     ],
     [
       "police",
@@ -28,7 +33,7 @@
       "fear"
     ],
     [
-      "people",
+      "president",
       5,
       "trust"
     ],
@@ -38,9 +43,9 @@
       "fear"
     ],
     [
-      "trump",
+      "bank",
       4,
-      "anger"
+      "trust"
     ],
     [
       "power",
@@ -63,7 +68,17 @@
       "fear"
     ],
     [
-      "bank",
+      "killed",
+      3,
+      "fear"
+    ],
+    [
+      "fire",
+      3,
+      "fear"
+    ],
+    [
+      "calls",
       3,
       "trust"
     ],
@@ -78,12 +93,37 @@
       "anger"
     ],
     [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
       "system",
       2,
       "trust"
     ],
     [
       "accused",
+      2,
+      "anger"
+    ],
+    [
+      "violent",
+      2,
+      "anger"
+    ],
+    [
+      "military",
+      2,
+      "fear"
+    ],
+    [
+      "tragedies",
+      2,
+      "fear"
+    ],
+    [
+      "forces",
       2,
       "anger"
     ],
@@ -103,12 +143,12 @@
       "trust"
     ],
     [
-      "cooperation",
+      "american",
       2,
-      "trust"
+      "sadness"
     ],
     [
-      "killed",
+      "hospital",
       2,
       "fear"
     ],
@@ -161,11 +201,6 @@
       "protesters",
       2,
       "anger"
-    ],
-    [
-      "fire",
-      2,
-      "fear"
     ],
     [
       "attempt",
@@ -228,11 +263,6 @@
       "joy"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "strained",
       1,
       "anger"
@@ -251,6 +281,41 @@
       "chronic",
       1,
       "sadness"
+    ],
+    [
+      "base",
+      1,
+      "trust"
+    ],
+    [
+      "blaze",
+      1,
+      "anger"
+    ],
+    [
+      "soil",
+      1,
+      "disgust"
+    ],
+    [
+      "wanting",
+      1,
+      "sadness"
+    ],
+    [
+      "feud",
+      1,
+      "anger"
+    ],
+    [
+      "defends",
+      1,
+      "fear"
+    ],
+    [
+      "terminal",
+      1,
+      "fear"
     ],
     [
       "unbridled",
@@ -293,99 +358,34 @@
       "fear"
     ],
     [
+      "cooperation",
+      1,
+      "trust"
+    ],
+    [
       "home",
       1,
       "joy"
     ],
     [
-      "intelligence",
-      1,
-      "fear"
-    ],
-    [
-      "sharing",
-      1,
-      "joy"
-    ],
-    [
-      "continue",
+      "ambassador",
       1,
       "trust"
     ],
     [
-      "obituary",
-      1,
-      "sadness"
-    ],
-    [
-      "indicted",
-      1,
-      "anger"
-    ],
-    [
-      "tribunal",
+      "terror",
       1,
       "fear"
-    ],
-    [
-      "humanity",
-      1,
-      "joy"
-    ],
-    [
-      "housing",
-      1,
-      "joy"
-    ],
-    [
-      "devastated",
-      1,
-      "anger"
-    ],
-    [
-      "interior",
-      1,
-      "disgust"
-    ],
-    [
-      "pledges",
-      1,
-      "joy"
-    ],
-    [
-      "gradual",
-      1,
-      "anticipation"
-    ],
-    [
-      "hilarious",
-      1,
-      "surprise"
-    ],
-    [
-      "music",
-      1,
-      "joy"
-    ],
-    [
-      "based",
-      1,
-      "trust"
-    ],
-    [
-      "unique",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 60,
-    "fear": 53,
+    "trust": 64,
+    "fear": 60,
     "surprise": 11,
     "sadness": 16,
-    "disgust": 5,
-    "anger": 96,
-    "anticipation": 18
+    "disgust": 7,
+    "anger": 102,
+    "anticipation": 16
   }
 }
