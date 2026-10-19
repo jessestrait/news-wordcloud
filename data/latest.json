@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-19T16:22:16.603Z",
+  "generated_at": "2026-10-19T16:37:19.372Z",
   "article_count": 50,
   "top_words": [
-    [
-      "attack",
-      9,
-      "anger"
-    ],
     [
       "trump",
       9,
       "anger"
+    ],
+    [
+      "people",
+      8,
+      "trust"
     ],
     [
       "war",
@@ -18,8 +18,13 @@
       "anger"
     ],
     [
-      "people",
-      8,
+      "attack",
+      7,
+      "anger"
+    ],
+    [
+      "president",
+      6,
       "trust"
     ],
     [
@@ -33,29 +38,19 @@
       "fear"
     ],
     [
-      "government",
-      5,
-      "fear"
-    ],
-    [
       "force",
       5,
       "anger"
     ],
     [
-      "president",
-      5,
-      "trust"
+      "government",
+      4,
+      "fear"
     ],
     [
       "power",
       4,
       "anticipation"
-    ],
-    [
-      "bank",
-      4,
-      "trust"
     ],
     [
       "life",
@@ -103,6 +98,11 @@
       "fear"
     ],
     [
+      "bank",
+      3,
+      "trust"
+    ],
+    [
       "operation",
       3,
       "fear"
@@ -121,6 +121,16 @@
       "building",
       3,
       "anticipation"
+    ],
+    [
+      "school",
+      2,
+      "trust"
+    ],
+    [
+      "obituary",
+      2,
+      "sadness"
     ],
     [
       "injured",
@@ -248,11 +258,6 @@
       "anger"
     ],
     [
-      "school",
-      2,
-      "trust"
-    ],
-    [
       "happened",
       2,
       "anticipation"
@@ -288,11 +293,6 @@
       "fear"
     ],
     [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
       "peace",
       2,
       "joy"
@@ -301,6 +301,11 @@
       "age",
       2,
       "anticipation"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
     ],
     [
       "blames",
@@ -314,6 +319,31 @@
     ],
     [
       "measures",
+      1,
+      "trust"
+    ],
+    [
+      "ferocious",
+      1,
+      "anger"
+    ],
+    [
+      "criticism",
+      1,
+      "anger"
+    ],
+    [
+      "isolation",
+      1,
+      "sadness"
+    ],
+    [
+      "errors",
+      1,
+      "sadness"
+    ],
+    [
+      "nurse",
       1,
       "trust"
     ],
@@ -346,46 +376,16 @@
       "investors",
       1,
       "anticipation"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
-    ],
-    [
-      "ships",
-      1,
-      "anticipation"
-    ],
-    [
-      "goods",
-      1,
-      "surprise"
-    ],
-    [
-      "cases",
-      1,
-      "fear"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 24,
     "trust": 69,
-    "fear": 65,
+    "fear": 64,
     "surprise": 16,
-    "sadness": 17,
+    "sadness": 20,
     "disgust": 6,
-    "anger": 101,
+    "anger": 99,
     "anticipation": 25
   }
 }
