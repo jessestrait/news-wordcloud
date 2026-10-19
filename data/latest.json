@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:02:43.583Z",
+  "generated_at": "2026-10-19T08:17:45.442Z",
   "article_count": 50,
   "top_words": [
     [
@@ -116,11 +116,6 @@
       "interior",
       2,
       "disgust"
-    ],
-    [
-      "unbridled",
-      2,
-      "anger"
     ],
     [
       "unrest",
@@ -318,9 +313,9 @@
       "anticipation"
     ],
     [
-      "condemned",
+      "breaks",
       1,
-      "anger"
+      "surprise"
     ],
     [
       "chaos",
@@ -376,16 +371,21 @@
       "nation",
       1,
       "trust"
+    ],
+    [
+      "mafia",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 67,
     "fear": 60,
-    "surprise": 13,
+    "surprise": 14,
     "sadness": 17,
     "disgust": 7,
-    "anger": 102,
+    "anger": 100,
     "anticipation": 20
   }
 }
