@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:19:17.228Z",
+  "generated_at": "2026-10-19T11:34:19.559Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,19 +28,24 @@
       "anger"
     ],
     [
+      "police",
+      5,
+      "fear"
+    ],
+    [
       "power",
       5,
       "anticipation"
     ],
     [
-      "violence",
+      "force",
       4,
       "anger"
     ],
     [
-      "police",
+      "violence",
       4,
-      "fear"
+      "anger"
     ],
     [
       "bank",
@@ -50,11 +55,6 @@
     [
       "strike",
       4,
-      "anger"
-    ],
-    [
-      "force",
-      3,
       "anger"
     ],
     [
@@ -111,6 +111,21 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "lost",
+      2,
+      "sadness"
+    ],
+    [
+      "riots",
+      2,
+      "anger"
+    ],
+    [
+      "interior",
+      2,
+      "disgust"
     ],
     [
       "world",
@@ -278,16 +293,6 @@
       "joy"
     ],
     [
-      "disgrace",
-      2,
-      "anger"
-    ],
-    [
-      "football",
-      2,
-      "joy"
-    ],
-    [
       "blames",
       1,
       "anger"
@@ -301,6 +306,16 @@
       "measures",
       1,
       "trust"
+    ],
+    [
+      "overwhelmed",
+      1,
+      "sadness"
+    ],
+    [
+      "anticipation",
+      1,
+      "anticipation"
     ],
     [
       "levels",
@@ -361,31 +376,16 @@
       "debt",
       1,
       "sadness"
-    ],
-    [
-      "investors",
-      1,
-      "anticipation"
-    ],
-    [
-      "breaks",
-      1,
-      "surprise"
-    ],
-    [
-      "chaos",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 28,
     "trust": 66,
-    "fear": 58,
+    "fear": 57,
     "surprise": 17,
-    "sadness": 18,
-    "disgust": 5,
-    "anger": 96,
-    "anticipation": 22
+    "sadness": 20,
+    "disgust": 6,
+    "anger": 97,
+    "anticipation": 23
   }
 }
