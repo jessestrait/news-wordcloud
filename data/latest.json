@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:04:41.427Z",
+  "generated_at": "2026-10-19T12:19:43.876Z",
   "article_count": 50,
   "top_words": [
     [
@@ -293,6 +293,21 @@
       "joy"
     ],
     [
+      "blames",
+      1,
+      "anger"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
       "overwhelmed",
       1,
       "sadness"
@@ -319,21 +334,6 @@
     ],
     [
       "center",
-      1,
-      "trust"
-    ],
-    [
-      "blames",
-      1,
-      "anger"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
-      "measures",
       1,
       "trust"
     ],
