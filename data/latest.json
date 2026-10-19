@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:33:27.878Z",
+  "generated_at": "2026-10-19T09:48:30.112Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
-      "power",
-      5,
-      "anticipation"
-    ],
-    [
       "police",
       5,
       "fear"
+    ],
+    [
+      "power",
+      5,
+      "anticipation"
     ],
     [
       "people",
@@ -293,6 +293,11 @@
       "joy"
     ],
     [
+      "resignation",
+      1,
+      "sadness"
+    ],
+    [
       "economy",
       1,
       "trust"
@@ -331,11 +336,6 @@
       "row",
       1,
       "anger"
-    ],
-    [
-      "resignation",
-      1,
-      "sadness"
     ],
     [
       "debt",
