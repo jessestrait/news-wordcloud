@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-10-19T15:21:27.897Z",
+  "generated_at": "2026-10-19T15:36:29.915Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      9,
+      "anger"
+    ],
     [
       "trump",
       9,
       "anger"
     ],
     [
-      "attack",
+      "war",
       8,
       "anger"
     ],
     [
-      "war",
+      "people",
       7,
-      "anger"
+      "trust"
     ],
     [
       "violent",
@@ -28,14 +33,14 @@
       "fear"
     ],
     [
-      "people",
-      6,
-      "trust"
+      "government",
+      5,
+      "fear"
     ],
     [
-      "power",
+      "force",
       5,
-      "anticipation"
+      "anger"
     ],
     [
       "president",
@@ -43,19 +48,9 @@
       "trust"
     ],
     [
-      "government",
+      "power",
       4,
-      "fear"
-    ],
-    [
-      "violence",
-      4,
-      "anger"
-    ],
-    [
-      "force",
-      4,
-      "anger"
+      "anticipation"
     ],
     [
       "bank",
@@ -63,9 +58,29 @@
       "trust"
     ],
     [
+      "life",
+      3,
+      "joy"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
+    ],
+    [
+      "public",
+      3,
+      "anticipation"
+    ],
+    [
       "second",
       3,
       "trust"
+    ],
+    [
+      "violence",
+      3,
+      "anger"
     ],
     [
       "crime",
@@ -76,11 +91,6 @@
       "calls",
       3,
       "trust"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "killed",
@@ -106,6 +116,16 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "building",
+      3,
+      "anticipation"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
     ],
     [
       "iran",
@@ -171,11 +191,6 @@
       "unrest",
       2,
       "fear"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "polls",
@@ -248,11 +263,6 @@
       "anger"
     ],
     [
-      "life",
-      2,
-      "joy"
-    ],
-    [
       "secret",
       2,
       "trust"
@@ -283,11 +293,6 @@
       "trust"
     ],
     [
-      "building",
-      2,
-      "anticipation"
-    ],
-    [
       "peace",
       2,
       "joy"
@@ -295,6 +300,36 @@
     [
       "age",
       2,
+      "anticipation"
+    ],
+    [
+      "kills",
+      1,
+      "fear"
+    ],
+    [
+      "loss",
+      1,
+      "anger"
+    ],
+    [
+      "young",
+      1,
+      "surprise"
+    ],
+    [
+      "missile",
+      1,
+      "fear"
+    ],
+    [
+      "debt",
+      1,
+      "sadness"
+    ],
+    [
+      "investors",
+      1,
       "anticipation"
     ],
     [
@@ -341,51 +376,16 @@
       "opposition",
       1,
       "anger"
-    ],
-    [
-      "quarantine",
-      1,
-      "fear"
-    ],
-    [
-      "center",
-      1,
-      "trust"
-    ],
-    [
-      "protected",
-      1,
-      "trust"
-    ],
-    [
-      "avoid",
-      1,
-      "fear"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
-    ],
-    [
-      "luxury",
-      1,
-      "joy"
-    ],
-    [
-      "defying",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 67,
-    "fear": 61,
+    "joy": 25,
+    "trust": 68,
+    "fear": 65,
     "surprise": 16,
     "sadness": 17,
     "disgust": 6,
-    "anger": 99,
-    "anticipation": 24
+    "anger": 101,
+    "anticipation": 25
   }
 }
