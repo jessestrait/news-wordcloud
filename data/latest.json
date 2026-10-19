@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:08:08.380Z",
+  "generated_at": "2026-10-19T18:23:10.741Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,9 +38,9 @@
       "anger"
     ],
     [
-      "force",
-      5,
-      "anger"
+      "public",
+      4,
+      "anticipation"
     ],
     [
       "violence",
@@ -58,6 +58,11 @@
       "fear"
     ],
     [
+      "force",
+      4,
+      "anger"
+    ],
+    [
       "power",
       4,
       "anticipation"
@@ -73,17 +78,7 @@
       "anger"
     ],
     [
-      "public",
-      3,
-      "anticipation"
-    ],
-    [
       "second",
-      3,
-      "trust"
-    ],
-    [
-      "calls",
       3,
       "trust"
     ],
@@ -116,6 +111,21 @@
       "building",
       3,
       "anticipation"
+    ],
+    [
+      "interior",
+      2,
+      "disgust"
+    ],
+    [
+      "lost",
+      2,
+      "sadness"
+    ],
+    [
+      "fully",
+      2,
+      "trust"
     ],
     [
       "injured",
@@ -166,21 +176,6 @@
       "crime",
       2,
       "anger"
-    ],
-    [
-      "riots",
-      2,
-      "anger"
-    ],
-    [
-      "interior",
-      2,
-      "disgust"
-    ],
-    [
-      "lost",
-      2,
-      "sadness"
     ],
     [
       "world",
@@ -234,6 +229,11 @@
     ],
     [
       "law",
+      2,
+      "trust"
+    ],
+    [
+      "calls",
       2,
       "trust"
     ],
@@ -383,9 +383,9 @@
     "trust": 71,
     "fear": 65,
     "surprise": 16,
-    "sadness": 19,
+    "sadness": 18,
     "disgust": 6,
-    "anger": 101,
+    "anger": 99,
     "anticipation": 22
   }
 }
