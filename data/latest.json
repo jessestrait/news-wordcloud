@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:38:35.926Z",
+  "generated_at": "2026-10-19T18:53:38.085Z",
   "article_count": 50,
   "top_words": [
     [
@@ -121,11 +121,6 @@
       "lost",
       2,
       "sadness"
-    ],
-    [
-      "fully",
-      2,
-      "trust"
     ],
     [
       "injured",
@@ -303,6 +298,11 @@
       "anger"
     ],
     [
+      "vows",
+      1,
+      "joy"
+    ],
+    [
       "raid",
       1,
       "anger"
@@ -379,8 +379,8 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 71,
+    "joy": 25,
+    "trust": 70,
     "fear": 65,
     "surprise": 16,
     "sadness": 18,
