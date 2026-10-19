@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:35:33.066Z",
+  "generated_at": "2026-10-19T13:50:35.821Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,24 +8,24 @@
       "anger"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
       "attack",
       7,
       "anger"
     ],
     [
+      "police",
+      6,
+      "fear"
+    ],
+    [
       "people",
       6,
       "trust"
-    ],
-    [
-      "war",
-      6,
-      "anger"
-    ],
-    [
-      "police",
-      5,
-      "fear"
     ],
     [
       "power",
@@ -36,6 +36,11 @@
       "president",
       5,
       "trust"
+    ],
+    [
+      "violent",
+      4,
+      "anger"
     ],
     [
       "violence",
@@ -50,6 +55,11 @@
     [
       "bank",
       4,
+      "trust"
+    ],
+    [
+      "second",
+      3,
       "trust"
     ],
     [
@@ -68,11 +78,6 @@
       "anger"
     ],
     [
-      "violent",
-      3,
-      "anger"
-    ],
-    [
       "killed",
       3,
       "fear"
@@ -86,11 +91,6 @@
       "government",
       3,
       "fear"
-    ],
-    [
-      "school",
-      3,
-      "trust"
     ],
     [
       "operation",
@@ -111,6 +111,11 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "surprise",
+      2,
+      "fear"
     ],
     [
       "brothers",
@@ -173,11 +178,6 @@
       "trust"
     ],
     [
-      "second",
-      2,
-      "trust"
-    ],
-    [
       "independence",
       2,
       "surprise"
@@ -223,9 +223,19 @@
       "fear"
     ],
     [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
       "criminal",
       2,
       "anger"
+    ],
+    [
+      "school",
+      2,
+      "trust"
     ],
     [
       "happened",
@@ -366,26 +376,16 @@
       "center",
       1,
       "trust"
-    ],
-    [
-      "levels",
-      1,
-      "trust"
-    ],
-    [
-      "insecurity",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 27,
     "trust": 66,
-    "fear": 58,
+    "fear": 57,
     "surprise": 16,
     "sadness": 20,
     "disgust": 6,
-    "anger": 96,
+    "anger": 95,
     "anticipation": 23
   }
 }
