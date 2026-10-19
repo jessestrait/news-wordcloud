@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-10-19T09:18:08.724Z",
+  "generated_at": "2026-10-19T09:33:11.817Z",
   "article_count": 50,
   "top_words": [
     [
       "president",
       7,
       "trust"
-    ],
-    [
-      "war",
-      7,
-      "anger"
     ],
     [
       "attack",
@@ -23,14 +18,19 @@
       "anger"
     ],
     [
-      "police",
+      "war",
       6,
-      "fear"
+      "anger"
     ],
     [
       "power",
       5,
       "anticipation"
+    ],
+    [
+      "police",
+      5,
+      "fear"
     ],
     [
       "people",
@@ -44,11 +44,6 @@
     ],
     [
       "bank",
-      4,
-      "trust"
-    ],
-    [
-      "school",
       4,
       "trust"
     ],
@@ -104,6 +99,11 @@
     ],
     [
       "calls",
+      3,
+      "trust"
+    ],
+    [
+      "school",
       3,
       "trust"
     ],
@@ -166,11 +166,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "accused",
-      2,
-      "anger"
     ],
     [
       "military",
@@ -298,6 +293,26 @@
       "joy"
     ],
     [
+      "economy",
+      1,
+      "trust"
+    ],
+    [
+      "grows",
+      1,
+      "joy"
+    ],
+    [
+      "forecast",
+      1,
+      "trust"
+    ],
+    [
+      "demand",
+      1,
+      "anger"
+    ],
+    [
       "warning",
       1,
       "fear"
@@ -361,31 +376,16 @@
       "exposed",
       1,
       "fear"
-    ],
-    [
-      "separatists",
-      1,
-      "anger"
-    ],
-    [
-      "defying",
-      1,
-      "anger"
-    ],
-    [
-      "constant",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 30,
     "trust": 65,
-    "fear": 60,
-    "surprise": 15,
+    "fear": 59,
+    "surprise": 14,
     "sadness": 17,
-    "disgust": 7,
-    "anger": 102,
+    "disgust": 6,
+    "anger": 98,
     "anticipation": 22
   }
 }
