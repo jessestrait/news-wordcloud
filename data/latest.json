@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T02:45:04.512Z",
+  "generated_at": "2026-10-19T03:00:06.988Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
       "president",
       6,
       "trust"
@@ -33,8 +28,13 @@
       "fear"
     ],
     [
-      "government",
+      "people",
       5,
+      "trust"
+    ],
+    [
+      "government",
+      4,
       "fear"
     ],
     [
@@ -73,13 +73,18 @@
       "joy"
     ],
     [
-      "warns",
-      3,
-      "fear"
-    ],
-    [
       "iran",
       3,
+      "anger"
+    ],
+    [
+      "system",
+      2,
+      "trust"
+    ],
+    [
+      "accused",
+      2,
       "anger"
     ],
     [
@@ -168,7 +173,7 @@
       "anticipation"
     ],
     [
-      "prevent",
+      "warns",
       2,
       "fear"
     ],
@@ -191,11 +196,6 @@
       "peace",
       2,
       "joy"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "age",
@@ -231,6 +231,26 @@
       "hit",
       2,
       "anger"
+    ],
+    [
+      "strained",
+      1,
+      "anger"
+    ],
+    [
+      "battle",
+      1,
+      "anger"
+    ],
+    [
+      "letting",
+      1,
+      "joy"
+    ],
+    [
+      "chronic",
+      1,
+      "sadness"
     ],
     [
       "unbridled",
@@ -356,36 +376,16 @@
       "unique",
       1,
       "surprise"
-    ],
-    [
-      "captivating",
-      1,
-      "surprise"
-    ],
-    [
-      "gifted",
-      1,
-      "surprise"
-    ],
-    [
-      "hatred",
-      1,
-      "anger"
-    ],
-    [
-      "predicted",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 30,
     "trust": 60,
-    "fear": 56,
+    "fear": 53,
     "surprise": 11,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 5,
-    "anger": 94,
-    "anticipation": 19
+    "anger": 96,
+    "anticipation": 18
   }
 }
