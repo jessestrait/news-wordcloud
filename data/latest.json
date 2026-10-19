@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:49:38.461Z",
+  "generated_at": "2026-10-19T12:04:41.427Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,11 +14,6 @@
     ],
     [
       "people",
-      6,
-      "trust"
-    ],
-    [
-      "president",
       6,
       "trust"
     ],
@@ -38,6 +33,11 @@
       "anticipation"
     ],
     [
+      "president",
+      5,
+      "trust"
+    ],
+    [
       "force",
       4,
       "anger"
@@ -53,9 +53,9 @@
       "trust"
     ],
     [
-      "strike",
-      4,
-      "anger"
+      "calls",
+      3,
+      "trust"
     ],
     [
       "hit",
@@ -88,11 +88,6 @@
       "fear"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "school",
       3,
       "trust"
@@ -108,13 +103,13 @@
       "joy"
     ],
     [
-      "death",
+      "strike",
       3,
-      "sadness"
+      "anger"
     ],
     [
-      "lost",
-      2,
+      "death",
+      3,
       "sadness"
     ],
     [
@@ -126,6 +121,11 @@
       "interior",
       2,
       "disgust"
+    ],
+    [
+      "lost",
+      2,
+      "sadness"
     ],
     [
       "world",
@@ -188,11 +188,6 @@
       "anger"
     ],
     [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
       "military",
       2,
       "fear"
@@ -206,6 +201,11 @@
       "officials",
       2,
       "trust"
+    ],
+    [
+      "failure",
+      2,
+      "fear"
     ],
     [
       "law",
@@ -293,6 +293,36 @@
       "joy"
     ],
     [
+      "overwhelmed",
+      1,
+      "sadness"
+    ],
+    [
+      "anticipation",
+      1,
+      "anticipation"
+    ],
+    [
+      "case",
+      1,
+      "fear"
+    ],
+    [
+      "opposition",
+      1,
+      "anger"
+    ],
+    [
+      "quarantine",
+      1,
+      "fear"
+    ],
+    [
+      "center",
+      1,
+      "trust"
+    ],
+    [
       "blames",
       1,
       "anger"
@@ -306,16 +336,6 @@
       "measures",
       1,
       "trust"
-    ],
-    [
-      "overwhelmed",
-      1,
-      "sadness"
-    ],
-    [
-      "anticipation",
-      1,
-      "anticipation"
     ],
     [
       "levels",
@@ -356,36 +376,16 @@
       "warning",
       1,
       "fear"
-    ],
-    [
-      "reality",
-      1,
-      "surprise"
-    ],
-    [
-      "ongoing",
-      1,
-      "anticipation"
-    ],
-    [
-      "row",
-      1,
-      "anger"
-    ],
-    [
-      "debt",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 66,
-    "fear": 57,
-    "surprise": 17,
+    "fear": 58,
+    "surprise": 16,
     "sadness": 20,
     "disgust": 6,
-    "anger": 97,
+    "anger": 96,
     "anticipation": 23
   }
 }
