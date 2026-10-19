@@ -1,31 +1,26 @@
 {
-  "generated_at": "2026-10-19T05:46:17.103Z",
+  "generated_at": "2026-10-19T05:46:33.898Z",
   "article_count": 50,
   "top_words": [
-    [
-      "attack",
-      9,
-      "anger"
-    ],
     [
       "war",
       8,
       "anger"
     ],
     [
-      "trump",
-      6,
-      "anger"
-    ],
-    [
-      "strike",
-      6,
+      "attack",
+      8,
       "anger"
     ],
     [
       "people",
       5,
       "trust"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "police",
@@ -61,6 +56,16 @@
       "operation",
       4,
       "fear"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
+      "violent",
+      3,
+      "anger"
     ],
     [
       "violence",
@@ -101,6 +106,16 @@
       "iran",
       3,
       "anger"
+    ],
+    [
+      "unrest",
+      2,
+      "fear"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
     ],
     [
       "polls",
@@ -153,11 +168,6 @@
       "anger"
     ],
     [
-      "violent",
-      2,
-      "anger"
-    ],
-    [
       "military",
       2,
       "fear"
@@ -196,11 +206,6 @@
       "hospital",
       2,
       "fear"
-    ],
-    [
-      "trade",
-      2,
-      "trust"
     ],
     [
       "criminal",
@@ -283,14 +288,29 @@
       "anger"
     ],
     [
-      "collapses",
-      2,
-      "fear"
-    ],
-    [
       "football",
       2,
       "joy"
+    ],
+    [
+      "chaos",
+      1,
+      "anger"
+    ],
+    [
+      "riots",
+      1,
+      "anger"
+    ],
+    [
+      "dominated",
+      1,
+      "anger"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
     ],
     [
       "exposed",
@@ -338,11 +358,6 @@
       "trust"
     ],
     [
-      "public",
-      1,
-      "anticipation"
-    ],
-    [
       "policy",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "chronic",
       1,
       "sadness"
-    ],
-    [
-      "base",
-      1,
-      "trust"
-    ],
-    [
-      "blaze",
-      1,
-      "anger"
-    ],
-    [
-      "soil",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 70,
+    "trust": 69,
     "fear": 60,
     "surprise": 13,
     "sadness": 15,
-    "disgust": 7,
-    "anger": 102,
-    "anticipation": 17
+    "disgust": 6,
+    "anger": 103,
+    "anticipation": 18
   }
 }
