@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-19T13:50:35.821Z",
+  "generated_at": "2026-10-19T14:05:38.544Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      8,
+      9,
       "anger"
     ],
     [
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "violent",
+      5,
+      "anger"
+    ],
+    [
       "power",
       5,
       "anticipation"
@@ -38,9 +43,9 @@
       "trust"
     ],
     [
-      "violent",
+      "government",
       4,
-      "anger"
+      "fear"
     ],
     [
       "violence",
@@ -88,11 +93,6 @@
       "fear"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "operation",
       3,
       "fear"
@@ -111,6 +111,11 @@
       "death",
       3,
       "sadness"
+    ],
+    [
+      "accused",
+      2,
+      "anger"
     ],
     [
       "surprise",
@@ -176,11 +181,6 @@
       "polls",
       2,
       "trust"
-    ],
-    [
-      "independence",
-      2,
-      "surprise"
     ],
     [
       "vote",
@@ -318,6 +318,26 @@
       "trust"
     ],
     [
+      "protected",
+      1,
+      "trust"
+    ],
+    [
+      "avoid",
+      1,
+      "fear"
+    ],
+    [
+      "rules",
+      1,
+      "fear"
+    ],
+    [
+      "luxury",
+      1,
+      "joy"
+    ],
+    [
       "defying",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "anticipation",
       1,
       "anticipation"
-    ],
-    [
-      "case",
-      1,
-      "fear"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
-      "quarantine",
-      1,
-      "fear"
-    ],
-    [
-      "center",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 66,
-    "fear": 57,
-    "surprise": 16,
+    "joy": 26,
+    "trust": 67,
+    "fear": 59,
+    "surprise": 15,
     "sadness": 20,
     "disgust": 6,
-    "anger": 95,
+    "anger": 97,
     "anticipation": 23
   }
 }
