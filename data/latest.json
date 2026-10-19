@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:36:46.165Z",
+  "generated_at": "2026-10-19T15:51:48.977Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "people",
-      7,
+      8,
       "trust"
     ],
     [
@@ -303,6 +303,21 @@
       "anticipation"
     ],
     [
+      "blames",
+      1,
+      "anger"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
       "kills",
       1,
       "fear"
@@ -331,21 +346,6 @@
       "investors",
       1,
       "anticipation"
-    ],
-    [
-      "blames",
-      1,
-      "anger"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
     ],
     [
       "strait",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 68,
+    "trust": 69,
     "fear": 65,
     "surprise": 16,
     "sadness": 17,
