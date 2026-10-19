@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-10-19T07:32:21.290Z",
+  "generated_at": "2026-10-19T07:47:23.878Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
       "attack",
-      8,
+      7,
       "anger"
+    ],
+    [
+      "police",
+      6,
+      "fear"
+    ],
+    [
+      "president",
+      6,
+      "trust"
     ],
     [
       "people",
@@ -23,14 +33,9 @@
       "anger"
     ],
     [
-      "police",
-      5,
-      "fear"
-    ],
-    [
-      "president",
-      5,
-      "trust"
+      "violence",
+      4,
+      "anger"
     ],
     [
       "bank",
@@ -58,17 +63,17 @@
       "fear"
     ],
     [
-      "strike",
-      4,
-      "anger"
-    ],
-    [
-      "violent",
+      "forces",
       3,
       "anger"
     ],
     [
-      "violence",
+      "hit",
+      3,
+      "anger"
+    ],
+    [
+      "violent",
       3,
       "anger"
     ],
@@ -103,8 +108,18 @@
       "joy"
     ],
     [
-      "iran",
+      "strike",
       3,
+      "anger"
+    ],
+    [
+      "interior",
+      2,
+      "disgust"
+    ],
+    [
+      "unbridled",
+      2,
       "anger"
     ],
     [
@@ -158,11 +173,6 @@
       "surprise"
     ],
     [
-      "system",
-      2,
-      "trust"
-    ],
-    [
       "accused",
       2,
       "anger"
@@ -176,16 +186,6 @@
       "tragedies",
       2,
       "fear"
-    ],
-    [
-      "forces",
-      2,
-      "anger"
-    ],
-    [
-      "hits",
-      2,
-      "anger"
     ],
     [
       "officials",
@@ -263,6 +263,11 @@
       "trust"
     ],
     [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
       "building",
       2,
       "anticipation"
@@ -296,6 +301,26 @@
       "football",
       2,
       "joy"
+    ],
+    [
+      "resignation",
+      1,
+      "sadness"
+    ],
+    [
+      "debt",
+      1,
+      "sadness"
+    ],
+    [
+      "investors",
+      1,
+      "anticipation"
+    ],
+    [
+      "condemned",
+      1,
+      "anger"
     ],
     [
       "chaos",
@@ -351,41 +376,16 @@
       "nation",
       1,
       "trust"
-    ],
-    [
-      "mafia",
-      1,
-      "fear"
-    ],
-    [
-      "institute",
-      1,
-      "trust"
-    ],
-    [
-      "policy",
-      1,
-      "trust"
-    ],
-    [
-      "strained",
-      1,
-      "anger"
-    ],
-    [
-      "letting",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 69,
+    "trust": 67,
     "fear": 60,
     "surprise": 13,
-    "sadness": 15,
-    "disgust": 6,
-    "anger": 103,
-    "anticipation": 19
+    "sadness": 17,
+    "disgust": 7,
+    "anger": 102,
+    "anticipation": 20
   }
 }
