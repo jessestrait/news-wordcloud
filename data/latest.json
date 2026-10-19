@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:51:23.849Z",
+  "generated_at": "2026-10-19T15:06:25.862Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,6 +298,21 @@
       "anticipation"
     ],
     [
+      "blames",
+      1,
+      "anger"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
       "strait",
       1,
       "fear"
@@ -316,21 +331,6 @@
       "goods",
       1,
       "surprise"
-    ],
-    [
-      "blames",
-      1,
-      "anger"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
     ],
     [
       "cases",
