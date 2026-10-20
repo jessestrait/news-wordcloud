@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-20T19:06:47.977Z",
+  "generated_at": "2026-10-20T19:21:51.072Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      11,
+      12,
       "trust"
     ],
     [
       "attack",
       10,
       "anger"
+    ],
+    [
+      "police",
+      7,
+      "fear"
     ],
     [
       "war",
@@ -26,11 +31,6 @@
       "violent",
       6,
       "anger"
-    ],
-    [
-      "police",
-      5,
-      "fear"
     ],
     [
       "public",
@@ -51,11 +51,6 @@
       "government",
       4,
       "fear"
-    ],
-    [
-      "life",
-      4,
-      "joy"
     ],
     [
       "force",
@@ -93,6 +88,11 @@
       "trust"
     ],
     [
+      "life",
+      3,
+      "joy"
+    ],
+    [
       "bank",
       3,
       "trust"
@@ -100,6 +100,11 @@
     [
       "second",
       3,
+      "trust"
+    ],
+    [
+      "center",
+      2,
       "trust"
     ],
     [
@@ -213,11 +218,6 @@
       "anger"
     ],
     [
-      "world",
-      2,
-      "trust"
-    ],
-    [
       "food",
       2,
       "joy"
@@ -261,6 +261,21 @@
       "continue",
       2,
       "trust"
+    ],
+    [
+      "raided",
+      1,
+      "anger"
+    ],
+    [
+      "seized",
+      1,
+      "fear"
+    ],
+    [
+      "dispute",
+      1,
+      "anger"
     ],
     [
       "black",
@@ -361,31 +376,16 @@
       "supporters",
       1,
       "joy"
-    ],
-    [
-      "unity",
-      1,
-      "trust"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 27,
     "trust": 74,
-    "fear": 55,
+    "fear": 58,
     "surprise": 18,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 5,
-    "anger": 96,
+    "anger": 97,
     "anticipation": 28
   }
 }
