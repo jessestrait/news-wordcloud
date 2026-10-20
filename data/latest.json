@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:32:48.376Z",
+  "generated_at": "2026-10-20T12:47:50.409Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
+      "police",
+      8,
+      "fear"
+    ],
+    [
       "war",
       7,
       "anger"
-    ],
-    [
-      "police",
-      7,
-      "fear"
     ],
     [
       "violent",
@@ -58,9 +58,9 @@
       "trust"
     ],
     [
-      "unrest",
+      "crime",
       3,
-      "fear"
+      "anger"
     ],
     [
       "attempt",
@@ -101,6 +101,16 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "measures",
+      2,
+      "trust"
+    ],
+    [
+      "deputy",
+      2,
+      "trust"
     ],
     [
       "criminal",
@@ -193,11 +203,6 @@
       "anger"
     ],
     [
-      "crime",
-      2,
-      "anger"
-    ],
-    [
       "world",
       2,
       "trust"
@@ -206,6 +211,11 @@
       "food",
       2,
       "joy"
+    ],
+    [
+      "unrest",
+      2,
+      "fear"
     ],
     [
       "polls",
@@ -258,17 +268,17 @@
       "anger"
     ],
     [
-      "suggests",
+      "approve",
+      1,
+      "joy"
+    ],
+    [
+      "committed",
       1,
       "trust"
     ],
     [
       "planning",
-      1,
-      "trust"
-    ],
-    [
-      "measures",
       1,
       "trust"
     ],
@@ -366,26 +376,16 @@
       "landmark",
       1,
       "trust"
-    ],
-    [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "reality",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 67,
+    "joy": 23,
+    "trust": 69,
     "fear": 61,
     "surprise": 18,
     "sadness": 16,
     "disgust": 4,
-    "anger": 101,
+    "anger": 102,
     "anticipation": 24
   }
 }
