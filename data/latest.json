@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:46:36.899Z",
+  "generated_at": "2026-10-20T10:01:39.141Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,19 +8,19 @@
       "anger"
     ],
     [
-      "people",
-      8,
-      "trust"
-    ],
-    [
       "attack",
-      8,
+      10,
       "anger"
     ],
     [
       "war",
-      7,
+      8,
       "anger"
+    ],
+    [
+      "people",
+      8,
+      "trust"
     ],
     [
       "police",
@@ -63,11 +63,6 @@
       "fear"
     ],
     [
-      "force",
-      4,
-      "anger"
-    ],
-    [
       "unrest",
       3,
       "fear"
@@ -103,6 +98,11 @@
       "anger"
     ],
     [
+      "force",
+      3,
+      "anger"
+    ],
+    [
       "fire",
       3,
       "fear"
@@ -111,11 +111,6 @@
       "operation",
       3,
       "fear"
-    ],
-    [
-      "gains",
-      3,
-      "joy"
     ],
     [
       "strike",
@@ -168,6 +163,11 @@
       "sadness"
     ],
     [
+      "kills",
+      2,
+      "fear"
+    ],
+    [
       "injured",
       2,
       "fear"
@@ -186,11 +186,6 @@
       "obituary",
       2,
       "sadness"
-    ],
-    [
-      "iran",
-      2,
-      "anger"
     ],
     [
       "accused",
@@ -376,10 +371,15 @@
       "deliveries",
       1,
       "anticipation"
+    ],
+    [
+      "delayed",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 21,
     "trust": 68,
     "fear": 62,
     "surprise": 18,
