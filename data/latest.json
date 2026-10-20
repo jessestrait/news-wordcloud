@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:58:55.538Z",
+  "generated_at": "2026-10-20T05:13:57.785Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,6 +68,11 @@
       "anticipation"
     ],
     [
+      "leader",
+      3,
+      "trust"
+    ],
+    [
       "missile",
       3,
       "fear"
@@ -118,9 +123,14 @@
       "anticipation"
     ],
     [
-      "scientists",
+      "military",
       2,
-      "trust"
+      "fear"
+    ],
+    [
+      "isolation",
+      2,
+      "sadness"
     ],
     [
       "system",
@@ -263,11 +273,6 @@
       "anger"
     ],
     [
-      "secret",
-      2,
-      "trust"
-    ],
-    [
       "blue",
       2,
       "sadness"
@@ -286,6 +291,26 @@
       "warns",
       2,
       "fear"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "receiving",
+      1,
+      "surprise"
+    ],
+    [
+      "gift",
+      1,
+      "surprise"
+    ],
+    [
+      "diplomatic",
+      1,
+      "trust"
     ],
     [
       "delaying",
@@ -318,6 +343,11 @@
       "anticipation"
     ],
     [
+      "scientists",
+      1,
+      "trust"
+    ],
+    [
       "hope",
       1,
       "surprise"
@@ -346,46 +376,16 @@
       "raid",
       1,
       "anger"
-    ],
-    [
-      "assaulted",
-      1,
-      "anger"
-    ],
-    [
-      "kills",
-      1,
-      "fear"
-    ],
-    [
-      "loss",
-      1,
-      "anger"
-    ],
-    [
-      "young",
-      1,
-      "surprise"
-    ],
-    [
-      "ferocious",
-      1,
-      "anger"
-    ],
-    [
-      "criticism",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 69,
+    "trust": 70,
     "fear": 63,
     "surprise": 19,
-    "sadness": 17,
+    "sadness": 18,
     "disgust": 4,
-    "anger": 102,
+    "anger": 103,
     "anticipation": 23
   }
 }
