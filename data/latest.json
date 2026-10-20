@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:20:06.570Z",
+  "generated_at": "2026-10-20T16:35:09.637Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "police",
-      7,
-      "fear"
-    ],
-    [
       "war",
       7,
       "anger"
+    ],
+    [
+      "police",
+      6,
+      "fear"
     ],
     [
       "violent",
@@ -33,19 +33,14 @@
       "anger"
     ],
     [
-      "military",
-      5,
-      "fear"
-    ],
-    [
-      "force",
-      5,
-      "anger"
-    ],
-    [
       "government",
       4,
       "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "life",
@@ -63,9 +58,14 @@
       "trust"
     ],
     [
-      "interior",
+      "force",
+      4,
+      "anger"
+    ],
+    [
+      "military",
       3,
-      "disgust"
+      "fear"
     ],
     [
       "attempt",
@@ -76,11 +76,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "president",
-      3,
-      "trust"
     ],
     [
       "missile",
@@ -106,16 +101,6 @@
       "strike",
       3,
       "anger"
-    ],
-    [
-      "measures",
-      2,
-      "trust"
-    ],
-    [
-      "expected",
-      2,
-      "anticipation"
     ],
     [
       "criminal",
@@ -151,6 +136,11 @@
       "happened",
       2,
       "anticipation"
+    ],
+    [
+      "interior",
+      2,
+      "disgust"
     ],
     [
       "lost",
@@ -258,7 +248,47 @@
       "sadness"
     ],
     [
+      "reject",
+      1,
+      "anger"
+    ],
+    [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
+    ],
+    [
+      "result",
+      1,
+      "anticipation"
+    ],
+    [
+      "victory",
+      1,
+      "joy"
+    ],
+    [
+      "supporters",
+      1,
+      "joy"
+    ],
+    [
+      "unity",
+      1,
+      "trust"
+    ],
+    [
       "planning",
+      1,
+      "trust"
+    ],
+    [
+      "measures",
       1,
       "trust"
     ],
@@ -268,7 +298,7 @@
       "disgust"
     ],
     [
-      "approve",
+      "peace",
       1,
       "joy"
     ],
@@ -328,41 +358,6 @@
       "surprise"
     ],
     [
-      "reject",
-      1,
-      "anger"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
-    ],
-    [
-      "victory",
-      1,
-      "joy"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
-    ],
-    [
-      "unity",
-      1,
-      "trust"
-    ],
-    [
       "landmark",
       1,
       "trust"
@@ -376,16 +371,21 @@
       "reality",
       1,
       "surprise"
+    ],
+    [
+      "continuing",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 67,
-    "fear": 60,
+    "fear": 57,
     "surprise": 18,
     "sadness": 16,
-    "disgust": 6,
-    "anger": 100,
-    "anticipation": 25
+    "disgust": 5,
+    "anger": 99,
+    "anticipation": 24
   }
 }
