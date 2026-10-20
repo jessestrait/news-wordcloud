@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:50:30.169Z",
+  "generated_at": "2026-10-20T17:05:32.804Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "trust"
     ],
     [
-      "attack",
-      10,
+      "trump",
+      9,
       "anger"
     ],
     [
-      "trump",
+      "attack",
       9,
       "anger"
     ],
@@ -23,19 +23,19 @@
       "anger"
     ],
     [
-      "police",
-      6,
-      "fear"
-    ],
-    [
       "violent",
       6,
       "anger"
     ],
     [
-      "government",
-      4,
+      "police",
+      6,
       "fear"
+    ],
+    [
+      "public",
+      5,
+      "anticipation"
     ],
     [
       "president",
@@ -43,19 +43,14 @@
       "trust"
     ],
     [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "life",
       4,
       "joy"
-    ],
-    [
-      "public",
-      4,
-      "anticipation"
-    ],
-    [
-      "bank",
-      4,
-      "trust"
     ],
     [
       "force",
@@ -63,14 +58,14 @@
       "anger"
     ],
     [
+      "battle",
+      3,
+      "anger"
+    ],
+    [
       "military",
       3,
       "fear"
-    ],
-    [
-      "attempt",
-      3,
-      "anticipation"
     ],
     [
       "power",
@@ -81,6 +76,11 @@
       "missile",
       3,
       "fear"
+    ],
+    [
+      "bank",
+      3,
+      "trust"
     ],
     [
       "second",
@@ -101,6 +101,16 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "authority",
+      2,
+      "trust"
+    ],
+    [
+      "attempt",
+      2,
+      "anticipation"
     ],
     [
       "criminal",
@@ -178,11 +188,6 @@
       "anger"
     ],
     [
-      "battle",
-      2,
-      "anger"
-    ],
-    [
       "crime",
       2,
       "anger"
@@ -248,6 +253,31 @@
       "sadness"
     ],
     [
+      "peace",
+      1,
+      "joy"
+    ],
+    [
+      "policing",
+      1,
+      "fear"
+    ],
+    [
+      "officers",
+      1,
+      "trust"
+    ],
+    [
+      "repressing",
+      1,
+      "sadness"
+    ],
+    [
+      "managing",
+      1,
+      "trust"
+    ],
+    [
       "reject",
       1,
       "anger"
@@ -298,11 +328,6 @@
       "disgust"
     ],
     [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
       "fleeing",
       1,
       "fear"
@@ -351,41 +376,16 @@
       "dire",
       1,
       "fear"
-    ],
-    [
-      "humanitarian",
-      1,
-      "surprise"
-    ],
-    [
-      "landmark",
-      1,
-      "trust"
-    ],
-    [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "reality",
-      1,
-      "surprise"
-    ],
-    [
-      "continuing",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 67,
-    "fear": 57,
+    "joy": 22,
+    "trust": 69,
+    "fear": 58,
     "surprise": 18,
-    "sadness": 16,
+    "sadness": 17,
     "disgust": 5,
-    "anger": 99,
+    "anger": 98,
     "anticipation": 24
   }
 }
