@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:01:39.141Z",
+  "generated_at": "2026-10-20T10:16:41.416Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
+      "people",
+      9,
+      "trust"
+    ],
+    [
       "war",
       8,
       "anger"
-    ],
-    [
-      "people",
-      8,
-      "trust"
     ],
     [
       "police",
@@ -104,11 +104,6 @@
     ],
     [
       "fire",
-      3,
-      "fear"
-    ],
-    [
-      "operation",
       3,
       "fear"
     ],
@@ -248,19 +243,9 @@
       "trust"
     ],
     [
-      "hospital",
-      2,
-      "fear"
-    ],
-    [
       "continue",
       2,
       "trust"
-    ],
-    [
-      "cancer",
-      2,
-      "anger"
     ],
     [
       "blue",
@@ -271,6 +256,61 @@
       "protesters",
       2,
       "anger"
+    ],
+    [
+      "fleeing",
+      1,
+      "fear"
+    ],
+    [
+      "families",
+      1,
+      "joy"
+    ],
+    [
+      "cross",
+      1,
+      "anger"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
+    ],
+    [
+      "rages",
+      1,
+      "anger"
+    ],
+    [
+      "boarded",
+      1,
+      "anticipation"
+    ],
+    [
+      "escape",
+      1,
+      "fear"
+    ],
+    [
+      "gunfire",
+      1,
+      "anger"
+    ],
+    [
+      "bombing",
+      1,
+      "anger"
+    ],
+    [
+      "dire",
+      1,
+      "fear"
+    ],
+    [
+      "humanitarian",
+      1,
+      "surprise"
     ],
     [
       "suggests",
@@ -336,56 +376,16 @@
       "row",
       1,
       "anger"
-    ],
-    [
-      "noisy",
-      1,
-      "anger"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
-    ],
-    [
-      "receiving",
-      1,
-      "surprise"
-    ],
-    [
-      "gift",
-      1,
-      "surprise"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "delaying",
-      1,
-      "anger"
-    ],
-    [
-      "deliveries",
-      1,
-      "anticipation"
-    ],
-    [
-      "delayed",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 68,
-    "fear": 62,
-    "surprise": 18,
+    "joy": 22,
+    "trust": 67,
+    "fear": 61,
+    "surprise": 19,
     "sadness": 16,
     "disgust": 4,
-    "anger": 100,
-    "anticipation": 24
+    "anger": 103,
+    "anticipation": 25
   }
 }
