@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:16:41.416Z",
+  "generated_at": "2026-10-20T10:31:43.953Z",
   "article_count": 50,
   "top_words": [
     [
@@ -258,6 +258,11 @@
       "anger"
     ],
     [
+      "suggests",
+      1,
+      "trust"
+    ],
+    [
       "fleeing",
       1,
       "fear"
@@ -311,11 +316,6 @@
       "humanitarian",
       1,
       "surprise"
-    ],
-    [
-      "suggests",
-      1,
-      "trust"
     ],
     [
       "reject",
