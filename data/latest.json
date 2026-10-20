@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:33:33.280Z",
+  "generated_at": "2026-10-20T13:48:35.760Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "trust"
     ],
     [
-      "crime",
-      3,
-      "anger"
-    ],
-    [
       "attempt",
       3,
       "anticipation"
@@ -103,14 +98,19 @@
       "anger"
     ],
     [
+      "expected",
+      2,
+      "anticipation"
+    ],
+    [
       "measures",
       2,
       "trust"
     ],
     [
-      "deputy",
+      "plan",
       2,
-      "trust"
+      "anticipation"
     ],
     [
       "criminal",
@@ -203,6 +203,11 @@
       "anger"
     ],
     [
+      "crime",
+      2,
+      "anger"
+    ],
+    [
       "world",
       2,
       "trust"
@@ -268,14 +273,24 @@
       "anger"
     ],
     [
+      "massive",
+      1,
+      "anger"
+    ],
+    [
+      "addresses",
+      1,
+      "anticipation"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
       "approve",
       1,
       "joy"
-    ],
-    [
-      "committed",
-      1,
-      "trust"
     ],
     [
       "planning",
@@ -343,11 +358,6 @@
       "anger"
     ],
     [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
       "leave",
       1,
       "sadness"
@@ -366,26 +376,16 @@
       "supporters",
       1,
       "joy"
-    ],
-    [
-      "unity",
-      1,
-      "trust"
-    ],
-    [
-      "landmark",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 69,
+    "trust": 68,
     "fear": 61,
     "surprise": 18,
     "sadness": 16,
     "disgust": 4,
     "anger": 102,
-    "anticipation": 24
+    "anticipation": 27
   }
 }
