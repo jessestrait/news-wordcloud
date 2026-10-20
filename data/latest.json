@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-10-20T11:17:20.497Z",
+  "generated_at": "2026-10-20T11:32:23.258Z",
   "article_count": 50,
   "top_words": [
-    [
-      "trump",
-      10,
-      "anger"
-    ],
     [
       "attack",
       10,
@@ -18,8 +13,13 @@
       "trust"
     ],
     [
+      "trump",
+      9,
+      "anger"
+    ],
+    [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
-      "power",
-      4,
-      "anticipation"
+      "government",
+      5,
+      "fear"
     ],
     [
-      "president",
+      "violence",
       4,
-      "trust"
+      "anger"
     ],
     [
       "life",
@@ -58,11 +58,6 @@
       "trust"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "unrest",
       3,
       "fear"
@@ -73,7 +68,12 @@
       "anticipation"
     ],
     [
-      "leader",
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
+      "president",
       3,
       "trust"
     ],
@@ -83,19 +83,9 @@
       "fear"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "second",
       3,
       "trust"
-    ],
-    [
-      "violence",
-      3,
-      "anger"
     ],
     [
       "force",
@@ -126,6 +116,11 @@
       "passengers",
       2,
       "anticipation"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
     ],
     [
       "military",
@@ -181,6 +176,11 @@
       "obituary",
       2,
       "sadness"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
     ],
     [
       "accused",
@@ -259,6 +259,16 @@
     ],
     [
       "suggests",
+      1,
+      "trust"
+    ],
+    [
+      "planning",
+      1,
+      "trust"
+    ],
+    [
+      "measures",
       1,
       "trust"
     ],
@@ -366,26 +376,16 @@
       "reality",
       1,
       "surprise"
-    ],
-    [
-      "continuing",
-      1,
-      "trust"
-    ],
-    [
-      "row",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 67,
     "fear": 61,
-    "surprise": 19,
+    "surprise": 18,
     "sadness": 16,
     "disgust": 4,
-    "anger": 103,
-    "anticipation": 25
+    "anger": 101,
+    "anticipation": 24
   }
 }
