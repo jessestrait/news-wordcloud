@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-20T15:34:35.651Z",
+  "generated_at": "2026-10-20T15:49:38.169Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      10,
+      "trust"
+    ],
     [
       "attack",
       10,
       "anger"
-    ],
-    [
-      "people",
-      9,
-      "trust"
     ],
     [
       "trump",
@@ -19,7 +19,7 @@
     ],
     [
       "police",
-      8,
+      7,
       "fear"
     ],
     [
@@ -33,12 +33,12 @@
       "anger"
     ],
     [
-      "government",
-      5,
+      "military",
+      4,
       "fear"
     ],
     [
-      "military",
+      "government",
       4,
       "fear"
     ],
@@ -168,11 +168,6 @@
       "fear"
     ],
     [
-      "school",
-      2,
-      "trust"
-    ],
-    [
       "housing",
       2,
       "joy"
@@ -263,9 +258,9 @@
       "sadness"
     ],
     [
-      "protesters",
-      2,
-      "anger"
+      "media",
+      1,
+      "disgust"
     ],
     [
       "approve",
@@ -376,16 +371,21 @@
       "warning",
       1,
       "fear"
+    ],
+    [
+      "reality",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 67,
-    "fear": 63,
+    "fear": 59,
     "surprise": 18,
     "sadness": 16,
-    "disgust": 5,
-    "anger": 102,
+    "disgust": 6,
+    "anger": 100,
     "anticipation": 25
   }
 }
