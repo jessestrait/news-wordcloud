@@ -1,20 +1,15 @@
 {
-  "generated_at": "2026-10-20T17:35:56.805Z",
+  "generated_at": "2026-10-20T17:50:59.158Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      10,
+      11,
       "trust"
     ],
     [
-      "trump",
-      9,
-      "anger"
-    ],
-    [
       "attack",
-      9,
+      10,
       "anger"
     ],
     [
@@ -23,9 +18,19 @@
       "anger"
     ],
     [
+      "trump",
+      7,
+      "anger"
+    ],
+    [
       "violent",
       6,
       "anger"
+    ],
+    [
+      "police",
+      5,
+      "fear"
     ],
     [
       "public",
@@ -53,11 +58,6 @@
       "joy"
     ],
     [
-      "police",
-      4,
-      "fear"
-    ],
-    [
       "force",
       4,
       "anger"
@@ -71,11 +71,6 @@
       "leader",
       3,
       "trust"
-    ],
-    [
-      "battle",
-      3,
-      "anger"
     ],
     [
       "military",
@@ -124,11 +119,6 @@
     ],
     [
       "parish",
-      2,
-      "trust"
-    ],
-    [
-      "authority",
       2,
       "trust"
     ],
@@ -213,6 +203,11 @@
       "anger"
     ],
     [
+      "battle",
+      2,
+      "anger"
+    ],
+    [
       "crime",
       2,
       "anger"
@@ -268,6 +263,26 @@
       "trust"
     ],
     [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
+      "escalating",
+      1,
+      "anger"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
+      "anxiety",
+      1,
+      "anger"
+    ],
+    [
       "thankful",
       1,
       "joy"
@@ -308,22 +323,17 @@
       "joy"
     ],
     [
-      "policing",
-      1,
-      "fear"
-    ],
-    [
       "officers",
       1,
       "trust"
     ],
     [
-      "repressing",
+      "repress",
       1,
       "sadness"
     ],
     [
-      "managing",
+      "manage",
       1,
       "trust"
     ],
@@ -366,26 +376,16 @@
       "measures",
       1,
       "trust"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "fleeing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 74,
     "fear": 55,
-    "surprise": 19,
-    "sadness": 15,
+    "surprise": 18,
+    "sadness": 16,
     "disgust": 5,
-    "anger": 95,
+    "anger": 96,
     "anticipation": 27
   }
 }
