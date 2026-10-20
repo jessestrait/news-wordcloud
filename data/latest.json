@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-20T05:44:18.703Z",
+  "generated_at": "2026-10-20T05:59:21.059Z",
   "article_count": 50,
   "top_words": [
     [
-      "war",
+      "trump",
       9,
       "anger"
     ],
     [
-      "trump",
-      9,
+      "war",
+      8,
       "anger"
     ],
     [
@@ -34,7 +34,7 @@
     ],
     [
       "president",
-      5,
+      4,
       "trust"
     ],
     [
@@ -118,8 +118,8 @@
       "anger"
     ],
     [
-      "building",
-      3,
+      "passengers",
+      2,
       "anticipation"
     ],
     [
@@ -288,9 +288,39 @@
       "anticipation"
     ],
     [
-      "warns",
-      2,
-      "fear"
+      "reject",
+      1,
+      "anger"
+    ],
+    [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
+    ],
+    [
+      "victory",
+      1,
+      "joy"
+    ],
+    [
+      "supporters",
+      1,
+      "joy"
+    ],
+    [
+      "unity",
+      1,
+      "trust"
+    ],
+    [
+      "noisy",
+      1,
+      "anger"
     ],
     [
       "ousted",
@@ -346,46 +376,16 @@
       "scientists",
       1,
       "trust"
-    ],
-    [
-      "hope",
-      1,
-      "surprise"
-    ],
-    [
-      "earth",
-      1,
-      "surprise"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "blames",
-      1,
-      "anger"
-    ],
-    [
-      "vows",
-      1,
-      "joy"
-    ],
-    [
-      "raid",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 70,
-    "fear": 63,
+    "joy": 25,
+    "trust": 68,
+    "fear": 62,
     "surprise": 19,
-    "sadness": 18,
+    "sadness": 19,
     "disgust": 4,
-    "anger": 103,
-    "anticipation": 23
+    "anger": 104,
+    "anticipation": 22
   }
 }
