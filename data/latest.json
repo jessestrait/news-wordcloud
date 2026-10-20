@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:45:02.312Z",
+  "generated_at": "2026-10-20T07:00:04.297Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "anger"
     ],
     [
+      "power",
+      4,
+      "anticipation"
+    ],
+    [
       "president",
       4,
       "trust"
@@ -61,11 +66,6 @@
       "force",
       4,
       "anger"
-    ],
-    [
-      "power",
-      4,
-      "anticipation"
     ],
     [
       "leader",
@@ -288,6 +288,26 @@
       "anticipation"
     ],
     [
+      "warning",
+      1,
+      "fear"
+    ],
+    [
+      "reality",
+      1,
+      "surprise"
+    ],
+    [
+      "continuing",
+      1,
+      "trust"
+    ],
+    [
+      "row",
+      1,
+      "anger"
+    ],
+    [
       "reject",
       1,
       "anger"
@@ -356,26 +376,6 @@
       "delayed",
       1,
       "anger"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
-      "chance",
-      1,
-      "surprise"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "scientists",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
