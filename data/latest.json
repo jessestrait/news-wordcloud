@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:21:51.072Z",
+  "generated_at": "2026-10-20T19:36:54.620Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      10,
+      11,
       "anger"
     ],
     [
@@ -33,14 +33,24 @@
       "anger"
     ],
     [
+      "missile",
+      5,
+      "fear"
+    ],
+    [
       "public",
       5,
       "anticipation"
     ],
     [
-      "missile",
+      "strikes",
       4,
-      "fear"
+      "anger"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "church",
@@ -58,9 +68,9 @@
       "anger"
     ],
     [
-      "strikes",
+      "intelligence",
       3,
-      "anger"
+      "fear"
     ],
     [
       "happened",
@@ -78,16 +88,6 @@
       "fear"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "life",
       3,
       "joy"
@@ -103,14 +103,14 @@
       "trust"
     ],
     [
+      "sharing",
+      2,
+      "joy"
+    ],
+    [
       "center",
       2,
       "trust"
-    ],
-    [
-      "intelligence",
-      2,
-      "fear"
     ],
     [
       "trade",
@@ -151,6 +151,16 @@
       "case",
       2,
       "fear"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "isolation",
@@ -228,16 +238,6 @@
       "fear"
     ],
     [
-      "polls",
-      2,
-      "trust"
-    ],
-    [
-      "vote",
-      2,
-      "anger"
-    ],
-    [
       "killed",
       2,
       "fear"
@@ -263,12 +263,27 @@
       "trust"
     ],
     [
+      "advance",
+      1,
+      "fear"
+    ],
+    [
+      "white",
+      1,
+      "joy"
+    ],
+    [
+      "house",
+      1,
+      "joy"
+    ],
+    [
       "raided",
       1,
       "anger"
     ],
     [
-      "seized",
+      "seize",
       1,
       "fear"
     ],
@@ -361,31 +376,16 @@
       "leave",
       1,
       "sadness"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
-    ],
-    [
-      "victory",
-      1,
-      "joy"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 29,
     "trust": 74,
-    "fear": 58,
+    "fear": 62,
     "surprise": 18,
     "sadness": 15,
     "disgust": 5,
     "anger": 97,
-    "anticipation": 28
+    "anticipation": 25
   }
 }
