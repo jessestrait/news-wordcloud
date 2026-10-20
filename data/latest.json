@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:03:38.341Z",
+  "generated_at": "2026-10-20T14:18:41.928Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "fear"
     ],
     [
+      "military",
+      4,
+      "fear"
+    ],
+    [
       "violence",
       4,
       "anger"
@@ -56,6 +61,16 @@
       "bank",
       4,
       "trust"
+    ],
+    [
+      "force",
+      4,
+      "anger"
+    ],
+    [
+      "interior",
+      3,
+      "disgust"
     ],
     [
       "attempt",
@@ -83,11 +98,6 @@
       "trust"
     ],
     [
-      "force",
-      3,
-      "anger"
-    ],
-    [
       "fire",
       3,
       "fear"
@@ -106,11 +116,6 @@
       "measures",
       2,
       "trust"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "criminal",
@@ -133,11 +138,6 @@
       "trust"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "isolation",
       2,
       "sadness"
@@ -151,11 +151,6 @@
       "happened",
       2,
       "anticipation"
-    ],
-    [
-      "interior",
-      2,
-      "disgust"
     ],
     [
       "lost",
@@ -273,21 +268,6 @@
       "anger"
     ],
     [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
-      "addresses",
-      1,
-      "anticipation"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
       "approve",
       1,
       "joy"
@@ -358,6 +338,11 @@
       "anger"
     ],
     [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
       "leave",
       1,
       "sadness"
@@ -376,16 +361,31 @@
       "supporters",
       1,
       "joy"
+    ],
+    [
+      "unity",
+      1,
+      "trust"
+    ],
+    [
+      "landmark",
+      1,
+      "trust"
+    ],
+    [
+      "warning",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 68,
-    "fear": 61,
+    "trust": 67,
+    "fear": 63,
     "surprise": 18,
     "sadness": 16,
-    "disgust": 4,
+    "disgust": 5,
     "anger": 102,
-    "anticipation": 27
+    "anticipation": 25
   }
 }
