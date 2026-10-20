@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:23:48.224Z",
+  "generated_at": "2026-10-20T21:38:50.723Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "anticipation"
     ],
     [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "strikes",
       4,
       "anger"
@@ -58,14 +63,14 @@
       "joy"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "force",
       4,
       "anger"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "intelligence",
@@ -81,11 +86,6 @@
       "leader",
       3,
       "trust"
-    ],
-    [
-      "military",
-      3,
-      "fear"
     ],
     [
       "life",
@@ -263,6 +263,16 @@
       "trust"
     ],
     [
+      "planning",
+      1,
+      "trust"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
       "advance",
       1,
       "fear"
@@ -366,16 +376,6 @@
       "manage",
       1,
       "trust"
-    ],
-    [
-      "reject",
-      1,
-      "anger"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
