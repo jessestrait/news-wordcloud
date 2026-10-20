@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:05:03.857Z",
+  "generated_at": "2026-10-20T16:20:06.570Z",
   "article_count": 50,
   "top_words": [
     [
@@ -34,18 +34,18 @@
     ],
     [
       "military",
-      4,
+      5,
       "fear"
+    ],
+    [
+      "force",
+      5,
+      "anger"
     ],
     [
       "government",
       4,
       "fear"
-    ],
-    [
-      "violence",
-      4,
-      "anger"
     ],
     [
       "life",
@@ -61,11 +61,6 @@
       "bank",
       4,
       "trust"
-    ],
-    [
-      "force",
-      4,
-      "anger"
     ],
     [
       "interior",
@@ -98,6 +93,11 @@
       "trust"
     ],
     [
+      "violence",
+      3,
+      "anger"
+    ],
+    [
       "fire",
       3,
       "fear"
@@ -108,14 +108,14 @@
       "anger"
     ],
     [
-      "expected",
-      2,
-      "anticipation"
-    ],
-    [
       "measures",
       2,
       "trust"
+    ],
+    [
+      "expected",
+      2,
+      "anticipation"
     ],
     [
       "criminal",
@@ -258,6 +258,11 @@
       "sadness"
     ],
     [
+      "planning",
+      1,
+      "trust"
+    ],
+    [
       "media",
       1,
       "disgust"
@@ -266,11 +271,6 @@
       "approve",
       1,
       "joy"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
     ],
     [
       "fleeing",
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 23,
     "trust": 67,
-    "fear": 59,
+    "fear": 60,
     "surprise": 18,
     "sadness": 16,
     "disgust": 6,
