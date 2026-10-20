@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-10-20T03:13:07.616Z",
+  "generated_at": "2026-10-20T03:28:10.061Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      9,
+      "anger"
+    ],
     [
       "trump",
       9,
@@ -14,11 +19,6 @@
     ],
     [
       "attack",
-      8,
-      "anger"
-    ],
-    [
-      "war",
       8,
       "anger"
     ],
@@ -66,6 +66,11 @@
       "power",
       4,
       "anticipation"
+    ],
+    [
+      "missile",
+      3,
+      "fear"
     ],
     [
       "hit",
@@ -148,6 +153,11 @@
       "trust"
     ],
     [
+      "housing",
+      2,
+      "joy"
+    ],
+    [
       "obituary",
       2,
       "sadness"
@@ -161,11 +171,6 @@
       "accused",
       2,
       "anger"
-    ],
-    [
-      "surprise",
-      2,
-      "fear"
     ],
     [
       "brothers",
@@ -216,16 +221,6 @@
       "vote",
       2,
       "anger"
-    ],
-    [
-      "military",
-      2,
-      "fear"
-    ],
-    [
-      "tragedies",
-      2,
-      "fear"
     ],
     [
       "officials",
@@ -293,6 +288,26 @@
       "fear"
     ],
     [
+      "delaying",
+      1,
+      "anger"
+    ],
+    [
+      "deliveries",
+      1,
+      "anticipation"
+    ],
+    [
+      "delayed",
+      1,
+      "anger"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
       "chance",
       1,
       "surprise"
@@ -353,16 +368,6 @@
       "surprise"
     ],
     [
-      "missile",
-      1,
-      "fear"
-    ],
-    [
-      "housing",
-      1,
-      "joy"
-    ],
-    [
       "ferocious",
       1,
       "anger"
@@ -371,21 +376,16 @@
       "criticism",
       1,
       "anger"
-    ],
-    [
-      "isolation",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 70,
-    "fear": 65,
+    "joy": 24,
+    "trust": 69,
+    "fear": 63,
     "surprise": 19,
-    "sadness": 18,
-    "disgust": 5,
-    "anger": 98,
-    "anticipation": 22
+    "sadness": 17,
+    "disgust": 4,
+    "anger": 102,
+    "anticipation": 23
   }
 }
