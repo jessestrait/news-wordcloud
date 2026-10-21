@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-21T11:46:19.796Z",
+  "generated_at": "2026-10-21T12:01:22.265Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      10,
+      9,
       "trust"
     ],
     [
@@ -18,24 +18,19 @@
       "anger"
     ],
     [
+      "trump",
+      7,
+      "anger"
+    ],
+    [
       "public",
       7,
       "anticipation"
     ],
     [
-      "trump",
-      6,
-      "anger"
-    ],
-    [
       "police",
       6,
       "fear"
-    ],
-    [
-      "violent",
-      6,
-      "anger"
     ],
     [
       "government",
@@ -58,6 +53,11 @@
       "fear"
     ],
     [
+      "violent",
+      5,
+      "anger"
+    ],
+    [
       "battle",
       4,
       "anger"
@@ -71,11 +71,6 @@
       "church",
       4,
       "joy"
-    ],
-    [
-      "force",
-      4,
-      "anger"
     ],
     [
       "riots",
@@ -103,9 +98,14 @@
       "trust"
     ],
     [
-      "military",
+      "force",
       3,
-      "fear"
+      "anger"
+    ],
+    [
+      "humanitarian",
+      2,
+      "surprise"
     ],
     [
       "watch",
@@ -151,6 +151,11 @@
       "manage",
       2,
       "trust"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "intelligence",
@@ -223,19 +228,19 @@
       "joy"
     ],
     [
-      "wearing",
+      "jailed",
       1,
-      "trust"
+      "fear"
     ],
     [
-      "visitors",
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "praises",
       1,
       "joy"
-    ],
-    [
-      "guided",
-      1,
-      "trust"
     ],
     [
       "blasts",
@@ -256,6 +261,21 @@
       "manipulation",
       1,
       "anger"
+    ],
+    [
+      "wearing",
+      1,
+      "trust"
+    ],
+    [
+      "visitors",
+      1,
+      "joy"
+    ],
+    [
+      "guided",
+      1,
+      "trust"
     ],
     [
       "powerful",
@@ -356,36 +376,16 @@
       "politics",
       1,
       "anger"
-    ],
-    [
-      "friends",
-      1,
-      "joy"
-    ],
-    [
-      "home",
-      1,
-      "joy"
-    ],
-    [
-      "progress",
-      1,
-      "joy"
-    ],
-    [
-      "engaging",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 66,
-    "fear": 56,
-    "surprise": 16,
-    "sadness": 14,
-    "disgust": 3,
-    "anger": 107,
+    "joy": 32,
+    "trust": 64,
+    "fear": 53,
+    "surprise": 17,
+    "sadness": 15,
+    "disgust": 2,
+    "anger": 105,
     "anticipation": 25
   }
 }
