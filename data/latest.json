@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:17:40.807Z",
+  "generated_at": "2026-10-21T14:32:43.797Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "public",
-      8,
-      "anticipation"
-    ],
-    [
       "war",
       8,
       "anger"
+    ],
+    [
+      "public",
+      7,
+      "anticipation"
     ],
     [
       "police",
@@ -60,6 +60,11 @@
     [
       "church",
       4,
+      "joy"
+    ],
+    [
+      "food",
+      3,
       "joy"
     ],
     [
@@ -121,6 +126,11 @@
       "blasts",
       2,
       "anger"
+    ],
+    [
+      "advance",
+      2,
+      "fear"
     ],
     [
       "volunteers",
@@ -228,11 +238,6 @@
       "joy"
     ],
     [
-      "food",
-      2,
-      "joy"
-    ],
-    [
       "teachers",
       1,
       "trust"
@@ -241,6 +246,31 @@
       "servants",
       1,
       "trust"
+    ],
+    [
+      "verge",
+      1,
+      "fear"
+    ],
+    [
+      "unmanageable",
+      1,
+      "disgust"
+    ],
+    [
+      "warn",
+      1,
+      "fear"
+    ],
+    [
+      "fighting",
+      1,
+      "anger"
+    ],
+    [
+      "supply",
+      1,
+      "fear"
     ],
     [
       "jailed",
@@ -346,46 +376,16 @@
       "alleged",
       1,
       "fear"
-    ],
-    [
-      "bias",
-      1,
-      "anger"
-    ],
-    [
-      "suspect",
-      1,
-      "fear"
-    ],
-    [
-      "meddling",
-      1,
-      "anger"
-    ],
-    [
-      "controversial",
-      1,
-      "anger"
-    ],
-    [
-      "cable",
-      1,
-      "surprise"
-    ],
-    [
-      "erupted",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 68,
-    "fear": 56,
-    "surprise": 17,
+    "joy": 32,
+    "trust": 66,
+    "fear": 60,
+    "surprise": 16,
     "sadness": 13,
-    "disgust": 2,
-    "anger": 101,
-    "anticipation": 26
+    "disgust": 3,
+    "anger": 102,
+    "anticipation": 25
   }
 }
