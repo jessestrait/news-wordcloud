@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-10-21T10:30:36.794Z",
+  "generated_at": "2026-10-21T10:45:38.742Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      10,
-      "anger"
-    ],
     [
       "people",
       10,
@@ -14,11 +9,11 @@
     ],
     [
       "attack",
-      10,
+      9,
       "anger"
     ],
     [
-      "trump",
+      "war",
       8,
       "anger"
     ],
@@ -26,6 +21,11 @@
       "public",
       7,
       "anticipation"
+    ],
+    [
+      "trump",
+      6,
+      "anger"
     ],
     [
       "police",
@@ -78,6 +78,11 @@
       "anger"
     ],
     [
+      "riots",
+      3,
+      "anger"
+    ],
+    [
       "warning",
       3,
       "fear"
@@ -101,6 +106,11 @@
       "military",
       3,
       "fear"
+    ],
+    [
+      "guardian",
+      2,
+      "trust"
     ],
     [
       "approved",
@@ -201,11 +211,6 @@
       "life",
       2,
       "joy"
-    ],
-    [
-      "hit",
-      2,
-      "anger"
     ],
     [
       "accused",
@@ -371,21 +376,16 @@
       "self",
       1,
       "trust"
-    ],
-    [
-      "guardians",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 65,
-    "fear": 58,
+    "trust": 66,
+    "fear": 56,
     "surprise": 16,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 3,
-    "anger": 112,
+    "anger": 107,
     "anticipation": 25
   }
 }
