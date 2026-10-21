@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:32:11.567Z",
+  "generated_at": "2026-10-21T13:47:14.768Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,14 +108,14 @@
       "anger"
     ],
     [
-      "bank",
-      2,
-      "trust"
-    ],
-    [
       "failures",
       2,
       "fear"
+    ],
+    [
+      "bank",
+      2,
+      "trust"
     ],
     [
       "humanitarian",
@@ -223,22 +223,22 @@
       "joy"
     ],
     [
-      "harvest",
-      1,
-      "joy"
-    ],
-    [
-      "volunteers",
-      1,
-      "trust"
-    ],
-    [
       "teachers",
       1,
       "trust"
     ],
     [
       "servants",
+      1,
+      "trust"
+    ],
+    [
+      "harvest",
+      1,
+      "joy"
+    ],
+    [
+      "volunteers",
       1,
       "trust"
     ],
