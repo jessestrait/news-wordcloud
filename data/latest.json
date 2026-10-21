@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-21T07:44:22.710Z",
+  "generated_at": "2026-10-21T07:59:24.508Z",
   "article_count": 50,
   "top_words": [
-    [
-      "people",
-      11,
-      "trust"
-    ],
     [
       "attack",
       11,
       "anger"
     ],
     [
+      "people",
+      10,
+      "trust"
+    ],
+    [
       "trump",
-      8,
+      7,
       "anger"
     ],
     [
@@ -58,11 +58,6 @@
       "anger"
     ],
     [
-      "strikes",
-      4,
-      "anger"
-    ],
-    [
       "church",
       4,
       "joy"
@@ -73,19 +68,14 @@
       "anger"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "military",
       3,
       "fear"
     ],
     [
-      "intelligence",
+      "strikes",
       3,
-      "fear"
+      "anger"
     ],
     [
       "leader",
@@ -100,6 +90,11 @@
     [
       "second",
       3,
+      "trust"
+    ],
+    [
+      "official",
+      2,
       "trust"
     ],
     [
@@ -123,6 +118,11 @@
       "joy"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "lose",
       2,
       "anger"
@@ -133,9 +133,9 @@
       "fear"
     ],
     [
-      "sharing",
+      "intelligence",
       2,
-      "joy"
+      "fear"
     ],
     [
       "center",
@@ -146,11 +146,6 @@
       "happened",
       2,
       "anticipation"
-    ],
-    [
-      "trade",
-      2,
-      "trust"
     ],
     [
       "letter",
@@ -213,11 +208,6 @@
       "fear"
     ],
     [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
       "hit",
       2,
       "anger"
@@ -243,11 +233,6 @@
       "fear"
     ],
     [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "failure",
       2,
       "fear"
@@ -264,11 +249,6 @@
     ],
     [
       "calls",
-      2,
-      "trust"
-    ],
-    [
-      "continue",
       2,
       "trust"
     ],
@@ -358,6 +338,11 @@
       "trust"
     ],
     [
+      "sharing",
+      1,
+      "joy"
+    ],
+    [
       "advance",
       1,
       "fear"
@@ -376,16 +361,31 @@
       "raided",
       1,
       "anger"
+    ],
+    [
+      "seize",
+      1,
+      "fear"
+    ],
+    [
+      "dispute",
+      1,
+      "anger"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 76,
-    "fear": 64,
+    "joy": 28,
+    "trust": 74,
+    "fear": 61,
     "surprise": 16,
     "sadness": 16,
     "disgust": 4,
-    "anger": 101,
-    "anticipation": 24
+    "anger": 99,
+    "anticipation": 23
   }
 }
