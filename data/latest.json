@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:03:09.213Z",
+  "generated_at": "2026-10-21T15:18:12.022Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
       "police",
       7,
       "fear"
+    ],
+    [
+      "president",
+      6,
+      "trust"
     ],
     [
       "public",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 64,
+    "trust": 63,
     "fear": 61,
     "surprise": 14,
     "sadness": 11,
