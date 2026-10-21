@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:29:44.407Z",
+  "generated_at": "2026-10-21T08:44:47.034Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,6 +93,11 @@
       "trust"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "official",
       2,
       "trust"
@@ -116,11 +121,6 @@
       "family",
       2,
       "joy"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "lose",
@@ -253,6 +253,21 @@
       "trust"
     ],
     [
+      "challenging",
+      1,
+      "anger"
+    ],
+    [
+      "ruling",
+      1,
+      "fear"
+    ],
+    [
+      "experiment",
+      1,
+      "surprise"
+    ],
+    [
       "middle",
       1,
       "sadness"
@@ -281,21 +296,6 @@
       "meddling",
       1,
       "anger"
-    ],
-    [
-      "challenging",
-      1,
-      "anger"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "experiment",
-      1,
-      "surprise"
     ],
     [
       "controversial",
