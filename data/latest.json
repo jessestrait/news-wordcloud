@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-10-21T10:00:32.819Z",
+  "generated_at": "2026-10-21T10:15:34.779Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      10,
+      "anger"
+    ],
     [
       "people",
       10,
@@ -9,11 +14,11 @@
     ],
     [
       "attack",
-      9,
+      10,
       "anger"
     ],
     [
-      "war",
+      "trump",
       8,
       "anger"
     ],
@@ -21,16 +26,6 @@
       "public",
       7,
       "anticipation"
-    ],
-    [
-      "government",
-      6,
-      "fear"
-    ],
-    [
-      "trump",
-      6,
-      "anger"
     ],
     [
       "police",
@@ -41,6 +36,11 @@
       "violent",
       6,
       "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "president",
@@ -78,11 +78,6 @@
       "fear"
     ],
     [
-      "opposition",
-      3,
-      "anger"
-    ],
-    [
       "power",
       3,
       "anticipation"
@@ -113,14 +108,14 @@
       "trust"
     ],
     [
-      "victory",
+      "approved",
       2,
       "joy"
     ],
     [
-      "approved",
+      "opposition",
       2,
-      "joy"
+      "anger"
     ],
     [
       "supporters",
@@ -213,6 +208,11 @@
       "joy"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "accused",
       2,
       "anger"
@@ -256,36 +256,6 @@
       "discontent",
       1,
       "anger"
-    ],
-    [
-      "disastrous",
-      1,
-      "anger"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
-    ],
-    [
-      "heal",
-      1,
-      "joy"
-    ],
-    [
-      "establish",
-      1,
-      "trust"
-    ],
-    [
-      "based",
-      1,
-      "trust"
-    ],
-    [
-      "analyst",
-      1,
-      "trust"
     ],
     [
       "challenging",
@@ -376,16 +346,46 @@
       "dark",
       1,
       "sadness"
+    ],
+    [
+      "self",
+      1,
+      "trust"
+    ],
+    [
+      "guardians",
+      1,
+      "trust"
+    ],
+    [
+      "wearing",
+      1,
+      "trust"
+    ],
+    [
+      "visitors",
+      1,
+      "joy"
+    ],
+    [
+      "planning",
+      1,
+      "trust"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 68,
-    "fear": 57,
+    "joy": 31,
+    "trust": 65,
+    "fear": 58,
     "surprise": 16,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 3,
-    "anger": 104,
-    "anticipation": 26
+    "anger": 109,
+    "anticipation": 25
   }
 }
