@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-10-21T16:03:58.043Z",
+  "generated_at": "2026-10-21T16:19:00.844Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       9,
-      "anger"
-    ],
-    [
-      "trump",
-      8,
       "anger"
     ],
     [
@@ -23,14 +18,14 @@
       "trust"
     ],
     [
+      "trump",
+      7,
+      "anger"
+    ],
+    [
       "leader",
       7,
       "trust"
-    ],
-    [
-      "government",
-      6,
-      "fear"
     ],
     [
       "public",
@@ -45,6 +40,11 @@
     [
       "police",
       6,
+      "fear"
+    ],
+    [
+      "government",
+      5,
       "fear"
     ],
     [
@@ -91,11 +91,6 @@
       "kills",
       3,
       "fear"
-    ],
-    [
-      "violent",
-      3,
-      "anger"
     ],
     [
       "criminal",
@@ -223,6 +218,11 @@
       "trust"
     ],
     [
+      "violent",
+      2,
+      "anger"
+    ],
+    [
       "plan",
       2,
       "anticipation"
@@ -246,6 +246,16 @@
       "life",
       2,
       "joy"
+    ],
+    [
+      "defendants",
+      1,
+      "anger"
+    ],
+    [
+      "injure",
+      1,
+      "anger"
     ],
     [
       "court",
@@ -366,26 +376,16 @@
       "anti",
       1,
       "anger"
-    ],
-    [
-      "looming",
-      1,
-      "fear"
-    ],
-    [
-      "precious",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 62,
-    "fear": 61,
+    "joy": 30,
+    "trust": 61,
+    "fear": 58,
     "surprise": 14,
     "sadness": 11,
     "disgust": 4,
-    "anger": 100,
+    "anger": 99,
     "anticipation": 27
   }
 }
