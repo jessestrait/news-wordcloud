@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-21T08:44:47.034Z",
+  "generated_at": "2026-10-21T08:59:49.579Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
-      11,
+      "war",
+      10,
       "anger"
     ],
     [
@@ -13,8 +13,13 @@
       "trust"
     ],
     [
+      "attack",
+      10,
+      "anger"
+    ],
+    [
       "trump",
-      7,
+      8,
       "anger"
     ],
     [
@@ -23,9 +28,9 @@
       "fear"
     ],
     [
-      "war",
-      7,
-      "anger"
+      "public",
+      6,
+      "anticipation"
     ],
     [
       "violent",
@@ -43,14 +48,14 @@
       "trust"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
       "missile",
       5,
       "fear"
-    ],
-    [
-      "public",
-      5,
-      "anticipation"
     ],
     [
       "battle",
@@ -68,24 +73,19 @@
       "anger"
     ],
     [
-      "military",
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
+      "official",
+      3,
+      "trust"
+    ],
+    [
+      "kills",
       3,
       "fear"
-    ],
-    [
-      "strikes",
-      3,
-      "anger"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
-      "bank",
-      3,
-      "trust"
     ],
     [
       "second",
@@ -93,13 +93,13 @@
       "trust"
     ],
     [
-      "power",
-      2,
-      "anticipation"
+      "military",
+      3,
+      "fear"
     ],
     [
-      "official",
-      2,
+      "leader",
+      3,
       "trust"
     ],
     [
@@ -126,6 +126,16 @@
       "lose",
       2,
       "anger"
+    ],
+    [
+      "dominated",
+      2,
+      "anger"
+    ],
+    [
+      "manage",
+      2,
+      "trust"
     ],
     [
       "watch",
@@ -168,11 +178,6 @@
       "anticipation"
     ],
     [
-      "attempt",
-      2,
-      "anticipation"
-    ],
-    [
       "case",
       2,
       "fear"
@@ -203,11 +208,6 @@
       "joy"
     ],
     [
-      "kills",
-      2,
-      "fear"
-    ],
-    [
       "hit",
       2,
       "anger"
@@ -236,21 +236,6 @@
       "failure",
       2,
       "fear"
-    ],
-    [
-      "guardian",
-      2,
-      "trust"
-    ],
-    [
-      "law",
-      2,
-      "trust"
-    ],
-    [
-      "calls",
-      2,
-      "trust"
     ],
     [
       "challenging",
@@ -308,12 +293,47 @@
       "surprise"
     ],
     [
+      "erupted",
+      1,
+      "anger"
+    ],
+    [
+      "politics",
+      1,
+      "anger"
+    ],
+    [
+      "friends",
+      1,
+      "joy"
+    ],
+    [
+      "home",
+      1,
+      "joy"
+    ],
+    [
+      "progress",
+      1,
+      "joy"
+    ],
+    [
+      "engaging",
+      1,
+      "joy"
+    ],
+    [
       "dark",
       1,
       "sadness"
     ],
     [
       "self",
+      1,
+      "trust"
+    ],
+    [
+      "guardians",
       1,
       "trust"
     ],
@@ -356,36 +376,16 @@
       "house",
       1,
       "joy"
-    ],
-    [
-      "raided",
-      1,
-      "anger"
-    ],
-    [
-      "seize",
-      1,
-      "fear"
-    ],
-    [
-      "dispute",
-      1,
-      "anger"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 74,
-    "fear": 61,
+    "joy": 31,
+    "trust": 65,
+    "fear": 59,
     "surprise": 16,
-    "sadness": 16,
-    "disgust": 4,
-    "anger": 99,
-    "anticipation": 23
+    "sadness": 15,
+    "disgust": 3,
+    "anger": 106,
+    "anticipation": 24
   }
 }
