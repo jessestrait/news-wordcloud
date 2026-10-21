@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:34:52.844Z",
+  "generated_at": "2026-10-21T17:49:55.002Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,18 +9,13 @@
     ],
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
       "leader",
       7,
       "trust"
-    ],
-    [
-      "attack",
-      7,
-      "anger"
     ],
     [
       "trump",
@@ -43,6 +38,11 @@
       "fear"
     ],
     [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
       "government",
       5,
       "fear"
@@ -61,6 +61,11 @@
       "church",
       4,
       "joy"
+    ],
+    [
+      "obituary",
+      3,
+      "sadness"
     ],
     [
       "letter",
@@ -96,16 +101,6 @@
       "controversial",
       2,
       "anger"
-    ],
-    [
-      "obituary",
-      2,
-      "sadness"
-    ],
-    [
-      "good",
-      2,
-      "surprise"
     ],
     [
       "criminal",
@@ -243,6 +238,16 @@
       "joy"
     ],
     [
+      "john",
+      1,
+      "disgust"
+    ],
+    [
+      "director",
+      1,
+      "trust"
+    ],
+    [
       "global",
       1,
       "anticipation"
@@ -251,6 +256,11 @@
       "pound",
       1,
       "anger"
+    ],
+    [
+      "good",
+      1,
+      "surprise"
     ],
     [
       "defendants",
@@ -366,26 +376,16 @@
       "fraudulent",
       1,
       "anger"
-    ],
-    [
-      "misleading",
-      1,
-      "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
     "trust": 59,
-    "fear": 54,
-    "surprise": 15,
-    "sadness": 12,
-    "disgust": 4,
-    "anger": 97,
-    "anticipation": 29
+    "fear": 52,
+    "surprise": 14,
+    "sadness": 13,
+    "disgust": 5,
+    "anger": 95,
+    "anticipation": 28
   }
 }
