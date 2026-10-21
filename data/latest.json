@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:33:31.882Z",
+  "generated_at": "2026-10-21T15:48:33.965Z",
   "article_count": 50,
   "top_words": [
     [
@@ -61,6 +61,11 @@
       "church",
       4,
       "joy"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "military",
@@ -201,11 +206,6 @@
       "center",
       2,
       "trust"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "letter",
@@ -386,6 +386,6 @@
     "sadness": 11,
     "disgust": 4,
     "anger": 100,
-    "anticipation": 26
+    "anticipation": 27
   }
 }
