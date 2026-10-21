@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:31:17.357Z",
+  "generated_at": "2026-10-21T11:46:19.796Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,11 @@
       "fear"
     ],
     [
+      "watch",
+      2,
+      "fear"
+    ],
+    [
       "guardian",
       2,
       "trust"
@@ -146,11 +151,6 @@
       "manage",
       2,
       "trust"
-    ],
-    [
-      "watch",
-      2,
-      "fear"
     ],
     [
       "intelligence",
@@ -221,6 +221,21 @@
       "food",
       2,
       "joy"
+    ],
+    [
+      "wearing",
+      1,
+      "trust"
+    ],
+    [
+      "visitors",
+      1,
+      "joy"
+    ],
+    [
+      "guided",
+      1,
+      "trust"
     ],
     [
       "blasts",
@@ -361,21 +376,6 @@
       "engaging",
       1,
       "joy"
-    ],
-    [
-      "official",
-      1,
-      "trust"
-    ],
-    [
-      "dark",
-      1,
-      "sadness"
-    ],
-    [
-      "self",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
@@ -383,7 +383,7 @@
     "trust": 66,
     "fear": 56,
     "surprise": 16,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 3,
     "anger": 107,
     "anticipation": 25
