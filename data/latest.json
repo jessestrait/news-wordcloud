@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-10-21T08:59:49.579Z",
+  "generated_at": "2026-10-21T09:14:52.181Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      10,
-      "anger"
-    ],
     [
       "people",
       10,
@@ -14,33 +9,38 @@
     ],
     [
       "attack",
-      10,
+      9,
       "anger"
     ],
     [
-      "trump",
+      "war",
       8,
       "anger"
     ],
     [
-      "police",
+      "public",
       7,
+      "anticipation"
+    ],
+    [
+      "government",
+      6,
       "fear"
     ],
     [
-      "public",
+      "trump",
       6,
-      "anticipation"
+      "anger"
+    ],
+    [
+      "police",
+      6,
+      "fear"
     ],
     [
       "violent",
       6,
       "anger"
-    ],
-    [
-      "government",
-      5,
-      "fear"
     ],
     [
       "president",
@@ -73,14 +73,19 @@
       "anger"
     ],
     [
+      "warning",
+      3,
+      "fear"
+    ],
+    [
+      "opposition",
+      3,
+      "anger"
+    ],
+    [
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "official",
-      3,
-      "trust"
     ],
     [
       "kills",
@@ -103,14 +108,19 @@
       "trust"
     ],
     [
-      "approved",
+      "victory",
       2,
       "joy"
     ],
     [
-      "opposition",
+      "official",
       2,
-      "anger"
+      "trust"
+    ],
+    [
+      "approved",
+      2,
+      "joy"
     ],
     [
       "supporters",
@@ -183,11 +193,6 @@
       "fear"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "isolation",
       2,
       "sadness"
@@ -208,17 +213,7 @@
       "joy"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "accused",
-      2,
-      "anger"
-    ],
-    [
-      "violence",
       2,
       "anger"
     ],
@@ -228,14 +223,69 @@
       "joy"
     ],
     [
-      "unrest",
-      2,
+      "powerful",
+      1,
+      "anger"
+    ],
+    [
+      "angry",
+      1,
+      "anger"
+    ],
+    [
+      "real",
+      1,
+      "trust"
+    ],
+    [
+      "change",
+      1,
       "fear"
     ],
     [
-      "failure",
-      2,
-      "fear"
+      "furious",
+      1,
+      "anger"
+    ],
+    [
+      "demands",
+      1,
+      "anger"
+    ],
+    [
+      "discontent",
+      1,
+      "anger"
+    ],
+    [
+      "disastrous",
+      1,
+      "anger"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
+      "heal",
+      1,
+      "joy"
+    ],
+    [
+      "establish",
+      1,
+      "trust"
+    ],
+    [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "analyst",
+      1,
+      "trust"
     ],
     [
       "challenging",
@@ -326,66 +376,16 @@
       "dark",
       1,
       "sadness"
-    ],
-    [
-      "self",
-      1,
-      "trust"
-    ],
-    [
-      "guardians",
-      1,
-      "trust"
-    ],
-    [
-      "wearing",
-      1,
-      "trust"
-    ],
-    [
-      "visitors",
-      1,
-      "joy"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
-    ],
-    [
-      "sharing",
-      1,
-      "joy"
-    ],
-    [
-      "advance",
-      1,
-      "fear"
-    ],
-    [
-      "white",
-      1,
-      "joy"
-    ],
-    [
-      "house",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 65,
-    "fear": 59,
+    "joy": 33,
+    "trust": 68,
+    "fear": 57,
     "surprise": 16,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 3,
-    "anger": 106,
-    "anticipation": 24
+    "anger": 104,
+    "anticipation": 26
   }
 }
