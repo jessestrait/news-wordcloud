@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:13:36.718Z",
+  "generated_at": "2026-10-21T06:28:38.680Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "anger"
     ],
     [
+      "government",
+      5,
+      "fear"
+    ],
+    [
       "president",
       5,
       "trust"
@@ -51,11 +56,6 @@
       "battle",
       4,
       "anger"
-    ],
-    [
-      "government",
-      4,
-      "fear"
     ],
     [
       "strikes",
@@ -101,6 +101,16 @@
       "second",
       3,
       "trust"
+    ],
+    [
+      "approved",
+      2,
+      "joy"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
     ],
     [
       "supporters",
@@ -168,11 +178,6 @@
       "anticipation"
     ],
     [
-      "criminal",
-      2,
-      "anger"
-    ],
-    [
       "case",
       2,
       "fear"
@@ -213,11 +218,6 @@
       "fear"
     ],
     [
-      "obituary",
-      2,
-      "sadness"
-    ],
-    [
       "hit",
       2,
       "anger"
@@ -229,11 +229,6 @@
     ],
     [
       "violence",
-      2,
-      "anger"
-    ],
-    [
-      "crime",
       2,
       "anger"
     ],
@@ -276,6 +271,16 @@
       "continue",
       2,
       "trust"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "fierce",
+      1,
+      "anger"
     ],
     [
       "alleged",
@@ -371,21 +376,16 @@
       "raided",
       1,
       "anger"
-    ],
-    [
-      "seize",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 29,
     "trust": 76,
     "fear": 64,
     "surprise": 16,
     "sadness": 16,
     "disgust": 4,
-    "anger": 102,
+    "anger": 101,
     "anticipation": 24
   }
 }
