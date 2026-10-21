@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:17:09.086Z",
+  "generated_at": "2026-10-21T13:32:11.567Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,24 +13,24 @@
       "anger"
     ],
     [
+      "public",
+      8,
+      "anticipation"
+    ],
+    [
       "war",
       8,
       "anger"
     ],
     [
+      "police",
+      7,
+      "fear"
+    ],
+    [
       "trump",
       7,
       "anger"
-    ],
-    [
-      "public",
-      7,
-      "anticipation"
-    ],
-    [
-      "police",
-      6,
-      "fear"
     ],
     [
       "government",
@@ -58,19 +58,14 @@
       "anger"
     ],
     [
-      "battle",
-      4,
-      "anger"
-    ],
-    [
-      "leader",
-      4,
-      "trust"
-    ],
-    [
       "church",
       4,
       "joy"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "riots",
@@ -88,6 +83,11 @@
       "anticipation"
     ],
     [
+      "battle",
+      3,
+      "anger"
+    ],
+    [
       "kills",
       3,
       "fear"
@@ -98,9 +98,24 @@
       "trust"
     ],
     [
+      "leader",
+      3,
+      "trust"
+    ],
+    [
       "force",
       3,
       "anger"
+    ],
+    [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
+      "failures",
+      2,
+      "fear"
     ],
     [
       "humanitarian",
@@ -146,11 +161,6 @@
       "manage",
       2,
       "trust"
-    ],
-    [
-      "military",
-      2,
-      "fear"
     ],
     [
       "intelligence",
@@ -203,19 +213,9 @@
       "surprise"
     ],
     [
-      "system",
-      2,
-      "trust"
-    ],
-    [
       "life",
       2,
       "joy"
-    ],
-    [
-      "accused",
-      2,
-      "anger"
     ],
     [
       "food",
@@ -223,24 +223,24 @@
       "joy"
     ],
     [
-      "blasts",
+      "harvest",
       1,
-      "anger"
+      "joy"
     ],
     [
-      "unacceptable",
+      "volunteers",
       1,
-      "sadness"
+      "trust"
     ],
     [
-      "frustrated",
+      "teachers",
       1,
-      "anger"
+      "trust"
     ],
     [
-      "manipulation",
+      "servants",
       1,
-      "anger"
+      "trust"
     ],
     [
       "jailed",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 64,
-    "fear": 53,
+    "trust": 66,
+    "fear": 56,
     "surprise": 17,
-    "sadness": 15,
+    "sadness": 13,
     "disgust": 2,
-    "anger": 105,
-    "anticipation": 25
+    "anger": 99,
+    "anticipation": 26
   }
 }
