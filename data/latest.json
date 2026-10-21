@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-10-21T14:48:05.183Z",
+  "generated_at": "2026-10-21T15:03:09.213Z",
   "article_count": 50,
   "top_words": [
-    [
-      "people",
-      9,
-      "trust"
-    ],
     [
       "attack",
       9,
@@ -23,14 +18,19 @@
       "anger"
     ],
     [
-      "police",
-      7,
-      "fear"
+      "people",
+      8,
+      "trust"
     ],
     [
       "president",
-      6,
+      7,
       "trust"
+    ],
+    [
+      "police",
+      7,
+      "fear"
     ],
     [
       "public",
@@ -68,11 +68,6 @@
       "anger"
     ],
     [
-      "food",
-      3,
-      "joy"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -93,24 +88,19 @@
       "anticipation"
     ],
     [
-      "battle",
-      3,
-      "anger"
-    ],
-    [
       "kills",
       3,
       "fear"
     ],
     [
-      "force",
-      3,
-      "anger"
-    ],
-    [
-      "unrest",
+      "abortion",
       2,
       "fear"
+    ],
+    [
+      "measures",
+      2,
+      "trust"
     ],
     [
       "failures",
@@ -123,9 +113,9 @@
       "anger"
     ],
     [
-      "violence",
+      "unrest",
       2,
-      "anger"
+      "fear"
     ],
     [
       "growing",
@@ -163,6 +153,11 @@
       "anger"
     ],
     [
+      "battle",
+      2,
+      "anger"
+    ],
+    [
       "supporters",
       2,
       "joy"
@@ -186,6 +181,11 @@
       "manage",
       2,
       "trust"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
     ],
     [
       "intelligence",
@@ -248,14 +248,54 @@
       "joy"
     ],
     [
-      "misleading",
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "votes",
       1,
       "anger"
     ],
     [
-      "prepares",
+      "veto",
+      1,
+      "anger"
+    ],
+    [
+      "remove",
+      1,
+      "anger"
+    ],
+    [
+      "penalties",
+      1,
+      "anger"
+    ],
+    [
+      "booking",
+      1,
+      "trust"
+    ],
+    [
+      "investigation",
       1,
       "anticipation"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "calls",
+      1,
+      "trust"
+    ],
+    [
+      "fraudulent",
+      1,
+      "anger"
     ],
     [
       "teachers",
@@ -266,6 +306,21 @@
       "servants",
       1,
       "trust"
+    ],
+    [
+      "misleading",
+      1,
+      "anger"
+    ],
+    [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
     ],
     [
       "anti",
@@ -298,6 +353,11 @@
       "fear"
     ],
     [
+      "food",
+      1,
+      "joy"
+    ],
+    [
       "fighting",
       1,
       "anger"
@@ -316,76 +376,16 @@
       "american",
       1,
       "sadness"
-    ],
-    [
-      "praises",
-      1,
-      "joy"
-    ],
-    [
-      "finally",
-      1,
-      "disgust"
-    ],
-    [
-      "guided",
-      1,
-      "trust"
-    ],
-    [
-      "visitors",
-      1,
-      "joy"
-    ],
-    [
-      "watched",
-      1,
-      "fear"
-    ],
-    [
-      "guardian",
-      1,
-      "trust"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "angry",
-      1,
-      "anger"
-    ],
-    [
-      "real",
-      1,
-      "trust"
-    ],
-    [
-      "change",
-      1,
-      "fear"
-    ],
-    [
-      "furious",
-      1,
-      "anger"
-    ],
-    [
-      "demands",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 65,
-    "fear": 62,
+    "joy": 31,
+    "trust": 64,
+    "fear": 61,
     "surprise": 14,
-    "sadness": 12,
+    "sadness": 11,
     "disgust": 4,
-    "anger": 99,
-    "anticipation": 25
+    "anger": 96,
+    "anticipation": 26
   }
 }
