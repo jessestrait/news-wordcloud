@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:18:28.949Z",
+  "generated_at": "2026-10-21T15:33:31.882Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "police",
+      "leader",
       7,
-      "fear"
+      "trust"
     ],
     [
-      "president",
+      "government",
       6,
-      "trust"
+      "fear"
     ],
     [
       "public",
@@ -38,13 +38,13 @@
       "anticipation"
     ],
     [
-      "leader",
+      "president",
       6,
       "trust"
     ],
     [
-      "government",
-      5,
+      "police",
+      6,
       "fear"
     ],
     [
@@ -61,11 +61,6 @@
       "church",
       4,
       "joy"
-    ],
-    [
-      "violent",
-      4,
-      "anger"
     ],
     [
       "military",
@@ -93,14 +88,19 @@
       "fear"
     ],
     [
-      "abortion",
-      2,
-      "fear"
+      "violent",
+      3,
+      "anger"
     ],
     [
-      "measures",
+      "criminal",
       2,
-      "trust"
+      "anger"
+    ],
+    [
+      "humanitarian",
+      2,
+      "surprise"
     ],
     [
       "failures",
@@ -111,6 +111,16 @@
       "blasts",
       2,
       "anger"
+    ],
+    [
+      "abortion",
+      2,
+      "fear"
+    ],
+    [
+      "measures",
+      2,
+      "trust"
     ],
     [
       "unrest",
@@ -131,11 +141,6 @@
       "volunteers",
       2,
       "trust"
-    ],
-    [
-      "humanitarian",
-      2,
-      "surprise"
     ],
     [
       "riots",
@@ -171,11 +176,6 @@
       "lose",
       2,
       "anger"
-    ],
-    [
-      "second",
-      2,
-      "trust"
     ],
     [
       "manage",
@@ -248,6 +248,56 @@
       "joy"
     ],
     [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "jail",
+      1,
+      "fear"
+    ],
+    [
+      "defying",
+      1,
+      "anger"
+    ],
+    [
+      "restrictions",
+      1,
+      "anger"
+    ],
+    [
+      "crackdown",
+      1,
+      "anger"
+    ],
+    [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "praises",
+      1,
+      "joy"
+    ],
+    [
+      "teachers",
+      1,
+      "trust"
+    ],
+    [
+      "servants",
+      1,
+      "trust"
+    ],
+    [
       "parliament",
       1,
       "trust"
@@ -298,16 +348,6 @@
       "anger"
     ],
     [
-      "teachers",
-      1,
-      "trust"
-    ],
-    [
-      "servants",
-      1,
-      "trust"
-    ],
-    [
       "misleading",
       1,
       "anger"
@@ -336,56 +376,16 @@
       "precious",
       1,
       "surprise"
-    ],
-    [
-      "verge",
-      1,
-      "fear"
-    ],
-    [
-      "unmanageable",
-      1,
-      "disgust"
-    ],
-    [
-      "warn",
-      1,
-      "fear"
-    ],
-    [
-      "food",
-      1,
-      "joy"
-    ],
-    [
-      "fighting",
-      1,
-      "anger"
-    ],
-    [
-      "supply",
-      1,
-      "fear"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 63,
+    "trust": 62,
     "fear": 61,
     "surprise": 14,
     "sadness": 11,
     "disgust": 4,
-    "anger": 96,
+    "anger": 100,
     "anticipation": 26
   }
 }
