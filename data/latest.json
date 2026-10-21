@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:01:22.265Z",
+  "generated_at": "2026-10-21T12:16:24.764Z",
   "article_count": 50,
   "top_words": [
     [
@@ -228,21 +228,6 @@
       "joy"
     ],
     [
-      "jailed",
-      1,
-      "fear"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "praises",
-      1,
-      "joy"
-    ],
-    [
       "blasts",
       1,
       "anger"
@@ -261,6 +246,21 @@
       "manipulation",
       1,
       "anger"
+    ],
+    [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "praises",
+      1,
+      "joy"
     ],
     [
       "wearing",
