@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T10:15:34.779Z",
+  "generated_at": "2026-10-21T10:30:36.794Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "anger"
     ],
     [
+      "leader",
+      4,
+      "trust"
+    ],
+    [
       "church",
       4,
       "joy"
@@ -96,16 +101,6 @@
       "military",
       3,
       "fear"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
-      "official",
-      2,
-      "trust"
     ],
     [
       "approved",
@@ -221,6 +216,26 @@
       "food",
       2,
       "joy"
+    ],
+    [
+      "blasts",
+      1,
+      "anger"
+    ],
+    [
+      "unacceptable",
+      1,
+      "sadness"
+    ],
+    [
+      "frustrated",
+      1,
+      "anger"
+    ],
+    [
+      "manipulation",
+      1,
+      "anger"
     ],
     [
       "powerful",
@@ -343,6 +358,11 @@
       "joy"
     ],
     [
+      "official",
+      1,
+      "trust"
+    ],
+    [
       "dark",
       1,
       "sadness"
@@ -356,26 +376,6 @@
       "guardians",
       1,
       "trust"
-    ],
-    [
-      "wearing",
-      1,
-      "trust"
-    ],
-    [
-      "visitors",
-      1,
-      "joy"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 65,
     "fear": 58,
     "surprise": 16,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 3,
-    "anger": 109,
+    "anger": 112,
     "anticipation": 25
   }
 }
