@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T22:52:43.331Z",
+  "generated_at": "2026-10-21T23:07:45.490Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,24 +18,24 @@
       "anger"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "trump",
       6,
       "anger"
     ],
     [
+      "president",
+      6,
+      "trust"
+    ],
+    [
       "police",
       6,
       "fear"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "government",
@@ -98,14 +98,14 @@
       "anticipation"
     ],
     [
-      "criminal",
-      2,
-      "anger"
-    ],
-    [
       "unrest",
       2,
       "fear"
+    ],
+    [
+      "criminal",
+      2,
+      "anger"
     ],
     [
       "vows",
@@ -208,11 +208,6 @@
       "fear"
     ],
     [
-      "criticism",
-      2,
-      "anger"
-    ],
-    [
       "parish",
       2,
       "trust"
@@ -223,11 +218,6 @@
       "anticipation"
     ],
     [
-      "isolation",
-      2,
-      "sadness"
-    ],
-    [
       "hope",
       2,
       "surprise"
@@ -236,6 +226,71 @@
       "life",
       2,
       "joy"
+    ],
+    [
+      "misleading",
+      1,
+      "anger"
+    ],
+    [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
+      "break",
+      1,
+      "surprise"
+    ],
+    [
+      "ratifying",
+      1,
+      "trust"
+    ],
+    [
+      "voted",
+      1,
+      "anger"
+    ],
+    [
+      "independence",
+      1,
+      "surprise"
+    ],
+    [
+      "cancer",
+      1,
+      "anger"
+    ],
+    [
+      "doctors",
+      1,
+      "trust"
+    ],
+    [
+      "pontiff",
+      1,
+      "trust"
+    ],
+    [
+      "tumour",
+      1,
+      "fear"
+    ],
+    [
+      "doubts",
+      1,
+      "fear"
+    ],
+    [
+      "trip",
+      1,
+      "surprise"
+    ],
+    [
+      "america",
+      1,
+      "sadness"
     ],
     [
       "jailed",
@@ -251,16 +306,6 @@
       "praises",
       1,
       "joy"
-    ],
-    [
-      "misleading",
-      1,
-      "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
     ],
     [
       "youths",
@@ -331,59 +376,14 @@
       "defendants",
       1,
       "anger"
-    ],
-    [
-      "injure",
-      1,
-      "anger"
-    ],
-    [
-      "court",
-      1,
-      "anger"
-    ],
-    [
-      "jail",
-      1,
-      "fear"
-    ],
-    [
-      "defying",
-      1,
-      "anger"
-    ],
-    [
-      "restrictions",
-      1,
-      "anger"
-    ],
-    [
-      "crackdown",
-      1,
-      "anger"
-    ],
-    [
-      "failures",
-      1,
-      "fear"
-    ],
-    [
-      "teachers",
-      1,
-      "trust"
-    ],
-    [
-      "servants",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 31,
     "trust": 63,
-    "fear": 53,
-    "surprise": 16,
-    "sadness": 11,
+    "fear": 54,
+    "surprise": 19,
+    "sadness": 10,
     "disgust": 5,
     "anger": 96,
     "anticipation": 27
