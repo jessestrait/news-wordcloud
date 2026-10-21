@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-21T21:22:00.263Z",
+  "generated_at": "2026-10-21T21:37:02.470Z",
   "article_count": 50,
   "top_words": [
-    [
-      "leader",
-      8,
-      "trust"
-    ],
     [
       "war",
       8,
       "anger"
+    ],
+    [
+      "leader",
+      8,
+      "trust"
     ],
     [
       "attack",
@@ -98,6 +98,11 @@
       "anticipation"
     ],
     [
+      "criminal",
+      2,
+      "anger"
+    ],
+    [
       "unrest",
       2,
       "fear"
@@ -114,11 +119,6 @@
     ],
     [
       "controversial",
-      2,
-      "anger"
-    ],
-    [
-      "criminal",
       2,
       "anger"
     ],
@@ -238,6 +238,21 @@
       "joy"
     ],
     [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "praises",
+      1,
+      "joy"
+    ],
+    [
       "misleading",
       1,
       "anger"
@@ -346,21 +361,6 @@
       "crackdown",
       1,
       "anger"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "praises",
-      1,
-      "joy"
     ],
     [
       "failures",
