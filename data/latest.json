@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:57:50.165Z",
+  "generated_at": "2026-10-21T05:12:52.699Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anger"
     ],
     [
+      "trump",
+      8,
+      "anger"
+    ],
+    [
       "police",
       7,
       "fear"
@@ -23,14 +28,14 @@
       "anger"
     ],
     [
-      "trump",
-      7,
-      "anger"
-    ],
-    [
       "violent",
       6,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "missile",
@@ -43,6 +48,11 @@
       "anticipation"
     ],
     [
+      "battle",
+      4,
+      "anger"
+    ],
+    [
       "government",
       4,
       "fear"
@@ -51,11 +61,6 @@
       "strikes",
       4,
       "anger"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "church",
@@ -73,11 +78,6 @@
       "anticipation"
     ],
     [
-      "battle",
-      3,
-      "anger"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -86,11 +86,6 @@
       "intelligence",
       3,
       "fear"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "leader",
@@ -106,6 +101,16 @@
       "second",
       3,
       "trust"
+    ],
+    [
+      "supporters",
+      2,
+      "joy"
+    ],
+    [
+      "family",
+      2,
+      "joy"
     ],
     [
       "lose",
@@ -126,6 +131,11 @@
       "center",
       2,
       "trust"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "trade",
@@ -191,11 +201,6 @@
       "life",
       2,
       "joy"
-    ],
-    [
-      "interior",
-      2,
-      "disgust"
     ],
     [
       "kills",
@@ -271,6 +276,26 @@
       "continue",
       2,
       "trust"
+    ],
+    [
+      "alleged",
+      1,
+      "fear"
+    ],
+    [
+      "bias",
+      1,
+      "anger"
+    ],
+    [
+      "suspect",
+      1,
+      "fear"
+    ],
+    [
+      "meddling",
+      1,
+      "anger"
     ],
     [
       "challenging",
@@ -351,41 +376,16 @@
       "seize",
       1,
       "fear"
-    ],
-    [
-      "dispute",
-      1,
-      "anger"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
-    ],
-    [
-      "escalating",
-      1,
-      "anger"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "anxiety",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 75,
-    "fear": 62,
+    "joy": 28,
+    "trust": 76,
+    "fear": 64,
     "surprise": 16,
     "sadness": 16,
-    "disgust": 5,
-    "anger": 99,
-    "anticipation": 25
+    "disgust": 4,
+    "anger": 102,
+    "anticipation": 24
   }
 }
