@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:33:01.935Z",
+  "generated_at": "2026-10-21T14:48:05.183Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "war",
+      "trump",
       8,
       "anger"
     ],
     [
-      "public",
-      7,
-      "anticipation"
+      "war",
+      8,
+      "anger"
     ],
     [
       "police",
@@ -28,19 +28,24 @@
       "fear"
     ],
     [
-      "trump",
-      7,
-      "anger"
+      "president",
+      6,
+      "trust"
+    ],
+    [
+      "public",
+      6,
+      "anticipation"
+    ],
+    [
+      "leader",
+      6,
+      "trust"
     ],
     [
       "government",
       5,
       "fear"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "strike",
@@ -53,14 +58,14 @@
       "fear"
     ],
     [
-      "violent",
-      5,
-      "anger"
-    ],
-    [
       "church",
       4,
       "joy"
+    ],
+    [
+      "violent",
+      4,
+      "anger"
     ],
     [
       "food",
@@ -76,11 +81,6 @@
       "bank",
       3,
       "trust"
-    ],
-    [
-      "riots",
-      3,
-      "anger"
     ],
     [
       "warning",
@@ -103,19 +103,14 @@
       "fear"
     ],
     [
-      "second",
-      3,
-      "trust"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
       "force",
       3,
       "anger"
+    ],
+    [
+      "unrest",
+      2,
+      "fear"
     ],
     [
       "failures",
@@ -126,6 +121,16 @@
       "blasts",
       2,
       "anger"
+    ],
+    [
+      "violence",
+      2,
+      "anger"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "advance",
@@ -143,9 +148,9 @@
       "surprise"
     ],
     [
-      "guardian",
+      "riots",
       2,
-      "trust"
+      "anger"
     ],
     [
       "approved",
@@ -173,9 +178,9 @@
       "anger"
     ],
     [
-      "dominated",
+      "second",
       2,
-      "anger"
+      "trust"
     ],
     [
       "manage",
@@ -184,6 +189,11 @@
     ],
     [
       "intelligence",
+      2,
+      "fear"
+    ],
+    [
+      "seize",
       2,
       "fear"
     ],
@@ -238,6 +248,16 @@
       "joy"
     ],
     [
+      "misleading",
+      1,
+      "anger"
+    ],
+    [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
       "teachers",
       1,
       "trust"
@@ -246,6 +266,21 @@
       "servants",
       1,
       "trust"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "looming",
+      1,
+      "fear"
+    ],
+    [
+      "precious",
+      1,
+      "surprise"
     ],
     [
       "verge",
@@ -288,19 +323,14 @@
       "joy"
     ],
     [
-      "watch",
+      "finally",
       1,
-      "fear"
+      "disgust"
     ],
     [
-      "wearing",
+      "guided",
       1,
       "trust"
-    ],
-    [
-      "watched",
-      1,
-      "fear"
     ],
     [
       "visitors",
@@ -308,7 +338,12 @@
       "joy"
     ],
     [
-      "guided",
+      "watched",
+      1,
+      "fear"
+    ],
+    [
+      "guardian",
       1,
       "trust"
     ],
@@ -341,51 +376,16 @@
       "demands",
       1,
       "anger"
-    ],
-    [
-      "discontent",
-      1,
-      "anger"
-    ],
-    [
-      "challenging",
-      1,
-      "anger"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "experiment",
-      1,
-      "surprise"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "fierce",
-      1,
-      "anger"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 66,
-    "fear": 60,
-    "surprise": 16,
-    "sadness": 13,
-    "disgust": 3,
-    "anger": 102,
+    "joy": 33,
+    "trust": 65,
+    "fear": 62,
+    "surprise": 14,
+    "sadness": 12,
+    "disgust": 4,
+    "anger": 99,
     "anticipation": 25
   }
 }
