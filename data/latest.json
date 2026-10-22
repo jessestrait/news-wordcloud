@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-22T11:13:53.118Z",
+  "generated_at": "2026-10-22T11:28:55.740Z",
   "article_count": 50,
   "top_words": [
-    [
-      "leader",
-      8,
-      "trust"
-    ],
     [
       "war",
       7,
       "anger"
+    ],
+    [
+      "leader",
+      7,
+      "trust"
     ],
     [
       "trump",
@@ -18,14 +18,19 @@
       "anger"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "government",
       5,
       "fear"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "strike",
@@ -38,22 +43,12 @@
       "fear"
     ],
     [
-      "attack",
-      4,
-      "anger"
-    ],
-    [
       "public",
       4,
       "anticipation"
     ],
     [
       "police",
-      4,
-      "fear"
-    ],
-    [
-      "missile",
       4,
       "fear"
     ],
@@ -88,11 +83,6 @@
       "anticipation"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "guardian",
       3,
       "trust"
@@ -101,6 +91,16 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "missile",
+      3,
+      "fear"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "rising",
@@ -113,7 +113,27 @@
       "anticipation"
     ],
     [
+      "visitors",
+      2,
+      "joy"
+    ],
+    [
+      "attempt",
+      2,
+      "anticipation"
+    ],
+    [
       "criminal",
+      2,
+      "anger"
+    ],
+    [
+      "leave",
+      2,
+      "sadness"
+    ],
+    [
+      "conflict",
       2,
       "anger"
     ],
@@ -153,12 +173,12 @@
       "trust"
     ],
     [
-      "growing",
+      "advance",
       2,
-      "joy"
+      "fear"
     ],
     [
-      "advance",
+      "military",
       2,
       "fear"
     ],
@@ -223,11 +243,6 @@
       "anticipation"
     ],
     [
-      "hope",
-      2,
-      "surprise"
-    ],
-    [
       "condemns",
       1,
       "anger"
@@ -246,6 +261,26 @@
       "determination",
       1,
       "trust"
+    ],
+    [
+      "bombards",
+      1,
+      "anger"
+    ],
+    [
+      "agreeing",
+      1,
+      "trust"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
+      "achieve",
+      1,
+      "joy"
     ],
     [
       "budget",
@@ -323,69 +358,34 @@
       "anger"
     ],
     [
+      "coaxed",
+      1,
+      "trust"
+    ],
+    [
+      "presented",
+      1,
+      "surprise"
+    ],
+    [
+      "drafted",
+      1,
+      "anticipation"
+    ],
+    [
       "jailed",
       1,
       "fear"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "praises",
-      1,
-      "joy"
-    ],
-    [
-      "misleading",
-      1,
-      "anger"
-    ],
-    [
-      "break",
-      1,
-      "surprise"
-    ],
-    [
-      "ratifying",
-      1,
-      "trust"
-    ],
-    [
-      "voted",
-      1,
-      "anger"
-    ],
-    [
-      "independence",
-      1,
-      "surprise"
-    ],
-    [
-      "cancer",
-      1,
-      "anger"
-    ],
-    [
-      "doctors",
-      1,
-      "trust"
-    ],
-    [
-      "pontiff",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 65,
-    "fear": 55,
-    "surprise": 18,
+    "joy": 34,
+    "trust": 63,
+    "fear": 53,
+    "surprise": 14,
     "sadness": 10,
     "disgust": 5,
     "anger": 94,
-    "anticipation": 28
+    "anticipation": 27
   }
 }
