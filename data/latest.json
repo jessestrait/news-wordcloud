@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T17:47:49.458Z",
+  "generated_at": "2026-10-22T18:02:52.769Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,16 +243,6 @@
       "anger"
     ],
     [
-      "tough",
-      1,
-      "sadness"
-    ],
-    [
-      "rioting",
-      1,
-      "anger"
-    ],
-    [
       "tax",
       1,
       "sadness"
@@ -376,6 +366,16 @@
       "preventing",
       1,
       "fear"
+    ],
+    [
+      "hospitals",
+      1,
+      "fear"
+    ],
+    [
+      "babies",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 56,
     "fear": 53,
     "surprise": 13,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 4,
-    "anger": 93,
+    "anger": 92,
     "anticipation": 21
   }
 }
