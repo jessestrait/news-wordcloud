@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:42:16.077Z",
+  "generated_at": "2026-10-22T08:42:32.753Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,11 +83,6 @@
       "anticipation"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -136,6 +131,11 @@
       "blasts",
       2,
       "anger"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "abortion",
@@ -226,6 +226,26 @@
       "hope",
       2,
       "surprise"
+    ],
+    [
+      "budget",
+      1,
+      "trust"
+    ],
+    [
+      "turmoil",
+      1,
+      "anger"
+    ],
+    [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
+      "bout",
+      1,
+      "anger"
     ],
     [
       "council",
@@ -356,26 +376,6 @@
       "doubts",
       1,
       "fear"
-    ],
-    [
-      "trip",
-      1,
-      "surprise"
-    ],
-    [
-      "america",
-      1,
-      "sadness"
-    ],
-    [
-      "youths",
-      1,
-      "anger"
-    ],
-    [
-      "save",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 18,
     "sadness": 10,
     "disgust": 5,
-    "anger": 90,
-    "anticipation": 28
+    "anger": 92,
+    "anticipation": 27
   }
 }
