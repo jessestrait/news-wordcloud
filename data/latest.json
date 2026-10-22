@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-22T12:59:45.979Z",
+  "generated_at": "2026-10-22T13:14:48.389Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      7,
+      8,
       "anger"
     ],
     [
@@ -13,18 +13,23 @@
       "trust"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "government",
       5,
       "fear"
     ],
     [
-      "trump",
+      "attack",
       5,
       "anger"
     ],
     [
-      "attack",
-      5,
+      "trump",
+      4,
       "anger"
     ],
     [
@@ -48,14 +53,14 @@
       "anger"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "church",
       4,
       "joy"
+    ],
+    [
+      "conflict",
+      3,
+      "anger"
     ],
     [
       "riots",
@@ -93,6 +98,31 @@
       "fear"
     ],
     [
+      "leave",
+      2,
+      "sadness"
+    ],
+    [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "hormuz",
+      2,
+      "fear"
+    ],
+    [
+      "life",
+      2,
+      "joy"
+    ],
+    [
       "peace",
       2,
       "joy"
@@ -111,26 +141,6 @@
       "visitors",
       2,
       "joy"
-    ],
-    [
-      "attempt",
-      2,
-      "anticipation"
-    ],
-    [
-      "criminal",
-      2,
-      "anger"
-    ],
-    [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
-      "conflict",
-      2,
-      "anger"
     ],
     [
       "unrest",
@@ -241,6 +251,11 @@
       "plan",
       2,
       "anticipation"
+    ],
+    [
+      "grow",
+      1,
+      "joy"
     ],
     [
       "condemns",
@@ -361,31 +376,16 @@
       "sour",
       1,
       "disgust"
-    ],
-    [
-      "tensions",
-      1,
-      "anger"
-    ],
-    [
-      "coaxed",
-      1,
-      "trust"
-    ],
-    [
-      "presented",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 37,
     "trust": 62,
-    "fear": 52,
+    "fear": 55,
     "surprise": 13,
     "sadness": 10,
     "disgust": 5,
-    "anger": 92,
-    "anticipation": 26
+    "anger": 93,
+    "anticipation": 25
   }
 }
