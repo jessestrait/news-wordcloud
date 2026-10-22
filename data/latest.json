@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T05:41:01.119Z",
+  "generated_at": "2026-10-22T05:56:03.054Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,19 +23,14 @@
       "trust"
     ],
     [
-      "police",
-      6,
-      "fear"
-    ],
-    [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "public",
       5,
       "anticipation"
+    ],
+    [
+      "police",
+      5,
+      "fear"
     ],
     [
       "strike",
@@ -43,19 +38,14 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "warning",
       4,
       "fear"
     ],
     [
-      "bank",
+      "attack",
       4,
-      "trust"
+      "anger"
     ],
     [
       "government",
@@ -68,6 +58,11 @@
       "fear"
     ],
     [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "church",
       4,
       "joy"
@@ -76,6 +71,11 @@
       "humanitarian",
       3,
       "surprise"
+    ],
+    [
+      "bank",
+      3,
+      "trust"
     ],
     [
       "letter",
@@ -101,6 +101,11 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "rising",
+      2,
+      "joy"
     ],
     [
       "prepares",
@@ -228,6 +233,46 @@
       "surprise"
     ],
     [
+      "risk",
+      1,
+      "fear"
+    ],
+    [
+      "closure",
+      1,
+      "sadness"
+    ],
+    [
+      "rates",
+      1,
+      "fear"
+    ],
+    [
+      "shortages",
+      1,
+      "anger"
+    ],
+    [
+      "unresolved",
+      1,
+      "anticipation"
+    ],
+    [
+      "preventing",
+      1,
+      "fear"
+    ],
+    [
+      "hospitals",
+      1,
+      "fear"
+    ],
+    [
+      "babies",
+      1,
+      "joy"
+    ],
+    [
       "propaganda",
       1,
       "disgust"
@@ -236,11 +281,6 @@
       "sour",
       1,
       "disgust"
-    ],
-    [
-      "rising",
-      1,
-      "joy"
     ],
     [
       "tensions",
@@ -336,56 +376,16 @@
       "incident",
       1,
       "surprise"
-    ],
-    [
-      "sir",
-      1,
-      "trust"
-    ],
-    [
-      "lies",
-      1,
-      "anger"
-    ],
-    [
-      "cover",
-      1,
-      "trust"
-    ],
-    [
-      "die",
-      1,
-      "fear"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
-    ],
-    [
-      "john",
-      1,
-      "disgust"
-    ],
-    [
-      "director",
-      1,
-      "trust"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 65,
-    "fear": 52,
+    "joy": 33,
+    "trust": 63,
+    "fear": 55,
     "surprise": 18,
-    "sadness": 10,
+    "sadness": 11,
     "disgust": 6,
-    "anger": 92,
-    "anticipation": 28
+    "anger": 90,
+    "anticipation": 29
   }
 }
