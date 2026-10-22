@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:42:32.753Z",
+  "generated_at": "2026-10-22T08:57:35.650Z",
   "article_count": 50,
   "top_words": [
     [
@@ -228,6 +228,16 @@
       "surprise"
     ],
     [
+      "council",
+      1,
+      "trust"
+    ],
+    [
+      "reporters",
+      1,
+      "trust"
+    ],
+    [
       "budget",
       1,
       "trust"
@@ -246,16 +256,6 @@
       "bout",
       1,
       "anger"
-    ],
-    [
-      "council",
-      1,
-      "trust"
-    ],
-    [
-      "reporters",
-      1,
-      "trust"
     ],
     [
       "risk",
