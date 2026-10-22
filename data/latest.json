@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:49:04.943Z",
+  "generated_at": "2026-10-22T20:04:07.136Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,19 +13,14 @@
       "anger"
     ],
     [
-      "leader",
-      7,
-      "trust"
-    ],
-    [
       "president",
       6,
       "trust"
     ],
     [
-      "strike",
-      5,
-      "anger"
+      "leader",
+      6,
+      "trust"
     ],
     [
       "trump",
@@ -53,6 +48,11 @@
       "anger"
     ],
     [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
       "government",
       4,
       "fear"
@@ -73,11 +73,6 @@
       "anticipation"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "warning",
       3,
       "fear"
@@ -93,11 +88,6 @@
       "anticipation"
     ],
     [
-      "missile",
-      3,
-      "fear"
-    ],
-    [
       "riots",
       2,
       "anger"
@@ -111,6 +101,11 @@
       "threatens",
       2,
       "anger"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "strait",
@@ -213,7 +208,7 @@
       "anger"
     ],
     [
-      "intelligence",
+      "missile",
       2,
       "fear"
     ],
@@ -376,16 +371,21 @@
       "babies",
       1,
       "joy"
+    ],
+    [
+      "propaganda",
+      1,
+      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 56,
-    "fear": 53,
-    "surprise": 13,
+    "joy": 29,
+    "trust": 53,
+    "fear": 51,
+    "surprise": 12,
     "sadness": 12,
     "disgust": 4,
-    "anger": 92,
-    "anticipation": 21
+    "anger": 91,
+    "anticipation": 19
   }
 }
