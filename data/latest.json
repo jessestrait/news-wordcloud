@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T07:41:50.920Z",
+  "generated_at": "2026-10-22T07:56:53.393Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,12 +23,7 @@
       "trust"
     ],
     [
-      "public",
-      5,
-      "anticipation"
-    ],
-    [
-      "police",
+      "government",
       5,
       "fear"
     ],
@@ -48,7 +43,12 @@
       "anger"
     ],
     [
-      "government",
+      "public",
+      4,
+      "anticipation"
+    ],
+    [
+      "police",
       4,
       "fear"
     ],
@@ -121,11 +121,6 @@
       "unrest",
       2,
       "fear"
-    ],
-    [
-      "vows",
-      2,
-      "joy"
     ],
     [
       "obituary",
@@ -231,6 +226,16 @@
       "hope",
       2,
       "surprise"
+    ],
+    [
+      "council",
+      1,
+      "trust"
+    ],
+    [
+      "reporters",
+      1,
+      "trust"
     ],
     [
       "risk",
@@ -371,21 +376,16 @@
       "save",
       1,
       "joy"
-    ],
-    [
-      "incident",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 63,
+    "joy": 32,
+    "trust": 65,
     "fear": 55,
     "surprise": 18,
-    "sadness": 11,
-    "disgust": 6,
+    "sadness": 10,
+    "disgust": 5,
     "anger": 90,
-    "anticipation": 29
+    "anticipation": 28
   }
 }
