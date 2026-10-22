@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:16:08.479Z",
+  "generated_at": "2026-10-22T15:31:10.965Z",
   "article_count": 50,
   "top_words": [
     [
@@ -59,6 +59,11 @@
     ],
     [
       "prepares",
+      3,
+      "anticipation"
+    ],
+    [
+      "happened",
       3,
       "anticipation"
     ],
@@ -156,11 +161,6 @@
       "blasts",
       2,
       "anger"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "abortion",
@@ -386,6 +386,6 @@
     "sadness": 12,
     "disgust": 4,
     "anger": 92,
-    "anticipation": 23
+    "anticipation": 24
   }
 }
