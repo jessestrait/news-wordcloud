@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:57:35.650Z",
+  "generated_at": "2026-10-22T09:12:38.065Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,9 +23,14 @@
       "trust"
     ],
     [
-      "government",
+      "humanitarian",
       5,
-      "fear"
+      "surprise"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
     ],
     [
       "strike",
@@ -33,14 +38,19 @@
       "anger"
     ],
     [
+      "missile",
+      5,
+      "fear"
+    ],
+    [
       "warning",
       4,
       "fear"
     ],
     [
-      "attack",
+      "government",
       4,
-      "anger"
+      "fear"
     ],
     [
       "public",
@@ -53,11 +63,6 @@
       "fear"
     ],
     [
-      "missile",
-      4,
-      "fear"
-    ],
-    [
       "people",
       4,
       "trust"
@@ -66,11 +71,6 @@
       "church",
       4,
       "joy"
-    ],
-    [
-      "humanitarian",
-      3,
-      "surprise"
     ],
     [
       "bank",
@@ -96,6 +96,11 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "praise",
+      2,
+      "joy"
     ],
     [
       "rising",
@@ -228,14 +233,9 @@
       "surprise"
     ],
     [
-      "council",
+      "launched",
       1,
-      "trust"
-    ],
-    [
-      "reporters",
-      1,
-      "trust"
+      "anticipation"
     ],
     [
       "budget",
@@ -323,11 +323,6 @@
       "sadness"
     ],
     [
-      "praises",
-      1,
-      "joy"
-    ],
-    [
       "misleading",
       1,
       "anger"
@@ -376,16 +371,21 @@
       "doubts",
       1,
       "fear"
+    ],
+    [
+      "trip",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 65,
+    "joy": 33,
+    "trust": 63,
     "fear": 55,
-    "surprise": 18,
+    "surprise": 20,
     "sadness": 10,
     "disgust": 5,
-    "anger": 92,
-    "anticipation": 27
+    "anger": 93,
+    "anticipation": 28
   }
 }
