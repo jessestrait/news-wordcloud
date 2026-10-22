@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:47:00.334Z",
+  "generated_at": "2026-10-22T17:02:03.443Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "anger"
     ],
     [
+      "guardian",
+      4,
+      "trust"
+    ],
+    [
       "people",
       4,
       "trust"
@@ -41,11 +46,6 @@
       "police",
       4,
       "fear"
-    ],
-    [
-      "guardian",
-      4,
-      "trust"
     ],
     [
       "iran",
@@ -96,6 +96,11 @@
       "missile",
       3,
       "fear"
+    ],
+    [
+      "riots",
+      2,
+      "anger"
     ],
     [
       "peace",
@@ -186,11 +191,6 @@
       "watch",
       2,
       "fear"
-    ],
-    [
-      "riots",
-      2,
-      "anger"
     ],
     [
       "power",
