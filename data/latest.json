@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:29:41.530Z",
+  "generated_at": "2026-10-22T12:44:43.694Z",
   "article_count": 50,
   "top_words": [
     [
@@ -91,11 +91,6 @@
       "missile",
       3,
       "fear"
-    ],
-    [
-      "opposition",
-      2,
-      "anger"
     ],
     [
       "peace",
@@ -266,6 +261,11 @@
       "determination",
       1,
       "trust"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
     ],
     [
       "polls",
