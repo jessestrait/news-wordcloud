@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:31:56.579Z",
+  "generated_at": "2026-10-22T16:47:00.334Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "president",
-      5,
+      6,
       "trust"
     ],
     [
@@ -31,6 +31,11 @@
       "trump",
       5,
       "anger"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "police",
@@ -51,6 +56,11 @@
       "government",
       4,
       "fear"
+    ],
+    [
+      "humanitarian",
+      3,
+      "surprise"
     ],
     [
       "unrest",
@@ -118,11 +128,6 @@
       "joy"
     ],
     [
-      "people",
-      2,
-      "trust"
-    ],
-    [
       "rising",
       2,
       "joy"
@@ -133,11 +138,6 @@
       "joy"
     ],
     [
-      "humanitarian",
-      2,
-      "surprise"
-    ],
-    [
       "obituary",
       2,
       "sadness"
@@ -146,11 +146,6 @@
       "controversial",
       2,
       "anger"
-    ],
-    [
-      "letter",
-      2,
-      "anticipation"
     ],
     [
       "blasts",
@@ -226,6 +221,21 @@
       "seize",
       2,
       "fear"
+    ],
+    [
+      "rejects",
+      1,
+      "anger"
+    ],
+    [
+      "killed",
+      1,
+      "fear"
+    ],
+    [
+      "innocent",
+      1,
+      "trust"
     ],
     [
       "illegitimate",
@@ -366,26 +376,16 @@
       "preventing",
       1,
       "fear"
-    ],
-    [
-      "hospitals",
-      1,
-      "fear"
-    ],
-    [
-      "babies",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 54,
-    "fear": 52,
-    "surprise": 12,
+    "joy": 30,
+    "trust": 56,
+    "fear": 53,
+    "surprise": 13,
     "sadness": 13,
     "disgust": 4,
-    "anger": 94,
-    "anticipation": 23
+    "anger": 93,
+    "anticipation": 21
   }
 }
