@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:44:17.824Z",
+  "generated_at": "2026-10-22T11:59:20.269Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "trust"
     ],
     [
-      "trump",
-      6,
-      "anger"
-    ],
-    [
       "government",
       5,
       "fear"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "attack",
@@ -29,18 +29,8 @@
     ],
     [
       "president",
-      5,
-      "trust"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
-      "warning",
       4,
-      "fear"
+      "trust"
     ],
     [
       "public",
@@ -51,6 +41,11 @@
       "police",
       4,
       "fear"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
     ],
     [
       "people",
@@ -66,6 +61,11 @@
       "riots",
       3,
       "anger"
+    ],
+    [
+      "warning",
+      3,
+      "fear"
     ],
     [
       "humanitarian",
@@ -88,14 +88,14 @@
       "trust"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "missile",
       3,
       "fear"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
     ],
     [
       "peace",
@@ -193,6 +193,11 @@
       "fear"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "approved",
       2,
       "joy"
@@ -241,6 +246,11 @@
       "plan",
       2,
       "anticipation"
+    ],
+    [
+      "polls",
+      1,
+      "trust"
     ],
     [
       "condemns",
@@ -366,26 +376,16 @@
       "presented",
       1,
       "surprise"
-    ],
-    [
-      "drafted",
-      1,
-      "anticipation"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 63,
-    "fear": 53,
-    "surprise": 14,
+    "trust": 62,
+    "fear": 52,
+    "surprise": 13,
     "sadness": 10,
     "disgust": 5,
-    "anger": 94,
-    "anticipation": 27
+    "anger": 92,
+    "anticipation": 26
   }
 }
