@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:54:38.501Z",
+  "generated_at": "2026-10-22T03:09:40.580Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,6 +88,11 @@
       "fear"
     ],
     [
+      "guardian",
+      3,
+      "trust"
+    ],
+    [
       "warning",
       3,
       "fear"
@@ -151,6 +156,11 @@
       "volunteers",
       2,
       "trust"
+    ],
+    [
+      "watch",
+      2,
+      "fear"
     ],
     [
       "riots",
@@ -366,25 +376,15 @@
       "pound",
       1,
       "anger"
-    ],
-    [
-      "good",
-      1,
-      "surprise"
-    ],
-    [
-      "defendants",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 63,
-    "fear": 54,
+    "trust": 66,
+    "fear": 55,
     "surprise": 19,
     "sadness": 10,
-    "disgust": 5,
+    "disgust": 4,
     "anger": 96,
     "anticipation": 27
   }
