@@ -1,19 +1,14 @@
 {
-  "generated_at": "2026-10-22T03:55:01.384Z",
+  "generated_at": "2026-10-22T04:10:04.007Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      8,
-      "anger"
-    ],
     [
       "leader",
       8,
       "trust"
     ],
     [
-      "attack",
+      "war",
       7,
       "anger"
     ],
@@ -33,14 +28,9 @@
       "fear"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
-      "government",
+      "attack",
       5,
-      "fear"
+      "anger"
     ],
     [
       "public",
@@ -53,14 +43,29 @@
       "anger"
     ],
     [
-      "missile",
+      "people",
       5,
+      "trust"
+    ],
+    [
+      "warning",
+      4,
       "fear"
     ],
     [
       "bank",
       4,
       "trust"
+    ],
+    [
+      "government",
+      4,
+      "fear"
+    ],
+    [
+      "missile",
+      4,
+      "fear"
     ],
     [
       "church",
@@ -93,13 +98,13 @@
       "trust"
     ],
     [
-      "warning",
-      3,
-      "fear"
-    ],
-    [
       "power",
       3,
+      "anticipation"
+    ],
+    [
+      "prepares",
+      2,
       "anticipation"
     ],
     [
@@ -193,19 +198,9 @@
       "anger"
     ],
     [
-      "kills",
-      2,
-      "fear"
-    ],
-    [
       "manage",
       2,
       "trust"
-    ],
-    [
-      "forces",
-      2,
-      "anger"
     ],
     [
       "intelligence",
@@ -233,9 +228,24 @@
       "surprise"
     ],
     [
-      "life",
-      2,
+      "propaganda",
+      1,
+      "disgust"
+    ],
+    [
+      "sour",
+      1,
+      "disgust"
+    ],
+    [
+      "rising",
+      1,
       "joy"
+    ],
+    [
+      "tensions",
+      1,
+      "anger"
     ],
     [
       "jailed",
@@ -256,11 +266,6 @@
       "misleading",
       1,
       "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
     ],
     [
       "break",
@@ -371,21 +376,16 @@
       "global",
       1,
       "anticipation"
-    ],
-    [
-      "pound",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 66,
-    "fear": 55,
-    "surprise": 19,
+    "trust": 65,
+    "fear": 52,
+    "surprise": 18,
     "sadness": 10,
-    "disgust": 4,
-    "anger": 96,
-    "anticipation": 27
+    "disgust": 6,
+    "anger": 92,
+    "anticipation": 28
   }
 }
