@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:28:22.014Z",
+  "generated_at": "2026-10-22T10:43:24.458Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,9 @@
       "trust"
     ],
     [
-      "humanitarian",
+      "government",
       5,
-      "surprise"
-    ],
-    [
-      "attack",
-      5,
-      "anger"
+      "fear"
     ],
     [
       "strike",
@@ -38,19 +33,14 @@
       "anger"
     ],
     [
-      "missile",
-      5,
-      "fear"
-    ],
-    [
       "warning",
       4,
       "fear"
     ],
     [
-      "government",
+      "attack",
       4,
-      "fear"
+      "anger"
     ],
     [
       "public",
@@ -63,6 +53,11 @@
       "fear"
     ],
     [
+      "missile",
+      4,
+      "fear"
+    ],
+    [
       "people",
       4,
       "trust"
@@ -71,6 +66,16 @@
       "church",
       4,
       "joy"
+    ],
+    [
+      "riots",
+      3,
+      "anger"
+    ],
+    [
+      "humanitarian",
+      3,
+      "surprise"
     ],
     [
       "bank",
@@ -96,11 +101,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "praise",
-      2,
-      "joy"
     ],
     [
       "rising",
@@ -173,11 +173,6 @@
       "fear"
     ],
     [
-      "riots",
-      2,
-      "anger"
-    ],
-    [
       "approved",
       2,
       "joy"
@@ -233,9 +228,24 @@
       "surprise"
     ],
     [
-      "launched",
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
+      "seek",
       1,
       "anticipation"
+    ],
+    [
+      "show",
+      1,
+      "trust"
+    ],
+    [
+      "determination",
+      1,
+      "trust"
     ],
     [
       "budget",
@@ -323,6 +333,11 @@
       "sadness"
     ],
     [
+      "praises",
+      1,
+      "joy"
+    ],
+    [
       "misleading",
       1,
       "anger"
@@ -361,31 +376,16 @@
       "pontiff",
       1,
       "trust"
-    ],
-    [
-      "tumour",
-      1,
-      "fear"
-    ],
-    [
-      "doubts",
-      1,
-      "fear"
-    ],
-    [
-      "trip",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 63,
+    "joy": 32,
+    "trust": 65,
     "fear": 55,
-    "surprise": 20,
+    "surprise": 18,
     "sadness": 10,
     "disgust": 5,
-    "anger": 93,
+    "anger": 94,
     "anticipation": 28
   }
 }
