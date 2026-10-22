@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:08:51.573Z",
+  "generated_at": "2026-10-22T01:23:53.827Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,14 +98,14 @@
       "anticipation"
     ],
     [
-      "unrest",
-      2,
-      "fear"
-    ],
-    [
       "criminal",
       2,
       "anger"
+    ],
+    [
+      "unrest",
+      2,
+      "fear"
     ],
     [
       "vows",
@@ -228,6 +228,21 @@
       "joy"
     ],
     [
+      "jailed",
+      1,
+      "fear"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "praises",
+      1,
+      "joy"
+    ],
+    [
       "misleading",
       1,
       "anger"
@@ -291,21 +306,6 @@
       "america",
       1,
       "sadness"
-    ],
-    [
-      "jailed",
-      1,
-      "fear"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "praises",
-      1,
-      "joy"
     ],
     [
       "youths",
