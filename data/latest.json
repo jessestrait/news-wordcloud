@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:46:31.869Z",
+  "generated_at": "2026-10-22T16:01:34.063Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "trust"
     ],
     [
+      "president",
+      5,
+      "trust"
+    ],
+    [
       "strike",
       5,
       "anger"
@@ -28,14 +33,19 @@
       "anger"
     ],
     [
+      "police",
+      4,
+      "fear"
+    ],
+    [
+      "guardian",
+      4,
+      "trust"
+    ],
+    [
       "iran",
       4,
       "anger"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "government",
@@ -43,19 +53,9 @@
       "fear"
     ],
     [
-      "public",
-      4,
-      "anticipation"
-    ],
-    [
-      "police",
-      4,
+      "unrest",
+      3,
       "fear"
-    ],
-    [
-      "church",
-      4,
-      "joy"
     ],
     [
       "prepares",
@@ -68,11 +68,6 @@
       "anticipation"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "warning",
       3,
       "fear"
@@ -83,19 +78,19 @@
       "trust"
     ],
     [
-      "letter",
+      "public",
       3,
       "anticipation"
-    ],
-    [
-      "guardian",
-      3,
-      "trust"
     ],
     [
       "missile",
       3,
       "fear"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "threatens",
@@ -123,9 +118,9 @@
       "joy"
     ],
     [
-      "peace",
+      "people",
       2,
-      "joy"
+      "trust"
     ],
     [
       "rising",
@@ -143,11 +138,6 @@
       "surprise"
     ],
     [
-      "unrest",
-      2,
-      "fear"
-    ],
-    [
       "obituary",
       2,
       "sadness"
@@ -156,6 +146,11 @@
       "controversial",
       2,
       "anger"
+    ],
+    [
+      "letter",
+      2,
+      "anticipation"
     ],
     [
       "blasts",
@@ -223,11 +218,6 @@
       "anger"
     ],
     [
-      "manage",
-      2,
-      "trust"
-    ],
-    [
       "intelligence",
       2,
       "fear"
@@ -238,9 +228,49 @@
       "fear"
     ],
     [
-      "parish",
-      2,
+      "illegitimate",
+      1,
+      "anger"
+    ],
+    [
+      "tough",
+      1,
+      "sadness"
+    ],
+    [
+      "rioting",
+      1,
+      "anger"
+    ],
+    [
+      "tax",
+      1,
+      "sadness"
+    ],
+    [
+      "inquiry",
+      1,
+      "anticipation"
+    ],
+    [
+      "bombards",
+      1,
+      "anger"
+    ],
+    [
+      "agreeing",
+      1,
       "trust"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
+      "achieve",
+      1,
+      "joy"
     ],
     [
       "found",
@@ -286,26 +316,6 @@
       "polls",
       1,
       "trust"
-    ],
-    [
-      "bombards",
-      1,
-      "anger"
-    ],
-    [
-      "agreeing",
-      1,
-      "trust"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
-      "achieve",
-      1,
-      "joy"
     ],
     [
       "budget",
@@ -366,26 +376,16 @@
       "babies",
       1,
       "joy"
-    ],
-    [
-      "propaganda",
-      1,
-      "disgust"
-    ],
-    [
-      "sour",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 57,
-    "fear": 51,
+    "joy": 31,
+    "trust": 54,
+    "fear": 52,
     "surprise": 12,
-    "sadness": 12,
+    "sadness": 13,
     "disgust": 4,
-    "anger": 93,
-    "anticipation": 24
+    "anger": 94,
+    "anticipation": 23
   }
 }
