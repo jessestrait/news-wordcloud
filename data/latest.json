@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:01:05.658Z",
+  "generated_at": "2026-10-22T15:16:08.479Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,22 +8,22 @@
       "anger"
     ],
     [
+      "attack",
+      7,
+      "anger"
+    ],
+    [
       "leader",
       7,
       "trust"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
-      "attack",
+      "trump",
       5,
       "anger"
     ],
     [
-      "trump",
+      "iran",
       4,
       "anger"
     ],
@@ -63,19 +63,14 @@
       "anticipation"
     ],
     [
-      "conflict",
+      "people",
       3,
-      "anger"
+      "trust"
     ],
     [
       "warning",
       3,
       "fear"
-    ],
-    [
-      "humanitarian",
-      3,
-      "surprise"
     ],
     [
       "bank",
@@ -98,12 +93,7 @@
       "fear"
     ],
     [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
-      "iran",
+      "threatens",
       2,
       "anger"
     ],
@@ -116,6 +106,11 @@
       "hormuz",
       2,
       "fear"
+    ],
+    [
+      "conflict",
+      2,
+      "anger"
     ],
     [
       "life",
@@ -136,6 +131,11 @@
       "visitors",
       2,
       "joy"
+    ],
+    [
+      "humanitarian",
+      2,
+      "surprise"
     ],
     [
       "unrest",
@@ -171,6 +171,11 @@
       "measures",
       2,
       "trust"
+    ],
+    [
+      "investigation",
+      2,
+      "anticipation"
     ],
     [
       "advance",
@@ -213,16 +218,6 @@
       "anger"
     ],
     [
-      "supporters",
-      2,
-      "joy"
-    ],
-    [
-      "family",
-      2,
-      "joy"
-    ],
-    [
       "lose",
       2,
       "anger"
@@ -248,19 +243,44 @@
       "trust"
     ],
     [
-      "plan",
-      2,
-      "anticipation"
+      "found",
+      1,
+      "joy"
+    ],
+    [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
+      "welcomed",
+      1,
+      "joy"
+    ],
+    [
+      "restrict",
+      1,
+      "sadness"
+    ],
+    [
+      "scapegoating",
+      1,
+      "anger"
+    ],
+    [
+      "lower",
+      1,
+      "sadness"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
     ],
     [
       "grow",
       1,
       "joy"
-    ],
-    [
-      "threatens",
-      1,
-      "anger"
     ],
     [
       "polls",
@@ -356,36 +376,16 @@
       "sour",
       1,
       "disgust"
-    ],
-    [
-      "tensions",
-      1,
-      "anger"
-    ],
-    [
-      "coaxed",
-      1,
-      "trust"
-    ],
-    [
-      "attempt",
-      1,
-      "anticipation"
-    ],
-    [
-      "presented",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
-    "trust": 60,
-    "fear": 54,
-    "surprise": 13,
-    "sadness": 10,
-    "disgust": 5,
-    "anger": 91,
-    "anticipation": 25
+    "joy": 36,
+    "trust": 57,
+    "fear": 51,
+    "surprise": 12,
+    "sadness": 12,
+    "disgust": 4,
+    "anger": 92,
+    "anticipation": 23
   }
 }
