@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:15:05.878Z",
+  "generated_at": "2026-10-22T13:30:09.065Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "trust"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "government",
       5,
       "fear"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "attack",
@@ -58,12 +58,12 @@
       "joy"
     ],
     [
-      "conflict",
+      "riots",
       3,
       "anger"
     ],
     [
-      "riots",
+      "conflict",
       3,
       "anger"
     ],
@@ -253,11 +253,6 @@
       "anticipation"
     ],
     [
-      "grow",
-      1,
-      "joy"
-    ],
-    [
       "condemns",
       1,
       "anger"
@@ -276,6 +271,11 @@
       "determination",
       1,
       "trust"
+    ],
+    [
+      "grow",
+      1,
+      "joy"
     ],
     [
       "threatens",
