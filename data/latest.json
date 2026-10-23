@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:11:03.887Z",
+  "generated_at": "2026-10-23T08:26:06.112Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "storm",
+      3,
+      "anger"
+    ],
+    [
       "youth",
       3,
       "anger"
@@ -56,11 +61,6 @@
       "veto",
       3,
       "anger"
-    ],
-    [
-      "approved",
-      3,
-      "joy"
     ],
     [
       "humanitarian",
@@ -83,14 +83,19 @@
       "trust"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "officials",
       2,
       "trust"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
+      "strike",
+      2,
+      "anger"
     ],
     [
       "ruling",
@@ -198,6 +203,11 @@
       "sadness"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "public",
       2,
       "anticipation"
@@ -236,6 +246,16 @@
       "crippling",
       1,
       "fear"
+    ],
+    [
+      "flooding",
+      1,
+      "fear"
+    ],
+    [
+      "rain",
+      1,
+      "joy"
     ],
     [
       "pay",
@@ -338,6 +358,11 @@
       "fear"
     ],
     [
+      "approved",
+      1,
+      "joy"
+    ],
+    [
       "blaming",
       1,
       "anger"
@@ -351,41 +376,16 @@
       "words",
       1,
       "anger"
-    ],
-    [
-      "erupted",
-      1,
-      "anger"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
-    ],
-    [
-      "plans",
-      1,
-      "anticipation"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
-    ],
-    [
-      "wildfires",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 22,
     "trust": 49,
     "fear": 51,
     "surprise": 13,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 5,
-    "anger": 89,
+    "anger": 92,
     "anticipation": 22
   }
 }
