@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:55:44.333Z",
+  "generated_at": "2026-10-23T08:10:46.596Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,17 +18,17 @@
       "anger"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "unrest",
       4,
       "fear"
     ],
     [
       "guardian",
+      4,
+      "trust"
+    ],
+    [
+      "president",
       4,
       "trust"
     ],
@@ -86,6 +86,11 @@
       "government",
       3,
       "fear"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "ruling",
@@ -218,14 +223,24 @@
       "fear"
     ],
     [
+      "limited",
+      1,
+      "anger"
+    ],
+    [
+      "cap",
+      1,
+      "trust"
+    ],
+    [
+      "crippling",
+      1,
+      "fear"
+    ],
+    [
       "pay",
       1,
       "joy"
-    ],
-    [
-      "officials",
-      1,
-      "trust"
     ],
     [
       "fear",
@@ -361,31 +376,16 @@
       "wildfires",
       1,
       "fear"
-    ],
-    [
-      "scorching",
-      1,
-      "anger"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 48,
-    "fear": 52,
+    "joy": 23,
+    "trust": 49,
+    "fear": 51,
     "surprise": 13,
     "sadness": 13,
     "disgust": 5,
-    "anger": 91,
+    "anger": 89,
     "anticipation": 22
   }
 }
