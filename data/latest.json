@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:30:38.010Z",
+  "generated_at": "2026-10-23T16:45:40.744Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,19 +23,19 @@
       "surprise"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "people",
-      4,
+      5,
       "trust"
     ],
     [
       "unrest",
       4,
       "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "iran",
@@ -51,11 +51,6 @@
       "police",
       3,
       "fear"
-    ],
-    [
-      "parliament",
-      3,
-      "trust"
     ],
     [
       "life",
@@ -74,16 +69,6 @@
     ],
     [
       "youth",
-      3,
-      "anger"
-    ],
-    [
-      "abortion",
-      3,
-      "fear"
-    ],
-    [
-      "veto",
       3,
       "anger"
     ],
@@ -123,6 +108,11 @@
       "disgust"
     ],
     [
+      "parliament",
+      2,
+      "trust"
+    ],
+    [
       "violence",
       2,
       "anger"
@@ -133,7 +123,17 @@
       "joy"
     ],
     [
+      "show",
+      2,
+      "trust"
+    ],
+    [
       "fear",
+      2,
+      "anger"
+    ],
+    [
+      "veto",
       2,
       "anger"
     ],
@@ -233,6 +233,26 @@
       "joy"
     ],
     [
+      "opposition",
+      1,
+      "anger"
+    ],
+    [
+      "outrage",
+      1,
+      "anger"
+    ],
+    [
+      "socialist",
+      1,
+      "anger"
+    ],
+    [
+      "wrongdoing",
+      1,
+      "anger"
+    ],
+    [
       "weeds",
       1,
       "sadness"
@@ -286,11 +306,6 @@
       "smash",
       1,
       "anger"
-    ],
-    [
-      "show",
-      1,
-      "trust"
     ],
     [
       "progress",
@@ -361,27 +376,12 @@
       "ruling",
       1,
       "fear"
-    ],
-    [
-      "challenging",
-      1,
-      "anger"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
-    ],
-    [
-      "fury",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 47,
-    "fear": 44,
+    "trust": 46,
+    "fear": 42,
     "surprise": 13,
     "sadness": 14,
     "disgust": 6,
