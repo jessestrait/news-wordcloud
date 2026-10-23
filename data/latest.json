@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:14:46.169Z",
+  "generated_at": "2026-10-23T15:29:47.980Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,14 +28,14 @@
       "trust"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "unrest",
       4,
       "fear"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "iran",
@@ -83,19 +83,9 @@
       "anticipation"
     ],
     [
-      "guardian",
-      2,
-      "trust"
-    ],
-    [
       "food",
       2,
       "joy"
-    ],
-    [
-      "shortages",
-      2,
-      "anger"
     ],
     [
       "police",
@@ -104,6 +94,16 @@
     ],
     [
       "violence",
+      2,
+      "anger"
+    ],
+    [
+      "guardian",
+      2,
+      "trust"
+    ],
+    [
+      "shortages",
       2,
       "anger"
     ],
@@ -203,11 +203,6 @@
       "anticipation"
     ],
     [
-      "riots",
-      1,
-      "anger"
-    ],
-    [
       "white",
       1,
       "joy"
@@ -228,14 +223,19 @@
       "joy"
     ],
     [
-      "weeds",
-      1,
-      "sadness"
-    ],
-    [
       "prevent",
       1,
       "fear"
+    ],
+    [
+      "riots",
+      1,
+      "anger"
+    ],
+    [
+      "weeds",
+      1,
+      "sadness"
     ],
     [
       "antidote",
