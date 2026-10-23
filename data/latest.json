@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:04:10.436Z",
+  "generated_at": "2026-10-23T23:19:12.365Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "humanitarian",
-      5,
-      "surprise"
-    ],
-    [
       "iran",
       5,
       "anger"
@@ -33,9 +28,9 @@
       "trust"
     ],
     [
-      "leader",
-      5,
-      "trust"
+      "humanitarian",
+      4,
+      "surprise"
     ],
     [
       "unrest",
@@ -48,7 +43,7 @@
       "anger"
     ],
     [
-      "president",
+      "leaders",
       4,
       "trust"
     ],
@@ -81,6 +76,11 @@
       "youth",
       3,
       "anger"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "strike",
@@ -191,6 +191,11 @@
       "rising",
       2,
       "joy"
+    ],
+    [
+      "allies",
+      1,
+      "trust"
     ],
     [
       "homes",
@@ -371,21 +376,16 @@
       "witnessed",
       1,
       "trust"
-    ],
-    [
-      "prevent",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 44,
-    "fear": 47,
-    "surprise": 13,
+    "trust": 41,
+    "fear": 46,
+    "surprise": 12,
     "sadness": 15,
     "disgust": 5,
-    "anger": 104,
-    "anticipation": 21
+    "anger": 103,
+    "anticipation": 20
   }
 }
