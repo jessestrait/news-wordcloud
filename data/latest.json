@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:56:26.268Z",
+  "generated_at": "2026-10-23T09:11:28.467Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,21 +98,6 @@
       "anger"
     ],
     [
-      "ruling",
-      2,
-      "fear"
-    ],
-    [
-      "challenging",
-      2,
-      "anger"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "violence",
       2,
       "anger"
@@ -126,6 +111,11 @@
       "restrictions",
       2,
       "anger"
+    ],
+    [
+      "commission",
+      2,
+      "trust"
     ],
     [
       "military",
@@ -228,11 +218,6 @@
       "fear"
     ],
     [
-      "riots",
-      1,
-      "anger"
-    ],
-    [
       "limited",
       1,
       "anger"
@@ -246,6 +231,11 @@
       "crippling",
       1,
       "fear"
+    ],
+    [
+      "riots",
+      1,
+      "anger"
     ],
     [
       "flooding",
@@ -281,6 +271,21 @@
       "topple",
       1,
       "surprise"
+    ],
+    [
+      "ruling",
+      1,
+      "fear"
+    ],
+    [
+      "challenging",
+      1,
+      "anger"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
     ],
     [
       "fury",
@@ -371,21 +376,16 @@
       "row",
       1,
       "anger"
-    ],
-    [
-      "words",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 49,
-    "fear": 51,
-    "surprise": 13,
+    "trust": 55,
+    "fear": 50,
+    "surprise": 12,
     "sadness": 12,
     "disgust": 5,
     "anger": 91,
-    "anticipation": 22
+    "anticipation": 21
   }
 }
