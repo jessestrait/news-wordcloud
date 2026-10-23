@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:11:54.932Z",
+  "generated_at": "2026-10-23T10:26:57.023Z",
   "article_count": 50,
   "top_words": [
     [
@@ -35,6 +35,11 @@
     [
       "attack",
       4,
+      "anger"
+    ],
+    [
+      "hit",
+      3,
       "anger"
     ],
     [
@@ -98,16 +103,6 @@
       "trust"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
-      "strike",
-      2,
-      "anger"
-    ],
-    [
       "violence",
       2,
       "anger"
@@ -123,11 +118,6 @@
       "anger"
     ],
     [
-      "commission",
-      2,
-      "trust"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -139,6 +129,11 @@
     ],
     [
       "threatens",
+      2,
+      "anger"
+    ],
+    [
+      "strike",
       2,
       "anger"
     ],
@@ -195,6 +190,41 @@
     [
       "volunteers",
       2,
+      "trust"
+    ],
+    [
+      "puppy",
+      1,
+      "trust"
+    ],
+    [
+      "love",
+      1,
+      "joy"
+    ],
+    [
+      "smash",
+      1,
+      "anger"
+    ],
+    [
+      "show",
+      1,
+      "trust"
+    ],
+    [
+      "progress",
+      1,
+      "joy"
+    ],
+    [
+      "birth",
+      1,
+      "fear"
+    ],
+    [
+      "weigh",
+      1,
       "trust"
     ],
     [
@@ -346,46 +376,16 @@
       "dismays",
       1,
       "anger"
-    ],
-    [
-      "quash",
-      1,
-      "fear"
-    ],
-    [
-      "approved",
-      1,
-      "joy"
-    ],
-    [
-      "blaming",
-      1,
-      "anger"
-    ],
-    [
-      "row",
-      1,
-      "anger"
-    ],
-    [
-      "words",
-      1,
-      "anger"
-    ],
-    [
-      "erupted",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 54,
-    "fear": 47,
+    "joy": 23,
+    "trust": 51,
+    "fear": 48,
     "surprise": 12,
     "sadness": 12,
     "disgust": 5,
-    "anger": 90,
+    "anger": 91,
     "anticipation": 20
   }
 }
