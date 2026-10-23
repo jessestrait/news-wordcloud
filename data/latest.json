@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-23T04:54:14.002Z",
+  "generated_at": "2026-10-23T05:09:15.861Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      8,
-      "anger"
-    ],
-    [
-      "trump",
-      6,
+      7,
       "anger"
     ],
     [
       "leader",
       6,
       "trust"
+    ],
+    [
+      "trump",
+      5,
+      "anger"
     ],
     [
       "president",
@@ -28,6 +28,11 @@
       "anger"
     ],
     [
+      "unrest",
+      4,
+      "fear"
+    ],
+    [
       "guardian",
       4,
       "trust"
@@ -35,6 +40,11 @@
     [
       "iran",
       4,
+      "anger"
+    ],
+    [
+      "youth",
+      3,
       "anger"
     ],
     [
@@ -63,11 +73,6 @@
       "trust"
     ],
     [
-      "unrest",
-      3,
-      "fear"
-    ],
-    [
       "strike",
       3,
       "anger"
@@ -88,9 +93,9 @@
       "fear"
     ],
     [
-      "public",
-      3,
-      "anticipation"
+      "violence",
+      2,
+      "anger"
     ],
     [
       "parliament",
@@ -188,6 +193,11 @@
       "anger"
     ],
     [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
       "blasts",
       2,
       "anger"
@@ -208,11 +218,6 @@
       "fear"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "battle",
       2,
       "anger"
@@ -220,6 +225,46 @@
     [
       "lose",
       2,
+      "anger"
+    ],
+    [
+      "lost",
+      1,
+      "sadness"
+    ],
+    [
+      "expose",
+      1,
+      "fear"
+    ],
+    [
+      "immigrant",
+      1,
+      "fear"
+    ],
+    [
+      "delayed",
+      1,
+      "anger"
+    ],
+    [
+      "success",
+      1,
+      "joy"
+    ],
+    [
+      "university",
+      1,
+      "anticipation"
+    ],
+    [
+      "fees",
+      1,
+      "anger"
+    ],
+    [
+      "surcharges",
+      1,
       "anger"
     ],
     [
@@ -331,61 +376,16 @@
       "found",
       1,
       "joy"
-    ],
-    [
-      "death",
-      1,
-      "sadness"
-    ],
-    [
-      "welcomed",
-      1,
-      "joy"
-    ],
-    [
-      "restrict",
-      1,
-      "sadness"
-    ],
-    [
-      "scapegoating",
-      1,
-      "anger"
-    ],
-    [
-      "lower",
-      1,
-      "sadness"
-    ],
-    [
-      "leave",
-      1,
-      "sadness"
-    ],
-    [
-      "grow",
-      1,
-      "joy"
-    ],
-    [
-      "polls",
-      1,
-      "trust"
-    ],
-    [
-      "budget",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 50,
-    "fear": 47,
+    "joy": 24,
+    "trust": 47,
+    "fear": 50,
     "surprise": 12,
-    "sadness": 11,
+    "sadness": 12,
     "disgust": 5,
-    "anger": 94,
-    "anticipation": 21
+    "anger": 96,
+    "anticipation": 20
   }
 }
