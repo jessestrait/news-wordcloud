@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-10-23T14:29:23.136Z",
+  "generated_at": "2026-10-23T14:44:25.564Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
       7,
       "anger"
-    ],
-    [
-      "leader",
-      7,
-      "trust"
     ],
     [
       "president",
@@ -21,6 +16,11 @@
       "war",
       6,
       "anger"
+    ],
+    [
+      "leader",
+      6,
+      "trust"
     ],
     [
       "humanitarian",
@@ -93,6 +93,16 @@
       "trust"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
+      "violence",
+      2,
+      "anger"
+    ],
+    [
       "beauty",
       2,
       "joy"
@@ -109,11 +119,6 @@
     ],
     [
       "fear",
-      2,
-      "anger"
-    ],
-    [
-      "violence",
       2,
       "anger"
     ],
@@ -198,11 +203,6 @@
       "anticipation"
     ],
     [
-      "riots",
-      1,
-      "anger"
-    ],
-    [
       "white",
       1,
       "joy"
@@ -226,6 +226,16 @@
       "resources",
       1,
       "joy"
+    ],
+    [
+      "riots",
+      1,
+      "anger"
+    ],
+    [
+      "prevent",
+      1,
+      "fear"
     ],
     [
       "antidote",
@@ -366,26 +376,16 @@
       "unprecedented",
       1,
       "surprise"
-    ],
-    [
-      "lost",
-      1,
-      "sadness"
-    ],
-    [
-      "expose",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 50,
-    "fear": 43,
+    "trust": 49,
+    "fear": 44,
     "surprise": 12,
     "sadness": 13,
     "disgust": 5,
-    "anger": 100,
+    "anger": 99,
     "anticipation": 21
   }
 }
