@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:13:24.371Z",
+  "generated_at": "2026-10-23T13:28:26.574Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
+      "president",
+      6,
+      "trust"
+    ],
+    [
       "war",
       6,
       "anger"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "unrest",
@@ -203,19 +203,14 @@
       "trust"
     ],
     [
-      "ongoing",
+      "continuing",
       1,
-      "anticipation"
+      "trust"
     ],
     [
       "problems",
       1,
       "fear"
-    ],
-    [
-      "network",
-      1,
-      "anticipation"
     ],
     [
       "puppy",
@@ -376,16 +371,21 @@
       "university",
       1,
       "anticipation"
+    ],
+    [
+      "fees",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 50,
+    "trust": 52,
     "fear": 46,
     "surprise": 12,
     "sadness": 12,
     "disgust": 6,
     "anger": 91,
-    "anticipation": 22
+    "anticipation": 20
   }
 }
