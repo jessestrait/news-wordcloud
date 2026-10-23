@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:18:47.892Z",
+  "generated_at": "2026-10-23T22:33:50.859Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,6 +10,11 @@
     [
       "war",
       6,
+      "anger"
+    ],
+    [
+      "storm",
+      5,
       "anger"
     ],
     [
@@ -26,11 +31,6 @@
       "people",
       5,
       "trust"
-    ],
-    [
-      "storm",
-      5,
-      "anger"
     ],
     [
       "leader",
@@ -93,6 +93,11 @@
       "anticipation"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "happened",
       2,
       "anticipation"
@@ -106,11 +111,6 @@
       "deadly",
       2,
       "anger"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "shortages",
@@ -191,6 +191,16 @@
       "rising",
       2,
       "joy"
+    ],
+    [
+      "homes",
+      1,
+      "joy"
+    ],
+    [
+      "schools",
+      1,
+      "trust"
     ],
     [
       "condemns",
@@ -336,16 +346,6 @@
       "wrongdoing",
       1,
       "anger"
-    ],
-    [
-      "homes",
-      1,
-      "joy"
-    ],
-    [
-      "schools",
-      1,
-      "trust"
     ],
     [
       "weeds",
