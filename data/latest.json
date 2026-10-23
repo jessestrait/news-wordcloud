@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T12:13:01.453Z",
+  "generated_at": "2026-10-23T12:28:03.811Z",
   "article_count": 50,
   "top_words": [
     [
@@ -183,21 +183,6 @@
       "anticipation"
     ],
     [
-      "ongoing",
-      1,
-      "anticipation"
-    ],
-    [
-      "problems",
-      1,
-      "fear"
-    ],
-    [
-      "network",
-      1,
-      "anticipation"
-    ],
-    [
       "officers",
       1,
       "trust"
@@ -216,6 +201,21 @@
       "blanket",
       1,
       "trust"
+    ],
+    [
+      "ongoing",
+      1,
+      "anticipation"
+    ],
+    [
+      "problems",
+      1,
+      "fear"
+    ],
+    [
+      "network",
+      1,
+      "anticipation"
     ],
     [
       "puppy",
