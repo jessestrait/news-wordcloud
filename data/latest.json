@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T03:53:50.957Z",
+  "generated_at": "2026-10-23T04:08:53.160Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,14 +38,19 @@
       "anger"
     ],
     [
-      "government",
-      4,
+      "abortion",
+      3,
       "fear"
     ],
     [
-      "military",
+      "veto",
       3,
-      "fear"
+      "anger"
+    ],
+    [
+      "approved",
+      3,
+      "joy"
     ],
     [
       "humanitarian",
@@ -78,9 +83,19 @@
       "trust"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "public",
       3,
       "anticipation"
+    ],
+    [
+      "parliament",
+      2,
+      "trust"
     ],
     [
       "erupted",
@@ -91,6 +106,11 @@
       "restrictions",
       2,
       "anger"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "riots",
@@ -173,16 +193,6 @@
       "anger"
     ],
     [
-      "abortion",
-      2,
-      "fear"
-    ],
-    [
-      "measures",
-      2,
-      "trust"
-    ],
-    [
       "investigation",
       2,
       "anticipation"
@@ -203,11 +213,6 @@
       "anticipation"
     ],
     [
-      "approved",
-      2,
-      "joy"
-    ],
-    [
       "battle",
       2,
       "anger"
@@ -216,6 +221,16 @@
       "lose",
       2,
       "anger"
+    ],
+    [
+      "dismays",
+      1,
+      "anger"
+    ],
+    [
+      "quash",
+      1,
+      "fear"
     ],
     [
       "blaming",
@@ -361,31 +376,16 @@
       "budget",
       1,
       "trust"
-    ],
-    [
-      "turmoil",
-      1,
-      "anger"
-    ],
-    [
-      "hit",
-      1,
-      "anger"
-    ],
-    [
-      "bout",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 51,
+    "joy": 27,
+    "trust": 50,
     "fear": 47,
     "surprise": 12,
     "sadness": 11,
     "disgust": 5,
-    "anger": 92,
+    "anger": 94,
     "anticipation": 21
   }
 }
