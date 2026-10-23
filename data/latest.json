@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:57:17.872Z",
+  "generated_at": "2026-10-23T11:12:20.091Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,13 +8,13 @@
       "trust"
     ],
     [
-      "trump",
+      "war",
       6,
       "anger"
     ],
     [
-      "war",
-      6,
+      "trump",
+      5,
       "anger"
     ],
     [
@@ -85,11 +85,6 @@
     [
       "bank",
       3,
-      "trust"
-    ],
-    [
-      "officials",
-      2,
       "trust"
     ],
     [
@@ -193,19 +188,24 @@
       "trust"
     ],
     [
-      "limited",
+      "interior",
       1,
-      "anger"
+      "disgust"
     ],
     [
-      "cap",
+      "authorities",
       1,
       "trust"
     ],
     [
-      "crippling",
+      "defended",
       1,
-      "fear"
+      "trust"
+    ],
+    [
+      "blanket",
+      1,
+      "trust"
     ],
     [
       "puppy",
@@ -276,6 +276,11 @@
       "pay",
       1,
       "joy"
+    ],
+    [
+      "officials",
+      1,
+      "trust"
     ],
     [
       "unseat",
@@ -371,21 +376,16 @@
       "surcharges",
       1,
       "anger"
-    ],
-    [
-      "dismays",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 51,
-    "fear": 48,
+    "trust": 52,
+    "fear": 47,
     "surprise": 12,
     "sadness": 12,
-    "disgust": 5,
-    "anger": 91,
+    "disgust": 6,
+    "anger": 89,
     "anticipation": 20
   }
 }
