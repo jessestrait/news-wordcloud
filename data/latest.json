@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:41:51.093Z",
+  "generated_at": "2026-10-23T09:56:52.948Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,13 +9,18 @@
     ],
     [
       "trump",
-      5,
+      6,
       "anger"
     ],
     [
       "war",
-      5,
+      6,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "guardian",
@@ -26,11 +31,6 @@
       "unrest",
       4,
       "fear"
-    ],
-    [
-      "president",
-      4,
-      "trust"
     ],
     [
       "iran",
@@ -61,6 +61,11 @@
       "veto",
       3,
       "anger"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "humanitarian",
@@ -118,11 +123,6 @@
       "trust"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -173,11 +173,6 @@
       "anticipation"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "visitors",
       2,
       "joy"
@@ -186,16 +181,6 @@
       "obituary",
       2,
       "sadness"
-    ],
-    [
-      "government",
-      2,
-      "fear"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "blasts",
@@ -376,16 +361,31 @@
       "row",
       1,
       "anger"
+    ],
+    [
+      "words",
+      1,
+      "anger"
+    ],
+    [
+      "erupted",
+      1,
+      "anger"
+    ],
+    [
+      "responsible",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 55,
-    "fear": 50,
+    "trust": 57,
+    "fear": 48,
     "surprise": 12,
     "sadness": 12,
     "disgust": 5,
-    "anger": 91,
-    "anticipation": 21
+    "anger": 88,
+    "anticipation": 20
   }
 }
