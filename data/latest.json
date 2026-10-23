@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:33:23.868Z",
+  "generated_at": "2026-10-23T21:48:26.743Z",
   "article_count": 50,
   "top_words": [
     [
@@ -193,26 +193,6 @@
       "joy"
     ],
     [
-      "white",
-      1,
-      "joy"
-    ],
-    [
-      "house",
-      1,
-      "joy"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
-    ],
-    [
-      "resources",
-      1,
-      "joy"
-    ],
-    [
       "condemns",
       1,
       "anger"
@@ -241,6 +221,26 @@
       "injuring",
       1,
       "anger"
+    ],
+    [
+      "white",
+      1,
+      "joy"
+    ],
+    [
+      "house",
+      1,
+      "joy"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
+      "resources",
+      1,
+      "joy"
     ],
     [
       "mysterious",
