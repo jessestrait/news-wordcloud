@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-10-23T02:08:03.047Z",
+  "generated_at": "2026-10-23T02:23:05.563Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      7,
+      8,
+      "anger"
+    ],
+    [
+      "trump",
+      6,
       "anger"
     ],
     [
@@ -23,24 +28,9 @@
       "trust"
     ],
     [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
       "guardian",
       4,
       "trust"
-    ],
-    [
-      "people",
-      4,
-      "trust"
-    ],
-    [
-      "police",
-      4,
-      "fear"
     ],
     [
       "iran",
@@ -68,6 +58,11 @@
       "surprise"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "unrest",
       3,
       "fear"
@@ -93,9 +88,24 @@
       "anticipation"
     ],
     [
+      "erupted",
+      2,
+      "anger"
+    ],
+    [
+      "restrictions",
+      2,
+      "anger"
+    ],
+    [
       "riots",
       2,
       "anger"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "peace",
@@ -213,9 +223,24 @@
       "fear"
     ],
     [
-      "seize",
-      2,
-      "fear"
+      "blaming",
+      1,
+      "anger"
+    ],
+    [
+      "row",
+      1,
+      "anger"
+    ],
+    [
+      "words",
+      1,
+      "anger"
+    ],
+    [
+      "responsible",
+      1,
+      "trust"
     ],
     [
       "plans",
@@ -351,41 +376,16 @@
       "bout",
       1,
       "anger"
-    ],
-    [
-      "risk",
-      1,
-      "fear"
-    ],
-    [
-      "closure",
-      1,
-      "sadness"
-    ],
-    [
-      "rates",
-      1,
-      "fear"
-    ],
-    [
-      "shortages",
-      1,
-      "anger"
-    ],
-    [
-      "unresolved",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 53,
-    "fear": 53,
+    "trust": 52,
+    "fear": 50,
     "surprise": 12,
     "sadness": 11,
     "disgust": 4,
-    "anger": 88,
+    "anger": 93,
     "anticipation": 20
   }
 }
