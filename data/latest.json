@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:27:13.015Z",
+  "generated_at": "2026-10-23T10:42:15.592Z",
   "article_count": 50,
   "top_words": [
     [
@@ -193,6 +193,21 @@
       "trust"
     ],
     [
+      "limited",
+      1,
+      "anger"
+    ],
+    [
+      "cap",
+      1,
+      "trust"
+    ],
+    [
+      "crippling",
+      1,
+      "fear"
+    ],
+    [
       "puppy",
       1,
       "trust"
@@ -226,21 +241,6 @@
       "weigh",
       1,
       "trust"
-    ],
-    [
-      "limited",
-      1,
-      "anger"
-    ],
-    [
-      "cap",
-      1,
-      "trust"
-    ],
-    [
-      "crippling",
-      1,
-      "fear"
     ],
     [
       "lethal",
