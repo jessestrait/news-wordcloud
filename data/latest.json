@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:47:01.008Z",
+  "generated_at": "2026-10-23T19:02:03.988Z",
   "article_count": 50,
   "top_words": [
     [
@@ -56,6 +56,11 @@
       "attack",
       4,
       "anger"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "police",
@@ -158,11 +163,6 @@
       "anger"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "peace",
       2,
       "joy"
@@ -198,11 +198,6 @@
       "joy"
     ],
     [
-      "global",
-      2,
-      "anticipation"
-    ],
-    [
       "white",
       1,
       "joy"
@@ -221,6 +216,26 @@
       "resources",
       1,
       "joy"
+    ],
+    [
+      "mysterious",
+      1,
+      "fear"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
+      "vanished",
+      1,
+      "fear"
+    ],
+    [
+      "suddenly",
+      1,
+      "surprise"
     ],
     [
       "launches",
@@ -361,31 +376,16 @@
       "smash",
       1,
       "anger"
-    ],
-    [
-      "progress",
-      1,
-      "joy"
-    ],
-    [
-      "birth",
-      1,
-      "fear"
-    ],
-    [
-      "weigh",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
     "trust": 45,
-    "fear": 42,
-    "surprise": 12,
-    "sadness": 15,
+    "fear": 45,
+    "surprise": 13,
+    "sadness": 16,
     "disgust": 6,
-    "anger": 100,
-    "anticipation": 21
+    "anger": 99,
+    "anticipation": 20
   }
 }
