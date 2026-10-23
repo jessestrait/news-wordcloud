@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:41:08.228Z",
+  "generated_at": "2026-10-23T08:56:10.615Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "unrest",
-      4,
-      "fear"
-    ],
-    [
       "guardian",
       4,
       "trust"
+    ],
+    [
+      "unrest",
+      4,
+      "fear"
     ],
     [
       "president",
@@ -133,11 +133,6 @@
       "fear"
     ],
     [
-      "riots",
-      2,
-      "anger"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -231,6 +226,11 @@
       "watch",
       2,
       "fear"
+    ],
+    [
+      "riots",
+      1,
+      "anger"
     ],
     [
       "limited",
@@ -385,7 +385,7 @@
     "surprise": 13,
     "sadness": 12,
     "disgust": 5,
-    "anger": 92,
+    "anger": 91,
     "anticipation": 22
   }
 }
