@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:46:13.842Z",
+  "generated_at": "2026-10-23T18:01:16.579Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
       "humanitarian",
       5,
       "surprise"
+    ],
+    [
+      "iran",
+      5,
+      "anger"
     ],
     [
       "people",
@@ -88,6 +88,11 @@
       "anticipation"
     ],
     [
+      "food",
+      2,
+      "joy"
+    ],
+    [
       "killed",
       2,
       "fear"
@@ -96,11 +101,6 @@
       "deadly",
       2,
       "anger"
-    ],
-    [
-      "food",
-      2,
-      "joy"
     ],
     [
       "shortages",
@@ -203,6 +203,26 @@
       "anticipation"
     ],
     [
+      "white",
+      1,
+      "joy"
+    ],
+    [
+      "house",
+      1,
+      "joy"
+    ],
+    [
+      "worsening",
+      1,
+      "disgust"
+    ],
+    [
+      "resources",
+      1,
+      "joy"
+    ],
+    [
       "launches",
       1,
       "anticipation"
@@ -251,26 +271,6 @@
       "middle",
       1,
       "sadness"
-    ],
-    [
-      "white",
-      1,
-      "joy"
-    ],
-    [
-      "house",
-      1,
-      "joy"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
-    ],
-    [
-      "resources",
-      1,
-      "joy"
     ],
     [
       "opposition",
