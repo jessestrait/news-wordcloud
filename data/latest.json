@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-23T05:54:57.196Z",
+  "generated_at": "2026-10-23T06:09:59.643Z",
   "article_count": 50,
   "top_words": [
     [
       "leader",
-      6,
+      7,
       "trust"
     ],
     [
@@ -85,6 +85,11 @@
     [
       "government",
       3,
+      "fear"
+    ],
+    [
+      "ruling",
+      2,
       "fear"
     ],
     [
@@ -188,11 +193,6 @@
       "sadness"
     ],
     [
-      "controversial",
-      2,
-      "anger"
-    ],
-    [
       "public",
       2,
       "anticipation"
@@ -218,14 +218,34 @@
       "fear"
     ],
     [
-      "battle",
-      2,
+      "pay",
+      1,
+      "joy"
+    ],
+    [
+      "officials",
+      1,
+      "trust"
+    ],
+    [
+      "fear",
+      1,
       "anger"
     ],
     [
-      "lose",
-      2,
+      "unseat",
+      1,
+      "sadness"
+    ],
+    [
+      "grabs",
+      1,
       "anger"
+    ],
+    [
+      "topple",
+      1,
+      "surprise"
     ],
     [
       "fury",
@@ -356,36 +376,16 @@
       "killed",
       1,
       "fear"
-    ],
-    [
-      "innocent",
-      1,
-      "trust"
-    ],
-    [
-      "illegitimate",
-      1,
-      "anger"
-    ],
-    [
-      "tax",
-      1,
-      "sadness"
-    ],
-    [
-      "inquiry",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 47,
-    "fear": 50,
+    "joy": 25,
+    "trust": 48,
+    "fear": 52,
     "surprise": 13,
-    "sadness": 12,
+    "sadness": 13,
     "disgust": 5,
-    "anger": 93,
+    "anger": 91,
     "anticipation": 22
   }
 }
