@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:45:04.643Z",
+  "generated_at": "2026-10-23T16:00:07.062Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anger"
     ],
     [
+      "police",
+      3,
+      "fear"
+    ],
+    [
       "parliament",
       3,
       "trust"
@@ -88,6 +93,16 @@
       "anticipation"
     ],
     [
+      "politics",
+      2,
+      "anger"
+    ],
+    [
+      "guardian",
+      2,
+      "trust"
+    ],
+    [
       "food",
       2,
       "joy"
@@ -101,16 +116,6 @@
       "john",
       2,
       "disgust"
-    ],
-    [
-      "guardian",
-      2,
-      "trust"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "violence",
@@ -208,6 +213,11 @@
       "anger"
     ],
     [
+      "marine",
+      1,
+      "trust"
+    ],
+    [
       "white",
       1,
       "joy"
@@ -231,16 +241,6 @@
       "witnessed",
       1,
       "trust"
-    ],
-    [
-      "politics",
-      1,
-      "anger"
-    ],
-    [
-      "riots",
-      1,
-      "anger"
     ],
     [
       "prevent",
@@ -380,8 +380,8 @@
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 46,
-    "fear": 43,
+    "trust": 47,
+    "fear": 44,
     "surprise": 13,
     "sadness": 14,
     "disgust": 6,
