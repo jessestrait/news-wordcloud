@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:56:52.948Z",
+  "generated_at": "2026-10-23T10:11:54.932Z",
   "article_count": 50,
   "top_words": [
     [
@@ -20,11 +20,6 @@
     [
       "president",
       5,
-      "trust"
-    ],
-    [
-      "guardian",
-      4,
       "trust"
     ],
     [
@@ -89,6 +84,16 @@
     ],
     [
       "officials",
+      2,
+      "trust"
+    ],
+    [
+      "fear",
+      2,
+      "anger"
+    ],
+    [
+      "guardian",
       2,
       "trust"
     ],
@@ -173,11 +178,6 @@
       "anticipation"
     ],
     [
-      "visitors",
-      2,
-      "joy"
-    ],
-    [
       "obituary",
       2,
       "sadness"
@@ -198,11 +198,6 @@
       "trust"
     ],
     [
-      "watch",
-      2,
-      "fear"
-    ],
-    [
       "limited",
       1,
       "anger"
@@ -216,6 +211,21 @@
       "crippling",
       1,
       "fear"
+    ],
+    [
+      "lethal",
+      1,
+      "fear"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
+      "economies",
+      1,
+      "trust"
     ],
     [
       "riots",
@@ -236,11 +246,6 @@
       "pay",
       1,
       "joy"
-    ],
-    [
-      "fear",
-      1,
-      "anger"
     ],
     [
       "unseat",
@@ -371,21 +376,16 @@
       "erupted",
       1,
       "anger"
-    ],
-    [
-      "responsible",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 57,
-    "fear": 48,
+    "joy": 21,
+    "trust": 54,
+    "fear": 47,
     "surprise": 12,
     "sadness": 12,
     "disgust": 5,
-    "anger": 88,
+    "anger": 90,
     "anticipation": 20
   }
 }
