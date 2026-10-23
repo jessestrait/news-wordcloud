@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-23T14:14:20.833Z",
+  "generated_at": "2026-10-23T14:29:23.136Z",
   "article_count": 50,
   "top_words": [
+    [
+      "trump",
+      7,
+      "anger"
+    ],
     [
       "leader",
       7,
       "trust"
-    ],
-    [
-      "trump",
-      6,
-      "anger"
     ],
     [
       "president",
@@ -21,6 +21,11 @@
       "war",
       6,
       "anger"
+    ],
+    [
+      "humanitarian",
+      4,
+      "surprise"
     ],
     [
       "unrest",
@@ -71,11 +76,6 @@
       "veto",
       3,
       "anger"
-    ],
-    [
-      "humanitarian",
-      3,
-      "surprise"
     ],
     [
       "people",
@@ -203,27 +203,32 @@
       "anger"
     ],
     [
-      "antidote",
+      "white",
       1,
-      "trust"
+      "joy"
     ],
     [
-      "officers",
+      "house",
       1,
-      "trust"
+      "joy"
     ],
     [
-      "interior",
+      "worsening",
       1,
       "disgust"
     ],
     [
-      "defended",
+      "food",
       1,
-      "trust"
+      "joy"
     ],
     [
-      "blanket",
+      "resources",
+      1,
+      "joy"
+    ],
+    [
+      "antidote",
       1,
       "trust"
     ],
@@ -371,21 +376,16 @@
       "expose",
       1,
       "fear"
-    ],
-    [
-      "immigrant",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 53,
+    "joy": 28,
+    "trust": 50,
     "fear": 43,
-    "surprise": 11,
+    "surprise": 12,
     "sadness": 13,
     "disgust": 5,
-    "anger": 99,
+    "anger": 100,
     "anticipation": 21
   }
 }
