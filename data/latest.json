@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-10-23T14:44:25.564Z",
+  "generated_at": "2026-10-23T14:59:27.946Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      7,
-      "anger"
-    ],
-    [
-      "president",
       6,
-      "trust"
+      "anger"
     ],
     [
       "war",
@@ -24,8 +19,18 @@
     ],
     [
       "humanitarian",
-      4,
+      5,
       "surprise"
+    ],
+    [
+      "president",
+      5,
+      "trust"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "unrest",
@@ -46,11 +51,6 @@
       "life",
       3,
       "joy"
-    ],
-    [
-      "restrictions",
-      3,
-      "anger"
     ],
     [
       "hit",
@@ -78,14 +78,19 @@
       "anger"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "prepares",
       3,
       "anticipation"
+    ],
+    [
+      "shortages",
+      2,
+      "anger"
+    ],
+    [
+      "food",
+      2,
+      "joy"
     ],
     [
       "guardian",
@@ -108,16 +113,6 @@
       "joy"
     ],
     [
-      "communications",
-      2,
-      "trust"
-    ],
-    [
-      "system",
-      2,
-      "trust"
-    ],
-    [
       "fear",
       2,
       "anger"
@@ -126,6 +121,11 @@
       "parliament",
       2,
       "trust"
+    ],
+    [
+      "restrictions",
+      2,
+      "anger"
     ],
     [
       "military",
@@ -203,6 +203,11 @@
       "anticipation"
     ],
     [
+      "weeds",
+      1,
+      "sadness"
+    ],
+    [
       "white",
       1,
       "joy"
@@ -216,11 +221,6 @@
       "worsening",
       1,
       "disgust"
-    ],
-    [
-      "food",
-      1,
-      "joy"
     ],
     [
       "resources",
@@ -241,16 +241,6 @@
       "antidote",
       1,
       "trust"
-    ],
-    [
-      "continuing",
-      1,
-      "trust"
-    ],
-    [
-      "problems",
-      1,
-      "fear"
     ],
     [
       "puppy",
@@ -376,16 +366,26 @@
       "unprecedented",
       1,
       "surprise"
+    ],
+    [
+      "lost",
+      1,
+      "sadness"
+    ],
+    [
+      "expose",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 49,
-    "fear": 44,
-    "surprise": 12,
-    "sadness": 13,
+    "joy": 29,
+    "trust": 46,
+    "fear": 43,
+    "surprise": 13,
+    "sadness": 14,
     "disgust": 5,
-    "anger": 99,
+    "anger": 98,
     "anticipation": 21
   }
 }
