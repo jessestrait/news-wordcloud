@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:00:44.243Z",
+  "generated_at": "2026-10-23T17:15:46.714Z",
   "article_count": 50,
   "top_words": [
     [
@@ -46,6 +46,11 @@
       "attack",
       4,
       "anger"
+    ],
+    [
+      "obituary",
+      3,
+      "sadness"
     ],
     [
       "police",
@@ -163,11 +168,6 @@
       "anger"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "strait",
       2,
       "fear"
@@ -201,16 +201,6 @@
       "global",
       2,
       "anticipation"
-    ],
-    [
-      "obituary",
-      2,
-      "sadness"
-    ],
-    [
-      "blasts",
-      2,
-      "anger"
     ],
     [
       "white",
@@ -376,16 +366,26 @@
       "ruling",
       1,
       "fear"
+    ],
+    [
+      "challenging",
+      1,
+      "anger"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 46,
-    "fear": 42,
+    "trust": 44,
+    "fear": 41,
     "surprise": 13,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 6,
-    "anger": 100,
-    "anticipation": 21
+    "anger": 98,
+    "anticipation": 19
   }
 }
