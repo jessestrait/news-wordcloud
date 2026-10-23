@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-23T17:16:07.606Z",
+  "generated_at": "2026-10-23T17:31:11.223Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      7,
+      "anger"
+    ],
     [
       "trump",
       6,
       "anger"
     ],
     [
-      "war",
-      6,
+      "iran",
+      5,
       "anger"
-    ],
-    [
-      "leader",
-      6,
-      "trust"
     ],
     [
       "humanitarian",
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "leader",
+      5,
+      "trust"
+    ],
+    [
       "unrest",
       4,
       "fear"
@@ -36,11 +41,6 @@
       "president",
       4,
       "trust"
-    ],
-    [
-      "iran",
-      4,
-      "anger"
     ],
     [
       "attack",
@@ -78,9 +78,24 @@
       "anger"
     ],
     [
+      "strike",
+      3,
+      "anger"
+    ],
+    [
       "prepares",
       3,
       "anticipation"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
+      "deadly",
+      2,
+      "anger"
     ],
     [
       "food",
@@ -143,11 +158,6 @@
       "anger"
     ],
     [
-      "restrictions",
-      2,
-      "anger"
-    ],
-    [
       "military",
       2,
       "fear"
@@ -159,11 +169,6 @@
     ],
     [
       "threatens",
-      2,
-      "anger"
-    ],
-    [
-      "strike",
       2,
       "anger"
     ],
@@ -188,11 +193,6 @@
       "anger"
     ],
     [
-      "defendants",
-      2,
-      "anger"
-    ],
-    [
       "rising",
       2,
       "joy"
@@ -201,6 +201,56 @@
       "global",
       2,
       "anticipation"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "punishment",
+      1,
+      "anger"
+    ],
+    [
+      "soldiers",
+      1,
+      "anger"
+    ],
+    [
+      "promise",
+      1,
+      "joy"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "launching",
+      1,
+      "anticipation"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "diplomatic",
+      1,
+      "trust"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
     ],
     [
       "white",
@@ -326,66 +376,16 @@
       "economies",
       1,
       "trust"
-    ],
-    [
-      "flooding",
-      1,
-      "fear"
-    ],
-    [
-      "rain",
-      1,
-      "joy"
-    ],
-    [
-      "pay",
-      1,
-      "joy"
-    ],
-    [
-      "officials",
-      1,
-      "trust"
-    ],
-    [
-      "unseat",
-      1,
-      "sadness"
-    ],
-    [
-      "grabs",
-      1,
-      "anger"
-    ],
-    [
-      "topple",
-      1,
-      "surprise"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "challenging",
-      1,
-      "anger"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 31,
     "trust": 44,
-    "fear": 41,
+    "fear": 42,
     "surprise": 13,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 6,
-    "anger": 98,
-    "anticipation": 19
+    "anger": 99,
+    "anticipation": 21
   }
 }
