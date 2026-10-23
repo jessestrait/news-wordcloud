@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:28:57.406Z",
+  "generated_at": "2026-10-23T13:43:59.577Z",
   "article_count": 50,
   "top_words": [
     [
@@ -156,6 +156,16 @@
       "life",
       2,
       "joy"
+    ],
+    [
+      "lawyers",
+      2,
+      "anger"
+    ],
+    [
+      "defendants",
+      2,
+      "anger"
     ],
     [
       "rising",
@@ -366,26 +376,16 @@
       "success",
       1,
       "joy"
-    ],
-    [
-      "university",
-      1,
-      "anticipation"
-    ],
-    [
-      "fees",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 22,
     "trust": 52,
-    "fear": 46,
+    "fear": 44,
     "surprise": 12,
-    "sadness": 12,
-    "disgust": 6,
-    "anger": 91,
-    "anticipation": 20
+    "sadness": 13,
+    "disgust": 5,
+    "anger": 99,
+    "anticipation": 21
   }
 }
