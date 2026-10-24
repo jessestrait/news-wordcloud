@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:27:34.413Z",
+  "generated_at": "2026-10-24T15:42:37.354Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,6 +26,11 @@
       "iran",
       5,
       "anger"
+    ],
+    [
+      "military",
+      4,
+      "fear"
     ],
     [
       "hit",
@@ -78,11 +83,6 @@
       "surprise"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "show",
       3,
       "trust"
@@ -91,6 +91,21 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "restrictions",
+      2,
+      "anger"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
+    ],
+    [
+      "system",
+      2,
+      "trust"
     ],
     [
       "fire",
@@ -213,11 +228,6 @@
       "anger"
     ],
     [
-      "lawyers",
-      2,
-      "anger"
-    ],
-    [
       "officers",
       1,
       "trust"
@@ -226,6 +236,11 @@
       "raided",
       1,
       "anger"
+    ],
+    [
+      "stable",
+      1,
+      "trust"
     ],
     [
       "suspect",
@@ -361,31 +376,16 @@
       "socialist",
       1,
       "anger"
-    ],
-    [
-      "wrongdoing",
-      1,
-      "anger"
-    ],
-    [
-      "history",
-      1,
-      "trust"
-    ],
-    [
-      "changing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 44,
-    "fear": 45,
+    "trust": 47,
+    "fear": 44,
     "surprise": 10,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 101,
-    "anticipation": 21
+    "anger": 93,
+    "anticipation": 20
   }
 }
