@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:37:40.759Z",
+  "generated_at": "2026-10-24T05:52:43.002Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,14 +28,14 @@
       "trust"
     ],
     [
-      "humanitarian",
-      4,
-      "surprise"
-    ],
-    [
       "unrest",
       4,
       "fear"
+    ],
+    [
+      "humanitarian",
+      4,
+      "surprise"
     ],
     [
       "hit",
@@ -46,6 +46,11 @@
       "leaders",
       4,
       "trust"
+    ],
+    [
+      "police",
+      3,
+      "fear"
     ],
     [
       "peace",
@@ -59,11 +64,6 @@
     ],
     [
       "military",
-      3,
-      "fear"
-    ],
-    [
-      "police",
       3,
       "fear"
     ],
@@ -91,6 +91,11 @@
       "prepares",
       3,
       "anticipation"
+    ],
+    [
+      "violence",
+      2,
+      "anger"
     ],
     [
       "power",
@@ -131,11 +136,6 @@
       "parliament",
       2,
       "trust"
-    ],
-    [
-      "violence",
-      2,
-      "anger"
     ],
     [
       "beauty",
@@ -191,6 +191,26 @@
       "rising",
       2,
       "joy"
+    ],
+    [
+      "prevent",
+      1,
+      "fear"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
+      "elite",
+      1,
+      "joy"
+    ],
+    [
+      "terrorism",
+      1,
+      "anger"
     ],
     [
       "america",
@@ -356,26 +376,6 @@
       "opposition",
       1,
       "anger"
-    ],
-    [
-      "outrage",
-      1,
-      "anger"
-    ],
-    [
-      "socialist",
-      1,
-      "anger"
-    ],
-    [
-      "wrongdoing",
-      1,
-      "anger"
-    ],
-    [
-      "weeds",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
