@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:27:09.725Z",
+  "generated_at": "2026-10-24T14:42:12.080Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "police",
       5,
       "fear"
-    ],
-    [
-      "hit",
-      5,
-      "anger"
     ],
     [
       "people",
@@ -30,6 +25,11 @@
     [
       "iran",
       5,
+      "anger"
+    ],
+    [
+      "hit",
+      4,
       "anger"
     ],
     [
@@ -90,6 +90,16 @@
     [
       "strike",
       3,
+      "anger"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
+    ],
+    [
+      "tackle",
+      2,
       "anger"
     ],
     [
@@ -218,6 +228,31 @@
       "anger"
     ],
     [
+      "suspect",
+      1,
+      "fear"
+    ],
+    [
+      "eagle",
+      1,
+      "trust"
+    ],
+    [
+      "nest",
+      1,
+      "trust"
+    ],
+    [
+      "blaze",
+      1,
+      "anger"
+    ],
+    [
+      "mountain",
+      1,
+      "anticipation"
+    ],
+    [
       "crosses",
       1,
       "anger"
@@ -341,51 +376,16 @@
       "changing",
       1,
       "fear"
-    ],
-    [
-      "established",
-      1,
-      "joy"
-    ],
-    [
-      "dictatorship",
-      1,
-      "anger"
-    ],
-    [
-      "prevent",
-      1,
-      "fear"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
-    ],
-    [
-      "elite",
-      1,
-      "joy"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "america",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 43,
-    "fear": 43,
+    "trust": 44,
+    "fear": 45,
     "surprise": 10,
     "sadness": 16,
     "disgust": 4,
-    "anger": 102,
-    "anticipation": 20
+    "anger": 101,
+    "anticipation": 21
   }
 }
