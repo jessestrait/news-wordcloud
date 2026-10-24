@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:57:52.396Z",
+  "generated_at": "2026-10-24T16:12:54.544Z",
   "article_count": 50,
   "top_words": [
     [
@@ -228,11 +228,6 @@
       "anger"
     ],
     [
-      "stable",
-      1,
-      "trust"
-    ],
-    [
       "officers",
       1,
       "trust"
@@ -241,6 +236,11 @@
       "raided",
       1,
       "anger"
+    ],
+    [
+      "stable",
+      1,
+      "trust"
     ],
     [
       "suspect",
