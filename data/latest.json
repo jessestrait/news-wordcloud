@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-10-24T21:15:33.404Z",
+  "generated_at": "2026-10-24T21:30:35.677Z",
   "article_count": 50,
   "top_words": [
     [
       "storm",
       8,
       "anger"
+    ],
+    [
+      "military",
+      6,
+      "fear"
     ],
     [
       "people",
@@ -15,11 +20,6 @@
     [
       "police",
       6,
-      "fear"
-    ],
-    [
-      "military",
-      5,
       "fear"
     ],
     [
@@ -93,6 +93,11 @@
       "anger"
     ],
     [
+      "restrictions",
+      2,
+      "anger"
+    ],
+    [
       "supporters",
       2,
       "joy"
@@ -109,21 +114,6 @@
     ],
     [
       "schools",
-      2,
-      "trust"
-    ],
-    [
-      "restrictions",
-      2,
-      "anger"
-    ],
-    [
-      "allies",
-      2,
-      "trust"
-    ],
-    [
-      "system",
       2,
       "trust"
     ],
@@ -223,6 +213,11 @@
       "anger"
     ],
     [
+      "stable",
+      1,
+      "trust"
+    ],
+    [
       "battle",
       1,
       "anger"
@@ -261,11 +256,6 @@
       "protesters",
       1,
       "anger"
-    ],
-    [
-      "stable",
-      1,
-      "trust"
     ],
     [
       "suspect",
@@ -376,12 +366,22 @@
       "striving",
       1,
       "anticipation"
+    ],
+    [
+      "voted",
+      1,
+      "anger"
+    ],
+    [
+      "opposition",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 49,
-    "fear": 44,
+    "trust": 47,
+    "fear": 45,
     "surprise": 10,
     "sadness": 14,
     "disgust": 4,
