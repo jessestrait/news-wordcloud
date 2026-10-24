@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:14:30.834Z",
+  "generated_at": "2026-10-24T19:29:32.834Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,12 +13,12 @@
       "trust"
     ],
     [
-      "military",
+      "police",
       5,
       "fear"
     ],
     [
-      "police",
+      "military",
       5,
       "fear"
     ],
@@ -223,6 +223,16 @@
       "anger"
     ],
     [
+      "officers",
+      1,
+      "trust"
+    ],
+    [
+      "raided",
+      1,
+      "anger"
+    ],
+    [
       "rates",
       1,
       "fear"
@@ -234,16 +244,6 @@
     ],
     [
       "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
-    ],
-    [
-      "raided",
       1,
       "anger"
     ],
