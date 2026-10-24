@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:14:53.659Z",
+  "generated_at": "2026-10-24T20:29:55.856Z",
   "article_count": 50,
   "top_words": [
     [
@@ -46,6 +46,11 @@
       "trump",
       4,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "homes",
@@ -171,11 +176,6 @@
       "peace",
       2,
       "joy"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "food",
@@ -386,6 +386,6 @@
     "sadness": 14,
     "disgust": 4,
     "anger": 89,
-    "anticipation": 20
+    "anticipation": 21
   }
 }
