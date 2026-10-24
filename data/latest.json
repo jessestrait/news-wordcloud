@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:11:23.377Z",
+  "generated_at": "2026-10-24T13:26:25.189Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,14 +93,14 @@
       "anger"
     ],
     [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
       "soldiers",
       2,
       "anger"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
     ],
     [
       "warned",
@@ -218,11 +218,6 @@
       "anger"
     ],
     [
-      "crosses",
-      1,
-      "anger"
-    ],
-    [
       "families",
       1,
       "joy"
@@ -234,6 +229,11 @@
     ],
     [
       "retaliation",
+      1,
+      "anger"
+    ],
+    [
+      "crosses",
       1,
       "anger"
     ],
