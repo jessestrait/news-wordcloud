@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:00:14.603Z",
+  "generated_at": "2026-10-24T21:15:16.554Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "police",
-      6,
-      "fear"
-    ],
-    [
       "people",
       6,
       "trust"
+    ],
+    [
+      "police",
+      6,
+      "fear"
     ],
     [
       "military",
@@ -93,11 +93,6 @@
       "anger"
     ],
     [
-      "force",
-      2,
-      "anger"
-    ],
-    [
       "supporters",
       2,
       "joy"
@@ -106,6 +101,11 @@
       "polls",
       2,
       "trust"
+    ],
+    [
+      "force",
+      2,
+      "anger"
     ],
     [
       "schools",
@@ -223,6 +223,11 @@
       "anger"
     ],
     [
+      "battle",
+      1,
+      "anger"
+    ],
+    [
       "officers",
       1,
       "trust"
@@ -244,11 +249,6 @@
     ],
     [
       "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "battle",
       1,
       "anger"
     ],
