@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-10-24T09:39:40.513Z",
+  "generated_at": "2026-10-24T09:54:42.607Z",
   "article_count": 50,
   "top_words": [
+    [
+      "police",
+      5,
+      "fear"
+    ],
     [
       "people",
       5,
@@ -21,11 +26,6 @@
       "iran",
       5,
       "anger"
-    ],
-    [
-      "police",
-      4,
-      "fear"
     ],
     [
       "president",
@@ -83,14 +83,19 @@
       "anger"
     ],
     [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
       "expected",
       2,
       "anticipation"
+    ],
+    [
+      "trip",
+      2,
+      "surprise"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
     ],
     [
       "polls",
@@ -208,19 +213,29 @@
       "joy"
     ],
     [
-      "crosses",
-      1,
-      "anger"
-    ],
-    [
-      "trip",
-      1,
-      "surprise"
-    ],
-    [
       "officers",
       1,
       "trust"
+    ],
+    [
+      "dies",
+      1,
+      "fear"
+    ],
+    [
+      "save",
+      1,
+      "joy"
+    ],
+    [
+      "boys",
+      1,
+      "disgust"
+    ],
+    [
+      "crosses",
+      1,
+      "anger"
     ],
     [
       "supporters",
@@ -361,31 +376,16 @@
       "injuring",
       1,
       "anger"
-    ],
-    [
-      "white",
-      1,
-      "joy"
-    ],
-    [
-      "house",
-      1,
-      "joy"
-    ],
-    [
-      "worsening",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 41,
-    "fear": 45,
-    "surprise": 9,
+    "trust": 40,
+    "fear": 47,
+    "surprise": 10,
     "sadness": 15,
-    "disgust": 5,
+    "disgust": 6,
     "anger": 97,
-    "anticipation": 24
+    "anticipation": 23
   }
 }
