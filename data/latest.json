@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:52:43.002Z",
+  "generated_at": "2026-10-24T06:07:45.226Z",
   "article_count": 50,
   "top_words": [
     [
@@ -91,6 +91,11 @@
       "prepares",
       3,
       "anticipation"
+    ],
+    [
+      "lost",
+      2,
+      "sadness"
     ],
     [
       "violence",
@@ -191,6 +196,26 @@
       "rising",
       2,
       "joy"
+    ],
+    [
+      "history",
+      1,
+      "trust"
+    ],
+    [
+      "changing",
+      1,
+      "fear"
+    ],
+    [
+      "established",
+      1,
+      "joy"
+    ],
+    [
+      "dictatorship",
+      1,
+      "anger"
     ],
     [
       "prevent",
@@ -351,39 +376,14 @@
       "launching",
       1,
       "anticipation"
-    ],
-    [
-      "anti",
-      1,
-      "anger"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 32,
     "trust": 40,
-    "fear": 45,
-    "surprise": 12,
-    "sadness": 15,
+    "fear": 46,
+    "surprise": 10,
+    "sadness": 16,
     "disgust": 5,
     "anger": 101,
     "anticipation": 22
