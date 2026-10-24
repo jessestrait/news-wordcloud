@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:54:56.629Z",
+  "generated_at": "2026-10-24T10:09:58.542Z",
   "article_count": 50,
   "top_words": [
     [
@@ -81,11 +81,6 @@
       "attack",
       3,
       "anger"
-    ],
-    [
-      "expected",
-      2,
-      "anticipation"
     ],
     [
       "trip",
@@ -218,6 +213,11 @@
       "trust"
     ],
     [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
       "dies",
       1,
       "fear"
@@ -228,9 +228,19 @@
       "joy"
     ],
     [
+      "mother",
+      1,
+      "sadness"
+    ],
+    [
       "boys",
       1,
       "disgust"
+    ],
+    [
+      "rescued",
+      1,
+      "surprise"
     ],
     [
       "crosses",
@@ -366,26 +376,16 @@
       "fire",
       1,
       "fear"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
-      "injuring",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 40,
     "fear": 47,
-    "surprise": 10,
-    "sadness": 15,
+    "surprise": 11,
+    "sadness": 16,
     "disgust": 6,
     "anger": 97,
-    "anticipation": 23
+    "anticipation": 22
   }
 }
