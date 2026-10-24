@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:26:25.189Z",
+  "generated_at": "2026-10-24T13:41:27.057Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "anger"
     ],
     [
+      "power",
+      4,
+      "anticipation"
+    ],
+    [
       "attack",
       4,
       "anger"
@@ -41,11 +46,6 @@
       "life",
       4,
       "joy"
-    ],
-    [
-      "power",
-      4,
-      "anticipation"
     ],
     [
       "president",
@@ -93,24 +93,24 @@
       "anger"
     ],
     [
-      "soldiers",
-      2,
-      "anger"
-    ],
-    [
       "leader",
       2,
       "trust"
     ],
     [
-      "warned",
-      2,
-      "fear"
-    ],
-    [
       "rain",
       2,
       "joy"
+    ],
+    [
+      "soldiers",
+      2,
+      "anger"
+    ],
+    [
+      "warned",
+      2,
+      "fear"
     ],
     [
       "polls",
@@ -218,6 +218,16 @@
       "anger"
     ],
     [
+      "crosses",
+      1,
+      "anger"
+    ],
+    [
+      "second",
+      1,
+      "trust"
+    ],
+    [
       "families",
       1,
       "joy"
@@ -229,11 +239,6 @@
     ],
     [
       "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "crosses",
       1,
       "anger"
     ],
@@ -259,11 +264,6 @@
     ],
     [
       "reporters",
-      1,
-      "trust"
-    ],
-    [
-      "second",
       1,
       "trust"
     ],
