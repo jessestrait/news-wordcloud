@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:41:05.177Z",
+  "generated_at": "2026-10-24T12:56:07.086Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "police",
-      6,
+      5,
       "fear"
     ],
     [
@@ -93,6 +93,11 @@
       "anger"
     ],
     [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "soldiers",
       2,
       "anger"
@@ -106,16 +111,6 @@
       "rain",
       2,
       "joy"
-    ],
-    [
-      "trip",
-      2,
-      "surprise"
-    ],
-    [
-      "leader",
-      2,
-      "trust"
     ],
     [
       "polls",
@@ -213,6 +208,21 @@
       "anger"
     ],
     [
+      "officers",
+      1,
+      "trust"
+    ],
+    [
+      "raided",
+      1,
+      "anger"
+    ],
+    [
+      "crosses",
+      1,
+      "anger"
+    ],
+    [
       "families",
       1,
       "joy"
@@ -224,16 +234,6 @@
     ],
     [
       "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
-    ],
-    [
-      "raided",
       1,
       "anger"
     ],
@@ -278,6 +278,11 @@
       "joy"
     ],
     [
+      "trip",
+      1,
+      "surprise"
+    ],
+    [
       "mother",
       1,
       "sadness"
@@ -291,11 +296,6 @@
       "rescued",
       1,
       "surprise"
-    ],
-    [
-      "crosses",
-      1,
-      "anger"
     ],
     [
       "supporters",
@@ -381,8 +381,8 @@
   "emotion_totals": {
     "joy": 34,
     "trust": 43,
-    "fear": 44,
-    "surprise": 11,
+    "fear": 43,
+    "surprise": 10,
     "sadness": 16,
     "disgust": 4,
     "anger": 102,
