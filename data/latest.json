@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-24T08:08:54.557Z",
+  "generated_at": "2026-10-24T08:23:56.811Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      7,
+      6,
       "anger"
     ],
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "trump",
+      "iran",
       5,
       "anger"
     ],
     [
-      "iran",
-      5,
-      "anger"
+      "police",
+      4,
+      "fear"
     ],
     [
       "president",
@@ -33,9 +33,9 @@
       "trust"
     ],
     [
-      "humanitarian",
+      "trump",
       4,
-      "surprise"
+      "anger"
     ],
     [
       "hit",
@@ -46,11 +46,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "police",
-      3,
-      "fear"
     ],
     [
       "unrest",
@@ -66,6 +61,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "humanitarian",
+      3,
+      "surprise"
     ],
     [
       "military",
@@ -86,6 +86,11 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "expected",
+      2,
+      "anticipation"
     ],
     [
       "polls",
@@ -201,6 +206,11 @@
       "rising",
       2,
       "joy"
+    ],
+    [
+      "officers",
+      1,
+      "trust"
     ],
     [
       "supporters",
@@ -366,26 +376,16 @@
       "mysterious",
       1,
       "fear"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
-    ],
-    [
-      "vanished",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 40,
+    "joy": 32,
+    "trust": 41,
     "fear": 45,
-    "surprise": 10,
-    "sadness": 16,
+    "surprise": 9,
+    "sadness": 15,
     "disgust": 5,
-    "anger": 100,
-    "anticipation": 23
+    "anger": 97,
+    "anticipation": 25
   }
 }
