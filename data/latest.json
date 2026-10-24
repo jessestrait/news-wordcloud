@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-24T09:24:38.308Z",
+  "generated_at": "2026-10-24T09:39:40.513Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      6,
-      "anger"
-    ],
     [
       "people",
       5,
       "trust"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "storm",
@@ -53,11 +53,6 @@
       "fear"
     ],
     [
-      "peace",
-      3,
-      "joy"
-    ],
-    [
       "killed",
       3,
       "fear"
@@ -88,6 +83,11 @@
       "anger"
     ],
     [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "expected",
       2,
       "anticipation"
@@ -106,6 +106,11 @@
       "violence",
       2,
       "anger"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "happened",
@@ -158,11 +163,6 @@
       "anger"
     ],
     [
-      "leaders",
-      2,
-      "trust"
-    ],
-    [
       "youth",
       2,
       "anger"
@@ -206,6 +206,16 @@
       "rising",
       2,
       "joy"
+    ],
+    [
+      "crosses",
+      1,
+      "anger"
+    ],
+    [
+      "trip",
+      1,
+      "surprise"
     ],
     [
       "officers",
@@ -366,26 +376,16 @@
       "worsening",
       1,
       "disgust"
-    ],
-    [
-      "resources",
-      1,
-      "joy"
-    ],
-    [
-      "mysterious",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 31,
     "trust": 41,
     "fear": 45,
     "surprise": 9,
     "sadness": 15,
     "disgust": 5,
     "anger": 97,
-    "anticipation": 25
+    "anticipation": 24
   }
 }
