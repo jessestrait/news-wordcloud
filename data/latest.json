@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:43:46.113Z",
+  "generated_at": "2026-10-24T17:58:48.298Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
+      "people",
+      6,
+      "trust"
+    ],
+    [
       "police",
       5,
       "fear"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "war",
@@ -93,6 +93,11 @@
       "anger"
     ],
     [
+      "schools",
+      2,
+      "trust"
+    ],
+    [
       "restrictions",
       2,
       "anger"
@@ -136,11 +141,6 @@
       "warned",
       2,
       "fear"
-    ],
-    [
-      "polls",
-      2,
-      "trust"
     ],
     [
       "lost",
@@ -208,11 +208,6 @@
       "anger"
     ],
     [
-      "threatens",
-      2,
-      "anger"
-    ],
-    [
       "strait",
       2,
       "fear"
@@ -236,6 +231,21 @@
       "raided",
       1,
       "anger"
+    ],
+    [
+      "policing",
+      1,
+      "fear"
+    ],
+    [
+      "government",
+      1,
+      "fear"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
     ],
     [
       "stable",
@@ -348,6 +358,11 @@
       "surprise"
     ],
     [
+      "polls",
+      1,
+      "trust"
+    ],
+    [
       "supporters",
       1,
       "joy"
@@ -361,31 +376,16 @@
       "voted",
       1,
       "anger"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
-      "outrage",
-      1,
-      "anger"
-    ],
-    [
-      "socialist",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 47,
-    "fear": 44,
+    "trust": 49,
+    "fear": 46,
     "surprise": 10,
     "sadness": 15,
     "disgust": 4,
-    "anger": 93,
+    "anger": 92,
     "anticipation": 20
   }
 }
