@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:59:28.743Z",
+  "generated_at": "2026-10-24T19:14:30.834Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,22 +9,17 @@
     ],
     [
       "people",
-      6,
+      7,
       "trust"
     ],
     [
-      "police",
+      "military",
       5,
       "fear"
     ],
     [
-      "war",
+      "police",
       5,
-      "anger"
-    ],
-    [
-      "military",
-      4,
       "fear"
     ],
     [
@@ -38,14 +33,14 @@
       "anticipation"
     ],
     [
-      "attack",
-      4,
-      "anger"
-    ],
-    [
       "president",
       4,
       "trust"
+    ],
+    [
+      "war",
+      4,
+      "anger"
     ],
     [
       "trump",
@@ -53,14 +48,14 @@
       "anger"
     ],
     [
-      "iran",
-      4,
-      "anger"
-    ],
-    [
       "homes",
       3,
       "joy"
+    ],
+    [
+      "attack",
+      3,
+      "anger"
     ],
     [
       "unrest",
@@ -78,6 +73,11 @@
       "surprise"
     ],
     [
+      "iran",
+      3,
+      "anger"
+    ],
+    [
       "show",
       3,
       "trust"
@@ -85,6 +85,11 @@
     [
       "strike",
       3,
+      "anger"
+    ],
+    [
+      "force",
+      2,
       "anger"
     ],
     [
@@ -215,6 +220,21 @@
     [
       "veto",
       2,
+      "anger"
+    ],
+    [
+      "rates",
+      1,
+      "fear"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "conflict",
+      1,
       "anger"
     ],
     [
@@ -356,36 +376,16 @@
       "rescued",
       1,
       "surprise"
-    ],
-    [
-      "striving",
-      1,
-      "anticipation"
-    ],
-    [
-      "voted",
-      1,
-      "anger"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
-      "outrage",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 50,
-    "fear": 42,
+    "trust": 51,
+    "fear": 44,
     "surprise": 10,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 4,
-    "anger": 90,
+    "anger": 89,
     "anticipation": 20
   }
 }
