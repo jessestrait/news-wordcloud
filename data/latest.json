@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:06:16.651Z",
+  "generated_at": "2026-10-24T03:21:18.990Z",
   "article_count": 50,
   "top_words": [
     [
@@ -91,11 +91,6 @@
       "prepares",
       3,
       "anticipation"
-    ],
-    [
-      "america",
-      2,
-      "sadness"
     ],
     [
       "power",
@@ -196,6 +191,11 @@
       "rising",
       2,
       "joy"
+    ],
+    [
+      "america",
+      1,
+      "sadness"
     ],
     [
       "revive",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 41,
-    "fear": 46,
+    "trust": 40,
+    "fear": 45,
     "surprise": 12,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 5,
-    "anger": 102,
-    "anticipation": 21
+    "anger": 101,
+    "anticipation": 22
   }
 }
