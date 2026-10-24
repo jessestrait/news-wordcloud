@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:38:07.130Z",
+  "generated_at": "2026-10-24T06:53:09.610Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anger"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "storm",
       5,
       "anger"
@@ -21,11 +26,6 @@
       "iran",
       5,
       "anger"
-    ],
-    [
-      "people",
-      5,
-      "trust"
     ],
     [
       "unrest",
@@ -198,6 +198,26 @@
       "joy"
     ],
     [
+      "opposition",
+      1,
+      "anger"
+    ],
+    [
+      "outrage",
+      1,
+      "anger"
+    ],
+    [
+      "socialist",
+      1,
+      "anger"
+    ],
+    [
+      "wrongdoing",
+      1,
+      "anger"
+    ],
+    [
       "history",
       1,
       "trust"
@@ -356,26 +376,6 @@
       "soldiers",
       1,
       "anger"
-    ],
-    [
-      "promise",
-      1,
-      "joy"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
-    ],
-    [
-      "launching",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
