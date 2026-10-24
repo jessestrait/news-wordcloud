@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-24T11:10:23.301Z",
+  "generated_at": "2026-10-24T11:25:25.731Z",
   "article_count": 50,
   "top_words": [
+    [
+      "storm",
+      8,
+      "anger"
+    ],
+    [
+      "hit",
+      5,
+      "anger"
+    ],
     [
       "police",
       5,
@@ -18,14 +28,14 @@
       "anger"
     ],
     [
-      "storm",
+      "iran",
       5,
       "anger"
     ],
     [
-      "iran",
-      5,
-      "anger"
+      "power",
+      4,
+      "anticipation"
     ],
     [
       "president",
@@ -36,16 +46,6 @@
       "trump",
       4,
       "anger"
-    ],
-    [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
     ],
     [
       "unrest",
@@ -81,6 +81,11 @@
       "attack",
       3,
       "anger"
+    ],
+    [
+      "rain",
+      2,
+      "joy"
     ],
     [
       "trip",
@@ -178,11 +183,6 @@
       "anger"
     ],
     [
-      "prepares",
-      2,
-      "anticipation"
-    ],
-    [
       "strait",
       2,
       "fear"
@@ -203,9 +203,9 @@
       "anger"
     ],
     [
-      "rising",
-      2,
-      "joy"
+      "second",
+      1,
+      "trust"
     ],
     [
       "officers",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 40,
-    "fear": 47,
+    "trust": 41,
+    "fear": 46,
     "surprise": 11,
     "sadness": 16,
-    "disgust": 6,
-    "anger": 97,
+    "disgust": 4,
+    "anger": 100,
     "anticipation": 22
   }
 }
