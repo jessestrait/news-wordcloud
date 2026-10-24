@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:55:44.614Z",
+  "generated_at": "2026-10-24T12:10:46.779Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,6 +31,11 @@
       "iran",
       5,
       "anger"
+    ],
+    [
+      "life",
+      4,
+      "joy"
     ],
     [
       "power",
@@ -68,9 +73,9 @@
       "fear"
     ],
     [
-      "life",
+      "show",
       3,
-      "joy"
+      "trust"
     ],
     [
       "strike",
@@ -86,6 +91,11 @@
       "homes",
       2,
       "joy"
+    ],
+    [
+      "warned",
+      2,
+      "fear"
     ],
     [
       "rain",
@@ -163,11 +173,6 @@
       "joy"
     ],
     [
-      "show",
-      2,
-      "trust"
-    ],
-    [
       "fear",
       2,
       "anger"
@@ -221,6 +226,31 @@
       "expected",
       1,
       "anticipation"
+    ],
+    [
+      "fascism",
+      1,
+      "disgust"
+    ],
+    [
+      "predicted",
+      1,
+      "anticipation"
+    ],
+    [
+      "ultimate",
+      1,
+      "sadness"
+    ],
+    [
+      "dangerous",
+      1,
+      "fear"
+    ],
+    [
+      "reporters",
+      1,
+      "trust"
     ],
     [
       "second",
@@ -346,46 +376,16 @@
       "deal",
       1,
       "surprise"
-    ],
-    [
-      "world",
-      1,
-      "trust"
-    ],
-    [
-      "allies",
-      1,
-      "trust"
-    ],
-    [
-      "schools",
-      1,
-      "trust"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
-    ],
-    [
-      "terrorist",
-      1,
-      "anger"
-    ],
-    [
-      "shooting",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 41,
-    "fear": 46,
+    "joy": 33,
+    "trust": 43,
+    "fear": 47,
     "surprise": 11,
-    "sadness": 16,
+    "sadness": 17,
     "disgust": 4,
-    "anger": 101,
+    "anger": 100,
     "anticipation": 22
   }
 }
