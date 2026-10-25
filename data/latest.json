@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:50:12.208Z",
+  "generated_at": "2026-10-25T07:05:13.947Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "trust"
     ],
     [
+      "force",
+      3,
+      "anger"
+    ],
+    [
       "leader",
       3,
       "trust"
@@ -98,6 +103,11 @@
       "trust"
     ],
     [
+      "world",
+      2,
+      "trust"
+    ],
+    [
       "soldiers",
       2,
       "anger"
@@ -126,11 +136,6 @@
       "happened",
       2,
       "anticipation"
-    ],
-    [
-      "force",
-      2,
-      "anger"
     ],
     [
       "schools",
@@ -211,6 +216,26 @@
       "veto",
       2,
       "anger"
+    ],
+    [
+      "space",
+      1,
+      "joy"
+    ],
+    [
+      "cement",
+      1,
+      "trust"
+    ],
+    [
+      "global",
+      1,
+      "anticipation"
+    ],
+    [
+      "gains",
+      1,
+      "joy"
     ],
     [
       "families",
@@ -351,41 +376,16 @@
       "second",
       1,
       "trust"
-    ],
-    [
-      "fascism",
-      1,
-      "disgust"
-    ],
-    [
-      "predicted",
-      1,
-      "anticipation"
-    ],
-    [
-      "ultimate",
-      1,
-      "sadness"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
-      "reporters",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 51,
+    "joy": 36,
+    "trust": 53,
     "fear": 51,
     "surprise": 13,
-    "sadness": 12,
+    "sadness": 11,
     "disgust": 4,
-    "anger": 89,
+    "anger": 90,
     "anticipation": 20
   }
 }
