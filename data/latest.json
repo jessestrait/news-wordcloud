@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:57:48.477Z",
+  "generated_at": "2026-10-25T21:12:50.678Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,6 +253,16 @@
       "joy"
     ],
     [
+      "wild",
+      1,
+      "surprise"
+    ],
+    [
+      "celebration",
+      1,
+      "surprise"
+    ],
+    [
       "majority",
       1,
       "joy"
@@ -366,23 +376,13 @@
       "real",
       1,
       "trust"
-    ],
-    [
-      "delayed",
-      1,
-      "anger"
-    ],
-    [
-      "denied",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
     "trust": 52,
     "fear": 50,
-    "surprise": 17,
+    "surprise": 19,
     "sadness": 15,
     "disgust": 4,
     "anger": 91,
