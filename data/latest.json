@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T03:18:36.868Z",
+  "generated_at": "2026-10-25T03:33:39.266Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,12 +14,12 @@
     ],
     [
       "people",
-      6,
+      7,
       "trust"
     ],
     [
       "police",
-      6,
+      7,
       "fear"
     ],
     [
@@ -53,11 +53,6 @@
       "trust"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "homes",
       3,
       "joy"
@@ -73,9 +68,24 @@
       "anger"
     ],
     [
+      "life",
+      3,
+      "joy"
+    ],
+    [
       "unrest",
       3,
       "fear"
+    ],
+    [
+      "violence",
+      3,
+      "anger"
+    ],
+    [
+      "fear",
+      3,
+      "anger"
     ],
     [
       "killed",
@@ -118,6 +128,11 @@
       "trust"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "force",
       2,
       "anger"
@@ -153,17 +168,12 @@
       "fear"
     ],
     [
-      "life",
-      2,
-      "joy"
-    ],
-    [
       "lost",
       2,
       "sadness"
     ],
     [
-      "violence",
+      "intimidation",
       2,
       "anger"
     ],
@@ -196,11 +206,6 @@
       "beauty",
       2,
       "joy"
-    ],
-    [
-      "fear",
-      2,
-      "anger"
     ],
     [
       "youth",
@@ -371,21 +376,16 @@
       "trip",
       1,
       "surprise"
-    ],
-    [
-      "mother",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 50,
-    "fear": 47,
-    "surprise": 11,
+    "joy": 34,
+    "trust": 51,
+    "fear": 50,
+    "surprise": 12,
     "sadness": 12,
     "disgust": 4,
-    "anger": 89,
-    "anticipation": 22
+    "anger": 93,
+    "anticipation": 20
   }
 }
