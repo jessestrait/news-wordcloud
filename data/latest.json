@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:12:00.338Z",
+  "generated_at": "2026-10-25T19:27:02.948Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "polls",
+      4,
+      "trust"
+    ],
+    [
       "president",
       4,
       "trust"
@@ -46,11 +51,6 @@
       "power",
       4,
       "anticipation"
-    ],
-    [
-      "polls",
-      3,
-      "trust"
     ],
     [
       "lost",
@@ -121,11 +121,6 @@
       "peace",
       2,
       "joy"
-    ],
-    [
-      "vote",
-      2,
-      "anger"
     ],
     [
       "schools",
@@ -303,6 +298,11 @@
       "anticipation"
     ],
     [
+      "vote",
+      1,
+      "anger"
+    ],
+    [
       "convicted",
       1,
       "anger"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 36,
-    "trust": 49,
+    "trust": 50,
     "fear": 52,
     "surprise": 17,
     "sadness": 15,
     "disgust": 5,
-    "anger": 92,
+    "anger": 91,
     "anticipation": 20
   }
 }
