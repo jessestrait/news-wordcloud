@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:55:50.158Z",
+  "generated_at": "2026-10-25T17:10:52.355Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,22 +14,22 @@
     ],
     [
       "military",
-      7,
+      6,
       "fear"
     ],
     [
-      "people",
+      "leader",
       5,
       "trust"
     ],
     [
-      "leader",
-      4,
+      "president",
+      5,
       "trust"
     ],
     [
-      "president",
-      4,
+      "people",
+      5,
       "trust"
     ],
     [
@@ -113,6 +113,16 @@
       "fear"
     ],
     [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "laureate",
+      2,
+      "trust"
+    ],
+    [
       "vote",
       2,
       "anger"
@@ -188,11 +198,6 @@
       "fear"
     ],
     [
-      "tackle",
-      2,
-      "anger"
-    ],
-    [
       "rain",
       2,
       "joy"
@@ -266,6 +271,21 @@
       "corruption",
       1,
       "disgust"
+    ],
+    [
+      "exiled",
+      1,
+      "anger"
+    ],
+    [
+      "exile",
+      1,
+      "anger"
+    ],
+    [
+      "interim",
+      1,
+      "anticipation"
     ],
     [
       "convicted",
@@ -356,36 +376,16 @@
       "gains",
       1,
       "joy"
-    ],
-    [
-      "families",
-      1,
-      "joy"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "attack",
-      1,
-      "anger"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 49,
-    "fear": 54,
+    "trust": 52,
+    "fear": 52,
     "surprise": 16,
     "sadness": 15,
     "disgust": 5,
-    "anger": 98,
+    "anger": 99,
     "anticipation": 20
   }
 }
