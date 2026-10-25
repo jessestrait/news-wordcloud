@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:25:54.464Z",
+  "generated_at": "2026-10-25T17:40:56.540Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,16 +103,6 @@
       "trust"
     ],
     [
-      "opposition",
-      2,
-      "anger"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
-    ],
-    [
       "rule",
       2,
       "fear"
@@ -121,6 +111,16 @@
       "government",
       2,
       "fear"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "vote",
@@ -263,6 +263,16 @@
       "anger"
     ],
     [
+      "challenge",
+      1,
+      "anger"
+    ],
+    [
+      "corruption",
+      1,
+      "disgust"
+    ],
+    [
       "exiled",
       1,
       "anger"
@@ -281,16 +291,6 @@
       "interim",
       1,
       "anticipation"
-    ],
-    [
-      "challenge",
-      1,
-      "anger"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
     ],
     [
       "convicted",
