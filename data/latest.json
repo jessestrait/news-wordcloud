@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:10:52.355Z",
+  "generated_at": "2026-10-25T17:25:54.464Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,16 @@
       "trust"
     ],
     [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
       "rule",
       2,
       "fear"
@@ -111,16 +121,6 @@
       "government",
       2,
       "fear"
-    ],
-    [
-      "opposition",
-      2,
-      "anger"
-    ],
-    [
-      "laureate",
-      2,
-      "trust"
     ],
     [
       "vote",
@@ -263,19 +263,14 @@
       "anger"
     ],
     [
-      "challenge",
-      1,
-      "anger"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
-    ],
-    [
       "exiled",
       1,
       "anger"
+    ],
+    [
+      "winner",
+      1,
+      "surprise"
     ],
     [
       "exile",
@@ -286,6 +281,16 @@
       "interim",
       1,
       "anticipation"
+    ],
+    [
+      "challenge",
+      1,
+      "anger"
+    ],
+    [
+      "corruption",
+      1,
+      "disgust"
     ],
     [
       "convicted",
@@ -371,18 +376,13 @@
       "global",
       1,
       "anticipation"
-    ],
-    [
-      "gains",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 52,
+    "joy": 36,
+    "trust": 51,
     "fear": 52,
-    "surprise": 16,
+    "surprise": 17,
     "sadness": 15,
     "disgust": 5,
     "anger": 99,
