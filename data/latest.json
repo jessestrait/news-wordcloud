@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:12:25.444Z",
+  "generated_at": "2026-10-25T20:27:27.610Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "trust"
     ],
     [
-      "polls",
-      4,
-      "trust"
-    ],
-    [
       "fear",
       4,
       "anger"
@@ -51,6 +46,11 @@
       "power",
       4,
       "anticipation"
+    ],
+    [
+      "polls",
+      3,
+      "trust"
     ],
     [
       "rule",
@@ -103,6 +103,11 @@
       "trust"
     ],
     [
+      "government",
+      2,
+      "fear"
+    ],
+    [
       "pay",
       2,
       "joy"
@@ -121,11 +126,6 @@
       "peace",
       2,
       "joy"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "second",
@@ -253,6 +253,21 @@
       "joy"
     ],
     [
+      "voting",
+      1,
+      "anger"
+    ],
+    [
+      "challenge",
+      1,
+      "anger"
+    ],
+    [
+      "corruption",
+      1,
+      "disgust"
+    ],
+    [
       "risk",
       1,
       "fear"
@@ -301,16 +316,6 @@
       "interim",
       1,
       "anticipation"
-    ],
-    [
-      "challenge",
-      1,
-      "anger"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
     ],
     [
       "results",
@@ -371,21 +376,16 @@
       "delayed",
       1,
       "anger"
-    ],
-    [
-      "denied",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 53,
+    "trust": 52,
     "fear": 52,
     "surprise": 17,
     "sadness": 15,
     "disgust": 5,
-    "anger": 90,
+    "anger": 91,
     "anticipation": 21
   }
 }
