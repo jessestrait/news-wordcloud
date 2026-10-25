@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:50:53.724Z",
+  "generated_at": "2026-10-25T08:05:56.045Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "fear"
     ],
     [
+      "president",
+      6,
+      "trust"
+    ],
+    [
       "fear",
       4,
       "anger"
@@ -43,14 +48,14 @@
       "anticipation"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "war",
       4,
       "anger"
+    ],
+    [
+      "lost",
+      3,
+      "sadness"
     ],
     [
       "homes",
@@ -163,19 +168,9 @@
       "fear"
     ],
     [
-      "lost",
-      2,
-      "sadness"
-    ],
-    [
       "intimidation",
       2,
       "anger"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "food",
@@ -215,6 +210,16 @@
     [
       "veto",
       2,
+      "anger"
+    ],
+    [
+      "vote",
+      1,
+      "anger"
+    ],
+    [
+      "convicted",
+      1,
       "anger"
     ],
     [
@@ -371,21 +376,16 @@
       "crosses",
       1,
       "anger"
-    ],
-    [
-      "second",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
+    "joy": 34,
     "trust": 53,
-    "fear": 51,
+    "fear": 50,
     "surprise": 13,
-    "sadness": 11,
+    "sadness": 12,
     "disgust": 4,
-    "anger": 90,
+    "anger": 91,
     "anticipation": 20
   }
 }
