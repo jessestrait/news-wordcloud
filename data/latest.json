@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T22:28:37.402Z",
+  "generated_at": "2026-10-25T22:43:39.756Z",
   "article_count": 50,
   "top_words": [
     [
@@ -268,6 +268,11 @@
       "joy"
     ],
     [
+      "voting",
+      1,
+      "anger"
+    ],
+    [
       "results",
       1,
       "anticipation"
@@ -281,11 +286,6 @@
       "seeking",
       1,
       "anticipation"
-    ],
-    [
-      "voting",
-      1,
-      "anger"
     ],
     [
       "accused",
