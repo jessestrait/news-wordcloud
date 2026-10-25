@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:52:58.370Z",
+  "generated_at": "2026-10-25T12:08:00.594Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,23 +19,18 @@
     ],
     [
       "people",
-      7,
+      5,
       "trust"
     ],
     [
       "president",
-      6,
+      4,
       "trust"
     ],
     [
       "fear",
       4,
       "anger"
-    ],
-    [
-      "humanitarian",
-      4,
-      "surprise"
     ],
     [
       "hit",
@@ -53,6 +48,16 @@
       "anger"
     ],
     [
+      "anti",
+      3,
+      "anger"
+    ],
+    [
+      "zionism",
+      3,
+      "surprise"
+    ],
+    [
       "lost",
       3,
       "sadness"
@@ -61,6 +66,11 @@
       "homes",
       3,
       "joy"
+    ],
+    [
+      "humanitarian",
+      3,
+      "surprise"
     ],
     [
       "force",
@@ -78,19 +88,9 @@
       "joy"
     ],
     [
-      "unrest",
-      3,
-      "fear"
-    ],
-    [
       "violence",
       3,
       "anger"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
     ],
     [
       "trump",
@@ -101,6 +101,21 @@
       "show",
       3,
       "trust"
+    ],
+    [
+      "schools",
+      2,
+      "trust"
+    ],
+    [
+      "delayed",
+      2,
+      "anger"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "death",
@@ -153,11 +168,6 @@
       "anticipation"
     ],
     [
-      "schools",
-      2,
-      "trust"
-    ],
-    [
       "fire",
       2,
       "fear"
@@ -178,9 +188,19 @@
       "fear"
     ],
     [
+      "unrest",
+      2,
+      "fear"
+    ],
+    [
       "intimidation",
       2,
       "anger"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
     ],
     [
       "food",
@@ -220,6 +240,51 @@
     [
       "veto",
       2,
+      "anger"
+    ],
+    [
+      "policing",
+      1,
+      "fear"
+    ],
+    [
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "deportation",
+      1,
+      "anger"
+    ],
+    [
+      "happening",
+      1,
+      "anticipation"
+    ],
+    [
+      "real",
+      1,
+      "trust"
+    ],
+    [
+      "denied",
+      1,
+      "sadness"
+    ],
+    [
+      "alone",
+      1,
+      "sadness"
+    ],
+    [
+      "embraces",
+      1,
+      "surprise"
+    ],
+    [
+      "fervor",
+      1,
       "anger"
     ],
     [
@@ -311,81 +376,16 @@
       "rule",
       1,
       "fear"
-    ],
-    [
-      "sounds",
-      1,
-      "joy"
-    ],
-    [
-      "isolated",
-      1,
-      "fear"
-    ],
-    [
-      "chance",
-      1,
-      "surprise"
-    ],
-    [
-      "laureate",
-      1,
-      "trust"
-    ],
-    [
-      "public",
-      1,
-      "anticipation"
-    ],
-    [
-      "stable",
-      1,
-      "trust"
-    ],
-    [
-      "battle",
-      1,
-      "anger"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
-    ],
-    [
-      "raided",
-      1,
-      "anger"
-    ],
-    [
-      "rates",
-      1,
-      "fear"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "policing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 52,
-    "fear": 54,
-    "surprise": 13,
-    "sadness": 13,
+    "joy": 35,
+    "trust": 48,
+    "fear": 52,
+    "surprise": 16,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 93,
-    "anticipation": 19
+    "anger": 96,
+    "anticipation": 20
   }
 }
