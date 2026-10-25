@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:13:59.422Z",
+  "generated_at": "2026-10-25T23:29:02.053Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "police",
       7,
       "fear"
+    ],
+    [
+      "leader",
+      5,
+      "trust"
     ],
     [
       "president",
@@ -25,11 +30,6 @@
     [
       "people",
       5,
-      "trust"
-    ],
-    [
-      "leader",
-      4,
       "trust"
     ],
     [
@@ -51,11 +51,6 @@
       "polls",
       3,
       "trust"
-    ],
-    [
-      "lost",
-      3,
-      "sadness"
     ],
     [
       "anti",
@@ -88,11 +83,6 @@
       "joy"
     ],
     [
-      "violence",
-      3,
-      "anger"
-    ],
-    [
       "show",
       3,
       "trust"
@@ -101,6 +91,11 @@
       "results",
       2,
       "anticipation"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "parliament",
@@ -146,6 +141,11 @@
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "lost",
+      2,
+      "sadness"
     ],
     [
       "schools",
@@ -213,9 +213,9 @@
       "fear"
     ],
     [
-      "unrest",
+      "violence",
       2,
-      "fear"
+      "anger"
     ],
     [
       "intimidation",
@@ -283,19 +283,14 @@
       "anticipation"
     ],
     [
-      "wild",
-      1,
-      "surprise"
-    ],
-    [
-      "celebration",
-      1,
-      "surprise"
-    ],
-    [
       "majority",
       1,
       "joy"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
     ],
     [
       "shock",
@@ -376,16 +371,21 @@
       "vote",
       1,
       "anger"
+    ],
+    [
+      "policing",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 55,
-    "fear": 50,
-    "surprise": 19,
-    "sadness": 15,
+    "trust": 56,
+    "fear": 48,
+    "surprise": 17,
+    "sadness": 14,
     "disgust": 4,
-    "anger": 92,
+    "anger": 91,
     "anticipation": 23
   }
 }
