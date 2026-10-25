@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:27:02.948Z",
+  "generated_at": "2026-10-25T19:42:05.390Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "trust"
     ],
     [
+      "president",
+      5,
+      "trust"
+    ],
+    [
       "military",
       5,
       "fear"
@@ -29,11 +34,6 @@
     ],
     [
       "polls",
-      4,
-      "trust"
-    ],
-    [
-      "president",
       4,
       "trust"
     ],
@@ -106,6 +106,16 @@
       "government",
       2,
       "fear"
+    ],
+    [
+      "second",
+      2,
+      "trust"
+    ],
+    [
+      "convicted",
+      2,
+      "anger"
     ],
     [
       "gaza",
@@ -233,22 +243,12 @@
       "anger"
     ],
     [
-      "parliament",
-      2,
-      "trust"
-    ],
-    [
       "beauty",
       2,
       "joy"
     ],
     [
       "youth",
-      2,
-      "anger"
-    ],
-    [
-      "veto",
       2,
       "anger"
     ],
@@ -261,6 +261,21 @@
       "corruption",
       1,
       "disgust"
+    ],
+    [
+      "results",
+      1,
+      "anticipation"
+    ],
+    [
+      "shock",
+      1,
+      "anger"
+    ],
+    [
+      "seeking",
+      1,
+      "anticipation"
     ],
     [
       "general",
@@ -299,11 +314,6 @@
     ],
     [
       "vote",
-      1,
-      "anger"
-    ],
-    [
-      "convicted",
       1,
       "anger"
     ],
@@ -366,26 +376,16 @@
       "autopsy",
       1,
       "fear"
-    ],
-    [
-      "homicide",
-      1,
-      "anger"
-    ],
-    [
-      "space",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 50,
-    "fear": 52,
+    "joy": 35,
+    "trust": 51,
+    "fear": 50,
     "surprise": 17,
     "sadness": 15,
     "disgust": 5,
-    "anger": 91,
-    "anticipation": 20
+    "anger": 90,
+    "anticipation": 22
   }
 }
