@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:29:02.053Z",
+  "generated_at": "2026-10-25T23:44:04.522Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,11 +88,6 @@
       "trust"
     ],
     [
-      "results",
-      2,
-      "anticipation"
-    ],
-    [
       "government",
       2,
       "fear"
@@ -101,6 +96,11 @@
       "parliament",
       2,
       "trust"
+    ],
+    [
+      "results",
+      2,
+      "anticipation"
     ],
     [
       "second",
@@ -258,6 +258,16 @@
       "joy"
     ],
     [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "majority",
+      1,
+      "joy"
+    ],
+    [
       "ballot",
       1,
       "trust"
@@ -281,16 +291,6 @@
       "await",
       1,
       "anticipation"
-    ],
-    [
-      "majority",
-      1,
-      "joy"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
     ],
     [
       "shock",
