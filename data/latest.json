@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:58:16.840Z",
+  "generated_at": "2026-10-25T22:13:19.243Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,6 +98,16 @@
       "trust"
     ],
     [
+      "second",
+      2,
+      "trust"
+    ],
+    [
+      "convicted",
+      2,
+      "anger"
+    ],
+    [
       "law",
       2,
       "trust"
@@ -121,16 +131,6 @@
       "peace",
       2,
       "joy"
-    ],
-    [
-      "second",
-      2,
-      "trust"
-    ],
-    [
-      "convicted",
-      2,
-      "anger"
     ],
     [
       "gaza",
@@ -253,11 +253,6 @@
       "joy"
     ],
     [
-      "voting",
-      1,
-      "anger"
-    ],
-    [
       "wild",
       1,
       "surprise"
@@ -271,6 +266,26 @@
       "majority",
       1,
       "joy"
+    ],
+    [
+      "results",
+      1,
+      "anticipation"
+    ],
+    [
+      "shock",
+      1,
+      "anger"
+    ],
+    [
+      "seeking",
+      1,
+      "anticipation"
+    ],
+    [
+      "voting",
+      1,
+      "anger"
     ],
     [
       "accused",
@@ -319,21 +334,6 @@
     ],
     [
       "interim",
-      1,
-      "anticipation"
-    ],
-    [
-      "results",
-      1,
-      "anticipation"
-    ],
-    [
-      "shock",
-      1,
-      "anger"
-    ],
-    [
-      "seeking",
       1,
       "anticipation"
     ],
