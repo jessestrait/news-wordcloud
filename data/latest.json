@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:39:32.883Z",
+  "generated_at": "2026-10-25T14:54:35.399Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anger"
     ],
     [
+      "lost",
+      3,
+      "sadness"
+    ],
+    [
       "anti",
       3,
       "anger"
@@ -56,11 +61,6 @@
       "zionism",
       3,
       "surprise"
-    ],
-    [
-      "lost",
-      3,
-      "sadness"
     ],
     [
       "homes",
@@ -243,6 +243,16 @@
       "anger"
     ],
     [
+      "vote",
+      1,
+      "anger"
+    ],
+    [
+      "convicted",
+      1,
+      "anger"
+    ],
+    [
       "policing",
       1,
       "fear"
@@ -309,16 +319,6 @@
     ],
     [
       "homicide",
-      1,
-      "anger"
-    ],
-    [
-      "vote",
-      1,
-      "anger"
-    ],
-    [
-      "convicted",
       1,
       "anger"
     ],
