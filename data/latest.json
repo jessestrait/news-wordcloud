@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:49:48.988Z",
+  "generated_at": "2026-10-25T06:04:51.438Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,16 @@
       "fear"
     ],
     [
+      "fear",
+      4,
+      "anger"
+    ],
+    [
+      "humanitarian",
+      4,
+      "surprise"
+    ],
+    [
       "hit",
       4,
       "anger"
@@ -43,11 +53,6 @@
       "anger"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
       "guardian",
       3,
       "trust"
@@ -61,11 +66,6 @@
       "leader",
       3,
       "trust"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
     ],
     [
       "life",
@@ -83,22 +83,12 @@
       "anger"
     ],
     [
-      "fear",
-      3,
-      "anger"
-    ],
-    [
       "killed",
       3,
       "fear"
     ],
     [
-      "humanitarian",
-      3,
-      "surprise"
-    ],
-    [
-      "iran",
+      "trump",
       3,
       "anger"
     ],
@@ -108,9 +98,9 @@
       "trust"
     ],
     [
-      "strike",
-      3,
-      "anger"
+      "vow",
+      2,
+      "joy"
     ],
     [
       "restrictions",
@@ -193,6 +183,11 @@
       "anger"
     ],
     [
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
       "politics",
       2,
       "anger"
@@ -216,6 +211,26 @@
       "veto",
       2,
       "anger"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "suffering",
+      1,
+      "fear"
+    ],
+    [
+      "catastrophe",
+      1,
+      "anger"
+    ],
+    [
+      "rule",
+      1,
+      "fear"
     ],
     [
       "sounds",
@@ -328,12 +343,12 @@
       "joy"
     ],
     [
-      "vows",
+      "retaliation",
       1,
-      "joy"
+      "anger"
     ],
     [
-      "retaliation",
+      "attack",
       1,
       "anger"
     ],
@@ -361,31 +376,16 @@
       "reporters",
       1,
       "trust"
-    ],
-    [
-      "dies",
-      1,
-      "fear"
-    ],
-    [
-      "save",
-      1,
-      "joy"
-    ],
-    [
-      "trip",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 35,
     "trust": 51,
-    "fear": 50,
-    "surprise": 12,
+    "fear": 51,
+    "surprise": 13,
     "sadness": 12,
     "disgust": 4,
-    "anger": 93,
+    "anger": 89,
     "anticipation": 20
   }
 }
