@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T22:43:39.756Z",
+  "generated_at": "2026-10-25T22:58:41.876Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anticipation"
     ],
     [
+      "polls",
+      3,
+      "trust"
+    ],
+    [
       "lost",
       3,
       "sadness"
@@ -91,6 +96,11 @@
       "show",
       3,
       "trust"
+    ],
+    [
+      "results",
+      2,
+      "anticipation"
     ],
     [
       "parliament",
@@ -183,11 +193,6 @@
       "joy"
     ],
     [
-      "polls",
-      2,
-      "trust"
-    ],
-    [
       "happened",
       2,
       "anticipation"
@@ -253,6 +258,31 @@
       "joy"
     ],
     [
+      "ballot",
+      1,
+      "trust"
+    ],
+    [
+      "count",
+      1,
+      "trust"
+    ],
+    [
+      "voting",
+      1,
+      "anger"
+    ],
+    [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "await",
+      1,
+      "anticipation"
+    ],
+    [
       "wild",
       1,
       "surprise"
@@ -266,16 +296,6 @@
       "majority",
       1,
       "joy"
-    ],
-    [
-      "voting",
-      1,
-      "anger"
-    ],
-    [
-      "results",
-      1,
-      "anticipation"
     ],
     [
       "shock",
@@ -356,36 +376,16 @@
       "vote",
       1,
       "anger"
-    ],
-    [
-      "policing",
-      1,
-      "fear"
-    ],
-    [
-      "deportation",
-      1,
-      "anger"
-    ],
-    [
-      "happening",
-      1,
-      "anticipation"
-    ],
-    [
-      "real",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 52,
+    "trust": 55,
     "fear": 50,
     "surprise": 19,
     "sadness": 15,
     "disgust": 4,
-    "anger": 91,
-    "anticipation": 21
+    "anger": 92,
+    "anticipation": 23
   }
 }
