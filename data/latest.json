@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:20:08.540Z",
+  "generated_at": "2026-10-25T06:35:10.398Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,14 +53,14 @@
       "anger"
     ],
     [
-      "guardian",
-      3,
-      "trust"
-    ],
-    [
       "homes",
       3,
       "joy"
+    ],
+    [
+      "guardian",
+      3,
+      "trust"
     ],
     [
       "leader",
@@ -96,6 +96,11 @@
       "show",
       3,
       "trust"
+    ],
+    [
+      "soldiers",
+      2,
+      "anger"
     ],
     [
       "vow",
@@ -146,11 +151,6 @@
       "rain",
       2,
       "joy"
-    ],
-    [
-      "soldiers",
-      2,
-      "anger"
     ],
     [
       "warned",
@@ -210,6 +210,21 @@
     [
       "veto",
       2,
+      "anger"
+    ],
+    [
+      "families",
+      1,
+      "joy"
+    ],
+    [
+      "retaliation",
+      1,
+      "anger"
+    ],
+    [
+      "attack",
+      1,
       "anger"
     ],
     [
@@ -336,21 +351,6 @@
       "second",
       1,
       "trust"
-    ],
-    [
-      "families",
-      1,
-      "joy"
-    ],
-    [
-      "retaliation",
-      1,
-      "anger"
-    ],
-    [
-      "attack",
-      1,
-      "anger"
     ],
     [
       "fascism",
