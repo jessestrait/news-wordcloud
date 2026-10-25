@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:56:41.061Z",
+  "generated_at": "2026-10-25T19:11:42.891Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,23 +13,23 @@
       "fear"
     ],
     [
-      "military",
-      6,
-      "fear"
-    ],
-    [
       "leader",
       5,
       "trust"
     ],
     [
-      "president",
+      "military",
       5,
-      "trust"
+      "fear"
     ],
     [
       "people",
       5,
+      "trust"
+    ],
+    [
+      "president",
+      4,
       "trust"
     ],
     [
@@ -48,9 +48,9 @@
       "anticipation"
     ],
     [
-      "war",
-      4,
-      "anger"
+      "polls",
+      3,
+      "trust"
     ],
     [
       "lost",
@@ -93,11 +93,6 @@
       "anger"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "show",
       3,
       "trust"
@@ -111,6 +106,11 @@
       "government",
       2,
       "fear"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
     ],
     [
       "opposition",
@@ -173,19 +173,9 @@
       "trust"
     ],
     [
-      "restrictions",
-      2,
-      "anger"
-    ],
-    [
       "supporters",
       2,
       "joy"
-    ],
-    [
-      "polls",
-      2,
-      "trust"
     ],
     [
       "happened",
@@ -214,6 +204,11 @@
     ],
     [
       "intimidation",
+      2,
+      "anger"
+    ],
+    [
+      "war",
       2,
       "anger"
     ],
@@ -271,6 +266,21 @@
       "corruption",
       1,
       "disgust"
+    ],
+    [
+      "general",
+      1,
+      "trust"
+    ],
+    [
+      "criticism",
+      1,
+      "anger"
+    ],
+    [
+      "alleged",
+      1,
+      "fear"
     ],
     [
       "exiled",
@@ -366,26 +376,16 @@
       "space",
       1,
       "joy"
-    ],
-    [
-      "cement",
-      1,
-      "trust"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 36,
-    "trust": 51,
+    "trust": 49,
     "fear": 52,
     "surprise": 17,
     "sadness": 15,
     "disgust": 5,
-    "anger": 99,
+    "anger": 92,
     "anticipation": 20
   }
 }
