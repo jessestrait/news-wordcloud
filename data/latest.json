@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:42:05.390Z",
+  "generated_at": "2026-10-25T19:57:07.862Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,6 +98,16 @@
       "trust"
     ],
     [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
       "rule",
       2,
       "fear"
@@ -121,16 +131,6 @@
       "gaza",
       2,
       "anger"
-    ],
-    [
-      "opposition",
-      2,
-      "anger"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "schools",
@@ -253,6 +253,26 @@
       "anger"
     ],
     [
+      "exiled",
+      1,
+      "anger"
+    ],
+    [
+      "winner",
+      1,
+      "surprise"
+    ],
+    [
+      "exile",
+      1,
+      "anger"
+    ],
+    [
+      "interim",
+      1,
+      "anticipation"
+    ],
+    [
       "challenge",
       1,
       "anger"
@@ -291,26 +311,6 @@
       "alleged",
       1,
       "fear"
-    ],
-    [
-      "exiled",
-      1,
-      "anger"
-    ],
-    [
-      "winner",
-      1,
-      "surprise"
-    ],
-    [
-      "exile",
-      1,
-      "anger"
-    ],
-    [
-      "interim",
-      1,
-      "anticipation"
     ],
     [
       "vote",
