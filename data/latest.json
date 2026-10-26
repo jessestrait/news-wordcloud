@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:05:50.073Z",
+  "generated_at": "2026-10-26T12:20:52.237Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,6 +51,11 @@
       "power",
       4,
       "anticipation"
+    ],
+    [
+      "history",
+      3,
+      "trust"
     ],
     [
       "world",
@@ -116,11 +121,6 @@
       "opposition",
       2,
       "anger"
-    ],
-    [
-      "history",
-      2,
-      "trust"
     ],
     [
       "top",
@@ -198,6 +198,11 @@
       "sadness"
     ],
     [
+      "attack",
+      2,
+      "anger"
+    ],
+    [
       "humanitarian",
       2,
       "surprise"
@@ -238,9 +243,9 @@
       "anger"
     ],
     [
-      "flooding",
-      2,
-      "fear"
+      "seeks",
+      1,
+      "anticipation"
     ],
     [
       "reality",
@@ -371,21 +376,16 @@
       "crackdown",
       1,
       "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 63,
-    "fear": 48,
-    "surprise": 21,
+    "trust": 64,
+    "fear": 45,
+    "surprise": 20,
     "sadness": 12,
     "disgust": 5,
-    "anger": 86,
-    "anticipation": 19
+    "anger": 87,
+    "anticipation": 20
   }
 }
