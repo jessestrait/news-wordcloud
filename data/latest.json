@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:47:29.231Z",
+  "generated_at": "2026-10-26T06:02:31.688Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "trust"
     ],
     [
+      "police",
+      8,
+      "fear"
+    ],
+    [
       "people",
       8,
       "trust"
-    ],
-    [
-      "police",
-      7,
-      "fear"
     ],
     [
       "leader",
@@ -56,11 +56,6 @@
       "homes",
       3,
       "joy"
-    ],
-    [
-      "fear",
-      3,
-      "anger"
     ],
     [
       "humanitarian",
@@ -183,6 +178,11 @@
       "anger"
     ],
     [
+      "fear",
+      2,
+      "anger"
+    ],
+    [
       "vow",
       2,
       "joy"
@@ -261,6 +261,21 @@
       "elected",
       1,
       "trust"
+    ],
+    [
+      "joy",
+      1,
+      "joy"
+    ],
+    [
+      "victory",
+      1,
+      "joy"
+    ],
+    [
+      "beatings",
+      1,
+      "anger"
     ],
     [
       "exiled",
@@ -361,31 +376,16 @@
       "accused",
       1,
       "anger"
-    ],
-    [
-      "risk",
-      1,
-      "fear"
-    ],
-    [
-      "innocent",
-      1,
-      "trust"
-    ],
-    [
-      "damage",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 64,
+    "joy": 35,
+    "trust": 63,
     "fear": 46,
     "surprise": 18,
     "sadness": 15,
     "disgust": 6,
-    "anger": 84,
+    "anger": 83,
     "anticipation": 21
   }
 }
