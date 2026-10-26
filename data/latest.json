@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T15:53:05.768Z",
+  "generated_at": "2026-10-26T16:08:07.999Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "fear"
     ],
     [
+      "leader",
+      7,
+      "trust"
+    ],
+    [
       "storm",
       6,
       "anger"
-    ],
-    [
-      "leader",
-      6,
-      "trust"
     ],
     [
       "military",
@@ -68,6 +68,11 @@
       "joy"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "zionism",
       3,
       "surprise"
@@ -78,6 +83,11 @@
       "anger"
     ],
     [
+      "vow",
+      3,
+      "joy"
+    ],
+    [
       "power",
       3,
       "anticipation"
@@ -86,6 +96,16 @@
       "show",
       3,
       "trust"
+    ],
+    [
+      "dictatorship",
+      2,
+      "anger"
+    ],
+    [
+      "america",
+      2,
+      "sadness"
     ],
     [
       "fire",
@@ -143,11 +163,6 @@
       "trust"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "happened",
       2,
       "anticipation"
@@ -203,11 +218,6 @@
       "anger"
     ],
     [
-      "vow",
-      2,
-      "joy"
-    ],
-    [
       "supporters",
       2,
       "joy"
@@ -231,6 +241,11 @@
       "intimidation",
       2,
       "anger"
+    ],
+    [
+      "important",
+      1,
+      "trust"
     ],
     [
       "defeated",
@@ -361,31 +376,16 @@
       "displaced",
       1,
       "anger"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
-      "flee",
-      1,
-      "fear"
-    ],
-    [
-      "credentials",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 69,
-    "fear": 43,
+    "joy": 31,
+    "trust": 70,
+    "fear": 44,
     "surprise": 18,
-    "sadness": 11,
+    "sadness": 12,
     "disgust": 4,
-    "anger": 83,
+    "anger": 84,
     "anticipation": 21
   }
 }
