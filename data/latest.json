@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T17:54:23.006Z",
+  "generated_at": "2026-10-26T18:09:25.238Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "trust"
     ],
     [
-      "police",
-      7,
-      "fear"
-    ],
-    [
       "storm",
       6,
       "anger"
+    ],
+    [
+      "police",
+      6,
+      "fear"
     ],
     [
       "military",
@@ -33,14 +33,19 @@
       "fear"
     ],
     [
-      "force",
-      5,
-      "anger"
+      "victory",
+      4,
+      "joy"
     ],
     [
       "government",
       4,
       "fear"
+    ],
+    [
+      "force",
+      4,
+      "anger"
     ],
     [
       "rule",
@@ -59,11 +64,6 @@
     ],
     [
       "homes",
-      3,
-      "joy"
-    ],
-    [
-      "victory",
       3,
       "joy"
     ],
@@ -228,6 +228,16 @@
       "trust"
     ],
     [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "veteran",
+      1,
+      "trust"
+    ],
+    [
       "confronts",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "focus",
       1,
       "trust"
-    ],
-    [
-      "cohesion",
-      1,
-      "trust"
-    ],
-    [
-      "bizarre",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 69,
-    "fear": 44,
+    "trust": 70,
+    "fear": 41,
     "surprise": 16,
     "sadness": 12,
-    "disgust": 4,
-    "anger": 82,
+    "disgust": 5,
+    "anger": 79,
     "anticipation": 25
   }
 }
