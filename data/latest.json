@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:45:16.797Z",
+  "generated_at": "2026-10-26T02:00:18.945Z",
   "article_count": 50,
   "top_words": [
     [
@@ -86,6 +86,11 @@
       "show",
       3,
       "trust"
+    ],
+    [
+      "results",
+      2,
+      "anticipation"
     ],
     [
       "corruption",
@@ -243,9 +248,9 @@
       "joy"
     ],
     [
-      "victory",
+      "loss",
       1,
-      "joy"
+      "anger"
     ],
     [
       "defeated",
@@ -301,11 +306,6 @@
       "losing",
       1,
       "anger"
-    ],
-    [
-      "results",
-      1,
-      "anticipation"
     ],
     [
       "shock",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
+    "joy": 35,
     "trust": 61,
     "fear": 47,
     "surprise": 16,
     "sadness": 14,
     "disgust": 6,
-    "anger": 86,
-    "anticipation": 20
+    "anger": 87,
+    "anticipation": 21
   }
 }
