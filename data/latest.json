@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:07:10.908Z",
+  "generated_at": "2026-10-26T14:22:13.847Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,6 +253,16 @@
       "surprise"
     ],
     [
+      "defeated",
+      1,
+      "sadness"
+    ],
+    [
+      "elected",
+      1,
+      "trust"
+    ],
+    [
       "level",
       1,
       "trust"
@@ -296,16 +306,6 @@
       "strangled",
       1,
       "anger"
-    ],
-    [
-      "defeated",
-      1,
-      "sadness"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
     ],
     [
       "university",
