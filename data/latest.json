@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:20:52.237Z",
+  "generated_at": "2026-10-26T12:35:54.383Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,11 +243,6 @@
       "anger"
     ],
     [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
       "reality",
       1,
       "surprise"
@@ -261,6 +256,11 @@
       "hopes",
       1,
       "surprise"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
     ],
     [
       "defeated",
