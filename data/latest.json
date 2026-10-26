@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T02:15:38.310Z",
+  "generated_at": "2026-10-26T02:30:40.748Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,7 +88,7 @@
       "trust"
     ],
     [
-      "results",
+      "result",
       2,
       "anticipation"
     ],
@@ -248,9 +248,9 @@
       "joy"
     ],
     [
-      "loss",
+      "impossible",
       1,
-      "anger"
+      "sadness"
     ],
     [
       "defeated",
@@ -383,9 +383,9 @@
     "trust": 61,
     "fear": 47,
     "surprise": 16,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 6,
-    "anger": 87,
+    "anger": 86,
     "anticipation": 21
   }
 }
