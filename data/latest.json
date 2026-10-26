@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:50:30.403Z",
+  "generated_at": "2026-10-26T11:50:48.063Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,16 +243,6 @@
       "fear"
     ],
     [
-      "defeated",
-      1,
-      "sadness"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
-    ],
-    [
       "reality",
       1,
       "surprise"
@@ -266,6 +256,16 @@
       "hopes",
       1,
       "surprise"
+    ],
+    [
+      "defeated",
+      1,
+      "sadness"
+    ],
+    [
+      "elected",
+      1,
+      "trust"
     ],
     [
       "bizarre",
