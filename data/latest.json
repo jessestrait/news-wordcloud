@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:32:52.755Z",
+  "generated_at": "2026-10-26T06:47:54.903Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,19 @@
       "anger"
     ],
     [
-      "hit",
-      4,
-      "anger"
-    ],
-    [
       "supporters",
       3,
       "joy"
+    ],
+    [
+      "victory",
+      3,
+      "joy"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "happened",
@@ -81,11 +86,6 @@
       "life",
       3,
       "joy"
-    ],
-    [
-      "show",
-      3,
-      "trust"
     ],
     [
       "opposition",
@@ -203,6 +203,11 @@
       "fear"
     ],
     [
+      "shows",
+      2,
+      "trust"
+    ],
+    [
       "warned",
       2,
       "fear"
@@ -254,11 +259,6 @@
     ],
     [
       "joy",
-      1,
-      "joy"
-    ],
-    [
-      "victory",
       1,
       "joy"
     ],
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 36,
-    "trust": 63,
-    "fear": 46,
+    "trust": 60,
+    "fear": 45,
     "surprise": 18,
     "sadness": 14,
     "disgust": 6,
-    "anger": 83,
+    "anger": 81,
     "anticipation": 20
   }
 }
