@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:52:37.934Z",
+  "generated_at": "2026-10-26T15:07:41.351Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,16 +243,6 @@
       "trust"
     ],
     [
-      "trump",
-      1,
-      "anger"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
       "reality",
       1,
       "surprise"
@@ -266,6 +256,16 @@
       "hopes",
       1,
       "surprise"
+    ],
+    [
+      "trump",
+      1,
+      "anger"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
     ],
     [
       "level",
