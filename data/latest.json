@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:17:09.968Z",
+  "generated_at": "2026-10-26T05:32:11.821Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,6 +88,16 @@
       "trust"
     ],
     [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
       "result",
       2,
       "anticipation"
@@ -136,16 +146,6 @@
       "rule",
       2,
       "fear"
-    ],
-    [
-      "opposition",
-      2,
-      "anger"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "gaza",
@@ -246,6 +246,26 @@
       "beauty",
       2,
       "joy"
+    ],
+    [
+      "exiled",
+      1,
+      "anger"
+    ],
+    [
+      "winner",
+      1,
+      "surprise"
+    ],
+    [
+      "exile",
+      1,
+      "anger"
+    ],
+    [
+      "interim",
+      1,
+      "anticipation"
     ],
     [
       "impossible",
@@ -356,26 +376,6 @@
       "damage",
       1,
       "anger"
-    ],
-    [
-      "bad",
-      1,
-      "anger"
-    ],
-    [
-      "opponents",
-      1,
-      "anger"
-    ],
-    [
-      "exiled",
-      1,
-      "anger"
-    ],
-    [
-      "winner",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
