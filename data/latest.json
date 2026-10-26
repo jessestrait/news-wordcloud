@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:11:13.166Z",
+  "generated_at": "2026-10-26T20:26:16.331Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "leader",
-      8,
+      9,
       "trust"
     ],
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
@@ -108,8 +108,8 @@
       "anticipation"
     ],
     [
-      "show",
-      3,
+      "schools",
+      2,
       "trust"
     ],
     [
@@ -149,11 +149,6 @@
     ],
     [
       "soldiers",
-      2,
-      "anger"
-    ],
-    [
-      "opposition",
       2,
       "anger"
     ],
@@ -213,14 +208,49 @@
       "joy"
     ],
     [
+      "demand",
+      2,
+      "anger"
+    ],
+    [
       "death",
       2,
       "sadness"
     ],
     [
+      "show",
+      2,
+      "trust"
+    ],
+    [
       "supporters",
       2,
       "joy"
+    ],
+    [
+      "barricading",
+      1,
+      "fear"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
+    ],
+    [
+      "teacher",
+      1,
+      "trust"
+    ],
+    [
+      "shortages",
+      1,
+      "anger"
+    ],
+    [
+      "building",
+      1,
+      "anticipation"
     ],
     [
       "middle",
@@ -346,46 +376,16 @@
       "suspected",
       1,
       "fear"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
-      "denies",
-      1,
-      "anger"
-    ],
-    [
-      "strangled",
-      1,
-      "anger"
-    ],
-    [
-      "university",
-      1,
-      "anticipation"
-    ],
-    [
-      "mentor",
-      1,
-      "trust"
-    ],
-    [
-      "focus",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 70,
-    "fear": 40,
+    "trust": 71,
+    "fear": 41,
     "surprise": 16,
     "sadness": 12,
     "disgust": 5,
-    "anger": 82,
-    "anticipation": 25
+    "anger": 81,
+    "anticipation": 26
   }
 }
