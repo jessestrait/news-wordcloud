@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:30:14.591Z",
+  "generated_at": "2026-10-26T01:45:16.797Z",
   "article_count": 50,
   "top_words": [
     [
@@ -86,11 +86,6 @@
       "show",
       3,
       "trust"
-    ],
-    [
-      "prepares",
-      2,
-      "anticipation"
     ],
     [
       "corruption",
@@ -268,6 +263,11 @@
       "anger"
     ],
     [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
       "top",
       1,
       "trust"
@@ -386,6 +386,6 @@
     "sadness": 14,
     "disgust": 6,
     "anger": 86,
-    "anticipation": 21
+    "anticipation": 20
   }
 }
