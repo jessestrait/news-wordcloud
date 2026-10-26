@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:37:16.543Z",
+  "generated_at": "2026-10-26T14:52:19.334Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "trust"
     ],
     [
-      "storm",
-      8,
-      "anger"
-    ],
-    [
       "police",
       8,
       "fear"
+    ],
+    [
+      "storm",
+      6,
+      "anger"
     ],
     [
       "leader",
@@ -38,19 +38,9 @@
       "anger"
     ],
     [
-      "homes",
-      4,
-      "joy"
-    ],
-    [
       "war",
       4,
       "anger"
-    ],
-    [
-      "power",
-      4,
-      "anticipation"
     ],
     [
       "world",
@@ -63,6 +53,11 @@
       "trust"
     ],
     [
+      "homes",
+      3,
+      "joy"
+    ],
+    [
       "victory",
       3,
       "joy"
@@ -71,11 +66,6 @@
       "peace",
       3,
       "joy"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "zionism",
@@ -88,9 +78,19 @@
       "anger"
     ],
     [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
       "show",
       3,
       "trust"
+    ],
+    [
+      "fire",
+      2,
+      "fear"
     ],
     [
       "public",
@@ -114,6 +114,11 @@
     ],
     [
       "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "hit",
       2,
       "anger"
     ],
@@ -178,11 +183,6 @@
       "sadness"
     ],
     [
-      "schools",
-      2,
-      "trust"
-    ],
-    [
       "anti",
       2,
       "anger"
@@ -233,6 +233,26 @@
       "anger"
     ],
     [
+      "defeated",
+      1,
+      "sadness"
+    ],
+    [
+      "elected",
+      1,
+      "trust"
+    ],
+    [
+      "trump",
+      1,
+      "anger"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
+    ],
+    [
       "reality",
       1,
       "surprise"
@@ -246,16 +266,6 @@
       "hopes",
       1,
       "surprise"
-    ],
-    [
-      "defeated",
-      1,
-      "sadness"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
     ],
     [
       "level",
@@ -366,26 +376,16 @@
       "credentials",
       1,
       "trust"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
-    ],
-    [
-      "joy",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 70,
-    "fear": 42,
+    "joy": 30,
+    "trust": 69,
+    "fear": 43,
     "surprise": 18,
     "sadness": 11,
     "disgust": 4,
-    "anger": 85,
+    "anger": 83,
     "anticipation": 21
   }
 }
