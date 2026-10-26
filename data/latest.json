@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:50:00.141Z",
+  "generated_at": "2026-10-26T11:05:02.890Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "trust"
     ],
     [
-      "storm",
-      9,
-      "anger"
-    ],
-    [
       "people",
       9,
       "trust"
+    ],
+    [
+      "storm",
+      8,
+      "anger"
     ],
     [
       "police",
@@ -35,11 +35,6 @@
     [
       "force",
       5,
-      "anger"
-    ],
-    [
-      "hit",
-      4,
       "anger"
     ],
     [
@@ -71,6 +66,11 @@
       "peace",
       3,
       "joy"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "happened",
@@ -238,6 +238,11 @@
       "anger"
     ],
     [
+      "flooding",
+      2,
+      "fear"
+    ],
+    [
       "defeated",
       1,
       "sadness"
@@ -276,26 +281,6 @@
       "stagnant",
       1,
       "sadness"
-    ],
-    [
-      "typhoon",
-      1,
-      "fear"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "flood",
-      1,
-      "fear"
-    ],
-    [
-      "alerts",
-      1,
-      "fear"
     ],
     [
       "punishment",
@@ -376,16 +361,31 @@
       "enforced",
       1,
       "anger"
+    ],
+    [
+      "neutrality",
+      1,
+      "trust"
+    ],
+    [
+      "crackdown",
+      1,
+      "anger"
+    ],
+    [
+      "prepares",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
     "trust": 63,
-    "fear": 49,
-    "surprise": 20,
+    "fear": 48,
+    "surprise": 21,
     "sadness": 12,
     "disgust": 5,
-    "anger": 88,
+    "anger": 86,
     "anticipation": 19
   }
 }
