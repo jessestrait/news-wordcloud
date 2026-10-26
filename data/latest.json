@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T21:57:05.170Z",
+  "generated_at": "2026-10-26T22:12:07.507Z",
   "article_count": 50,
   "top_words": [
     [
@@ -29,7 +29,7 @@
     ],
     [
       "police",
-      6,
+      5,
       "fear"
     ],
     [
@@ -96,6 +96,21 @@
       "vow",
       3,
       "joy"
+    ],
+    [
+      "defeated",
+      2,
+      "sadness"
+    ],
+    [
+      "ruling",
+      2,
+      "fear"
+    ],
+    [
+      "case",
+      2,
+      "fear"
     ],
     [
       "schools",
@@ -223,6 +238,26 @@
       "trust"
     ],
     [
+      "surrender",
+      1,
+      "fear"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "money",
+      1,
+      "anger"
+    ],
+    [
       "delegates",
       1,
       "trust"
@@ -333,11 +368,6 @@
       "anticipation"
     ],
     [
-      "defeated",
-      1,
-      "sadness"
-    ],
-    [
       "elected",
       1,
       "trust"
@@ -346,46 +376,16 @@
       "reality",
       1,
       "surprise"
-    ],
-    [
-      "ousts",
-      1,
-      "anger"
-    ],
-    [
-      "hopes",
-      1,
-      "surprise"
-    ],
-    [
-      "dictatorship",
-      1,
-      "anger"
-    ],
-    [
-      "important",
-      1,
-      "trust"
-    ],
-    [
-      "america",
-      1,
-      "sadness"
-    ],
-    [
-      "trump",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 27,
     "trust": 72,
-    "fear": 41,
-    "surprise": 16,
-    "sadness": 12,
-    "disgust": 5,
-    "anger": 83,
+    "fear": 42,
+    "surprise": 14,
+    "sadness": 13,
+    "disgust": 4,
+    "anger": 85,
     "anticipation": 24
   }
 }
