@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:36:10.748Z",
+  "generated_at": "2026-10-26T12:51:13.252Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,12 +53,12 @@
       "anticipation"
     ],
     [
-      "history",
+      "world",
       3,
       "trust"
     ],
     [
-      "world",
+      "history",
       3,
       "trust"
     ],
@@ -243,6 +243,16 @@
       "anger"
     ],
     [
+      "defeated",
+      1,
+      "sadness"
+    ],
+    [
+      "elected",
+      1,
+      "trust"
+    ],
+    [
       "reality",
       1,
       "surprise"
@@ -258,19 +268,9 @@
       "surprise"
     ],
     [
-      "seeks",
+      "seeking",
       1,
       "anticipation"
-    ],
-    [
-      "defeated",
-      1,
-      "sadness"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
     ],
     [
       "bizarre",
