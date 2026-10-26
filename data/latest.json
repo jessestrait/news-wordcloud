@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T16:08:07.999Z",
+  "generated_at": "2026-10-26T16:23:10.075Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,21 +243,6 @@
       "anger"
     ],
     [
-      "important",
-      1,
-      "trust"
-    ],
-    [
-      "defeated",
-      1,
-      "sadness"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
-    ],
-    [
       "reality",
       1,
       "surprise"
@@ -271,6 +256,21 @@
       "hopes",
       1,
       "surprise"
+    ],
+    [
+      "defeated",
+      1,
+      "sadness"
+    ],
+    [
+      "elected",
+      1,
+      "trust"
+    ],
+    [
+      "important",
+      1,
+      "trust"
     ],
     [
       "trump",
