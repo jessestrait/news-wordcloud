@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:06:15.722Z",
+  "generated_at": "2026-10-26T13:21:18.156Z",
   "article_count": 50,
   "top_words": [
     [
@@ -248,6 +248,31 @@
       "anger"
     ],
     [
+      "reality",
+      1,
+      "surprise"
+    ],
+    [
+      "ousts",
+      1,
+      "anger"
+    ],
+    [
+      "hopes",
+      1,
+      "surprise"
+    ],
+    [
+      "defeated",
+      1,
+      "sadness"
+    ],
+    [
+      "elected",
+      1,
+      "trust"
+    ],
+    [
       "university",
       1,
       "anticipation"
@@ -266,31 +291,6 @@
       "cohesion",
       1,
       "trust"
-    ],
-    [
-      "defeated",
-      1,
-      "sadness"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
-    ],
-    [
-      "reality",
-      1,
-      "surprise"
-    ],
-    [
-      "ousts",
-      1,
-      "anger"
-    ],
-    [
-      "hopes",
-      1,
-      "surprise"
     ],
     [
       "seeking",
