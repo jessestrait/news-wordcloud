@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:34:33.069Z",
+  "generated_at": "2026-10-26T09:49:34.963Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,6 +253,16 @@
       "joy"
     ],
     [
+      "defeated",
+      1,
+      "sadness"
+    ],
+    [
+      "elected",
+      1,
+      "trust"
+    ],
+    [
       "typhoon",
       1,
       "fear"
@@ -271,16 +281,6 @@
       "alerts",
       1,
       "fear"
-    ],
-    [
-      "defeated",
-      1,
-      "sadness"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
     ],
     [
       "reality",
