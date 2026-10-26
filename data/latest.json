@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:32:11.821Z",
+  "generated_at": "2026-10-26T05:47:13.946Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,6 +88,11 @@
       "trust"
     ],
     [
+      "result",
+      2,
+      "anticipation"
+    ],
+    [
       "opposition",
       2,
       "anger"
@@ -96,11 +101,6 @@
       "peace",
       2,
       "joy"
-    ],
-    [
-      "result",
-      2,
-      "anticipation"
     ],
     [
       "history",
@@ -248,6 +248,21 @@
       "joy"
     ],
     [
+      "impossible",
+      1,
+      "sadness"
+    ],
+    [
+      "defeated",
+      1,
+      "sadness"
+    ],
+    [
+      "elected",
+      1,
+      "trust"
+    ],
+    [
       "exiled",
       1,
       "anger"
@@ -266,21 +281,6 @@
       "interim",
       1,
       "anticipation"
-    ],
-    [
-      "impossible",
-      1,
-      "sadness"
-    ],
-    [
-      "defeated",
-      1,
-      "sadness"
-    ],
-    [
-      "elected",
-      1,
-      "trust"
     ],
     [
       "enslaved",
