@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:49:34.963Z",
+  "generated_at": "2026-10-26T10:04:36.941Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "trust"
     ],
     [
-      "police",
-      8,
-      "fear"
-    ],
-    [
       "people",
       8,
       "trust"
+    ],
+    [
+      "police",
+      7,
+      "fear"
     ],
     [
       "storm",
@@ -91,6 +91,11 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "young",
+      2,
+      "surprise"
     ],
     [
       "punishment",
@@ -198,11 +203,6 @@
       "joy"
     ],
     [
-      "guardian",
-      2,
-      "trust"
-    ],
-    [
       "supporters",
       2,
       "joy"
@@ -261,6 +261,21 @@
       "elected",
       1,
       "trust"
+    ],
+    [
+      "bizarre",
+      1,
+      "surprise"
+    ],
+    [
+      "hobby",
+      1,
+      "joy"
+    ],
+    [
+      "stagnant",
+      1,
+      "sadness"
     ],
     [
       "typhoon",
@@ -358,34 +373,19 @@
       "surprise"
     ],
     [
-      "young",
-      1,
-      "surprise"
-    ],
-    [
       "crackdown",
       1,
       "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
-    ],
-    [
-      "purges",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 60,
-    "fear": 51,
-    "surprise": 19,
-    "sadness": 14,
+    "joy": 35,
+    "trust": 58,
+    "fear": 50,
+    "surprise": 21,
+    "sadness": 15,
     "disgust": 5,
-    "anger": 85,
+    "anger": 84,
     "anticipation": 19
   }
 }
