@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-26T08:49:07.613Z",
+  "generated_at": "2026-10-26T09:04:10.031Z",
   "article_count": 50,
   "top_words": [
     [
       "president",
-      8,
+      9,
       "trust"
     ],
     [
@@ -93,11 +93,6 @@
       "anticipation"
     ],
     [
-      "life",
-      3,
-      "joy"
-    ],
-    [
       "punishment",
       2,
       "anger"
@@ -136,6 +131,11 @@
       "corruption",
       2,
       "disgust"
+    ],
+    [
+      "result",
+      2,
+      "anticipation"
     ],
     [
       "second",
@@ -233,6 +233,11 @@
       "fear"
     ],
     [
+      "life",
+      2,
+      "joy"
+    ],
+    [
       "violence",
       2,
       "anger"
@@ -258,9 +263,19 @@
       "anger"
     ],
     [
-      "beauty",
-      2,
-      "joy"
+      "reality",
+      1,
+      "surprise"
+    ],
+    [
+      "ousts",
+      1,
+      "anger"
+    ],
+    [
+      "hopes",
+      1,
+      "surprise"
     ],
     [
       "defeated",
@@ -361,31 +376,16 @@
       "loyalty",
       1,
       "trust"
-    ],
-    [
-      "upset",
-      1,
-      "anger"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
-      "losing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
+    "joy": 34,
     "trust": 62,
     "fear": 47,
-    "surprise": 17,
+    "surprise": 19,
     "sadness": 14,
     "disgust": 6,
-    "anger": 85,
-    "anticipation": 19
+    "anger": 84,
+    "anticipation": 20
   }
 }
