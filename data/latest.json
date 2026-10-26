@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:51:13.252Z",
+  "generated_at": "2026-10-26T13:06:15.722Z",
   "article_count": 50,
   "top_words": [
     [
@@ -29,7 +29,7 @@
     ],
     [
       "military",
-      6,
+      5,
       "fear"
     ],
     [
@@ -96,6 +96,11 @@
       "show",
       3,
       "trust"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
     ],
     [
       "young",
@@ -243,6 +248,26 @@
       "anger"
     ],
     [
+      "university",
+      1,
+      "anticipation"
+    ],
+    [
+      "mentor",
+      1,
+      "trust"
+    ],
+    [
+      "focus",
+      1,
+      "trust"
+    ],
+    [
+      "cohesion",
+      1,
+      "trust"
+    ],
+    [
       "defeated",
       1,
       "sadness"
@@ -351,41 +376,16 @@
       "slavery",
       1,
       "anger"
-    ],
-    [
-      "pop",
-      1,
-      "surprise"
-    ],
-    [
-      "armed",
-      1,
-      "anger"
-    ],
-    [
-      "enforced",
-      1,
-      "anger"
-    ],
-    [
-      "neutrality",
-      1,
-      "trust"
-    ],
-    [
-      "crackdown",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 64,
-    "fear": 45,
-    "surprise": 20,
-    "sadness": 12,
+    "trust": 67,
+    "fear": 42,
+    "surprise": 19,
+    "sadness": 11,
     "disgust": 5,
     "anger": 87,
-    "anticipation": 20
+    "anticipation": 22
   }
 }
