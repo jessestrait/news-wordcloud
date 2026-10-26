@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-26T10:04:36.941Z",
+  "generated_at": "2026-10-26T10:19:38.879Z",
   "article_count": 50,
   "top_words": [
     [
       "president",
+      10,
+      "trust"
+    ],
+    [
+      "storm",
+      9,
+      "anger"
+    ],
+    [
+      "people",
       9,
       "trust"
     ],
     [
-      "people",
-      8,
-      "trust"
-    ],
-    [
       "police",
-      7,
+      8,
       "fear"
-    ],
-    [
-      "storm",
-      6,
-      "anger"
     ],
     [
       "leader",
@@ -29,8 +29,13 @@
     ],
     [
       "military",
-      5,
+      6,
       "fear"
+    ],
+    [
+      "force",
+      5,
+      "anger"
     ],
     [
       "hit",
@@ -43,9 +48,14 @@
       "joy"
     ],
     [
-      "force",
+      "war",
       4,
       "anger"
+    ],
+    [
+      "power",
+      4,
+      "anticipation"
     ],
     [
       "world",
@@ -53,17 +63,12 @@
       "trust"
     ],
     [
-      "soldiers",
-      3,
-      "anger"
-    ],
-    [
-      "killed",
-      3,
-      "fear"
-    ],
-    [
       "victory",
+      3,
+      "joy"
+    ],
+    [
+      "peace",
       3,
       "joy"
     ],
@@ -73,24 +78,19 @@
       "anticipation"
     ],
     [
-      "anti",
-      3,
-      "anger"
-    ],
-    [
       "zionism",
       3,
       "surprise"
     ],
     [
-      "humanitarian",
+      "fear",
       3,
-      "surprise"
+      "anger"
     ],
     [
-      "power",
+      "show",
       3,
-      "anticipation"
+      "trust"
     ],
     [
       "young",
@@ -98,17 +98,17 @@
       "surprise"
     ],
     [
-      "punishment",
-      2,
-      "anger"
-    ],
-    [
       "families",
       2,
       "joy"
     ],
     [
-      "forced",
+      "soldiers",
+      2,
+      "anger"
+    ],
+    [
+      "killed",
       2,
       "fear"
     ],
@@ -116,11 +116,6 @@
       "opposition",
       2,
       "anger"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "history",
@@ -173,6 +168,11 @@
       "anger"
     ],
     [
+      "officers",
+      2,
+      "trust"
+    ],
+    [
       "lost",
       2,
       "sadness"
@@ -181,6 +181,11 @@
       "schools",
       2,
       "trust"
+    ],
+    [
+      "anti",
+      2,
+      "anger"
     ],
     [
       "growing",
@@ -193,9 +198,9 @@
       "sadness"
     ],
     [
-      "fear",
+      "humanitarian",
       2,
-      "anger"
+      "surprise"
     ],
     [
       "vow",
@@ -218,16 +223,6 @@
       "fear"
     ],
     [
-      "shows",
-      2,
-      "trust"
-    ],
-    [
-      "warned",
-      2,
-      "fear"
-    ],
-    [
       "life",
       2,
       "joy"
@@ -243,14 +238,19 @@
       "anger"
     ],
     [
-      "war",
-      2,
+      "reality",
+      1,
+      "surprise"
+    ],
+    [
+      "ousts",
+      1,
       "anger"
     ],
     [
-      "food",
-      2,
-      "joy"
+      "hopes",
+      1,
+      "surprise"
     ],
     [
       "defeated",
@@ -298,24 +298,19 @@
       "fear"
     ],
     [
-      "reality",
-      1,
-      "surprise"
-    ],
-    [
-      "ousts",
+      "punishment",
       1,
       "anger"
-    ],
-    [
-      "hopes",
-      1,
-      "surprise"
     ],
     [
       "displaced",
       1,
       "anger"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
     ],
     [
       "flee",
@@ -373,19 +368,24 @@
       "surprise"
     ],
     [
-      "crackdown",
+      "armed",
+      1,
+      "anger"
+    ],
+    [
+      "enforced",
       1,
       "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 58,
-    "fear": 50,
-    "surprise": 21,
-    "sadness": 15,
+    "trust": 63,
+    "fear": 49,
+    "surprise": 20,
+    "sadness": 12,
     "disgust": 5,
-    "anger": 84,
+    "anger": 88,
     "anticipation": 19
   }
 }
