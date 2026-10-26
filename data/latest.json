@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T08:18:44.854Z",
+  "generated_at": "2026-10-26T08:33:47.467Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "leader",
-      5,
+      6,
       "trust"
     ],
     [
@@ -43,9 +43,9 @@
       "anger"
     ],
     [
-      "supporters",
+      "world",
       3,
-      "joy"
+      "trust"
     ],
     [
       "soldiers",
@@ -193,11 +193,6 @@
       "sadness"
     ],
     [
-      "world",
-      2,
-      "trust"
-    ],
-    [
       "fear",
       2,
       "anger"
@@ -211,6 +206,11 @@
       "guardian",
       2,
       "trust"
+    ],
+    [
+      "supporters",
+      2,
+      "joy"
     ],
     [
       "polls",
@@ -379,8 +379,8 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 38,
-    "trust": 60,
+    "joy": 37,
+    "trust": 62,
     "fear": 47,
     "surprise": 17,
     "sadness": 14,
