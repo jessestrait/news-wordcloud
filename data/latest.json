@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:09:54.549Z",
+  "generated_at": "2026-10-26T19:24:57.136Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "trust"
     ],
     [
+      "military",
+      6,
+      "fear"
+    ],
+    [
       "storm",
       6,
       "anger"
@@ -25,11 +30,6 @@
     [
       "police",
       6,
-      "fear"
-    ],
-    [
-      "military",
-      5,
       "fear"
     ],
     [
@@ -48,6 +48,26 @@
       "anger"
     ],
     [
+      "attack",
+      3,
+      "anger"
+    ],
+    [
+      "iran",
+      3,
+      "anger"
+    ],
+    [
+      "polls",
+      3,
+      "trust"
+    ],
+    [
+      "peace",
+      3,
+      "joy"
+    ],
+    [
       "rule",
       3,
       "fear"
@@ -56,11 +76,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "history",
-      3,
-      "trust"
     ],
     [
       "homes",
@@ -108,11 +123,6 @@
       "trust"
     ],
     [
-      "dictatorship",
-      2,
-      "anger"
-    ],
-    [
       "fire",
       2,
       "fear"
@@ -121,6 +131,11 @@
       "public",
       2,
       "anticipation"
+    ],
+    [
+      "history",
+      2,
+      "trust"
     ],
     [
       "young",
@@ -141,11 +156,6 @@
       "opposition",
       2,
       "anger"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "hit",
@@ -193,11 +203,6 @@
       "trust"
     ],
     [
-      "lost",
-      2,
-      "sadness"
-    ],
-    [
       "anti",
       2,
       "anger"
@@ -213,18 +218,28 @@
       "sadness"
     ],
     [
-      "attack",
-      2,
-      "anger"
-    ],
-    [
       "supporters",
       2,
       "joy"
     ],
     [
-      "polls",
-      2,
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
+      "calls",
+      1,
+      "trust"
+    ],
+    [
+      "pact",
+      1,
       "trust"
     ],
     [
@@ -298,6 +313,11 @@
       "surprise"
     ],
     [
+      "dictatorship",
+      1,
+      "anger"
+    ],
+    [
       "important",
       1,
       "trust"
@@ -316,26 +336,6 @@
       "announcement",
       1,
       "anticipation"
-    ],
-    [
-      "level",
-      1,
-      "trust"
-    ],
-    [
-      "iran",
-      1,
-      "anger"
-    ],
-    [
-      "officials",
-      1,
-      "trust"
-    ],
-    [
-      "heightens",
-      1,
-      "fear"
     ],
     [
       "marine",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 29,
     "trust": 70,
-    "fear": 41,
+    "fear": 40,
     "surprise": 16,
     "sadness": 12,
     "disgust": 5,
-    "anger": 79,
+    "anger": 82,
     "anticipation": 25
   }
 }
