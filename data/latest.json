@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:30:39.425Z",
+  "generated_at": "2026-10-27T04:45:41.551Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "storm",
-      6,
-      "anger"
-    ],
-    [
       "victory",
       5,
       "joy"
@@ -49,11 +44,6 @@
     ],
     [
       "guardian",
-      3,
-      "trust"
-    ],
-    [
-      "second",
       3,
       "trust"
     ],
@@ -83,6 +73,11 @@
       "anticipation"
     ],
     [
+      "storm",
+      3,
+      "anger"
+    ],
+    [
       "homes",
       3,
       "joy"
@@ -108,6 +103,11 @@
       "joy"
     ],
     [
+      "threat",
+      2,
+      "anger"
+    ],
+    [
       "america",
       2,
       "sadness"
@@ -116,6 +116,11 @@
       "lost",
       2,
       "sadness"
+    ],
+    [
+      "second",
+      2,
+      "trust"
     ],
     [
       "defeated",
@@ -183,11 +188,6 @@
       "anger"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "top",
       2,
       "trust"
@@ -243,9 +243,14 @@
       "sadness"
     ],
     [
-      "power",
-      2,
-      "anticipation"
+      "lose",
+      1,
+      "anger"
+    ],
+    [
+      "supremacy",
+      1,
+      "anger"
     ],
     [
       "sensational",
@@ -328,11 +333,6 @@
       "sadness"
     ],
     [
-      "threat",
-      1,
-      "anger"
-    ],
-    [
       "calls",
       1,
       "trust"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 73,
+    "joy": 28,
+    "trust": 72,
     "fear": 40,
     "surprise": 14,
     "sadness": 14,
     "disgust": 3,
-    "anger": 85,
-    "anticipation": 23
+    "anger": 84,
+    "anticipation": 22
   }
 }
