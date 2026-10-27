@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:25:42.755Z",
+  "generated_at": "2026-10-27T22:40:44.992Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,14 +98,9 @@
       "anger"
     ],
     [
-      "winner",
+      "opposition",
       2,
-      "surprise"
-    ],
-    [
-      "majority",
-      2,
-      "joy"
+      "anger"
     ],
     [
       "loss",
@@ -243,14 +238,24 @@
       "trust"
     ],
     [
-      "anti",
+      "setback",
       1,
-      "anger"
+      "sadness"
     ],
     [
-      "voted",
+      "show",
       1,
-      "anger"
+      "trust"
+    ],
+    [
+      "showing",
+      1,
+      "trust"
+    ],
+    [
+      "gain",
+      1,
+      "joy"
     ],
     [
       "missing",
@@ -371,21 +376,16 @@
       "ice",
       1,
       "fear"
-    ],
-    [
-      "associated",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 74,
+    "trust": 76,
     "fear": 33,
-    "surprise": 14,
-    "sadness": 18,
+    "surprise": 13,
+    "sadness": 19,
     "disgust": 3,
-    "anger": 81,
+    "anger": 80,
     "anticipation": 21
   }
 }
