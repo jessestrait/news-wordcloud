@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:39:23.752Z",
+  "generated_at": "2026-10-27T19:54:26.416Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "trust"
     ],
     [
+      "polls",
+      4,
+      "trust"
+    ],
+    [
       "government",
       4,
       "fear"
@@ -43,9 +48,9 @@
       "joy"
     ],
     [
-      "polls",
+      "families",
       3,
-      "trust"
+      "joy"
     ],
     [
       "guardian",
@@ -88,11 +93,6 @@
       "anger"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
       "vote",
       2,
       "anger"
@@ -116,11 +116,6 @@
       "second",
       2,
       "trust"
-    ],
-    [
-      "families",
-      2,
-      "joy"
     ],
     [
       "hopes",
@@ -193,11 +188,6 @@
       "sadness"
     ],
     [
-      "schools",
-      2,
-      "trust"
-    ],
-    [
       "attack",
       2,
       "anger"
@@ -228,6 +218,11 @@
       "fear"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
       "top",
       2,
       "trust"
@@ -248,11 +243,6 @@
       "trust"
     ],
     [
-      "protesters",
-      2,
-      "anger"
-    ],
-    [
       "voting",
       1,
       "anger"
@@ -264,6 +254,26 @@
     ],
     [
       "committee",
+      1,
+      "trust"
+    ],
+    [
+      "looms",
+      1,
+      "fear"
+    ],
+    [
+      "bereaved",
+      1,
+      "sadness"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
+      "ballots",
       1,
       "trust"
     ],
@@ -366,24 +376,14 @@
       "wealthy",
       1,
       "anticipation"
-    ],
-    [
-      "rising",
-      1,
-      "joy"
-    ],
-    [
-      "crime",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 75,
-    "fear": 34,
+    "joy": 31,
+    "trust": 76,
+    "fear": 33,
     "surprise": 13,
-    "sadness": 19,
+    "sadness": 20,
     "disgust": 3,
     "anger": 83,
     "anticipation": 21
