@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:38:32.197Z",
+  "generated_at": "2026-10-27T18:53:34.859Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,14 +88,9 @@
       "fear"
     ],
     [
-      "opposition",
+      "polls",
       2,
-      "anger"
-    ],
-    [
-      "voting",
-      2,
-      "anger"
+      "trust"
     ],
     [
       "loss",
@@ -253,9 +248,29 @@
       "anger"
     ],
     [
-      "condemns",
+      "voting",
       1,
       "anger"
+    ],
+    [
+      "denied",
+      1,
+      "sadness"
+    ],
+    [
+      "committee",
+      1,
+      "trust"
+    ],
+    [
+      "show",
+      1,
+      "trust"
+    ],
+    [
+      "highest",
+      1,
+      "fear"
     ],
     [
       "missing",
@@ -361,31 +376,16 @@
       "rising",
       1,
       "joy"
-    ],
-    [
-      "crime",
-      1,
-      "anger"
-    ],
-    [
-      "abuse",
-      1,
-      "anger"
-    ],
-    [
-      "smell",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 72,
-    "fear": 34,
+    "trust": 75,
+    "fear": 35,
     "surprise": 13,
-    "sadness": 18,
+    "sadness": 19,
     "disgust": 3,
-    "anger": 85,
+    "anger": 82,
     "anticipation": 21
   }
 }
