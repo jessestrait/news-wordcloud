@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T16:37:27.497Z",
+  "generated_at": "2026-10-27T16:52:31.763Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "president",
       10,
       "trust"
-    ],
-    [
-      "victory",
-      5,
-      "joy"
     ],
     [
       "peace",
@@ -43,14 +38,19 @@
       "fear"
     ],
     [
+      "victory",
+      4,
+      "joy"
+    ],
+    [
       "history",
       3,
       "trust"
     ],
     [
-      "guardian",
+      "america",
       3,
-      "trust"
+      "sadness"
     ],
     [
       "happened",
@@ -88,19 +88,9 @@
       "fear"
     ],
     [
-      "zionism",
-      3,
-      "surprise"
-    ],
-    [
       "polls",
       2,
       "trust"
-    ],
-    [
-      "america",
-      2,
-      "sadness"
     ],
     [
       "lost",
@@ -111,6 +101,16 @@
       "second",
       2,
       "trust"
+    ],
+    [
+      "guardian",
+      2,
+      "trust"
+    ],
+    [
+      "families",
+      2,
+      "joy"
     ],
     [
       "loss",
@@ -183,11 +183,6 @@
       "anger"
     ],
     [
-      "growing",
-      2,
-      "joy"
-    ],
-    [
       "defeated",
       2,
       "sadness"
@@ -238,22 +233,17 @@
       "anger"
     ],
     [
-      "anti",
-      2,
-      "anger"
-    ],
-    [
       "ballot",
       1,
       "trust"
     ],
     [
-      "sensational",
+      "triumphed",
       1,
       "joy"
     ],
     [
-      "triumphed",
+      "encourage",
       1,
       "joy"
     ],
@@ -376,16 +366,26 @@
       "cleans",
       1,
       "joy"
+    ],
+    [
+      "triumph",
+      1,
+      "joy"
+    ],
+    [
+      "volunteers",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 76,
+    "joy": 30,
+    "trust": 75,
     "fear": 33,
-    "surprise": 17,
-    "sadness": 18,
+    "surprise": 13,
+    "sadness": 19,
     "disgust": 3,
-    "anger": 85,
+    "anger": 82,
     "anticipation": 20
   }
 }
