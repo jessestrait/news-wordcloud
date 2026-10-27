@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-27T08:47:40.791Z",
+  "generated_at": "2026-10-27T09:02:43.522Z",
   "article_count": 50,
   "top_words": [
     [
-      "leader",
+      "president",
       9,
       "trust"
     ],
     [
-      "president",
-      9,
+      "leader",
+      8,
       "trust"
     ],
     [
@@ -33,19 +33,9 @@
       "anger"
     ],
     [
-      "guardian",
-      4,
-      "trust"
-    ],
-    [
       "death",
       4,
       "sadness"
-    ],
-    [
-      "military",
-      4,
-      "fear"
     ],
     [
       "forces",
@@ -66,6 +56,16 @@
       "world",
       3,
       "trust"
+    ],
+    [
+      "guardian",
+      3,
+      "trust"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "young",
@@ -213,11 +213,6 @@
       "anticipation"
     ],
     [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
       "homes",
       2,
       "joy"
@@ -271,6 +266,26 @@
       "show",
       2,
       "trust"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "missiles",
+      1,
+      "fear"
+    ],
+    [
+      "launched",
+      1,
+      "anticipation"
+    ],
+    [
+      "truce",
+      1,
+      "joy"
     ],
     [
       "polling",
@@ -361,31 +376,16 @@
       "intimidate",
       1,
       "fear"
-    ],
-    [
-      "commonwealth",
-      1,
-      "trust"
-    ],
-    [
-      "slave",
-      1,
-      "anger"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 75,
-    "fear": 37,
-    "surprise": 15,
+    "trust": 72,
+    "fear": 36,
+    "surprise": 14,
     "sadness": 18,
     "disgust": 3,
     "anger": 92,
-    "anticipation": 21
+    "anticipation": 22
   }
 }
