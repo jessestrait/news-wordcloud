@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:21:04.777Z",
+  "generated_at": "2026-10-27T14:36:07.298Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "leader",
-      10,
+      9,
       "trust"
     ],
     [
@@ -96,11 +96,6 @@
       "polls",
       2,
       "trust"
-    ],
-    [
-      "criticism",
-      2,
-      "anger"
     ],
     [
       "trump",
@@ -258,9 +253,14 @@
       "trust"
     ],
     [
-      "defended",
+      "defends",
       1,
-      "trust"
+      "fear"
+    ],
+    [
+      "doubts",
+      1,
+      "fear"
     ],
     [
       "suicide",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 75,
-    "fear": 37,
+    "trust": 73,
+    "fear": 39,
     "surprise": 16,
     "sadness": 19,
     "disgust": 3,
-    "anger": 86,
+    "anger": 85,
     "anticipation": 19
   }
 }
