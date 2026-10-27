@@ -1,19 +1,29 @@
 {
-  "generated_at": "2026-10-27T09:48:24.799Z",
+  "generated_at": "2026-10-27T10:03:27.311Z",
   "article_count": 50,
   "top_words": [
+    [
+      "leader",
+      9,
+      "trust"
+    ],
     [
       "president",
       9,
       "trust"
     ],
     [
-      "leader",
-      8,
-      "trust"
+      "war",
+      5,
+      "anger"
     ],
     [
       "government",
+      5,
+      "fear"
+    ],
+    [
+      "military",
       5,
       "fear"
     ],
@@ -26,11 +36,6 @@
       "people",
       5,
       "trust"
-    ],
-    [
-      "war",
-      4,
-      "anger"
     ],
     [
       "death",
@@ -63,11 +68,6 @@
       "trust"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "young",
       3,
       "surprise"
@@ -93,11 +93,6 @@
       "joy"
     ],
     [
-      "rule",
-      3,
-      "fear"
-    ],
-    [
       "storm",
       3,
       "anger"
@@ -106,16 +101,6 @@
       "zionism",
       3,
       "surprise"
-    ],
-    [
-      "fear",
-      3,
-      "anger"
-    ],
-    [
-      "vow",
-      3,
-      "joy"
     ],
     [
       "polls",
@@ -168,6 +153,26 @@
       "anger"
     ],
     [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
+      "truce",
+      2,
+      "joy"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
+    ],
+    [
       "america",
       2,
       "sadness"
@@ -208,9 +213,19 @@
       "anticipation"
     ],
     [
+      "rule",
+      2,
+      "fear"
+    ],
+    [
       "happened",
       2,
       "anticipation"
+    ],
+    [
+      "vows",
+      2,
+      "joy"
     ],
     [
       "homes",
@@ -248,11 +263,6 @@
       "anger"
     ],
     [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
       "anti",
       2,
       "anger"
@@ -263,12 +273,12 @@
       "anger"
     ],
     [
-      "show",
-      2,
+      "polling",
+      1,
       "trust"
     ],
     [
-      "polling",
+      "shows",
       1,
       "trust"
     ],
@@ -278,24 +288,14 @@
       "trust"
     ],
     [
-      "launches",
+      "frank",
       1,
-      "anticipation"
+      "trust"
     ],
     [
-      "missiles",
+      "related",
       1,
-      "fear"
-    ],
-    [
-      "launched",
-      1,
-      "anticipation"
-    ],
-    [
-      "truce",
-      1,
-      "joy"
+      "trust"
     ],
     [
       "removes",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 72,
-    "fear": 36,
-    "surprise": 14,
-    "sadness": 18,
+    "joy": 33,
+    "trust": 73,
+    "fear": 37,
+    "surprise": 15,
+    "sadness": 19,
     "disgust": 3,
-    "anger": 92,
-    "anticipation": 22
+    "anger": 90,
+    "anticipation": 19
   }
 }
