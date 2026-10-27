@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-27T10:18:29.697Z",
+  "generated_at": "2026-10-27T10:33:32.127Z",
   "article_count": 50,
   "top_words": [
+    [
+      "president",
+      10,
+      "trust"
+    ],
     [
       "leader",
       9,
       "trust"
-    ],
-    [
-      "president",
-      9,
-      "trust"
-    ],
-    [
-      "war",
-      5,
-      "anger"
     ],
     [
       "government",
@@ -36,6 +31,16 @@
       "people",
       5,
       "trust"
+    ],
+    [
+      "peace",
+      4,
+      "joy"
+    ],
+    [
+      "war",
+      4,
+      "anger"
     ],
     [
       "death",
@@ -86,11 +91,6 @@
       "iran",
       3,
       "anger"
-    ],
-    [
-      "peace",
-      3,
-      "joy"
     ],
     [
       "storm",
@@ -273,6 +273,11 @@
       "anger"
     ],
     [
+      "frank",
+      1,
+      "trust"
+    ],
+    [
       "polling",
       1,
       "trust"
@@ -284,16 +289,6 @@
     ],
     [
       "leading",
-      1,
-      "trust"
-    ],
-    [
-      "frank",
-      1,
-      "trust"
-    ],
-    [
-      "related",
       1,
       "trust"
     ],
@@ -376,16 +371,21 @@
       "intimidate",
       1,
       "fear"
+    ],
+    [
+      "commonwealth",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 34,
     "trust": 73,
     "fear": 37,
     "surprise": 15,
     "sadness": 19,
     "disgust": 3,
-    "anger": 90,
+    "anger": 89,
     "anticipation": 19
   }
 }
