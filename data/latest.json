@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:08:25.031Z",
+  "generated_at": "2026-10-27T18:23:28.173Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,22 +88,22 @@
       "fear"
     ],
     [
-      "cocaine",
-      2,
-      "sadness"
-    ],
-    [
-      "loss",
-      2,
-      "anger"
-    ],
-    [
       "opposition",
       2,
       "anger"
     ],
     [
       "voting",
+      2,
+      "anger"
+    ],
+    [
+      "cocaine",
+      2,
+      "sadness"
+    ],
+    [
+      "loss",
       2,
       "anger"
     ],
@@ -253,6 +253,11 @@
       "anger"
     ],
     [
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
       "bomb",
       1,
       "anger"
@@ -281,11 +286,6 @@
       "quiet",
       1,
       "sadness"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
     ],
     [
       "triumphed",
