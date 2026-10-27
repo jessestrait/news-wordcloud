@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:01:25.407Z",
+  "generated_at": "2026-10-27T06:16:28.092Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,13 +14,18 @@
     ],
     [
       "military",
-      7,
+      6,
       "fear"
     ],
     [
       "people",
-      7,
+      6,
       "trust"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "victory",
@@ -28,17 +33,12 @@
       "joy"
     ],
     [
-      "police",
-      5,
-      "fear"
-    ],
-    [
-      "force",
-      5,
+      "forces",
+      4,
       "anger"
     ],
     [
-      "government",
+      "police",
       4,
       "fear"
     ],
@@ -88,19 +88,9 @@
       "fear"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "storm",
       3,
       "anger"
-    ],
-    [
-      "homes",
-      3,
-      "joy"
     ],
     [
       "war",
@@ -139,6 +129,21 @@
     ],
     [
       "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "opponents",
+      2,
+      "anger"
+    ],
+    [
+      "slavery",
+      2,
+      "anger"
+    ],
+    [
+      "confront",
       2,
       "anger"
     ],
@@ -188,6 +193,11 @@
       "anticipation"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "world",
       2,
       "trust"
@@ -196,6 +206,11 @@
       "public",
       2,
       "anticipation"
+    ],
+    [
+      "homes",
+      2,
+      "joy"
     ],
     [
       "families",
@@ -233,19 +248,9 @@
       "anger"
     ],
     [
-      "officers",
-      2,
-      "trust"
-    ],
-    [
       "anti",
       2,
       "anger"
-    ],
-    [
-      "growing",
-      2,
-      "joy"
     ],
     [
       "demand",
@@ -269,6 +274,56 @@
     ],
     [
       "leading",
+      1,
+      "trust"
+    ],
+    [
+      "smell",
+      1,
+      "anger"
+    ],
+    [
+      "freedom",
+      1,
+      "joy"
+    ],
+    [
+      "cleans",
+      1,
+      "joy"
+    ],
+    [
+      "triumph",
+      1,
+      "joy"
+    ],
+    [
+      "volunteers",
+      1,
+      "trust"
+    ],
+    [
+      "thugs",
+      1,
+      "anger"
+    ],
+    [
+      "intimidate",
+      1,
+      "fear"
+    ],
+    [
+      "commonwealth",
+      1,
+      "trust"
+    ],
+    [
+      "slave",
+      1,
+      "anger"
+    ],
+    [
+      "trade",
       1,
       "trust"
     ],
@@ -321,71 +376,16 @@
       "leaving",
       1,
       "sadness"
-    ],
-    [
-      "court",
-      1,
-      "anger"
-    ],
-    [
-      "money",
-      1,
-      "anger"
-    ],
-    [
-      "delegates",
-      1,
-      "trust"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
-      "escalating",
-      1,
-      "anger"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "barricading",
-      1,
-      "fear"
-    ],
-    [
-      "struggle",
-      1,
-      "anger"
-    ],
-    [
-      "teacher",
-      1,
-      "trust"
-    ],
-    [
-      "shortages",
-      1,
-      "anger"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 74,
-    "fear": 40,
+    "joy": 31,
+    "trust": 75,
+    "fear": 39,
     "surprise": 15,
     "sadness": 15,
     "disgust": 3,
-    "anger": 87,
-    "anticipation": 21
+    "anger": 90,
+    "anticipation": 20
   }
 }
