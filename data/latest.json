@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:37:57.722Z",
+  "generated_at": "2026-10-27T17:53:01.197Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "joy"
     ],
     [
+      "truce",
+      3,
+      "joy"
+    ],
+    [
       "america",
       3,
       "sadness"
@@ -51,11 +56,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "truce",
-      3,
-      "joy"
     ],
     [
       "young",
@@ -248,6 +248,16 @@
       "fear"
     ],
     [
+      "frank",
+      1,
+      "trust"
+    ],
+    [
+      "quiet",
+      1,
+      "sadness"
+    ],
+    [
       "condemns",
       1,
       "anger"
@@ -271,16 +281,6 @@
       "sceptical",
       1,
       "trust"
-    ],
-    [
-      "frank",
-      1,
-      "trust"
-    ],
-    [
-      "quiet",
-      1,
-      "sadness"
     ],
     [
       "suicide",
