@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-27T15:51:59.564Z",
+  "generated_at": "2026-10-27T16:07:02.485Z",
   "article_count": 50,
   "top_words": [
     [
-      "president",
-      10,
+      "leader",
+      11,
       "trust"
     ],
     [
-      "leader",
+      "president",
       10,
       "trust"
     ],
@@ -48,11 +48,6 @@
       "sadness"
     ],
     [
-      "forces",
-      4,
-      "anger"
-    ],
-    [
       "police",
       4,
       "fear"
@@ -68,14 +63,19 @@
       "trust"
     ],
     [
-      "world",
+      "truce",
       3,
-      "trust"
+      "joy"
     ],
     [
       "young",
       3,
       "surprise"
+    ],
+    [
+      "forces",
+      3,
+      "anger"
     ],
     [
       "iran",
@@ -128,6 +128,11 @@
       "joy"
     ],
     [
+      "world",
+      2,
+      "trust"
+    ],
+    [
       "opponents",
       2,
       "anger"
@@ -161,11 +166,6 @@
       "risk",
       2,
       "fear"
-    ],
-    [
-      "truce",
-      2,
-      "joy"
     ],
     [
       "hit",
@@ -268,6 +268,16 @@
       "trust"
     ],
     [
+      "frank",
+      1,
+      "trust"
+    ],
+    [
+      "quiet",
+      1,
+      "sadness"
+    ],
+    [
       "momentum",
       1,
       "anticipation"
@@ -366,26 +376,16 @@
       "triumph",
       1,
       "joy"
-    ],
-    [
-      "volunteers",
-      1,
-      "trust"
-    ],
-    [
-      "thugs",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 31,
     "trust": 75,
     "fear": 37,
     "surprise": 17,
-    "sadness": 19,
+    "sadness": 20,
     "disgust": 3,
-    "anger": 85,
-    "anticipation": 20
+    "anger": 84,
+    "anticipation": 19
   }
 }
