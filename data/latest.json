@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:23:28.173Z",
+  "generated_at": "2026-10-27T18:38:32.197Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,14 +98,14 @@
       "anger"
     ],
     [
-      "cocaine",
-      2,
-      "sadness"
-    ],
-    [
       "loss",
       2,
       "anger"
+    ],
+    [
+      "cocaine",
+      2,
+      "sadness"
     ],
     [
       "lost",
@@ -258,6 +258,11 @@
       "anger"
     ],
     [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
       "bomb",
       1,
       "anger"
@@ -271,11 +276,6 @@
       "ambassador",
       1,
       "trust"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
     ],
     [
       "frank",
