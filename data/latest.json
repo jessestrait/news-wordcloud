@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:36:38.807Z",
+  "generated_at": "2026-10-27T15:51:41.529Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,11 +9,16 @@
     ],
     [
       "leader",
-      9,
+      10,
       "trust"
     ],
     [
       "victory",
+      5,
+      "joy"
+    ],
+    [
+      "peace",
       5,
       "joy"
     ],
@@ -78,11 +83,6 @@
       "anger"
     ],
     [
-      "peace",
-      3,
-      "joy"
-    ],
-    [
       "storm",
       3,
       "anger"
@@ -111,6 +111,11 @@
       "polls",
       2,
       "trust"
+    ],
+    [
+      "hopes",
+      2,
+      "surprise"
     ],
     [
       "trump",
@@ -258,17 +263,17 @@
       "joy"
     ],
     [
-      "defends",
-      1,
-      "fear"
-    ],
-    [
-      "doubts",
-      1,
-      "fear"
-    ],
-    [
       "ballot",
+      1,
+      "trust"
+    ],
+    [
+      "momentum",
+      1,
+      "anticipation"
+    ],
+    [
+      "sceptical",
       1,
       "trust"
     ],
@@ -371,21 +376,16 @@
       "thugs",
       1,
       "anger"
-    ],
-    [
-      "intimidate",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 73,
-    "fear": 39,
-    "surprise": 16,
+    "joy": 32,
+    "trust": 75,
+    "fear": 37,
+    "surprise": 17,
     "sadness": 19,
     "disgust": 3,
     "anger": 85,
-    "anticipation": 19
+    "anticipation": 20
   }
 }
