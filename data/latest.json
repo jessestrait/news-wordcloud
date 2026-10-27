@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T05:00:43.844Z",
+  "generated_at": "2026-10-27T05:15:46.134Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "trust"
     ],
     [
+      "military",
+      7,
+      "fear"
+    ],
+    [
       "people",
       7,
       "trust"
-    ],
-    [
-      "military",
-      6,
-      "fear"
     ],
     [
       "victory",
@@ -51,6 +51,16 @@
       "history",
       3,
       "trust"
+    ],
+    [
+      "young",
+      3,
+      "surprise"
+    ],
+    [
+      "soldier",
+      3,
+      "anger"
     ],
     [
       "guardian",
@@ -183,29 +193,14 @@
       "trust"
     ],
     [
-      "fire",
-      2,
-      "fear"
-    ],
-    [
       "public",
       2,
       "anticipation"
     ],
     [
-      "young",
-      2,
-      "surprise"
-    ],
-    [
       "families",
       2,
       "joy"
-    ],
-    [
-      "soldiers",
-      2,
-      "anger"
     ],
     [
       "top",
@@ -276,6 +271,31 @@
       "leading",
       1,
       "trust"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "grieving",
+      1,
+      "fear"
+    ],
+    [
+      "mother",
+      1,
+      "sadness"
+    ],
+    [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "assaulted",
+      1,
+      "anger"
     ],
     [
       "supremacy",
@@ -356,36 +376,16 @@
       "building",
       1,
       "anticipation"
-    ],
-    [
-      "middle",
-      1,
-      "sadness"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
-    ],
-    [
-      "pact",
-      1,
-      "trust"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 76,
+    "joy": 30,
+    "trust": 74,
     "fear": 40,
-    "surprise": 14,
-    "sadness": 14,
+    "surprise": 15,
+    "sadness": 15,
     "disgust": 3,
-    "anger": 86,
-    "anticipation": 22
+    "anger": 87,
+    "anticipation": 21
   }
 }
