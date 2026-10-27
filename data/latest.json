@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:24:48.146Z",
+  "generated_at": "2026-10-27T20:39:50.523Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,8 +9,13 @@
     ],
     [
       "president",
-      10,
+      8,
       "trust"
+    ],
+    [
+      "victory",
+      5,
+      "joy"
     ],
     [
       "war",
@@ -38,12 +43,12 @@
       "fear"
     ],
     [
-      "victory",
-      4,
-      "joy"
+      "polls",
+      3,
+      "trust"
     ],
     [
-      "polls",
+      "second",
       3,
       "trust"
     ],
@@ -103,6 +108,11 @@
       "joy"
     ],
     [
+      "elected",
+      2,
+      "trust"
+    ],
+    [
       "loss",
       2,
       "anger"
@@ -111,16 +121,6 @@
       "cocaine",
       2,
       "sadness"
-    ],
-    [
-      "lost",
-      2,
-      "sadness"
-    ],
-    [
-      "second",
-      2,
-      "trust"
     ],
     [
       "hopes",
@@ -308,6 +308,11 @@
       "sadness"
     ],
     [
+      "lost",
+      1,
+      "sadness"
+    ],
+    [
       "triumphed",
       1,
       "joy"
@@ -371,21 +376,16 @@
       "associated",
       1,
       "trust"
-    ],
-    [
-      "wealthy",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 33,
     "trust": 74,
     "fear": 33,
     "surprise": 14,
-    "sadness": 19,
+    "sadness": 18,
     "disgust": 3,
-    "anger": 83,
+    "anger": 81,
     "anticipation": 21
   }
 }
