@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:48:52.438Z",
+  "generated_at": "2026-10-27T11:03:54.776Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,16 +78,6 @@
       "surprise"
     ],
     [
-      "soldier",
-      3,
-      "anger"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
       "iran",
       3,
       "anger"
@@ -101,6 +91,16 @@
       "zionism",
       3,
       "surprise"
+    ],
+    [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
+      "vows",
+      2,
+      "joy"
     ],
     [
       "polls",
@@ -146,6 +146,11 @@
       "life",
       2,
       "joy"
+    ],
+    [
+      "soldier",
+      2,
+      "anger"
     ],
     [
       "threat",
@@ -208,6 +213,11 @@
       "trust"
     ],
     [
+      "attack",
+      2,
+      "anger"
+    ],
+    [
       "seeking",
       2,
       "anticipation"
@@ -221,21 +231,6 @@
       "happened",
       2,
       "anticipation"
-    ],
-    [
-      "vows",
-      2,
-      "joy"
-    ],
-    [
-      "homes",
-      2,
-      "joy"
-    ],
-    [
-      "families",
-      2,
-      "joy"
     ],
     [
       "top",
@@ -273,6 +268,36 @@
       "anger"
     ],
     [
+      "suicide",
+      1,
+      "anger"
+    ],
+    [
+      "truth",
+      1,
+      "trust"
+    ],
+    [
+      "organizations",
+      1,
+      "surprise"
+    ],
+    [
+      "counselors",
+      1,
+      "trust"
+    ],
+    [
+      "secret",
+      1,
+      "trust"
+    ],
+    [
+      "frank",
+      1,
+      "trust"
+    ],
+    [
       "polling",
       1,
       "trust"
@@ -284,11 +309,6 @@
     ],
     [
       "leading",
-      1,
-      "trust"
-    ],
-    [
-      "frank",
       1,
       "trust"
     ],
@@ -356,36 +376,16 @@
       "triumph",
       1,
       "joy"
-    ],
-    [
-      "volunteers",
-      1,
-      "trust"
-    ],
-    [
-      "thugs",
-      1,
-      "anger"
-    ],
-    [
-      "intimidate",
-      1,
-      "fear"
-    ],
-    [
-      "commonwealth",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 73,
+    "joy": 32,
+    "trust": 76,
     "fear": 37,
-    "surprise": 15,
+    "surprise": 16,
     "sadness": 19,
     "disgust": 3,
-    "anger": 89,
+    "anger": 88,
     "anticipation": 19
   }
 }
