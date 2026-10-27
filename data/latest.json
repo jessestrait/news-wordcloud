@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:09:29.266Z",
+  "generated_at": "2026-10-27T20:24:32.027Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,14 +93,14 @@
       "anger"
     ],
     [
-      "result",
-      3,
-      "anticipation"
+      "winner",
+      2,
+      "surprise"
     ],
     [
-      "vote",
+      "majority",
       2,
-      "anger"
+      "joy"
     ],
     [
       "loss",
@@ -238,17 +238,22 @@
       "disgust"
     ],
     [
+      "result",
+      2,
+      "anticipation"
+    ],
+    [
       "law",
       2,
       "trust"
     ],
     [
-      "awaits",
+      "anti",
       1,
-      "anticipation"
+      "anger"
     ],
     [
-      "voting",
+      "voted",
       1,
       "anger"
     ],
@@ -371,21 +376,16 @@
       "wealthy",
       1,
       "anticipation"
-    ],
-    [
-      "rising",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 32,
     "trust": 74,
     "fear": 33,
-    "surprise": 13,
+    "surprise": 14,
     "sadness": 19,
     "disgust": 3,
     "anger": 83,
-    "anticipation": 23
+    "anticipation": 21
   }
 }
