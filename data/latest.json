@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-27T12:19:41.206Z",
+  "generated_at": "2026-10-27T12:34:43.524Z",
   "article_count": 50,
   "top_words": [
     [
-      "leader",
+      "president",
       10,
       "trust"
     ],
     [
-      "president",
+      "leader",
       10,
       "trust"
     ],
@@ -96,11 +96,6 @@
       "polls",
       2,
       "trust"
-    ],
-    [
-      "vote",
-      2,
-      "anger"
     ],
     [
       "lose",
@@ -268,6 +263,11 @@
       "anger"
     ],
     [
+      "frank",
+      1,
+      "trust"
+    ],
+    [
       "polling",
       1,
       "trust"
@@ -281,11 +281,6 @@
       "attempt",
       1,
       "anticipation"
-    ],
-    [
-      "frank",
-      1,
-      "trust"
     ],
     [
       "suicide",
@@ -376,6 +371,11 @@
       "triumph",
       1,
       "joy"
+    ],
+    [
+      "volunteers",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 16,
     "sadness": 19,
     "disgust": 3,
-    "anger": 87,
+    "anger": 86,
     "anticipation": 20
   }
 }
