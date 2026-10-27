@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:51:10.761Z",
+  "generated_at": "2026-10-27T15:06:13.344Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "trust"
     ],
     [
+      "victory",
+      5,
+      "joy"
+    ],
+    [
       "government",
       5,
       "fear"
@@ -21,11 +26,6 @@
       "military",
       5,
       "fear"
-    ],
-    [
-      "victory",
-      5,
-      "joy"
     ],
     [
       "people",
@@ -53,17 +53,17 @@
       "fear"
     ],
     [
+      "guardian",
+      3,
+      "trust"
+    ],
+    [
       "history",
       3,
       "trust"
     ],
     [
       "world",
-      3,
-      "trust"
-    ],
-    [
-      "guardian",
       3,
       "trust"
     ],
@@ -91,6 +91,21 @@
       "zionism",
       3,
       "surprise"
+    ],
+    [
+      "america",
+      2,
+      "sadness"
+    ],
+    [
+      "lost",
+      2,
+      "sadness"
+    ],
+    [
+      "second",
+      2,
+      "trust"
     ],
     [
       "polls",
@@ -156,21 +171,6 @@
       "growing",
       2,
       "joy"
-    ],
-    [
-      "america",
-      2,
-      "sadness"
-    ],
-    [
-      "lost",
-      2,
-      "sadness"
-    ],
-    [
-      "second",
-      2,
-      "trust"
     ],
     [
       "defeated",
@@ -246,6 +246,16 @@
       "demand",
       2,
       "anger"
+    ],
+    [
+      "sensational",
+      1,
+      "joy"
+    ],
+    [
+      "triumphed",
+      1,
+      "joy"
     ],
     [
       "ballot",
@@ -366,16 +376,6 @@
       "intimidate",
       1,
       "fear"
-    ],
-    [
-      "commonwealth",
-      1,
-      "trust"
-    ],
-    [
-      "slave",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
