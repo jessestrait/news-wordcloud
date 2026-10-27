@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-27T12:50:11.270Z",
+  "generated_at": "2026-10-27T13:05:13.800Z",
   "article_count": 50,
   "top_words": [
     [
-      "president",
+      "leader",
       10,
       "trust"
     ],
     [
-      "leader",
+      "president",
       10,
       "trust"
     ],
@@ -31,11 +31,6 @@
       "people",
       5,
       "trust"
-    ],
-    [
-      "peace",
-      4,
-      "joy"
     ],
     [
       "war",
@@ -83,6 +78,11 @@
       "anger"
     ],
     [
+      "peace",
+      3,
+      "joy"
+    ],
+    [
       "storm",
       3,
       "anger"
@@ -111,6 +111,11 @@
       "suspected",
       2,
       "fear"
+    ],
+    [
+      "criticism",
+      2,
+      "anger"
     ],
     [
       "trump",
@@ -263,11 +268,6 @@
       "anger"
     ],
     [
-      "frank",
-      1,
-      "trust"
-    ],
-    [
       "polling",
       1,
       "trust"
@@ -281,6 +281,11 @@
       "attempt",
       1,
       "anticipation"
+    ],
+    [
+      "defended",
+      1,
+      "trust"
     ],
     [
       "suicide",
@@ -371,21 +376,16 @@
       "triumph",
       1,
       "joy"
-    ],
-    [
-      "volunteers",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 31,
     "trust": 76,
     "fear": 38,
     "surprise": 16,
     "sadness": 19,
     "disgust": 3,
-    "anger": 86,
+    "anger": 87,
     "anticipation": 20
   }
 }
