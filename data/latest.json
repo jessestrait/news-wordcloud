@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:34:17.463Z",
+  "generated_at": "2026-10-27T11:49:20.070Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "leader",
-      9,
+      10,
       "trust"
     ],
     [
@@ -113,9 +113,9 @@
       "joy"
     ],
     [
-      "opposition",
+      "suspected",
       2,
-      "anger"
+      "fear"
     ],
     [
       "trump",
@@ -268,6 +268,11 @@
       "anger"
     ],
     [
+      "frank",
+      1,
+      "trust"
+    ],
+    [
       "polling",
       1,
       "trust"
@@ -278,14 +283,9 @@
       "trust"
     ],
     [
-      "leading",
+      "attempt",
       1,
-      "trust"
-    ],
-    [
-      "frank",
-      1,
-      "trust"
+      "anticipation"
     ],
     [
       "suicide",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 32,
     "trust": 76,
-    "fear": 37,
+    "fear": 38,
     "surprise": 16,
     "sadness": 19,
     "disgust": 3,
-    "anger": 88,
-    "anticipation": 19
+    "anger": 87,
+    "anticipation": 20
   }
 }
