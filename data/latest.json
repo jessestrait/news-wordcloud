@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:31:30.676Z",
+  "generated_at": "2026-10-27T06:46:33.332Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "fear"
     ],
     [
-      "people",
-      6,
-      "trust"
-    ],
-    [
       "government",
       5,
       "fear"
@@ -33,6 +28,16 @@
       "joy"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
+      "guardian",
+      4,
+      "trust"
+    ],
+    [
       "forces",
       4,
       "anger"
@@ -41,11 +46,6 @@
       "police",
       4,
       "fear"
-    ],
-    [
-      "polls",
-      3,
-      "trust"
     ],
     [
       "history",
@@ -61,11 +61,6 @@
       "soldier",
       3,
       "anger"
-    ],
-    [
-      "guardian",
-      3,
-      "trust"
     ],
     [
       "attack",
@@ -103,6 +98,11 @@
       "surprise"
     ],
     [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
       "fear",
       3,
       "anger"
@@ -111,6 +111,11 @@
       "vow",
       3,
       "joy"
+    ],
+    [
+      "polls",
+      2,
+      "trust"
     ],
     [
       "vote",
@@ -258,14 +263,39 @@
       "anger"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "show",
       2,
       "trust"
+    ],
+    [
+      "cocaine",
+      1,
+      "sadness"
+    ],
+    [
+      "associated",
+      1,
+      "trust"
+    ],
+    [
+      "wealthy",
+      1,
+      "anticipation"
+    ],
+    [
+      "rising",
+      1,
+      "joy"
+    ],
+    [
+      "crime",
+      1,
+      "anger"
+    ],
+    [
+      "abuse",
+      1,
+      "anger"
     ],
     [
       "polling",
@@ -346,36 +376,6 @@
       "life",
       1,
       "joy"
-    ],
-    [
-      "assaulted",
-      1,
-      "anger"
-    ],
-    [
-      "supremacy",
-      1,
-      "anger"
-    ],
-    [
-      "sensational",
-      1,
-      "joy"
-    ],
-    [
-      "triumphed",
-      1,
-      "joy"
-    ],
-    [
-      "surrender",
-      1,
-      "fear"
-    ],
-    [
-      "leaving",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 75,
     "fear": 39,
     "surprise": 15,
-    "sadness": 15,
+    "sadness": 17,
     "disgust": 3,
-    "anger": 90,
-    "anticipation": 20
+    "anger": 91,
+    "anticipation": 21
   }
 }
