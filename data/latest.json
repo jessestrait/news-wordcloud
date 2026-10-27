@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-27T11:49:20.070Z",
+  "generated_at": "2026-10-27T12:04:22.347Z",
   "article_count": 50,
   "top_words": [
     [
-      "president",
+      "leader",
       10,
       "trust"
     ],
     [
-      "leader",
+      "president",
       10,
       "trust"
     ],
@@ -268,11 +268,6 @@
       "anger"
     ],
     [
-      "frank",
-      1,
-      "trust"
-    ],
-    [
       "polling",
       1,
       "trust"
@@ -286,6 +281,11 @@
       "attempt",
       1,
       "anticipation"
+    ],
+    [
+      "frank",
+      1,
+      "trust"
     ],
     [
       "suicide",
