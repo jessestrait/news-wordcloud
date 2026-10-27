@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-27T04:45:41.551Z",
+  "generated_at": "2026-10-27T05:00:43.844Z",
   "article_count": 50,
   "top_words": [
     [
       "leader",
-      10,
+      9,
       "trust"
     ],
     [
@@ -41,6 +41,16 @@
       "government",
       4,
       "fear"
+    ],
+    [
+      "polls",
+      3,
+      "trust"
+    ],
+    [
+      "history",
+      3,
+      "trust"
     ],
     [
       "guardian",
@@ -103,6 +113,26 @@
       "joy"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
+      "lose",
+      2,
+      "anger"
+    ],
+    [
+      "majority",
+      2,
+      "joy"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
       "threat",
       2,
       "anger"
@@ -143,11 +173,6 @@
       "trust"
     ],
     [
-      "polls",
-      2,
-      "trust"
-    ],
-    [
       "seeking",
       2,
       "anticipation"
@@ -166,11 +191,6 @@
       "public",
       2,
       "anticipation"
-    ],
-    [
-      "history",
-      2,
-      "trust"
     ],
     [
       "young",
@@ -243,9 +263,19 @@
       "sadness"
     ],
     [
-      "lose",
+      "show",
+      2,
+      "trust"
+    ],
+    [
+      "polling",
       1,
-      "anger"
+      "trust"
+    ],
+    [
+      "leading",
+      1,
+      "trust"
     ],
     [
       "supremacy",
@@ -346,46 +376,16 @@
       "media",
       1,
       "disgust"
-    ],
-    [
-      "veteran",
-      1,
-      "trust"
-    ],
-    [
-      "confronts",
-      1,
-      "anger"
-    ],
-    [
-      "retirement",
-      1,
-      "fear"
-    ],
-    [
-      "letter",
-      1,
-      "anticipation"
-    ],
-    [
-      "sympathy",
-      1,
-      "sadness"
-    ],
-    [
-      "youth",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 72,
+    "joy": 29,
+    "trust": 76,
     "fear": 40,
     "surprise": 14,
     "sadness": 14,
     "disgust": 3,
-    "anger": 84,
+    "anger": 86,
     "anticipation": 22
   }
 }
