@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:55:38.290Z",
+  "generated_at": "2026-10-27T22:10:40.626Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,14 +108,14 @@
       "joy"
     ],
     [
-      "elected",
-      2,
-      "trust"
-    ],
-    [
       "loss",
       2,
       "anger"
+    ],
+    [
+      "elected",
+      2,
+      "trust"
     ],
     [
       "cocaine",
@@ -253,6 +253,11 @@
       "anger"
     ],
     [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
       "suggest",
       1,
       "trust"
@@ -276,11 +281,6 @@
       "ballots",
       1,
       "trust"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
     ],
     [
       "bomb",
