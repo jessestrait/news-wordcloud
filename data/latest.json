@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:45:59.004Z",
+  "generated_at": "2026-10-28T08:01:01.264Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,11 +108,6 @@
       "anger"
     ],
     [
-      "results",
-      2,
-      "anticipation"
-    ],
-    [
       "vote",
       2,
       "anger"
@@ -121,6 +116,11 @@
       "winner",
       2,
       "surprise"
+    ],
+    [
+      "gains",
+      2,
+      "joy"
     ],
     [
       "commonwealth",
@@ -233,6 +233,11 @@
       "fear"
     ],
     [
+      "results",
+      1,
+      "anticipation"
+    ],
+    [
       "count",
       1,
       "trust"
@@ -243,7 +248,12 @@
       "trust"
     ],
     [
-      "falling",
+      "predicted",
+      1,
+      "anticipation"
+    ],
+    [
+      "fall",
       1,
       "sadness"
     ],
@@ -256,11 +266,6 @@
       "reparations",
       1,
       "trust"
-    ],
-    [
-      "gains",
-      1,
-      "joy"
     ],
     [
       "budget",
@@ -371,15 +376,10 @@
       "ballots",
       1,
       "trust"
-    ],
-    [
-      "bomb",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 35,
     "trust": 81,
     "fear": 37,
     "surprise": 16,
