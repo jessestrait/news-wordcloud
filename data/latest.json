@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:07:27.864Z",
+  "generated_at": "2026-10-28T19:22:31.180Z",
   "article_count": 50,
   "top_words": [
     [
@@ -133,21 +133,6 @@
       "sadness"
     ],
     [
-      "plans",
-      2,
-      "anticipation"
-    ],
-    [
-      "attack",
-      2,
-      "anger"
-    ],
-    [
-      "people",
-      2,
-      "trust"
-    ],
-    [
       "loom",
       2,
       "fear"
@@ -161,6 +146,21 @@
       "surged",
       2,
       "surprise"
+    ],
+    [
+      "plans",
+      2,
+      "anticipation"
+    ],
+    [
+      "attack",
+      2,
+      "anger"
+    ],
+    [
+      "people",
+      2,
+      "trust"
     ],
     [
       "rail",
@@ -298,6 +298,16 @@
       "anticipation"
     ],
     [
+      "show",
+      1,
+      "trust"
+    ],
+    [
+      "highest",
+      1,
+      "fear"
+    ],
+    [
       "power",
       1,
       "anticipation"
@@ -336,16 +346,6 @@
       "passengers",
       1,
       "anticipation"
-    ],
-    [
-      "show",
-      1,
-      "trust"
-    ],
-    [
-      "highest",
-      1,
-      "fear"
     ],
     [
       "obituary",
