@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:20:09.927Z",
+  "generated_at": "2026-10-28T15:35:12.463Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,9 +53,14 @@
       "joy"
     ],
     [
-      "gain",
+      "opposition",
       3,
-      "joy"
+      "anger"
+    ],
+    [
+      "fall",
+      3,
+      "sadness"
     ],
     [
       "death",
@@ -73,14 +78,9 @@
       "fear"
     ],
     [
-      "opposition",
+      "gain",
       3,
-      "anger"
-    ],
-    [
-      "fall",
-      3,
-      "sadness"
+      "joy"
     ],
     [
       "second",
@@ -128,14 +128,19 @@
       "anger"
     ],
     [
-      "votes",
+      "ballots",
       2,
-      "anger"
+      "trust"
     ],
     [
       "counted",
       2,
       "trust"
+    ],
+    [
+      "votes",
+      2,
+      "anger"
     ],
     [
       "lost",
@@ -146,11 +151,6 @@
       "opponents",
       2,
       "anger"
-    ],
-    [
-      "ballots",
-      2,
-      "trust"
     ],
     [
       "rail",
@@ -278,16 +278,6 @@
       "anticipation"
     ],
     [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "inexplicable",
-      1,
-      "surprise"
-    ],
-    [
       "results",
       1,
       "anticipation"
@@ -296,6 +286,16 @@
       "predicted",
       1,
       "anticipation"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "inexplicable",
+      1,
+      "surprise"
     ],
     [
       "fatal",
