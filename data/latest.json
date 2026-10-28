@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:52:08.344Z",
+  "generated_at": "2026-10-28T19:07:11.041Z",
   "article_count": 50,
   "top_words": [
     [
@@ -238,11 +238,6 @@
       "sadness"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "vows",
       2,
       "joy"
@@ -301,6 +296,21 @@
       "predicted",
       1,
       "anticipation"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "barrier",
+      1,
+      "anger"
+    ],
+    [
+      "unseating",
+      1,
+      "sadness"
     ],
     [
       "hails",
@@ -366,24 +376,14 @@
       "fatal",
       1,
       "anger"
-    ],
-    [
-      "doubt",
-      1,
-      "fear"
-    ],
-    [
-      "mourning",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
     "trust": 74,
-    "fear": 48,
+    "fear": 47,
     "surprise": 13,
-    "sadness": 24,
+    "sadness": 25,
     "disgust": 1,
     "anger": 79,
     "anticipation": 27
