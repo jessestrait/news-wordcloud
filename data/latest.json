@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:06:42.939Z",
+  "generated_at": "2026-10-28T18:21:45.909Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,16 @@
       "joy"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
+      "second",
+      5,
+      "trust"
+    ],
+    [
       "poll",
       5,
       "trust"
@@ -43,9 +53,9 @@
       "fear"
     ],
     [
-      "happened",
+      "crash",
       4,
-      "anticipation"
+      "fear"
     ],
     [
       "family",
@@ -61,11 +71,6 @@
       "death",
       3,
       "sadness"
-    ],
-    [
-      "second",
-      3,
-      "trust"
     ],
     [
       "gain",
@@ -98,31 +103,6 @@
       "sadness"
     ],
     [
-      "loom",
-      2,
-      "fear"
-    ],
-    [
-      "fall",
-      2,
-      "sadness"
-    ],
-    [
-      "votes",
-      2,
-      "anger"
-    ],
-    [
-      "surged",
-      2,
-      "surprise"
-    ],
-    [
-      "collision",
-      2,
-      "anger"
-    ],
-    [
       "ballots",
       2,
       "trust"
@@ -138,6 +118,41 @@
       "anger"
     ],
     [
+      "fall",
+      2,
+      "sadness"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
+    ],
+    [
+      "collision",
+      2,
+      "anger"
+    ],
+    [
+      "people",
+      2,
+      "trust"
+    ],
+    [
+      "loom",
+      2,
+      "fear"
+    ],
+    [
+      "votes",
+      2,
+      "anger"
+    ],
+    [
+      "surged",
+      2,
+      "surprise"
+    ],
+    [
       "rail",
       2,
       "anger"
@@ -146,11 +161,6 @@
       "network",
       2,
       "anticipation"
-    ],
-    [
-      "crash",
-      2,
-      "fear"
     ],
     [
       "lost",
@@ -263,19 +273,14 @@
       "anticipation"
     ],
     [
-      "show",
+      "results",
       1,
-      "trust"
+      "anticipation"
     ],
     [
-      "highest",
+      "predicted",
       1,
-      "fear"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
+      "anticipation"
     ],
     [
       "urgency",
@@ -288,14 +293,24 @@
       "fear"
     ],
     [
-      "results",
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
+      "passengers",
       1,
       "anticipation"
     ],
     [
-      "predicted",
+      "show",
       1,
-      "anticipation"
+      "trust"
+    ],
+    [
+      "highest",
+      1,
+      "fear"
     ],
     [
       "obituary",
@@ -361,31 +376,16 @@
       "remarkable",
       1,
       "surprise"
-    ],
-    [
-      "upsets",
-      1,
-      "anger"
-    ],
-    [
-      "showing",
-      1,
-      "trust"
-    ],
-    [
-      "change",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
     "trust": 73,
-    "fear": 46,
+    "fear": 49,
     "surprise": 13,
     "sadness": 24,
     "disgust": 1,
-    "anger": 80,
+    "anger": 81,
     "anticipation": 24
   }
 }
