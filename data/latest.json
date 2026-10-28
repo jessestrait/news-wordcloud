@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T16:05:40.511Z",
+  "generated_at": "2026-10-28T16:20:42.908Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "joy"
     ],
     [
-      "fall",
-      3,
-      "sadness"
-    ],
-    [
       "death",
       3,
       "sadness"
@@ -71,6 +66,11 @@
       "collision",
       3,
       "anger"
+    ],
+    [
+      "fall",
+      3,
+      "sadness"
     ],
     [
       "opposition",
@@ -268,16 +268,6 @@
       "anticipation"
     ],
     [
-      "show",
-      1,
-      "trust"
-    ],
-    [
-      "highest",
-      1,
-      "fear"
-    ],
-    [
       "injured",
       1,
       "fear"
@@ -289,6 +279,16 @@
     ],
     [
       "tragedy",
+      1,
+      "fear"
+    ],
+    [
+      "show",
+      1,
+      "trust"
+    ],
+    [
+      "highest",
       1,
       "fear"
     ],
