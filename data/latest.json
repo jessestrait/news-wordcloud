@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:00:32.739Z",
+  "generated_at": "2026-10-28T07:15:35.476Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "trust"
     ],
     [
-      "poll",
-      8,
-      "trust"
-    ],
-    [
       "government",
       8,
       "fear"
+    ],
+    [
+      "poll",
+      8,
+      "trust"
     ],
     [
       "war",
@@ -108,6 +108,11 @@
       "anger"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "commonwealth",
       2,
       "trust"
@@ -116,11 +121,6 @@
       "ruling",
       2,
       "fear"
-    ],
-    [
-      "vote",
-      2,
-      "anger"
     ],
     [
       "loom",
@@ -223,21 +223,6 @@
       "fear"
     ],
     [
-      "majority",
-      1,
-      "joy"
-    ],
-    [
-      "reparations",
-      1,
-      "trust"
-    ],
-    [
-      "gains",
-      1,
-      "joy"
-    ],
-    [
       "results",
       1,
       "anticipation"
@@ -261,6 +246,21 @@
       "surges",
       1,
       "surprise"
+    ],
+    [
+      "majority",
+      1,
+      "joy"
+    ],
+    [
+      "reparations",
+      1,
+      "trust"
+    ],
+    [
+      "gains",
+      1,
+      "joy"
     ],
     [
       "budget",
