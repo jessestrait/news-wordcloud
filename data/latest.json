@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:19:20.601Z",
+  "generated_at": "2026-10-28T14:34:24.010Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,16 @@
       "sadness"
     ],
     [
+      "crash",
+      3,
+      "fear"
+    ],
+    [
+      "second",
+      3,
+      "trust"
+    ],
+    [
       "fall",
       3,
       "sadness"
@@ -108,6 +118,36 @@
       "anger"
     ],
     [
+      "collision",
+      2,
+      "anger"
+    ],
+    [
+      "rail",
+      2,
+      "anger"
+    ],
+    [
+      "network",
+      2,
+      "anticipation"
+    ],
+    [
+      "surged",
+      2,
+      "surprise"
+    ],
+    [
+      "ballots",
+      2,
+      "trust"
+    ],
+    [
+      "gains",
+      2,
+      "joy"
+    ],
+    [
       "escalating",
       2,
       "anger"
@@ -121,21 +161,6 @@
       "court",
       2,
       "anger"
-    ],
-    [
-      "crash",
-      2,
-      "fear"
-    ],
-    [
-      "ballots",
-      2,
-      "trust"
-    ],
-    [
-      "gains",
-      2,
-      "joy"
     ],
     [
       "loss",
@@ -178,11 +203,6 @@
       "trust"
     ],
     [
-      "second",
-      2,
-      "trust"
-    ],
-    [
       "victory",
       2,
       "joy"
@@ -218,11 +238,6 @@
       "joy"
     ],
     [
-      "young",
-      2,
-      "surprise"
-    ],
-    [
       "threat",
       2,
       "anger"
@@ -248,22 +263,17 @@
       "anticipation"
     ],
     [
-      "warnings",
+      "injured",
       1,
       "fear"
     ],
     [
-      "convicts",
+      "fatal",
       1,
       "anger"
     ],
     [
-      "managing",
-      1,
-      "trust"
-    ],
-    [
-      "injured",
+      "doubt",
       1,
       "fear"
     ],
@@ -283,14 +293,24 @@
       "anticipation"
     ],
     [
-      "flying",
+      "warnings",
       1,
       "fear"
     ],
     [
-      "collision",
+      "convicts",
       1,
       "anger"
+    ],
+    [
+      "managing",
+      1,
+      "trust"
+    ],
+    [
+      "flying",
+      1,
+      "fear"
     ],
     [
       "track",
@@ -338,11 +358,6 @@
       "anger"
     ],
     [
-      "surged",
-      1,
-      "surprise"
-    ],
-    [
       "highest",
       1,
       "fear"
@@ -361,31 +376,16 @@
       "edition",
       1,
       "anticipation"
-    ],
-    [
-      "struggling",
-      1,
-      "anger"
-    ],
-    [
-      "improve",
-      1,
-      "joy"
-    ],
-    [
-      "flees",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 72,
-    "fear": 39,
-    "surprise": 12,
-    "sadness": 23,
+    "joy": 31,
+    "trust": 73,
+    "fear": 41,
+    "surprise": 11,
+    "sadness": 22,
     "disgust": 1,
-    "anger": 77,
-    "anticipation": 23
+    "anger": 81,
+    "anticipation": 24
   }
 }
