@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:03:51.658Z",
+  "generated_at": "2026-10-28T13:18:53.945Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "joy"
     ],
     [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
       "fall",
       3,
       "sadness"
@@ -66,16 +71,6 @@
       "majority",
       3,
       "joy"
-    ],
-    [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "slavery",
@@ -118,6 +113,11 @@
       "anger"
     ],
     [
+      "crash",
+      2,
+      "fear"
+    ],
+    [
       "ballots",
       2,
       "trust"
@@ -126,11 +126,6 @@
       "gains",
       2,
       "joy"
-    ],
-    [
-      "crash",
-      2,
-      "fear"
     ],
     [
       "crossing",
@@ -151,6 +146,11 @@
       "ruling",
       2,
       "fear"
+    ],
+    [
+      "people",
+      2,
+      "trust"
     ],
     [
       "elected",
@@ -238,6 +238,11 @@
       "fear"
     ],
     [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
       "results",
       1,
       "anticipation"
@@ -251,11 +256,6 @@
       "predicted",
       1,
       "anticipation"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
     ],
     [
       "crew",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 73,
+    "trust": 72,
     "fear": 42,
     "surprise": 12,
     "sadness": 23,
