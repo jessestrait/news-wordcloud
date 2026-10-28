@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T10:17:12.702Z",
+  "generated_at": "2026-10-28T10:32:15.637Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,6 +98,11 @@
       "anger"
     ],
     [
+      "crash",
+      2,
+      "fear"
+    ],
+    [
       "vote",
       2,
       "anger"
@@ -111,11 +116,6 @@
       "gains",
       2,
       "joy"
-    ],
-    [
-      "crash",
-      2,
-      "fear"
     ],
     [
       "commonwealth",
@@ -228,6 +228,21 @@
       "fear"
     ],
     [
+      "rail",
+      1,
+      "anger"
+    ],
+    [
+      "system",
+      1,
+      "trust"
+    ],
+    [
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
       "results",
       1,
       "anticipation"
@@ -251,21 +266,6 @@
       "fall",
       1,
       "sadness"
-    ],
-    [
-      "rail",
-      1,
-      "anger"
-    ],
-    [
-      "system",
-      1,
-      "trust"
-    ],
-    [
-      "morning",
-      1,
-      "anticipation"
     ],
     [
       "collision",
