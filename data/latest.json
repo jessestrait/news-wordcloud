@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T20:53:20.588Z",
+  "generated_at": "2026-10-28T21:08:24.179Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "war",
       6,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "happened",
@@ -38,14 +43,14 @@
       "anger"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "military",
       5,
       "fear"
+    ],
+    [
+      "family",
+      4,
+      "joy"
     ],
     [
       "second",
@@ -56,11 +61,6 @@
       "crash",
       4,
       "fear"
-    ],
-    [
-      "family",
-      4,
-      "joy"
     ],
     [
       "peace",
@@ -88,11 +88,6 @@
       "anger"
     ],
     [
-      "hope",
-      3,
-      "surprise"
-    ],
-    [
       "suggest",
       3,
       "trust"
@@ -106,6 +101,11 @@
       "truce",
       3,
       "joy"
+    ],
+    [
+      "crossing",
+      2,
+      "anger"
     ],
     [
       "injured",
@@ -208,16 +208,6 @@
       "anger"
     ],
     [
-      "loss",
-      2,
-      "anger"
-    ],
-    [
-      "crossing",
-      2,
-      "anger"
-    ],
-    [
       "forces",
       2,
       "anger"
@@ -226,6 +216,11 @@
       "commonwealth",
       2,
       "trust"
+    ],
+    [
+      "hope",
+      2,
+      "surprise"
     ],
     [
       "elected",
@@ -281,6 +276,41 @@
       "letter",
       2,
       "anticipation"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
+      "associate",
+      1,
+      "trust"
+    ],
+    [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
+      "association",
+      1,
+      "trust"
+    ],
+    [
+      "true",
+      1,
+      "joy"
+    ],
+    [
+      "fleeing",
+      1,
+      "fear"
+    ],
+    [
+      "flying",
+      1,
+      "fear"
     ],
     [
       "urgency",
@@ -346,46 +376,16 @@
       "barrier",
       1,
       "anger"
-    ],
-    [
-      "unseating",
-      1,
-      "sadness"
-    ],
-    [
-      "hails",
-      1,
-      "trust"
-    ],
-    [
-      "build",
-      1,
-      "anticipation"
-    ],
-    [
-      "communications",
-      1,
-      "trust"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "passengers",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 76,
-    "fear": 46,
-    "surprise": 13,
+    "joy": 35,
+    "trust": 79,
+    "fear": 47,
+    "surprise": 11,
     "sadness": 24,
     "disgust": 1,
-    "anger": 82,
-    "anticipation": 27
+    "anger": 80,
+    "anticipation": 28
   }
 }
