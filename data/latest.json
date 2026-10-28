@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:04:48.676Z",
+  "generated_at": "2026-10-28T15:19:51.415Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,18 +9,23 @@
     ],
     [
       "government",
-      8,
+      9,
       "fear"
-    ],
-    [
-      "poll",
-      6,
-      "trust"
     ],
     [
       "war",
       6,
       "anger"
+    ],
+    [
+      "majority",
+      5,
+      "joy"
+    ],
+    [
+      "poll",
+      5,
+      "trust"
     ],
     [
       "iran",
@@ -38,23 +43,18 @@
       "fear"
     ],
     [
-      "opposition",
-      4,
-      "anger"
-    ],
-    [
       "family",
       4,
       "joy"
     ],
     [
-      "suggest",
-      4,
-      "trust"
-    ],
-    [
       "peace",
       4,
+      "joy"
+    ],
+    [
+      "gain",
+      3,
       "joy"
     ],
     [
@@ -73,14 +73,14 @@
       "fear"
     ],
     [
+      "opposition",
+      3,
+      "anger"
+    ],
+    [
       "fall",
       3,
       "sadness"
-    ],
-    [
-      "majority",
-      3,
-      "joy"
     ],
     [
       "second",
@@ -103,6 +103,11 @@
       "surprise"
     ],
     [
+      "suggest",
+      3,
+      "trust"
+    ],
+    [
       "guardian",
       3,
       "trust"
@@ -123,14 +128,29 @@
       "anger"
     ],
     [
-      "ballots",
+      "votes",
+      2,
+      "anger"
+    ],
+    [
+      "counted",
       2,
       "trust"
     ],
     [
-      "gains",
+      "lost",
       2,
-      "joy"
+      "sadness"
+    ],
+    [
+      "opponents",
+      2,
+      "anger"
+    ],
+    [
+      "ballots",
+      2,
+      "trust"
     ],
     [
       "rail",
@@ -186,11 +206,6 @@
       "commonwealth",
       2,
       "trust"
-    ],
-    [
-      "ruling",
-      2,
-      "fear"
     ],
     [
       "people",
@@ -278,11 +293,6 @@
       "anticipation"
     ],
     [
-      "counted",
-      1,
-      "trust"
-    ],
-    [
       "predicted",
       1,
       "anticipation"
@@ -358,11 +368,6 @@
       "trust"
     ],
     [
-      "votes",
-      1,
-      "anger"
-    ],
-    [
       "highest",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "reparations",
       1,
       "trust"
-    ],
-    [
-      "budget",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 74,
+    "joy": 34,
+    "trust": 73,
     "fear": 41,
     "surprise": 12,
-    "sadness": 22,
+    "sadness": 23,
     "disgust": 1,
-    "anger": 82,
+    "anger": 83,
     "anticipation": 24
   }
 }
