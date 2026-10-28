@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T09:31:46.946Z",
+  "generated_at": "2026-10-28T09:46:49.423Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "trust"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "peace",
       5,
       "joy"
@@ -63,14 +58,14 @@
       "anger"
     ],
     [
-      "slavery",
-      4,
-      "anger"
-    ],
-    [
       "family",
       4,
       "joy"
+    ],
+    [
+      "slavery",
+      3,
+      "anger"
     ],
     [
       "happened",
@@ -98,11 +93,6 @@
       "sadness"
     ],
     [
-      "young",
-      3,
-      "surprise"
-    ],
-    [
       "storm",
       3,
       "anger"
@@ -123,6 +113,11 @@
       "joy"
     ],
     [
+      "crash",
+      2,
+      "fear"
+    ],
+    [
       "commonwealth",
       2,
       "trust"
@@ -131,6 +126,11 @@
       "ruling",
       2,
       "fear"
+    ],
+    [
+      "people",
+      2,
+      "trust"
     ],
     [
       "loom",
@@ -183,17 +183,17 @@
       "sadness"
     ],
     [
+      "young",
+      2,
+      "surprise"
+    ],
+    [
       "soldier",
       2,
       "anger"
     ],
     [
       "threat",
-      2,
-      "anger"
-    ],
-    [
-      "hit",
       2,
       "anger"
     ],
@@ -221,11 +221,6 @@
       "seeking",
       2,
       "anticipation"
-    ],
-    [
-      "history",
-      2,
-      "trust"
     ],
     [
       "flee",
@@ -256,6 +251,36 @@
       "fall",
       1,
       "sadness"
+    ],
+    [
+      "rail",
+      1,
+      "anger"
+    ],
+    [
+      "system",
+      1,
+      "trust"
+    ],
+    [
+      "morning",
+      1,
+      "anticipation"
+    ],
+    [
+      "feared",
+      1,
+      "anger"
+    ],
+    [
+      "collision",
+      1,
+      "anger"
+    ],
+    [
+      "track",
+      1,
+      "anticipation"
     ],
     [
       "majority",
@@ -351,41 +376,16 @@
       "conflict",
       1,
       "anger"
-    ],
-    [
-      "battlefield",
-      1,
-      "fear"
-    ],
-    [
-      "governing",
-      1,
-      "trust"
-    ],
-    [
-      "bereaved",
-      1,
-      "sadness"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
-      "ballots",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 81,
-    "fear": 37,
-    "surprise": 16,
+    "trust": 77,
+    "fear": 39,
+    "surprise": 14,
     "sadness": 20,
     "disgust": 1,
     "anger": 78,
-    "anticipation": 23
+    "anticipation": 25
   }
 }
