@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:37:05.897Z",
+  "generated_at": "2026-10-28T18:52:08.344Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,16 +103,6 @@
       "sadness"
     ],
     [
-      "plans",
-      2,
-      "anticipation"
-    ],
-    [
-      "attack",
-      2,
-      "anger"
-    ],
-    [
       "injured",
       2,
       "fear"
@@ -141,6 +131,16 @@
       "fall",
       2,
       "sadness"
+    ],
+    [
+      "plans",
+      2,
+      "anticipation"
+    ],
+    [
+      "attack",
+      2,
+      "anger"
     ],
     [
       "people",
@@ -283,21 +283,6 @@
       "anticipation"
     ],
     [
-      "hails",
-      1,
-      "trust"
-    ],
-    [
-      "build",
-      1,
-      "anticipation"
-    ],
-    [
-      "communications",
-      1,
-      "trust"
-    ],
-    [
       "urgency",
       1,
       "fear"
@@ -316,6 +301,21 @@
       "predicted",
       1,
       "anticipation"
+    ],
+    [
+      "hails",
+      1,
+      "trust"
+    ],
+    [
+      "build",
+      1,
+      "anticipation"
+    ],
+    [
+      "communications",
+      1,
+      "trust"
     ],
     [
       "deadly",
