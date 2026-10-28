@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:14:22.421Z",
+  "generated_at": "2026-10-28T05:29:25.145Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,6 +118,11 @@
       "anger"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "loom",
       2,
       "fear"
@@ -228,9 +233,19 @@
       "anticipation"
     ],
     [
+      "count",
+      1,
+      "trust"
+    ],
+    [
       "fall",
       1,
       "sadness"
+    ],
+    [
+      "forecasts",
+      1,
+      "trust"
     ],
     [
       "surges",
@@ -241,11 +256,6 @@
       "show",
       1,
       "trust"
-    ],
-    [
-      "votes",
-      1,
-      "anger"
     ],
     [
       "surged",
@@ -366,26 +376,16 @@
       "lost",
       1,
       "sadness"
-    ],
-    [
-      "triumphed",
-      1,
-      "joy"
-    ],
-    [
-      "encourage",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 78,
+    "trust": 80,
     "fear": 35,
     "surprise": 16,
     "sadness": 20,
     "disgust": 1,
-    "anger": 78,
+    "anger": 79,
     "anticipation": 20
   }
 }
