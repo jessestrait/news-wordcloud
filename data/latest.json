@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:52:53.172Z",
+  "generated_at": "2026-10-28T20:07:55.563Z",
   "article_count": 50,
   "top_words": [
     [
@@ -123,16 +123,6 @@
       "sadness"
     ],
     [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
-      "collision",
-      2,
-      "anger"
-    ],
-    [
       "loom",
       2,
       "fear"
@@ -146,6 +136,16 @@
       "surged",
       2,
       "surprise"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
+    ],
+    [
+      "collision",
+      2,
+      "anger"
     ],
     [
       "plans",
@@ -288,22 +288,22 @@
       "anticipation"
     ],
     [
-      "urgency",
-      1,
-      "fear"
-    ],
-    [
-      "tragedy",
-      1,
-      "fear"
-    ],
-    [
       "show",
       1,
       "trust"
     ],
     [
       "highest",
+      1,
+      "fear"
+    ],
+    [
+      "urgency",
+      1,
+      "fear"
+    ],
+    [
+      "tragedy",
       1,
       "fear"
     ],
