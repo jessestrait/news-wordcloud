@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:51:38.438Z",
+  "generated_at": "2026-10-28T18:06:42.939Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,6 +98,26 @@
       "sadness"
     ],
     [
+      "loom",
+      2,
+      "fear"
+    ],
+    [
+      "fall",
+      2,
+      "sadness"
+    ],
+    [
+      "votes",
+      2,
+      "anger"
+    ],
+    [
+      "surged",
+      2,
+      "surprise"
+    ],
+    [
       "collision",
       2,
       "anger"
@@ -118,11 +138,6 @@
       "anger"
     ],
     [
-      "fall",
-      2,
-      "sadness"
-    ],
-    [
       "rail",
       2,
       "anger"
@@ -136,21 +151,6 @@
       "crash",
       2,
       "fear"
-    ],
-    [
-      "surged",
-      2,
-      "surprise"
-    ],
-    [
-      "loom",
-      2,
-      "fear"
-    ],
-    [
-      "votes",
-      2,
-      "anger"
     ],
     [
       "lost",
@@ -263,6 +263,16 @@
       "anticipation"
     ],
     [
+      "show",
+      1,
+      "trust"
+    ],
+    [
+      "highest",
+      1,
+      "fear"
+    ],
+    [
       "injured",
       1,
       "fear"
@@ -336,16 +346,6 @@
       "track",
       1,
       "anticipation"
-    ],
-    [
-      "show",
-      1,
-      "trust"
-    ],
-    [
-      "highest",
-      1,
-      "fear"
     ],
     [
       "watching",
