@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T10:47:36.676Z",
+  "generated_at": "2026-10-28T11:02:39.309Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "poll",
-      8,
+      7,
       "trust"
     ],
     [
@@ -28,9 +28,9 @@
       "trust"
     ],
     [
-      "suggest",
+      "opposition",
       5,
-      "trust"
+      "anger"
     ],
     [
       "peace",
@@ -53,9 +53,9 @@
       "fear"
     ],
     [
-      "opposition",
+      "suggest",
       4,
-      "anger"
+      "trust"
     ],
     [
       "family",
@@ -98,14 +98,19 @@
       "anger"
     ],
     [
-      "vote",
+      "fall",
       2,
-      "anger"
+      "sadness"
     ],
     [
-      "winner",
+      "majority",
       2,
-      "surprise"
+      "joy"
+    ],
+    [
+      "votes",
+      2,
+      "anger"
     ],
     [
       "gains",
@@ -233,12 +238,7 @@
       "anticipation"
     ],
     [
-      "count",
-      1,
-      "trust"
-    ],
-    [
-      "continues",
+      "counted",
       1,
       "trust"
     ],
@@ -246,11 +246,6 @@
       "predicted",
       1,
       "anticipation"
-    ],
-    [
-      "fall",
-      1,
-      "sadness"
     ],
     [
       "rail",
@@ -276,11 +271,6 @@
       "track",
       1,
       "anticipation"
-    ],
-    [
-      "majority",
-      1,
-      "joy"
     ],
     [
       "reparations",
@@ -376,16 +366,26 @@
       "battlefield",
       1,
       "fear"
+    ],
+    [
+      "governing",
+      1,
+      "trust"
+    ],
+    [
+      "bereaved",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 77,
+    "joy": 36,
+    "trust": 74,
     "fear": 39,
-    "surprise": 14,
-    "sadness": 20,
+    "surprise": 13,
+    "sadness": 21,
     "disgust": 1,
-    "anger": 77,
+    "anger": 78,
     "anticipation": 25
   }
 }
