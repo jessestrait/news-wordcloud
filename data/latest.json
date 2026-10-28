@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:50:15.959Z",
+  "generated_at": "2026-10-28T16:05:19.919Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "joy"
     ],
     [
+      "fall",
+      3,
+      "sadness"
+    ],
+    [
       "death",
       3,
       "sadness"
@@ -71,11 +76,6 @@
       "opposition",
       3,
       "anger"
-    ],
-    [
-      "fall",
-      3,
-      "sadness"
     ],
     [
       "gain",
@@ -113,6 +113,21 @@
       "sadness"
     ],
     [
+      "loom",
+      2,
+      "fear"
+    ],
+    [
+      "votes",
+      2,
+      "anger"
+    ],
+    [
+      "surged",
+      2,
+      "surprise"
+    ],
+    [
       "ballots",
       2,
       "trust"
@@ -121,11 +136,6 @@
       "counted",
       2,
       "trust"
-    ],
-    [
-      "votes",
-      2,
-      "anger"
     ],
     [
       "lost",
@@ -151,11 +161,6 @@
       "crash",
       2,
       "fear"
-    ],
-    [
-      "surged",
-      2,
-      "surprise"
     ],
     [
       "escalating",
@@ -186,11 +191,6 @@
       "forces",
       2,
       "anger"
-    ],
-    [
-      "loom",
-      2,
-      "fear"
     ],
     [
       "commonwealth",
@@ -268,6 +268,41 @@
       "anticipation"
     ],
     [
+      "show",
+      1,
+      "trust"
+    ],
+    [
+      "highest",
+      1,
+      "fear"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "urgency",
+      1,
+      "fear"
+    ],
+    [
+      "tragedy",
+      1,
+      "fear"
+    ],
+    [
+      "results",
+      1,
+      "anticipation"
+    ],
+    [
+      "predicted",
+      1,
+      "anticipation"
+    ],
+    [
       "watching",
       1,
       "fear"
@@ -296,31 +331,6 @@
       "change",
       1,
       "fear"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "urgency",
-      1,
-      "fear"
-    ],
-    [
-      "tragedy",
-      1,
-      "fear"
-    ],
-    [
-      "results",
-      1,
-      "anticipation"
-    ],
-    [
-      "predicted",
-      1,
-      "anticipation"
     ],
     [
       "fatal",
@@ -366,16 +376,6 @@
       "offensive",
       1,
       "anger"
-    ],
-    [
-      "uprising",
-      1,
-      "anger"
-    ],
-    [
-      "crew",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
