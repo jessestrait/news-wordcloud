@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:02:39.309Z",
+  "generated_at": "2026-10-28T11:17:41.986Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,9 +108,9 @@
       "joy"
     ],
     [
-      "votes",
+      "ballots",
       2,
-      "anger"
+      "trust"
     ],
     [
       "gains",
@@ -318,6 +318,11 @@
       "trust"
     ],
     [
+      "votes",
+      1,
+      "anger"
+    ],
+    [
       "surged",
       1,
       "surprise"
@@ -371,21 +376,16 @@
       "governing",
       1,
       "trust"
-    ],
-    [
-      "bereaved",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 36,
-    "trust": 74,
+    "trust": 75,
     "fear": 39,
     "surprise": 13,
     "sadness": 21,
     "disgust": 1,
-    "anger": 78,
+    "anger": 77,
     "anticipation": 25
   }
 }
