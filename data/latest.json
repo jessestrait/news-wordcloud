@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:49:45.941Z",
+  "generated_at": "2026-10-28T15:04:48.676Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,16 +58,6 @@
       "joy"
     ],
     [
-      "fall",
-      3,
-      "sadness"
-    ],
-    [
-      "majority",
-      3,
-      "joy"
-    ],
-    [
       "death",
       3,
       "sadness"
@@ -81,6 +71,16 @@
       "crash",
       3,
       "fear"
+    ],
+    [
+      "fall",
+      3,
+      "sadness"
+    ],
+    [
+      "majority",
+      3,
+      "joy"
     ],
     [
       "second",
@@ -263,6 +263,16 @@
       "anticipation"
     ],
     [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "inexplicable",
+      1,
+      "surprise"
+    ],
+    [
       "results",
       1,
       "anticipation"
@@ -276,16 +286,6 @@
       "predicted",
       1,
       "anticipation"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "inexplicable",
-      1,
-      "surprise"
     ],
     [
       "fatal",
