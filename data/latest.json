@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T21:53:56.521Z",
+  "generated_at": "2026-10-28T22:08:58.993Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,6 +278,16 @@
       "anticipation"
     ],
     [
+      "fleeing",
+      1,
+      "fear"
+    ],
+    [
+      "flying",
+      1,
+      "fear"
+    ],
+    [
       "start",
       1,
       "anticipation"
@@ -296,16 +306,6 @@
       "association",
       1,
       "trust"
-    ],
-    [
-      "fleeing",
-      1,
-      "fear"
-    ],
-    [
-      "flying",
-      1,
-      "fear"
     ],
     [
       "urgency",
