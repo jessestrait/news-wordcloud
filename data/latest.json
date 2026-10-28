@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:45:12.889Z",
+  "generated_at": "2026-10-28T07:00:15.367Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,28 +8,33 @@
       "trust"
     ],
     [
-      "polls",
-      7,
-      "trust"
-    ],
-    [
-      "war",
-      7,
-      "anger"
-    ],
-    [
-      "president",
-      7,
+      "poll",
+      8,
       "trust"
     ],
     [
       "government",
-      6,
+      8,
       "fear"
     ],
     [
-      "peace",
+      "war",
       6,
+      "anger"
+    ],
+    [
+      "president",
+      6,
+      "trust"
+    ],
+    [
+      "people",
+      5,
+      "trust"
+    ],
+    [
+      "peace",
+      5,
       "joy"
     ],
     [
@@ -48,24 +53,19 @@
       "fear"
     ],
     [
-      "family",
+      "slavery",
       4,
-      "joy"
-    ],
-    [
-      "people",
-      4,
-      "trust"
+      "anger"
     ],
     [
       "suggest",
-      3,
+      4,
       "trust"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
+      "family",
+      4,
+      "joy"
     ],
     [
       "opposition",
@@ -73,14 +73,9 @@
       "anger"
     ],
     [
-      "slavery",
+      "happened",
       3,
-      "anger"
-    ],
-    [
-      "commonwealth",
-      3,
-      "trust"
+      "anticipation"
     ],
     [
       "hope",
@@ -108,14 +103,19 @@
       "surprise"
     ],
     [
-      "forces",
+      "storm",
       3,
       "anger"
     ],
     [
-      "storm",
-      3,
-      "anger"
+      "commonwealth",
+      2,
+      "trust"
+    ],
+    [
+      "ruling",
+      2,
+      "fear"
     ],
     [
       "vote",
@@ -124,11 +124,6 @@
     ],
     [
       "loom",
-      2,
-      "fear"
-    ],
-    [
-      "ruling",
       2,
       "fear"
     ],
@@ -198,6 +193,11 @@
       "sadness"
     ],
     [
+      "forces",
+      2,
+      "anger"
+    ],
+    [
       "attack",
       2,
       "anger"
@@ -223,6 +223,21 @@
       "fear"
     ],
     [
+      "majority",
+      1,
+      "joy"
+    ],
+    [
+      "reparations",
+      1,
+      "trust"
+    ],
+    [
+      "gains",
+      1,
+      "joy"
+    ],
+    [
       "results",
       1,
       "anticipation"
@@ -246,6 +261,26 @@
       "surges",
       1,
       "surprise"
+    ],
+    [
+      "budget",
+      1,
+      "trust"
+    ],
+    [
+      "edition",
+      1,
+      "anticipation"
+    ],
+    [
+      "struggling",
+      1,
+      "anger"
+    ],
+    [
+      "improve",
+      1,
+      "joy"
     ],
     [
       "loss",
@@ -308,11 +343,6 @@
       "trust"
     ],
     [
-      "gains",
-      1,
-      "joy"
-    ],
-    [
       "conflict",
       1,
       "anger"
@@ -321,16 +351,6 @@
       "battlefield",
       1,
       "fear"
-    ],
-    [
-      "nations",
-      1,
-      "trust"
-    ],
-    [
-      "reparation",
-      1,
-      "trust"
     ],
     [
       "governing",
@@ -356,36 +376,16 @@
       "bomb",
       1,
       "anger"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
-    ],
-    [
-      "ambassador",
-      1,
-      "trust"
-    ],
-    [
-      "frank",
-      1,
-      "trust"
-    ],
-    [
-      "quiet",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 34,
     "trust": 80,
-    "fear": 35,
+    "fear": 37,
     "surprise": 16,
     "sadness": 20,
     "disgust": 1,
-    "anger": 79,
-    "anticipation": 21
+    "anger": 77,
+    "anticipation": 22
   }
 }
