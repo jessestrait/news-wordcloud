@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:30:38.329Z",
+  "generated_at": "2026-10-28T07:45:41.055Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "suggest",
+      5,
+      "trust"
+    ],
+    [
       "people",
       5,
       "trust"
@@ -53,24 +58,19 @@
       "fear"
     ],
     [
+      "opposition",
+      4,
+      "anger"
+    ],
+    [
       "slavery",
       4,
       "anger"
     ],
     [
-      "suggest",
-      4,
-      "trust"
-    ],
-    [
       "family",
       4,
       "joy"
-    ],
-    [
-      "opposition",
-      3,
-      "anger"
     ],
     [
       "happened",
@@ -108,9 +108,19 @@
       "anger"
     ],
     [
+      "results",
+      2,
+      "anticipation"
+    ],
+    [
       "vote",
       2,
       "anger"
+    ],
+    [
+      "winner",
+      2,
+      "surprise"
     ],
     [
       "commonwealth",
@@ -223,29 +233,19 @@
       "fear"
     ],
     [
-      "results",
-      1,
-      "anticipation"
-    ],
-    [
       "count",
       1,
       "trust"
     ],
     [
-      "fall",
-      1,
-      "sadness"
-    ],
-    [
-      "forecasts",
+      "continues",
       1,
       "trust"
     ],
     [
-      "surges",
+      "falling",
       1,
-      "surprise"
+      "sadness"
     ],
     [
       "majority",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 80,
+    "trust": 81,
     "fear": 37,
     "surprise": 16,
     "sadness": 20,
     "disgust": 1,
-    "anger": 77,
-    "anticipation": 22
+    "anger": 78,
+    "anticipation": 23
   }
 }
