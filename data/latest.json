@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:21:11.736Z",
+  "generated_at": "2026-10-28T17:36:14.313Z",
   "article_count": 50,
   "top_words": [
     [
@@ -253,17 +253,7 @@
       "sadness"
     ],
     [
-      "attack",
-      2,
-      "anger"
-    ],
-    [
       "letter",
-      2,
-      "anticipation"
-    ],
-    [
-      "seeking",
       2,
       "anticipation"
     ],
@@ -291,6 +281,31 @@
       "tragedy",
       1,
       "fear"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
+    ],
+    [
+      "label",
+      1,
+      "trust"
+    ],
+    [
+      "leading",
+      1,
+      "trust"
+    ],
+    [
+      "pop",
+      1,
+      "surprise"
+    ],
+    [
+      "music",
+      1,
+      "joy"
     ],
     [
       "fatal",
@@ -361,31 +376,16 @@
       "warnings",
       1,
       "fear"
-    ],
-    [
-      "convicts",
-      1,
-      "anger"
-    ],
-    [
-      "managing",
-      1,
-      "trust"
-    ],
-    [
-      "flying",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 72,
+    "joy": 35,
+    "trust": 73,
     "fear": 46,
-    "surprise": 12,
-    "sadness": 24,
+    "surprise": 13,
+    "sadness": 25,
     "disgust": 1,
-    "anger": 81,
-    "anticipation": 25
+    "anger": 80,
+    "anticipation": 24
   }
 }
