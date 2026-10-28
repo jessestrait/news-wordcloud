@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:30:10.506Z",
+  "generated_at": "2026-10-28T06:45:12.889Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
+      "government",
+      6,
+      "fear"
+    ],
+    [
       "peace",
       6,
       "joy"
-    ],
-    [
-      "government",
-      5,
-      "fear"
     ],
     [
       "iran",
@@ -46,6 +46,11 @@
       "military",
       5,
       "fear"
+    ],
+    [
+      "family",
+      4,
+      "joy"
     ],
     [
       "people",
@@ -81,11 +86,6 @@
       "hope",
       3,
       "surprise"
-    ],
-    [
-      "families",
-      3,
-      "joy"
     ],
     [
       "guardian",
@@ -131,11 +131,6 @@
       "ruling",
       2,
       "fear"
-    ],
-    [
-      "loss",
-      2,
-      "anger"
     ],
     [
       "elected",
@@ -253,6 +248,21 @@
       "surprise"
     ],
     [
+      "loss",
+      1,
+      "anger"
+    ],
+    [
+      "boarded",
+      1,
+      "anticipation"
+    ],
+    [
+      "crossing",
+      1,
+      "anger"
+    ],
+    [
       "show",
       1,
       "trust"
@@ -328,11 +338,6 @@
       "trust"
     ],
     [
-      "missing",
-      1,
-      "fear"
-    ],
-    [
       "bereaved",
       1,
       "sadness"
@@ -371,21 +376,16 @@
       "quiet",
       1,
       "sadness"
-    ],
-    [
-      "lost",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 33,
     "trust": 80,
     "fear": 35,
     "surprise": 16,
     "sadness": 20,
     "disgust": 1,
     "anger": 79,
-    "anticipation": 20
+    "anticipation": 21
   }
 }
