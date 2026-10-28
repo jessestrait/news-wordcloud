@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:17:41.986Z",
+  "generated_at": "2026-10-28T11:32:44.739Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,19 +13,19 @@
       "fear"
     ],
     [
-      "poll",
+      "president",
       7,
+      "trust"
+    ],
+    [
+      "poll",
+      6,
       "trust"
     ],
     [
       "war",
       6,
       "anger"
-    ],
-    [
-      "president",
-      6,
-      "trust"
     ],
     [
       "opposition",
@@ -53,19 +53,29 @@
       "fear"
     ],
     [
-      "suggest",
-      4,
-      "trust"
-    ],
-    [
       "family",
       4,
+      "joy"
+    ],
+    [
+      "fall",
+      3,
+      "sadness"
+    ],
+    [
+      "majority",
+      3,
       "joy"
     ],
     [
       "slavery",
       3,
       "anger"
+    ],
+    [
+      "suggest",
+      3,
+      "trust"
     ],
     [
       "happened",
@@ -98,14 +108,9 @@
       "anger"
     ],
     [
-      "fall",
+      "crash",
       2,
-      "sadness"
-    ],
-    [
-      "majority",
-      2,
-      "joy"
+      "fear"
     ],
     [
       "ballots",
@@ -118,7 +123,7 @@
       "joy"
     ],
     [
-      "crash",
+      "loom",
       2,
       "fear"
     ],
@@ -136,11 +141,6 @@
       "people",
       2,
       "trust"
-    ],
-    [
-      "loom",
-      2,
-      "fear"
     ],
     [
       "elected",
@@ -233,6 +233,11 @@
       "fear"
     ],
     [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
       "results",
       1,
       "anticipation"
@@ -248,19 +253,24 @@
       "anticipation"
     ],
     [
-      "rail",
-      1,
-      "anger"
-    ],
-    [
-      "system",
+      "show",
       1,
       "trust"
     ],
     [
-      "morning",
+      "votes",
       1,
-      "anticipation"
+      "anger"
+    ],
+    [
+      "surged",
+      1,
+      "surprise"
+    ],
+    [
+      "highest",
+      1,
+      "fear"
     ],
     [
       "collision",
@@ -313,26 +323,6 @@
       "anger"
     ],
     [
-      "show",
-      1,
-      "trust"
-    ],
-    [
-      "votes",
-      1,
-      "anger"
-    ],
-    [
-      "surged",
-      1,
-      "surprise"
-    ],
-    [
-      "highest",
-      1,
-      "fear"
-    ],
-    [
       "deal",
       1,
       "surprise"
@@ -376,16 +366,26 @@
       "governing",
       1,
       "trust"
+    ],
+    [
+      "bereaved",
+      1,
+      "sadness"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 75,
-    "fear": 39,
+    "joy": 37,
+    "trust": 73,
+    "fear": 40,
     "surprise": 13,
-    "sadness": 21,
+    "sadness": 22,
     "disgust": 1,
-    "anger": 77,
-    "anticipation": 25
+    "anger": 76,
+    "anticipation": 24
   }
 }
