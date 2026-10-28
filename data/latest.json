@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:35:12.463Z",
+  "generated_at": "2026-10-28T15:50:15.959Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "government",
-      9,
+      10,
       "fear"
     ],
     [
@@ -43,6 +43,11 @@
       "fear"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "family",
       4,
       "joy"
@@ -51,16 +56,6 @@
       "peace",
       4,
       "joy"
-    ],
-    [
-      "opposition",
-      3,
-      "anger"
-    ],
-    [
-      "fall",
-      3,
-      "sadness"
     ],
     [
       "death",
@@ -73,9 +68,14 @@
       "anger"
     ],
     [
-      "crash",
+      "opposition",
       3,
-      "fear"
+      "anger"
+    ],
+    [
+      "fall",
+      3,
+      "sadness"
     ],
     [
       "gain",
@@ -93,19 +93,9 @@
       "anger"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "hope",
       3,
       "surprise"
-    ],
-    [
-      "suggest",
-      3,
-      "trust"
     ],
     [
       "guardian",
@@ -121,11 +111,6 @@
       "america",
       3,
       "sadness"
-    ],
-    [
-      "storm",
-      3,
-      "anger"
     ],
     [
       "ballots",
@@ -161,6 +146,11 @@
       "network",
       2,
       "anticipation"
+    ],
+    [
+      "crash",
+      2,
+      "fear"
     ],
     [
       "surged",
@@ -208,7 +198,7 @@
       "trust"
     ],
     [
-      "people",
+      "suggest",
       2,
       "trust"
     ],
@@ -278,6 +268,51 @@
       "anticipation"
     ],
     [
+      "watching",
+      1,
+      "fear"
+    ],
+    [
+      "outrage",
+      1,
+      "anger"
+    ],
+    [
+      "remarkable",
+      1,
+      "surprise"
+    ],
+    [
+      "upsets",
+      1,
+      "anger"
+    ],
+    [
+      "showing",
+      1,
+      "trust"
+    ],
+    [
+      "change",
+      1,
+      "fear"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "urgency",
+      1,
+      "fear"
+    ],
+    [
+      "tragedy",
+      1,
+      "fear"
+    ],
+    [
       "results",
       1,
       "anticipation"
@@ -286,16 +321,6 @@
       "predicted",
       1,
       "anticipation"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "inexplicable",
-      1,
-      "surprise"
     ],
     [
       "fatal",
@@ -351,41 +376,16 @@
       "crew",
       1,
       "trust"
-    ],
-    [
-      "admiral",
-      1,
-      "trust"
-    ],
-    [
-      "warns",
-      1,
-      "fear"
-    ],
-    [
-      "show",
-      1,
-      "trust"
-    ],
-    [
-      "highest",
-      1,
-      "fear"
-    ],
-    [
-      "reparations",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 73,
-    "fear": 41,
+    "trust": 72,
+    "fear": 45,
     "surprise": 12,
     "sadness": 23,
     "disgust": 1,
-    "anger": 83,
-    "anticipation": 24
+    "anger": 82,
+    "anticipation": 25
   }
 }
