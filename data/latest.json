@@ -1,26 +1,31 @@
 {
-  "generated_at": "2026-10-28T04:59:19.318Z",
+  "generated_at": "2026-10-28T05:14:22.421Z",
   "article_count": 50,
   "top_words": [
     [
       "leader",
-      14,
-      "trust"
-    ],
-    [
-      "president",
-      8,
+      13,
       "trust"
     ],
     [
       "polls",
-      6,
+      7,
       "trust"
     ],
     [
       "war",
-      6,
+      7,
       "anger"
+    ],
+    [
+      "president",
+      7,
+      "trust"
+    ],
+    [
+      "peace",
+      6,
+      "joy"
     ],
     [
       "government",
@@ -28,12 +33,12 @@
       "fear"
     ],
     [
-      "victory",
+      "iran",
       5,
-      "joy"
+      "anger"
     ],
     [
-      "peace",
+      "victory",
       5,
       "joy"
     ],
@@ -45,6 +50,11 @@
     [
       "people",
       4,
+      "trust"
+    ],
+    [
+      "suggest",
+      3,
       "trust"
     ],
     [
@@ -103,19 +113,14 @@
       "anger"
     ],
     [
-      "iran",
-      3,
-      "anger"
-    ],
-    [
       "storm",
       3,
       "anger"
     ],
     [
-      "suggest",
+      "loom",
       2,
-      "trust"
+      "fear"
     ],
     [
       "ruling",
@@ -218,18 +223,8 @@
       "fear"
     ],
     [
-      "top",
-      2,
-      "trust"
-    ],
-    [
-      "corruption",
-      2,
-      "disgust"
-    ],
-    [
-      "result",
-      2,
+      "results",
+      1,
       "anticipation"
     ],
     [
@@ -241,6 +236,46 @@
       "surges",
       1,
       "surprise"
+    ],
+    [
+      "show",
+      1,
+      "trust"
+    ],
+    [
+      "votes",
+      1,
+      "anger"
+    ],
+    [
+      "surged",
+      1,
+      "surprise"
+    ],
+    [
+      "highest",
+      1,
+      "fear"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
+    ],
+    [
+      "withdraw",
+      1,
+      "sadness"
     ],
     [
       "networks",
@@ -284,11 +319,6 @@
     ],
     [
       "missing",
-      1,
-      "fear"
-    ],
-    [
-      "looms",
       1,
       "fear"
     ],
@@ -346,46 +376,16 @@
       "encourage",
       1,
       "joy"
-    ],
-    [
-      "momentum",
-      1,
-      "anticipation"
-    ],
-    [
-      "sceptical",
-      1,
-      "trust"
-    ],
-    [
-      "suicide",
-      1,
-      "anger"
-    ],
-    [
-      "truth",
-      1,
-      "trust"
-    ],
-    [
-      "organizations",
-      1,
-      "surprise"
-    ],
-    [
-      "counselors",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 80,
-    "fear": 32,
-    "surprise": 15,
-    "sadness": 19,
-    "disgust": 3,
-    "anger": 75,
-    "anticipation": 22
+    "joy": 32,
+    "trust": 78,
+    "fear": 35,
+    "surprise": 16,
+    "sadness": 20,
+    "disgust": 1,
+    "anger": 78,
+    "anticipation": 20
   }
 }
