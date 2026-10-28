@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:49:15.901Z",
+  "generated_at": "2026-10-28T14:04:18.137Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,16 +113,6 @@
       "anger"
     ],
     [
-      "loss",
-      2,
-      "anger"
-    ],
-    [
-      "crossing",
-      2,
-      "anger"
-    ],
-    [
       "crash",
       2,
       "fear"
@@ -136,6 +126,16 @@
       "gains",
       2,
       "joy"
+    ],
+    [
+      "loss",
+      2,
+      "anger"
+    ],
+    [
+      "crossing",
+      2,
+      "anger"
     ],
     [
       "loom",
@@ -243,11 +243,6 @@
       "fear"
     ],
     [
-      "flying",
-      1,
-      "fear"
-    ],
-    [
       "injured",
       1,
       "fear"
@@ -266,6 +261,11 @@
       "predicted",
       1,
       "anticipation"
+    ],
+    [
+      "flying",
+      1,
+      "fear"
     ],
     [
       "collision",
