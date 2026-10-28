@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:48:32.747Z",
+  "generated_at": "2026-10-28T13:03:35.077Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "government",
       8,
       "fear"
-    ],
-    [
-      "president",
-      6,
-      "trust"
     ],
     [
       "poll",
@@ -38,9 +33,9 @@
       "anger"
     ],
     [
-      "victory",
+      "president",
       5,
-      "joy"
+      "trust"
     ],
     [
       "military",
@@ -58,6 +53,11 @@
       "joy"
     ],
     [
+      "victory",
+      4,
+      "joy"
+    ],
+    [
       "fall",
       3,
       "sadness"
@@ -66,6 +66,16 @@
       "majority",
       3,
       "joy"
+    ],
+    [
+      "death",
+      3,
+      "sadness"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "slavery",
@@ -108,11 +118,6 @@
       "anger"
     ],
     [
-      "crash",
-      2,
-      "fear"
-    ],
-    [
       "ballots",
       2,
       "trust"
@@ -121,6 +126,11 @@
       "gains",
       2,
       "joy"
+    ],
+    [
+      "crash",
+      2,
+      "fear"
     ],
     [
       "crossing",
@@ -141,11 +151,6 @@
       "ruling",
       2,
       "fear"
-    ],
-    [
-      "people",
-      2,
-      "trust"
     ],
     [
       "elected",
@@ -186,11 +191,6 @@
       "life",
       2,
       "joy"
-    ],
-    [
-      "death",
-      2,
-      "sadness"
     ],
     [
       "young",
@@ -238,11 +238,6 @@
       "fear"
     ],
     [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
       "results",
       1,
       "anticipation"
@@ -256,6 +251,26 @@
       "predicted",
       1,
       "anticipation"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "crew",
+      1,
+      "trust"
+    ],
+    [
+      "admiral",
+      1,
+      "trust"
+    ],
+    [
+      "warns",
+      1,
+      "fear"
     ],
     [
       "fleeing",
@@ -361,31 +376,16 @@
       "networks",
       1,
       "anticipation"
-    ],
-    [
-      "polling",
-      1,
-      "trust"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
-    ],
-    [
-      "battlefield",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
-    "trust": 71,
+    "joy": 35,
+    "trust": 73,
     "fear": 42,
     "surprise": 12,
-    "sadness": 22,
+    "sadness": 23,
     "disgust": 1,
-    "anger": 74,
+    "anger": 73,
     "anticipation": 24
   }
 }
