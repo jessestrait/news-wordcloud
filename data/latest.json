@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:34:43.286Z",
+  "generated_at": "2026-10-28T14:49:45.941Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,24 +48,14 @@
       "joy"
     ],
     [
+      "suggest",
+      4,
+      "trust"
+    ],
+    [
       "peace",
       4,
       "joy"
-    ],
-    [
-      "death",
-      3,
-      "sadness"
-    ],
-    [
-      "crash",
-      3,
-      "fear"
-    ],
-    [
-      "second",
-      3,
-      "trust"
     ],
     [
       "fall",
@@ -78,14 +68,29 @@
       "joy"
     ],
     [
-      "slavery",
+      "death",
+      3,
+      "sadness"
+    ],
+    [
+      "collision",
       3,
       "anger"
     ],
     [
-      "suggest",
+      "crash",
+      3,
+      "fear"
+    ],
+    [
+      "second",
       3,
       "trust"
+    ],
+    [
+      "slavery",
+      3,
+      "anger"
     ],
     [
       "happened",
@@ -118,9 +123,14 @@
       "anger"
     ],
     [
-      "collision",
+      "ballots",
       2,
-      "anger"
+      "trust"
+    ],
+    [
+      "gains",
+      2,
+      "joy"
     ],
     [
       "rail",
@@ -136,16 +146,6 @@
       "surged",
       2,
       "surprise"
-    ],
-    [
-      "ballots",
-      2,
-      "trust"
-    ],
-    [
-      "gains",
-      2,
-      "joy"
     ],
     [
       "escalating",
@@ -263,21 +263,6 @@
       "anticipation"
     ],
     [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "fatal",
-      1,
-      "anger"
-    ],
-    [
-      "doubt",
-      1,
-      "fear"
-    ],
-    [
       "results",
       1,
       "anticipation"
@@ -291,6 +276,26 @@
       "predicted",
       1,
       "anticipation"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "inexplicable",
+      1,
+      "surprise"
+    ],
+    [
+      "fatal",
+      1,
+      "anger"
+    ],
+    [
+      "doubt",
+      1,
+      "fear"
     ],
     [
       "warnings",
@@ -371,21 +376,16 @@
       "budget",
       1,
       "trust"
-    ],
-    [
-      "edition",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 73,
+    "trust": 74,
     "fear": 41,
-    "surprise": 11,
+    "surprise": 12,
     "sadness": 22,
     "disgust": 1,
-    "anger": 81,
+    "anger": 82,
     "anticipation": 24
   }
 }
