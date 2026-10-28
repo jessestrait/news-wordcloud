@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:37:33.815Z",
+  "generated_at": "2026-10-28T19:52:37.698Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,19 +18,14 @@
       "anger"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "majority",
       5,
       "joy"
     ],
     [
-      "second",
+      "happened",
       5,
-      "trust"
+      "anticipation"
     ],
     [
       "poll",
@@ -51,6 +46,11 @@
       "military",
       5,
       "fear"
+    ],
+    [
+      "second",
+      4,
+      "trust"
     ],
     [
       "crash",
@@ -103,16 +103,6 @@
       "sadness"
     ],
     [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
-      "collision",
-      2,
-      "anger"
-    ],
-    [
       "ballots",
       2,
       "trust"
@@ -131,6 +121,16 @@
       "fall",
       2,
       "sadness"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
+    ],
+    [
+      "collision",
+      2,
+      "anger"
     ],
     [
       "loom",
@@ -278,16 +278,6 @@
       "anticipation"
     ],
     [
-      "urgency",
-      1,
-      "fear"
-    ],
-    [
-      "tragedy",
-      1,
-      "fear"
-    ],
-    [
       "results",
       1,
       "anticipation"
@@ -296,6 +286,16 @@
       "predicted",
       1,
       "anticipation"
+    ],
+    [
+      "urgency",
+      1,
+      "fear"
+    ],
+    [
+      "tragedy",
+      1,
+      "fear"
     ],
     [
       "show",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 74,
+    "trust": 73,
     "fear": 47,
     "surprise": 13,
     "sadness": 25,
