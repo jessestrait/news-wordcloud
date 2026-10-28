@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T20:22:57.852Z",
+  "generated_at": "2026-10-28T20:38:01.031Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,14 +68,14 @@
       "joy"
     ],
     [
-      "ambassador",
-      3,
-      "trust"
-    ],
-    [
       "death",
       3,
       "sadness"
+    ],
+    [
+      "ambassador",
+      3,
+      "trust"
     ],
     [
       "gain",
@@ -108,17 +108,17 @@
       "joy"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "injured",
       2,
       "fear"
     ],
     [
       "collision",
+      2,
+      "anger"
+    ],
+    [
+      "trump",
       2,
       "anger"
     ],
@@ -283,6 +283,16 @@
       "anticipation"
     ],
     [
+      "urgency",
+      1,
+      "fear"
+    ],
+    [
+      "tragedy",
+      1,
+      "fear"
+    ],
+    [
       "blame",
       1,
       "anger"
@@ -306,16 +316,6 @@
       "officials",
       1,
       "trust"
-    ],
-    [
-      "urgency",
-      1,
-      "fear"
-    ],
-    [
-      "tragedy",
-      1,
-      "fear"
     ],
     [
       "results",
