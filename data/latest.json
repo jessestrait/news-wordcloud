@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:35:40.852Z",
+  "generated_at": "2026-10-29T19:50:43.067Z",
   "article_count": 50,
   "top_words": [
     [
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 27,
     "trust": 93,
     "fear": 46,
     "surprise": 13,
     "sadness": 18,
     "disgust": 5,
-    "anger": 75,
+    "anger": 73,
     "anticipation": 35
   }
 }
