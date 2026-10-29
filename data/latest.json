@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T07:59:29.743Z",
+  "generated_at": "2026-10-29T08:14:32.172Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,12 +53,12 @@
       "fear"
     ],
     [
-      "ballots",
+      "show",
       3,
       "trust"
     ],
     [
-      "show",
+      "ballots",
       3,
       "trust"
     ],
@@ -113,6 +113,16 @@
       "joy"
     ],
     [
+      "outcry",
+      2,
+      "anger"
+    ],
+    [
+      "association",
+      2,
+      "trust"
+    ],
+    [
       "results",
       2,
       "anticipation"
@@ -134,16 +144,6 @@
     ],
     [
       "bank",
-      2,
-      "trust"
-    ],
-    [
-      "outcry",
-      2,
-      "anger"
-    ],
-    [
-      "association",
       2,
       "trust"
     ],
@@ -323,6 +323,11 @@
       "anger"
     ],
     [
+      "ruthless",
+      1,
+      "anger"
+    ],
+    [
       "absentee",
       1,
       "sadness"
@@ -348,16 +353,6 @@
       "anticipation"
     ],
     [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "ruthless",
-      1,
-      "anger"
-    ],
-    [
       "police",
       1,
       "fear"
@@ -376,6 +371,11 @@
       "officers",
       1,
       "trust"
+    ],
+    [
+      "shocks",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
@@ -384,7 +384,7 @@
     "fear": 47,
     "surprise": 13,
     "sadness": 25,
-    "disgust": 3,
+    "disgust": 2,
     "anger": 81,
     "anticipation": 30
   }
