@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T12:47:00.790Z",
+  "generated_at": "2026-10-29T13:02:03.439Z",
   "article_count": 50,
   "top_words": [
+    [
+      "leader",
+      9,
+      "trust"
+    ],
     [
       "government",
       8,
       "fear"
-    ],
-    [
-      "leader",
-      8,
-      "trust"
     ],
     [
       "happened",
@@ -118,9 +118,9 @@
       "trust"
     ],
     [
-      "military",
-      3,
-      "fear"
+      "results",
+      2,
+      "anticipation"
     ],
     [
       "mourning",
@@ -156,11 +156,6 @@
       "budget",
       2,
       "trust"
-    ],
-    [
-      "electric",
-      2,
-      "surprise"
     ],
     [
       "deadly",
@@ -308,9 +303,24 @@
       "anger"
     ],
     [
-      "results",
+      "pointless",
       1,
-      "anticipation"
+      "sadness"
+    ],
+    [
+      "negotiating",
+      1,
+      "trust"
+    ],
+    [
+      "establishing",
+      1,
+      "trust"
+    ],
+    [
+      "messy",
+      1,
+      "disgust"
     ],
     [
       "warns",
@@ -366,26 +376,16 @@
       "ruthless",
       1,
       "anger"
-    ],
-    [
-      "modest",
-      1,
-      "trust"
-    ],
-    [
-      "tax",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 89,
-    "fear": 47,
-    "surprise": 11,
+    "trust": 91,
+    "fear": 44,
+    "surprise": 10,
     "sadness": 24,
-    "disgust": 3,
-    "anger": 76,
+    "disgust": 4,
+    "anger": 75,
     "anticipation": 29
   }
 }
