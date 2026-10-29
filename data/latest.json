@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:34:35.220Z",
+  "generated_at": "2026-10-29T17:49:38.151Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,11 +31,6 @@
       "family",
       5,
       "joy"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
     ],
     [
       "president",
@@ -73,9 +68,19 @@
       "sadness"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "guard",
       3,
       "fear"
+    ],
+    [
+      "provide",
+      3,
+      "trust"
     ],
     [
       "show",
@@ -106,6 +111,11 @@
       "suggest",
       3,
       "trust"
+    ],
+    [
+      "victory",
+      2,
+      "joy"
     ],
     [
       "accused",
@@ -159,11 +169,6 @@
     ],
     [
       "continue",
-      2,
-      "trust"
-    ],
-    [
-      "provide",
       2,
       "trust"
     ],
@@ -303,6 +308,11 @@
       "sadness"
     ],
     [
+      "lessons",
+      1,
+      "trust"
+    ],
+    [
       "ugly",
       1,
       "disgust"
@@ -366,26 +376,16 @@
       "ridiculous",
       1,
       "anger"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
-    ],
-    [
-      "departs",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 32,
-    "trust": 90,
+    "trust": 89,
     "fear": 43,
-    "surprise": 14,
+    "surprise": 13,
     "sadness": 20,
     "disgust": 5,
-    "anger": 71,
+    "anger": 69,
     "anticipation": 34
   }
 }
