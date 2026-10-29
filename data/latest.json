@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:10:05.360Z",
+  "generated_at": "2026-10-29T00:25:08.261Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "government",
-      9,
+      8,
       "fear"
     ],
     [
       "happened",
-      6,
+      7,
       "anticipation"
     ],
     [
@@ -78,11 +78,6 @@
       "trust"
     ],
     [
-      "gain",
-      3,
-      "joy"
-    ],
-    [
       "slavery",
       3,
       "anger"
@@ -101,6 +96,16 @@
       "truce",
       3,
       "joy"
+    ],
+    [
+      "ballots",
+      2,
+      "trust"
+    ],
+    [
+      "counted",
+      2,
+      "trust"
     ],
     [
       "crossing",
@@ -126,26 +131,6 @@
       "don",
       2,
       "trust"
-    ],
-    [
-      "ballots",
-      2,
-      "trust"
-    ],
-    [
-      "counted",
-      2,
-      "trust"
-    ],
-    [
-      "opposition",
-      2,
-      "anger"
-    ],
-    [
-      "fall",
-      2,
-      "sadness"
     ],
     [
       "loom",
@@ -196,6 +181,11 @@
       "opponents",
       2,
       "anger"
+    ],
+    [
+      "gain",
+      2,
+      "joy"
     ],
     [
       "escalating",
@@ -343,14 +333,9 @@
       "trust"
     ],
     [
-      "results",
+      "fall",
       1,
-      "anticipation"
-    ],
-    [
-      "predicted",
-      1,
-      "anticipation"
+      "sadness"
     ],
     [
       "show",
@@ -376,16 +361,31 @@
       "unseating",
       1,
       "sadness"
+    ],
+    [
+      "hails",
+      1,
+      "trust"
+    ],
+    [
+      "build",
+      1,
+      "anticipation"
+    ],
+    [
+      "communications",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
+    "joy": 33,
     "trust": 79,
-    "fear": 46,
+    "fear": 45,
     "surprise": 11,
-    "sadness": 24,
+    "sadness": 23,
     "disgust": 1,
-    "anger": 80,
-    "anticipation": 29
+    "anger": 79,
+    "anticipation": 28
   }
 }
