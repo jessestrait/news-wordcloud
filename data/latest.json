@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:14:32.172Z",
+  "generated_at": "2026-10-29T08:29:34.602Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,12 +53,12 @@
       "fear"
     ],
     [
-      "show",
+      "ballots",
       3,
       "trust"
     ],
     [
-      "ballots",
+      "show",
       3,
       "trust"
     ],
@@ -113,16 +113,6 @@
       "joy"
     ],
     [
-      "outcry",
-      2,
-      "anger"
-    ],
-    [
-      "association",
-      2,
-      "trust"
-    ],
-    [
       "results",
       2,
       "anticipation"
@@ -136,6 +126,16 @@
       "unseating",
       2,
       "sadness"
+    ],
+    [
+      "outcry",
+      2,
+      "anger"
+    ],
+    [
+      "association",
+      2,
+      "trust"
     ],
     [
       "budget",
@@ -323,11 +323,6 @@
       "anger"
     ],
     [
-      "ruthless",
-      1,
-      "anger"
-    ],
-    [
       "absentee",
       1,
       "sadness"
@@ -336,6 +331,11 @@
       "experts",
       1,
       "trust"
+    ],
+    [
+      "ruthless",
+      1,
+      "anger"
     ],
     [
       "modest",
