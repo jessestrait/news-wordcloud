@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T04:57:47.177Z",
+  "generated_at": "2026-10-29T05:12:49.389Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "joy"
     ],
     [
+      "ballots",
+      3,
+      "trust"
+    ],
+    [
       "president",
       3,
       "trust"
@@ -88,6 +93,11 @@
       "anger"
     ],
     [
+      "hope",
+      3,
+      "surprise"
+    ],
+    [
       "suggest",
       3,
       "trust"
@@ -101,6 +111,21 @@
       "truce",
       3,
       "joy"
+    ],
+    [
+      "results",
+      2,
+      "anticipation"
+    ],
+    [
+      "count",
+      2,
+      "trust"
+    ],
+    [
+      "unseating",
+      2,
+      "sadness"
     ],
     [
       "deadly",
@@ -126,11 +151,6 @@
       "struggling",
       2,
       "anger"
-    ],
-    [
-      "ballots",
-      2,
-      "trust"
     ],
     [
       "counted",
@@ -253,16 +273,6 @@
       "trust"
     ],
     [
-      "hope",
-      2,
-      "surprise"
-    ],
-    [
-      "victory",
-      2,
-      "joy"
-    ],
-    [
       "cocaine",
       2,
       "sadness"
@@ -286,6 +296,16 @@
       "threat",
       2,
       "anger"
+    ],
+    [
+      "absentee",
+      1,
+      "sadness"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
     ],
     [
       "outcry",
@@ -356,36 +376,16 @@
       "fleeing",
       1,
       "fear"
-    ],
-    [
-      "flying",
-      1,
-      "fear"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
-    ],
-    [
-      "associate",
-      1,
-      "trust"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 80,
+    "joy": 34,
+    "trust": 83,
     "fear": 45,
-    "surprise": 11,
-    "sadness": 23,
-    "disgust": 3,
+    "surprise": 12,
+    "sadness": 25,
+    "disgust": 2,
     "anger": 84,
-    "anticipation": 28
+    "anticipation": 30
   }
 }
