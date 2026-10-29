@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:00:23.067Z",
+  "generated_at": "2026-10-29T10:15:25.148Z",
   "article_count": 50,
   "top_words": [
     [
@@ -56,6 +56,11 @@
       "ballots",
       3,
       "trust"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "continue",
@@ -208,11 +213,6 @@
       "anger"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "don",
       2,
       "trust"
@@ -276,11 +276,6 @@
       "freedom",
       2,
       "joy"
-    ],
-    [
-      "court",
-      2,
-      "anger"
     ],
     [
       "commonwealth",
@@ -353,6 +348,11 @@
       "sadness"
     ],
     [
+      "ideas",
+      1,
+      "trust"
+    ],
+    [
       "emergency",
       1,
       "fear"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 85,
-    "fear": 51,
+    "trust": 86,
+    "fear": 48,
     "surprise": 12,
-    "sadness": 25,
+    "sadness": 23,
     "disgust": 3,
-    "anger": 81,
+    "anger": 80,
     "anticipation": 30
   }
 }
