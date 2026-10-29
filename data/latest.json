@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T06:28:35.026Z",
+  "generated_at": "2026-10-29T06:43:37.665Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,16 +33,6 @@
       "joy"
     ],
     [
-      "poll",
-      5,
-      "trust"
-    ],
-    [
-      "military",
-      5,
-      "fear"
-    ],
-    [
       "second",
       4,
       "trust"
@@ -51,6 +41,21 @@
       "crash",
       4,
       "fear"
+    ],
+    [
+      "poll",
+      4,
+      "trust"
+    ],
+    [
+      "military",
+      4,
+      "fear"
+    ],
+    [
+      "show",
+      3,
+      "trust"
     ],
     [
       "ballots",
@@ -88,11 +93,6 @@
       "joy"
     ],
     [
-      "iran",
-      3,
-      "anger"
-    ],
-    [
       "hope",
       3,
       "surprise"
@@ -111,6 +111,16 @@
       "truce",
       3,
       "joy"
+    ],
+    [
+      "outcry",
+      2,
+      "anger"
+    ],
+    [
+      "association",
+      2,
+      "trust"
     ],
     [
       "results",
@@ -198,11 +208,6 @@
       "fear"
     ],
     [
-      "show",
-      2,
-      "trust"
-    ],
-    [
       "votes",
       2,
       "anger"
@@ -216,11 +221,6 @@
       "plans",
       2,
       "anticipation"
-    ],
-    [
-      "attack",
-      2,
-      "anger"
     ],
     [
       "passengers",
@@ -283,6 +283,11 @@
       "trust"
     ],
     [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
       "cocaine",
       2,
       "sadness"
@@ -305,6 +310,16 @@
     [
       "lose",
       2,
+      "anger"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "ruthless",
+      1,
       "anger"
     ],
     [
@@ -348,11 +363,6 @@
       "anger"
     ],
     [
-      "outcry",
-      1,
-      "anger"
-    ],
-    [
       "real",
       1,
       "trust"
@@ -366,25 +376,15 @@
       "lying",
       1,
       "anger"
-    ],
-    [
-      "backwards",
-      1,
-      "disgust"
-    ],
-    [
-      "choking",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 84,
-    "fear": 48,
+    "trust": 85,
+    "fear": 47,
     "surprise": 13,
     "sadness": 24,
-    "disgust": 2,
+    "disgust": 3,
     "anger": 84,
     "anticipation": 30
   }
