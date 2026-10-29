@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:31:11.672Z",
+  "generated_at": "2026-10-29T11:46:14.319Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anger"
     ],
     [
+      "ballots",
+      3,
+      "trust"
+    ],
+    [
       "continue",
       3,
       "trust"
@@ -61,11 +66,6 @@
       "guard",
       3,
       "fear"
-    ],
-    [
-      "ballots",
-      3,
-      "trust"
     ],
     [
       "trump",
@@ -118,6 +118,16 @@
       "fear"
     ],
     [
+      "accused",
+      2,
+      "anger"
+    ],
+    [
+      "police",
+      2,
+      "fear"
+    ],
+    [
       "mourning",
       2,
       "sadness"
@@ -131,16 +141,6 @@
       "provide",
       2,
       "trust"
-    ],
-    [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "bank",
@@ -318,16 +318,6 @@
       "anger"
     ],
     [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "relatives",
-      1,
-      "trust"
-    ],
-    [
       "results",
       1,
       "anticipation"
@@ -338,14 +328,14 @@
       "disgust"
     ],
     [
-      "stolen",
-      1,
-      "anger"
-    ],
-    [
       "representing",
       1,
       "anticipation"
+    ],
+    [
+      "stolen",
+      1,
+      "anger"
     ],
     [
       "count",
@@ -356,6 +346,16 @@
       "absentee",
       1,
       "sadness"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "relatives",
+      1,
+      "trust"
     ],
     [
       "departure",
