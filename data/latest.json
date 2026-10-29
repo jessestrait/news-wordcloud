@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-29T18:04:56.022Z",
+  "generated_at": "2026-10-29T18:19:58.056Z",
   "article_count": 50,
   "top_words": [
     [
       "leader",
-      8,
+      9,
       "trust"
     ],
     [
@@ -18,19 +18,24 @@
       "fear"
     ],
     [
+      "happened",
+      6,
+      "anticipation"
+    ],
+    [
       "majority",
       6,
       "joy"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "family",
       5,
       "joy"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "trump",
@@ -63,6 +68,16 @@
       "trust"
     ],
     [
+      "fire",
+      3,
+      "fear"
+    ],
+    [
+      "victims",
+      3,
+      "anger"
+    ],
+    [
       "guard",
       3,
       "fear"
@@ -88,11 +103,6 @@
       "anger"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "don",
       3,
       "trust"
@@ -108,14 +118,14 @@
       "trust"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
       "mourning",
       2,
       "sadness"
-    ],
-    [
-      "victims",
-      2,
-      "anger"
     ],
     [
       "continue",
@@ -308,6 +318,21 @@
       "sadness"
     ],
     [
+      "blaze",
+      1,
+      "anger"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
+    ],
+    [
+      "justice",
+      1,
+      "trust"
+    ],
+    [
       "emergency",
       1,
       "fear"
@@ -351,41 +376,16 @@
       "ugly",
       1,
       "disgust"
-    ],
-    [
-      "tactics",
-      1,
-      "fear"
-    ],
-    [
-      "steal",
-      1,
-      "anger"
-    ],
-    [
-      "shit",
-      1,
-      "anger"
-    ],
-    [
-      "houses",
-      1,
-      "joy"
-    ],
-    [
-      "cleans",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 86,
-    "fear": 43,
+    "trust": 89,
+    "fear": 46,
     "surprise": 12,
     "sadness": 20,
     "disgust": 5,
-    "anger": 71,
-    "anticipation": 33
+    "anger": 73,
+    "anticipation": 34
   }
 }
