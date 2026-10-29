@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:58:10.318Z",
+  "generated_at": "2026-10-29T06:13:12.384Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "trust"
     ],
     [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
       "military",
       5,
       "fear"
@@ -56,11 +51,6 @@
       "crash",
       4,
       "fear"
-    ],
-    [
-      "peace",
-      4,
-      "joy"
     ],
     [
       "ballots",
@@ -89,6 +79,16 @@
     ],
     [
       "slavery",
+      3,
+      "anger"
+    ],
+    [
+      "peace",
+      3,
+      "joy"
+    ],
+    [
+      "iran",
       3,
       "anger"
     ],
@@ -126,6 +126,16 @@
       "unseating",
       2,
       "sadness"
+    ],
+    [
+      "guard",
+      2,
+      "fear"
+    ],
+    [
+      "electric",
+      2,
+      "surprise"
     ],
     [
       "deadly",
@@ -288,12 +298,12 @@
       "joy"
     ],
     [
-      "lose",
+      "soldier",
       2,
       "anger"
     ],
     [
-      "threat",
+      "lose",
       2,
       "anger"
     ],
@@ -306,6 +316,36 @@
       "experts",
       1,
       "trust"
+    ],
+    [
+      "police",
+      1,
+      "fear"
+    ],
+    [
+      "amnesty",
+      1,
+      "joy"
+    ],
+    [
+      "serving",
+      1,
+      "trust"
+    ],
+    [
+      "officers",
+      1,
+      "trust"
+    ],
+    [
+      "shocks",
+      1,
+      "anger"
+    ],
+    [
+      "beatings",
+      1,
+      "anger"
     ],
     [
       "outcry",
@@ -336,54 +376,14 @@
       "choking",
       1,
       "anger"
-    ],
-    [
-      "haze",
-      1,
-      "fear"
-    ],
-    [
-      "provides",
-      1,
-      "trust"
-    ],
-    [
-      "malaise",
-      1,
-      "sadness"
-    ],
-    [
-      "policy",
-      1,
-      "trust"
-    ],
-    [
-      "blunders",
-      1,
-      "disgust"
-    ],
-    [
-      "devastating",
-      1,
-      "anger"
-    ],
-    [
-      "fire",
-      1,
-      "fear"
-    ],
-    [
-      "fleeing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 83,
-    "fear": 45,
-    "surprise": 12,
-    "sadness": 25,
+    "trust": 84,
+    "fear": 48,
+    "surprise": 13,
+    "sadness": 24,
     "disgust": 2,
     "anger": 84,
     "anticipation": 30
