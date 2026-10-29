@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-29T17:19:32.631Z",
+  "generated_at": "2026-10-29T17:34:35.220Z",
   "article_count": 50,
   "top_words": [
     [
       "leader",
-      9,
+      10,
       "trust"
     ],
     [
       "government",
       7,
       "fear"
+    ],
+    [
+      "majority",
+      6,
+      "joy"
     ],
     [
       "crash",
@@ -23,24 +28,34 @@
       "anticipation"
     ],
     [
-      "world",
+      "family",
       5,
+      "joy"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
+    ],
+    [
+      "president",
+      4,
+      "trust"
+    ],
+    [
+      "peace",
+      4,
+      "joy"
+    ],
+    [
+      "world",
+      4,
       "trust"
     ],
     [
       "war",
-      5,
+      4,
       "anger"
-    ],
-    [
-      "majority",
-      5,
-      "joy"
-    ],
-    [
-      "family",
-      5,
-      "joy"
     ],
     [
       "second",
@@ -53,22 +68,17 @@
       "trust"
     ],
     [
+      "lost",
+      3,
+      "sadness"
+    ],
+    [
       "guard",
       3,
       "fear"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "show",
-      3,
-      "trust"
-    ],
-    [
-      "president",
       3,
       "trust"
     ],
@@ -93,19 +103,19 @@
       "trust"
     ],
     [
-      "peace",
-      3,
-      "joy"
-    ],
-    [
       "suggest",
       3,
       "trust"
     ],
     [
-      "guardian",
-      3,
-      "trust"
+      "accused",
+      2,
+      "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "results",
@@ -188,11 +198,6 @@
       "sadness"
     ],
     [
-      "remove",
-      2,
-      "anger"
-    ],
-    [
       "struggling",
       2,
       "anger"
@@ -221,11 +226,6 @@
       "crossing",
       2,
       "anger"
-    ],
-    [
-      "death",
-      2,
-      "sadness"
     ],
     [
       "injured",
@@ -273,11 +273,6 @@
       "anticipation"
     ],
     [
-      "lost",
-      2,
-      "sadness"
-    ],
-    [
       "gain",
       2,
       "joy"
@@ -298,14 +293,69 @@
       "surprise"
     ],
     [
-      "cocaine",
+      "guardian",
       2,
-      "sadness"
+      "trust"
     ],
     [
       "america",
       2,
       "sadness"
+    ],
+    [
+      "ugly",
+      1,
+      "disgust"
+    ],
+    [
+      "tactics",
+      1,
+      "fear"
+    ],
+    [
+      "steal",
+      1,
+      "anger"
+    ],
+    [
+      "shit",
+      1,
+      "anger"
+    ],
+    [
+      "houses",
+      1,
+      "joy"
+    ],
+    [
+      "cleans",
+      1,
+      "joy"
+    ],
+    [
+      "insult",
+      1,
+      "anger"
+    ],
+    [
+      "board",
+      1,
+      "anticipation"
+    ],
+    [
+      "toilet",
+      1,
+      "disgust"
+    ],
+    [
+      "ire",
+      1,
+      "anger"
+    ],
+    [
+      "failure",
+      1,
+      "fear"
     ],
     [
       "accusations",
@@ -326,66 +376,16 @@
       "departs",
       1,
       "sadness"
-    ],
-    [
-      "mind",
-      1,
-      "trust"
-    ],
-    [
-      "launches",
-      1,
-      "anticipation"
-    ],
-    [
-      "criminal",
-      1,
-      "anger"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "laws",
-      1,
-      "trust"
-    ],
-    [
-      "assessment",
-      1,
-      "surprise"
-    ],
-    [
-      "happen",
-      1,
-      "anticipation"
-    ],
-    [
-      "pointless",
-      1,
-      "sadness"
-    ],
-    [
-      "negotiating",
-      1,
-      "trust"
-    ],
-    [
-      "establishing",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 91,
-    "fear": 42,
+    "joy": 32,
+    "trust": 90,
+    "fear": 43,
     "surprise": 14,
-    "sadness": 21,
-    "disgust": 3,
-    "anger": 70,
-    "anticipation": 33
+    "sadness": 20,
+    "disgust": 5,
+    "anger": 71,
+    "anticipation": 34
   }
 }
