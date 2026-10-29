@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:32:51.165Z",
+  "generated_at": "2026-10-29T14:47:53.371Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "fear"
     ],
     [
+      "crash",
+      6,
+      "fear"
+    ],
+    [
       "happened",
       6,
       "anticipation"
-    ],
-    [
-      "crash",
-      5,
-      "fear"
     ],
     [
       "war",
@@ -91,11 +91,6 @@
       "ambassador",
       3,
       "trust"
-    ],
-    [
-      "slavery",
-      3,
-      "anger"
     ],
     [
       "peace",
@@ -288,9 +283,9 @@
       "joy"
     ],
     [
-      "commonwealth",
+      "slavery",
       2,
-      "trust"
+      "anger"
     ],
     [
       "iran",
@@ -311,6 +306,11 @@
       "america",
       2,
       "sadness"
+    ],
+    [
+      "happen",
+      1,
+      "anticipation"
     ],
     [
       "accusations",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 90,
-    "fear": 44,
+    "trust": 88,
+    "fear": 45,
     "surprise": 13,
     "sadness": 21,
     "disgust": 3,
-    "anger": 76,
-    "anticipation": 30
+    "anger": 73,
+    "anticipation": 31
   }
 }
