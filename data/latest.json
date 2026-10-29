@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:45:20.678Z",
+  "generated_at": "2026-10-29T10:00:23.067Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "trust"
     ],
     [
+      "continue",
+      3,
+      "trust"
+    ],
+    [
       "guard",
       3,
       "fear"
@@ -98,11 +103,6 @@
       "joy"
     ],
     [
-      "hope",
-      3,
-      "surprise"
-    ],
-    [
       "suggest",
       3,
       "trust"
@@ -118,19 +118,14 @@
       "joy"
     ],
     [
-      "results",
+      "accused",
       2,
-      "anticipation"
+      "anger"
     ],
     [
-      "count",
+      "police",
       2,
-      "trust"
-    ],
-    [
-      "unseating",
-      2,
-      "sadness"
+      "fear"
     ],
     [
       "mourning",
@@ -141,11 +136,6 @@
       "victims",
       2,
       "anger"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "provide",
@@ -303,6 +293,11 @@
       "anger"
     ],
     [
+      "hope",
+      2,
+      "surprise"
+    ],
+    [
       "cocaine",
       2,
       "sadness"
@@ -328,14 +323,34 @@
       "anger"
     ],
     [
+      "results",
+      1,
+      "anticipation"
+    ],
+    [
+      "ugly",
+      1,
+      "disgust"
+    ],
+    [
+      "stolen",
+      1,
+      "anger"
+    ],
+    [
+      "representing",
+      1,
+      "anticipation"
+    ],
+    [
+      "count",
+      1,
+      "trust"
+    ],
+    [
       "absentee",
       1,
       "sadness"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
     ],
     [
       "emergency",
@@ -361,31 +376,16 @@
       "bank",
       1,
       "trust"
-    ],
-    [
-      "tax",
-      1,
-      "sadness"
-    ],
-    [
-      "vision",
-      1,
-      "anticipation"
-    ],
-    [
-      "police",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 86,
-    "fear": 50,
-    "surprise": 13,
-    "sadness": 26,
-    "disgust": 2,
-    "anger": 79,
+    "trust": 85,
+    "fear": 51,
+    "surprise": 12,
+    "sadness": 25,
+    "disgust": 3,
+    "anger": 81,
     "anticipation": 30
   }
 }
