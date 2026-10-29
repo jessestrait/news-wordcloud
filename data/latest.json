@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T09:30:18.675Z",
+  "generated_at": "2026-10-29T09:45:20.678Z",
   "article_count": 50,
   "top_words": [
-    [
-      "leader",
-      9,
-      "trust"
-    ],
     [
       "government",
       8,
       "fear"
+    ],
+    [
+      "leader",
+      8,
+      "trust"
     ],
     [
       "happened",
@@ -21,6 +21,11 @@
       "war",
       6,
       "anger"
+    ],
+    [
+      "crash",
+      5,
+      "fear"
     ],
     [
       "majority",
@@ -38,11 +43,6 @@
       "trust"
     ],
     [
-      "crash",
-      4,
-      "fear"
-    ],
-    [
       "poll",
       4,
       "trust"
@@ -56,6 +56,11 @@
       "ballots",
       3,
       "trust"
+    ],
+    [
+      "guard",
+      3,
+      "fear"
     ],
     [
       "show",
@@ -128,6 +133,26 @@
       "sadness"
     ],
     [
+      "mourning",
+      2,
+      "sadness"
+    ],
+    [
+      "victims",
+      2,
+      "anger"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
+      "provide",
+      2,
+      "trust"
+    ],
+    [
       "outcry",
       2,
       "anger"
@@ -141,16 +166,6 @@
       "budget",
       2,
       "trust"
-    ],
-    [
-      "bank",
-      2,
-      "trust"
-    ],
-    [
-      "guard",
-      2,
-      "fear"
     ],
     [
       "electric",
@@ -268,22 +283,12 @@
       "joy"
     ],
     [
-      "escalating",
-      2,
-      "anger"
-    ],
-    [
       "freedom",
       2,
       "joy"
     ],
     [
       "court",
-      2,
-      "anger"
-    ],
-    [
-      "forces",
       2,
       "anger"
     ],
@@ -333,12 +338,27 @@
       "trust"
     ],
     [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "relatives",
+      1,
+      "trust"
+    ],
+    [
       "ruthless",
       1,
       "anger"
     ],
     [
       "modest",
+      1,
+      "trust"
+    ],
+    [
+      "bank",
       1,
       "trust"
     ],
@@ -356,36 +376,16 @@
       "police",
       1,
       "fear"
-    ],
-    [
-      "amnesty",
-      1,
-      "joy"
-    ],
-    [
-      "serving",
-      1,
-      "trust"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
-    ],
-    [
-      "shocks",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 85,
-    "fear": 47,
+    "trust": 86,
+    "fear": 50,
     "surprise": 13,
-    "sadness": 25,
+    "sadness": 26,
     "disgust": 2,
-    "anger": 81,
+    "anger": 79,
     "anticipation": 30
   }
 }
