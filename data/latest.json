@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:07:37.503Z",
+  "generated_at": "2026-10-29T23:22:40.075Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "fear"
     ],
     [
+      "majority",
+      6,
+      "joy"
+    ],
+    [
       "crash",
       6,
       "fear"
@@ -21,11 +26,6 @@
       "happened",
       6,
       "anticipation"
-    ],
-    [
-      "majority",
-      6,
-      "joy"
     ],
     [
       "president",
@@ -123,6 +123,21 @@
       "trust"
     ],
     [
+      "accused",
+      2,
+      "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
+      "lost",
+      2,
+      "sadness"
+    ],
+    [
       "conflict",
       2,
       "anger"
@@ -171,21 +186,6 @@
       "victory",
       2,
       "joy"
-    ],
-    [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
-      "lost",
-      2,
-      "sadness"
     ],
     [
       "peace",
@@ -318,6 +318,11 @@
       "anger"
     ],
     [
+      "steal",
+      1,
+      "anger"
+    ],
+    [
       "chance",
       1,
       "surprise"
@@ -371,11 +376,6 @@
       "ridiculous",
       1,
       "anger"
-    ],
-    [
-      "dangerous",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
