@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:01:06.157Z",
+  "generated_at": "2026-10-29T11:16:08.825Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,16 +53,6 @@
       "anger"
     ],
     [
-      "ballots",
-      3,
-      "trust"
-    ],
-    [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "continue",
       3,
       "trust"
@@ -71,6 +61,16 @@
       "guard",
       3,
       "fear"
+    ],
+    [
+      "ballots",
+      3,
+      "trust"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "show",
@@ -118,7 +118,17 @@
       "fear"
     ],
     [
-      "bank",
+      "mourning",
+      2,
+      "sadness"
+    ],
+    [
+      "victims",
+      2,
+      "anger"
+    ],
+    [
+      "provide",
       2,
       "trust"
     ],
@@ -133,17 +143,7 @@
       "fear"
     ],
     [
-      "mourning",
-      2,
-      "sadness"
-    ],
-    [
-      "victims",
-      2,
-      "anger"
-    ],
-    [
-      "provide",
+      "bank",
       2,
       "trust"
     ],
@@ -318,19 +318,14 @@
       "anger"
     ],
     [
-      "departure",
-      1,
-      "sadness"
-    ],
-    [
-      "struggles",
-      1,
-      "anger"
-    ],
-    [
-      "inflation",
+      "emergency",
       1,
       "fear"
+    ],
+    [
+      "relatives",
+      1,
+      "trust"
     ],
     [
       "results",
@@ -363,17 +358,22 @@
       "sadness"
     ],
     [
-      "ideas",
+      "departure",
       1,
-      "trust"
+      "sadness"
     ],
     [
-      "emergency",
+      "struggles",
+      1,
+      "anger"
+    ],
+    [
+      "inflation",
       1,
       "fear"
     ],
     [
-      "relatives",
+      "ideas",
       1,
       "trust"
     ]
