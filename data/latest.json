@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:46:32.104Z",
+  "generated_at": "2026-10-29T12:01:34.717Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "joy"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "world",
       4,
       "trust"
@@ -50,6 +55,11 @@
     [
       "war",
       4,
+      "anger"
+    ],
+    [
+      "vote",
+      3,
       "anger"
     ],
     [
@@ -74,11 +84,6 @@
     ],
     [
       "show",
-      3,
-      "trust"
-    ],
-    [
-      "president",
       3,
       "trust"
     ],
@@ -115,16 +120,6 @@
     [
       "military",
       3,
-      "fear"
-    ],
-    [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
-      "police",
-      2,
       "fear"
     ],
     [
@@ -223,11 +218,6 @@
       "fear"
     ],
     [
-      "votes",
-      2,
-      "anger"
-    ],
-    [
       "surged",
       2,
       "surprise"
@@ -323,19 +313,14 @@
       "anticipation"
     ],
     [
-      "ugly",
+      "warns",
+      1,
+      "fear"
+    ],
+    [
+      "tarnishing",
       1,
       "disgust"
-    ],
-    [
-      "representing",
-      1,
-      "anticipation"
-    ],
-    [
-      "stolen",
-      1,
-      "anger"
     ],
     [
       "count",
@@ -376,16 +361,31 @@
       "ideas",
       1,
       "trust"
+    ],
+    [
+      "ruthless",
+      1,
+      "anger"
+    ],
+    [
+      "modest",
+      1,
+      "trust"
+    ],
+    [
+      "tax",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 88,
+    "trust": 89,
     "fear": 47,
     "surprise": 11,
     "sadness": 24,
     "disgust": 3,
-    "anger": 77,
-    "anticipation": 30
+    "anger": 76,
+    "anticipation": 29
   }
 }
