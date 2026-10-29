@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:48:11.112Z",
+  "generated_at": "2026-10-29T15:03:13.340Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "government",
-      8,
+      7,
       "fear"
     ],
     [
@@ -121,6 +121,11 @@
       "opposition",
       2,
       "anger"
+    ],
+    [
+      "investigation",
+      2,
+      "anticipation"
     ],
     [
       "mourning",
@@ -268,17 +273,7 @@
       "sadness"
     ],
     [
-      "opponents",
-      2,
-      "anger"
-    ],
-    [
       "gain",
-      2,
-      "joy"
-    ],
-    [
-      "freedom",
       2,
       "joy"
     ],
@@ -308,11 +303,6 @@
       "sadness"
     ],
     [
-      "happen",
-      1,
-      "anticipation"
-    ],
-    [
       "accusations",
       1,
       "anger"
@@ -326,6 +316,36 @@
       "dangerous",
       1,
       "fear"
+    ],
+    [
+      "launches",
+      1,
+      "anticipation"
+    ],
+    [
+      "criminal",
+      1,
+      "anger"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "laws",
+      1,
+      "trust"
+    ],
+    [
+      "assessment",
+      1,
+      "surprise"
+    ],
+    [
+      "happen",
+      1,
+      "anticipation"
     ],
     [
       "pointless",
@@ -356,36 +376,16 @@
       "relatives",
       1,
       "trust"
-    ],
-    [
-      "departure",
-      1,
-      "sadness"
-    ],
-    [
-      "struggles",
-      1,
-      "anger"
-    ],
-    [
-      "inflation",
-      1,
-      "fear"
-    ],
-    [
-      "ideas",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 88,
-    "fear": 45,
-    "surprise": 13,
+    "joy": 28,
+    "trust": 89,
+    "fear": 43,
+    "surprise": 14,
     "sadness": 21,
     "disgust": 3,
-    "anger": 73,
-    "anticipation": 31
+    "anger": 71,
+    "anticipation": 33
   }
 }
