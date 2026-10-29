@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:19:00.958Z",
+  "generated_at": "2026-10-29T16:34:03.783Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,16 +108,6 @@
       "trust"
     ],
     [
-      "bank",
-      2,
-      "trust"
-    ],
-    [
-      "freedom",
-      2,
-      "joy"
-    ],
-    [
       "results",
       2,
       "anticipation"
@@ -131,6 +121,16 @@
       "opposition",
       2,
       "anger"
+    ],
+    [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
+      "freedom",
+      2,
+      "joy"
     ],
     [
       "investigation",
@@ -308,16 +308,6 @@
       "sadness"
     ],
     [
-      "departs",
-      1,
-      "sadness"
-    ],
-    [
-      "mind",
-      1,
-      "trust"
-    ],
-    [
       "accusations",
       1,
       "anger"
@@ -331,6 +321,16 @@
       "dangerous",
       1,
       "fear"
+    ],
+    [
+      "departs",
+      1,
+      "sadness"
+    ],
+    [
+      "mind",
+      1,
+      "trust"
     ],
     [
       "launches",
