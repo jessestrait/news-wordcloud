@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:28:24.370Z",
+  "generated_at": "2026-10-30T10:43:26.479Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,6 +51,16 @@
       "family",
       4,
       "joy"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
+    ],
+    [
+      "injured",
+      3,
+      "fear"
     ],
     [
       "top",
@@ -106,11 +116,6 @@
       "don",
       3,
       "trust"
-    ],
-    [
-      "victims",
-      2,
-      "anger"
     ],
     [
       "food",
@@ -176,11 +181,6 @@
       "letter",
       2,
       "anticipation"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "bereaved",
@@ -256,11 +256,6 @@
       "crossing",
       2,
       "anger"
-    ],
-    [
-      "injured",
-      2,
-      "fear"
     ],
     [
       "collision",
@@ -376,16 +371,21 @@
       "defend",
       1,
       "fear"
+    ],
+    [
+      "denounce",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
     "trust": 89,
-    "fear": 53,
+    "fear": 55,
     "surprise": 12,
     "sadness": 15,
     "disgust": 4,
-    "anger": 87,
+    "anger": 86,
     "anticipation": 33
   }
 }
