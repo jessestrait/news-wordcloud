@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:46:12.415Z",
+  "generated_at": "2026-10-30T16:01:14.650Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,24 +13,19 @@
       "fear"
     ],
     [
+      "happened",
+      6,
+      "anticipation"
+    ],
+    [
       "president",
       6,
       "trust"
     ],
     [
-      "majority",
-      6,
-      "joy"
-    ],
-    [
       "world",
       5,
       "trust"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
     ],
     [
       "killed",
@@ -53,9 +48,9 @@
       "anger"
     ],
     [
-      "government",
+      "majority",
       4,
-      "fear"
+      "joy"
     ],
     [
       "official",
@@ -66,6 +61,11 @@
       "trump",
       4,
       "anger"
+    ],
+    [
+      "authorities",
+      3,
+      "trust"
     ],
     [
       "injured",
@@ -81,6 +81,11 @@
       "letter",
       3,
       "anticipation"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "top",
@@ -123,6 +128,11 @@
       "joy"
     ],
     [
+      "closure",
+      2,
+      "sadness"
+    ],
+    [
       "public",
       2,
       "anticipation"
@@ -131,11 +141,6 @@
       "iran",
       2,
       "anger"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
     ],
     [
       "justice",
@@ -193,11 +198,6 @@
       "anticipation"
     ],
     [
-      "lost",
-      2,
-      "sadness"
-    ],
-    [
       "bereaved",
       2,
       "sadness"
@@ -253,11 +253,6 @@
       "trust"
     ],
     [
-      "counted",
-      2,
-      "trust"
-    ],
-    [
       "collision",
       2,
       "anger"
@@ -266,11 +261,6 @@
       "ambassador",
       2,
       "trust"
-    ],
-    [
-      "votes",
-      2,
-      "anger"
     ],
     [
       "surged",
@@ -288,9 +278,14 @@
       "anticipation"
     ],
     [
-      "gain",
-      2,
-      "joy"
+      "crushed",
+      1,
+      "anger"
+    ],
+    [
+      "intolerable",
+      1,
+      "anger"
     ],
     [
       "confirmed",
@@ -376,16 +371,21 @@
       "american",
       1,
       "sadness"
+    ],
+    [
+      "systems",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 25,
     "trust": 91,
-    "fear": 54,
+    "fear": 53,
     "surprise": 14,
     "sadness": 19,
     "disgust": 7,
     "anger": 83,
-    "anticipation": 34
+    "anticipation": 35
   }
 }
