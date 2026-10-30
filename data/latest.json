@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-30T05:56:11.524Z",
+  "generated_at": "2026-10-30T06:11:13.895Z",
   "article_count": 50,
   "top_words": [
-    [
-      "leader",
-      7,
-      "trust"
-    ],
     [
       "government",
       7,
       "fear"
+    ],
+    [
+      "leader",
+      7,
+      "trust"
     ],
     [
       "majority",
@@ -58,6 +58,11 @@
       "joy"
     ],
     [
+      "poll",
+      3,
+      "trust"
+    ],
+    [
       "top",
       3,
       "trust"
@@ -99,16 +104,6 @@
     ],
     [
       "don",
-      3,
-      "trust"
-    ],
-    [
-      "poll",
-      3,
-      "trust"
-    ],
-    [
-      "suggest",
       3,
       "trust"
     ],
@@ -263,6 +258,11 @@
       "trust"
     ],
     [
+      "suggests",
+      2,
+      "trust"
+    ],
+    [
       "votes",
       2,
       "anger"
@@ -308,6 +308,31 @@
       "anger"
     ],
     [
+      "battle",
+      1,
+      "anger"
+    ],
+    [
+      "lines",
+      1,
+      "fear"
+    ],
+    [
+      "disaster",
+      1,
+      "anger"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "defend",
+      1,
+      "fear"
+    ],
+    [
       "denounce",
       1,
       "anger"
@@ -351,41 +376,16 @@
       "closures",
       1,
       "sadness"
-    ],
-    [
-      "row",
-      1,
-      "anger"
-    ],
-    [
-      "blast",
-      1,
-      "anger"
-    ],
-    [
-      "threat",
-      1,
-      "anger"
-    ],
-    [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "ambitions",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 89,
-    "fear": 47,
+    "trust": 88,
+    "fear": 50,
     "surprise": 14,
     "sadness": 16,
     "disgust": 4,
-    "anger": 80,
+    "anger": 82,
     "anticipation": 34
   }
 }
