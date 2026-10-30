@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:45:28.397Z",
+  "generated_at": "2026-10-30T15:00:31.184Z",
   "article_count": 50,
   "top_words": [
     [
@@ -293,6 +293,16 @@
       "joy"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
       "anger",
       1,
       "anger"
@@ -306,16 +316,6 @@
       "housing",
       1,
       "joy"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
     ],
     [
       "trust",
