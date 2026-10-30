@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:55:28.883Z",
+  "generated_at": "2026-10-30T05:10:30.687Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,11 @@
       "trust"
     ],
     [
+      "war",
+      4,
+      "anger"
+    ],
+    [
       "trump",
       4,
       "anger"
@@ -51,6 +56,11 @@
       "family",
       4,
       "joy"
+    ],
+    [
+      "top",
+      3,
+      "trust"
     ],
     [
       "iran",
@@ -83,22 +93,12 @@
       "trust"
     ],
     [
-      "war",
-      3,
-      "anger"
-    ],
-    [
       "violent",
       3,
       "anger"
     ],
     [
       "don",
-      3,
-      "trust"
-    ],
-    [
-      "second",
       3,
       "trust"
     ],
@@ -113,14 +113,14 @@
       "trust"
     ],
     [
+      "accusations",
+      2,
+      "anger"
+    ],
+    [
       "purges",
       2,
       "fear"
-    ],
-    [
-      "top",
-      2,
-      "trust"
     ],
     [
       "loss",
@@ -186,11 +186,6 @@
       "opposition",
       2,
       "anger"
-    ],
-    [
-      "victory",
-      2,
-      "joy"
     ],
     [
       "peace",
@@ -283,6 +278,11 @@
       "anticipation"
     ],
     [
+      "second",
+      2,
+      "trust"
+    ],
+    [
       "passengers",
       2,
       "anticipation"
@@ -306,6 +306,16 @@
       "slavery",
       2,
       "anger"
+    ],
+    [
+      "denounce",
+      1,
+      "anger"
+    ],
+    [
+      "supporting",
+      1,
+      "trust"
     ],
     [
       "expels",
@@ -366,26 +376,16 @@
       "ambitions",
       1,
       "joy"
-    ],
-    [
-      "steal",
-      1,
-      "anger"
-    ],
-    [
-      "chance",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 26,
     "trust": 89,
     "fear": 47,
     "surprise": 14,
     "sadness": 16,
     "disgust": 4,
-    "anger": 77,
+    "anger": 80,
     "anticipation": 34
   }
 }
