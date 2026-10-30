@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:38:54.124Z",
+  "generated_at": "2026-10-30T01:53:56.533Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "anticipation"
     ],
     [
+      "people",
+      5,
+      "trust"
+    ],
+    [
       "president",
       5,
       "trust"
@@ -43,17 +48,7 @@
       "joy"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "trump",
-      4,
-      "anger"
-    ],
-    [
-      "war",
       4,
       "anger"
     ],
@@ -61,11 +56,6 @@
       "poll",
       4,
       "trust"
-    ],
-    [
-      "letter",
-      3,
-      "anticipation"
     ],
     [
       "iran",
@@ -98,17 +88,17 @@
       "trust"
     ],
     [
+      "war",
+      3,
+      "anger"
+    ],
+    [
       "violent",
       3,
       "anger"
     ],
     [
       "don",
-      3,
-      "trust"
-    ],
-    [
-      "ambassador",
       3,
       "trust"
     ],
@@ -121,6 +111,11 @@
       "suggest",
       3,
       "trust"
+    ],
+    [
+      "loss",
+      2,
+      "anger"
     ],
     [
       "accused",
@@ -136,6 +131,11 @@
       "lost",
       2,
       "sadness"
+    ],
+    [
+      "letter",
+      2,
+      "anticipation"
     ],
     [
       "conflict",
@@ -203,11 +203,6 @@
       "joy"
     ],
     [
-      "investigation",
-      2,
-      "anticipation"
-    ],
-    [
       "outcry",
       2,
       "anger"
@@ -268,6 +263,11 @@
       "anger"
     ],
     [
+      "ambassador",
+      2,
+      "trust"
+    ],
+    [
       "loom",
       2,
       "fear"
@@ -313,6 +313,26 @@
       "anger"
     ],
     [
+      "farms",
+      1,
+      "anticipation"
+    ],
+    [
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "shortages",
+      1,
+      "anger"
+    ],
+    [
+      "closures",
+      1,
+      "sadness"
+    ],
+    [
       "row",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "abandoned",
       1,
       "anger"
-    ],
-    [
-      "diplomacy",
-      1,
-      "trust"
-    ],
-    [
-      "blaze",
-      1,
-      "anger"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
-    ],
-    [
-      "served",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 90,
+    "joy": 28,
+    "trust": 89,
     "fear": 46,
     "surprise": 13,
     "sadness": 17,
     "disgust": 4,
     "anger": 76,
-    "anticipation": 35
+    "anticipation": 34
   }
 }
