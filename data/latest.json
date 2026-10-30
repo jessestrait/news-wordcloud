@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:27:44.336Z",
+  "generated_at": "2026-10-30T09:42:46.708Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "fear"
     ],
     [
+      "president",
+      5,
+      "trust"
+    ],
+    [
       "people",
       5,
       "trust"
@@ -33,9 +38,9 @@
       "anticipation"
     ],
     [
-      "president",
+      "deadly",
       4,
-      "trust"
+      "anger"
     ],
     [
       "leader",
@@ -53,11 +58,6 @@
       "joy"
     ],
     [
-      "deadly",
-      3,
-      "anger"
-    ],
-    [
       "top",
       3,
       "trust"
@@ -68,7 +68,7 @@
       "anger"
     ],
     [
-      "iran",
+      "rail",
       3,
       "anger"
     ],
@@ -113,14 +113,14 @@
       "trust"
     ],
     [
-      "food",
-      2,
-      "joy"
-    ],
-    [
       "investigation",
       2,
       "anticipation"
+    ],
+    [
+      "food",
+      2,
+      "joy"
     ],
     [
       "opposition",
@@ -146,6 +146,16 @@
       "purges",
       2,
       "fear"
+    ],
+    [
+      "outrage",
+      2,
+      "anger"
+    ],
+    [
+      "devastating",
+      2,
+      "anger"
     ],
     [
       "loss",
@@ -196,11 +206,6 @@
       "police",
       2,
       "fear"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "bank",
@@ -298,11 +303,6 @@
       "anticipation"
     ],
     [
-      "rail",
-      2,
-      "anger"
-    ],
-    [
       "gain",
       2,
       "joy"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 84,
+    "joy": 27,
+    "trust": 86,
     "fear": 52,
-    "surprise": 13,
-    "sadness": 16,
+    "surprise": 12,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 83,
+    "anger": 87,
     "anticipation": 34
   }
 }
