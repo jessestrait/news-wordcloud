@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:44:33.160Z",
+  "generated_at": "2026-10-30T12:59:35.455Z",
   "article_count": 50,
   "top_words": [
     [
@@ -303,19 +303,9 @@
       "fear"
     ],
     [
-      "reliance",
-      1,
-      "trust"
-    ],
-    [
       "american",
       1,
       "sadness"
-    ],
-    [
-      "dependence",
-      1,
-      "fear"
     ],
     [
       "systems",
@@ -376,12 +366,22 @@
       "age",
       1,
       "anticipation"
+    ],
+    [
+      "governor",
+      1,
+      "trust"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 89,
-    "fear": 52,
+    "trust": 88,
+    "fear": 51,
     "surprise": 13,
     "sadness": 16,
     "disgust": 5,
