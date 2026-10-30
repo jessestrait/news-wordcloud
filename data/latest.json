@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-30T06:41:34.196Z",
+  "generated_at": "2026-10-30T06:56:36.487Z",
   "article_count": 50,
   "top_words": [
+    [
+      "majority",
+      7,
+      "joy"
+    ],
     [
       "government",
       7,
       "fear"
-    ],
-    [
-      "leader",
-      7,
-      "trust"
-    ],
-    [
-      "majority",
-      6,
-      "joy"
     ],
     [
       "crash",
@@ -38,6 +33,11 @@
       "trust"
     ],
     [
+      "leader",
+      5,
+      "trust"
+    ],
+    [
       "world",
       5,
       "trust"
@@ -56,11 +56,6 @@
       "family",
       4,
       "joy"
-    ],
-    [
-      "poll",
-      3,
-      "trust"
     ],
     [
       "top",
@@ -105,6 +100,21 @@
     [
       "don",
       3,
+      "trust"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "change",
+      2,
+      "fear"
+    ],
+    [
+      "poll",
+      2,
       "trust"
     ],
     [
@@ -176,11 +186,6 @@
       "police",
       2,
       "fear"
-    ],
-    [
-      "opposition",
-      2,
-      "anger"
     ],
     [
       "peace",
@@ -308,6 +313,11 @@
       "anger"
     ],
     [
+      "govern",
+      1,
+      "trust"
+    ],
+    [
       "battle",
       1,
       "anger"
@@ -366,23 +376,13 @@
       "food",
       1,
       "joy"
-    ],
-    [
-      "shortages",
-      1,
-      "anger"
-    ],
-    [
-      "closures",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 88,
-    "fear": 50,
-    "surprise": 14,
+    "joy": 27,
+    "trust": 85,
+    "fear": 51,
+    "surprise": 13,
     "sadness": 16,
     "disgust": 4,
     "anger": 82,
