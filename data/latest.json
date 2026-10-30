@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-29T23:53:01.946Z",
+  "generated_at": "2026-10-30T00:08:04.320Z",
   "article_count": 50,
   "top_words": [
     [
       "leader",
-      8,
+      7,
       "trust"
     ],
     [
@@ -238,11 +238,6 @@
       "anger"
     ],
     [
-      "truce",
-      2,
-      "joy"
-    ],
-    [
       "present",
       2,
       "surprise"
@@ -318,6 +313,31 @@
       "anger"
     ],
     [
+      "row",
+      1,
+      "anger"
+    ],
+    [
+      "blast",
+      1,
+      "anger"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
+      "military",
+      1,
+      "fear"
+    ],
+    [
+      "ambitions",
+      1,
+      "joy"
+    ],
+    [
       "steal",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "served",
       1,
       "trust"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "relatives",
-      1,
-      "trust"
-    ],
-    [
-      "accusations",
-      1,
-      "anger"
-    ],
-    [
-      "ridiculous",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 92,
-    "fear": 45,
+    "trust": 90,
+    "fear": 46,
     "surprise": 13,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 4,
-    "anger": 73,
+    "anger": 76,
     "anticipation": 35
   }
 }
