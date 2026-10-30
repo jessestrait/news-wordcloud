@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-30T10:58:28.513Z",
+  "generated_at": "2026-10-30T11:13:30.699Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
@@ -16,11 +16,6 @@
       "majority",
       7,
       "joy"
-    ],
-    [
-      "government",
-      6,
-      "fear"
     ],
     [
       "president",
@@ -36,6 +31,11 @@
       "happened",
       5,
       "anticipation"
+    ],
+    [
+      "government",
+      4,
+      "fear"
     ],
     [
       "official",
@@ -116,6 +116,11 @@
       "family",
       3,
       "joy"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
     ],
     [
       "justice",
@@ -233,19 +238,9 @@
       "trust"
     ],
     [
-      "budget",
-      2,
-      "trust"
-    ],
-    [
       "game",
       2,
       "anticipation"
-    ],
-    [
-      "struggling",
-      2,
-      "anger"
     ],
     [
       "present",
@@ -308,6 +303,36 @@
       "anger"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
+      "festival",
+      1,
+      "surprise"
+    ],
+    [
+      "growing",
+      1,
+      "joy"
+    ],
+    [
+      "intolerance",
+      1,
+      "anger"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
+    ],
+    [
       "supporters",
       1,
       "joy"
@@ -333,16 +358,6 @@
       "disgust"
     ],
     [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
-    ],
-    [
       "stone",
       1,
       "anger"
@@ -361,31 +376,16 @@
       "supplies",
       1,
       "fear"
-    ],
-    [
-      "massacres",
-      1,
-      "anger"
-    ],
-    [
-      "govern",
-      1,
-      "trust"
-    ],
-    [
-      "battle",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 92,
-    "fear": 53,
-    "surprise": 12,
+    "fear": 51,
+    "surprise": 13,
     "sadness": 15,
     "disgust": 5,
     "anger": 85,
-    "anticipation": 32
+    "anticipation": 31
   }
 }
