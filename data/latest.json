@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-10-30T09:58:04.461Z",
+  "generated_at": "2026-10-30T10:13:06.740Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      8,
+      "trust"
+    ],
     [
       "crash",
       7,
@@ -23,11 +28,6 @@
       "trust"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "world",
       5,
       "trust"
@@ -36,11 +36,6 @@
       "happened",
       5,
       "anticipation"
-    ],
-    [
-      "deadly",
-      4,
-      "anger"
     ],
     [
       "leader",
@@ -73,6 +68,11 @@
       "anger"
     ],
     [
+      "deadly",
+      3,
+      "anger"
+    ],
+    [
       "official",
       3,
       "trust"
@@ -81,11 +81,6 @@
       "fire",
       3,
       "fear"
-    ],
-    [
-      "continue",
-      3,
-      "trust"
     ],
     [
       "guard",
@@ -113,9 +108,9 @@
       "trust"
     ],
     [
-      "investigation",
+      "victims",
       2,
-      "anticipation"
+      "anger"
     ],
     [
       "food",
@@ -196,6 +191,11 @@
       "mourning",
       2,
       "sadness"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
     ],
     [
       "results",
@@ -313,6 +313,16 @@
       "anger"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
       "stone",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "defend",
       1,
       "fear"
-    ],
-    [
-      "denounce",
-      1,
-      "anger"
-    ],
-    [
-      "supporting",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 86,
-    "fear": 52,
+    "trust": 89,
+    "fear": 53,
     "surprise": 12,
     "sadness": 15,
     "disgust": 4,
     "anger": 87,
-    "anticipation": 34
+    "anticipation": 33
   }
 }
