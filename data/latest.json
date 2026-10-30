@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-30T14:30:25.748Z",
+  "generated_at": "2026-10-30T14:45:28.397Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      9,
+      "trust"
+    ],
     [
       "crash",
       9,
       "fear"
-    ],
-    [
-      "people",
-      8,
-      "trust"
     ],
     [
       "president",
@@ -21,11 +21,6 @@
       "majority",
       6,
       "joy"
-    ],
-    [
-      "government",
-      5,
-      "fear"
     ],
     [
       "world",
@@ -56,6 +51,11 @@
       "war",
       4,
       "anger"
+    ],
+    [
+      "government",
+      4,
+      "fear"
     ],
     [
       "official",
@@ -123,9 +123,9 @@
       "joy"
     ],
     [
-      "trust",
+      "public",
       2,
-      "trust"
+      "anticipation"
     ],
     [
       "iran",
@@ -228,11 +228,6 @@
       "trust"
     ],
     [
-      "freedom",
-      2,
-      "joy"
-    ],
-    [
       "outcry",
       2,
       "anger"
@@ -298,6 +293,21 @@
       "joy"
     ],
     [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "poor",
+      1,
+      "sadness"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
+    ],
+    [
       "confirmed",
       1,
       "trust"
@@ -308,9 +318,24 @@
       "fear"
     ],
     [
+      "trust",
+      1,
+      "trust"
+    ],
+    [
       "broken",
       1,
       "anger"
+    ],
+    [
+      "vows",
+      1,
+      "joy"
+    ],
+    [
+      "confidence",
+      1,
+      "fear"
     ],
     [
       "elect",
@@ -351,41 +376,16 @@
       "american",
       1,
       "sadness"
-    ],
-    [
-      "systems",
-      1,
-      "trust"
-    ],
-    [
-      "festival",
-      1,
-      "surprise"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
-      "intolerance",
-      1,
-      "anger"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 92,
-    "fear": 55,
+    "joy": 29,
+    "trust": 91,
+    "fear": 54,
     "surprise": 14,
-    "sadness": 18,
+    "sadness": 19,
     "disgust": 7,
-    "anger": 85,
-    "anticipation": 32
+    "anger": 83,
+    "anticipation": 34
   }
 }
