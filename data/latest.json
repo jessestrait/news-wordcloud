@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:59:09.319Z",
+  "generated_at": "2026-10-30T12:14:11.884Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "majority",
-      7,
+      6,
       "joy"
     ],
     [
@@ -33,17 +33,17 @@
       "anticipation"
     ],
     [
+      "war",
+      4,
+      "anger"
+    ],
+    [
       "government",
       4,
       "fear"
     ],
     [
       "official",
-      4,
-      "trust"
-    ],
-    [
-      "leader",
       4,
       "trust"
     ],
@@ -68,11 +68,6 @@
       "trust"
     ],
     [
-      "war",
-      3,
-      "anger"
-    ],
-    [
       "rail",
       3,
       "anger"
@@ -81,6 +76,11 @@
       "deadly",
       3,
       "anger"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "fire",
@@ -118,6 +118,11 @@
       "joy"
     ],
     [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
       "authorities",
       2,
       "trust"
@@ -146,11 +151,6 @@
       "change",
       2,
       "fear"
-    ],
-    [
-      "poll",
-      2,
-      "trust"
     ],
     [
       "accusations",
@@ -263,11 +263,6 @@
       "trust"
     ],
     [
-      "suggests",
-      2,
-      "trust"
-    ],
-    [
       "votes",
       2,
       "anger"
@@ -298,11 +293,6 @@
       "joy"
     ],
     [
-      "slavery",
-      2,
-      "anger"
-    ],
-    [
       "confirmed",
       1,
       "trust"
@@ -311,6 +301,26 @@
       "missing",
       1,
       "fear"
+    ],
+    [
+      "reliance",
+      1,
+      "trust"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
+    ],
+    [
+      "dependence",
+      1,
+      "fear"
+    ],
+    [
+      "systems",
+      1,
+      "trust"
     ],
     [
       "festival",
@@ -366,24 +376,14 @@
       "age",
       1,
       "anticipation"
-    ],
-    [
-      "governor",
-      1,
-      "trust"
-    ],
-    [
-      "supplies",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 92,
-    "fear": 51,
+    "joy": 28,
+    "trust": 89,
+    "fear": 52,
     "surprise": 13,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 5,
     "anger": 85,
     "anticipation": 31
