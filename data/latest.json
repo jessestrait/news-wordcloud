@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:48:43.385Z",
+  "generated_at": "2026-10-30T19:03:45.631Z",
   "article_count": 50,
   "top_words": [
     [
@@ -20,6 +20,11 @@
     [
       "president",
       6,
+      "trust"
+    ],
+    [
+      "world",
+      5,
       "trust"
     ],
     [
@@ -44,11 +49,6 @@
     ],
     [
       "official",
-      4,
-      "trust"
-    ],
-    [
-      "world",
       4,
       "trust"
     ],
@@ -128,9 +128,9 @@
       "joy"
     ],
     [
-      "obituary",
+      "alliance",
       2,
-      "sadness"
+      "trust"
     ],
     [
       "humanitarian",
@@ -273,6 +273,21 @@
       "anticipation"
     ],
     [
+      "partnership",
+      1,
+      "trust"
+    ],
+    [
+      "storms",
+      1,
+      "anger"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
+    ],
+    [
       "author",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "vows",
       1,
       "joy"
-    ],
-    [
-      "confidence",
-      1,
-      "fear"
-    ],
-    [
-      "elect",
-      1,
-      "trust"
-    ],
-    [
-      "mockery",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 92,
+    "joy": 24,
+    "trust": 94,
     "fear": 47,
-    "surprise": 13,
-    "sadness": 20,
+    "surprise": 12,
+    "sadness": 19,
     "disgust": 7,
-    "anger": 83,
+    "anger": 84,
     "anticipation": 32
   }
 }
