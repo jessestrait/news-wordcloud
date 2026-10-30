@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:15:23.327Z",
+  "generated_at": "2026-10-30T14:30:25.748Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "anticipation"
     ],
     [
+      "killed",
+      4,
+      "fear"
+    ],
+    [
       "rail",
       4,
       "anger"
@@ -46,11 +51,6 @@
       "deadly",
       4,
       "anger"
-    ],
-    [
-      "killed",
-      4,
-      "fear"
     ],
     [
       "war",
@@ -68,6 +68,11 @@
       "anger"
     ],
     [
+      "injured",
+      3,
+      "fear"
+    ],
+    [
       "second",
       3,
       "trust"
@@ -76,11 +81,6 @@
       "letter",
       3,
       "anticipation"
-    ],
-    [
-      "injured",
-      3,
-      "fear"
     ],
     [
       "top",
@@ -298,6 +298,16 @@
       "joy"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
       "broken",
       1,
       "anger"
@@ -336,16 +346,6 @@
       "bizarre",
       1,
       "surprise"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
     ],
     [
       "american",
