@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:32:04.586Z",
+  "generated_at": "2026-10-30T17:47:07.702Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "crash",
-      9,
+      7,
       "fear"
     ],
     [
@@ -25,16 +25,6 @@
     [
       "trump",
       5,
-      "anger"
-    ],
-    [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
-      "rail",
-      4,
       "anger"
     ],
     [
@@ -78,14 +68,14 @@
       "trust"
     ],
     [
-      "injured",
+      "killed",
       3,
       "fear"
     ],
     [
-      "second",
+      "injured",
       3,
-      "trust"
+      "fear"
     ],
     [
       "letter",
@@ -138,6 +128,11 @@
       "joy"
     ],
     [
+      "obituary",
+      2,
+      "sadness"
+    ],
+    [
       "humanitarian",
       2,
       "surprise"
@@ -161,6 +156,16 @@
       "public",
       2,
       "anticipation"
+    ],
+    [
+      "rail",
+      2,
+      "anger"
+    ],
+    [
+      "second",
+      2,
+      "trust"
     ],
     [
       "iran",
@@ -213,11 +218,6 @@
       "sadness"
     ],
     [
-      "mourning",
-      2,
-      "sadness"
-    ],
-    [
       "continue",
       2,
       "trust"
@@ -263,24 +263,39 @@
       "trust"
     ],
     [
-      "collision",
-      2,
-      "anger"
-    ],
-    [
       "ambassador",
       2,
       "trust"
     ],
     [
-      "surged",
-      2,
-      "surprise"
-    ],
-    [
       "plans",
       2,
       "anticipation"
+    ],
+    [
+      "author",
+      1,
+      "trust"
+    ],
+    [
+      "career",
+      1,
+      "anticipation"
+    ],
+    [
+      "isolated",
+      1,
+      "fear"
+    ],
+    [
+      "theft",
+      1,
+      "anger"
+    ],
+    [
+      "income",
+      1,
+      "sadness"
     ],
     [
       "pontiff",
@@ -361,31 +376,16 @@
       "mockery",
       1,
       "disgust"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "ridicule",
-      1,
-      "anger"
-    ],
-    [
-      "defeated",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 92,
-    "fear": 50,
-    "surprise": 14,
-    "sadness": 19,
+    "fear": 47,
+    "surprise": 13,
+    "sadness": 20,
     "disgust": 7,
-    "anger": 86,
-    "anticipation": 33
+    "anger": 83,
+    "anticipation": 32
   }
 }
