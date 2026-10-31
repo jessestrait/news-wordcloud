@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T18:30:44.606Z",
+  "generated_at": "2026-10-31T18:45:47.314Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,14 +38,14 @@
       "anger"
     ],
     [
-      "fire",
-      3,
-      "fear"
-    ],
-    [
       "result",
       3,
       "anticipation"
+    ],
+    [
+      "fire",
+      3,
+      "fear"
     ],
     [
       "media",
@@ -283,21 +283,6 @@
       "anticipation"
     ],
     [
-      "clash",
-      1,
-      "anger"
-    ],
-    [
-      "peaceful",
-      1,
-      "surprise"
-    ],
-    [
-      "falls",
-      1,
-      "sadness"
-    ],
-    [
       "warns",
       1,
       "fear"
@@ -321,6 +306,21 @@
       "covering",
       1,
       "trust"
+    ],
+    [
+      "clash",
+      1,
+      "anger"
+    ],
+    [
+      "peaceful",
+      1,
+      "surprise"
+    ],
+    [
+      "falls",
+      1,
+      "sadness"
     ],
     [
       "success",
