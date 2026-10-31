@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-31T13:28:00.508Z",
+  "generated_at": "2026-10-31T13:43:02.992Z",
   "article_count": 50,
   "top_words": [
     [
-      "people",
+      "president",
       8,
       "trust"
     ],
     [
-      "president",
-      7,
+      "people",
+      8,
       "trust"
     ],
     [
@@ -43,9 +43,9 @@
       "anger"
     ],
     [
-      "war",
-      4,
-      "anger"
+      "media",
+      3,
+      "disgust"
     ],
     [
       "victory",
@@ -86,6 +86,11 @@
       "letter",
       3,
       "anticipation"
+    ],
+    [
+      "war",
+      3,
+      "anger"
     ],
     [
       "top",
@@ -181,11 +186,6 @@
       "alliance",
       2,
       "trust"
-    ],
-    [
-      "humanitarian",
-      2,
-      "surprise"
     ],
     [
       "shortages",
@@ -313,6 +313,16 @@
       "fear"
     ],
     [
+      "secret",
+      1,
+      "trust"
+    ],
+    [
+      "analysts",
+      1,
+      "trust"
+    ],
+    [
       "hope",
       1,
       "surprise"
@@ -366,26 +376,16 @@
       "unable",
       1,
       "sadness"
-    ],
-    [
-      "solidarity",
-      1,
-      "trust"
-    ],
-    [
-      "resistance",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 90,
+    "joy": 28,
+    "trust": 92,
     "fear": 44,
-    "surprise": 12,
+    "surprise": 10,
     "sadness": 19,
-    "disgust": 9,
-    "anger": 90,
+    "disgust": 11,
+    "anger": 89,
     "anticipation": 27
   }
 }
