@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:46:57.114Z",
+  "generated_at": "2026-10-31T21:01:59.031Z",
   "article_count": 50,
   "top_words": [
     [
@@ -36,6 +36,11 @@
       "trump",
       4,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "result",
@@ -196,11 +201,6 @@
       "closure",
       2,
       "sadness"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "rail",
@@ -386,6 +386,6 @@
     "sadness": 19,
     "disgust": 9,
     "anger": 88,
-    "anticipation": 27
+    "anticipation": 28
   }
 }
