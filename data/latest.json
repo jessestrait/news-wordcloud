@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T14:13:23.059Z",
+  "generated_at": "2026-10-31T14:28:25.315Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "public",
-      4,
-      "anticipation"
-    ],
-    [
       "court",
       4,
       "anger"
@@ -43,6 +38,11 @@
       "anger"
     ],
     [
+      "result",
+      3,
+      "anticipation"
+    ],
+    [
       "media",
       3,
       "disgust"
@@ -51,6 +51,11 @@
       "victory",
       3,
       "joy"
+    ],
+    [
+      "public",
+      3,
+      "anticipation"
     ],
     [
       "family",
@@ -263,11 +268,6 @@
       "trust"
     ],
     [
-      "results",
-      2,
-      "anticipation"
-    ],
-    [
       "bank",
       2,
       "trust"
@@ -288,7 +288,7 @@
       "anticipation"
     ],
     [
-      "unrest",
+      "warns",
       1,
       "fear"
     ],
@@ -303,14 +303,14 @@
       "fear"
     ],
     [
-      "risk",
+      "protesters",
       1,
-      "fear"
+      "anger"
     ],
     [
-      "disorder",
+      "covering",
       1,
-      "fear"
+      "trust"
     ],
     [
       "secret",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 92,
-    "fear": 44,
+    "trust": 93,
+    "fear": 42,
     "surprise": 10,
     "sadness": 19,
     "disgust": 11,
-    "anger": 89,
+    "anger": 90,
     "anticipation": 27
   }
 }
