@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:23:21.747Z",
+  "generated_at": "2026-10-31T04:38:24.285Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,18 +9,13 @@
     ],
     [
       "president",
-      6,
+      7,
       "trust"
     ],
     [
       "world",
       5,
       "trust"
-    ],
-    [
-      "trump",
-      5,
-      "anger"
     ],
     [
       "crash",
@@ -33,9 +28,19 @@
       "anticipation"
     ],
     [
+      "police",
+      4,
+      "fear"
+    ],
+    [
       "family",
       4,
       "joy"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "war",
@@ -43,14 +48,9 @@
       "anger"
     ],
     [
-      "official",
-      4,
-      "trust"
-    ],
-    [
-      "police",
+      "court",
       3,
-      "fear"
+      "anger"
     ],
     [
       "food",
@@ -93,6 +93,11 @@
       "trust"
     ],
     [
+      "official",
+      3,
+      "trust"
+    ],
+    [
       "leader",
       3,
       "trust"
@@ -115,6 +120,16 @@
     [
       "violent",
       3,
+      "anger"
+    ],
+    [
+      "struggling",
+      2,
+      "anger"
+    ],
+    [
+      "row",
+      2,
       "anger"
     ],
     [
@@ -218,11 +233,6 @@
       "anger"
     ],
     [
-      "accused",
-      2,
-      "anger"
-    ],
-    [
       "bereaved",
       2,
       "sadness"
@@ -268,13 +278,28 @@
       "surprise"
     ],
     [
-      "don",
-      2,
+      "riot",
+      1,
+      "anger"
+    ],
+    [
+      "constitutional",
+      1,
       "trust"
     ],
     [
-      "ambassador",
-      2,
+      "gain",
+      1,
+      "joy"
+    ],
+    [
+      "building",
+      1,
+      "anticipation"
+    ],
+    [
+      "legitimacy",
+      1,
       "trust"
     ],
     [
@@ -351,41 +376,16 @@
       "raid",
       1,
       "anger"
-    ],
-    [
-      "friendly",
-      1,
-      "joy"
-    ],
-    [
-      "pride",
-      1,
-      "joy"
-    ],
-    [
-      "minded",
-      1,
-      "trust"
-    ],
-    [
-      "storms",
-      1,
-      "anger"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 96,
-    "fear": 44,
+    "joy": 28,
+    "trust": 94,
+    "fear": 45,
     "surprise": 12,
     "sadness": 19,
     "disgust": 7,
-    "anger": 86,
-    "anticipation": 27
+    "anger": 88,
+    "anticipation": 28
   }
 }
