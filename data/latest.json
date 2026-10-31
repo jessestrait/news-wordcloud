@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:37:11.498Z",
+  "generated_at": "2026-10-31T01:52:13.751Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,6 +118,11 @@
       "anger"
     ],
     [
+      "launch",
+      2,
+      "anticipation"
+    ],
+    [
       "poll",
       2,
       "trust"
@@ -131,11 +136,6 @@
       "festival",
       2,
       "surprise"
-    ],
-    [
-      "launch",
-      2,
-      "anticipation"
     ],
     [
       "alliance",
@@ -278,6 +278,41 @@
       "trust"
     ],
     [
+      "slave",
+      1,
+      "anger"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
+    ],
+    [
+      "debt",
+      1,
+      "sadness"
+    ],
+    [
+      "commonwealth",
+      1,
+      "trust"
+    ],
+    [
+      "rejects",
+      1,
+      "anger"
+    ],
+    [
+      "demands",
+      1,
+      "anger"
+    ],
+    [
+      "reparations",
+      1,
+      "trust"
+    ],
+    [
       "cancels",
       1,
       "sadness"
@@ -326,41 +361,6 @@
       "pride",
       1,
       "joy"
-    ],
-    [
-      "slave",
-      1,
-      "anger"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "debt",
-      1,
-      "sadness"
-    ],
-    [
-      "commonwealth",
-      1,
-      "trust"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "demands",
-      1,
-      "anger"
-    ],
-    [
-      "reparations",
-      1,
-      "trust"
     ],
     [
       "minded",
