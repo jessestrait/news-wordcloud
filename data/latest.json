@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T07:55:09.175Z",
+  "generated_at": "2026-10-31T08:10:11.127Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "fear"
     ],
     [
-      "family",
-      4,
-      "joy"
-    ],
-    [
       "trump",
       4,
       "anger"
@@ -46,6 +41,11 @@
       "court",
       3,
       "anger"
+    ],
+    [
+      "family",
+      3,
+      "joy"
     ],
     [
       "food",
@@ -94,11 +94,6 @@
     ],
     [
       "official",
-      3,
-      "trust"
-    ],
-    [
-      "leader",
       3,
       "trust"
     ],
@@ -253,6 +248,11 @@
       "anger"
     ],
     [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "bereaved",
       2,
       "sadness"
@@ -291,6 +291,26 @@
       "present",
       2,
       "surprise"
+    ],
+    [
+      "fortress",
+      1,
+      "fear"
+    ],
+    [
+      "unable",
+      1,
+      "sadness"
+    ],
+    [
+      "solidarity",
+      1,
+      "trust"
+    ],
+    [
+      "resistance",
+      1,
+      "anger"
     ],
     [
       "opportunity",
@@ -356,34 +376,14 @@
       "rejects",
       1,
       "anger"
-    ],
-    [
-      "cancels",
-      1,
-      "sadness"
-    ],
-    [
-      "threaten",
-      1,
-      "anger"
-    ],
-    [
-      "thinking",
-      1,
-      "trust"
-    ],
-    [
-      "looms",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 28,
     "trust": 93,
-    "fear": 41,
+    "fear": 40,
     "surprise": 13,
-    "sadness": 18,
+    "sadness": 19,
     "disgust": 8,
     "anger": 90,
     "anticipation": 27
