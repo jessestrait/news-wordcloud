@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:53:44.066Z",
+  "generated_at": "2026-10-31T05:08:45.717Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,11 +21,6 @@
       "crash",
       5,
       "fear"
-    ],
-    [
-      "happened",
-      5,
-      "anticipation"
     ],
     [
       "police",
@@ -58,6 +53,11 @@
       "joy"
     ],
     [
+      "vote",
+      3,
+      "anger"
+    ],
+    [
       "authorities",
       3,
       "trust"
@@ -66,6 +66,11 @@
       "killed",
       3,
       "fear"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "deadly",
@@ -81,11 +86,6 @@
       "majority",
       3,
       "joy"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "top",
@@ -121,6 +121,16 @@
       "violent",
       3,
       "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
+      "unprecedented",
+      2,
+      "surprise"
     ],
     [
       "struggling",
@@ -173,19 +183,9 @@
       "trust"
     ],
     [
-      "vote",
-      2,
-      "anger"
-    ],
-    [
       "closure",
       2,
       "sadness"
-    ],
-    [
-      "injured",
-      2,
-      "fear"
     ],
     [
       "public",
@@ -216,6 +216,11 @@
       "opposition",
       2,
       "anger"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "accusations",
@@ -276,6 +281,16 @@
       "present",
       2,
       "surprise"
+    ],
+    [
+      "success",
+      1,
+      "joy"
+    ],
+    [
+      "winning",
+      1,
+      "disgust"
     ],
     [
       "riot",
@@ -361,31 +376,16 @@
       "guardian",
       1,
       "trust"
-    ],
-    [
-      "electorate",
-      1,
-      "trust"
-    ],
-    [
-      "grudging",
-      1,
-      "anger"
-    ],
-    [
-      "raid",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 29,
     "trust": 94,
-    "fear": 45,
-    "surprise": 12,
-    "sadness": 19,
-    "disgust": 7,
+    "fear": 41,
+    "surprise": 13,
+    "sadness": 18,
+    "disgust": 8,
     "anger": 88,
-    "anticipation": 28
+    "anticipation": 27
   }
 }
