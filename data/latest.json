@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:54:07.678Z",
+  "generated_at": "2026-10-31T06:09:10.089Z",
   "article_count": 50,
   "top_words": [
     [
@@ -120,6 +120,21 @@
     [
       "violent",
       3,
+      "anger"
+    ],
+    [
+      "reparations",
+      2,
+      "trust"
+    ],
+    [
+      "commonwealth",
+      2,
+      "trust"
+    ],
+    [
+      "demand",
+      2,
       "anger"
     ],
     [
@@ -268,11 +283,6 @@
       "anger"
     ],
     [
-      "association",
-      2,
-      "trust"
-    ],
-    [
       "game",
       2,
       "anticipation"
@@ -281,6 +291,16 @@
       "present",
       2,
       "surprise"
+    ],
+    [
+      "opportunity",
+      1,
+      "anticipation"
+    ],
+    [
+      "confront",
+      1,
+      "anger"
     ],
     [
       "success",
@@ -333,24 +353,9 @@
       "sadness"
     ],
     [
-      "commonwealth",
-      1,
-      "trust"
-    ],
-    [
       "rejects",
       1,
       "anger"
-    ],
-    [
-      "demands",
-      1,
-      "anger"
-    ],
-    [
-      "reparations",
-      1,
-      "trust"
     ],
     [
       "cancels",
@@ -371,21 +376,16 @@
       "looms",
       1,
       "fear"
-    ],
-    [
-      "guardian",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 94,
+    "trust": 93,
     "fear": 41,
     "surprise": 13,
     "sadness": 18,
     "disgust": 8,
-    "anger": 88,
+    "anger": 90,
     "anticipation": 27
   }
 }
