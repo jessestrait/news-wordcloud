@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:10:48.597Z",
+  "generated_at": "2026-10-31T09:25:51.094Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,6 +118,21 @@
       "anger"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
+      "unprecedented",
+      2,
+      "surprise"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
       "reparations",
       2,
       "trust"
@@ -131,16 +146,6 @@
       "demand",
       2,
       "anger"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
-      "unprecedented",
-      2,
-      "surprise"
     ],
     [
       "struggling",
@@ -196,11 +201,6 @@
       "closure",
       2,
       "sadness"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "rail",
@@ -293,6 +293,31 @@
       "surprise"
     ],
     [
+      "success",
+      1,
+      "joy"
+    ],
+    [
+      "winning",
+      1,
+      "disgust"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "poor",
+      1,
+      "sadness"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
+    ],
+    [
       "fortress",
       1,
       "fear"
@@ -323,16 +348,6 @@
       "anger"
     ],
     [
-      "success",
-      1,
-      "joy"
-    ],
-    [
-      "winning",
-      1,
-      "disgust"
-    ],
-    [
       "riot",
       1,
       "anger"
@@ -359,21 +374,6 @@
     ],
     [
       "slave",
-      1,
-      "anger"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "debt",
-      1,
-      "sadness"
-    ],
-    [
-      "rejects",
       1,
       "anger"
     ]
