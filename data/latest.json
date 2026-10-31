@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-31T11:27:10.261Z",
+  "generated_at": "2026-10-31T11:42:12.846Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      9,
+      8,
       "trust"
     ],
     [
@@ -21,6 +21,11 @@
       "crash",
       5,
       "fear"
+    ],
+    [
+      "public",
+      4,
+      "anticipation"
     ],
     [
       "court",
@@ -46,11 +51,6 @@
       "victory",
       3,
       "joy"
-    ],
-    [
-      "public",
-      3,
-      "anticipation"
     ],
     [
       "family",
@@ -111,11 +111,6 @@
       "provide",
       3,
       "trust"
-    ],
-    [
-      "violent",
-      3,
-      "anger"
     ],
     [
       "beaches",
@@ -293,9 +288,29 @@
       "anticipation"
     ],
     [
-      "present",
-      2,
-      "surprise"
+      "unrest",
+      1,
+      "fear"
+    ],
+    [
+      "interior",
+      1,
+      "disgust"
+    ],
+    [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "risk",
+      1,
+      "fear"
+    ],
+    [
+      "disorder",
+      1,
+      "fear"
     ],
     [
       "hope",
@@ -361,31 +376,16 @@
       "resistance",
       1,
       "anger"
-    ],
-    [
-      "opportunity",
-      1,
-      "anticipation"
-    ],
-    [
-      "confront",
-      1,
-      "anger"
-    ],
-    [
-      "riot",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 92,
-    "fear": 40,
-    "surprise": 14,
+    "joy": 29,
+    "trust": 90,
+    "fear": 44,
+    "surprise": 12,
     "sadness": 19,
-    "disgust": 8,
-    "anger": 93,
+    "disgust": 9,
+    "anger": 90,
     "anticipation": 27
   }
 }
