@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:56:22.283Z",
+  "generated_at": "2026-10-31T10:11:24.836Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "fear"
     ],
     [
+      "court",
+      4,
+      "anger"
+    ],
+    [
       "police",
       4,
       "fear"
@@ -38,9 +43,14 @@
       "anger"
     ],
     [
-      "court",
+      "victory",
       3,
-      "anger"
+      "joy"
+    ],
+    [
+      "public",
+      3,
+      "anticipation"
     ],
     [
       "family",
@@ -68,11 +78,6 @@
       "fear"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "deadly",
       3,
       "anger"
@@ -81,11 +86,6 @@
       "letter",
       3,
       "anticipation"
-    ],
-    [
-      "majority",
-      3,
-      "joy"
     ],
     [
       "top",
@@ -118,6 +118,16 @@
       "anger"
     ],
     [
+      "beaches",
+      2,
+      "joy"
+    ],
+    [
+      "battle",
+      2,
+      "anger"
+    ],
+    [
       "power",
       2,
       "anticipation"
@@ -126,11 +136,6 @@
       "unprecedented",
       2,
       "surprise"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "reparations",
@@ -193,14 +198,14 @@
       "anger"
     ],
     [
-      "ballot",
-      2,
-      "trust"
-    ],
-    [
       "closure",
       2,
       "sadness"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "rail",
@@ -218,14 +223,14 @@
       "trust"
     ],
     [
-      "victory",
-      2,
-      "joy"
-    ],
-    [
       "opposition",
       2,
       "anger"
+    ],
+    [
+      "majority",
+      2,
+      "joy"
     ],
     [
       "government",
@@ -293,6 +298,26 @@
       "surprise"
     ],
     [
+      "hope",
+      1,
+      "surprise"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "sealed",
+      1,
+      "trust"
+    ],
+    [
+      "fighting",
+      1,
+      "anger"
+    ],
+    [
       "success",
       1,
       "joy"
@@ -351,41 +376,16 @@
       "riot",
       1,
       "anger"
-    ],
-    [
-      "constitutional",
-      1,
-      "trust"
-    ],
-    [
-      "gain",
-      1,
-      "joy"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
-    ],
-    [
-      "legitimacy",
-      1,
-      "trust"
-    ],
-    [
-      "slave",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 93,
+    "joy": 30,
+    "trust": 92,
     "fear": 40,
-    "surprise": 13,
+    "surprise": 14,
     "sadness": 19,
     "disgust": 8,
-    "anger": 90,
+    "anger": 93,
     "anticipation": 27
   }
 }
