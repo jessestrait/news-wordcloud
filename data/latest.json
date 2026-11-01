@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:56:15.889Z",
+  "generated_at": "2026-11-01T15:11:18.440Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "people",
       8,
       "trust"
+    ],
+    [
+      "crash",
+      5,
+      "fear"
     ],
     [
       "war",
@@ -29,16 +34,6 @@
     ],
     [
       "police",
-      4,
-      "fear"
-    ],
-    [
-      "world",
-      4,
-      "trust"
-    ],
-    [
-      "crash",
       4,
       "fear"
     ],
@@ -116,6 +111,11 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "university",
+      2,
+      "anticipation"
     ],
     [
       "truce",
@@ -228,6 +228,11 @@
       "trust"
     ],
     [
+      "world",
+      2,
+      "trust"
+    ],
+    [
       "shortages",
       2,
       "anger"
@@ -298,6 +303,31 @@
       "trust"
     ],
     [
+      "inspiring",
+      1,
+      "joy"
+    ],
+    [
+      "scientist",
+      1,
+      "trust"
+    ],
+    [
+      "award",
+      1,
+      "surprise"
+    ],
+    [
+      "scientific",
+      1,
+      "trust"
+    ],
+    [
+      "excellence",
+      1,
+      "disgust"
+    ],
+    [
       "misleading",
       1,
       "anger"
@@ -323,11 +353,6 @@
       "trust"
     ],
     [
-      "university",
-      1,
-      "anticipation"
-    ],
-    [
       "landmark",
       1,
       "trust"
@@ -351,41 +376,16 @@
       "struggle",
       1,
       "anger"
-    ],
-    [
-      "specialist",
-      1,
-      "trust"
-    ],
-    [
-      "eagle",
-      1,
-      "trust"
-    ],
-    [
-      "nest",
-      1,
-      "trust"
-    ],
-    [
-      "arson",
-      1,
-      "anger"
-    ],
-    [
-      "attack",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 33,
-    "trust": 89,
-    "fear": 45,
-    "surprise": 9,
-    "sadness": 19,
-    "disgust": 10,
+    "trust": 87,
+    "fear": 46,
+    "surprise": 10,
+    "sadness": 18,
+    "disgust": 11,
     "anger": 93,
-    "anticipation": 24
+    "anticipation": 25
   }
 }
