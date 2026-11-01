@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:28:22.773Z",
+  "generated_at": "2026-11-01T19:43:24.970Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,12 +23,12 @@
       "anger"
     ],
     [
-      "police",
+      "crash",
       4,
       "fear"
     ],
     [
-      "crash",
+      "police",
       4,
       "fear"
     ],
@@ -298,6 +298,31 @@
       "anger"
     ],
     [
+      "inspiring",
+      1,
+      "joy"
+    ],
+    [
+      "scientist",
+      1,
+      "trust"
+    ],
+    [
+      "award",
+      1,
+      "surprise"
+    ],
+    [
+      "scientific",
+      1,
+      "trust"
+    ],
+    [
+      "excellence",
+      1,
+      "disgust"
+    ],
+    [
       "strait",
       1,
       "fear"
@@ -349,31 +374,6 @@
     ],
     [
       "defies",
-      1,
-      "anger"
-    ],
-    [
-      "attempted",
-      1,
-      "anticipation"
-    ],
-    [
-      "murder",
-      1,
-      "anger"
-    ],
-    [
-      "bomb",
-      1,
-      "anger"
-    ],
-    [
-      "youth",
-      1,
-      "anger"
-    ],
-    [
-      "violence",
       1,
       "anger"
     ]
