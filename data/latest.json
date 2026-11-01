@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:54:38.835Z",
+  "generated_at": "2026-11-01T12:09:41.143Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,19 @@
       "trust"
     ],
     [
+      "war",
+      5,
+      "anger"
+    ],
+    [
       "court",
       5,
       "anger"
     ],
     [
-      "war",
+      "trade",
       4,
-      "anger"
+      "trust"
     ],
     [
       "police",
@@ -93,11 +98,6 @@
       "anger"
     ],
     [
-      "authorities",
-      3,
-      "trust"
-    ],
-    [
       "killed",
       3,
       "fear"
@@ -118,14 +118,19 @@
       "trust"
     ],
     [
-      "slave",
+      "truce",
+      2,
+      "joy"
+    ],
+    [
+      "conflict",
       2,
       "anger"
     ],
     [
-      "trade",
+      "slave",
       2,
-      "trust"
+      "anger"
     ],
     [
       "leader",
@@ -208,11 +213,6 @@
       "anger"
     ],
     [
-      "launch",
-      2,
-      "anticipation"
-    ],
-    [
       "poll",
       2,
       "trust"
@@ -236,6 +236,11 @@
       "closure",
       2,
       "sadness"
+    ],
+    [
+      "authorities",
+      2,
+      "trust"
     ],
     [
       "rail",
@@ -291,6 +296,16 @@
       "provide",
       2,
       "trust"
+    ],
+    [
+      "misleading",
+      1,
+      "anger"
+    ],
+    [
+      "hostilities",
+      1,
+      "anger"
     ],
     [
       "opera",
@@ -361,31 +376,16 @@
       "attack",
       1,
       "anger"
-    ],
-    [
-      "dictator",
-      1,
-      "fear"
-    ],
-    [
-      "ruin",
-      1,
-      "fear"
-    ],
-    [
-      "piles",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 33,
     "trust": 89,
     "fear": 45,
-    "surprise": 10,
+    "surprise": 9,
     "sadness": 19,
     "disgust": 10,
-    "anger": 90,
-    "anticipation": 26
+    "anger": 93,
+    "anticipation": 24
   }
 }
