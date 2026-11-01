@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:41:40.963Z",
+  "generated_at": "2026-11-01T15:56:42.933Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,17 +13,17 @@
       "trust"
     ],
     [
+      "court",
+      5,
+      "anger"
+    ],
+    [
       "crash",
       5,
       "fear"
     ],
     [
       "war",
-      5,
-      "anger"
-    ],
-    [
-      "court",
       5,
       "anger"
     ],
@@ -113,6 +113,11 @@
       "trust"
     ],
     [
+      "constitutional",
+      2,
+      "trust"
+    ],
+    [
       "truce",
       2,
       "joy"
@@ -161,11 +166,6 @@
       "anger",
       2,
       "anger"
-    ],
-    [
-      "constitutional",
-      2,
-      "trust"
     ],
     [
       "result",
@@ -298,6 +298,21 @@
       "trust"
     ],
     [
+      "tribunal",
+      1,
+      "fear"
+    ],
+    [
+      "crippled",
+      1,
+      "sadness"
+    ],
+    [
+      "disputes",
+      1,
+      "anger"
+    ],
+    [
       "inspiring",
       1,
       "joy"
@@ -359,21 +374,6 @@
     ],
     [
       "crime",
-      1,
-      "anger"
-    ],
-    [
-      "rocket",
-      1,
-      "anger"
-    ],
-    [
-      "disabled",
-      1,
-      "fear"
-    ],
-    [
-      "struggle",
       1,
       "anger"
     ]
