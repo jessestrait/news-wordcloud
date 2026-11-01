@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T01:34:13.600Z",
+  "generated_at": "2026-11-01T01:49:15.903Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "trust"
     ],
     [
-      "court",
-      5,
-      "anger"
-    ],
-    [
       "police",
       5,
       "fear"
+    ],
+    [
+      "court",
+      5,
+      "anger"
     ],
     [
       "crash",
@@ -38,6 +38,11 @@
       "anger"
     ],
     [
+      "fire",
+      3,
+      "fear"
+    ],
+    [
       "happened",
       3,
       "anticipation"
@@ -46,11 +51,6 @@
       "result",
       3,
       "anticipation"
-    ],
-    [
-      "fire",
-      3,
-      "fear"
     ],
     [
       "media",
@@ -113,12 +113,12 @@
       "fear"
     ],
     [
-      "constitutional",
+      "officers",
       2,
       "trust"
     ],
     [
-      "officers",
+      "constitutional",
       2,
       "trust"
     ],
@@ -273,6 +273,21 @@
       "trust"
     ],
     [
+      "clash",
+      1,
+      "anger"
+    ],
+    [
+      "peaceful",
+      1,
+      "surprise"
+    ],
+    [
+      "falls",
+      1,
+      "sadness"
+    ],
+    [
       "tribunal",
       1,
       "fear"
@@ -311,21 +326,6 @@
       "covering",
       1,
       "trust"
-    ],
-    [
-      "clash",
-      1,
-      "anger"
-    ],
-    [
-      "peaceful",
-      1,
-      "surprise"
-    ],
-    [
-      "falls",
-      1,
-      "sadness"
     ],
     [
       "success",
