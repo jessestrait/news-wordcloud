@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:42:40.678Z",
+  "generated_at": "2026-11-01T17:57:42.415Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "anger"
     ],
     [
-      "crash",
-      5,
-      "fear"
-    ],
-    [
       "war",
       5,
       "anger"
@@ -33,9 +28,19 @@
       "fear"
     ],
     [
+      "crash",
+      4,
+      "fear"
+    ],
+    [
       "trade",
       4,
       "trust"
+    ],
+    [
+      "iran",
+      3,
+      "anger"
     ],
     [
       "alliance",
@@ -101,6 +106,11 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
     ],
     [
       "guardian",
@@ -268,11 +278,6 @@
       "anticipation"
     ],
     [
-      "iran",
-      2,
-      "anger"
-    ],
-    [
       "justice",
       2,
       "trust"
@@ -298,8 +303,13 @@
       "anger"
     ],
     [
-      "continue",
-      2,
+      "hormuz",
+      1,
+      "fear"
+    ],
+    [
+      "negotiate",
+      1,
       "trust"
     ],
     [
@@ -366,24 +376,14 @@
       "violence",
       1,
       "anger"
-    ],
-    [
-      "congress",
-      1,
-      "disgust"
-    ],
-    [
-      "tribunal",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 87,
+    "trust": 84,
     "fear": 45,
     "surprise": 10,
-    "sadness": 20,
+    "sadness": 19,
     "disgust": 11,
     "anger": 99,
     "anticipation": 21
