@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:27:24.749Z",
+  "generated_at": "2026-11-01T17:42:26.448Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "president",
-      7,
+      6,
       "trust"
     ],
     [
@@ -343,16 +343,6 @@
       "anger"
     ],
     [
-      "risk",
-      1,
-      "fear"
-    ],
-    [
-      "angering",
-      1,
-      "anger"
-    ],
-    [
       "attempted",
       1,
       "anticipation"
@@ -376,16 +366,26 @@
       "violence",
       1,
       "anger"
+    ],
+    [
+      "congress",
+      1,
+      "disgust"
+    ],
+    [
+      "tribunal",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 88,
-    "fear": 46,
+    "trust": 87,
+    "fear": 45,
     "surprise": 10,
     "sadness": 20,
     "disgust": 11,
-    "anger": 100,
+    "anger": 99,
     "anticipation": 21
   }
 }
