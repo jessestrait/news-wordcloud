@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:11:18.440Z",
+  "generated_at": "2026-11-01T15:26:20.861Z",
   "article_count": 50,
   "top_words": [
     [
@@ -111,11 +111,6 @@
       "official",
       3,
       "trust"
-    ],
-    [
-      "university",
-      2,
-      "anticipation"
     ],
     [
       "truce",
@@ -353,6 +348,11 @@
       "trust"
     ],
     [
+      "university",
+      1,
+      "anticipation"
+    ],
+    [
       "landmark",
       1,
       "trust"
@@ -386,6 +386,6 @@
     "sadness": 18,
     "disgust": 11,
     "anger": 93,
-    "anticipation": 25
+    "anticipation": 24
   }
 }
