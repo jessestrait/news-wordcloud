@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-11-01T17:12:22.975Z",
+  "generated_at": "2026-11-01T17:27:24.749Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      8,
+      9,
       "trust"
     ],
     [
       "president",
       7,
       "trust"
-    ],
-    [
-      "police",
-      5,
-      "fear"
     ],
     [
       "court",
@@ -33,14 +28,14 @@
       "anger"
     ],
     [
+      "police",
+      4,
+      "fear"
+    ],
+    [
       "trade",
       4,
       "trust"
-    ],
-    [
-      "opposition",
-      3,
-      "anger"
     ],
     [
       "alliance",
@@ -73,11 +68,6 @@
       "fear"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "media",
       3,
       "disgust"
@@ -103,11 +93,6 @@
       "fear"
     ],
     [
-      "letter",
-      3,
-      "anticipation"
-    ],
-    [
       "top",
       3,
       "trust"
@@ -118,7 +103,22 @@
       "trust"
     ],
     [
+      "guardian",
+      2,
+      "trust"
+    ],
+    [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "riot",
+      2,
+      "anger"
+    ],
+    [
+      "opposition",
       2,
       "anger"
     ],
@@ -168,12 +168,17 @@
       "fear"
     ],
     [
+      "attack",
+      2,
+      "anger"
+    ],
+    [
       "experts",
       2,
       "trust"
     ],
     [
-      "result",
+      "happened",
       2,
       "anticipation"
     ],
@@ -238,11 +243,6 @@
       "anger"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "closure",
       2,
       "sadness"
@@ -261,6 +261,11 @@
       "deadly",
       2,
       "anger"
+    ],
+    [
+      "letter",
+      2,
+      "anticipation"
     ],
     [
       "iran",
@@ -283,19 +288,69 @@
       "fear"
     ],
     [
-      "accusations",
-      2,
-      "anger"
-    ],
-    [
       "purges",
       2,
       "fear"
     ],
     [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
       "continue",
       2,
       "trust"
+    ],
+    [
+      "disabilities",
+      1,
+      "sadness"
+    ],
+    [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
+      "pandemic",
+      1,
+      "fear"
+    ],
+    [
+      "unforgiving",
+      1,
+      "anger"
+    ],
+    [
+      "inequalities",
+      1,
+      "anger"
+    ],
+    [
+      "lessons",
+      1,
+      "trust"
+    ],
+    [
+      "defies",
+      1,
+      "anger"
+    ],
+    [
+      "risk",
+      1,
+      "fear"
+    ],
+    [
+      "angering",
+      1,
+      "anger"
     ],
     [
       "attempted",
@@ -321,71 +376,16 @@
       "violence",
       1,
       "anger"
-    ],
-    [
-      "congress",
-      1,
-      "disgust"
-    ],
-    [
-      "tribunal",
-      1,
-      "fear"
-    ],
-    [
-      "crippled",
-      1,
-      "sadness"
-    ],
-    [
-      "disputes",
-      1,
-      "anger"
-    ],
-    [
-      "inspiring",
-      1,
-      "joy"
-    ],
-    [
-      "scientist",
-      1,
-      "trust"
-    ],
-    [
-      "award",
-      1,
-      "surprise"
-    ],
-    [
-      "scientific",
-      1,
-      "trust"
-    ],
-    [
-      "excellence",
-      1,
-      "disgust"
-    ],
-    [
-      "misleading",
-      1,
-      "anger"
-    ],
-    [
-      "hostilities",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 85,
+    "trust": 88,
     "fear": 46,
     "surprise": 10,
-    "sadness": 18,
+    "sadness": 20,
     "disgust": 11,
-    "anger": 98,
-    "anticipation": 24
+    "anger": 100,
+    "anticipation": 21
   }
 }
