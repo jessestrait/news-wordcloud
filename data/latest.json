@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:51:27.775Z",
+  "generated_at": "2026-11-01T06:06:30.197Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,9 +38,9 @@
       "trust"
     ],
     [
-      "trump",
-      4,
-      "anger"
+      "family",
+      3,
+      "joy"
     ],
     [
       "power",
@@ -88,6 +88,11 @@
       "joy"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "vote",
       3,
       "anger"
@@ -116,6 +121,16 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "fight",
+      2,
+      "anger"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
     ],
     [
       "experts",
@@ -171,11 +186,6 @@
       "launch",
       2,
       "anticipation"
-    ],
-    [
-      "family",
-      2,
-      "joy"
     ],
     [
       "poll",
@@ -263,6 +273,31 @@
       "trust"
     ],
     [
+      "crime",
+      1,
+      "anger"
+    ],
+    [
+      "rocket",
+      1,
+      "anger"
+    ],
+    [
+      "disabled",
+      1,
+      "fear"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
+    ],
+    [
+      "specialist",
+      1,
+      "trust"
+    ],
+    [
       "eagle",
       1,
       "trust"
@@ -341,51 +376,16 @@
       "limited",
       1,
       "anger"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
-    ],
-    [
-      "clash",
-      1,
-      "anger"
-    ],
-    [
-      "peaceful",
-      1,
-      "surprise"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
-    ],
-    [
-      "falls",
-      1,
-      "sadness"
-    ],
-    [
-      "tribunal",
-      1,
-      "fear"
-    ],
-    [
-      "crippled",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 31,
     "trust": 87,
-    "fear": 44,
+    "fear": 46,
     "surprise": 10,
     "sadness": 20,
     "disgust": 11,
-    "anger": 85,
+    "anger": 88,
     "anticipation": 26
   }
 }
