@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:24:41.576Z",
+  "generated_at": "2026-11-02T16:39:45.681Z",
   "article_count": 50,
   "top_words": [
     [
@@ -91,11 +91,6 @@
       "vote",
       3,
       "anger"
-    ],
-    [
-      "second",
-      2,
-      "trust"
     ],
     [
       "warned",
@@ -283,16 +278,6 @@
       "fear"
     ],
     [
-      "experienced",
-      1,
-      "trust"
-    ],
-    [
-      "meddling",
-      1,
-      "anger"
-    ],
-    [
       "hit",
       1,
       "anger"
@@ -311,6 +296,16 @@
       "stores",
       1,
       "anticipation"
+    ],
+    [
+      "experienced",
+      1,
+      "trust"
+    ],
+    [
+      "meddling",
+      1,
+      "anger"
     ],
     [
       "threat",
@@ -376,11 +371,16 @@
       "forces",
       1,
       "anger"
+    ],
+    [
+      "oust",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 82,
+    "trust": 81,
     "fear": 47,
     "surprise": 10,
     "sadness": 17,
