@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T08:50:18.972Z",
+  "generated_at": "2026-11-02T09:05:21.341Z",
   "article_count": 50,
   "top_words": [
     [
@@ -46,6 +46,16 @@
       "president",
       4,
       "trust"
+    ],
+    [
+      "raid",
+      3,
+      "anger"
+    ],
+    [
+      "warning",
+      3,
+      "fear"
     ],
     [
       "family",
@@ -103,6 +113,11 @@
       "anger"
     ],
     [
+      "systems",
+      2,
+      "trust"
+    ],
+    [
       "confront",
       2,
       "anger"
@@ -136,16 +151,6 @@
       "winning",
       2,
       "disgust"
-    ],
-    [
-      "raid",
-      2,
-      "anger"
-    ],
-    [
-      "warning",
-      2,
-      "fear"
     ],
     [
       "alerts",
@@ -233,11 +238,6 @@
       "anticipation"
     ],
     [
-      "unprecedented",
-      2,
-      "surprise"
-    ],
-    [
       "victory",
       2,
       "joy"
@@ -278,24 +278,34 @@
       "fear"
     ],
     [
-      "officials",
-      2,
-      "trust"
-    ],
-    [
       "defend",
       2,
       "fear"
     ],
     [
-      "top",
-      2,
-      "trust"
+      "emergency",
+      1,
+      "fear"
     ],
     [
-      "purges",
-      2,
+      "hit",
+      1,
+      "anger"
+    ],
+    [
+      "started",
+      1,
+      "anticipation"
+    ],
+    [
+      "alarming",
+      1,
       "fear"
+    ],
+    [
+      "late",
+      1,
+      "sadness"
     ],
     [
       "traitors",
@@ -366,26 +376,16 @@
       "vehement",
       1,
       "anger"
-    ],
-    [
-      "slavery",
-      1,
-      "anger"
-    ],
-    [
-      "agreed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 85,
-    "fear": 50,
-    "surprise": 9,
-    "sadness": 17,
+    "trust": 84,
+    "fear": 51,
+    "surprise": 8,
+    "sadness": 18,
     "disgust": 14,
     "anger": 94,
-    "anticipation": 20
+    "anticipation": 21
   }
 }
