@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-02T06:34:04.316Z",
+  "generated_at": "2026-11-02T06:49:06.479Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
-      8,
+      7,
       "trust"
     ],
     [
@@ -25,6 +25,11 @@
     [
       "president",
       5,
+      "trust"
+    ],
+    [
+      "reparations",
+      4,
       "trust"
     ],
     [
@@ -51,11 +56,6 @@
       "opposition",
       3,
       "anger"
-    ],
-    [
-      "reparations",
-      3,
-      "trust"
     ],
     [
       "commonwealth",
@@ -88,14 +88,14 @@
       "anticipation"
     ],
     [
-      "food",
-      3,
-      "joy"
-    ],
-    [
       "vote",
       3,
       "anger"
+    ],
+    [
+      "world",
+      2,
+      "trust"
     ],
     [
       "government",
@@ -183,6 +183,11 @@
       "anticipation"
     ],
     [
+      "crime",
+      2,
+      "anger"
+    ],
+    [
       "family",
       2,
       "joy"
@@ -248,14 +253,9 @@
       "surprise"
     ],
     [
-      "shortages",
+      "food",
       2,
-      "anger"
-    ],
-    [
-      "closure",
-      2,
-      "sadness"
+      "joy"
     ],
     [
       "authorities",
@@ -301,6 +301,21 @@
       "strike",
       2,
       "anger"
+    ],
+    [
+      "demanding",
+      1,
+      "anger"
+    ],
+    [
+      "finally",
+      1,
+      "disgust"
+    ],
+    [
+      "exposed",
+      1,
+      "fear"
     ],
     [
       "think",
@@ -361,31 +376,16 @@
       "agreed",
       1,
       "trust"
-    ],
-    [
-      "structured",
-      1,
-      "trust"
-    ],
-    [
-      "remains",
-      1,
-      "fear"
-    ],
-    [
-      "inspiring",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 85,
-    "fear": 50,
+    "joy": 27,
+    "trust": 86,
+    "fear": 51,
     "surprise": 9,
-    "sadness": 18,
-    "disgust": 12,
+    "sadness": 17,
+    "disgust": 13,
     "anger": 98,
-    "anticipation": 20
+    "anticipation": 19
   }
 }
