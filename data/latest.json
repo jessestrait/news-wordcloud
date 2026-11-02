@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T05:48:40.129Z",
+  "generated_at": "2026-11-02T06:03:42.626Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "war",
       6,
       "anger"
+    ],
+    [
+      "trade",
+      5,
+      "trust"
     ],
     [
       "court",
@@ -33,9 +38,19 @@
       "fear"
     ],
     [
-      "trade",
-      4,
+      "change",
+      3,
+      "fear"
+    ],
+    [
+      "poll",
+      3,
       "trust"
+    ],
+    [
+      "opposition",
+      3,
+      "anger"
     ],
     [
       "reparations",
@@ -56,11 +71,6 @@
       "anger",
       3,
       "anger"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
     ],
     [
       "growing",
@@ -86,6 +96,26 @@
       "vote",
       3,
       "anger"
+    ],
+    [
+      "government",
+      2,
+      "fear"
+    ],
+    [
+      "opportunity",
+      2,
+      "anticipation"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
+      "winning",
+      2,
+      "disgust"
     ],
     [
       "raid",
@@ -124,11 +154,6 @@
     ],
     [
       "riot",
-      2,
-      "anger"
-    ],
-    [
-      "opposition",
       2,
       "anger"
     ],
@@ -183,6 +208,11 @@
       "trust"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "happened",
       2,
       "anticipation"
@@ -211,16 +241,6 @@
       "demand",
       2,
       "anger"
-    ],
-    [
-      "row",
-      2,
-      "anger"
-    ],
-    [
-      "poll",
-      2,
-      "trust"
     ],
     [
       "festival",
@@ -263,11 +283,6 @@
       "trust"
     ],
     [
-      "majority",
-      2,
-      "joy"
-    ],
-    [
       "defend",
       2,
       "fear"
@@ -285,6 +300,41 @@
     [
       "strike",
       2,
+      "anger"
+    ],
+    [
+      "think",
+      1,
+      "trust"
+    ],
+    [
+      "policy",
+      1,
+      "trust"
+    ],
+    [
+      "avoid",
+      1,
+      "fear"
+    ],
+    [
+      "voted",
+      1,
+      "anger"
+    ],
+    [
+      "ready",
+      1,
+      "anticipation"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
+      "oust",
+      1,
       "anger"
     ],
     [
@@ -326,66 +376,16 @@
       "inspiring",
       1,
       "joy"
-    ],
-    [
-      "scientist",
-      1,
-      "trust"
-    ],
-    [
-      "award",
-      1,
-      "surprise"
-    ],
-    [
-      "scientific",
-      1,
-      "trust"
-    ],
-    [
-      "excellence",
-      1,
-      "disgust"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
-      "hormuz",
-      1,
-      "fear"
-    ],
-    [
-      "negotiate",
-      1,
-      "trust"
-    ],
-    [
-      "disabilities",
-      1,
-      "sadness"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "death",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 80,
-    "fear": 47,
+    "joy": 28,
+    "trust": 85,
+    "fear": 50,
     "surprise": 9,
-    "sadness": 19,
-    "disgust": 11,
-    "anger": 99,
-    "anticipation": 19
+    "sadness": 18,
+    "disgust": 12,
+    "anger": 98,
+    "anticipation": 20
   }
 }
