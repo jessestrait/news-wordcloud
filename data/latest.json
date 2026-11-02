@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:21:45.533Z",
+  "generated_at": "2026-11-02T11:36:47.762Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,11 +51,6 @@
       "president",
       4,
       "trust"
-    ],
-    [
-      "hit",
-      3,
-      "anger"
     ],
     [
       "raid",
@@ -118,14 +113,24 @@
       "anger"
     ],
     [
-      "second",
+      "emergency",
+      2,
+      "fear"
+    ],
+    [
+      "systems",
       2,
       "trust"
     ],
     [
-      "emergency",
+      "hit",
       2,
-      "fear"
+      "anger"
+    ],
+    [
+      "second",
+      2,
+      "trust"
     ],
     [
       "warned",
@@ -136,11 +141,6 @@
       "fighting",
       2,
       "anger"
-    ],
-    [
-      "systems",
-      2,
-      "trust"
     ],
     [
       "confront",
@@ -288,6 +288,21 @@
       "fear"
     ],
     [
+      "started",
+      1,
+      "anticipation"
+    ],
+    [
+      "alarming",
+      1,
+      "fear"
+    ],
+    [
+      "late",
+      1,
+      "sadness"
+    ],
+    [
       "suspected",
       1,
       "fear"
@@ -306,21 +321,6 @@
       "unknown",
       1,
       "fear"
-    ],
-    [
-      "started",
-      1,
-      "anticipation"
-    ],
-    [
-      "alarming",
-      1,
-      "fear"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
     ],
     [
       "traitors",
@@ -385,7 +385,7 @@
     "surprise": 8,
     "sadness": 18,
     "disgust": 14,
-    "anger": 95,
+    "anger": 94,
     "anticipation": 22
   }
 }
