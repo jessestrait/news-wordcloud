@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:06:43.260Z",
+  "generated_at": "2026-11-02T11:21:45.533Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,13 +18,13 @@
       "trust"
     ],
     [
-      "war",
+      "court",
       5,
       "anger"
     ],
     [
-      "court",
-      5,
+      "attack",
+      4,
       "anger"
     ],
     [
@@ -38,6 +38,11 @@
       "trust"
     ],
     [
+      "war",
+      4,
+      "anger"
+    ],
+    [
       "crash",
       4,
       "fear"
@@ -46,6 +51,11 @@
       "president",
       4,
       "trust"
+    ],
+    [
+      "hit",
+      3,
+      "anger"
     ],
     [
       "raid",
@@ -71,11 +81,6 @@
       "change",
       3,
       "fear"
-    ],
-    [
-      "poll",
-      3,
-      "trust"
     ],
     [
       "opposition",
@@ -113,6 +118,26 @@
       "anger"
     ],
     [
+      "second",
+      2,
+      "trust"
+    ],
+    [
+      "emergency",
+      2,
+      "fear"
+    ],
+    [
+      "warned",
+      2,
+      "fear"
+    ],
+    [
+      "fighting",
+      2,
+      "anger"
+    ],
+    [
       "systems",
       2,
       "trust"
@@ -133,9 +158,9 @@
       "trust"
     ],
     [
-      "government",
+      "poll",
       2,
-      "fear"
+      "trust"
     ],
     [
       "opportunity",
@@ -151,11 +176,6 @@
       "winning",
       2,
       "disgust"
-    ],
-    [
-      "alerts",
-      2,
-      "fear"
     ],
     [
       "justice",
@@ -218,11 +238,6 @@
       "fear"
     ],
     [
-      "attack",
-      2,
-      "anger"
-    ],
-    [
       "experts",
       2,
       "trust"
@@ -246,11 +261,6 @@
       "beaches",
       2,
       "joy"
-    ],
-    [
-      "battle",
-      2,
-      "anger"
     ],
     [
       "demand",
@@ -278,19 +288,24 @@
       "fear"
     ],
     [
-      "defend",
-      2,
-      "fear"
-    ],
-    [
-      "emergency",
+      "suspected",
       1,
       "fear"
     ],
     [
-      "hit",
+      "stores",
+      1,
+      "anticipation"
+    ],
+    [
+      "threat",
       1,
       "anger"
+    ],
+    [
+      "unknown",
+      1,
+      "fear"
     ],
     [
       "started",
@@ -343,6 +358,11 @@
       "fear"
     ],
     [
+      "government",
+      1,
+      "fear"
+    ],
+    [
       "voted",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "forces",
       1,
       "anger"
-    ],
-    [
-      "oust",
-      1,
-      "anger"
-    ],
-    [
-      "showed",
-      1,
-      "trust"
-    ],
-    [
-      "expires",
-      1,
-      "sadness"
-    ],
-    [
-      "vehement",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 84,
-    "fear": 51,
+    "trust": 82,
+    "fear": 49,
     "surprise": 8,
     "sadness": 18,
     "disgust": 14,
-    "anger": 94,
-    "anticipation": 21
+    "anger": 95,
+    "anticipation": 22
   }
 }
