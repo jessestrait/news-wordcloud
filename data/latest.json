@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:39:16.524Z",
+  "generated_at": "2026-11-02T15:54:19.119Z",
   "article_count": 50,
   "top_words": [
     [
@@ -303,6 +303,11 @@
       "fear"
     ],
     [
+      "incident",
+      1,
+      "surprise"
+    ],
+    [
       "stores",
       1,
       "anticipation"
@@ -371,18 +376,13 @@
       "forces",
       1,
       "anger"
-    ],
-    [
-      "oust",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 82,
     "fear": 47,
-    "surprise": 9,
+    "surprise": 10,
     "sadness": 17,
     "disgust": 14,
     "anger": 92,
