@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:08:52.827Z",
+  "generated_at": "2026-11-02T15:23:54.977Z",
   "article_count": 50,
   "top_words": [
     [
@@ -283,6 +283,16 @@
       "fear"
     ],
     [
+      "experienced",
+      1,
+      "trust"
+    ],
+    [
+      "meddling",
+      1,
+      "anger"
+    ],
+    [
       "hit",
       1,
       "anger"
@@ -296,16 +306,6 @@
       "stores",
       1,
       "anticipation"
-    ],
-    [
-      "experienced",
-      1,
-      "trust"
-    ],
-    [
-      "meddling",
-      1,
-      "anger"
     ],
     [
       "threat",
