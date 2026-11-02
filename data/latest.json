@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T13:22:58.446Z",
+  "generated_at": "2026-11-02T13:38:00.603Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,16 +58,6 @@
       "fear"
     ],
     [
-      "raid",
-      3,
-      "anger"
-    ],
-    [
-      "warning",
-      3,
-      "fear"
-    ],
-    [
       "trust",
       3,
       "trust"
@@ -100,21 +90,6 @@
     [
       "vote",
       3,
-      "anger"
-    ],
-    [
-      "emergency",
-      2,
-      "fear"
-    ],
-    [
-      "systems",
-      2,
-      "trust"
-    ],
-    [
-      "hit",
-      2,
       "anger"
     ],
     [
@@ -181,6 +156,16 @@
       "winning",
       2,
       "disgust"
+    ],
+    [
+      "raid",
+      2,
+      "anger"
+    ],
+    [
+      "warning",
+      2,
+      "fear"
     ],
     [
       "justice",
@@ -298,19 +283,19 @@
       "fear"
     ],
     [
-      "started",
+      "experienced",
       1,
-      "anticipation"
+      "trust"
     ],
     [
-      "alarming",
+      "meddling",
       1,
-      "fear"
+      "anger"
     ],
     [
-      "late",
+      "hit",
       1,
-      "sadness"
+      "anger"
     ],
     [
       "suspected",
@@ -326,6 +311,11 @@
       "threat",
       1,
       "anger"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
     ],
     [
       "unknown",
@@ -376,16 +366,26 @@
       "ready",
       1,
       "anticipation"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
+      "oust",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
     "trust": 82,
-    "fear": 50,
+    "fear": 47,
     "surprise": 9,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 14,
-    "anger": 93,
-    "anticipation": 23
+    "anger": 92,
+    "anticipation": 22
   }
 }
