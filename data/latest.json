@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T12:52:34.037Z",
+  "generated_at": "2026-11-03T13:07:36.503Z",
   "article_count": 50,
   "top_words": [
     [
@@ -91,11 +91,6 @@
       "missile",
       3,
       "fear"
-    ],
-    [
-      "forces",
-      2,
-      "anger"
     ],
     [
       "airport",
@@ -283,11 +278,6 @@
       "anger"
     ],
     [
-      "operations",
-      1,
-      "fear"
-    ],
-    [
       "killing",
       1,
       "anger"
@@ -376,16 +366,26 @@
       "teachers",
       1,
       "trust"
+    ],
+    [
+      "farm",
+      1,
+      "anticipation"
+    ],
+    [
+      "falling",
+      1,
+      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 69,
-    "fear": 44,
+    "fear": 43,
     "surprise": 14,
     "sadness": 13,
     "disgust": 13,
-    "anger": 94,
+    "anger": 93,
     "anticipation": 26
   }
 }
