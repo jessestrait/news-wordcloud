@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:38:01.540Z",
+  "generated_at": "2026-11-03T13:53:05.465Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,12 +53,12 @@
       "trust"
     ],
     [
-      "bomb",
+      "iran",
       3,
       "anger"
     ],
     [
-      "iran",
+      "bomb",
       3,
       "anger"
     ],
@@ -108,6 +108,11 @@
       "fear"
     ],
     [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
       "airport",
       2,
       "anticipation"
@@ -131,11 +136,6 @@
       "prediction",
       2,
       "anticipation"
-    ],
-    [
-      "deal",
-      2,
-      "surprise"
     ],
     [
       "violence",
@@ -288,6 +288,11 @@
       "anger"
     ],
     [
+      "optimism",
+      1,
+      "surprise"
+    ],
+    [
       "killing",
       1,
       "anger"
@@ -329,11 +334,6 @@
     ],
     [
       "lucky",
-      1,
-      "surprise"
-    ],
-    [
-      "optimism",
       1,
       "surprise"
     ],
