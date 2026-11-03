@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-11-03T22:04:30.250Z",
+  "generated_at": "2026-11-03T22:19:35.298Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
       6,
       "trust"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
     ],
     [
       "bomb",
@@ -28,22 +33,12 @@
       "anger"
     ],
     [
-      "reparations",
+      "incident",
       4,
-      "trust"
-    ],
-    [
-      "commonwealth",
-      4,
-      "trust"
+      "surprise"
     ],
     [
       "strikes",
-      4,
-      "anger"
-    ],
-    [
-      "attack",
       4,
       "anger"
     ],
@@ -53,9 +48,19 @@
       "trust"
     ],
     [
+      "reparations",
+      3,
+      "trust"
+    ],
+    [
       "letters",
       3,
       "anticipation"
+    ],
+    [
+      "commonwealth",
+      3,
+      "trust"
     ],
     [
       "iran",
@@ -71,11 +76,6 @@
       "change",
       3,
       "fear"
-    ],
-    [
-      "incident",
-      3,
-      "surprise"
     ],
     [
       "police",
@@ -101,6 +101,16 @@
       "grow",
       2,
       "joy"
+    ],
+    [
+      "suspected",
+      2,
+      "fear"
+    ],
+    [
+      "grizzly",
+      2,
+      "fear"
     ],
     [
       "happened",
@@ -188,11 +198,6 @@
       "joy"
     ],
     [
-      "confront",
-      2,
-      "anger"
-    ],
-    [
       "trust",
       2,
       "trust"
@@ -201,11 +206,6 @@
       "finally",
       2,
       "disgust"
-    ],
-    [
-      "opportunity",
-      2,
-      "anticipation"
     ],
     [
       "opposition",
@@ -263,8 +263,23 @@
       "joy"
     ],
     [
-      "demand",
-      2,
+      "demands",
+      1,
+      "anger"
+    ],
+    [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
+      "bear",
+      1,
+      "anger"
+    ],
+    [
+      "attacked",
+      1,
       "anger"
     ],
     [
@@ -361,31 +376,16 @@
       "wisdom",
       1,
       "trust"
-    ],
-    [
-      "blunders",
-      1,
-      "disgust"
-    ],
-    [
-      "lucky",
-      1,
-      "surprise"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 70,
-    "fear": 41,
-    "surprise": 14,
+    "trust": 68,
+    "fear": 45,
+    "surprise": 15,
     "sadness": 12,
     "disgust": 13,
-    "anger": 94,
-    "anticipation": 26
+    "anger": 95,
+    "anticipation": 25
   }
 }
