@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:53:05.465Z",
+  "generated_at": "2026-11-03T14:08:08.394Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "bomb",
+      4,
+      "anger"
+    ],
+    [
       "strikes",
       4,
       "anger"
@@ -34,6 +39,11 @@
     ],
     [
       "attack",
+      4,
+      "anger"
+    ],
+    [
+      "threat",
       4,
       "anger"
     ],
@@ -58,11 +68,6 @@
       "anger"
     ],
     [
-      "bomb",
-      3,
-      "anger"
-    ],
-    [
       "power",
       3,
       "anticipation"
@@ -76,11 +81,6 @@
       "launch",
       3,
       "anticipation"
-    ],
-    [
-      "threat",
-      3,
-      "anger"
     ],
     [
       "family",
@@ -111,11 +111,6 @@
       "deal",
       2,
       "surprise"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
     ],
     [
       "trump",
@@ -376,6 +371,11 @@
       "teachers",
       1,
       "trust"
+    ],
+    [
+      "farm",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 14,
     "sadness": 12,
     "disgust": 13,
-    "anger": 94,
-    "anticipation": 27
+    "anger": 96,
+    "anticipation": 26
   }
 }
