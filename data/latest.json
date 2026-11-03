@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:22:40.080Z",
+  "generated_at": "2026-11-03T13:37:42.627Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,12 +53,12 @@
       "trust"
     ],
     [
-      "iran",
+      "bomb",
       3,
       "anger"
     ],
     [
-      "bomb",
+      "iran",
       3,
       "anger"
     ],
@@ -108,6 +108,11 @@
       "fear"
     ],
     [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
       "trump",
       2,
       "anger"
@@ -116,11 +121,6 @@
       "diplomatic",
       2,
       "trust"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
     ],
     [
       "humanitarian",
