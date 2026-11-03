@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:33:53.403Z",
+  "generated_at": "2026-11-03T06:48:55.714Z",
   "article_count": 50,
   "top_words": [
     [
@@ -74,11 +74,6 @@
     ],
     [
       "anger",
-      3,
-      "anger"
-    ],
-    [
-      "vote",
       3,
       "anger"
     ],
@@ -238,11 +233,6 @@
       "sadness"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "riot",
       2,
       "anger"
@@ -301,6 +291,21 @@
       "missile",
       2,
       "fear"
+    ],
+    [
+      "rules",
+      1,
+      "fear"
+    ],
+    [
+      "outcry",
+      1,
+      "anger"
+    ],
+    [
+      "uncertain",
+      1,
+      "anger"
     ],
     [
       "optimism",
@@ -371,21 +376,16 @@
       "poisoned",
       1,
       "anger"
-    ],
-    [
-      "provided",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 76,
-    "fear": 44,
+    "trust": 74,
+    "fear": 45,
     "surprise": 11,
     "sadness": 15,
     "disgust": 13,
-    "anger": 90,
-    "anticipation": 24
+    "anger": 88,
+    "anticipation": 23
   }
 }
