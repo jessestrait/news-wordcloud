@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:05:52.100Z",
+  "generated_at": "2026-11-03T10:20:54.895Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,16 @@
       "trust"
     ],
     [
+      "bomb",
+      3,
+      "anger"
+    ],
+    [
+      "threat",
+      3,
+      "anger"
+    ],
+    [
       "strikes",
       3,
       "anger"
@@ -78,9 +88,9 @@
       "fear"
     ],
     [
-      "trump",
+      "airport",
       2,
-      "anger"
+      "anticipation"
     ],
     [
       "iran",
@@ -131,11 +141,6 @@
       "incident",
       2,
       "surprise"
-    ],
-    [
-      "threat",
-      2,
-      "anger"
     ],
     [
       "warned",
@@ -288,16 +293,6 @@
       "anger"
     ],
     [
-      "unexpected",
-      1,
-      "fear"
-    ],
-    [
-      "berlin",
-      1,
-      "joy"
-    ],
-    [
       "optimism",
       1,
       "surprise"
@@ -376,16 +371,21 @@
       "chickens",
       1,
       "fear"
+    ],
+    [
+      "outrage",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 23,
     "trust": 72,
-    "fear": 44,
+    "fear": 43,
     "surprise": 10,
     "sadness": 15,
     "disgust": 12,
-    "anger": 89,
-    "anticipation": 22
+    "anger": 91,
+    "anticipation": 24
   }
 }
