@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:35:04.967Z",
+  "generated_at": "2026-11-03T08:50:08.264Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,11 +63,6 @@
       "anticipation"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "alliance",
       3,
       "trust"
@@ -81,6 +76,11 @@
       "missile",
       3,
       "fear"
+    ],
+    [
+      "trump",
+      2,
+      "anger"
     ],
     [
       "iran",
@@ -218,6 +218,11 @@
       "trust"
     ],
     [
+      "people",
+      2,
+      "trust"
+    ],
+    [
       "death",
       2,
       "sadness"
@@ -281,6 +286,16 @@
       "demand",
       2,
       "anger"
+    ],
+    [
+      "unexpected",
+      1,
+      "fear"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
     ],
     [
       "optimism",
@@ -361,28 +376,13 @@
       "chickens",
       1,
       "fear"
-    ],
-    [
-      "outrage",
-      1,
-      "anger"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "hit",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 73,
-    "fear": 43,
-    "surprise": 11,
+    "trust": 72,
+    "fear": 44,
+    "surprise": 10,
     "sadness": 15,
     "disgust": 12,
     "anger": 89,
