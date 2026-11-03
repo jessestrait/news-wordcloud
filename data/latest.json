@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:39:51.350Z",
+  "generated_at": "2026-11-03T16:54:55.445Z",
   "article_count": 50,
   "top_words": [
     [
@@ -71,11 +71,6 @@
       "commonwealth",
       3,
       "trust"
-    ],
-    [
-      "incident",
-      3,
-      "surprise"
     ],
     [
       "family",
@@ -171,6 +166,11 @@
       "letters",
       2,
       "anticipation"
+    ],
+    [
+      "incident",
+      2,
+      "surprise"
     ],
     [
       "warned",
@@ -382,7 +382,7 @@
     "joy": 22,
     "trust": 69,
     "fear": 45,
-    "surprise": 15,
+    "surprise": 14,
     "sadness": 11,
     "disgust": 13,
     "anger": 96,
