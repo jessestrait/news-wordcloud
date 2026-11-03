@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:17:18.823Z",
+  "generated_at": "2026-11-03T03:32:20.901Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,11 +21,6 @@
       "court",
       5,
       "anger"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "commonwealth",
@@ -63,6 +58,16 @@
       "fear"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
+      "media",
+      3,
+      "disgust"
+    ],
+    [
       "trust",
       3,
       "trust"
@@ -78,19 +83,34 @@
       "anger"
     ],
     [
-      "media",
-      3,
-      "disgust"
-    ],
-    [
       "vote",
       3,
       "anger"
     ],
     [
-      "letter",
-      3,
-      "anticipation"
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "hormuz",
+      2,
+      "fear"
     ],
     [
       "slavery",
@@ -106,6 +126,11 @@
       "structured",
       2,
       "trust"
+    ],
+    [
+      "letters",
+      2,
+      "anticipation"
     ],
     [
       "incident",
@@ -278,6 +303,31 @@
       "fear"
     ],
     [
+      "optimism",
+      1,
+      "surprise"
+    ],
+    [
+      "sound",
+      1,
+      "joy"
+    ],
+    [
+      "explosions",
+      1,
+      "fear"
+    ],
+    [
+      "coming",
+      1,
+      "anticipation"
+    ],
+    [
+      "crucial",
+      1,
+      "trust"
+    ],
+    [
       "diplomatic",
       1,
       "trust"
@@ -326,66 +376,16 @@
       "suppress",
       1,
       "anger"
-    ],
-    [
-      "demanding",
-      1,
-      "anger"
-    ],
-    [
-      "exposed",
-      1,
-      "fear"
-    ],
-    [
-      "think",
-      1,
-      "trust"
-    ],
-    [
-      "avoid",
-      1,
-      "fear"
-    ],
-    [
-      "government",
-      1,
-      "fear"
-    ],
-    [
-      "voted",
-      1,
-      "anger"
-    ],
-    [
-      "ready",
-      1,
-      "anticipation"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
-    ],
-    [
-      "oust",
-      1,
-      "anger"
-    ],
-    [
-      "showed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 78,
-    "fear": 47,
-    "surprise": 10,
-    "sadness": 16,
-    "disgust": 13,
-    "anger": 90,
+    "joy": 25,
+    "trust": 77,
+    "fear": 50,
+    "surprise": 11,
+    "sadness": 14,
+    "disgust": 12,
+    "anger": 91,
     "anticipation": 25
   }
 }
