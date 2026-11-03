@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:51:20.020Z",
+  "generated_at": "2026-11-03T11:06:22.534Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "anger"
     ],
     [
-      "police",
-      5,
-      "fear"
-    ],
-    [
       "trade",
       5,
       "trust"
@@ -28,9 +23,9 @@
       "anger"
     ],
     [
-      "threat",
+      "people",
       4,
-      "anger"
+      "trust"
     ],
     [
       "commonwealth",
@@ -41,6 +36,11 @@
       "family",
       4,
       "joy"
+    ],
+    [
+      "police",
+      4,
+      "fear"
     ],
     [
       "reparations",
@@ -58,14 +58,9 @@
       "anger"
     ],
     [
-      "media",
+      "threat",
       3,
-      "disgust"
-    ],
-    [
-      "people",
-      3,
-      "trust"
+      "anger"
     ],
     [
       "strikes",
@@ -96,6 +91,16 @@
       "missile",
       3,
       "fear"
+    ],
+    [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
+      "prediction",
+      2,
+      "anticipation"
     ],
     [
       "shows",
@@ -208,11 +213,6 @@
       "disgust"
     ],
     [
-      "raid",
-      2,
-      "anger"
-    ],
-    [
       "warning",
       2,
       "fear"
@@ -273,6 +273,11 @@
       "fear"
     ],
     [
+      "media",
+      2,
+      "disgust"
+    ],
+    [
       "beaches",
       2,
       "joy"
@@ -283,9 +288,29 @@
       "anger"
     ],
     [
-      "airport",
+      "operations",
       1,
-      "anticipation"
+      "fear"
+    ],
+    [
+      "accurate",
+      1,
+      "trust"
+    ],
+    [
+      "wisdom",
+      1,
+      "trust"
+    ],
+    [
+      "blunders",
+      1,
+      "disgust"
+    ],
+    [
+      "lucky",
+      1,
+      "surprise"
     ],
     [
       "shelter",
@@ -351,41 +376,16 @@
       "farm",
       1,
       "anticipation"
-    ],
-    [
-      "falling",
-      1,
-      "sadness"
-    ],
-    [
-      "sick",
-      1,
-      "disgust"
-    ],
-    [
-      "poisoned",
-      1,
-      "anger"
-    ],
-    [
-      "provided",
-      1,
-      "trust"
-    ],
-    [
-      "ill",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 71,
-    "fear": 43,
+    "joy": 22,
+    "trust": 74,
+    "fear": 42,
     "surprise": 11,
     "sadness": 13,
     "disgust": 13,
-    "anger": 95,
-    "anticipation": 22
+    "anger": 93,
+    "anticipation": 25
   }
 }
