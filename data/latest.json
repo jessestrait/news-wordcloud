@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:06:22.534Z",
+  "generated_at": "2026-11-03T11:21:25.175Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "trust"
     ],
     [
+      "airport",
+      3,
+      "anticipation"
+    ],
+    [
       "bomb",
       3,
       "anger"
@@ -66,11 +71,6 @@
       "strikes",
       3,
       "anger"
-    ],
-    [
-      "growing",
-      3,
-      "joy"
     ],
     [
       "change",
@@ -91,11 +91,6 @@
       "missile",
       3,
       "fear"
-    ],
-    [
-      "airport",
-      2,
-      "anticipation"
     ],
     [
       "prediction",
@@ -131,6 +126,11 @@
       "government",
       2,
       "fear"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "slavery",
@@ -188,11 +188,6 @@
       "trust"
     ],
     [
-      "poll",
-      2,
-      "trust"
-    ],
-    [
       "opportunity",
       2,
       "anticipation"
@@ -216,11 +211,6 @@
       "warning",
       2,
       "fear"
-    ],
-    [
-      "guardian",
-      2,
-      "trust"
     ],
     [
       "death",
@@ -376,16 +366,26 @@
       "farm",
       1,
       "anticipation"
+    ],
+    [
+      "falling",
+      1,
+      "sadness"
+    ],
+    [
+      "sick",
+      1,
+      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 74,
+    "trust": 70,
     "fear": 42,
-    "surprise": 11,
+    "surprise": 12,
     "sadness": 13,
     "disgust": 13,
-    "anger": 93,
-    "anticipation": 25
+    "anger": 92,
+    "anticipation": 26
   }
 }
