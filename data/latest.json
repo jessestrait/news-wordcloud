@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:38:34.230Z",
+  "generated_at": "2026-11-03T14:53:37.433Z",
   "article_count": 50,
   "top_words": [
     [
@@ -71,6 +71,11 @@
       "commonwealth",
       3,
       "trust"
+    ],
+    [
+      "incident",
+      3,
+      "surprise"
     ],
     [
       "family",
@@ -166,11 +171,6 @@
       "letters",
       2,
       "anticipation"
-    ],
-    [
-      "incident",
-      2,
-      "surprise"
     ],
     [
       "warned",
@@ -273,6 +273,16 @@
       "joy"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
+      "alarms",
+      1,
+      "fear"
+    ],
+    [
       "planes",
       1,
       "anticipation"
@@ -366,23 +376,13 @@
       "bank",
       1,
       "trust"
-    ],
-    [
-      "school",
-      1,
-      "trust"
-    ],
-    [
-      "academic",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 68,
-    "fear": 44,
-    "surprise": 14,
+    "trust": 69,
+    "fear": 45,
+    "surprise": 15,
     "sadness": 11,
     "disgust": 13,
     "anger": 96,
