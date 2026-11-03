@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T18:12:07.858Z",
+  "generated_at": "2026-11-03T18:27:29.847Z",
   "article_count": 50,
   "top_words": [
     [
@@ -106,6 +106,11 @@
       "president",
       3,
       "trust"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "nations",
@@ -268,6 +273,16 @@
       "joy"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
+      "alarms",
+      1,
+      "fear"
+    ],
+    [
       "words",
       1,
       "anger"
@@ -301,16 +316,6 @@
       "departures",
       1,
       "sadness"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
-      "alarms",
-      1,
-      "fear"
     ],
     [
       "optimism",
@@ -371,11 +376,6 @@
       "lucky",
       1,
       "surprise"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 12,
     "disgust": 13,
     "anger": 98,
-    "anticipation": 26
+    "anticipation": 27
   }
 }
