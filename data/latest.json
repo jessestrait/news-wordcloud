@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:25:29.403Z",
+  "generated_at": "2026-11-03T17:40:41.865Z",
   "article_count": 50,
   "top_words": [
     [
@@ -66,6 +66,11 @@
       "change",
       3,
       "fear"
+    ],
+    [
+      "incident",
+      3,
+      "surprise"
     ],
     [
       "family",
@@ -168,11 +173,6 @@
       "anticipation"
     ],
     [
-      "incident",
-      2,
-      "surprise"
-    ],
-    [
       "warned",
       2,
       "fear"
@@ -268,6 +268,31 @@
       "joy"
     ],
     [
+      "planes",
+      1,
+      "anticipation"
+    ],
+    [
+      "malicious",
+      1,
+      "anger"
+    ],
+    [
+      "hoax",
+      1,
+      "anger"
+    ],
+    [
+      "series",
+      1,
+      "trust"
+    ],
+    [
+      "departures",
+      1,
+      "sadness"
+    ],
+    [
       "words",
       1,
       "anger"
@@ -291,26 +316,6 @@
       "alarms",
       1,
       "fear"
-    ],
-    [
-      "planes",
-      1,
-      "anticipation"
-    ],
-    [
-      "flying",
-      1,
-      "fear"
-    ],
-    [
-      "explosives",
-      1,
-      "anger"
-    ],
-    [
-      "found",
-      1,
-      "joy"
     ],
     [
       "optimism",
@@ -371,21 +376,16 @@
       "lucky",
       1,
       "surprise"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 70,
-    "fear": 43,
-    "surprise": 13,
-    "sadness": 11,
+    "joy": 20,
+    "trust": 71,
+    "fear": 42,
+    "surprise": 14,
+    "sadness": 12,
     "disgust": 13,
-    "anger": 98,
+    "anger": 99,
     "anticipation": 26
   }
 }
