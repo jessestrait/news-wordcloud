@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:36:17.429Z",
+  "generated_at": "2026-11-03T10:51:20.020Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,7 +28,7 @@
       "anger"
     ],
     [
-      "bomb",
+      "threat",
       4,
       "anger"
     ],
@@ -53,9 +53,19 @@
       "trust"
     ],
     [
-      "threat",
+      "bomb",
       3,
       "anger"
+    ],
+    [
+      "media",
+      3,
+      "disgust"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "strikes",
@@ -73,11 +83,6 @@
       "fear"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "public",
       3,
       "anticipation"
@@ -93,9 +98,9 @@
       "fear"
     ],
     [
-      "airport",
+      "shows",
       2,
-      "anticipation"
+      "trust"
     ],
     [
       "iran",
@@ -121,11 +126,6 @@
       "government",
       2,
       "fear"
-    ],
-    [
-      "shows",
-      2,
-      "trust"
     ],
     [
       "slavery",
@@ -273,11 +273,6 @@
       "fear"
     ],
     [
-      "media",
-      2,
-      "disgust"
-    ],
-    [
       "beaches",
       2,
       "joy"
@@ -285,6 +280,26 @@
     [
       "demand",
       2,
+      "anger"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
+      "shelter",
+      1,
+      "trust"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
+    ],
+    [
+      "escalate",
+      1,
       "anger"
     ],
     [
@@ -361,21 +376,6 @@
       "ill",
       1,
       "anger"
-    ],
-    [
-      "chickens",
-      1,
-      "fear"
-    ],
-    [
-      "outrage",
-      1,
-      "anger"
-    ],
-    [
-      "mediate",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
@@ -384,8 +384,8 @@
     "fear": 43,
     "surprise": 11,
     "sadness": 13,
-    "disgust": 12,
+    "disgust": 13,
     "anger": 95,
-    "anticipation": 23
+    "anticipation": 22
   }
 }
