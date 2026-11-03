@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:23:11.043Z",
+  "generated_at": "2026-11-03T14:23:30.582Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,23 +8,23 @@
       "anger"
     ],
     [
+      "bomb",
+      5,
+      "anger"
+    ],
+    [
       "people",
       5,
       "trust"
     ],
     [
-      "trade",
-      5,
-      "trust"
-    ],
-    [
-      "court",
+      "threat",
       5,
       "anger"
     ],
     [
-      "bomb",
-      4,
+      "court",
+      5,
       "anger"
     ],
     [
@@ -33,17 +33,7 @@
       "anger"
     ],
     [
-      "commonwealth",
-      4,
-      "trust"
-    ],
-    [
       "attack",
-      4,
-      "anger"
-    ],
-    [
-      "threat",
       4,
       "anger"
     ],
@@ -53,7 +43,7 @@
       "fear"
     ],
     [
-      "reparations",
+      "trade",
       4,
       "trust"
     ],
@@ -78,9 +68,9 @@
       "fear"
     ],
     [
-      "launch",
+      "commonwealth",
       3,
-      "anticipation"
+      "trust"
     ],
     [
       "family",
@@ -91,6 +81,11 @@
       "public",
       3,
       "anticipation"
+    ],
+    [
+      "reparations",
+      3,
+      "trust"
     ],
     [
       "leader",
@@ -156,6 +151,11 @@
       "slavery",
       2,
       "anger"
+    ],
+    [
+      "launch",
+      2,
+      "anticipation"
     ],
     [
       "structured",
@@ -243,11 +243,6 @@
       "joy"
     ],
     [
-      "slave",
-      2,
-      "anger"
-    ],
-    [
       "building",
       2,
       "anticipation"
@@ -278,9 +273,24 @@
       "joy"
     ],
     [
-      "demand",
-      2,
+      "planes",
+      1,
+      "anticipation"
+    ],
+    [
+      "flying",
+      1,
+      "fear"
+    ],
+    [
+      "explosives",
+      1,
       "anger"
+    ],
+    [
+      "found",
+      1,
+      "joy"
     ],
     [
       "optimism",
@@ -366,24 +376,14 @@
       "academic",
       1,
       "trust"
-    ],
-    [
-      "teachers",
-      1,
-      "trust"
-    ],
-    [
-      "farm",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 71,
-    "fear": 43,
+    "joy": 22,
+    "trust": 68,
+    "fear": 44,
     "surprise": 14,
-    "sadness": 12,
+    "sadness": 11,
     "disgust": 13,
     "anger": 96,
     "anticipation": 26
