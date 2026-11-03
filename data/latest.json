@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:18:48.797Z",
+  "generated_at": "2026-11-03T06:33:53.403Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,14 +48,14 @@
       "trust"
     ],
     [
-      "growing",
-      3,
-      "joy"
-    ],
-    [
       "media",
       3,
       "disgust"
+    ],
+    [
+      "growing",
+      3,
+      "joy"
     ],
     [
       "public",
@@ -83,21 +83,6 @@
       "anger"
     ],
     [
-      "violence",
-      2,
-      "anger"
-    ],
-    [
-      "secret",
-      2,
-      "trust"
-    ],
-    [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "strikes",
       2,
       "anger"
@@ -119,6 +104,21 @@
     ],
     [
       "hormuz",
+      2,
+      "fear"
+    ],
+    [
+      "violence",
+      2,
+      "anger"
+    ],
+    [
+      "secret",
+      2,
+      "trust"
+    ],
+    [
+      "government",
       2,
       "fear"
     ],
@@ -303,6 +303,31 @@
       "fear"
     ],
     [
+      "optimism",
+      1,
+      "surprise"
+    ],
+    [
+      "sound",
+      1,
+      "joy"
+    ],
+    [
+      "explosions",
+      1,
+      "fear"
+    ],
+    [
+      "coming",
+      1,
+      "anticipation"
+    ],
+    [
+      "crucial",
+      1,
+      "trust"
+    ],
+    [
       "protected",
       1,
       "trust"
@@ -351,31 +376,6 @@
       "provided",
       1,
       "trust"
-    ],
-    [
-      "ill",
-      1,
-      "anger"
-    ],
-    [
-      "chickens",
-      1,
-      "fear"
-    ],
-    [
-      "outrage",
-      1,
-      "anger"
-    ],
-    [
-      "optimism",
-      1,
-      "surprise"
-    ],
-    [
-      "sound",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
