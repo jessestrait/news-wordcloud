@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T12:22:07.578Z",
+  "generated_at": "2026-11-03T12:37:10.080Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,9 +8,9 @@
       "anger"
     ],
     [
-      "attack",
+      "people",
       5,
-      "anger"
+      "trust"
     ],
     [
       "trade",
@@ -23,14 +23,19 @@
       "anger"
     ],
     [
-      "people",
+      "strikes",
       4,
-      "trust"
+      "anger"
     ],
     [
       "commonwealth",
       4,
       "trust"
+    ],
+    [
+      "attack",
+      4,
+      "anger"
     ],
     [
       "family",
@@ -58,9 +63,9 @@
       "anger"
     ],
     [
-      "strikes",
+      "power",
       3,
-      "anger"
+      "anticipation"
     ],
     [
       "change",
@@ -98,14 +103,14 @@
       "anticipation"
     ],
     [
+      "humanitarian",
+      2,
+      "surprise"
+    ],
+    [
       "prediction",
       2,
       "anticipation"
-    ],
-    [
-      "shows",
-      2,
-      "trust"
     ],
     [
       "iran",
@@ -258,11 +263,6 @@
       "anger"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "warns",
       2,
       "fear"
@@ -288,6 +288,31 @@
       "fear"
     ],
     [
+      "killing",
+      1,
+      "anger"
+    ],
+    [
+      "damaged",
+      1,
+      "anger"
+    ],
+    [
+      "hospitals",
+      1,
+      "fear"
+    ],
+    [
+      "wounded",
+      1,
+      "anger"
+    ],
+    [
+      "scores",
+      1,
+      "surprise"
+    ],
+    [
       "accurate",
       1,
       "trust"
@@ -306,21 +331,6 @@
       "lucky",
       1,
       "surprise"
-    ],
-    [
-      "shelter",
-      1,
-      "trust"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
-      "escalate",
-      1,
-      "anger"
     ],
     [
       "optimism",
@@ -366,26 +376,16 @@
       "teachers",
       1,
       "trust"
-    ],
-    [
-      "farm",
-      1,
-      "anticipation"
-    ],
-    [
-      "falling",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 70,
-    "fear": 43,
-    "surprise": 12,
+    "trust": 69,
+    "fear": 44,
+    "surprise": 14,
     "sadness": 13,
     "disgust": 13,
-    "anger": 93,
-    "anticipation": 25
+    "anger": 94,
+    "anticipation": 26
   }
 }
