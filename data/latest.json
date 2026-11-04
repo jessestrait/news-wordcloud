@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:00:25.114Z",
+  "generated_at": "2026-11-04T14:15:27.611Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,16 +53,6 @@
       "trust"
     ],
     [
-      "school",
-      3,
-      "trust"
-    ],
-    [
-      "growing",
-      3,
-      "joy"
-    ],
-    [
       "anger",
       3,
       "anger"
@@ -71,6 +61,16 @@
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "school",
+      3,
+      "trust"
+    ],
+    [
+      "growing",
+      3,
+      "joy"
     ],
     [
       "government",
@@ -108,6 +108,11 @@
       "trust"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "rules",
       2,
       "fear"
@@ -126,11 +131,6 @@
       "congress",
       2,
       "disgust"
-    ],
-    [
-      "vote",
-      2,
-      "anger"
     ],
     [
       "grow",
@@ -228,6 +228,21 @@
       "anger"
     ],
     [
+      "poor",
+      1,
+      "sadness"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "frustration",
+      1,
+      "anger"
+    ],
+    [
       "refugees",
       1,
       "sadness"
@@ -316,21 +331,6 @@
       "media",
       1,
       "disgust"
-    ],
-    [
-      "poor",
-      1,
-      "sadness"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "frustration",
-      1,
-      "anger"
     ],
     [
       "strategy",
