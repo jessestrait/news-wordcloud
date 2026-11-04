@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:30:30.130Z",
+  "generated_at": "2026-11-04T14:45:32.786Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,14 +108,14 @@
       "trust"
     ],
     [
-      "rules",
-      2,
-      "fear"
-    ],
-    [
       "confirmed",
       2,
       "trust"
+    ],
+    [
+      "rules",
+      2,
+      "fear"
     ],
     [
       "vote",
@@ -228,6 +228,11 @@
       "anger"
     ],
     [
+      "insane",
+      1,
+      "anger"
+    ],
+    [
       "refugees",
       1,
       "sadness"
@@ -241,11 +246,6 @@
       "arrive",
       1,
       "anticipation"
-    ],
-    [
-      "insane",
-      1,
-      "anger"
     ],
     [
       "poor",
