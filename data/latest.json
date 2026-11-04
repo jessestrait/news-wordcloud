@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:04:23.897Z",
+  "generated_at": "2026-11-04T21:19:25.780Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,9 +18,19 @@
       "anger"
     ],
     [
+      "slavery",
+      5,
+      "anger"
+    ],
+    [
       "bomb",
       5,
       "anger"
+    ],
+    [
+      "reparations",
+      4,
+      "trust"
     ],
     [
       "letter",
@@ -34,11 +44,6 @@
     ],
     [
       "trump",
-      4,
-      "anger"
-    ],
-    [
-      "slavery",
       4,
       "anger"
     ],
@@ -83,19 +88,9 @@
       "trust"
     ],
     [
-      "trust",
-      3,
-      "trust"
-    ],
-    [
       "plan",
       3,
       "anticipation"
-    ],
-    [
-      "reparations",
-      3,
-      "trust"
     ],
     [
       "iran",
@@ -110,6 +105,11 @@
     [
       "leader",
       3,
+      "trust"
+    ],
+    [
+      "justice",
+      2,
       "trust"
     ],
     [
@@ -136,6 +136,11 @@
       "public",
       2,
       "anticipation"
+    ],
+    [
+      "trust",
+      2,
+      "trust"
     ],
     [
       "anger",
@@ -223,11 +228,6 @@
       "anger"
     ],
     [
-      "warning",
-      2,
-      "fear"
-    ],
-    [
       "crash",
       2,
       "fear"
@@ -236,6 +236,16 @@
       "death",
       2,
       "sadness"
+    ],
+    [
+      "debt",
+      1,
+      "sadness"
+    ],
+    [
+      "leading",
+      1,
+      "trust"
     ],
     [
       "mother",
@@ -366,26 +376,16 @@
       "expected",
       1,
       "anticipation"
-    ],
-    [
-      "frustration",
-      1,
-      "anger"
-    ],
-    [
-      "arrive",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 14,
-    "trust": 68,
-    "fear": 45,
+    "joy": 13,
+    "trust": 69,
+    "fear": 43,
     "surprise": 12,
-    "sadness": 16,
+    "sadness": 17,
     "disgust": 9,
     "anger": 100,
-    "anticipation": 30
+    "anticipation": 29
   }
 }
