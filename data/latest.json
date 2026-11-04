@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:45:53.026Z",
+  "generated_at": "2026-11-04T15:00:55.783Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,14 +113,14 @@
       "trust"
     ],
     [
-      "rules",
-      2,
-      "fear"
-    ],
-    [
       "vote",
       2,
       "anger"
+    ],
+    [
+      "rules",
+      2,
+      "fear"
     ],
     [
       "president",
@@ -233,21 +233,6 @@
       "anger"
     ],
     [
-      "refugees",
-      1,
-      "sadness"
-    ],
-    [
-      "home",
-      1,
-      "joy"
-    ],
-    [
-      "arrive",
-      1,
-      "anticipation"
-    ],
-    [
       "poor",
       1,
       "sadness"
@@ -261,6 +246,21 @@
       "frustration",
       1,
       "anger"
+    ],
+    [
+      "refugees",
+      1,
+      "sadness"
+    ],
+    [
+      "home",
+      1,
+      "joy"
+    ],
+    [
+      "arrive",
+      1,
+      "anticipation"
     ],
     [
       "commission",
