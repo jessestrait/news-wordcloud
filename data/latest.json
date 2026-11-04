@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-11-04T19:33:35.172Z",
+  "generated_at": "2026-11-04T19:48:37.378Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      6,
+      "anger"
+    ],
     [
       "people",
       6,
@@ -10,11 +15,6 @@
     [
       "threat",
       6,
-      "anger"
-    ],
-    [
-      "attack",
-      5,
       "anger"
     ],
     [
@@ -63,6 +63,11 @@
       "trust"
     ],
     [
+      "grizzly",
+      3,
+      "fear"
+    ],
+    [
       "refugee",
       3,
       "sadness"
@@ -103,9 +108,19 @@
       "trust"
     ],
     [
-      "specialist",
+      "bear",
       2,
-      "trust"
+      "anger"
+    ],
+    [
+      "missing",
+      2,
+      "fear"
+    ],
+    [
+      "home",
+      2,
+      "joy"
     ],
     [
       "confirmed",
@@ -163,11 +178,6 @@
       "fear"
     ],
     [
-      "grizzly",
-      2,
-      "fear"
-    ],
-    [
       "diplomatic",
       2,
       "trust"
@@ -203,11 +213,6 @@
       "trust"
     ],
     [
-      "family",
-      2,
-      "joy"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -238,9 +243,39 @@
       "sadness"
     ],
     [
-      "crime",
-      2,
-      "anger"
+      "mother",
+      1,
+      "sadness"
+    ],
+    [
+      "daughter",
+      1,
+      "joy"
+    ],
+    [
+      "killed",
+      1,
+      "fear"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "conservation",
+      1,
+      "trust"
+    ],
+    [
+      "officers",
+      1,
+      "trust"
+    ],
+    [
+      "found",
+      1,
+      "joy"
     ],
     [
       "evacuated",
@@ -254,6 +289,11 @@
     ],
     [
       "stable",
+      1,
+      "trust"
+    ],
+    [
+      "specialist",
       1,
       "trust"
     ],
@@ -336,56 +376,16 @@
       "expected",
       1,
       "anticipation"
-    ],
-    [
-      "frustration",
-      1,
-      "anger"
-    ],
-    [
-      "home",
-      1,
-      "joy"
-    ],
-    [
-      "arrive",
-      1,
-      "anticipation"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "rejects",
-      1,
-      "anger"
-    ],
-    [
-      "voting",
-      1,
-      "anger"
-    ],
-    [
-      "fraud",
-      1,
-      "anger"
-    ],
-    [
-      "attorney",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 13,
-    "trust": 66,
-    "fear": 45,
+    "joy": 15,
+    "trust": 68,
+    "fear": 46,
     "surprise": 12,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 9,
-    "anger": 100,
+    "anger": 98,
     "anticipation": 30
   }
 }
