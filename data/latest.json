@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-04T13:45:04.897Z",
+  "generated_at": "2026-11-04T14:00:07.373Z",
   "article_count": 50,
   "top_words": [
     [
-      "threat",
+      "attack",
       6,
       "anger"
     ],
     [
-      "attack",
-      5,
+      "threat",
+      6,
       "anger"
     ],
     [
@@ -53,6 +53,11 @@
       "trust"
     ],
     [
+      "school",
+      3,
+      "trust"
+    ],
+    [
       "growing",
       3,
       "joy"
@@ -71,6 +76,11 @@
       "government",
       3,
       "fear"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "reparations",
@@ -93,27 +103,17 @@
       "fear"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
       "leader",
       3,
       "trust"
     ],
     [
-      "commission",
+      "rules",
       2,
-      "trust"
+      "fear"
     ],
     [
-      "world",
-      2,
-      "trust"
-    ],
-    [
-      "bank",
+      "confirmed",
       2,
       "trust"
     ],
@@ -131,11 +131,6 @@
       "vote",
       2,
       "anger"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "grow",
@@ -193,6 +188,11 @@
       "joy"
     ],
     [
+      "police",
+      2,
+      "fear"
+    ],
+    [
       "trust",
       2,
       "trust"
@@ -226,6 +226,31 @@
       "crime",
       2,
       "anger"
+    ],
+    [
+      "refugees",
+      1,
+      "sadness"
+    ],
+    [
+      "home",
+      1,
+      "joy"
+    ],
+    [
+      "arrive",
+      1,
+      "anticipation"
+    ],
+    [
+      "insane",
+      1,
+      "anger"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
     ],
     [
       "rejects",
@@ -348,44 +373,19 @@
       "anger"
     ],
     [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
       "alarms",
       1,
       "fear"
-    ],
-    [
-      "happened",
-      1,
-      "anticipation"
-    ],
-    [
-      "malicious",
-      1,
-      "anger"
-    ],
-    [
-      "hoax",
-      1,
-      "anger"
-    ],
-    [
-      "series",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 16,
-    "trust": 65,
-    "fear": 44,
-    "surprise": 13,
+    "joy": 17,
+    "trust": 64,
+    "fear": 43,
+    "surprise": 12,
     "sadness": 12,
     "disgust": 11,
-    "anger": 99,
-    "anticipation": 25
+    "anger": 100,
+    "anticipation": 27
   }
 }
