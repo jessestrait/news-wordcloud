@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-11-04T16:46:47.705Z",
+  "generated_at": "2026-11-04T17:01:52.132Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      6,
+      "trust"
+    ],
     [
       "attack",
       6,
@@ -18,9 +23,9 @@
       "anger"
     ],
     [
-      "people",
-      5,
-      "trust"
+      "letter",
+      4,
+      "anticipation"
     ],
     [
       "government",
@@ -58,6 +63,11 @@
       "trust"
     ],
     [
+      "refugee",
+      3,
+      "sadness"
+    ],
+    [
       "school",
       3,
       "trust"
@@ -68,16 +78,6 @@
       "trust"
     ],
     [
-      "anger",
-      3,
-      "anger"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "plan",
       3,
       "anticipation"
@@ -86,11 +86,6 @@
       "reparations",
       3,
       "trust"
-    ],
-    [
-      "letters",
-      3,
-      "anticipation"
     ],
     [
       "iran",
@@ -128,9 +123,19 @@
       "anticipation"
     ],
     [
+      "anger",
+      2,
+      "anger"
+    ],
+    [
       "vote",
       2,
       "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "rules",
@@ -144,11 +149,6 @@
     ],
     [
       "growing",
-      2,
-      "joy"
-    ],
-    [
-      "grow",
       2,
       "joy"
     ],
@@ -238,6 +238,41 @@
       "anger"
     ],
     [
+      "tax",
+      1,
+      "sadness"
+    ],
+    [
+      "punitive",
+      1,
+      "anger"
+    ],
+    [
+      "measure",
+      1,
+      "trust"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
+    ],
+    [
+      "risk",
+      1,
+      "fear"
+    ],
+    [
+      "poverty",
+      1,
+      "sadness"
+    ],
+    [
+      "council",
+      1,
+      "trust"
+    ],
+    [
       "insane",
       1,
       "anger"
@@ -276,11 +311,6 @@
       "frustration",
       1,
       "anger"
-    ],
-    [
-      "refugees",
-      1,
-      "sadness"
     ],
     [
       "home",
@@ -346,45 +376,15 @@
       "second",
       1,
       "trust"
-    ],
-    [
-      "exiled",
-      1,
-      "anger"
-    ],
-    [
-      "intimidation",
-      1,
-      "anger"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "strategy",
-      1,
-      "anticipation"
-    ],
-    [
-      "class",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 15,
-    "trust": 64,
-    "fear": 46,
+    "joy": 13,
+    "trust": 67,
+    "fear": 45,
     "surprise": 12,
-    "sadness": 10,
-    "disgust": 11,
+    "sadness": 15,
+    "disgust": 9,
     "anger": 101,
     "anticipation": 29
   }
