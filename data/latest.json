@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T03:52:24.306Z",
+  "generated_at": "2026-11-04T04:07:26.799Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "anger"
     ],
     [
+      "power",
+      4,
+      "anticipation"
+    ],
+    [
       "slavery",
       4,
       "anger"
@@ -46,6 +51,16 @@
       "trade",
       4,
       "trust"
+    ],
+    [
+      "anger",
+      3,
+      "anger"
+    ],
+    [
+      "vote",
+      3,
+      "anger"
     ],
     [
       "government",
@@ -71,11 +86,6 @@
       "iran",
       3,
       "anger"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
     ],
     [
       "change",
@@ -183,11 +193,6 @@
       "fear"
     ],
     [
-      "fighting",
-      2,
-      "anger"
-    ],
-    [
       "family",
       2,
       "joy"
@@ -201,11 +206,6 @@
       "finally",
       2,
       "disgust"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "opposition",
@@ -228,27 +228,12 @@
       "sadness"
     ],
     [
-      "anger",
-      2,
-      "anger"
-    ],
-    [
-      "court",
-      2,
-      "anger"
-    ],
-    [
       "truce",
       2,
       "joy"
     ],
     [
       "crime",
-      2,
-      "anger"
-    ],
-    [
-      "fight",
       2,
       "anger"
     ],
@@ -263,9 +248,19 @@
       "disgust"
     ],
     [
-      "beaches",
-      2,
-      "joy"
+      "poor",
+      1,
+      "sadness"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "frustration",
+      1,
+      "anger"
     ],
     [
       "strategy",
@@ -376,16 +371,21 @@
       "hospitals",
       1,
       "fear"
+    ],
+    [
+      "wounded",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
+    "joy": 15,
     "trust": 66,
     "fear": 45,
-    "surprise": 15,
-    "sadness": 11,
+    "surprise": 14,
+    "sadness": 12,
     "disgust": 13,
     "anger": 94,
-    "anticipation": 27
+    "anticipation": 28
   }
 }
