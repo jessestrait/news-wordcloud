@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-11-04T05:53:44.653Z",
+  "generated_at": "2026-11-04T06:08:47.118Z",
   "article_count": 50,
   "top_words": [
+    [
+      "threat",
+      6,
+      "anger"
+    ],
     [
       "attack",
       5,
@@ -19,11 +24,6 @@
     ],
     [
       "war",
-      5,
-      "anger"
-    ],
-    [
-      "threat",
       5,
       "anger"
     ],
@@ -51,6 +51,11 @@
       "trade",
       4,
       "trust"
+    ],
+    [
+      "growing",
+      3,
+      "joy"
     ],
     [
       "anger",
@@ -168,16 +173,6 @@
       "anger"
     ],
     [
-      "secret",
-      2,
-      "trust"
-    ],
-    [
-      "growing",
-      2,
-      "joy"
-    ],
-    [
       "launch",
       2,
       "anticipation"
@@ -238,13 +233,23 @@
       "anger"
     ],
     [
-      "president",
-      2,
-      "trust"
+      "exiled",
+      1,
+      "anger"
+    ],
+    [
+      "intimidation",
+      1,
+      "anger"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
     ],
     [
       "media",
-      2,
+      1,
       "disgust"
     ],
     [
@@ -371,21 +376,16 @@
       "hospitals",
       1,
       "fear"
-    ],
-    [
-      "wounded",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 15,
-    "trust": 66,
+    "joy": 16,
+    "trust": 63,
     "fear": 45,
     "surprise": 14,
     "sadness": 12,
-    "disgust": 13,
-    "anger": 94,
-    "anticipation": 28
+    "disgust": 12,
+    "anger": 97,
+    "anticipation": 29
   }
 }
