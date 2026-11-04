@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T12:44:37.187Z",
+  "generated_at": "2026-11-04T12:59:39.608Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "trust"
     ],
     [
+      "police",
+      3,
+      "fear"
+    ],
+    [
       "growing",
       3,
       "joy"
@@ -89,11 +94,6 @@
     ],
     [
       "change",
-      3,
-      "fear"
-    ],
-    [
-      "police",
       3,
       "fear"
     ],
@@ -228,6 +228,36 @@
       "anger"
     ],
     [
+      "found",
+      1,
+      "joy"
+    ],
+    [
+      "suspect",
+      1,
+      "fear"
+    ],
+    [
+      "uncover",
+      1,
+      "surprise"
+    ],
+    [
+      "improvised",
+      1,
+      "surprise"
+    ],
+    [
+      "explosive",
+      1,
+      "anger"
+    ],
+    [
+      "operation",
+      1,
+      "fear"
+    ],
+    [
       "rejects",
       1,
       "anger"
@@ -346,44 +376,14 @@
       "attacked",
       1,
       "anger"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
-    ],
-    [
-      "alarms",
-      1,
-      "fear"
-    ],
-    [
-      "happened",
-      1,
-      "anticipation"
-    ],
-    [
-      "malicious",
-      1,
-      "anger"
-    ],
-    [
-      "hoax",
-      1,
-      "anger"
-    ],
-    [
-      "series",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 16,
-    "trust": 65,
-    "fear": 44,
-    "surprise": 13,
-    "sadness": 12,
+    "joy": 17,
+    "trust": 64,
+    "fear": 45,
+    "surprise": 14,
+    "sadness": 11,
     "disgust": 11,
     "anger": 99,
     "anticipation": 25
