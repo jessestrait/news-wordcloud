@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:20:48.773Z",
+  "generated_at": "2026-11-04T00:35:51.313Z",
   "article_count": 50,
   "top_words": [
     [
@@ -263,6 +263,16 @@
       "joy"
     ],
     [
+      "accused",
+      1,
+      "anger"
+    ],
+    [
+      "mountain",
+      1,
+      "anticipation"
+    ],
+    [
       "demands",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "scores",
       1,
       "surprise"
-    ],
-    [
-      "accurate",
-      1,
-      "trust"
-    ],
-    [
-      "wisdom",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 68,
-    "fear": 45,
+    "trust": 67,
+    "fear": 44,
     "surprise": 15,
-    "sadness": 12,
+    "sadness": 11,
     "disgust": 13,
     "anger": 95,
-    "anticipation": 25
+    "anticipation": 26
   }
 }
