@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:18:32.860Z",
+  "generated_at": "2026-11-04T19:33:35.172Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,14 +103,9 @@
       "trust"
     ],
     [
-      "expected",
+      "specialist",
       2,
-      "anticipation"
-    ],
-    [
-      "arrive",
-      2,
-      "anticipation"
+      "trust"
     ],
     [
       "confirmed",
@@ -263,6 +258,16 @@
       "trust"
     ],
     [
+      "infectious",
+      1,
+      "fear"
+    ],
+    [
+      "disease",
+      1,
+      "anger"
+    ],
+    [
       "tax",
       1,
       "sadness"
@@ -328,6 +333,11 @@
       "sadness"
     ],
     [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
       "frustration",
       1,
       "anger"
@@ -336,6 +346,11 @@
       "home",
       1,
       "joy"
+    ],
+    [
+      "arrive",
+      1,
+      "anticipation"
     ],
     [
       "commission",
@@ -361,31 +376,16 @@
       "attorney",
       1,
       "anger"
-    ],
-    [
-      "general",
-      1,
-      "trust"
-    ],
-    [
-      "interrogate",
-      1,
-      "fear"
-    ],
-    [
-      "victory",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
-    "trust": 65,
-    "fear": 44,
+    "trust": 66,
+    "fear": 45,
     "surprise": 12,
     "sadness": 15,
     "disgust": 9,
-    "anger": 99,
-    "anticipation": 32
+    "anger": 100,
+    "anticipation": 30
   }
 }
