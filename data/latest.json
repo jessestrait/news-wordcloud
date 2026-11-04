@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:46:23.061Z",
+  "generated_at": "2026-11-04T16:01:26.190Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,12 +58,12 @@
       "trust"
     ],
     [
-      "trust",
+      "school",
       3,
       "trust"
     ],
     [
-      "school",
+      "trust",
       3,
       "trust"
     ],
@@ -108,6 +108,11 @@
       "trust"
     ],
     [
+      "confirmed",
+      2,
+      "trust"
+    ],
+    [
       "damaged",
       2,
       "anger"
@@ -116,11 +121,6 @@
       "public",
       2,
       "anticipation"
-    ],
-    [
-      "confirmed",
-      2,
-      "trust"
     ],
     [
       "vote",
@@ -233,6 +233,11 @@
       "anger"
     ],
     [
+      "insane",
+      1,
+      "anger"
+    ],
+    [
       "deadly",
       1,
       "anger"
@@ -249,11 +254,6 @@
     ],
     [
       "socialist",
-      1,
-      "anger"
-    ],
-    [
-      "insane",
       1,
       "anger"
     ],
