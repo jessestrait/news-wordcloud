@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-11-05T09:56:12.832Z",
+  "generated_at": "2026-11-05T10:11:15.170Z",
   "article_count": 50,
   "top_words": [
     [
       "threat",
       8,
+      "anger"
+    ],
+    [
+      "slavery",
+      6,
       "anger"
     ],
     [
@@ -33,16 +38,6 @@
       "trust"
     ],
     [
-      "slavery",
-      5,
-      "anger"
-    ],
-    [
-      "government",
-      5,
-      "fear"
-    ],
-    [
       "letter",
       5,
       "anticipation"
@@ -51,6 +46,11 @@
       "prison",
       4,
       "anger"
+    ],
+    [
+      "government",
+      4,
+      "fear"
     ],
     [
       "plan",
@@ -131,11 +131,6 @@
       "risk",
       2,
       "fear"
-    ],
-    [
-      "policy",
-      2,
-      "trust"
     ],
     [
       "hospital",
@@ -233,19 +228,9 @@
       "anticipation"
     ],
     [
-      "change",
-      2,
-      "fear"
-    ],
-    [
       "launch",
       2,
       "anticipation"
-    ],
-    [
-      "poll",
-      2,
-      "trust"
     ],
     [
       "military",
@@ -256,6 +241,31 @@
       "base",
       1,
       "trust"
+    ],
+    [
+      "focused",
+      1,
+      "trust"
+    ],
+    [
+      "cash",
+      1,
+      "anger"
+    ],
+    [
+      "advocates",
+      1,
+      "trust"
+    ],
+    [
+      "justice",
+      1,
+      "trust"
+    ],
+    [
+      "money",
+      1,
+      "anger"
     ],
     [
       "treated",
@@ -353,6 +363,11 @@
       "trust"
     ],
     [
+      "policy",
+      1,
+      "trust"
+    ],
+    [
       "protesters",
       1,
       "anger"
@@ -361,31 +376,16 @@
       "rail",
       1,
       "anger"
-    ],
-    [
-      "rising",
-      1,
-      "joy"
-    ],
-    [
-      "show",
-      1,
-      "trust"
-    ],
-    [
-      "fall",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 14,
-    "trust": 64,
-    "fear": 44,
+    "trust": 63,
+    "fear": 41,
     "surprise": 12,
     "sadness": 13,
     "disgust": 8,
-    "anger": 96,
+    "anger": 98,
     "anticipation": 35
   }
 }
