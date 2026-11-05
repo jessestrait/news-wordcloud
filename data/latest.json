@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-05T15:44:37.786Z",
+  "generated_at": "2026-11-05T15:59:40.180Z",
   "article_count": 50,
   "top_words": [
     [
-      "threat",
+      "bomb",
       10,
       "anger"
     ],
     [
-      "bomb",
-      9,
+      "threat",
+      10,
       "anger"
     ],
     [
@@ -28,14 +28,14 @@
       "trust"
     ],
     [
+      "plan",
+      6,
+      "anticipation"
+    ],
+    [
       "strike",
       5,
       "anger"
-    ],
-    [
-      "plan",
-      5,
-      "anticipation"
     ],
     [
       "iran",
@@ -61,11 +61,6 @@
       "attack",
       4,
       "anger"
-    ],
-    [
-      "letter",
-      4,
-      "anticipation"
     ],
     [
       "law",
@@ -106,6 +101,11 @@
       "refugee",
       3,
       "sadness"
+    ],
+    [
+      "letter",
+      3,
+      "anticipation"
     ],
     [
       "school",
@@ -236,6 +236,11 @@
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "concerned",
+      1,
+      "fear"
     ],
     [
       "agreed",
@@ -371,21 +376,16 @@
       "cash",
       1,
       "anger"
-    ],
-    [
-      "advocates",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
     "trust": 68,
-    "fear": 40,
+    "fear": 41,
     "surprise": 11,
     "sadness": 14,
     "disgust": 5,
-    "anger": 107,
+    "anger": 108,
     "anticipation": 36
   }
 }
