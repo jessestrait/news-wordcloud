@@ -1,9 +1,14 @@
 {
-  "generated_at": "2026-11-05T11:12:00.202Z",
+  "generated_at": "2026-11-05T11:27:02.182Z",
   "article_count": 50,
   "top_words": [
     [
       "threat",
+      10,
+      "anger"
+    ],
+    [
+      "bomb",
       8,
       "anger"
     ],
@@ -25,11 +30,6 @@
     [
       "attack",
       6,
-      "anger"
-    ],
-    [
-      "bomb",
-      5,
       "anger"
     ],
     [
@@ -103,6 +103,11 @@
       "joy"
     ],
     [
+      "series",
+      2,
+      "trust"
+    ],
+    [
       "president",
       2,
       "trust"
@@ -116,11 +121,6 @@
       "fate",
       2,
       "anticipation"
-    ],
-    [
-      "finally",
-      2,
-      "disgust"
     ],
     [
       "victory",
@@ -173,16 +173,6 @@
       "anger"
     ],
     [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
-      "trust",
-      2,
-      "trust"
-    ],
-    [
       "vote",
       2,
       "anger"
@@ -233,14 +223,19 @@
       "anticipation"
     ],
     [
-      "military",
+      "passengers",
       1,
-      "fear"
+      "anticipation"
     ],
     [
-      "base",
+      "disruption",
       1,
-      "trust"
+      "anger"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
     ],
     [
       "heroes",
@@ -353,6 +348,11 @@
       "trust"
     ],
     [
+      "finally",
+      1,
+      "disgust"
+    ],
+    [
       "row",
       1,
       "anger"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 15,
-    "trust": 62,
-    "fear": 40,
+    "joy": 14,
+    "trust": 61,
+    "fear": 39,
     "surprise": 13,
     "sadness": 14,
-    "disgust": 6,
-    "anger": 96,
+    "disgust": 5,
+    "anger": 99,
     "anticipation": 36
   }
 }
