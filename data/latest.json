@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:50:54.839Z",
+  "generated_at": "2026-11-05T00:05:57.534Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,6 +68,11 @@
       "trust"
     ],
     [
+      "commonwealth",
+      3,
+      "trust"
+    ],
+    [
       "grizzly",
       3,
       "fear"
@@ -105,11 +110,6 @@
     [
       "leader",
       3,
-      "trust"
-    ],
-    [
-      "justice",
-      2,
       "trust"
     ],
     [
@@ -208,11 +208,6 @@
       "trust"
     ],
     [
-      "commonwealth",
-      2,
-      "trust"
-    ],
-    [
       "police",
       2,
       "fear"
@@ -236,16 +231,6 @@
       "death",
       2,
       "sadness"
-    ],
-    [
-      "debt",
-      1,
-      "sadness"
-    ],
-    [
-      "leading",
-      1,
-      "trust"
     ],
     [
       "mother",
@@ -376,14 +361,29 @@
       "expected",
       1,
       "anticipation"
+    ],
+    [
+      "frustration",
+      1,
+      "anger"
+    ],
+    [
+      "arrive",
+      1,
+      "anticipation"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
-    "trust": 69,
+    "trust": 68,
     "fear": 43,
     "surprise": 12,
-    "sadness": 17,
+    "sadness": 16,
     "disgust": 9,
     "anger": 100,
     "anticipation": 29
