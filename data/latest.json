@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T12:12:24.945Z",
+  "generated_at": "2026-11-05T12:27:26.980Z",
   "article_count": 50,
   "top_words": [
     [
@@ -228,6 +228,11 @@
       "anticipation"
     ],
     [
+      "inequality",
+      1,
+      "anger"
+    ],
+    [
       "protesters",
       1,
       "anger"
@@ -371,11 +376,6 @@
       "finally",
       1,
       "disgust"
-    ],
-    [
-      "row",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 13,
     "sadness": 14,
     "disgust": 5,
-    "anger": 96,
+    "anger": 97,
     "anticipation": 36
   }
 }
