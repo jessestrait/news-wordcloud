@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:07:55.856Z",
+  "generated_at": "2026-11-05T04:22:58.008Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,6 +24,16 @@
     ],
     [
       "slavery",
+      5,
+      "anger"
+    ],
+    [
+      "war",
+      5,
+      "anger"
+    ],
+    [
+      "strikes",
       5,
       "anger"
     ],
@@ -53,11 +63,6 @@
       "surprise"
     ],
     [
-      "strikes",
-      4,
-      "anger"
-    ],
-    [
       "commonwealth",
       3,
       "trust"
@@ -83,17 +88,17 @@
       "trust"
     ],
     [
+      "growing",
+      3,
+      "joy"
+    ],
+    [
       "plan",
       3,
       "anticipation"
     ],
     [
       "iran",
-      3,
-      "anger"
-    ],
-    [
-      "war",
       3,
       "anger"
     ],
@@ -106,6 +111,11 @@
       "opportunity",
       2,
       "anticipation"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
     ],
     [
       "home",
@@ -138,11 +148,6 @@
       "trust"
     ],
     [
-      "anger",
-      2,
-      "anger"
-    ],
-    [
       "vote",
       2,
       "anger"
@@ -158,14 +163,14 @@
       "fear"
     ],
     [
-      "congress",
+      "ice",
       2,
-      "disgust"
+      "fear"
     ],
     [
-      "growing",
+      "rubble",
       2,
-      "joy"
+      "fear"
     ],
     [
       "suspected",
@@ -221,11 +226,6 @@
       "leader",
       2,
       "trust"
-    ],
-    [
-      "opposition",
-      2,
-      "anger"
     ],
     [
       "crash",
@@ -291,11 +291,6 @@
       "daughter",
       1,
       "joy"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
     ],
     [
       "authorities",
@@ -376,16 +371,21 @@
       "council",
       1,
       "trust"
+    ],
+    [
+      "insane",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 12,
-    "trust": 67,
-    "fear": 45,
+    "joy": 13,
+    "trust": 65,
+    "fear": 47,
     "surprise": 12,
-    "sadness": 17,
-    "disgust": 9,
-    "anger": 99,
-    "anticipation": 31
+    "sadness": 16,
+    "disgust": 8,
+    "anger": 100,
+    "anticipation": 32
   }
 }
