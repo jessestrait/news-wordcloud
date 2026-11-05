@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:27:02.182Z",
+  "generated_at": "2026-11-05T11:42:04.195Z",
   "article_count": 50,
   "top_words": [
     [
@@ -223,6 +223,11 @@
       "anticipation"
     ],
     [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
       "passengers",
       1,
       "anticipation"
@@ -231,11 +236,6 @@
       "disruption",
       1,
       "anger"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
     ],
     [
       "heroes",
