@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T17:30:40.316Z",
+  "generated_at": "2026-11-05T17:45:42.745Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,11 +10,6 @@
     [
       "threat",
       10,
-      "anger"
-    ],
-    [
-      "war",
-      7,
       "anger"
     ],
     [
@@ -33,7 +28,17 @@
       "anticipation"
     ],
     [
+      "war",
+      5,
+      "anger"
+    ],
+    [
       "strike",
+      5,
+      "anger"
+    ],
+    [
+      "attack",
       5,
       "anger"
     ],
@@ -51,16 +56,6 @@
       "reparations",
       4,
       "trust"
-    ],
-    [
-      "government",
-      4,
-      "fear"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "officers",
@@ -86,6 +81,11 @@
       "victory",
       3,
       "joy"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "grizzly",
@@ -118,17 +118,17 @@
       "anger"
     ],
     [
-      "growing",
-      3,
-      "joy"
-    ],
-    [
-      "authorities",
-      2,
-      "trust"
-    ],
-    [
       "treated",
+      2,
+      "anger"
+    ],
+    [
+      "money",
+      2,
+      "anger"
+    ],
+    [
+      "hoax",
       2,
       "anger"
     ],
@@ -148,14 +148,14 @@
       "fear"
     ],
     [
+      "military",
+      2,
+      "fear"
+    ],
+    [
       "second",
       2,
       "trust"
-    ],
-    [
-      "hoax",
-      2,
-      "anger"
     ],
     [
       "series",
@@ -218,6 +218,11 @@
       "fear"
     ],
     [
+      "growing",
+      2,
+      "joy"
+    ],
+    [
       "rubble",
       2,
       "fear"
@@ -228,29 +233,9 @@
       "surprise"
     ],
     [
-      "humanitarian",
-      2,
-      "surprise"
-    ],
-    [
       "prediction",
       2,
       "anticipation"
-    ],
-    [
-      "protesters",
-      1,
-      "anger"
-    ],
-    [
-      "peaceful",
-      1,
-      "surprise"
-    ],
-    [
-      "police",
-      1,
-      "fear"
     ],
     [
       "brother",
@@ -273,6 +258,11 @@
       "anticipation"
     ],
     [
+      "official",
+      1,
+      "trust"
+    ],
+    [
       "involvement",
       1,
       "anger"
@@ -284,6 +274,71 @@
     ],
     [
       "suspect",
+      1,
+      "fear"
+    ],
+    [
+      "waste",
+      1,
+      "disgust"
+    ],
+    [
+      "americans",
+      1,
+      "sadness"
+    ],
+    [
+      "parroted",
+      1,
+      "disgust"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
+      "concerned",
+      1,
+      "fear"
+    ],
+    [
+      "fears",
+      1,
+      "anger"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "diversions",
+      1,
+      "surprise"
+    ],
+    [
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "peaceful",
+      1,
+      "surprise"
+    ],
+    [
+      "police",
       1,
       "fear"
     ],
@@ -318,74 +373,19 @@
       "joy"
     ],
     [
-      "hit",
-      1,
-      "anger"
-    ],
-    [
-      "concerned",
-      1,
-      "fear"
-    ],
-    [
       "agreed",
       1,
       "trust"
-    ],
-    [
-      "supply",
-      1,
-      "fear"
-    ],
-    [
-      "military",
-      1,
-      "fear"
-    ],
-    [
-      "cooperation",
-      1,
-      "trust"
-    ],
-    [
-      "weighs",
-      1,
-      "trust"
-    ],
-    [
-      "condemn",
-      1,
-      "anger"
-    ],
-    [
-      "cruel",
-      1,
-      "anger"
-    ],
-    [
-      "jail",
-      1,
-      "fear"
-    ],
-    [
-      "sentence",
-      1,
-      "anger"
-    ],
-    [
-      "attempt",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 14,
-    "trust": 69,
-    "fear": 41,
-    "surprise": 13,
-    "sadness": 15,
-    "disgust": 5,
-    "anger": 114,
+    "joy": 13,
+    "trust": 70,
+    "fear": 40,
+    "surprise": 12,
+    "sadness": 16,
+    "disgust": 8,
+    "anger": 115,
     "anticipation": 36
   }
 }
