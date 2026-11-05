@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T16:14:42.630Z",
+  "generated_at": "2026-11-05T16:29:55.009Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "slavery",
-      7,
+      6,
       "anger"
     ],
     [
@@ -123,6 +123,16 @@
       "joy"
     ],
     [
+      "fees",
+      2,
+      "anger"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
       "missile",
       2,
       "fear"
@@ -169,11 +179,6 @@
     ],
     [
       "show",
-      2,
-      "trust"
-    ],
-    [
-      "commonwealth",
       2,
       "trust"
     ],
@@ -233,9 +238,34 @@
       "anticipation"
     ],
     [
-      "launch",
-      2,
+      "guarantee",
+      1,
+      "trust"
+    ],
+    [
+      "university",
+      1,
       "anticipation"
+    ],
+    [
+      "failure",
+      1,
+      "fear"
+    ],
+    [
+      "lower",
+      1,
+      "sadness"
+    ],
+    [
+      "delay",
+      1,
+      "anger"
+    ],
+    [
+      "food",
+      1,
+      "joy"
     ],
     [
       "concerned",
@@ -346,46 +376,16 @@
       "disruption",
       1,
       "anger"
-    ],
-    [
-      "heroes",
-      1,
-      "surprise"
-    ],
-    [
-      "powered",
-      1,
-      "anticipation"
-    ],
-    [
-      "older",
-      1,
-      "sadness"
-    ],
-    [
-      "praised",
-      1,
-      "joy"
-    ],
-    [
-      "focused",
-      1,
-      "trust"
-    ],
-    [
-      "cash",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 13,
-    "trust": 68,
-    "fear": 41,
-    "surprise": 11,
-    "sadness": 14,
+    "joy": 14,
+    "trust": 67,
+    "fear": 42,
+    "surprise": 12,
+    "sadness": 15,
     "disgust": 5,
-    "anger": 108,
+    "anger": 110,
     "anticipation": 36
   }
 }
