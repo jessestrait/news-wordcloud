@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T16:30:12.188Z",
+  "generated_at": "2026-11-05T16:45:14.590Z",
   "article_count": 50,
   "top_words": [
     [
@@ -268,6 +268,11 @@
       "joy"
     ],
     [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
       "concerned",
       1,
       "fear"
@@ -371,11 +376,6 @@
       "passengers",
       1,
       "anticipation"
-    ],
-    [
-      "disruption",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 12,
     "sadness": 15,
     "disgust": 5,
-    "anger": 110,
+    "anger": 111,
     "anticipation": 36
   }
 }
