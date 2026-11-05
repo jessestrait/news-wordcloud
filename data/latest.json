@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:43:14.708Z",
+  "generated_at": "2026-11-05T13:58:16.691Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,6 +24,11 @@
     ],
     [
       "strike",
+      5,
+      "anger"
+    ],
+    [
+      "war",
       5,
       "anger"
     ],
@@ -58,19 +63,34 @@
       "fear"
     ],
     [
-      "war",
-      4,
-      "anger"
-    ],
-    [
       "incident",
       4,
       "surprise"
     ],
     [
+      "officers",
+      3,
+      "trust"
+    ],
+    [
+      "president",
+      3,
+      "trust"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
       "diplomatic",
       3,
       "trust"
+    ],
+    [
+      "victory",
+      3,
+      "joy"
     ],
     [
       "grizzly",
@@ -103,11 +123,6 @@
       "joy"
     ],
     [
-      "hoax",
-      2,
-      "anger"
-    ],
-    [
       "hospital",
       2,
       "fear"
@@ -118,17 +133,12 @@
       "anticipation"
     ],
     [
-      "officers",
+      "hoax",
       2,
-      "trust"
+      "anger"
     ],
     [
       "series",
-      2,
-      "trust"
-    ],
-    [
-      "president",
       2,
       "trust"
     ],
@@ -141,11 +151,6 @@
       "fate",
       2,
       "anticipation"
-    ],
-    [
-      "victory",
-      2,
-      "joy"
     ],
     [
       "risk",
@@ -188,17 +193,7 @@
       "anger"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "rules",
-      2,
-      "fear"
-    ],
-    [
-      "ice",
       2,
       "fear"
     ],
@@ -233,6 +228,31 @@
       "anticipation"
     ],
     [
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "rail",
+      1,
+      "anger"
+    ],
+    [
+      "police",
+      1,
+      "fear"
+    ],
+    [
+      "attempt",
+      1,
+      "anticipation"
+    ],
+    [
+      "dismissals",
+      1,
+      "anger"
+    ],
+    [
       "warfare",
       1,
       "anger"
@@ -261,21 +281,6 @@
       "inequality",
       1,
       "anger"
-    ],
-    [
-      "protesters",
-      1,
-      "anger"
-    ],
-    [
-      "rail",
-      1,
-      "anger"
-    ],
-    [
-      "police",
-      1,
-      "fear"
     ],
     [
       "passengers",
@@ -371,21 +376,16 @@
       "prosecuted",
       1,
       "anger"
-    ],
-    [
-      "wild",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
-    "trust": 61,
-    "fear": 38,
-    "surprise": 14,
+    "trust": 63,
+    "fear": 37,
+    "surprise": 13,
     "sadness": 14,
     "disgust": 5,
-    "anger": 101,
-    "anticipation": 37
+    "anger": 103,
+    "anticipation": 38
   }
 }
