@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-05T05:54:04.300Z",
+  "generated_at": "2026-11-05T06:09:06.131Z",
   "article_count": 50,
   "top_words": [
+    [
+      "reparations",
+      6,
+      "trust"
+    ],
+    [
+      "slavery",
+      6,
+      "anger"
+    ],
     [
       "strike",
       6,
@@ -11,11 +21,6 @@
       "attack",
       6,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "threat",
@@ -28,19 +33,14 @@
       "fear"
     ],
     [
-      "slavery",
+      "people",
       5,
-      "anger"
+      "trust"
     ],
     [
       "war",
       5,
       "anger"
-    ],
-    [
-      "reparations",
-      4,
-      "trust"
     ],
     [
       "letter",
@@ -56,6 +56,16 @@
       "bomb",
       4,
       "anger"
+    ],
+    [
+      "finally",
+      3,
+      "disgust"
+    ],
+    [
+      "diplomatic",
+      3,
+      "trust"
     ],
     [
       "commonwealth",
@@ -106,6 +116,11 @@
       "change",
       3,
       "fear"
+    ],
+    [
+      "victory",
+      2,
+      "joy"
     ],
     [
       "risk",
@@ -198,11 +213,6 @@
       "fear"
     ],
     [
-      "diplomatic",
-      2,
-      "trust"
-    ],
-    [
       "humanitarian",
       2,
       "surprise"
@@ -223,11 +233,6 @@
       "trust"
     ],
     [
-      "finally",
-      2,
-      "disgust"
-    ],
-    [
       "poll",
       2,
       "trust"
@@ -243,9 +248,24 @@
       "fear"
     ],
     [
-      "death",
-      2,
-      "sadness"
+      "row",
+      1,
+      "anger"
+    ],
+    [
+      "moral",
+      1,
+      "anger"
+    ],
+    [
+      "ground",
+      1,
+      "trust"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
     ],
     [
       "found",
@@ -356,36 +376,16 @@
       "stable",
       1,
       "trust"
-    ],
-    [
-      "specialist",
-      1,
-      "trust"
-    ],
-    [
-      "infectious",
-      1,
-      "fear"
-    ],
-    [
-      "disease",
-      1,
-      "anger"
-    ],
-    [
-      "tax",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 15,
-    "trust": 67,
-    "fear": 48,
+    "trust": 69,
+    "fear": 47,
     "surprise": 12,
-    "sadness": 16,
-    "disgust": 8,
-    "anger": 95,
+    "sadness": 14,
+    "disgust": 9,
+    "anger": 96,
     "anticipation": 32
   }
 }
