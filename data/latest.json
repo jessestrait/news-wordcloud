@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T18:16:06.026Z",
+  "generated_at": "2026-11-05T18:31:08.072Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anger"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "power",
       4,
       "anticipation"
@@ -66,6 +61,11 @@
       "reparations",
       4,
       "trust"
+    ],
+    [
+      "attack",
+      4,
+      "anger"
     ],
     [
       "happened",
@@ -118,22 +118,22 @@
       "trust"
     ],
     [
+      "vote",
+      3,
+      "anger"
+    ],
+    [
       "trump",
       3,
       "anger"
     ],
     [
-      "treated",
-      2,
-      "anger"
-    ],
-    [
-      "money",
-      2,
-      "anger"
-    ],
-    [
       "hoax",
+      2,
+      "anger"
+    ],
+    [
+      "treated",
       2,
       "anger"
     ],
@@ -218,11 +218,6 @@
       "anger"
     ],
     [
-      "vote",
-      2,
-      "anger"
-    ],
-    [
       "rules",
       2,
       "fear"
@@ -246,6 +241,26 @@
       "prediction",
       2,
       "anticipation"
+    ],
+    [
+      "fears",
+      1,
+      "anger"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "diversions",
+      1,
+      "surprise"
     ],
     [
       "avoid",
@@ -303,7 +318,12 @@
       "fear"
     ],
     [
-      "waste",
+      "sick",
+      1,
+      "disgust"
+    ],
+    [
+      "stomach",
       1,
       "disgust"
     ],
@@ -311,6 +331,11 @@
       "americans",
       1,
       "sadness"
+    ],
+    [
+      "attacking",
+      1,
+      "anger"
     ],
     [
       "parroted",
@@ -333,26 +358,6 @@
       "fear"
     ],
     [
-      "fears",
-      1,
-      "anger"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "diversions",
-      1,
-      "surprise"
-    ],
-    [
       "protesters",
       1,
       "anger"
@@ -371,11 +376,6 @@
       "university",
       1,
       "anticipation"
-    ],
-    [
-      "failure",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -384,7 +384,7 @@
     "fear": 41,
     "surprise": 11,
     "sadness": 16,
-    "disgust": 7,
+    "disgust": 8,
     "anger": 113,
     "anticipation": 38
   }
