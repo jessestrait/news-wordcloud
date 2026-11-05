@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T17:45:42.745Z",
+  "generated_at": "2026-11-05T18:00:45.129Z",
   "article_count": 50,
   "top_words": [
     [
@@ -56,6 +56,11 @@
       "reparations",
       4,
       "trust"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "officers",
@@ -133,6 +138,16 @@
       "anger"
     ],
     [
+      "general",
+      2,
+      "trust"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
       "fees",
       2,
       "anger"
@@ -196,11 +211,6 @@
       "confirmed",
       2,
       "trust"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "damaged",
@@ -333,11 +343,6 @@
       "anger"
     ],
     [
-      "peaceful",
-      1,
-      "surprise"
-    ],
-    [
       "police",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "food",
       1,
       "joy"
-    ],
-    [
-      "agreed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
-    "trust": 70,
+    "trust": 71,
     "fear": 40,
-    "surprise": 12,
+    "surprise": 11,
     "sadness": 16,
     "disgust": 8,
     "anger": 115,
-    "anticipation": 36
+    "anticipation": 38
   }
 }
