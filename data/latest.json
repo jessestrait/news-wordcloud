@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:48:34.593Z",
+  "generated_at": "2026-11-05T23:03:37.462Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,11 +43,6 @@
       "anger"
     ],
     [
-      "power",
-      4,
-      "anticipation"
-    ],
-    [
       "iran",
       4,
       "anger"
@@ -86,6 +81,11 @@
       "law",
       3,
       "trust"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "victory",
@@ -313,19 +313,24 @@
       "fear"
     ],
     [
-      "avoid",
-      1,
-      "fear"
-    ],
-    [
-      "fell",
-      1,
-      "sadness"
-    ],
-    [
       "majority",
       1,
       "joy"
+    ],
+    [
+      "break",
+      1,
+      "surprise"
+    ],
+    [
+      "result",
+      1,
+      "anticipation"
+    ],
+    [
+      "remains",
+      1,
+      "fear"
     ],
     [
       "brother",
@@ -371,19 +376,14 @@
       "sick",
       1,
       "disgust"
-    ],
-    [
-      "stomach",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 14,
     "trust": 72,
     "fear": 46,
-    "surprise": 11,
-    "sadness": 16,
+    "surprise": 12,
+    "sadness": 15,
     "disgust": 8,
     "anger": 110,
     "anticipation": 40
