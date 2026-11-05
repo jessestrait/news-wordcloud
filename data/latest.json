@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:11:15.170Z",
+  "generated_at": "2026-11-05T10:26:17.415Z",
   "article_count": 50,
   "top_words": [
     [
@@ -106,11 +106,6 @@
       "growing",
       3,
       "joy"
-    ],
-    [
-      "media",
-      2,
-      "disgust"
     ],
     [
       "law",
@@ -376,6 +371,11 @@
       "rail",
       1,
       "anger"
+    ],
+    [
+      "rising",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
@@ -384,7 +384,7 @@
     "fear": 41,
     "surprise": 12,
     "sadness": 13,
-    "disgust": 8,
+    "disgust": 7,
     "anger": 98,
     "anticipation": 35
   }
