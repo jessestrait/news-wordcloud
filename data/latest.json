@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:29:13.586Z",
+  "generated_at": "2026-11-05T15:44:16.560Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,13 +13,13 @@
       "anger"
     ],
     [
-      "slavery",
+      "war",
       7,
       "anger"
     ],
     [
-      "war",
-      6,
+      "slavery",
+      7,
       "anger"
     ],
     [
@@ -308,11 +308,6 @@
       "anger"
     ],
     [
-      "warfare",
-      1,
-      "anger"
-    ],
-    [
       "fears",
       1,
       "anger"
@@ -376,6 +371,11 @@
       "cash",
       1,
       "anger"
+    ],
+    [
+      "advocates",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
