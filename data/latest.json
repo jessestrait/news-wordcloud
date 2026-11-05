@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:59:08.053Z",
+  "generated_at": "2026-11-05T15:14:10.763Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "anger"
     ],
     [
+      "war",
+      6,
+      "anger"
+    ],
+    [
       "people",
       6,
       "trust"
@@ -28,19 +33,14 @@
       "anger"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
-      "letter",
-      5,
-      "anticipation"
-    ],
-    [
       "plan",
       5,
       "anticipation"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
     ],
     [
       "prison",
@@ -63,6 +63,11 @@
       "anger"
     ],
     [
+      "letter",
+      4,
+      "anticipation"
+    ],
+    [
       "law",
       3,
       "trust"
@@ -81,11 +86,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "diplomatic",
-      3,
-      "trust"
     ],
     [
       "victory",
@@ -123,9 +123,9 @@
       "joy"
     ],
     [
-      "incident",
-      3,
-      "surprise"
+      "missile",
+      2,
+      "fear"
     ],
     [
       "second",
@@ -156,6 +156,11 @@
       "fate",
       2,
       "anticipation"
+    ],
+    [
+      "diplomatic",
+      2,
+      "trust"
     ],
     [
       "risk",
@@ -213,9 +218,9 @@
       "fear"
     ],
     [
-      "iran",
+      "incident",
       2,
-      "anger"
+      "surprise"
     ],
     [
       "humanitarian",
@@ -231,6 +236,31 @@
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "agreed",
+      1,
+      "trust"
+    ],
+    [
+      "supply",
+      1,
+      "fear"
+    ],
+    [
+      "military",
+      1,
+      "fear"
+    ],
+    [
+      "cooperation",
+      1,
+      "trust"
+    ],
+    [
+      "weighs",
+      1,
+      "trust"
     ],
     [
       "condemn",
@@ -346,46 +376,16 @@
       "cash",
       1,
       "anger"
-    ],
-    [
-      "advocates",
-      1,
-      "trust"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
-    ],
-    [
-      "money",
-      1,
-      "anger"
-    ],
-    [
-      "treated",
-      1,
-      "anger"
-    ],
-    [
-      "criminal",
-      1,
-      "anger"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
-    "trust": 66,
-    "fear": 37,
-    "surprise": 12,
+    "trust": 68,
+    "fear": 40,
+    "surprise": 11,
     "sadness": 14,
     "disgust": 5,
-    "anger": 104,
-    "anticipation": 37
+    "anger": 107,
+    "anticipation": 36
   }
 }
