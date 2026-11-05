@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-05T11:57:22.928Z",
+  "generated_at": "2026-11-05T12:12:24.945Z",
   "article_count": 50,
   "top_words": [
     [
       "threat",
-      10,
+      9,
       "anger"
     ],
     [
@@ -14,7 +14,7 @@
     ],
     [
       "slavery",
-      6,
+      7,
       "anger"
     ],
     [
@@ -24,12 +24,12 @@
     ],
     [
       "strike",
-      6,
+      5,
       "anger"
     ],
     [
       "attack",
-      6,
+      5,
       "anger"
     ],
     [
@@ -103,6 +103,21 @@
       "joy"
     ],
     [
+      "hospital",
+      2,
+      "fear"
+    ],
+    [
+      "expected",
+      2,
+      "anticipation"
+    ],
+    [
+      "officers",
+      2,
+      "trust"
+    ],
+    [
       "series",
       2,
       "trust"
@@ -131,16 +146,6 @@
       "risk",
       2,
       "fear"
-    ],
-    [
-      "hospital",
-      2,
-      "fear"
-    ],
-    [
-      "expected",
-      2,
-      "anticipation"
     ],
     [
       "commonwealth",
@@ -221,6 +226,21 @@
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "rail",
+      1,
+      "anger"
+    ],
+    [
+      "police",
+      1,
+      "fear"
     ],
     [
       "forced",
@@ -356,36 +376,16 @@
       "row",
       1,
       "anger"
-    ],
-    [
-      "moral",
-      1,
-      "anger"
-    ],
-    [
-      "ground",
-      1,
-      "trust"
-    ],
-    [
-      "legal",
-      1,
-      "trust"
-    ],
-    [
-      "found",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 14,
-    "trust": 61,
-    "fear": 39,
+    "joy": 13,
+    "trust": 62,
+    "fear": 37,
     "surprise": 13,
     "sadness": 14,
     "disgust": 5,
-    "anger": 99,
+    "anger": 96,
     "anticipation": 36
   }
 }
