@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T03:22:33.946Z",
+  "generated_at": "2026-11-05T03:37:36.079Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,11 +63,6 @@
       "anger"
     ],
     [
-      "trade",
-      4,
-      "trust"
-    ],
-    [
       "commonwealth",
       3,
       "trust"
@@ -108,7 +103,7 @@
       "fear"
     ],
     [
-      "leader",
+      "trade",
       3,
       "trust"
     ],
@@ -218,6 +213,11 @@
       "disgust"
     ],
     [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "opposition",
       2,
       "anger"
@@ -231,6 +231,36 @@
       "death",
       2,
       "sadness"
+    ],
+    [
+      "sentenced",
+      1,
+      "anger"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
+    ],
+    [
+      "case",
+      1,
+      "fear"
+    ],
+    [
+      "imprisoned",
+      1,
+      "anger"
+    ],
+    [
+      "prosecuted",
+      1,
+      "anger"
+    ],
+    [
+      "laws",
+      1,
+      "trust"
     ],
     [
       "mother",
@@ -346,46 +376,16 @@
       "system",
       1,
       "trust"
-    ],
-    [
-      "socialist",
-      1,
-      "anger"
-    ],
-    [
-      "poor",
-      1,
-      "sadness"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "frustration",
-      1,
-      "anger"
-    ],
-    [
-      "arrive",
-      1,
-      "anticipation"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
-    "trust": 68,
-    "fear": 43,
+    "trust": 67,
+    "fear": 44,
     "surprise": 12,
     "sadness": 16,
     "disgust": 9,
-    "anger": 100,
+    "anger": 103,
     "anticipation": 29
   }
 }
