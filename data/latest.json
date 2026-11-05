@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:31:53.676Z",
+  "generated_at": "2026-11-05T19:46:56.188Z",
   "article_count": 50,
   "top_words": [
     [
@@ -123,6 +123,11 @@
       "anger"
     ],
     [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
       "hoax",
       2,
       "anger"
@@ -243,21 +248,6 @@
       "anticipation"
     ],
     [
-      "resigns",
-      1,
-      "anger"
-    ],
-    [
-      "banking",
-      1,
-      "trust"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
       "operations",
       1,
       "fear"
@@ -376,6 +366,16 @@
       "anti",
       1,
       "anger"
+    ],
+    [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
+      "concerned",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 11,
     "sadness": 15,
     "disgust": 8,
-    "anger": 113,
+    "anger": 112,
     "anticipation": 38
   }
 }
