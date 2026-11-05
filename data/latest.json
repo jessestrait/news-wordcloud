@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-05T12:42:47.469Z",
+  "generated_at": "2026-11-05T12:57:49.992Z",
   "article_count": 50,
   "top_words": [
     [
       "threat",
-      9,
+      10,
       "anger"
     ],
     [
       "bomb",
-      8,
+      9,
       "anger"
     ],
     [
@@ -38,6 +38,11 @@
       "anticipation"
     ],
     [
+      "plan",
+      5,
+      "anticipation"
+    ],
+    [
       "prison",
       4,
       "anger"
@@ -51,11 +56,6 @@
       "government",
       4,
       "fear"
-    ],
-    [
-      "plan",
-      4,
-      "anticipation"
     ],
     [
       "war",
@@ -101,6 +101,11 @@
       "growing",
       3,
       "joy"
+    ],
+    [
+      "hoax",
+      2,
+      "anger"
     ],
     [
       "hospital",
@@ -228,9 +233,29 @@
       "anticipation"
     ],
     [
+      "warfare",
+      1,
+      "anger"
+    ],
+    [
+      "fears",
+      1,
+      "anger"
+    ],
+    [
       "forced",
       1,
       "fear"
+    ],
+    [
+      "emergency",
+      1,
+      "fear"
+    ],
+    [
+      "diversions",
+      1,
+      "surprise"
     ],
     [
       "inequality",
@@ -351,41 +376,16 @@
       "wild",
       1,
       "surprise"
-    ],
-    [
-      "pavements",
-      1,
-      "trust"
-    ],
-    [
-      "worry",
-      1,
-      "fear"
-    ],
-    [
-      "laments",
-      1,
-      "fear"
-    ],
-    [
-      "books",
-      1,
-      "trust"
-    ],
-    [
-      "finally",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
-    "trust": 62,
-    "fear": 37,
-    "surprise": 13,
+    "trust": 61,
+    "fear": 38,
+    "surprise": 14,
     "sadness": 14,
     "disgust": 5,
-    "anger": 97,
-    "anticipation": 36
+    "anger": 101,
+    "anticipation": 37
   }
 }
