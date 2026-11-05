@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:18:56.209Z",
+  "generated_at": "2026-11-05T23:33:58.431Z",
   "article_count": 50,
   "top_words": [
     [
@@ -313,24 +313,9 @@
       "fear"
     ],
     [
-      "majority",
-      1,
-      "joy"
-    ],
-    [
       "break",
       1,
       "surprise"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
-    ],
-    [
-      "remains",
-      1,
-      "fear"
     ],
     [
       "brother",
@@ -376,16 +361,31 @@
       "sick",
       1,
       "disgust"
+    ],
+    [
+      "stomach",
+      1,
+      "disgust"
+    ],
+    [
+      "americans",
+      1,
+      "sadness"
+    ],
+    [
+      "attacking",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 14,
+    "joy": 13,
     "trust": 72,
-    "fear": 46,
+    "fear": 45,
     "surprise": 12,
     "sadness": 15,
     "disgust": 8,
     "anger": 110,
-    "anticipation": 40
+    "anticipation": 39
   }
 }
