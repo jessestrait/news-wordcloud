@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T17:15:37.533Z",
+  "generated_at": "2026-11-05T17:30:40.316Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,12 +63,12 @@
       "anger"
     ],
     [
-      "law",
+      "officers",
       3,
       "trust"
     ],
     [
-      "officers",
+      "law",
       3,
       "trust"
     ],
@@ -123,6 +123,16 @@
       "joy"
     ],
     [
+      "authorities",
+      2,
+      "trust"
+    ],
+    [
+      "treated",
+      2,
+      "anger"
+    ],
+    [
       "fees",
       2,
       "anger"
@@ -141,16 +151,6 @@
       "second",
       2,
       "trust"
-    ],
-    [
-      "hospital",
-      2,
-      "fear"
-    ],
-    [
-      "expected",
-      2,
-      "anticipation"
     ],
     [
       "hoax",
@@ -238,6 +238,56 @@
       "anticipation"
     ],
     [
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "peaceful",
+      1,
+      "surprise"
+    ],
+    [
+      "police",
+      1,
+      "fear"
+    ],
+    [
+      "brother",
+      1,
+      "trust"
+    ],
+    [
+      "child",
+      1,
+      "joy"
+    ],
+    [
+      "abuse",
+      1,
+      "anger"
+    ],
+    [
+      "inquiry",
+      1,
+      "anticipation"
+    ],
+    [
+      "involvement",
+      1,
+      "anger"
+    ],
+    [
+      "crime",
+      1,
+      "anger"
+    ],
+    [
+      "suspect",
+      1,
+      "fear"
+    ],
+    [
       "guarantee",
       1,
       "trust"
@@ -323,69 +373,19 @@
       "anger"
     ],
     [
-      "protesters",
-      1,
-      "anger"
-    ],
-    [
-      "rail",
-      1,
-      "anger"
-    ],
-    [
-      "police",
-      1,
-      "fear"
-    ],
-    [
       "attempt",
-      1,
-      "anticipation"
-    ],
-    [
-      "dismissals",
-      1,
-      "anger"
-    ],
-    [
-      "fears",
-      1,
-      "anger"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
-      "emergency",
-      1,
-      "fear"
-    ],
-    [
-      "diversions",
-      1,
-      "surprise"
-    ],
-    [
-      "inequality",
-      1,
-      "anger"
-    ],
-    [
-      "passengers",
       1,
       "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 14,
-    "trust": 67,
-    "fear": 42,
-    "surprise": 12,
+    "trust": 69,
+    "fear": 41,
+    "surprise": 13,
     "sadness": 15,
     "disgust": 5,
-    "anger": 111,
+    "anger": 114,
     "anticipation": 36
   }
 }
