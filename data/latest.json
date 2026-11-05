@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:17:19.498Z",
+  "generated_at": "2026-11-05T20:32:22.260Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,6 +68,11 @@
       "anger"
     ],
     [
+      "hospital",
+      3,
+      "fear"
+    ],
+    [
       "happened",
       3,
       "anticipation"
@@ -121,6 +126,21 @@
       "trump",
       3,
       "anger"
+    ],
+    [
+      "patient",
+      2,
+      "anticipation"
+    ],
+    [
+      "evacuated",
+      2,
+      "fear"
+    ],
+    [
+      "specialist",
+      2,
+      "trust"
     ],
     [
       "bank",
@@ -223,9 +243,9 @@
       "anger"
     ],
     [
-      "rules",
+      "arrive",
       2,
-      "fear"
+      "anticipation"
     ],
     [
       "growing",
@@ -246,6 +266,16 @@
       "prediction",
       2,
       "anticipation"
+    ],
+    [
+      "doctor",
+      1,
+      "trust"
+    ],
+    [
+      "isolation",
+      1,
+      "sadness"
     ],
     [
       "operations",
@@ -346,46 +376,16 @@
       "stomach",
       1,
       "disgust"
-    ],
-    [
-      "americans",
-      1,
-      "sadness"
-    ],
-    [
-      "attacking",
-      1,
-      "anger"
-    ],
-    [
-      "parroted",
-      1,
-      "disgust"
-    ],
-    [
-      "anti",
-      1,
-      "anger"
-    ],
-    [
-      "hit",
-      1,
-      "anger"
-    ],
-    [
-      "concerned",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 14,
-    "trust": 70,
-    "fear": 44,
+    "trust": 72,
+    "fear": 46,
     "surprise": 11,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 8,
-    "anger": 112,
-    "anticipation": 38
+    "anger": 110,
+    "anticipation": 40
   }
 }
