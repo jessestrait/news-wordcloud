@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:54:50.245Z",
+  "generated_at": "2026-11-05T08:09:52.496Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anger"
     ],
     [
+      "prison",
+      4,
+      "anger"
+    ],
+    [
       "incident",
       4,
       "surprise"
@@ -55,11 +60,6 @@
     [
       "bomb",
       4,
-      "anger"
-    ],
-    [
-      "prison",
-      3,
       "anger"
     ],
     [
@@ -253,6 +253,26 @@
       "trust"
     ],
     [
+      "sentenced",
+      1,
+      "anger"
+    ],
+    [
+      "case",
+      1,
+      "fear"
+    ],
+    [
+      "prosecuted",
+      1,
+      "anger"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
       "wild",
       1,
       "surprise"
@@ -323,31 +343,6 @@
       "joy"
     ],
     [
-      "sentenced",
-      1,
-      "anger"
-    ],
-    [
-      "case",
-      1,
-      "fear"
-    ],
-    [
-      "imprisoned",
-      1,
-      "anger"
-    ],
-    [
-      "prosecuted",
-      1,
-      "anger"
-    ],
-    [
-      "laws",
-      1,
-      "trust"
-    ],
-    [
       "show",
       1,
       "trust"
@@ -374,6 +369,11 @@
     ],
     [
       "conservation",
+      1,
+      "trust"
+    ],
+    [
+      "officers",
       1,
       "trust"
     ]
