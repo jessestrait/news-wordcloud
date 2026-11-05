@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:28:46.098Z",
+  "generated_at": "2026-11-05T14:43:48.228Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anger"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "letter",
       5,
       "anticipation"
@@ -63,9 +58,14 @@
       "fear"
     ],
     [
-      "incident",
+      "attack",
       4,
-      "surprise"
+      "anger"
+    ],
+    [
+      "law",
+      3,
+      "trust"
     ],
     [
       "officers",
@@ -123,6 +123,16 @@
       "joy"
     ],
     [
+      "incident",
+      3,
+      "surprise"
+    ],
+    [
+      "second",
+      2,
+      "trust"
+    ],
+    [
       "hospital",
       2,
       "fear"
@@ -143,11 +153,6 @@
       "trust"
     ],
     [
-      "law",
-      2,
-      "trust"
-    ],
-    [
       "fate",
       2,
       "anticipation"
@@ -156,6 +161,11 @@
       "risk",
       2,
       "fear"
+    ],
+    [
+      "show",
+      2,
+      "trust"
     ],
     [
       "commonwealth",
@@ -203,11 +213,6 @@
       "fear"
     ],
     [
-      "suspected",
-      2,
-      "fear"
-    ],
-    [
       "iran",
       2,
       "anger"
@@ -226,6 +231,26 @@
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "condemn",
+      1,
+      "anger"
+    ],
+    [
+      "cruel",
+      1,
+      "anger"
+    ],
+    [
+      "jail",
+      1,
+      "fear"
+    ],
+    [
+      "sentence",
+      1,
+      "anger"
     ],
     [
       "protesters",
@@ -351,41 +376,16 @@
       "terrorism",
       1,
       "anger"
-    ],
-    [
-      "creeping",
-      1,
-      "anticipation"
-    ],
-    [
-      "prepare",
-      1,
-      "anticipation"
-    ],
-    [
-      "sentenced",
-      1,
-      "anger"
-    ],
-    [
-      "case",
-      1,
-      "fear"
-    ],
-    [
-      "prosecuted",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
-    "trust": 63,
+    "trust": 66,
     "fear": 37,
-    "surprise": 13,
+    "surprise": 12,
     "sadness": 14,
     "disgust": 5,
-    "anger": 103,
-    "anticipation": 38
+    "anger": 104,
+    "anticipation": 37
   }
 }
