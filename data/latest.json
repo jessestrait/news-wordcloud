@@ -1,31 +1,26 @@
 {
-  "generated_at": "2026-11-06T08:53:10.591Z",
+  "generated_at": "2026-11-06T09:08:12.826Z",
   "article_count": 50,
   "top_words": [
     [
       "threat",
-      11,
+      13,
       "anger"
     ],
     [
       "bomb",
-      10,
+      11,
       "anger"
     ],
     [
-      "people",
-      6,
-      "trust"
+      "plan",
+      7,
+      "anticipation"
     ],
     [
       "slavery",
       6,
       "anger"
-    ],
-    [
-      "plan",
-      6,
-      "anticipation"
     ],
     [
       "president",
@@ -43,8 +38,18 @@
       "fear"
     ],
     [
+      "hoax",
+      4,
+      "anger"
+    ],
+    [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "strike",
-      5,
+      4,
       "anger"
     ],
     [
@@ -68,11 +73,6 @@
       "anger"
     ],
     [
-      "hospital",
-      3,
-      "fear"
-    ],
-    [
       "happened",
       3,
       "anticipation"
@@ -86,11 +86,6 @@
       "law",
       3,
       "trust"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
     ],
     [
       "victory",
@@ -158,14 +153,14 @@
       "fear"
     ],
     [
+      "hospital",
+      2,
+      "fear"
+    ],
+    [
       "specialist",
       2,
       "trust"
-    ],
-    [
-      "hoax",
-      2,
-      "anger"
     ],
     [
       "treated",
@@ -206,6 +201,11 @@
       "second",
       2,
       "trust"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "series",
@@ -253,11 +253,6 @@
       "trust"
     ],
     [
-      "damaged",
-      2,
-      "anger"
-    ],
-    [
       "arrive",
       2,
       "anticipation"
@@ -271,6 +266,11 @@
       "rubble",
       2,
       "fear"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
     ],
     [
       "exposed",
@@ -338,11 +338,6 @@
       "surprise"
     ],
     [
-      "alerts",
-      1,
-      "fear"
-    ],
-    [
       "build",
       1,
       "anticipation"
@@ -376,16 +371,21 @@
       "involvement",
       1,
       "anger"
+    ],
+    [
+      "crime",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 16,
-    "trust": 69,
-    "fear": 49,
-    "surprise": 11,
-    "sadness": 15,
+    "trust": 67,
+    "fear": 47,
+    "surprise": 9,
+    "sadness": 16,
     "disgust": 7,
-    "anger": 113,
+    "anger": 114,
     "anticipation": 38
   }
 }
