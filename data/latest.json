@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:53:35.855Z",
+  "generated_at": "2026-11-06T10:08:38.140Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,9 +18,19 @@
       "anticipation"
     ],
     [
+      "government",
+      6,
+      "fear"
+    ],
+    [
       "slavery",
       6,
       "anger"
+    ],
+    [
+      "people",
+      5,
+      "trust"
     ],
     [
       "president",
@@ -33,27 +43,12 @@
       "anger"
     ],
     [
-      "government",
-      5,
-      "fear"
-    ],
-    [
       "hoax",
       4,
       "anger"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "strike",
-      4,
-      "anger"
-    ],
-    [
-      "iran",
       4,
       "anger"
     ],
@@ -81,6 +76,11 @@
       "officers",
       3,
       "trust"
+    ],
+    [
+      "iran",
+      3,
+      "anger"
     ],
     [
       "law",
@@ -118,14 +118,19 @@
       "anger"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "incident",
       3,
       "surprise"
+    ],
+    [
+      "court",
+      2,
+      "anger"
+    ],
+    [
+      "rule",
+      2,
+      "fear"
     ],
     [
       "disruption",
@@ -218,11 +223,6 @@
       "anticipation"
     ],
     [
-      "diplomatic",
-      2,
-      "trust"
-    ],
-    [
       "risk",
       2,
       "fear"
@@ -258,6 +258,11 @@
       "anticipation"
     ],
     [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "growing",
       2,
       "joy"
@@ -266,6 +271,21 @@
       "rubble",
       2,
       "fear"
+    ],
+    [
+      "top",
+      1,
+      "trust"
+    ],
+    [
+      "evicted",
+      1,
+      "sadness"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
     ],
     [
       "leaving",
@@ -356,36 +376,16 @@
       "abuse",
       1,
       "anger"
-    ],
-    [
-      "inquiry",
-      1,
-      "anticipation"
-    ],
-    [
-      "official",
-      1,
-      "trust"
-    ],
-    [
-      "involvement",
-      1,
-      "anger"
-    ],
-    [
-      "crime",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 16,
+    "joy": 17,
     "trust": 67,
-    "fear": 47,
+    "fear": 49,
     "surprise": 9,
-    "sadness": 16,
+    "sadness": 17,
     "disgust": 7,
-    "anger": 114,
-    "anticipation": 38
+    "anger": 113,
+    "anticipation": 37
   }
 }
