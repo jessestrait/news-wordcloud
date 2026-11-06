@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:41:14.100Z",
+  "generated_at": "2026-11-06T14:56:16.459Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,14 +28,14 @@
       "anticipation"
     ],
     [
-      "president",
+      "people",
       5,
       "trust"
     ],
     [
-      "slavery",
+      "president",
       5,
-      "anger"
+      "trust"
     ],
     [
       "vote",
@@ -43,19 +43,14 @@
       "anger"
     ],
     [
-      "people",
+      "slavery",
       4,
-      "trust"
+      "anger"
     ],
     [
       "prison",
       4,
       "anger"
-    ],
-    [
-      "reparations",
-      4,
-      "trust"
     ],
     [
       "disruption",
@@ -101,6 +96,11 @@
       "victory",
       3,
       "joy"
+    ],
+    [
+      "reparations",
+      3,
+      "trust"
     ],
     [
       "attack",
@@ -268,6 +268,16 @@
       "fear"
     ],
     [
+      "world",
+      1,
+      "trust"
+    ],
+    [
+      "young",
+      1,
+      "surprise"
+    ],
+    [
       "statement",
       1,
       "trust"
@@ -366,26 +376,16 @@
       "life",
       1,
       "joy"
-    ],
-    [
-      "space",
-      1,
-      "joy"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 72,
+    "joy": 18,
+    "trust": 73,
     "fear": 47,
-    "surprise": 6,
+    "surprise": 7,
     "sadness": 15,
     "disgust": 9,
-    "anger": 108,
+    "anger": 106,
     "anticipation": 38
   }
 }
