@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-06T13:25:25.628Z",
+  "generated_at": "2026-11-06T13:40:27.992Z",
   "article_count": 50,
   "top_words": [
     [
       "threat",
-      11,
+      12,
       "anger"
     ],
     [
       "bomb",
-      8,
+      9,
       "anger"
     ],
     [
@@ -18,14 +18,14 @@
       "fear"
     ],
     [
+      "plan",
+      7,
+      "anticipation"
+    ],
+    [
       "war",
       6,
       "anger"
-    ],
-    [
-      "plan",
-      6,
-      "anticipation"
     ],
     [
       "president",
@@ -56,11 +56,6 @@
       "reparations",
       4,
       "trust"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "disruption",
@@ -103,12 +98,7 @@
       "joy"
     ],
     [
-      "grizzly",
-      3,
-      "fear"
-    ],
-    [
-      "bear",
+      "attack",
       3,
       "anger"
     ],
@@ -238,6 +228,11 @@
       "fear"
     ],
     [
+      "bear",
+      2,
+      "anger"
+    ],
+    [
       "letter",
       2,
       "anticipation"
@@ -268,9 +263,14 @@
       "fear"
     ],
     [
-      "incident",
-      2,
-      "surprise"
+      "continued",
+      1,
+      "trust"
+    ],
+    [
+      "chaos",
+      1,
+      "anger"
     ],
     [
       "statement",
@@ -353,6 +353,11 @@
       "joy"
     ],
     [
+      "incidents",
+      1,
+      "surprise"
+    ],
+    [
       "exposed",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "space",
       1,
       "joy"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 71,
-    "fear": 51,
-    "surprise": 7,
+    "trust": 72,
+    "fear": 47,
+    "surprise": 6,
     "sadness": 15,
     "disgust": 8,
     "anger": 108,
-    "anticipation": 38
+    "anticipation": 39
   }
 }
