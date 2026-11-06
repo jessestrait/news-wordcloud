@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T12:40:01.105Z",
+  "generated_at": "2026-11-06T12:55:03.341Z",
   "article_count": 50,
   "top_words": [
     [
@@ -35,6 +35,11 @@
     [
       "slavery",
       5,
+      "anger"
+    ],
+    [
+      "vote",
+      4,
       "anger"
     ],
     [
@@ -98,11 +103,6 @@
       "joy"
     ],
     [
-      "show",
-      3,
-      "trust"
-    ],
-    [
       "grizzly",
       3,
       "fear"
@@ -118,19 +118,9 @@
       "sadness"
     ],
     [
-      "vote",
-      3,
-      "anger"
-    ],
-    [
       "hoax",
       2,
       "anger"
-    ],
-    [
-      "poll",
-      2,
-      "trust"
     ],
     [
       "fear",
@@ -233,14 +223,14 @@
       "fear"
     ],
     [
+      "show",
+      2,
+      "trust"
+    ],
+    [
       "killed",
       2,
       "fear"
-    ],
-    [
-      "tax",
-      2,
-      "sadness"
     ],
     [
       "letter",
@@ -283,24 +273,39 @@
       "surprise"
     ],
     [
+      "bruising",
+      1,
+      "anticipation"
+    ],
+    [
+      "ballots",
+      1,
+      "trust"
+    ],
+    [
+      "counted",
+      1,
+      "trust"
+    ],
+    [
+      "liberation",
+      1,
+      "surprise"
+    ],
+    [
+      "share",
+      1,
+      "joy"
+    ],
+    [
+      "result",
+      1,
+      "anticipation"
+    ],
+    [
       "leaving",
       1,
       "sadness"
-    ],
-    [
-      "tackle",
-      1,
-      "anger"
-    ],
-    [
-      "tree",
-      1,
-      "anger"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
     ],
     [
       "preparing",
@@ -371,21 +376,16 @@
       "collapse",
       1,
       "fear"
-    ],
-    [
-      "doctor",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
+    "joy": 19,
     "trust": 70,
     "fear": 50,
-    "surprise": 6,
-    "sadness": 17,
+    "surprise": 7,
+    "sadness": 16,
     "disgust": 7,
-    "anger": 111,
-    "anticipation": 38
+    "anger": 109,
+    "anticipation": 40
   }
 }
