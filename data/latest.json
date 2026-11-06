@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:19:22.266Z",
+  "generated_at": "2026-11-06T00:34:24.719Z",
   "article_count": 50,
   "top_words": [
     [
@@ -36,6 +36,11 @@
       "war",
       5,
       "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "strike",
@@ -91,11 +96,6 @@
       "victory",
       3,
       "joy"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "grizzly",
@@ -313,9 +313,9 @@
       "fear"
     ],
     [
-      "break",
+      "build",
       1,
-      "surprise"
+      "anticipation"
     ],
     [
       "brother",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 13,
     "trust": 72,
-    "fear": 45,
-    "surprise": 12,
+    "fear": 47,
+    "surprise": 11,
     "sadness": 15,
     "disgust": 8,
     "anger": 110,
-    "anticipation": 39
+    "anticipation": 40
   }
 }
