@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:06:37.497Z",
+  "generated_at": "2026-11-06T06:21:39.456Z",
   "article_count": 50,
   "top_words": [
     [
@@ -128,6 +128,11 @@
       "anger"
     ],
     [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
       "patient",
       2,
       "anticipation"
@@ -139,11 +144,6 @@
     ],
     [
       "specialist",
-      2,
-      "trust"
-    ],
-    [
-      "bank",
       2,
       "trust"
     ],
@@ -268,16 +268,6 @@
       "anticipation"
     ],
     [
-      "doctor",
-      1,
-      "trust"
-    ],
-    [
-      "isolation",
-      1,
-      "sadness"
-    ],
-    [
       "operations",
       1,
       "fear"
@@ -286,6 +276,16 @@
       "collapse",
       1,
       "fear"
+    ],
+    [
+      "doctor",
+      1,
+      "trust"
+    ],
+    [
+      "isolation",
+      1,
+      "sadness"
     ],
     [
       "fears",
