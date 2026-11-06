@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:27:02.930Z",
+  "generated_at": "2026-11-06T16:42:05.581Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "trust"
     ],
     [
-      "slavery",
-      5,
-      "anger"
-    ],
-    [
       "vote",
       4,
       "anger"
@@ -48,19 +43,29 @@
       "trust"
     ],
     [
+      "slavery",
+      4,
+      "anger"
+    ],
+    [
       "prison",
       4,
       "anger"
     ],
     [
-      "reparations",
-      4,
-      "trust"
+      "letter",
+      3,
+      "anticipation"
     ],
     [
       "disruption",
       3,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "media",
@@ -101,6 +106,11 @@
       "victory",
       3,
       "joy"
+    ],
+    [
+      "reparations",
+      3,
+      "trust"
     ],
     [
       "attack",
@@ -168,11 +178,6 @@
       "trust"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "treated",
       2,
       "anger"
@@ -238,11 +243,6 @@
       "anger"
     ],
     [
-      "letter",
-      2,
-      "anticipation"
-    ],
-    [
       "school",
       2,
       "trust"
@@ -266,6 +266,26 @@
       "rubble",
       2,
       "fear"
+    ],
+    [
+      "self",
+      1,
+      "trust"
+    ],
+    [
+      "invite",
+      1,
+      "surprise"
+    ],
+    [
+      "opposition",
+      1,
+      "anger"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
     ],
     [
       "statement",
@@ -356,36 +376,16 @@
       "exposed",
       1,
       "fear"
-    ],
-    [
-      "vulnerabilities",
-      1,
-      "fear"
-    ],
-    [
-      "life",
-      1,
-      "joy"
-    ],
-    [
-      "space",
-      1,
-      "joy"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
+    "joy": 18,
     "trust": 72,
     "fear": 47,
-    "surprise": 6,
+    "surprise": 7,
     "sadness": 15,
     "disgust": 9,
     "anger": 108,
-    "anticipation": 38
+    "anticipation": 40
   }
 }
