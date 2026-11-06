@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:12:29.678Z",
+  "generated_at": "2026-11-06T17:27:31.895Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anger"
     ],
     [
+      "media",
+      3,
+      "disgust"
+    ],
+    [
       "letter",
       3,
       "anticipation"
@@ -66,11 +71,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "media",
-      3,
-      "disgust"
     ],
     [
       "iran",
@@ -268,6 +268,11 @@
       "fear"
     ],
     [
+      "chaos",
+      1,
+      "anger"
+    ],
+    [
       "self",
       1,
       "trust"
@@ -291,11 +296,6 @@
       "statement",
       1,
       "trust"
-    ],
-    [
-      "chaos",
-      1,
-      "anger"
     ],
     [
       "battles",
