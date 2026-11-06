@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:56:16.459Z",
+  "generated_at": "2026-11-06T15:11:18.556Z",
   "article_count": 50,
   "top_words": [
     [
@@ -268,6 +268,11 @@
       "fear"
     ],
     [
+      "global",
+      1,
+      "anticipation"
+    ],
+    [
       "world",
       1,
       "trust"
@@ -371,11 +376,6 @@
       "vulnerabilities",
       1,
       "fear"
-    ],
-    [
-      "life",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 15,
     "disgust": 9,
     "anger": 106,
-    "anticipation": 38
+    "anticipation": 39
   }
 }
