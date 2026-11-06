@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-06T06:36:55.466Z",
+  "generated_at": "2026-11-06T06:51:57.359Z",
   "article_count": 50,
   "top_words": [
+    [
+      "threat",
+      11,
+      "anger"
+    ],
     [
       "bomb",
       10,
       "anger"
     ],
     [
-      "threat",
-      10,
-      "anger"
-    ],
-    [
       "people",
-      7,
+      6,
       "trust"
     ],
     [
@@ -125,6 +125,21 @@
     [
       "trump",
       3,
+      "anger"
+    ],
+    [
+      "incident",
+      3,
+      "surprise"
+    ],
+    [
+      "disruption",
+      2,
+      "anger"
+    ],
+    [
+      "conflict",
+      2,
       "anger"
     ],
     [
@@ -258,14 +273,29 @@
       "fear"
     ],
     [
-      "incident",
-      2,
-      "surprise"
+      "exposed",
+      1,
+      "fear"
     ],
     [
-      "prediction",
-      2,
-      "anticipation"
+      "vulnerabilities",
+      1,
+      "fear"
+    ],
+    [
+      "life",
+      1,
+      "joy"
+    ],
+    [
+      "space",
+      1,
+      "joy"
+    ],
+    [
+      "peace",
+      1,
+      "joy"
     ],
     [
       "operations",
@@ -346,46 +376,16 @@
       "involvement",
       1,
       "anger"
-    ],
-    [
-      "crime",
-      1,
-      "anger"
-    ],
-    [
-      "suspect",
-      1,
-      "fear"
-    ],
-    [
-      "sick",
-      1,
-      "disgust"
-    ],
-    [
-      "stomach",
-      1,
-      "disgust"
-    ],
-    [
-      "americans",
-      1,
-      "sadness"
-    ],
-    [
-      "attacking",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 13,
-    "trust": 72,
-    "fear": 47,
+    "joy": 16,
+    "trust": 69,
+    "fear": 49,
     "surprise": 11,
     "sadness": 15,
-    "disgust": 8,
-    "anger": 110,
-    "anticipation": 40
+    "disgust": 7,
+    "anger": 113,
+    "anticipation": 38
   }
 }
