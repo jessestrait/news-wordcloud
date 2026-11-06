@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-06T12:55:03.341Z",
+  "generated_at": "2026-11-06T13:10:06.032Z",
   "article_count": 50,
   "top_words": [
     [
       "threat",
-      12,
+      10,
       "anger"
     ],
     [
       "bomb",
-      10,
+      8,
       "anger"
     ],
     [
@@ -81,11 +81,6 @@
       "rule",
       3,
       "fear"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "officers",
@@ -173,6 +168,11 @@
       "trust"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "treated",
       2,
       "anger"
@@ -238,11 +238,6 @@
       "anticipation"
     ],
     [
-      "confirmed",
-      2,
-      "trust"
-    ],
-    [
       "school",
       2,
       "trust"
@@ -273,6 +268,31 @@
       "surprise"
     ],
     [
+      "battles",
+      1,
+      "anger"
+    ],
+    [
+      "relevant",
+      1,
+      "trust"
+    ],
+    [
+      "battling",
+      1,
+      "anger"
+    ],
+    [
+      "losing",
+      1,
+      "anger"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
+    ],
+    [
       "bruising",
       1,
       "anticipation"
@@ -301,11 +321,6 @@
       "result",
       1,
       "anticipation"
-    ],
-    [
-      "leaving",
-      1,
-      "sadness"
     ],
     [
       "preparing",
@@ -361,31 +376,16 @@
       "space",
       1,
       "joy"
-    ],
-    [
-      "peace",
-      1,
-      "joy"
-    ],
-    [
-      "operations",
-      1,
-      "fear"
-    ],
-    [
-      "collapse",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
     "trust": 70,
-    "fear": 50,
+    "fear": 49,
     "surprise": 7,
     "sadness": 16,
     "disgust": 7,
-    "anger": 109,
-    "anticipation": 40
+    "anger": 108,
+    "anticipation": 39
   }
 }
