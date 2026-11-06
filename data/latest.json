@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:39:37.047Z",
+  "generated_at": "2026-11-06T11:54:38.977Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,11 +43,6 @@
       "anger"
     ],
     [
-      "hoax",
-      4,
-      "anger"
-    ],
-    [
       "prison",
       4,
       "anger"
@@ -60,6 +55,11 @@
     [
       "attack",
       4,
+      "anger"
+    ],
+    [
+      "hoax",
+      3,
       "anger"
     ],
     [
@@ -385,7 +385,7 @@
     "surprise": 7,
     "sadness": 17,
     "disgust": 7,
-    "anger": 110,
+    "anger": 109,
     "anticipation": 39
   }
 }
