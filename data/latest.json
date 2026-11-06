@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-11-06T11:54:38.977Z",
+  "generated_at": "2026-11-06T12:09:40.862Z",
   "article_count": 50,
   "top_words": [
     [
       "threat",
-      13,
+      12,
       "anger"
     ],
     [
       "bomb",
-      11,
+      10,
       "anger"
     ],
     [
       "plan",
-      8,
+      7,
       "anticipation"
+    ],
+    [
+      "war",
+      6,
+      "anger"
     ],
     [
       "government",
@@ -38,11 +43,6 @@
       "trust"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "prison",
       4,
       "anger"
@@ -58,9 +58,19 @@
       "anger"
     ],
     [
-      "hoax",
+      "iran",
       3,
       "anger"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
+      "home",
+      3,
+      "joy"
     ],
     [
       "rule",
@@ -113,9 +123,14 @@
       "anger"
     ],
     [
-      "incident",
-      3,
-      "surprise"
+      "hoax",
+      2,
+      "anger"
+    ],
+    [
+      "fear",
+      2,
+      "anger"
     ],
     [
       "seek",
@@ -188,11 +203,6 @@
       "anger"
     ],
     [
-      "iran",
-      2,
-      "anger"
-    ],
-    [
       "military",
       2,
       "fear"
@@ -206,11 +216,6 @@
       "power",
       2,
       "anticipation"
-    ],
-    [
-      "series",
-      2,
-      "trust"
     ],
     [
       "fate",
@@ -233,11 +238,6 @@
       "fear"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "confirmed",
       2,
       "trust"
@@ -258,11 +258,6 @@
       "anticipation"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "growing",
       2,
       "joy"
@@ -273,9 +268,29 @@
       "fear"
     ],
     [
+      "incident",
+      2,
+      "surprise"
+    ],
+    [
       "leaving",
       1,
       "sadness"
+    ],
+    [
+      "preparing",
+      1,
+      "anticipation"
+    ],
+    [
+      "repression",
+      1,
+      "fear"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
     ],
     [
       "filling",
@@ -343,11 +358,6 @@
       "sadness"
     ],
     [
-      "fears",
-      1,
-      "anger"
-    ],
-    [
       "forced",
       1,
       "fear"
@@ -366,24 +376,14 @@
       "build",
       1,
       "anticipation"
-    ],
-    [
-      "brother",
-      1,
-      "trust"
-    ],
-    [
-      "child",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
+    "joy": 18,
     "trust": 69,
-    "fear": 49,
-    "surprise": 7,
-    "sadness": 17,
+    "fear": 50,
+    "surprise": 6,
+    "sadness": 16,
     "disgust": 7,
     "anger": 109,
     "anticipation": 39
