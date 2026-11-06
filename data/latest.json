@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:09:15.112Z",
+  "generated_at": "2026-11-06T11:24:17.149Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "plan",
-      7,
+      8,
       "anticipation"
     ],
     [
@@ -48,11 +48,6 @@
       "anger"
     ],
     [
-      "strike",
-      4,
-      "anger"
-    ],
-    [
       "prison",
       4,
       "anger"
@@ -68,6 +63,11 @@
       "anger"
     ],
     [
+      "rule",
+      3,
+      "fear"
+    ],
+    [
       "happened",
       3,
       "anticipation"
@@ -76,11 +76,6 @@
       "officers",
       3,
       "trust"
-    ],
-    [
-      "iran",
-      3,
-      "anger"
     ],
     [
       "law",
@@ -123,14 +118,14 @@
       "surprise"
     ],
     [
+      "seek",
+      2,
+      "anticipation"
+    ],
+    [
       "court",
       2,
       "anger"
-    ],
-    [
-      "rule",
-      2,
-      "fear"
     ],
     [
       "disruption",
@@ -178,6 +173,11 @@
       "trust"
     ],
     [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
       "public",
       2,
       "anticipation"
@@ -188,14 +188,9 @@
       "anger"
     ],
     [
-      "deal",
+      "iran",
       2,
-      "surprise"
-    ],
-    [
-      "missile",
-      2,
-      "fear"
+      "anger"
     ],
     [
       "military",
@@ -253,6 +248,11 @@
       "trust"
     ],
     [
+      "system",
+      2,
+      "trust"
+    ],
+    [
       "arrive",
       2,
       "anticipation"
@@ -276,6 +276,11 @@
       "leaving",
       1,
       "sadness"
+    ],
+    [
+      "filling",
+      1,
+      "trust"
     ],
     [
       "top",
@@ -371,21 +376,16 @@
       "child",
       1,
       "joy"
-    ],
-    [
-      "abuse",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 67,
+    "trust": 69,
     "fear": 49,
-    "surprise": 9,
+    "surprise": 7,
     "sadness": 17,
     "disgust": 7,
-    "anger": 113,
-    "anticipation": 37
+    "anger": 110,
+    "anticipation": 39
   }
 }
