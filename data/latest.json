@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T04:35:48.591Z",
+  "generated_at": "2026-11-06T04:50:51.222Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "people",
-      7,
+      6,
       "trust"
     ],
     [
@@ -263,9 +263,29 @@
       "surprise"
     ],
     [
-      "prediction",
-      2,
-      "anticipation"
+      "pilot",
+      1,
+      "trust"
+    ],
+    [
+      "die",
+      1,
+      "fear"
+    ],
+    [
+      "unable",
+      1,
+      "sadness"
+    ],
+    [
+      "save",
+      1,
+      "joy"
+    ],
+    [
+      "beached",
+      1,
+      "joy"
     ],
     [
       "doctor",
@@ -356,36 +376,16 @@
       "suspect",
       1,
       "fear"
-    ],
-    [
-      "sick",
-      1,
-      "disgust"
-    ],
-    [
-      "stomach",
-      1,
-      "disgust"
-    ],
-    [
-      "americans",
-      1,
-      "sadness"
-    ],
-    [
-      "attacking",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 13,
-    "trust": 72,
-    "fear": 47,
-    "surprise": 11,
-    "sadness": 15,
-    "disgust": 8,
+    "joy": 15,
+    "trust": 70,
+    "fear": 48,
+    "surprise": 10,
+    "sadness": 16,
+    "disgust": 7,
     "anger": 110,
-    "anticipation": 40
+    "anticipation": 38
   }
 }
