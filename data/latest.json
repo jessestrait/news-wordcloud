@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:21:15.840Z",
+  "generated_at": "2026-11-07T09:36:18.482Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,11 +108,6 @@
       "anticipation"
     ],
     [
-      "continue",
-      3,
-      "trust"
-    ],
-    [
       "officers",
       3,
       "trust"
@@ -125,11 +120,6 @@
     [
       "reparations",
       3,
-      "trust"
-    ],
-    [
-      "count",
-      2,
       "trust"
     ],
     [
@@ -191,6 +181,11 @@
       "home",
       2,
       "joy"
+    ],
+    [
+      "continue",
+      2,
+      "trust"
     ],
     [
       "rule",
@@ -265,11 +260,6 @@
     [
       "school",
       2,
-      "trust"
-    ],
-    [
-      "level",
-      1,
       "trust"
     ],
     [
@@ -376,11 +366,21 @@
       "ousted",
       1,
       "anger"
+    ],
+    [
+      "house",
+      1,
+      "joy"
+    ],
+    [
+      "banking",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 84,
+    "trust": 81,
     "fear": 48,
     "surprise": 9,
     "sadness": 17,
