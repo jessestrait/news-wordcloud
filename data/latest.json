@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:38:34.360Z",
+  "generated_at": "2026-11-07T13:53:36.806Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "trust"
     ],
     [
+      "government",
+      5,
+      "fear"
+    ],
+    [
       "plan",
       5,
       "anticipation"
@@ -41,11 +46,6 @@
       "trump",
       5,
       "anger"
-    ],
-    [
-      "government",
-      5,
-      "fear"
     ],
     [
       "leader",
@@ -61,11 +61,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "show",
-      3,
-      "trust"
     ],
     [
       "military",
@@ -109,6 +104,11 @@
     ],
     [
       "cooperation",
+      2,
+      "trust"
+    ],
+    [
+      "show",
       2,
       "trust"
     ],
@@ -253,11 +253,6 @@
       "fear"
     ],
     [
-      "fate",
-      2,
-      "anticipation"
-    ],
-    [
       "victory",
       2,
       "joy"
@@ -271,6 +266,16 @@
       "risk",
       2,
       "fear"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
+    ],
+    [
+      "ultimate",
+      1,
+      "sadness"
     ],
     [
       "shortages",
@@ -371,21 +376,16 @@
       "shot",
       1,
       "anger"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 74,
+    "trust": 73,
     "fear": 49,
     "surprise": 10,
     "sadness": 13,
     "disgust": 11,
     "anger": 117,
-    "anticipation": 35
+    "anticipation": 33
   }
 }
