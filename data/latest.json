@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:52:00.878Z",
+  "generated_at": "2026-11-07T11:07:03.403Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "iran",
       7,
       "anger"
+    ],
+    [
+      "bank",
+      6,
+      "trust"
     ],
     [
       "president",
@@ -41,11 +46,6 @@
       "government",
       5,
       "fear"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "people",
@@ -78,14 +78,14 @@
       "fear"
     ],
     [
-      "conflict",
+      "attack",
       3,
       "anger"
     ],
     [
-      "bank",
+      "conflict",
       3,
-      "trust"
+      "anger"
     ],
     [
       "letter",
@@ -96,11 +96,6 @@
       "disruption",
       3,
       "anger"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "result",
@@ -123,7 +118,27 @@
       "trust"
     ],
     [
+      "leave",
+      3,
+      "sadness"
+    ],
+    [
       "polls",
+      2,
+      "trust"
+    ],
+    [
+      "collapse",
+      2,
+      "fear"
+    ],
+    [
+      "house",
+      2,
+      "joy"
+    ],
+    [
+      "accounts",
       2,
       "trust"
     ],
@@ -171,6 +186,11 @@
       "media",
       2,
       "disgust"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "vote",
@@ -253,16 +273,6 @@
       "sadness"
     ],
     [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
-      "school",
-      2,
-      "trust"
-    ],
-    [
       "expected",
       1,
       "anticipation"
@@ -276,6 +286,21 @@
       "history",
       1,
       "trust"
+    ],
+    [
+      "fells",
+      1,
+      "sadness"
+    ],
+    [
+      "broke",
+      1,
+      "fear"
+    ],
+    [
+      "scrutinized",
+      1,
+      "anticipation"
     ],
     [
       "strait",
@@ -351,41 +376,16 @@
       "experts",
       1,
       "trust"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "accelerated",
-      1,
-      "anticipation"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
-    ],
-    [
-      "house",
-      1,
-      "joy"
-    ],
-    [
-      "banking",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 81,
-    "fear": 48,
+    "joy": 19,
+    "trust": 82,
+    "fear": 50,
     "surprise": 9,
-    "sadness": 17,
+    "sadness": 19,
     "disgust": 9,
-    "anger": 115,
+    "anger": 113,
     "anticipation": 38
   }
 }
