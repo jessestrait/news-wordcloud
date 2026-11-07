@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:12:25.716Z",
+  "generated_at": "2026-11-07T21:27:28.001Z",
   "article_count": 50,
   "top_words": [
     [
@@ -68,6 +68,11 @@
       "trust"
     ],
     [
+      "suspect",
+      3,
+      "fear"
+    ],
+    [
       "military",
       3,
       "fear"
@@ -109,11 +114,6 @@
     ],
     [
       "fire",
-      2,
-      "fear"
-    ],
-    [
-      "suspect",
       2,
       "fear"
     ],
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 22,
     "trust": 63,
-    "fear": 58,
+    "fear": 59,
     "surprise": 11,
     "sadness": 15,
     "disgust": 11,
