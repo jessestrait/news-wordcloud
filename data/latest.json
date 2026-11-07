@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:57:23.413Z",
+  "generated_at": "2026-11-07T21:12:25.716Z",
   "article_count": 50,
   "top_words": [
     [
@@ -111,6 +111,16 @@
       "fire",
       2,
       "fear"
+    ],
+    [
+      "suspect",
+      2,
+      "fear"
+    ],
+    [
+      "home",
+      2,
+      "joy"
     ],
     [
       "collapse",
@@ -268,6 +278,16 @@
       "anger"
     ],
     [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
+      "found",
+      1,
+      "joy"
+    ],
+    [
       "interior",
       1,
       "disgust"
@@ -356,36 +376,16 @@
       "success",
       1,
       "joy"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
-    ],
-    [
-      "giant",
-      1,
-      "fear"
-    ],
-    [
-      "ugly",
-      1,
-      "disgust"
-    ],
-    [
-      "gangs",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
+    "joy": 22,
     "trust": 63,
-    "fear": 57,
+    "fear": 58,
     "surprise": 11,
     "sadness": 15,
     "disgust": 11,
-    "anger": 109,
+    "anger": 110,
     "anticipation": 31
   }
 }
