@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:55:07.170Z",
+  "generated_at": "2026-11-07T17:10:09.373Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,16 @@
       "fear"
     ],
     [
+      "fire",
+      2,
+      "fear"
+    ],
+    [
+      "second",
+      2,
+      "trust"
+    ],
+    [
       "cooperation",
       2,
       "trust"
@@ -169,6 +179,11 @@
     ],
     [
       "forces",
+      2,
+      "anger"
+    ],
+    [
+      "shot",
       2,
       "anger"
     ],
@@ -278,6 +293,16 @@
       "fear"
     ],
     [
+      "fired",
+      1,
+      "fear"
+    ],
+    [
+      "flee",
+      1,
+      "fear"
+    ],
+    [
       "clean",
       1,
       "joy"
@@ -351,41 +376,16 @@
       "gangs",
       1,
       "anger"
-    ],
-    [
-      "risks",
-      1,
-      "fear"
-    ],
-    [
-      "ferocious",
-      1,
-      "anger"
-    ],
-    [
-      "slums",
-      1,
-      "disgust"
-    ],
-    [
-      "fells",
-      1,
-      "sadness"
-    ],
-    [
-      "broke",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
     "trust": 64,
-    "fear": 54,
-    "surprise": 12,
+    "fear": 57,
+    "surprise": 11,
     "sadness": 14,
     "disgust": 10,
-    "anger": 114,
+    "anger": 115,
     "anticipation": 32
   }
 }
