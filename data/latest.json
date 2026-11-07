@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T07:04:29.439Z",
+  "generated_at": "2026-11-07T07:19:31.894Z",
   "article_count": 50,
   "top_words": [
     [
@@ -126,11 +126,6 @@
       "count",
       2,
       "trust"
-    ],
-    [
-      "battle",
-      2,
-      "anger"
     ],
     [
       "polls",
@@ -376,6 +371,11 @@
       "ousted",
       1,
       "anger"
+    ],
+    [
+      "house",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 9,
     "sadness": 17,
     "disgust": 9,
-    "anger": 116,
+    "anger": 115,
     "anticipation": 38
   }
 }
