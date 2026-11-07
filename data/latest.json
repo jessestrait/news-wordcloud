@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:11:58.744Z",
+  "generated_at": "2026-11-07T20:27:01.300Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,6 +98,11 @@
       "anger"
     ],
     [
+      "fire",
+      2,
+      "fear"
+    ],
+    [
       "shooting",
       2,
       "anger"
@@ -121,11 +126,6 @@
       "leaves",
       2,
       "sadness"
-    ],
-    [
-      "fire",
-      2,
-      "fear"
     ],
     [
       "cooperation",
@@ -268,6 +268,11 @@
       "anger"
     ],
     [
+      "interior",
+      1,
+      "disgust"
+    ],
+    [
       "lost",
       1,
       "sadness"
@@ -296,11 +301,6 @@
       "custody",
       1,
       "trust"
-    ],
-    [
-      "interior",
-      1,
-      "disgust"
     ],
     [
       "clean",
