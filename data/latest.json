@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:10:24.627Z",
+  "generated_at": "2026-11-07T17:25:26.578Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "anger"
     ],
     [
+      "police",
+      4,
+      "fear"
+    ],
+    [
       "happened",
       4,
       "anticipation"
@@ -56,11 +61,6 @@
       "leader",
       4,
       "trust"
-    ],
-    [
-      "police",
-      3,
-      "fear"
     ],
     [
       "attack",
@@ -103,11 +103,6 @@
       "trust"
     ],
     [
-      "injured",
-      2,
-      "fear"
-    ],
-    [
       "fire",
       2,
       "fear"
@@ -116,6 +111,11 @@
       "second",
       2,
       "trust"
+    ],
+    [
+      "injured",
+      2,
+      "fear"
     ],
     [
       "cooperation",
@@ -283,22 +283,27 @@
       "anger"
     ],
     [
+      "fired",
+      1,
+      "fear"
+    ],
+    [
+      "wounded",
+      1,
+      "anger"
+    ],
+    [
+      "flee",
+      1,
+      "fear"
+    ],
+    [
       "shooting",
       1,
       "anger"
     ],
     [
       "killed",
-      1,
-      "fear"
-    ],
-    [
-      "fired",
-      1,
-      "fear"
-    ],
-    [
-      "flee",
       1,
       "fear"
     ],
@@ -371,21 +376,16 @@
       "ugly",
       1,
       "disgust"
-    ],
-    [
-      "gangs",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
     "trust": 64,
-    "fear": 57,
+    "fear": 58,
     "surprise": 11,
     "sadness": 14,
     "disgust": 10,
-    "anger": 115,
+    "anger": 116,
     "anticipation": 32
   }
 }
