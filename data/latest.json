@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:25:26.578Z",
+  "generated_at": "2026-11-07T17:40:28.634Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "anger"
     ],
     [
-      "police",
-      4,
-      "fear"
-    ],
-    [
       "happened",
       4,
       "anticipation"
@@ -63,9 +58,19 @@
       "trust"
     ],
     [
-      "attack",
+      "injured",
       3,
-      "anger"
+      "fear"
+    ],
+    [
+      "police",
+      3,
+      "fear"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "military",
@@ -103,6 +108,11 @@
       "trust"
     ],
     [
+      "killed",
+      2,
+      "fear"
+    ],
+    [
       "fire",
       2,
       "fear"
@@ -111,11 +121,6 @@
       "second",
       2,
       "trust"
-    ],
-    [
-      "injured",
-      2,
-      "fear"
     ],
     [
       "cooperation",
@@ -203,6 +208,11 @@
       "fear"
     ],
     [
+      "attack",
+      2,
+      "anger"
+    ],
+    [
       "public",
       2,
       "anticipation"
@@ -236,11 +246,6 @@
       "rule",
       2,
       "fear"
-    ],
-    [
-      "people",
-      2,
-      "trust"
     ],
     [
       "hospital",
@@ -283,6 +288,11 @@
       "anger"
     ],
     [
+      "shooting",
+      1,
+      "anger"
+    ],
+    [
       "fired",
       1,
       "fear"
@@ -294,16 +304,6 @@
     ],
     [
       "flee",
-      1,
-      "fear"
-    ],
-    [
-      "shooting",
-      1,
-      "anger"
-    ],
-    [
-      "killed",
       1,
       "fear"
     ],
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 64,
-    "fear": 58,
+    "trust": 65,
+    "fear": 59,
     "surprise": 11,
     "sadness": 14,
     "disgust": 10,
-    "anger": 116,
+    "anger": 115,
     "anticipation": 32
   }
 }
