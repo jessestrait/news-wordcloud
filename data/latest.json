@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:46:51.231Z",
+  "generated_at": "2026-11-07T02:01:52.954Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,22 +18,22 @@
       "fear"
     ],
     [
+      "president",
+      6,
+      "trust"
+    ],
+    [
       "plan",
       6,
       "anticipation"
     ],
     [
-      "war",
-      5,
+      "vote",
+      4,
       "anger"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
-      "vote",
+      "war",
       4,
       "anger"
     ],
@@ -51,6 +51,11 @@
       "prison",
       4,
       "anger"
+    ],
+    [
+      "bank",
+      3,
+      "trust"
     ],
     [
       "media",
@@ -123,6 +128,16 @@
       "sadness"
     ],
     [
+      "congress",
+      2,
+      "disgust"
+    ],
+    [
+      "protesters",
+      2,
+      "anger"
+    ],
+    [
       "fraud",
       2,
       "anger"
@@ -143,19 +158,9 @@
       "anticipation"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
       "conflict",
       2,
       "anger"
-    ],
-    [
-      "bank",
-      2,
-      "trust"
     ],
     [
       "patient",
@@ -233,6 +238,11 @@
       "anger"
     ],
     [
+      "leave",
+      2,
+      "sadness"
+    ],
+    [
       "school",
       2,
       "trust"
@@ -248,9 +258,44 @@
       "anticipation"
     ],
     [
-      "growing",
-      2,
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "house",
+      1,
       "joy"
+    ],
+    [
+      "banking",
+      1,
+      "trust"
+    ],
+    [
+      "unable",
+      1,
+      "sadness"
+    ],
+    [
+      "accounts",
+      1,
+      "trust"
+    ],
+    [
+      "impeached",
+      1,
+      "anger"
+    ],
+    [
+      "demanding",
+      1,
+      "anger"
+    ],
+    [
+      "suspension",
+      1,
+      "fear"
     ],
     [
       "boy",
@@ -331,61 +376,16 @@
       "battles",
       1,
       "anger"
-    ],
-    [
-      "relevant",
-      1,
-      "trust"
-    ],
-    [
-      "bruising",
-      1,
-      "anticipation"
-    ],
-    [
-      "ballots",
-      1,
-      "trust"
-    ],
-    [
-      "counted",
-      1,
-      "trust"
-    ],
-    [
-      "liberation",
-      1,
-      "surprise"
-    ],
-    [
-      "share",
-      1,
-      "joy"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
-    ],
-    [
-      "preparing",
-      1,
-      "anticipation"
-    ],
-    [
-      "repression",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 72,
+    "trust": 76,
     "fear": 47,
     "surprise": 8,
-    "sadness": 15,
-    "disgust": 10,
-    "anger": 107,
-    "anticipation": 40
+    "sadness": 17,
+    "disgust": 11,
+    "anger": 108,
+    "anticipation": 39
   }
 }
