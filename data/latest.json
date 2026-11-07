@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:27:01.300Z",
+  "generated_at": "2026-11-07T20:42:03.862Z",
   "article_count": 50,
   "top_words": [
     [
@@ -101,11 +101,6 @@
       "fire",
       2,
       "fear"
-    ],
-    [
-      "shooting",
-      2,
-      "anger"
     ],
     [
       "killed",
@@ -273,6 +268,11 @@
       "disgust"
     ],
     [
+      "shooting",
+      1,
+      "anger"
+    ],
+    [
       "lost",
       1,
       "sadness"
@@ -385,7 +385,7 @@
     "surprise": 11,
     "sadness": 15,
     "disgust": 11,
-    "anger": 110,
+    "anger": 109,
     "anticipation": 31
   }
 }
