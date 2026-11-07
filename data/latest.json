@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:54:16.204Z",
+  "generated_at": "2026-11-07T15:09:18.542Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,9 +103,14 @@
       "trust"
     ],
     [
-      "slavery",
-      3,
-      "anger"
+      "life",
+      2,
+      "joy"
+    ],
+    [
+      "unable",
+      2,
+      "sadness"
     ],
     [
       "loved",
@@ -188,11 +193,6 @@
       "anticipation"
     ],
     [
-      "diplomatic",
-      2,
-      "trust"
-    ],
-    [
       "protesters",
       2,
       "anger"
@@ -258,14 +258,24 @@
       "fear"
     ],
     [
-      "victory",
+      "slavery",
       2,
-      "joy"
+      "anger"
     ],
     [
-      "reparations",
-      2,
-      "trust"
+      "changing",
+      1,
+      "fear"
+    ],
+    [
+      "disabled",
+      1,
+      "fear"
+    ],
+    [
+      "playgrounds",
+      1,
+      "surprise"
     ],
     [
       "missing",
@@ -366,26 +376,16 @@
       "hormuz",
       1,
       "fear"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
-    ],
-    [
-      "credible",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 71,
-    "fear": 50,
-    "surprise": 11,
-    "sadness": 13,
-    "disgust": 11,
-    "anger": 117,
+    "trust": 66,
+    "fear": 52,
+    "surprise": 12,
+    "sadness": 14,
+    "disgust": 10,
+    "anger": 114,
     "anticipation": 34
   }
 }
