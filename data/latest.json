@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:49:00.225Z",
+  "generated_at": "2026-11-07T06:04:02.551Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,9 +33,9 @@
       "anger"
     ],
     [
-      "plan",
-      5,
-      "anticipation"
+      "trump",
+      4,
+      "anger"
     ],
     [
       "attack",
@@ -43,9 +43,9 @@
       "anger"
     ],
     [
-      "vote",
+      "plan",
       4,
-      "anger"
+      "anticipation"
     ],
     [
       "people",
@@ -71,11 +71,6 @@
       "evacuated",
       3,
       "fear"
-    ],
-    [
-      "trump",
-      3,
-      "anger"
     ],
     [
       "public",
@@ -108,14 +103,9 @@
       "anticipation"
     ],
     [
-      "home",
+      "result",
       3,
-      "joy"
-    ],
-    [
-      "rule",
-      3,
-      "fear"
+      "anticipation"
     ],
     [
       "officers",
@@ -133,9 +123,29 @@
       "trust"
     ],
     [
-      "refugee",
-      3,
-      "sadness"
+      "count",
+      2,
+      "trust"
+    ],
+    [
+      "battle",
+      2,
+      "anger"
+    ],
+    [
+      "opportunity",
+      2,
+      "anticipation"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
     ],
     [
       "operation",
@@ -168,9 +178,24 @@
       "disgust"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
+      "home",
+      2,
+      "joy"
+    ],
+    [
       "continue",
       2,
       "trust"
+    ],
+    [
+      "rule",
+      2,
+      "fear"
     ],
     [
       "patient",
@@ -208,11 +233,6 @@
       "fear"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "fate",
       2,
       "anticipation"
@@ -238,6 +258,11 @@
       "anger"
     ],
     [
+      "refugee",
+      2,
+      "sadness"
+    ],
+    [
       "leave",
       2,
       "sadness"
@@ -253,9 +278,29 @@
       "trust"
     ],
     [
-      "arrive",
-      2,
-      "anticipation"
+      "ruling",
+      1,
+      "fear"
+    ],
+    [
+      "watched",
+      1,
+      "fear"
+    ],
+    [
+      "unseat",
+      1,
+      "sadness"
+    ],
+    [
+      "remove",
+      1,
+      "anger"
+    ],
+    [
+      "allied",
+      1,
+      "trust"
     ],
     [
       "shot",
@@ -331,61 +376,16 @@
       "accounts",
       1,
       "trust"
-    ],
-    [
-      "impeached",
-      1,
-      "anger"
-    ],
-    [
-      "congress",
-      1,
-      "disgust"
-    ],
-    [
-      "demanding",
-      1,
-      "anger"
-    ],
-    [
-      "suspension",
-      1,
-      "fear"
-    ],
-    [
-      "boy",
-      1,
-      "disgust"
-    ],
-    [
-      "die",
-      1,
-      "fear"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
-    ],
-    [
-      "arson",
-      1,
-      "anger"
-    ],
-    [
-      "injuries",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 78,
-    "fear": 50,
+    "joy": 17,
+    "trust": 80,
+    "fear": 51,
     "surprise": 9,
-    "sadness": 18,
+    "sadness": 17,
     "disgust": 9,
-    "anger": 113,
-    "anticipation": 39
+    "anger": 114,
+    "anticipation": 38
   }
 }
