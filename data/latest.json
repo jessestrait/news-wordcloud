@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:38:08.444Z",
+  "generated_at": "2026-11-07T12:53:10.502Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "trust"
     ],
     [
+      "leader",
+      4,
+      "trust"
+    ],
+    [
       "slavery",
       4,
       "anger"
@@ -68,17 +73,7 @@
       "fear"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
       "fear",
-      3,
-      "anger"
-    ],
-    [
-      "attack",
       3,
       "anger"
     ],
@@ -103,11 +98,6 @@
       "trust"
     ],
     [
-      "officers",
-      3,
-      "trust"
-    ],
-    [
       "law",
       3,
       "trust"
@@ -115,6 +105,11 @@
     [
       "reparations",
       3,
+      "trust"
+    ],
+    [
+      "cooperation",
+      2,
       "trust"
     ],
     [
@@ -218,11 +213,6 @@
       "anger"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "continue",
       2,
       "trust"
@@ -246,6 +236,11 @@
       "strike",
       2,
       "anger"
+    ],
+    [
+      "officers",
+      2,
+      "trust"
     ],
     [
       "fees",
@@ -273,9 +268,9 @@
       "fear"
     ],
     [
-      "bear",
-      2,
-      "anger"
+      "clean",
+      1,
+      "joy"
     ],
     [
       "expected",
@@ -376,16 +371,21 @@
       "allied",
       1,
       "trust"
+    ],
+    [
+      "shot",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 80,
-    "fear": 50,
+    "joy": 19,
+    "trust": 79,
+    "fear": 48,
     "surprise": 10,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 11,
-    "anger": 119,
+    "anger": 115,
     "anticipation": 36
   }
 }
