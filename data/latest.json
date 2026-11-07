@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:56:36.646Z",
+  "generated_at": "2026-11-07T20:11:39.059Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,19 +18,24 @@
       "anger"
     ],
     [
+      "president",
+      7,
+      "trust"
+    ],
+    [
       "iran",
       7,
       "anger"
     ],
     [
-      "president",
+      "government",
       6,
-      "trust"
+      "fear"
     ],
     [
-      "government",
+      "leader",
       5,
-      "fear"
+      "trust"
     ],
     [
       "plan",
@@ -51,11 +56,6 @@
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "leader",
-      4,
-      "trust"
     ],
     [
       "injured",
@@ -96,11 +96,6 @@
       "strike",
       3,
       "anger"
-    ],
-    [
-      "law",
-      3,
-      "trust"
     ],
     [
       "shooting",
@@ -263,14 +258,24 @@
       "fear"
     ],
     [
+      "law",
+      2,
+      "trust"
+    ],
+    [
       "slavery",
       2,
       "anger"
     ],
     [
-      "prison",
-      2,
-      "anger"
+      "lost",
+      1,
+      "sadness"
+    ],
+    [
+      "majority",
+      1,
+      "joy"
     ],
     [
       "fells",
@@ -371,21 +376,16 @@
       "gangs",
       1,
       "anger"
-    ],
-    [
-      "risks",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 62,
+    "joy": 20,
+    "trust": 63,
     "fear": 57,
     "surprise": 11,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 11,
-    "anger": 114,
+    "anger": 110,
     "anticipation": 31
   }
 }
