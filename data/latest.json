@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:52:44.815Z",
+  "generated_at": "2026-11-07T12:07:47.361Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,6 +10,11 @@
     [
       "bomb",
       9,
+      "anger"
+    ],
+    [
+      "war",
+      8,
       "anger"
     ],
     [
@@ -38,17 +43,12 @@
       "anger"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "government",
       5,
       "fear"
     ],
     [
-      "people",
+      "show",
       4,
       "trust"
     ],
@@ -63,7 +63,12 @@
       "anger"
     ],
     [
-      "show",
+      "military",
+      3,
+      "fear"
+    ],
+    [
+      "leader",
       3,
       "trust"
     ],
@@ -71,11 +76,6 @@
       "fear",
       3,
       "anger"
-    ],
-    [
-      "evacuated",
-      3,
-      "fear"
     ],
     [
       "attack",
@@ -88,11 +88,6 @@
       "anger"
     ],
     [
-      "letter",
-      3,
-      "anticipation"
-    ],
-    [
       "disruption",
       3,
       "anger"
@@ -101,6 +96,11 @@
       "result",
       3,
       "anticipation"
+    ],
+    [
+      "people",
+      3,
+      "trust"
     ],
     [
       "officers",
@@ -118,12 +118,17 @@
       "trust"
     ],
     [
-      "leave",
-      3,
-      "sadness"
+      "polls",
+      2,
+      "trust"
     ],
     [
-      "polls",
+      "battles",
+      2,
+      "anger"
+    ],
+    [
+      "experts",
       2,
       "trust"
     ],
@@ -131,6 +136,11 @@
       "collapse",
       2,
       "fear"
+    ],
+    [
+      "leaves",
+      2,
+      "sadness"
     ],
     [
       "house",
@@ -153,14 +163,19 @@
       "anger"
     ],
     [
-      "operation",
+      "soldier",
+      2,
+      "anger"
+    ],
+    [
+      "evacuated",
       2,
       "fear"
     ],
     [
-      "leader",
+      "operation",
       2,
-      "trust"
+      "fear"
     ],
     [
       "public",
@@ -188,6 +203,11 @@
       "disgust"
     ],
     [
+      "letter",
+      2,
+      "anticipation"
+    ],
+    [
       "happened",
       2,
       "anticipation"
@@ -213,19 +233,9 @@
       "fear"
     ],
     [
-      "patient",
-      2,
-      "anticipation"
-    ],
-    [
       "hospital",
       2,
       "fear"
-    ],
-    [
-      "specialist",
-      2,
-      "trust"
     ],
     [
       "treated",
@@ -243,9 +253,9 @@
       "anger"
     ],
     [
-      "military",
+      "deal",
       2,
-      "fear"
+      "surprise"
     ],
     [
       "fate",
@@ -268,11 +278,6 @@
       "anger"
     ],
     [
-      "refugee",
-      2,
-      "sadness"
-    ],
-    [
       "expected",
       1,
       "anticipation"
@@ -286,6 +291,41 @@
       "history",
       1,
       "trust"
+    ],
+    [
+      "success",
+      1,
+      "joy"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
+    ],
+    [
+      "giant",
+      1,
+      "fear"
+    ],
+    [
+      "ugly",
+      1,
+      "disgust"
+    ],
+    [
+      "gangs",
+      1,
+      "anger"
+    ],
+    [
+      "ferocious",
+      1,
+      "anger"
+    ],
+    [
+      "slums",
+      1,
+      "disgust"
     ],
     [
       "fells",
@@ -336,56 +376,16 @@
       "allied",
       1,
       "trust"
-    ],
-    [
-      "shot",
-      1,
-      "anger"
-    ],
-    [
-      "injured",
-      1,
-      "fear"
-    ],
-    [
-      "soldier",
-      1,
-      "anger"
-    ],
-    [
-      "risky",
-      1,
-      "fear"
-    ],
-    [
-      "rescue",
-      1,
-      "surprise"
-    ],
-    [
-      "stricken",
-      1,
-      "sadness"
-    ],
-    [
-      "kill",
-      1,
-      "fear"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 82,
+    "joy": 20,
+    "trust": 80,
     "fear": 50,
-    "surprise": 9,
-    "sadness": 19,
-    "disgust": 9,
-    "anger": 113,
-    "anticipation": 38
+    "surprise": 10,
+    "sadness": 14,
+    "disgust": 11,
+    "anger": 119,
+    "anticipation": 36
   }
 }
