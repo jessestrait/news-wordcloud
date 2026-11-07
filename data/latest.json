@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:19:04.959Z",
+  "generated_at": "2026-11-07T06:34:07.493Z",
   "article_count": 50,
   "top_words": [
     [
@@ -61,6 +61,11 @@
       "prison",
       4,
       "anger"
+    ],
+    [
+      "show",
+      3,
+      "trust"
     ],
     [
       "fear",
@@ -133,9 +138,9 @@
       "anger"
     ],
     [
-      "opportunity",
+      "polls",
       2,
-      "anticipation"
+      "trust"
     ],
     [
       "opposition",
@@ -248,11 +253,6 @@
       "fear"
     ],
     [
-      "show",
-      2,
-      "trust"
-    ],
-    [
       "bear",
       2,
       "anger"
@@ -278,14 +278,19 @@
       "trust"
     ],
     [
-      "ruling",
+      "expected",
       1,
-      "fear"
+      "anticipation"
     ],
     [
-      "watched",
+      "majority",
       1,
-      "fear"
+      "joy"
+    ],
+    [
+      "history",
+      1,
+      "trust"
     ],
     [
       "unseat",
@@ -371,17 +376,12 @@
       "unable",
       1,
       "sadness"
-    ],
-    [
-      "accounts",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 80,
-    "fear": 51,
+    "joy": 18,
+    "trust": 83,
+    "fear": 49,
     "surprise": 9,
     "sadness": 17,
     "disgust": 9,
