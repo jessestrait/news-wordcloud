@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:56:08.706Z",
+  "generated_at": "2026-11-07T19:11:11.134Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "anger"
     ],
     [
-      "bank",
-      6,
-      "trust"
-    ],
-    [
       "president",
       6,
       "trust"
@@ -46,6 +41,11 @@
       "trump",
       5,
       "anger"
+    ],
+    [
+      "bank",
+      4,
+      "trust"
     ],
     [
       "happened",
@@ -113,6 +113,16 @@
       "fear"
     ],
     [
+      "collapse",
+      2,
+      "fear"
+    ],
+    [
+      "leaves",
+      2,
+      "sadness"
+    ],
+    [
       "fire",
       2,
       "fear"
@@ -154,26 +164,6 @@
     ],
     [
       "experts",
-      2,
-      "trust"
-    ],
-    [
-      "collapse",
-      2,
-      "fear"
-    ],
-    [
-      "leaves",
-      2,
-      "sadness"
-    ],
-    [
-      "house",
-      2,
-      "joy"
-    ],
-    [
-      "accounts",
       2,
       "trust"
     ],
@@ -293,6 +283,26 @@
       "anger"
     ],
     [
+      "fells",
+      1,
+      "sadness"
+    ],
+    [
+      "broke",
+      1,
+      "fear"
+    ],
+    [
+      "alleged",
+      1,
+      "fear"
+    ],
+    [
+      "custody",
+      1,
+      "trust"
+    ],
+    [
       "fired",
       1,
       "fear"
@@ -366,26 +376,16 @@
       "gaza",
       1,
       "anger"
-    ],
-    [
-      "giant",
-      1,
-      "fear"
-    ],
-    [
-      "ugly",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 65,
-    "fear": 59,
+    "joy": 19,
+    "trust": 63,
+    "fear": 60,
     "surprise": 11,
     "sadness": 14,
     "disgust": 10,
     "anger": 115,
-    "anticipation": 32
+    "anticipation": 31
   }
 }
