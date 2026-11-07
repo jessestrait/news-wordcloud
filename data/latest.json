@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:08:12.648Z",
+  "generated_at": "2026-11-07T13:23:14.834Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,11 +48,6 @@
       "fear"
     ],
     [
-      "show",
-      4,
-      "trust"
-    ],
-    [
       "leader",
       4,
       "trust"
@@ -61,6 +56,16 @@
       "prison",
       4,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
+      "show",
+      3,
+      "trust"
     ],
     [
       "military",
@@ -81,11 +86,6 @@
       "disruption",
       3,
       "anger"
-    ],
-    [
-      "result",
-      3,
-      "anticipation"
     ],
     [
       "people",
@@ -109,11 +109,6 @@
     ],
     [
       "cooperation",
-      2,
-      "trust"
-    ],
-    [
-      "polls",
       2,
       "trust"
     ],
@@ -208,14 +203,14 @@
       "anticipation"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "vote",
       2,
       "anger"
+    ],
+    [
+      "result",
+      2,
+      "anticipation"
     ],
     [
       "continue",
@@ -286,21 +281,6 @@
       "clean",
       1,
       "joy"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "majority",
-      1,
-      "joy"
-    ],
-    [
-      "history",
-      1,
-      "trust"
     ],
     [
       "success",
@@ -376,16 +356,36 @@
       "unseat",
       1,
       "sadness"
+    ],
+    [
+      "remove",
+      1,
+      "anger"
+    ],
+    [
+      "allied",
+      1,
+      "trust"
+    ],
+    [
+      "shot",
+      1,
+      "anger"
+    ],
+    [
+      "injured",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 77,
+    "joy": 18,
+    "trust": 74,
     "fear": 49,
     "surprise": 10,
     "sadness": 13,
     "disgust": 11,
     "anger": 117,
-    "anticipation": 36
+    "anticipation": 35
   }
 }
