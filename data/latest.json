@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:28:08.396Z",
+  "generated_at": "2026-11-07T22:43:10.900Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "fear"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "leader",
       5,
       "trust"
@@ -51,11 +56,6 @@
       "bank",
       4,
       "trust"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "injured",
@@ -104,11 +104,6 @@
     ],
     [
       "killed",
-      2,
-      "fear"
-    ],
-    [
-      "police",
       2,
       "fear"
     ],
@@ -376,16 +371,21 @@
       "success",
       1,
       "joy"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 63,
-    "fear": 59,
+    "fear": 58,
     "surprise": 11,
     "sadness": 15,
     "disgust": 11,
     "anger": 110,
-    "anticipation": 31
+    "anticipation": 32
   }
 }
