@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:42:03.862Z",
+  "generated_at": "2026-11-07T20:57:06.379Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,17 +98,17 @@
       "anger"
     ],
     [
-      "fire",
-      2,
-      "fear"
-    ],
-    [
       "killed",
       2,
       "fear"
     ],
     [
       "police",
+      2,
+      "fear"
+    ],
+    [
+      "fire",
       2,
       "fear"
     ],
@@ -263,14 +263,14 @@
       "anger"
     ],
     [
-      "interior",
-      1,
-      "disgust"
-    ],
-    [
       "shooting",
       1,
       "anger"
+    ],
+    [
+      "interior",
+      1,
+      "disgust"
     ],
     [
       "lost",
