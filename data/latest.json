@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T04:15:55.379Z",
+  "generated_at": "2026-11-08T04:30:57.528Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,24 +8,24 @@
       "anger"
     ],
     [
+      "war",
+      9,
+      "anger"
+    ],
+    [
       "bomb",
       9,
       "anger"
     ],
     [
-      "war",
+      "president",
       8,
-      "anger"
+      "trust"
     ],
     [
       "government",
       7,
       "fear"
-    ],
-    [
-      "president",
-      7,
-      "trust"
     ],
     [
       "iran",
@@ -84,6 +84,11 @@
     ],
     [
       "fear",
+      3,
+      "anger"
+    ],
+    [
+      "attack",
       3,
       "anger"
     ],
@@ -223,11 +228,6 @@
       "fear"
     ],
     [
-      "attack",
-      2,
-      "anger"
-    ],
-    [
       "public",
       2,
       "anticipation"
@@ -278,8 +278,18 @@
       "fear"
     ],
     [
-      "slavery",
-      2,
+      "alone",
+      1,
+      "sadness"
+    ],
+    [
+      "plunges",
+      1,
+      "fear"
+    ],
+    [
+      "darkness",
+      1,
       "anger"
     ],
     [
@@ -366,26 +376,16 @@
       "playgrounds",
       1,
       "surprise"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
-    ],
-    [
-      "floods",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 64,
-    "fear": 61,
+    "trust": 62,
+    "fear": 62,
     "surprise": 11,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 11,
     "anger": 110,
-    "anticipation": 32
+    "anticipation": 33
   }
 }
