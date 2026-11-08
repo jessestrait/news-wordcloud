@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T14:07:19.811Z",
+  "generated_at": "2026-11-08T14:22:22.151Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "anger"
     ],
     [
+      "leader",
+      5,
+      "trust"
+    ],
+    [
       "people",
       5,
       "trust"
@@ -41,11 +46,6 @@
       "happened",
       5,
       "anticipation"
-    ],
-    [
-      "leader",
-      5,
-      "trust"
     ],
     [
       "plan",
@@ -298,6 +298,16 @@
       "fear"
     ],
     [
+      "lost",
+      1,
+      "sadness"
+    ],
+    [
+      "majority",
+      1,
+      "joy"
+    ],
+    [
       "terrorism",
       1,
       "anger"
@@ -351,16 +361,6 @@
       "ultimate",
       1,
       "sadness"
-    ],
-    [
-      "lost",
-      1,
-      "sadness"
-    ],
-    [
-      "majority",
-      1,
-      "joy"
     ],
     [
       "fells",
