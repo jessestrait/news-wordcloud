@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T08:48:02.725Z",
+  "generated_at": "2026-11-08T09:03:04.689Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,6 +278,11 @@
       "fear"
     ],
     [
+      "evil",
+      1,
+      "anger"
+    ],
+    [
       "found",
       1,
       "joy"
@@ -371,21 +376,16 @@
       "missing",
       1,
       "fear"
-    ],
-    [
-      "floods",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 23,
     "trust": 63,
     "fear": 61,
-    "surprise": 11,
-    "sadness": 16,
+    "surprise": 10,
+    "sadness": 15,
     "disgust": 10,
-    "anger": 109,
-    "anticipation": 33
+    "anger": 110,
+    "anticipation": 32
   }
 }
