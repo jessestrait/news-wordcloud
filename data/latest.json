@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T14:37:41.936Z",
+  "generated_at": "2026-11-08T14:52:44.438Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "anger"
     ],
     [
+      "injured",
+      4,
+      "fear"
+    ],
+    [
       "attack",
       4,
       "anger"
@@ -76,6 +81,16 @@
       "result",
       4,
       "anticipation"
+    ],
+    [
+      "police",
+      3,
+      "fear"
+    ],
+    [
+      "officers",
+      3,
+      "trust"
     ],
     [
       "killed",
@@ -103,22 +118,7 @@
       "trust"
     ],
     [
-      "injured",
-      3,
-      "fear"
-    ],
-    [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "fear",
-      3,
-      "anger"
-    ],
-    [
-      "conflict",
       3,
       "anger"
     ],
@@ -136,11 +136,6 @@
       "shooting",
       2,
       "anger"
-    ],
-    [
-      "police",
-      2,
-      "fear"
     ],
     [
       "found",
@@ -208,6 +203,11 @@
       "joy"
     ],
     [
+      "military",
+      2,
+      "fear"
+    ],
+    [
       "battles",
       2,
       "anger"
@@ -248,6 +248,11 @@
       "anticipation"
     ],
     [
+      "conflict",
+      2,
+      "anger"
+    ],
+    [
       "protesters",
       2,
       "anger"
@@ -278,11 +283,6 @@
       "fear"
     ],
     [
-      "officers",
-      2,
-      "trust"
-    ],
-    [
       "fees",
       2,
       "anger"
@@ -296,6 +296,36 @@
       "missile",
       2,
       "fear"
+    ],
+    [
+      "hailed",
+      1,
+      "trust"
+    ],
+    [
+      "heroes",
+      1,
+      "surprise"
+    ],
+    [
+      "confronting",
+      1,
+      "anger"
+    ],
+    [
+      "wounded",
+      1,
+      "anger"
+    ],
+    [
+      "prevented",
+      1,
+      "fear"
+    ],
+    [
+      "casualties",
+      1,
+      "anger"
     ],
     [
       "lost",
@@ -346,46 +376,16 @@
       "darkness",
       1,
       "anger"
-    ],
-    [
-      "blame",
-      1,
-      "anger"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "ultimate",
-      1,
-      "sadness"
-    ],
-    [
-      "fells",
-      1,
-      "sadness"
-    ],
-    [
-      "broke",
-      1,
-      "fear"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 65,
-    "fear": 64,
-    "surprise": 11,
+    "trust": 64,
+    "fear": 66,
+    "surprise": 12,
     "sadness": 15,
-    "disgust": 10,
-    "anger": 106,
+    "disgust": 9,
+    "anger": 108,
     "anticipation": 34
   }
 }
