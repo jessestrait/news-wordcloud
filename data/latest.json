@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:21:55.124Z",
+  "generated_at": "2026-11-08T13:36:56.967Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "anger"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "bank",
       4,
       "trust"
@@ -71,6 +76,11 @@
       "result",
       4,
       "anticipation"
+    ],
+    [
+      "killed",
+      3,
+      "fear"
     ],
     [
       "suspect",
@@ -108,11 +118,6 @@
       "anger"
     ],
     [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
       "conflict",
       3,
       "anger"
@@ -131,6 +136,11 @@
       "shooting",
       2,
       "anger"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "found",
@@ -166,11 +176,6 @@
       "seek",
       2,
       "anticipation"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "collapse",
@@ -303,6 +308,11 @@
       "anticipation"
     ],
     [
+      "inspired",
+      1,
+      "surprise"
+    ],
+    [
       "faith",
       1,
       "joy"
@@ -366,26 +376,16 @@
       "alleged",
       1,
       "fear"
-    ],
-    [
-      "custody",
-      1,
-      "trust"
-    ],
-    [
-      "clean",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
     "trust": 65,
-    "fear": 62,
-    "surprise": 10,
+    "fear": 64,
+    "surprise": 11,
     "sadness": 15,
     "disgust": 10,
-    "anger": 105,
+    "anger": 106,
     "anticipation": 34
   }
 }
