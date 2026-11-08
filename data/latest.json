@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:11:00.881Z",
+  "generated_at": "2026-11-08T21:26:02.870Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,12 +83,12 @@
       "anticipation"
     ],
     [
-      "military",
+      "police",
       3,
       "fear"
     ],
     [
-      "police",
+      "military",
       3,
       "fear"
     ],
@@ -293,21 +293,6 @@
       "fear"
     ],
     [
-      "allies",
-      1,
-      "trust"
-    ],
-    [
-      "strives",
-      1,
-      "anticipation"
-    ],
-    [
-      "approaching",
-      1,
-      "anticipation"
-    ],
-    [
       "hailed",
       1,
       "trust"
@@ -336,6 +321,21 @@
       "casualties",
       1,
       "anger"
+    ],
+    [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
+      "strives",
+      1,
+      "anticipation"
+    ],
+    [
+      "approaching",
+      1,
+      "anticipation"
     ],
     [
       "lost",
