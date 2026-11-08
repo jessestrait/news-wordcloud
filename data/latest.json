@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:54:11.610Z",
+  "generated_at": "2026-11-08T18:09:13.791Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,19 +8,19 @@
       "anger"
     ],
     [
+      "government",
+      8,
+      "fear"
+    ],
+    [
       "war",
-      9,
+      8,
       "anger"
     ],
     [
       "president",
-      8,
-      "trust"
-    ],
-    [
-      "government",
       7,
-      "fear"
+      "trust"
     ],
     [
       "iran",
@@ -83,14 +83,14 @@
       "anticipation"
     ],
     [
-      "police",
+      "military",
       3,
       "fear"
     ],
     [
-      "officers",
+      "police",
       3,
-      "trust"
+      "fear"
     ],
     [
       "killed",
@@ -133,6 +133,11 @@
       "anger"
     ],
     [
+      "officers",
+      2,
+      "trust"
+    ],
+    [
       "shooting",
       2,
       "anger"
@@ -141,11 +146,6 @@
       "found",
       2,
       "joy"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "fire",
@@ -201,11 +201,6 @@
       "loved",
       2,
       "joy"
-    ],
-    [
-      "military",
-      2,
-      "fear"
     ],
     [
       "battles",
@@ -298,6 +293,21 @@
       "fear"
     ],
     [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
+      "strives",
+      1,
+      "anticipation"
+    ],
+    [
+      "approaching",
+      1,
+      "anticipation"
+    ],
+    [
       "hailed",
       1,
       "trust"
@@ -358,34 +368,24 @@
       "joy"
     ],
     [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
       "evil",
-      1,
-      "anger"
-    ],
-    [
-      "alone",
-      1,
-      "sadness"
-    ],
-    [
-      "plunges",
-      1,
-      "fear"
-    ],
-    [
-      "darkness",
       1,
       "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 64,
-    "fear": 66,
+    "joy": 25,
+    "trust": 63,
+    "fear": 68,
     "surprise": 12,
     "sadness": 15,
     "disgust": 9,
-    "anger": 108,
+    "anger": 106,
     "anticipation": 34
   }
 }
