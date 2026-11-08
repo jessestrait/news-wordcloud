@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T08:17:58.514Z",
+  "generated_at": "2026-11-08T08:33:00.630Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anger"
     ],
     [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "bank",
       4,
       "trust"
@@ -63,19 +68,9 @@
       "anger"
     ],
     [
-      "suspect",
-      3,
-      "fear"
-    ],
-    [
       "injured",
       3,
       "fear"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "military",
@@ -126,6 +121,11 @@
       "home",
       2,
       "joy"
+    ],
+    [
+      "suspect",
+      2,
+      "fear"
     ],
     [
       "special",
@@ -278,19 +278,9 @@
       "fear"
     ],
     [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
       "found",
       1,
       "joy"
-    ],
-    [
-      "interior",
-      1,
-      "disgust"
     ],
     [
       "alone",
@@ -376,16 +366,26 @@
       "playgrounds",
       1,
       "surprise"
+    ],
+    [
+      "missing",
+      1,
+      "fear"
+    ],
+    [
+      "floods",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 62,
-    "fear": 62,
+    "trust": 63,
+    "fear": 61,
     "surprise": 11,
     "sadness": 16,
-    "disgust": 11,
-    "anger": 110,
+    "disgust": 10,
+    "anger": 109,
     "anticipation": 33
   }
 }
