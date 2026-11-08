@@ -1,19 +1,14 @@
 {
-  "generated_at": "2026-11-08T09:49:48.143Z",
+  "generated_at": "2026-11-08T10:04:50.291Z",
   "article_count": 50,
   "top_words": [
     [
       "threats",
-      12,
+      10,
       "anger"
     ],
     [
       "war",
-      9,
-      "anger"
-    ],
-    [
-      "bomb",
       9,
       "anger"
     ],
@@ -29,6 +24,11 @@
     ],
     [
       "iran",
+      7,
+      "anger"
+    ],
+    [
+      "bomb",
       7,
       "anger"
     ],
@@ -68,6 +68,16 @@
       "anger"
     ],
     [
+      "result",
+      4,
+      "anticipation"
+    ],
+    [
+      "show",
+      3,
+      "trust"
+    ],
+    [
       "injured",
       3,
       "fear"
@@ -98,19 +108,14 @@
       "joy"
     ],
     [
-      "disruption",
-      3,
-      "anger"
-    ],
-    [
-      "result",
-      3,
-      "anticipation"
-    ],
-    [
       "strike",
       3,
       "anger"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "fire",
@@ -188,11 +193,6 @@
       "joy"
     ],
     [
-      "show",
-      2,
-      "trust"
-    ],
-    [
       "battles",
       2,
       "anger"
@@ -243,6 +243,11 @@
       "disgust"
     ],
     [
+      "disruption",
+      2,
+      "anger"
+    ],
+    [
       "continue",
       2,
       "trust"
@@ -276,6 +281,11 @@
       "missile",
       2,
       "fear"
+    ],
+    [
+      "faith",
+      1,
+      "joy"
     ],
     [
       "found",
@@ -366,26 +376,16 @@
       "disabled",
       1,
       "fear"
-    ],
-    [
-      "playgrounds",
-      1,
-      "surprise"
-    ],
-    [
-      "missing",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 24,
     "trust": 63,
     "fear": 61,
     "surprise": 10,
     "sadness": 15,
     "disgust": 10,
-    "anger": 110,
-    "anticipation": 32
+    "anger": 105,
+    "anticipation": 33
   }
 }
