@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:14:25.602Z",
+  "generated_at": "2026-11-08T01:29:28.013Z",
   "article_count": 50,
   "top_words": [
     [
@@ -101,6 +101,11 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "seek",
+      2,
+      "anticipation"
     ],
     [
       "killed",
@@ -268,6 +273,16 @@
       "anger"
     ],
     [
+      "change",
+      1,
+      "fear"
+    ],
+    [
+      "blame",
+      1,
+      "anger"
+    ],
+    [
       "parliament",
       1,
       "trust"
@@ -361,31 +376,16 @@
       "hope",
       1,
       "surprise"
-    ],
-    [
-      "shortages",
-      1,
-      "anger"
-    ],
-    [
-      "success",
-      1,
-      "joy"
-    ],
-    [
-      "gaza",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 63,
-    "fear": 58,
+    "fear": 59,
     "surprise": 11,
     "sadness": 15,
     "disgust": 11,
-    "anger": 110,
+    "anger": 111,
     "anticipation": 32
   }
 }
