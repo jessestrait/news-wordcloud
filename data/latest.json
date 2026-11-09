@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:36:56.713Z",
+  "generated_at": "2026-11-09T14:51:59.325Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,6 +31,11 @@
       "threats",
       6,
       "anger"
+    ],
+    [
+      "happened",
+      5,
+      "anticipation"
     ],
     [
       "injured",
@@ -86,11 +91,6 @@
       "attack",
       4,
       "anger"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "bank",
@@ -386,6 +386,6 @@
     "sadness": 17,
     "disgust": 7,
     "anger": 93,
-    "anticipation": 36
+    "anticipation": 37
   }
 }
