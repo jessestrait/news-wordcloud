@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:59:13.237Z",
+  "generated_at": "2026-11-09T04:14:15.814Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "anticipation"
     ],
     [
+      "family",
+      4,
+      "joy"
+    ],
+    [
       "injured",
       4,
       "fear"
@@ -81,11 +86,6 @@
       "vote",
       4,
       "anger"
-    ],
-    [
-      "police",
-      3,
-      "fear"
     ],
     [
       "killed",
@@ -113,14 +113,14 @@
       "anger"
     ],
     [
-      "family",
-      3,
-      "joy"
+      "haze",
+      2,
+      "fear"
     ],
     [
-      "strike",
-      3,
-      "anger"
+      "clean",
+      2,
+      "joy"
     ],
     [
       "parliament",
@@ -133,9 +133,9 @@
       "trust"
     ],
     [
-      "officers",
+      "police",
       2,
-      "trust"
+      "fear"
     ],
     [
       "military",
@@ -208,6 +208,11 @@
       "joy"
     ],
     [
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
       "battles",
       2,
       "anger"
@@ -243,19 +248,14 @@
       "fear"
     ],
     [
-      "public",
-      2,
-      "anticipation"
-    ],
-    [
       "conflict",
       2,
       "anger"
     ],
     [
-      "protesters",
+      "house",
       2,
-      "anger"
+      "joy"
     ],
     [
       "media",
@@ -281,6 +281,46 @@
       "hospital",
       2,
       "fear"
+    ],
+    [
+      "bear",
+      1,
+      "anger"
+    ],
+    [
+      "young",
+      1,
+      "surprise"
+    ],
+    [
+      "choking",
+      1,
+      "anger"
+    ],
+    [
+      "engulfs",
+      1,
+      "anticipation"
+    ],
+    [
+      "mother",
+      1,
+      "sadness"
+    ],
+    [
+      "safe",
+      1,
+      "joy"
+    ],
+    [
+      "escape",
+      1,
+      "fear"
+    ],
+    [
+      "toxic",
+      1,
+      "disgust"
     ],
     [
       "opportunity",
@@ -318,6 +358,11 @@
       "joy"
     ],
     [
+      "officers",
+      1,
+      "trust"
+    ],
+    [
       "hailed",
       1,
       "trust"
@@ -331,60 +376,15 @@
       "confronting",
       1,
       "anger"
-    ],
-    [
-      "wounded",
-      1,
-      "anger"
-    ],
-    [
-      "prevented",
-      1,
-      "fear"
-    ],
-    [
-      "casualties",
-      1,
-      "anger"
-    ],
-    [
-      "allies",
-      1,
-      "trust"
-    ],
-    [
-      "strives",
-      1,
-      "anticipation"
-    ],
-    [
-      "approaching",
-      1,
-      "anticipation"
-    ],
-    [
-      "lost",
-      1,
-      "sadness"
-    ],
-    [
-      "majority",
-      1,
-      "joy"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 61,
-    "fear": 63,
-    "surprise": 11,
-    "sadness": 14,
-    "disgust": 9,
+    "joy": 29,
+    "trust": 59,
+    "fear": 65,
+    "surprise": 12,
+    "sadness": 15,
+    "disgust": 10,
     "anger": 101,
     "anticipation": 37
   }
