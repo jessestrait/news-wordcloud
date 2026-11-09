@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:21:37.734Z",
+  "generated_at": "2026-11-09T14:36:39.907Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anticipation"
     ],
     [
+      "system",
+      4,
+      "trust"
+    ],
+    [
       "investigation",
       4,
       "anticipation"
@@ -66,11 +71,6 @@
       "fire",
       4,
       "fear"
-    ],
-    [
-      "system",
-      4,
-      "trust"
     ],
     [
       "killed",
@@ -318,11 +318,6 @@
       "fear"
     ],
     [
-      "establish",
-      1,
-      "trust"
-    ],
-    [
       "sues",
       1,
       "anger"
@@ -338,14 +333,14 @@
       "anger"
     ],
     [
-      "passengers",
+      "delivery",
       1,
       "anticipation"
     ],
     [
-      "blamed",
+      "establish",
       1,
-      "anger"
+      "trust"
     ],
     [
       "leaving",
@@ -376,6 +371,11 @@
       "powerful",
       1,
       "anger"
+    ],
+    [
+      "enables",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 13,
     "sadness": 17,
     "disgust": 7,
-    "anger": 94,
+    "anger": 93,
     "anticipation": 36
   }
 }
