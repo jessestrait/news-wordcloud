@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:22:48.165Z",
+  "generated_at": "2026-11-09T16:37:50.317Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,24 +13,29 @@
       "trust"
     ],
     [
+      "killed",
+      6,
+      "fear"
+    ],
+    [
       "leader",
       6,
       "trust"
     ],
     [
-      "government",
-      6,
-      "fear"
-    ],
-    [
-      "killed",
-      5,
-      "fear"
-    ],
-    [
       "happened",
       5,
       "anticipation"
+    ],
+    [
+      "family",
+      5,
+      "joy"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "president",
@@ -68,16 +73,6 @@
       "fear"
     ],
     [
-      "system",
-      4,
-      "trust"
-    ],
-    [
-      "family",
-      4,
-      "joy"
-    ],
-    [
       "injured",
       4,
       "fear"
@@ -113,6 +108,11 @@
       "joy"
     ],
     [
+      "system",
+      3,
+      "trust"
+    ],
+    [
       "shooting",
       3,
       "anger"
@@ -136,6 +136,16 @@
       "vote",
       3,
       "anger"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
+      "seek",
+      2,
+      "anticipation"
     ],
     [
       "officers",
@@ -178,17 +188,17 @@
       "fear"
     ],
     [
+      "mother",
+      2,
+      "sadness"
+    ],
+    [
       "clean",
       2,
       "joy"
     ],
     [
       "parliament",
-      2,
-      "trust"
-    ],
-    [
-      "top",
       2,
       "trust"
     ],
@@ -208,6 +218,11 @@
       "trust"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "counted",
       2,
       "trust"
@@ -216,11 +231,6 @@
       "official",
       2,
       "trust"
-    ],
-    [
-      "seek",
-      2,
-      "anticipation"
     ],
     [
       "bank",
@@ -243,6 +253,11 @@
       "joy"
     ],
     [
+      "hope",
+      2,
+      "surprise"
+    ],
+    [
       "strikes",
       2,
       "anger"
@@ -256,11 +271,6 @@
       "experts",
       2,
       "trust"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "opposition",
@@ -293,14 +303,19 @@
       "disgust"
     ],
     [
-      "court",
-      2,
-      "anger"
+      "star",
+      1,
+      "joy"
     ],
     [
-      "rule",
-      2,
-      "fear"
+      "times",
+      1,
+      "anticipation"
+    ],
+    [
+      "champion",
+      1,
+      "joy"
     ],
     [
       "attacked",
@@ -361,31 +376,16 @@
       "invasion",
       1,
       "anger"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
-      "history",
-      1,
-      "trust"
-    ],
-    [
-      "sues",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 65,
-    "fear": 58,
-    "surprise": 13,
+    "joy": 30,
+    "trust": 63,
+    "fear": 59,
+    "surprise": 14,
     "sadness": 16,
-    "disgust": 8,
-    "anger": 98,
-    "anticipation": 37
+    "disgust": 9,
+    "anger": 100,
+    "anticipation": 40
   }
 }
