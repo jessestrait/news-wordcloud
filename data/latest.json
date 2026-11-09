@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:31:10.784Z",
+  "generated_at": "2026-11-09T06:46:13.190Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,9 +83,9 @@
       "anticipation"
     ],
     [
-      "vote",
-      4,
-      "anger"
+      "change",
+      3,
+      "fear"
     ],
     [
       "killed",
@@ -113,9 +113,14 @@
       "anger"
     ],
     [
-      "american",
+      "vote",
+      3,
+      "anger"
+    ],
+    [
+      "system",
       2,
-      "sadness"
+      "trust"
     ],
     [
       "haze",
@@ -171,11 +176,6 @@
       "special",
       2,
       "joy"
-    ],
-    [
-      "change",
-      2,
-      "fear"
     ],
     [
       "counted",
@@ -278,6 +278,11 @@
       "trust"
     ],
     [
+      "court",
+      2,
+      "anger"
+    ],
+    [
       "rule",
       2,
       "fear"
@@ -288,9 +293,39 @@
       "fear"
     ],
     [
+      "justice",
+      1,
+      "trust"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
+      "entertainment",
+      1,
+      "surprise"
+    ],
+    [
+      "powerful",
+      1,
+      "anger"
+    ],
+    [
+      "enables",
+      1,
+      "trust"
+    ],
+    [
       "storm",
       1,
       "anger"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
     ],
     [
       "bear",
@@ -341,50 +376,15 @@
       "politics",
       1,
       "anger"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
-    ],
-    [
-      "vision",
-      1,
-      "anticipation"
-    ],
-    [
-      "guarantees",
-      1,
-      "trust"
-    ],
-    [
-      "focus",
-      1,
-      "trust"
-    ],
-    [
-      "progress",
-      1,
-      "joy"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
-    ],
-    [
-      "hailed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 59,
-    "fear": 64,
-    "surprise": 12,
-    "sadness": 16,
-    "disgust": 10,
+    "trust": 62,
+    "fear": 65,
+    "surprise": 13,
+    "sadness": 15,
+    "disgust": 7,
     "anger": 99,
     "anticipation": 36
   }
