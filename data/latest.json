@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:38:30.788Z",
+  "generated_at": "2026-11-09T17:53:32.891Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,6 +10,11 @@
     [
       "people",
       7,
+      "trust"
+    ],
+    [
+      "president",
+      6,
       "trust"
     ],
     [
@@ -36,11 +41,6 @@
       "government",
       5,
       "fear"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "threats",
@@ -123,19 +123,14 @@
       "anger"
     ],
     [
-      "history",
-      2,
-      "trust"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
       "seek",
       2,
       "anticipation"
+    ],
+    [
+      "history",
+      2,
+      "trust"
     ],
     [
       "continue",
@@ -298,6 +293,21 @@
       "disgust"
     ],
     [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "times",
+      1,
+      "anticipation"
+    ],
+    [
+      "champion",
+      1,
+      "joy"
+    ],
+    [
       "obituary",
       1,
       "sadness"
@@ -333,21 +343,6 @@
       "trust"
     ],
     [
-      "star",
-      1,
-      "joy"
-    ],
-    [
-      "times",
-      1,
-      "anticipation"
-    ],
-    [
-      "champion",
-      1,
-      "joy"
-    ],
-    [
       "attacked",
       1,
       "anger"
@@ -376,16 +371,21 @@
       "mountain",
       1,
       "anticipation"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 64,
+    "joy": 29,
+    "trust": 65,
     "fear": 58,
     "surprise": 13,
     "sadness": 18,
     "disgust": 9,
-    "anger": 95,
-    "anticipation": 38
+    "anger": 96,
+    "anticipation": 37
   }
 }
