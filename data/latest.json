@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:07:01.492Z",
+  "generated_at": "2026-11-09T15:22:04.061Z",
   "article_count": 50,
   "top_words": [
     [
@@ -131,11 +131,6 @@
       "continue",
       3,
       "trust"
-    ],
-    [
-      "slopes",
-      2,
-      "disgust"
     ],
     [
       "food",
@@ -318,6 +313,11 @@
       "anticipation"
     ],
     [
+      "slopes",
+      1,
+      "disgust"
+    ],
+    [
       "angers",
       1,
       "anger"
@@ -384,7 +384,7 @@
     "fear": 61,
     "surprise": 13,
     "sadness": 17,
-    "disgust": 9,
+    "disgust": 8,
     "anger": 99,
     "anticipation": 38
   }
