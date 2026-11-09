@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:34:32.189Z",
+  "generated_at": "2026-11-09T10:49:34.801Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,22 +53,22 @@
       "anticipation"
     ],
     [
-      "shooting",
-      4,
-      "anger"
-    ],
-    [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "investigation",
       4,
       "anticipation"
     ],
     [
+      "shooting",
+      4,
+      "anger"
+    ],
+    [
       "fire",
+      4,
+      "fear"
+    ],
+    [
+      "killed",
       4,
       "fear"
     ],
@@ -98,6 +98,11 @@
       "anger"
     ],
     [
+      "terrorism",
+      3,
+      "anger"
+    ],
+    [
       "suspect",
       3,
       "fear"
@@ -106,11 +111,6 @@
       "police",
       3,
       "fear"
-    ],
-    [
-      "terrorism",
-      3,
-      "anger"
     ],
     [
       "change",
@@ -318,14 +318,14 @@
       "fear"
     ],
     [
-      "leaving",
-      1,
-      "sadness"
-    ],
-    [
       "establish",
       1,
       "trust"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
     ],
     [
       "global",
