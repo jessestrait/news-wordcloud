@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-11-09T14:51:59.325Z",
+  "generated_at": "2026-11-09T15:07:01.492Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      10,
       "anger"
-    ],
-    [
-      "people",
-      6,
-      "trust"
     ],
     [
       "leader",
@@ -23,14 +18,14 @@
       "fear"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "threats",
       6,
       "anger"
+    ],
+    [
+      "killed",
+      5,
+      "fear"
     ],
     [
       "happened",
@@ -41,6 +36,16 @@
       "injured",
       5,
       "fear"
+    ],
+    [
+      "people",
+      5,
+      "trust"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "iran",
@@ -78,11 +83,6 @@
       "fear"
     ],
     [
-      "killed",
-      4,
-      "fear"
-    ],
-    [
       "family",
       4,
       "joy"
@@ -91,11 +91,6 @@
       "attack",
       4,
       "anger"
-    ],
-    [
-      "bank",
-      4,
-      "trust"
     ],
     [
       "terrorism",
@@ -136,6 +131,21 @@
       "continue",
       3,
       "trust"
+    ],
+    [
+      "slopes",
+      2,
+      "disgust"
+    ],
+    [
+      "food",
+      2,
+      "joy"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
     ],
     [
       "justice",
@@ -208,9 +218,9 @@
       "anticipation"
     ],
     [
-      "collapse",
+      "bank",
       2,
-      "fear"
+      "trust"
     ],
     [
       "leaves",
@@ -273,16 +283,6 @@
       "anger"
     ],
     [
-      "evacuated",
-      2,
-      "fear"
-    ],
-    [
-      "operation",
-      2,
-      "fear"
-    ],
-    [
       "conflict",
       2,
       "anger"
@@ -313,9 +313,54 @@
       "fear"
     ],
     [
-      "hospital",
-      2,
-      "fear"
+      "arrival",
+      1,
+      "anticipation"
+    ],
+    [
+      "angers",
+      1,
+      "anger"
+    ],
+    [
+      "mountain",
+      1,
+      "anticipation"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
+    ],
+    [
+      "threatened",
+      1,
+      "anger"
+    ],
+    [
+      "fighting",
+      1,
+      "anger"
+    ],
+    [
+      "suggests",
+      1,
+      "trust"
+    ],
+    [
+      "losses",
+      1,
+      "anger"
+    ],
+    [
+      "launched",
+      1,
+      "anticipation"
+    ],
+    [
+      "invasion",
+      1,
+      "anger"
     ],
     [
       "sues",
@@ -331,61 +376,16 @@
       "delays",
       1,
       "anger"
-    ],
-    [
-      "delivery",
-      1,
-      "anticipation"
-    ],
-    [
-      "establish",
-      1,
-      "trust"
-    ],
-    [
-      "leaving",
-      1,
-      "sadness"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
-    ],
-    [
-      "world",
-      1,
-      "trust"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
-      "entertainment",
-      1,
-      "surprise"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "enables",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 66,
-    "fear": 65,
+    "joy": 30,
+    "trust": 62,
+    "fear": 61,
     "surprise": 13,
     "sadness": 17,
-    "disgust": 7,
-    "anger": 93,
-    "anticipation": 37
+    "disgust": 9,
+    "anger": 99,
+    "anticipation": 38
   }
 }
