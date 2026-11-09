@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:37:23.570Z",
+  "generated_at": "2026-11-09T15:52:26.058Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "anticipation"
     ],
     [
-      "injured",
-      5,
-      "fear"
-    ],
-    [
       "president",
       5,
       "trust"
@@ -63,11 +58,6 @@
       "anticipation"
     ],
     [
-      "police",
-      4,
-      "fear"
-    ],
-    [
       "system",
       4,
       "trust"
@@ -76,11 +66,6 @@
       "investigation",
       4,
       "anticipation"
-    ],
-    [
-      "shooting",
-      4,
-      "anger"
     ],
     [
       "fire",
@@ -93,9 +78,19 @@
       "joy"
     ],
     [
+      "injured",
+      4,
+      "fear"
+    ],
+    [
       "attack",
       4,
       "anger"
+    ],
+    [
+      "police",
+      3,
+      "fear"
     ],
     [
       "special",
@@ -103,9 +98,19 @@
       "joy"
     ],
     [
+      "shooting",
+      3,
+      "anger"
+    ],
+    [
       "terrorism",
       3,
       "anger"
+    ],
+    [
+      "continue",
+      3,
+      "trust"
     ],
     [
       "suspect",
@@ -131,11 +136,6 @@
       "vote",
       3,
       "anger"
-    ],
-    [
-      "continue",
-      3,
-      "trust"
     ],
     [
       "officers",
@@ -358,34 +358,34 @@
       "anger"
     ],
     [
-      "launched",
-      1,
-      "anticipation"
-    ],
-    [
       "invasion",
       1,
       "anger"
     ],
     [
-      "sues",
+      "unprecedented",
       1,
-      "anger"
+      "surprise"
     ],
     [
-      "lawsuit",
+      "history",
+      1,
+      "trust"
+    ],
+    [
+      "sues",
       1,
       "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 64,
-    "fear": 60,
-    "surprise": 12,
-    "sadness": 17,
+    "trust": 65,
+    "fear": 58,
+    "surprise": 13,
+    "sadness": 16,
     "disgust": 8,
-    "anger": 99,
-    "anticipation": 38
+    "anger": 98,
+    "anticipation": 37
   }
 }
