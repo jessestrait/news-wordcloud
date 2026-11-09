@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T04:14:15.814Z",
+  "generated_at": "2026-11-09T04:29:18.374Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "threats",
-      10,
+      9,
       "anger"
     ],
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "bomb",
-      7,
-      "anger"
-    ],
-    [
       "leader",
       6,
       "trust"
+    ],
+    [
+      "bomb",
+      6,
+      "anger"
     ],
     [
       "people",
@@ -39,11 +39,6 @@
     ],
     [
       "happened",
-      5,
-      "anticipation"
-    ],
-    [
-      "plan",
       5,
       "anticipation"
     ],
@@ -83,6 +78,11 @@
       "trust"
     ],
     [
+      "plan",
+      4,
+      "anticipation"
+    ],
+    [
       "vote",
       4,
       "anger"
@@ -111,6 +111,11 @@
       "fear",
       3,
       "anger"
+    ],
+    [
+      "american",
+      2,
+      "sadness"
     ],
     [
       "haze",
@@ -283,6 +288,11 @@
       "fear"
     ],
     [
+      "storm",
+      1,
+      "anger"
+    ],
+    [
       "bear",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "hailed",
       1,
       "trust"
-    ],
-    [
-      "heroes",
-      1,
-      "surprise"
-    ],
-    [
-      "confronting",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
     "trust": 59,
-    "fear": 65,
+    "fear": 64,
     "surprise": 12,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 10,
-    "anger": 101,
-    "anticipation": 37
+    "anger": 99,
+    "anticipation": 36
   }
 }
