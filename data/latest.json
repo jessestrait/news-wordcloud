@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T13:51:33.613Z",
+  "generated_at": "2026-11-09T14:06:35.676Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anticipation"
     ],
     [
+      "system",
+      4,
+      "trust"
+    ],
+    [
       "investigation",
       4,
       "anticipation"
@@ -66,11 +71,6 @@
       "fire",
       4,
       "fear"
-    ],
-    [
-      "system",
-      4,
-      "trust"
     ],
     [
       "killed",
@@ -318,11 +318,6 @@
       "fear"
     ],
     [
-      "establish",
-      1,
-      "trust"
-    ],
-    [
       "sues",
       1,
       "anger"
@@ -346,6 +341,11 @@
       "blamed",
       1,
       "anger"
+    ],
+    [
+      "establish",
+      1,
+      "trust"
     ],
     [
       "leaving",
