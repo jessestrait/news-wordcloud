@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:13:51.723Z",
+  "generated_at": "2026-11-09T03:28:53.585Z",
   "article_count": 50,
   "top_words": [
     [
@@ -29,7 +29,7 @@
     ],
     [
       "leader",
-      5,
+      6,
       "trust"
     ],
     [
@@ -58,6 +58,11 @@
       "anger"
     ],
     [
+      "result",
+      5,
+      "anticipation"
+    ],
+    [
       "injured",
       4,
       "fear"
@@ -76,11 +81,6 @@
       "vote",
       4,
       "anger"
-    ],
-    [
-      "result",
-      4,
-      "anticipation"
     ],
     [
       "police",
@@ -121,6 +121,11 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "parliament",
+      2,
+      "trust"
     ],
     [
       "top",
@@ -278,19 +283,24 @@
       "fear"
     ],
     [
-      "guarantee",
-      2,
-      "trust"
+      "opportunity",
+      1,
+      "anticipation"
     ],
     [
-      "fees",
-      2,
+      "politics",
+      1,
       "anger"
     ],
     [
-      "deal",
-      2,
-      "surprise"
+      "vision",
+      1,
+      "anticipation"
+    ],
+    [
+      "guarantees",
+      1,
+      "trust"
     ],
     [
       "focus",
@@ -366,26 +376,16 @@
       "investigation",
       1,
       "anticipation"
-    ],
-    [
-      "inspired",
-      1,
-      "surprise"
-    ],
-    [
-      "faith",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 60,
-    "fear": 64,
-    "surprise": 12,
-    "sadness": 15,
+    "joy": 25,
+    "trust": 61,
+    "fear": 63,
+    "surprise": 11,
+    "sadness": 14,
     "disgust": 9,
-    "anger": 103,
-    "anticipation": 34
+    "anger": 101,
+    "anticipation": 36
   }
 }
