@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:52:26.058Z",
+  "generated_at": "2026-11-09T16:07:28.580Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,11 +58,6 @@
       "anticipation"
     ],
     [
-      "system",
-      4,
-      "trust"
-    ],
-    [
       "investigation",
       4,
       "anticipation"
@@ -71,6 +66,11 @@
       "fire",
       4,
       "fear"
+    ],
+    [
+      "system",
+      4,
+      "trust"
     ],
     [
       "family",
@@ -88,21 +88,6 @@
       "anger"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
-      "special",
-      3,
-      "joy"
-    ],
-    [
-      "shooting",
-      3,
-      "anger"
-    ],
-    [
       "terrorism",
       3,
       "anger"
@@ -116,6 +101,21 @@
       "suspect",
       3,
       "fear"
+    ],
+    [
+      "police",
+      3,
+      "fear"
+    ],
+    [
+      "special",
+      3,
+      "joy"
+    ],
+    [
+      "shooting",
+      3,
+      "anger"
     ],
     [
       "change",
