@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:43:55.386Z",
+  "generated_at": "2026-11-09T03:58:57.485Z",
   "article_count": 50,
   "top_words": [
     [
@@ -293,6 +293,11 @@
       "anger"
     ],
     [
+      "prepares",
+      1,
+      "anticipation"
+    ],
+    [
       "vision",
       1,
       "anticipation"
@@ -371,11 +376,6 @@
       "terrorism",
       1,
       "anger"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 14,
     "disgust": 9,
     "anger": 101,
-    "anticipation": 36
+    "anticipation": 37
   }
 }
