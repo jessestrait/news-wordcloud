@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:24:20.526Z",
+  "generated_at": "2026-11-09T18:39:22.548Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "people",
-      7,
+      8,
       "trust"
     ],
     [
@@ -23,6 +23,11 @@
       "fear"
     ],
     [
+      "family",
+      6,
+      "joy"
+    ],
+    [
       "leader",
       6,
       "trust"
@@ -31,11 +36,6 @@
       "happened",
       5,
       "anticipation"
-    ],
-    [
-      "family",
-      5,
-      "joy"
     ],
     [
       "government",
@@ -83,6 +83,11 @@
       "anger"
     ],
     [
+      "bank",
+      3,
+      "trust"
+    ],
+    [
       "terrorism",
       3,
       "anger"
@@ -121,6 +126,16 @@
       "bomb",
       3,
       "anger"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
+      "collapse",
+      2,
+      "fear"
     ],
     [
       "seek",
@@ -228,11 +243,6 @@
       "trust"
     ],
     [
-      "bank",
-      2,
-      "trust"
-    ],
-    [
       "leaves",
       2,
       "sadness"
@@ -254,11 +264,6 @@
     ],
     [
       "strikes",
-      2,
-      "anger"
-    ],
-    [
-      "battles",
       2,
       "anger"
     ],
@@ -291,6 +296,41 @@
       "media",
       2,
       "disgust"
+    ],
+    [
+      "witnesses",
+      1,
+      "trust"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
+    ],
+    [
+      "save",
+      1,
+      "joy"
+    ],
+    [
+      "buried",
+      1,
+      "fear"
+    ],
+    [
+      "horrifying",
+      1,
+      "fear"
+    ],
+    [
+      "landslide",
+      1,
+      "fear"
+    ],
+    [
+      "displaced",
+      1,
+      "anger"
     ],
     [
       "fight",
@@ -336,56 +376,16 @@
       "edition",
       1,
       "anticipation"
-    ],
-    [
-      "father",
-      1,
-      "trust"
-    ],
-    [
-      "attacked",
-      1,
-      "anger"
-    ],
-    [
-      "stones",
-      1,
-      "anger"
-    ],
-    [
-      "arrival",
-      1,
-      "anticipation"
-    ],
-    [
-      "slopes",
-      1,
-      "disgust"
-    ],
-    [
-      "angers",
-      1,
-      "anger"
-    ],
-    [
-      "mountain",
-      1,
-      "anticipation"
-    ],
-    [
-      "legal",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 65,
-    "fear": 58,
+    "joy": 31,
+    "trust": 67,
+    "fear": 62,
     "surprise": 13,
     "sadness": 18,
     "disgust": 9,
-    "anger": 96,
-    "anticipation": 37
+    "anger": 97,
+    "anticipation": 36
   }
 }
