@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:08:11.875Z",
+  "generated_at": "2026-11-09T17:23:14.035Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "people",
-      6,
+      7,
       "trust"
     ],
     [
@@ -48,11 +48,6 @@
       "anger"
     ],
     [
-      "result",
-      5,
-      "anticipation"
-    ],
-    [
       "investigation",
       4,
       "anticipation"
@@ -61,6 +56,11 @@
       "fire",
       4,
       "fear"
+    ],
+    [
+      "results",
+      4,
+      "anticipation"
     ],
     [
       "injured",
@@ -119,11 +119,6 @@
     ],
     [
       "bomb",
-      3,
-      "anger"
-    ],
-    [
-      "vote",
       3,
       "anger"
     ],
@@ -228,9 +223,9 @@
       "anticipation"
     ],
     [
-      "counted",
+      "votes",
       2,
-      "trust"
+      "anger"
     ],
     [
       "official",
@@ -303,6 +298,21 @@
       "disgust"
     ],
     [
+      "obituary",
+      1,
+      "sadness"
+    ],
+    [
+      "charity",
+      1,
+      "joy"
+    ],
+    [
+      "poverty",
+      1,
+      "sadness"
+    ],
+    [
       "glory",
       1,
       "joy"
@@ -366,26 +376,16 @@
       "mountain",
       1,
       "anticipation"
-    ],
-    [
-      "legal",
-      1,
-      "trust"
-    ],
-    [
-      "threatened",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 65,
+    "trust": 64,
     "fear": 58,
-    "surprise": 14,
-    "sadness": 16,
+    "surprise": 13,
+    "sadness": 18,
     "disgust": 9,
-    "anger": 96,
-    "anticipation": 40
+    "anger": 95,
+    "anticipation": 38
   }
 }
