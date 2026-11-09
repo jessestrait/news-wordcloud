@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:19:29.558Z",
+  "generated_at": "2026-11-09T10:34:32.189Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "trust"
     ],
     [
+      "injured",
+      5,
+      "fear"
+    ],
+    [
       "iran",
       5,
       "anger"
@@ -48,19 +53,9 @@
       "anticipation"
     ],
     [
-      "investigation",
-      4,
-      "anticipation"
-    ],
-    [
       "shooting",
       4,
       "anger"
-    ],
-    [
-      "fire",
-      4,
-      "fear"
     ],
     [
       "killed",
@@ -68,14 +63,19 @@
       "fear"
     ],
     [
+      "investigation",
+      4,
+      "anticipation"
+    ],
+    [
+      "fire",
+      4,
+      "fear"
+    ],
+    [
       "family",
       4,
       "joy"
-    ],
-    [
-      "injured",
-      4,
-      "fear"
     ],
     [
       "attack",
@@ -98,11 +98,6 @@
       "anger"
     ],
     [
-      "terrorism",
-      3,
-      "anger"
-    ],
-    [
       "suspect",
       3,
       "fear"
@@ -111,6 +106,11 @@
       "police",
       3,
       "fear"
+    ],
+    [
+      "terrorism",
+      3,
+      "anger"
     ],
     [
       "change",
@@ -136,6 +136,11 @@
       "vote",
       3,
       "anger"
+    ],
+    [
+      "continue",
+      3,
+      "trust"
     ],
     [
       "justice",
@@ -298,11 +303,6 @@
       "anger"
     ],
     [
-      "continue",
-      2,
-      "trust"
-    ],
-    [
       "court",
       2,
       "anger"
@@ -316,6 +316,11 @@
       "hospital",
       2,
       "fear"
+    ],
+    [
+      "leaving",
+      1,
+      "sadness"
     ],
     [
       "establish",
@@ -371,19 +376,14 @@
       "choking",
       1,
       "anger"
-    ],
-    [
-      "engulfs",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 28,
-    "trust": 63,
-    "fear": 67,
+    "trust": 64,
+    "fear": 68,
     "surprise": 14,
-    "sadness": 16,
+    "sadness": 17,
     "disgust": 7,
     "anger": 95,
     "anticipation": 36
