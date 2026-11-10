@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-10T09:01:52.719Z",
+  "generated_at": "2026-11-10T09:16:55.072Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      11,
+      12,
       "anger"
     ],
     [
@@ -13,8 +13,13 @@
       "trust"
     ],
     [
-      "president",
+      "leader",
       7,
+      "trust"
+    ],
+    [
+      "president",
+      6,
       "trust"
     ],
     [
@@ -23,19 +28,9 @@
       "fear"
     ],
     [
-      "leader",
-      6,
-      "trust"
-    ],
-    [
       "government",
       5,
       "fear"
-    ],
-    [
-      "family",
-      5,
-      "joy"
     ],
     [
       "change",
@@ -48,14 +43,14 @@
       "anticipation"
     ],
     [
-      "fire",
-      4,
-      "fear"
-    ],
-    [
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "family",
+      4,
+      "joy"
     ],
     [
       "results",
@@ -98,17 +93,17 @@
       "anticipation"
     ],
     [
-      "bank",
-      3,
-      "trust"
-    ],
-    [
       "terrorism",
       3,
       "anger"
     ],
     [
       "suspect",
+      3,
+      "fear"
+    ],
+    [
+      "fire",
       3,
       "fear"
     ],
@@ -136,6 +131,16 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "conflict",
+      2,
+      "anger"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
     ],
     [
       "world",
@@ -181,6 +186,11 @@
       "collapse",
       2,
       "fear"
+    ],
+    [
+      "bank",
+      2,
+      "trust"
     ],
     [
       "history",
@@ -263,16 +273,6 @@
       "anger"
     ],
     [
-      "leaves",
-      2,
-      "sadness"
-    ],
-    [
-      "unable",
-      2,
-      "sadness"
-    ],
-    [
       "loved",
       2,
       "joy"
@@ -293,14 +293,49 @@
       "trust"
     ],
     [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
       "soldier",
       2,
       "anger"
     ],
     [
-      "house",
-      2,
-      "joy"
+      "focusing",
+      1,
+      "trust"
+    ],
+    [
+      "raged",
+      1,
+      "anger"
+    ],
+    [
+      "disgraced",
+      1,
+      "anger"
+    ],
+    [
+      "exile",
+      1,
+      "anger"
+    ],
+    [
+      "fled",
+      1,
+      "fear"
+    ],
+    [
+      "uprising",
+      1,
+      "anger"
+    ],
+    [
+      "penalty",
+      1,
+      "anger"
     ],
     [
       "striking",
@@ -341,51 +376,16 @@
       "ousting",
       1,
       "anger"
-    ],
-    [
-      "chance",
-      1,
-      "surprise"
-    ],
-    [
-      "architecture",
-      1,
-      "trust"
-    ],
-    [
-      "gains",
-      1,
-      "joy"
-    ],
-    [
-      "negotiating",
-      1,
-      "trust"
-    ],
-    [
-      "witnesses",
-      1,
-      "trust"
-    ],
-    [
-      "save",
-      1,
-      "joy"
-    ],
-    [
-      "buried",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
-    "trust": 68,
-    "fear": 66,
+    "joy": 35,
+    "trust": 66,
+    "fear": 63,
     "surprise": 13,
-    "sadness": 18,
-    "disgust": 7,
-    "anger": 90,
-    "anticipation": 37
+    "sadness": 17,
+    "disgust": 5,
+    "anger": 91,
+    "anticipation": 38
   }
 }
