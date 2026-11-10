@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-10T16:36:00.214Z",
+  "generated_at": "2026-11-10T16:51:02.829Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      11,
+      10,
       "anger"
     ],
     [
@@ -14,7 +14,7 @@
     ],
     [
       "leader",
-      7,
+      6,
       "trust"
     ],
     [
@@ -118,9 +118,14 @@
       "trust"
     ],
     [
-      "trump",
-      3,
-      "anger"
+      "budget",
+      2,
+      "trust"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
     ],
     [
       "life",
@@ -278,11 +283,6 @@
       "joy"
     ],
     [
-      "experts",
-      2,
-      "trust"
-    ],
-    [
       "plan",
       2,
       "anticipation"
@@ -293,8 +293,38 @@
       "anger"
     ],
     [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "soldier",
       2,
+      "anger"
+    ],
+    [
+      "accused",
+      1,
+      "anger"
+    ],
+    [
+      "blackmail",
+      1,
+      "anger"
+    ],
+    [
+      "demand",
+      1,
+      "anger"
+    ],
+    [
+      "chancellor",
+      1,
+      "trust"
+    ],
+    [
+      "complaining",
+      1,
       "anger"
     ],
     [
@@ -346,46 +376,16 @@
       "brother",
       1,
       "trust"
-    ],
-    [
-      "smuggling",
-      1,
-      "fear"
-    ],
-    [
-      "anti",
-      1,
-      "anger"
-    ],
-    [
-      "corruption",
-      1,
-      "disgust"
-    ],
-    [
-      "rule",
-      1,
-      "fear"
-    ],
-    [
-      "disgraced",
-      1,
-      "anger"
-    ],
-    [
-      "exile",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 65,
+    "trust": 66,
     "fear": 62,
-    "surprise": 14,
+    "surprise": 15,
     "sadness": 17,
     "disgust": 5,
-    "anger": 81,
+    "anger": 83,
     "anticipation": 38
   }
 }
