@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:33:54.365Z",
+  "generated_at": "2026-11-10T12:48:57.006Z",
   "article_count": 50,
   "top_words": [
     [
@@ -128,6 +128,11 @@
       "trust"
     ],
     [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
       "conflict",
       2,
       "anger"
@@ -136,11 +141,6 @@
       "alleged",
       2,
       "fear"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "world",
@@ -303,6 +303,11 @@
       "anger"
     ],
     [
+      "architecture",
+      1,
+      "trust"
+    ],
+    [
       "launched",
       1,
       "anticipation"
@@ -351,11 +356,6 @@
       "rule",
       1,
       "fear"
-    ],
-    [
-      "architecture",
-      1,
-      "trust"
     ],
     [
       "disgraced",
