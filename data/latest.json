@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T13:49:20.045Z",
+  "generated_at": "2026-11-10T14:04:22.117Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "fear"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "change",
       4,
       "fear"
@@ -61,6 +56,11 @@
       "injured",
       4,
       "fear"
+    ],
+    [
+      "attack",
+      4,
+      "anger"
     ],
     [
       "iran",
@@ -126,11 +126,6 @@
       "official",
       3,
       "trust"
-    ],
-    [
-      "conflict",
-      2,
-      "anger"
     ],
     [
       "peace",
@@ -303,29 +298,19 @@
       "anger"
     ],
     [
-      "launched",
+      "break",
+      1,
+      "surprise"
+    ],
+    [
+      "expected",
       1,
       "anticipation"
     ],
     [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "start",
+      "tomorrow",
       1,
       "anticipation"
-    ],
-    [
-      "focusing",
-      1,
-      "trust"
-    ],
-    [
-      "raged",
-      1,
-      "anger"
     ],
     [
       "architecture",
@@ -376,16 +361,31 @@
       "sentenced",
       1,
       "anger"
+    ],
+    [
+      "uprising",
+      1,
+      "anger"
+    ],
+    [
+      "striking",
+      1,
+      "anger"
+    ],
+    [
+      "creating",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 67,
+    "trust": 66,
     "fear": 61,
-    "surprise": 12,
+    "surprise": 13,
     "sadness": 17,
     "disgust": 5,
-    "anger": 91,
+    "anger": 87,
     "anticipation": 39
   }
 }
