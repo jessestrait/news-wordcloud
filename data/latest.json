@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:00:45.409Z",
+  "generated_at": "2026-11-10T07:15:47.683Z",
   "article_count": 50,
   "top_words": [
     [
@@ -303,6 +303,16 @@
       "joy"
     ],
     [
+      "striking",
+      1,
+      "anger"
+    ],
+    [
+      "creating",
+      1,
+      "joy"
+    ],
+    [
       "falling",
       1,
       "sadness"
@@ -366,26 +376,16 @@
       "buried",
       1,
       "fear"
-    ],
-    [
-      "horrifying",
-      1,
-      "fear"
-    ],
-    [
-      "landslide",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
+    "joy": 36,
     "trust": 68,
     "fear": 66,
-    "surprise": 14,
+    "surprise": 13,
     "sadness": 18,
     "disgust": 7,
-    "anger": 89,
-    "anticipation": 38
+    "anger": 90,
+    "anticipation": 37
   }
 }
