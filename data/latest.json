@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-10T10:47:45.586Z",
+  "generated_at": "2026-11-10T11:02:48.219Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      12,
+      11,
       "anger"
     ],
     [
@@ -31,6 +31,11 @@
       "government",
       5,
       "fear"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
     ],
     [
       "change",
@@ -61,11 +66,6 @@
       "injured",
       4,
       "fear"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "iran",
@@ -303,6 +303,21 @@
       "anger"
     ],
     [
+      "launched",
+      1,
+      "anticipation"
+    ],
+    [
+      "deadly",
+      1,
+      "anger"
+    ],
+    [
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
       "focusing",
       1,
       "trust"
@@ -361,21 +376,6 @@
       "doubts",
       1,
       "fear"
-    ],
-    [
-      "surround",
-      1,
-      "anticipation"
-    ],
-    [
-      "achieve",
-      1,
-      "joy"
-    ],
-    [
-      "ousting",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 13,
     "sadness": 17,
     "disgust": 5,
-    "anger": 91,
-    "anticipation": 38
+    "anger": 92,
+    "anticipation": 40
   }
 }
