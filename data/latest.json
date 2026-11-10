@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-10T04:59:54.078Z",
+  "generated_at": "2026-11-10T05:14:56.356Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      11,
       "anger"
     ],
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "family",
       5,
       "joy"
@@ -36,16 +31,6 @@
       "leader",
       5,
       "trust"
-    ],
-    [
-      "government",
-      5,
-      "fear"
-    ],
-    [
-      "threats",
-      5,
-      "anger"
     ],
     [
       "investigation",
@@ -58,12 +43,22 @@
       "fear"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "results",
       4,
       "anticipation"
     ],
     [
       "injured",
+      4,
+      "fear"
+    ],
+    [
+      "government",
       4,
       "fear"
     ],
@@ -81,6 +76,11 @@
       "trump",
       4,
       "anger"
+    ],
+    [
+      "seek",
+      3,
+      "anticipation"
     ],
     [
       "bank",
@@ -123,9 +123,14 @@
       "fear"
     ],
     [
-      "bomb",
+      "official",
       3,
-      "anger"
+      "trust"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "battlefield",
@@ -146,11 +151,6 @@
       "collapse",
       2,
       "fear"
-    ],
-    [
-      "seek",
-      2,
-      "anticipation"
     ],
     [
       "history",
@@ -243,11 +243,6 @@
       "anger"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
       "leaves",
       2,
       "sadness"
@@ -283,6 +278,11 @@
       "trust"
     ],
     [
+      "threats",
+      2,
+      "anger"
+    ],
+    [
       "opposition",
       2,
       "anger"
@@ -303,17 +303,12 @@
       "joy"
     ],
     [
-      "media",
-      2,
-      "disgust"
+      "architecture",
+      1,
+      "trust"
     ],
     [
       "gains",
-      1,
-      "joy"
-    ],
-    [
-      "peace",
       1,
       "joy"
     ],
@@ -376,16 +371,21 @@
       "obituary",
       1,
       "sadness"
+    ],
+    [
+      "charity",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 67,
-    "fear": 63,
+    "joy": 34,
+    "trust": 68,
+    "fear": 62,
     "surprise": 13,
     "sadness": 17,
-    "disgust": 9,
-    "anger": 96,
+    "disgust": 8,
+    "anger": 91,
     "anticipation": 36
   }
 }
