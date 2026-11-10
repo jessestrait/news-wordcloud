@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T06:00:18.521Z",
+  "generated_at": "2026-11-10T06:15:20.676Z",
   "article_count": 50,
   "top_words": [
     [
@@ -20,6 +20,11 @@
     [
       "killed",
       6,
+      "fear"
+    ],
+    [
+      "government",
+      5,
       "fear"
     ],
     [
@@ -58,11 +63,6 @@
       "fear"
     ],
     [
-      "government",
-      4,
-      "fear"
-    ],
-    [
       "attack",
       4,
       "anger"
@@ -76,6 +76,11 @@
       "trump",
       4,
       "anger"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "seek",
@@ -126,6 +131,16 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "struggle",
+      2,
+      "anger"
     ],
     [
       "peace",
@@ -233,11 +248,6 @@
       "trust"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "votes",
       2,
       "anger"
@@ -283,16 +293,6 @@
       "anger"
     ],
     [
-      "opposition",
-      2,
-      "anger"
-    ],
-    [
-      "forces",
-      2,
-      "anger"
-    ],
-    [
       "soldier",
       2,
       "anger"
@@ -301,6 +301,16 @@
       "house",
       2,
       "joy"
+    ],
+    [
+      "ousting",
+      1,
+      "anger"
+    ],
+    [
+      "chance",
+      1,
+      "surprise"
     ],
     [
       "architecture",
@@ -321,11 +331,6 @@
       "witnesses",
       1,
       "trust"
-    ],
-    [
-      "struggle",
-      1,
-      "anger"
     ],
     [
       "save",
@@ -371,21 +376,16 @@
       "obituary",
       1,
       "sadness"
-    ],
-    [
-      "charity",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 68,
-    "fear": 62,
+    "trust": 67,
+    "fear": 63,
     "surprise": 13,
     "sadness": 17,
     "disgust": 8,
-    "anger": 91,
+    "anger": 92,
     "anticipation": 36
   }
 }
