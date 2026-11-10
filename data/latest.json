@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T15:50:34.507Z",
+  "generated_at": "2026-11-10T16:05:37.297Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,26 +298,6 @@
       "anger"
     ],
     [
-      "seizes",
-      1,
-      "fear"
-    ],
-    [
-      "ship",
-      1,
-      "anticipation"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
-      "passengers",
-      1,
-      "anticipation"
-    ],
-    [
       "break",
       1,
       "surprise"
@@ -336,6 +316,26 @@
       "humanitarian",
       1,
       "surprise"
+    ],
+    [
+      "seizes",
+      1,
+      "fear"
+    ],
+    [
+      "ship",
+      1,
+      "anticipation"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "passengers",
+      1,
+      "anticipation"
     ],
     [
       "architecture",
