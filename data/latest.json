@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-10T19:52:41.012Z",
+  "generated_at": "2026-11-10T20:07:42.868Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      9,
       "anger"
     ],
     [
@@ -13,9 +13,14 @@
       "trust"
     ],
     [
-      "leader",
+      "investigation",
       6,
-      "trust"
+      "anticipation"
+    ],
+    [
+      "government",
+      6,
+      "fear"
     ],
     [
       "happened",
@@ -23,14 +28,9 @@
       "anticipation"
     ],
     [
-      "investigation",
+      "leader",
       5,
-      "anticipation"
-    ],
-    [
-      "government",
-      5,
-      "fear"
+      "trust"
     ],
     [
       "president",
@@ -43,8 +43,18 @@
       "fear"
     ],
     [
+      "police",
+      4,
+      "fear"
+    ],
+    [
       "change",
       4,
+      "fear"
+    ],
+    [
+      "military",
+      3,
       "fear"
     ],
     [
@@ -69,11 +79,6 @@
     ],
     [
       "fire",
-      3,
-      "fear"
-    ],
-    [
-      "police",
       3,
       "fear"
     ],
@@ -116,6 +121,16 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "opposition",
+      2,
+      "anger"
+    ],
+    [
+      "seize",
+      2,
+      "fear"
     ],
     [
       "fight",
@@ -258,11 +273,6 @@
       "trust"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "found",
       2,
       "joy"
@@ -293,14 +303,34 @@
       "joy"
     ],
     [
-      "plan",
-      2,
+      "raid",
+      1,
+      "anger"
+    ],
+    [
+      "abuse",
+      1,
+      "anger"
+    ],
+    [
+      "inquiry",
+      1,
       "anticipation"
     ],
     [
-      "iran",
-      2,
-      "anger"
+      "late",
+      1,
+      "sadness"
+    ],
+    [
+      "hurries",
+      1,
+      "anticipation"
+    ],
+    [
+      "waiting",
+      1,
+      "anticipation"
     ],
     [
       "laws",
@@ -346,46 +376,16 @@
       "expected",
       1,
       "anticipation"
-    ],
-    [
-      "tomorrow",
-      1,
-      "anticipation"
-    ],
-    [
-      "humanitarian",
-      1,
-      "surprise"
-    ],
-    [
-      "architecture",
-      1,
-      "trust"
-    ],
-    [
-      "accused",
-      1,
-      "anger"
-    ],
-    [
-      "blackmail",
-      1,
-      "anger"
-    ],
-    [
-      "demand",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 36,
-    "trust": 69,
-    "fear": 59,
+    "trust": 66,
+    "fear": 60,
     "surprise": 15,
-    "sadness": 15,
-    "disgust": 5,
-    "anger": 77,
-    "anticipation": 39
+    "sadness": 16,
+    "disgust": 3,
+    "anger": 70,
+    "anticipation": 42
   }
 }
