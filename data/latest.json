@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-10T20:23:02.553Z",
+  "generated_at": "2026-11-10T20:38:04.617Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      9,
-      "anger"
-    ],
     [
       "people",
       9,
       "trust"
+    ],
+    [
+      "war",
+      7,
+      "anger"
     ],
     [
       "investigation",
@@ -53,14 +53,14 @@
       "fear"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
       "seek",
       3,
       "anticipation"
+    ],
+    [
+      "continue",
+      3,
+      "trust"
     ],
     [
       "death",
@@ -123,12 +123,27 @@
       "trust"
     ],
     [
+      "lawsuit",
+      2,
+      "anger"
+    ],
+    [
+      "legal",
+      2,
+      "trust"
+    ],
+    [
       "opposition",
       2,
       "anger"
     ],
     [
       "seize",
+      2,
+      "fear"
+    ],
+    [
+      "military",
       2,
       "fear"
     ],
@@ -143,11 +158,6 @@
       "fear"
     ],
     [
-      "continue",
-      2,
-      "trust"
-    ],
-    [
       "peace",
       2,
       "joy"
@@ -156,11 +166,6 @@
       "budget",
       2,
       "trust"
-    ],
-    [
-      "deal",
-      2,
-      "surprise"
     ],
     [
       "life",
@@ -204,11 +209,6 @@
     ],
     [
       "losses",
-      2,
-      "anger"
-    ],
-    [
-      "gaza",
       2,
       "anger"
     ],
@@ -283,11 +283,6 @@
       "joy"
     ],
     [
-      "show",
-      2,
-      "trust"
-    ],
-    [
       "votes",
       2,
       "anger"
@@ -298,9 +293,19 @@
       "joy"
     ],
     [
-      "success",
-      2,
-      "joy"
+      "defamation",
+      1,
+      "fear"
+    ],
+    [
+      "battle",
+      1,
+      "anger"
+    ],
+    [
+      "escalates",
+      1,
+      "anger"
     ],
     [
       "raid",
@@ -371,18 +376,13 @@
       "break",
       1,
       "surprise"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 66,
-    "fear": 60,
-    "surprise": 15,
+    "joy": 35,
+    "trust": 67,
+    "fear": 59,
+    "surprise": 14,
     "sadness": 16,
     "disgust": 3,
     "anger": 70,
