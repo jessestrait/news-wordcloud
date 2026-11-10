@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T11:18:10.737Z",
+  "generated_at": "2026-11-10T11:33:13.366Z",
   "article_count": 50,
   "top_words": [
     [
@@ -78,6 +78,11 @@
       "anger"
     ],
     [
+      "seek",
+      3,
+      "anticipation"
+    ],
+    [
       "death",
       3,
       "sadness"
@@ -89,11 +94,6 @@
     ],
     [
       "power",
-      3,
-      "anticipation"
-    ],
-    [
-      "seek",
       3,
       "anticipation"
     ],
@@ -138,6 +138,11 @@
       "trust"
     ],
     [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
       "conflict",
       2,
       "anger"
@@ -161,11 +166,6 @@
       "struggle",
       2,
       "anger"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "battlefield",
@@ -303,6 +303,11 @@
       "anger"
     ],
     [
+      "architecture",
+      1,
+      "trust"
+    ],
+    [
       "launched",
       1,
       "anticipation"
@@ -369,11 +374,6 @@
     ],
     [
       "cop",
-      1,
-      "fear"
-    ],
-    [
-      "doubts",
       1,
       "fear"
     ]
