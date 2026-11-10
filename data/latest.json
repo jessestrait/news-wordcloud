@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:51:02.829Z",
+  "generated_at": "2026-11-10T17:06:05.649Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,6 +118,16 @@
       "trust"
     ],
     [
+      "continue",
+      2,
+      "trust"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
       "budget",
       2,
       "trust"
@@ -129,11 +139,6 @@
     ],
     [
       "life",
-      2,
-      "joy"
-    ],
-    [
-      "peace",
       2,
       "joy"
     ],
@@ -303,6 +308,31 @@
       "anger"
     ],
     [
+      "break",
+      1,
+      "surprise"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "tomorrow",
+      1,
+      "anticipation"
+    ],
+    [
+      "humanitarian",
+      1,
+      "surprise"
+    ],
+    [
+      "architecture",
+      1,
+      "trust"
+    ],
+    [
       "accused",
       1,
       "anger"
@@ -328,26 +358,6 @@
       "anger"
     ],
     [
-      "break",
-      1,
-      "surprise"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "tomorrow",
-      1,
-      "anticipation"
-    ],
-    [
-      "humanitarian",
-      1,
-      "surprise"
-    ],
-    [
       "seizes",
       1,
       "fear"
@@ -366,21 +376,11 @@
       "passengers",
       1,
       "anticipation"
-    ],
-    [
-      "architecture",
-      1,
-      "trust"
-    ],
-    [
-      "brother",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 66,
+    "trust": 67,
     "fear": 62,
     "surprise": 15,
     "sadness": 17,
