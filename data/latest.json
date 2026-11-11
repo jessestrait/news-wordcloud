@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:01:15.303Z",
+  "generated_at": "2026-11-11T12:16:17.647Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "people",
-      9,
+      8,
       "trust"
     ],
     [
@@ -23,12 +23,12 @@
       "trust"
     ],
     [
-      "government",
-      6,
+      "police",
+      5,
       "fear"
     ],
     [
-      "killed",
+      "government",
       5,
       "fear"
     ],
@@ -38,27 +38,37 @@
       "fear"
     ],
     [
-      "police",
-      4,
-      "fear"
-    ],
-    [
-      "seek",
-      4,
-      "anticipation"
-    ],
-    [
       "leader",
       4,
       "trust"
     ],
     [
-      "change",
+      "home",
       4,
+      "joy"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
+    ],
+    [
+      "law",
+      3,
+      "trust"
+    ],
+    [
+      "risk",
+      3,
       "fear"
     ],
     [
-      "happened",
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
+      "seek",
       3,
       "anticipation"
     ],
@@ -73,12 +83,22 @@
       "sadness"
     ],
     [
+      "change",
+      3,
+      "fear"
+    ],
+    [
       "terrorism",
       3,
       "anger"
     ],
     [
       "suspect",
+      3,
+      "fear"
+    ],
+    [
+      "killed",
       3,
       "fear"
     ],
@@ -98,24 +118,29 @@
       "trust"
     ],
     [
-      "shooting",
-      3,
-      "anger"
-    ],
-    [
       "results",
       3,
       "anticipation"
     ],
     [
-      "injured",
-      3,
-      "fear"
-    ],
-    [
       "official",
       3,
       "trust"
+    ],
+    [
+      "fear",
+      2,
+      "anger"
+    ],
+    [
+      "second",
+      2,
+      "trust"
+    ],
+    [
+      "delays",
+      2,
+      "anger"
     ],
     [
       "deal",
@@ -173,6 +198,11 @@
       "trust"
     ],
     [
+      "raid",
+      2,
+      "anger"
+    ],
+    [
       "opposition",
       2,
       "anger"
@@ -186,6 +216,11 @@
       "fight",
       2,
       "anger"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "peace",
@@ -204,11 +239,6 @@
     ],
     [
       "global",
-      2,
-      "anticipation"
-    ],
-    [
-      "power",
       2,
       "anticipation"
     ],
@@ -248,6 +278,11 @@
       "trust"
     ],
     [
+      "shooting",
+      2,
+      "anger"
+    ],
+    [
       "alone",
       2,
       "sadness"
@@ -273,11 +308,6 @@
       "fear"
     ],
     [
-      "parliament",
-      2,
-      "trust"
-    ],
-    [
       "attack",
       2,
       "anger"
@@ -288,104 +318,74 @@
       "joy"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "votes",
       2,
       "anger"
     ],
     [
-      "remains",
+      "ice",
       1,
       "fear"
     ],
     [
-      "involvement",
+      "forcibly",
       1,
       "anger"
     ],
     [
-      "second",
-      1,
-      "trust"
-    ],
-    [
-      "bases",
-      1,
-      "trust"
-    ],
-    [
-      "forces",
+      "remove",
       1,
       "anger"
     ],
     [
-      "worried",
+      "refused",
       1,
       "sadness"
     ],
     [
-      "accusers",
+      "asylum",
+      1,
+      "fear"
+    ],
+    [
+      "flu",
+      1,
+      "fear"
+    ],
+    [
+      "devastating",
       1,
       "anger"
     ],
     [
-      "never",
-      1,
-      "fear"
-    ],
-    [
-      "attempt",
-      1,
-      "anticipation"
-    ],
-    [
-      "rejected",
+      "restrictions",
       1,
       "anger"
     ],
     [
-      "surge",
+      "row",
       1,
-      "surprise"
+      "anger"
     ],
     [
-      "doctor",
-      1,
-      "trust"
-    ],
-    [
-      "professor",
-      1,
-      "trust"
-    ],
-    [
-      "risk",
+      "fired",
       1,
       "fear"
     ],
     [
-      "medical",
+      "remains",
       1,
       "fear"
-    ],
-    [
-      "reality",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 70,
-    "fear": 57,
+    "joy": 34,
+    "trust": 72,
+    "fear": 58,
     "surprise": 17,
     "sadness": 14,
     "disgust": 3,
-    "anger": 78,
-    "anticipation": 43
+    "anger": 85,
+    "anticipation": 44
   }
 }
