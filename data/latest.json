@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T11:30:55.079Z",
+  "generated_at": "2026-11-11T11:45:57.302Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,23 +13,18 @@
       "trust"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
       "investigation",
       7,
       "anticipation"
     ],
     [
-      "government",
+      "president",
       6,
-      "fear"
+      "trust"
     ],
     [
-      "change",
-      5,
+      "government",
+      6,
       "fear"
     ],
     [
@@ -56,6 +51,11 @@
       "leader",
       4,
       "trust"
+    ],
+    [
+      "change",
+      4,
+      "fear"
     ],
     [
       "happened",
@@ -116,6 +116,21 @@
       "official",
       3,
       "trust"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
+      "prisoner",
+      2,
+      "anger"
+    ],
+    [
+      "break",
+      2,
+      "surprise"
     ],
     [
       "david",
@@ -283,17 +298,17 @@
       "anger"
     ],
     [
-      "happy",
+      "remains",
       1,
-      "joy"
+      "fear"
+    ],
+    [
+      "involvement",
+      1,
+      "anger"
     ],
     [
       "second",
-      1,
-      "trust"
-    ],
-    [
-      "mediators",
       1,
       "trust"
     ],
@@ -333,11 +348,6 @@
       "anger"
     ],
     [
-      "prisoner",
-      1,
-      "anger"
-    ],
-    [
       "surge",
       1,
       "surprise"
@@ -366,26 +376,16 @@
       "reality",
       1,
       "surprise"
-    ],
-    [
-      "defamation",
-      1,
-      "fear"
-    ],
-    [
-      "battle",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 72,
+    "joy": 32,
+    "trust": 70,
     "fear": 57,
-    "surprise": 15,
+    "surprise": 17,
     "sadness": 14,
     "disgust": 3,
-    "anger": 76,
+    "anger": 78,
     "anticipation": 43
   }
 }
