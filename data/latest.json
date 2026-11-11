@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T04:57:24.691Z",
+  "generated_at": "2026-11-11T05:12:27.122Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "fear"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "leader",
       5,
       "trust"
@@ -48,9 +43,19 @@
       "fear"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "change",
       4,
       "fear"
+    ],
+    [
+      "life",
+      3,
+      "joy"
     ],
     [
       "seek",
@@ -118,6 +123,11 @@
       "trust"
     ],
     [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
       "gains",
       2,
       "joy"
@@ -166,11 +176,6 @@
       "budget",
       2,
       "trust"
-    ],
-    [
-      "life",
-      2,
-      "joy"
     ],
     [
       "alleged",
@@ -298,6 +303,26 @@
       "joy"
     ],
     [
+      "doctor",
+      1,
+      "trust"
+    ],
+    [
+      "professor",
+      1,
+      "trust"
+    ],
+    [
+      "risk",
+      1,
+      "fear"
+    ],
+    [
+      "medical",
+      1,
+      "fear"
+    ],
+    [
       "reality",
       1,
       "surprise"
@@ -351,41 +376,16 @@
       "laws",
       1,
       "trust"
-    ],
-    [
-      "privy",
-      1,
-      "trust"
-    ],
-    [
-      "council",
-      1,
-      "trust"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "sex",
-      1,
-      "joy"
-    ],
-    [
-      "diversion",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 68,
-    "fear": 58,
+    "joy": 37,
+    "trust": 70,
+    "fear": 60,
     "surprise": 15,
     "sadness": 16,
     "disgust": 3,
-    "anger": 68,
-    "anticipation": 42
+    "anger": 69,
+    "anticipation": 41
   }
 }
