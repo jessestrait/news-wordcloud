@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T18:34:30.226Z",
+  "generated_at": "2026-11-11T18:49:32.641Z",
   "article_count": 50,
   "top_words": [
     [
@@ -298,11 +298,6 @@
       "anger"
     ],
     [
-      "rising",
-      1,
-      "joy"
-    ],
-    [
       "housing",
       1,
       "joy"
@@ -376,10 +371,15 @@
       "violent",
       1,
       "anger"
+    ],
+    [
+      "ice",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 32,
     "trust": 69,
     "fear": 51,
     "surprise": 15,
