@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:19:53.949Z",
+  "generated_at": "2026-11-11T19:34:56.295Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,8 +18,13 @@
       "anticipation"
     ],
     [
+      "leader",
+      4,
+      "trust"
+    ],
+    [
       "military",
-      5,
+      4,
       "fear"
     ],
     [
@@ -29,11 +34,6 @@
     ],
     [
       "police",
-      4,
-      "fear"
-    ],
-    [
-      "government",
       4,
       "fear"
     ],
@@ -83,14 +83,14 @@
       "trust"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "seek",
       3,
       "anticipation"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
     ],
     [
       "death",
@@ -101,6 +101,11 @@
       "system",
       3,
       "trust"
+    ],
+    [
+      "success",
+      2,
+      "joy"
     ],
     [
       "strike",
@@ -371,21 +376,16 @@
       "inter",
       1,
       "sadness"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 32,
     "trust": 71,
-    "fear": 52,
+    "fear": 50,
     "surprise": 15,
     "sadness": 17,
     "disgust": 4,
     "anger": 88,
-    "anticipation": 42
+    "anticipation": 40
   }
 }
