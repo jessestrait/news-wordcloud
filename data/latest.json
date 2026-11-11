@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:47:10.962Z",
+  "generated_at": "2026-11-11T14:02:13.667Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,12 +28,17 @@
       "fear"
     ],
     [
-      "government",
-      5,
-      "fear"
+      "power",
+      4,
+      "anticipation"
     ],
     [
       "military",
+      4,
+      "fear"
+    ],
+    [
+      "government",
       4,
       "fear"
     ],
@@ -53,6 +58,11 @@
       "joy"
     ],
     [
+      "gain",
+      3,
+      "joy"
+    ],
+    [
       "plan",
       3,
       "anticipation"
@@ -68,11 +78,6 @@
       "fear"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "seek",
       3,
       "anticipation"
@@ -86,11 +91,6 @@
       "death",
       3,
       "sadness"
-    ],
-    [
-      "change",
-      3,
-      "fear"
     ],
     [
       "terrorism",
@@ -113,22 +113,7 @@
       "fear"
     ],
     [
-      "special",
-      3,
-      "joy"
-    ],
-    [
       "system",
-      3,
-      "trust"
-    ],
-    [
-      "results",
-      3,
-      "anticipation"
-    ],
-    [
-      "official",
       3,
       "trust"
     ],
@@ -183,11 +168,6 @@
       "joy"
     ],
     [
-      "gains",
-      2,
-      "joy"
-    ],
-    [
       "lawsuit",
       2,
       "anger"
@@ -223,6 +203,11 @@
       "anticipation"
     ],
     [
+      "officials",
+      2,
+      "trust"
+    ],
+    [
       "budget",
       2,
       "trust"
@@ -231,6 +216,11 @@
       "world",
       2,
       "trust"
+    ],
+    [
+      "change",
+      2,
+      "fear"
     ],
     [
       "global",
@@ -303,6 +293,11 @@
       "fear"
     ],
     [
+      "results",
+      2,
+      "anticipation"
+    ],
+    [
       "attack",
       2,
       "anger"
@@ -313,9 +308,24 @@
       "joy"
     ],
     [
-      "votes",
-      2,
+      "general",
+      1,
+      "trust"
+    ],
+    [
+      "strike",
+      1,
       "anger"
+    ],
+    [
+      "rising",
+      1,
+      "joy"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
     ],
     [
       "ice",
@@ -366,26 +376,16 @@
       "fired",
       1,
       "fear"
-    ],
-    [
-      "bases",
-      1,
-      "trust"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 72,
-    "fear": 57,
+    "joy": 37,
+    "trust": 71,
+    "fear": 55,
     "surprise": 16,
     "sadness": 14,
     "disgust": 3,
-    "anger": 83,
+    "anger": 82,
     "anticipation": 44
   }
 }
