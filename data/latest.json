@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:00:07.423Z",
+  "generated_at": "2026-11-11T10:15:09.544Z",
   "article_count": 50,
   "top_words": [
     [
@@ -283,21 +283,6 @@
       "anger"
     ],
     [
-      "bases",
-      1,
-      "trust"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
-    ],
-    [
-      "worried",
-      1,
-      "sadness"
-    ],
-    [
       "happy",
       1,
       "joy"
@@ -311,6 +296,21 @@
       "mediators",
       1,
       "trust"
+    ],
+    [
+      "bases",
+      1,
+      "trust"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
+      "worried",
+      1,
+      "sadness"
     ],
     [
       "accusers",
