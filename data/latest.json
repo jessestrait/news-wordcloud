@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T18:49:48.887Z",
+  "generated_at": "2026-11-11T19:04:51.525Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,6 +103,11 @@
       "trust"
     ],
     [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
       "trump",
       2,
       "anger"
@@ -111,11 +116,6 @@
       "officials",
       2,
       "trust"
-    ],
-    [
-      "strike",
-      2,
-      "anger"
     ],
     [
       "progress",
@@ -303,6 +303,16 @@
       "fear"
     ],
     [
+      "general",
+      1,
+      "trust"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
+    ],
+    [
       "planning",
       1,
       "trust"
@@ -331,16 +341,6 @@
       "stalemate",
       1,
       "anger"
-    ],
-    [
-      "general",
-      1,
-      "trust"
-    ],
-    [
-      "housing",
-      1,
-      "joy"
     ],
     [
       "supporting",
