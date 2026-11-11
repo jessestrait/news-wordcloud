@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:03:20.281Z",
+  "generated_at": "2026-11-11T16:18:22.622Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,14 +48,19 @@
       "trust"
     ],
     [
-      "fight",
-      3,
-      "anger"
-    ],
-    [
       "peace",
       3,
       "joy"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
+      "fight",
+      3,
+      "anger"
     ],
     [
       "gain",
@@ -196,11 +201,6 @@
       "seize",
       2,
       "fear"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "officials",
@@ -386,6 +386,6 @@
     "sadness": 18,
     "disgust": 3,
     "anger": 86,
-    "anticipation": 44
+    "anticipation": 45
   }
 }
