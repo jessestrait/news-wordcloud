@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T17:03:44.982Z",
+  "generated_at": "2026-11-11T17:18:47.016Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,11 +26,6 @@
       "government",
       5,
       "fear"
-    ],
-    [
-      "power",
-      4,
-      "anticipation"
     ],
     [
       "military",
@@ -66,6 +61,11 @@
       "gain",
       3,
       "joy"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "plan",
@@ -164,6 +164,11 @@
     ],
     [
       "court",
+      2,
+      "anger"
+    ],
+    [
+      "prisoner",
       2,
       "anger"
     ],
@@ -298,11 +303,6 @@
       "fear"
     ],
     [
-      "results",
-      2,
-      "anticipation"
-    ],
-    [
       "blue",
       1,
       "sadness"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 69,
+    "joy": 34,
+    "trust": 68,
     "fear": 54,
     "surprise": 16,
     "sadness": 18,
     "disgust": 3,
-    "anger": 86,
-    "anticipation": 45
+    "anger": 87,
+    "anticipation": 43
   }
 }
