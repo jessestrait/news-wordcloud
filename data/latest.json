@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:47:33.857Z",
+  "generated_at": "2026-11-11T15:02:35.808Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "power",
       4,
       "anticipation"
@@ -36,6 +31,11 @@
       "military",
       4,
       "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "government",
@@ -131,6 +131,11 @@
       "second",
       2,
       "trust"
+    ],
+    [
+      "ashes",
+      2,
+      "sadness"
     ],
     [
       "american",
@@ -303,6 +308,11 @@
       "joy"
     ],
     [
+      "inter",
+      1,
+      "sadness"
+    ],
+    [
       "killing",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "remove",
       1,
       "anger"
-    ],
-    [
-      "refused",
-      1,
-      "sadness"
-    ],
-    [
-      "asylum",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 37,
-    "trust": 70,
+    "trust": 69,
     "fear": 55,
     "surprise": 16,
-    "sadness": 14,
+    "sadness": 17,
     "disgust": 3,
-    "anger": 84,
+    "anger": 83,
     "anticipation": 44
   }
 }
