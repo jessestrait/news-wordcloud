@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:04:51.525Z",
+  "generated_at": "2026-11-11T19:19:53.949Z",
   "article_count": 50,
   "top_words": [
     [
@@ -328,11 +328,6 @@
       "trust"
     ],
     [
-      "warns",
-      1,
-      "fear"
-    ],
-    [
       "forced",
       1,
       "fear"
@@ -376,12 +371,17 @@
       "inter",
       1,
       "sadness"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 71,
-    "fear": 53,
+    "fear": 52,
     "surprise": 15,
     "sadness": 17,
     "disgust": 4,
