@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:25:44.109Z",
+  "generated_at": "2026-11-11T01:40:46.301Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,8 +9,13 @@
     ],
     [
       "war",
-      7,
+      8,
       "anger"
+    ],
+    [
+      "president",
+      6,
+      "trust"
     ],
     [
       "investigation",
@@ -29,11 +34,6 @@
     ],
     [
       "leader",
-      5,
-      "trust"
-    ],
-    [
-      "president",
       5,
       "trust"
     ],
@@ -113,14 +113,14 @@
       "fear"
     ],
     [
-      "attack",
-      3,
-      "anger"
-    ],
-    [
       "official",
       3,
       "trust"
+    ],
+    [
+      "gains",
+      2,
+      "joy"
     ],
     [
       "lawsuit",
@@ -273,6 +273,11 @@
       "trust"
     ],
     [
+      "attack",
+      2,
+      "anger"
+    ],
+    [
       "found",
       2,
       "joy"
@@ -291,6 +296,11 @@
       "loved",
       2,
       "joy"
+    ],
+    [
+      "reality",
+      1,
+      "surprise"
     ],
     [
       "defamation",
@@ -366,26 +376,16 @@
       "diversion",
       1,
       "surprise"
-    ],
-    [
-      "letters",
-      1,
-      "anticipation"
-    ],
-    [
-      "break",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 67,
-    "fear": 59,
-    "surprise": 14,
+    "joy": 36,
+    "trust": 68,
+    "fear": 58,
+    "surprise": 15,
     "sadness": 16,
     "disgust": 3,
-    "anger": 70,
+    "anger": 68,
     "anticipation": 42
   }
 }
