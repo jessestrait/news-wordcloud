@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-11T14:02:13.667Z",
+  "generated_at": "2026-11-11T14:17:15.985Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      9,
       "anger"
     ],
     [
@@ -18,14 +18,14 @@
       "anticipation"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "police",
       5,
       "fear"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "power",
@@ -131,6 +131,11 @@
       "second",
       2,
       "trust"
+    ],
+    [
+      "american",
+      2,
+      "sadness"
     ],
     [
       "fear",
@@ -268,11 +273,6 @@
       "anger"
     ],
     [
-      "alone",
-      2,
-      "sadness"
-    ],
-    [
       "young",
       2,
       "surprise"
@@ -298,14 +298,39 @@
       "anticipation"
     ],
     [
-      "attack",
-      2,
-      "anger"
-    ],
-    [
       "found",
       2,
       "joy"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
+    ],
+    [
+      "deteriorating",
+      1,
+      "fear"
+    ],
+    [
+      "shot",
+      1,
+      "anger"
+    ],
+    [
+      "gang",
+      1,
+      "anger"
+    ],
+    [
+      "warfare",
+      1,
+      "anger"
+    ],
+    [
+      "violent",
+      1,
+      "anger"
     ],
     [
       "general",
@@ -351,41 +376,16 @@
       "asylum",
       1,
       "fear"
-    ],
-    [
-      "flu",
-      1,
-      "fear"
-    ],
-    [
-      "devastating",
-      1,
-      "anger"
-    ],
-    [
-      "restrictions",
-      1,
-      "anger"
-    ],
-    [
-      "row",
-      1,
-      "anger"
-    ],
-    [
-      "fired",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 37,
-    "trust": 71,
+    "trust": 70,
     "fear": 55,
     "surprise": 16,
     "sadness": 14,
     "disgust": 3,
-    "anger": 82,
+    "anger": 84,
     "anticipation": 44
   }
 }
