@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T18:19:27.550Z",
+  "generated_at": "2026-11-11T18:34:30.226Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,16 @@
       "trust"
     ],
     [
+      "gain",
+      3,
+      "joy"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
+    ],
+    [
       "peace",
       3,
       "joy"
@@ -61,16 +71,6 @@
       "fight",
       3,
       "anger"
-    ],
-    [
-      "gain",
-      3,
-      "joy"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
     ],
     [
       "plan",
@@ -288,6 +288,26 @@
       "fear"
     ],
     [
+      "general",
+      1,
+      "trust"
+    ],
+    [
+      "strike",
+      1,
+      "anger"
+    ],
+    [
+      "rising",
+      1,
+      "joy"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
+    ],
+    [
       "supporting",
       1,
       "trust"
@@ -356,26 +376,6 @@
       "violent",
       1,
       "anger"
-    ],
-    [
-      "general",
-      1,
-      "trust"
-    ],
-    [
-      "strike",
-      1,
-      "anger"
-    ],
-    [
-      "rising",
-      1,
-      "joy"
-    ],
-    [
-      "housing",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
