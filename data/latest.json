@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:31:19.486Z",
+  "generated_at": "2026-11-11T12:46:21.602Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "joy"
     ],
     [
+      "peace",
+      3,
+      "joy"
+    ],
+    [
       "plan",
       3,
       "anticipation"
@@ -66,11 +71,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "peace",
-      3,
-      "joy"
     ],
     [
       "seek",
@@ -133,21 +133,6 @@
       "trust"
     ],
     [
-      "fear",
-      2,
-      "anger"
-    ],
-    [
-      "second",
-      2,
-      "trust"
-    ],
-    [
-      "delays",
-      2,
-      "anger"
-    ],
-    [
       "progress",
       2,
       "joy"
@@ -156,6 +141,21 @@
       "break",
       2,
       "surprise"
+    ],
+    [
+      "second",
+      2,
+      "trust"
+    ],
+    [
+      "fear",
+      2,
+      "anger"
+    ],
+    [
+      "delays",
+      2,
+      "anger"
     ],
     [
       "david",
