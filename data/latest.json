@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T06:37:02.920Z",
+  "generated_at": "2026-11-12T06:52:05.322Z",
   "article_count": 50,
   "top_words": [
     [
@@ -41,6 +41,11 @@
       "continue",
       4,
       "trust"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "leader",
@@ -116,16 +121,6 @@
       "success",
       2,
       "joy"
-    ],
-    [
-      "house",
-      2,
-      "joy"
-    ],
-    [
-      "trump",
-      2,
-      "anger"
     ],
     [
       "officials",
@@ -293,28 +288,18 @@
       "trust"
     ],
     [
-      "young",
-      2,
-      "surprise"
-    ],
-    [
       "storm",
       2,
       "anger"
     ],
     [
-      "family",
-      2,
-      "joy"
+      "don",
+      1,
+      "trust"
     ],
     [
-      "haze",
-      2,
-      "fear"
-    ],
-    [
-      "escape",
-      2,
+      "intelligence",
+      1,
       "fear"
     ],
     [
@@ -341,6 +326,16 @@
       "opportunity",
       1,
       "anticipation"
+    ],
+    [
+      "escapes",
+      1,
+      "fear"
+    ],
+    [
+      "house",
+      1,
+      "joy"
     ],
     [
       "awaiting",
@@ -376,16 +371,21 @@
       "assault",
       1,
       "anger"
+    ],
+    [
+      "adviser",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 65,
-    "fear": 50,
-    "surprise": 15,
-    "sadness": 17,
-    "disgust": 4,
-    "anger": 87,
-    "anticipation": 38
+    "joy": 30,
+    "trust": 66,
+    "fear": 48,
+    "surprise": 14,
+    "sadness": 16,
+    "disgust": 3,
+    "anger": 86,
+    "anticipation": 37
   }
 }
