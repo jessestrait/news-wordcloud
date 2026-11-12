@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:08:49.405Z",
+  "generated_at": "2026-11-12T10:23:51.684Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,9 +108,19 @@
       "sadness"
     ],
     [
-      "system",
-      3,
+      "don",
+      2,
       "trust"
+    ],
+    [
+      "anti",
+      2,
+      "anger"
+    ],
+    [
+      "progress",
+      2,
+      "joy"
     ],
     [
       "restrictions",
@@ -173,11 +183,6 @@
       "surprise"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
       "prisoner",
       2,
       "anger"
@@ -186,6 +191,11 @@
       "gaza",
       2,
       "anger"
+    ],
+    [
+      "doctor",
+      2,
+      "trust"
     ],
     [
       "life",
@@ -226,11 +236,6 @@
       "world",
       2,
       "trust"
-    ],
-    [
-      "change",
-      2,
-      "fear"
     ],
     [
       "global",
@@ -283,9 +288,24 @@
       "joy"
     ],
     [
-      "justice",
+      "system",
       2,
       "trust"
+    ],
+    [
+      "priests",
+      1,
+      "trust"
+    ],
+    [
+      "god",
+      1,
+      "surprise"
+    ],
+    [
+      "politics",
+      1,
+      "anger"
     ],
     [
       "hit",
@@ -306,11 +326,6 @@
       "kill",
       1,
       "fear"
-    ],
-    [
-      "don",
-      1,
-      "trust"
     ],
     [
       "intelligence",
@@ -361,31 +376,16 @@
       "flee",
       1,
       "fear"
-    ],
-    [
-      "custody",
-      1,
-      "trust"
-    ],
-    [
-      "general",
-      1,
-      "trust"
-    ],
-    [
-      "housing",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 31,
     "trust": 67,
-    "fear": 50,
+    "fear": 49,
     "surprise": 14,
     "sadness": 16,
     "disgust": 3,
-    "anger": 88,
+    "anger": 87,
     "anticipation": 37
   }
 }
