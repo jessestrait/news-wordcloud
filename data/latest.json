@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-12T02:50:12.453Z",
+  "generated_at": "2026-11-12T03:05:14.975Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      10,
+      8,
       "anger"
     ],
     [
@@ -46,6 +46,11 @@
       "continue",
       4,
       "trust"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
     ],
     [
       "gain",
@@ -103,6 +108,11 @@
       "trust"
     ],
     [
+      "devastating",
+      2,
+      "anger"
+    ],
+    [
       "opportunity",
       2,
       "anticipation"
@@ -118,11 +128,6 @@
       "joy"
     ],
     [
-      "strike",
-      2,
-      "anger"
-    ],
-    [
       "trump",
       2,
       "anger"
@@ -131,11 +136,6 @@
       "officials",
       2,
       "trust"
-    ],
-    [
-      "progress",
-      2,
-      "joy"
     ],
     [
       "break",
@@ -323,6 +323,26 @@
       "fear"
     ],
     [
+      "space",
+      1,
+      "joy"
+    ],
+    [
+      "fragile",
+      1,
+      "fear"
+    ],
+    [
+      "iran",
+      1,
+      "anger"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
       "awaiting",
       1,
       "anticipation"
@@ -356,36 +376,16 @@
       "assault",
       1,
       "anger"
-    ],
-    [
-      "adviser",
-      1,
-      "trust"
-    ],
-    [
-      "forced",
-      1,
-      "fear"
-    ],
-    [
-      "stalemate",
-      1,
-      "anger"
-    ],
-    [
-      "supporting",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 69,
-    "fear": 49,
+    "trust": 67,
+    "fear": 50,
     "surprise": 15,
     "sadness": 17,
     "disgust": 4,
-    "anger": 86,
+    "anger": 88,
     "anticipation": 42
   }
 }
