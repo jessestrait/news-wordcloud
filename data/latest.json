@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-12T19:43:41.022Z",
+  "generated_at": "2026-11-12T19:58:43.685Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -108,9 +108,9 @@
       "anticipation"
     ],
     [
-      "death",
-      3,
-      "sadness"
+      "house",
+      2,
+      "joy"
     ],
     [
       "american",
@@ -188,11 +188,6 @@
       "trust"
     ],
     [
-      "unprecedented",
-      2,
-      "surprise"
-    ],
-    [
       "prisoner",
       2,
       "anger"
@@ -238,6 +233,11 @@
       "trust"
     ],
     [
+      "death",
+      2,
+      "sadness"
+    ],
+    [
       "hope",
       2,
       "surprise"
@@ -253,24 +253,34 @@
       "fear"
     ],
     [
-      "losses",
-      2,
-      "anger"
-    ],
-    [
-      "history",
-      2,
-      "trust"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
-    ],
-    [
       "food",
       2,
       "joy"
+    ],
+    [
+      "fat",
+      1,
+      "disgust"
+    ],
+    [
+      "jump",
+      1,
+      "joy"
+    ],
+    [
+      "escaped",
+      1,
+      "fear"
+    ],
+    [
+      "brigades",
+      1,
+      "fear"
+    ],
+    [
+      "fled",
+      1,
+      "fear"
     ],
     [
       "agreed",
@@ -358,11 +368,6 @@
       "fear"
     ],
     [
-      "house",
-      1,
-      "joy"
-    ],
-    [
       "awaiting",
       1,
       "anticipation"
@@ -371,21 +376,16 @@
       "flee",
       1,
       "fear"
-    ],
-    [
-      "custody",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 63,
-    "fear": 50,
-    "surprise": 13,
-    "sadness": 16,
-    "disgust": 3,
-    "anger": 83,
+    "joy": 33,
+    "trust": 61,
+    "fear": 52,
+    "surprise": 12,
+    "sadness": 15,
+    "disgust": 4,
+    "anger": 79,
     "anticipation": 34
   }
 }
