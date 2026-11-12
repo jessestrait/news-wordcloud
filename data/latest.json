@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:24:17.238Z",
+  "generated_at": "2026-11-12T11:39:19.405Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "people",
-      7,
+      6,
       "trust"
     ],
     [
@@ -40,6 +40,16 @@
     [
       "continue",
       4,
+      "trust"
+    ],
+    [
+      "gaza",
+      3,
+      "anger"
+    ],
+    [
+      "doctor",
+      3,
       "trust"
     ],
     [
@@ -111,6 +121,21 @@
       "restrictions",
       2,
       "anger"
+    ],
+    [
+      "kill",
+      2,
+      "fear"
+    ],
+    [
+      "awaiting",
+      2,
+      "anticipation"
+    ],
+    [
+      "medical",
+      2,
+      "fear"
     ],
     [
       "don",
@@ -188,16 +213,6 @@
       "anger"
     ],
     [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
-      "doctor",
-      2,
-      "trust"
-    ],
-    [
       "life",
       2,
       "joy"
@@ -231,16 +246,6 @@
       "budget",
       2,
       "trust"
-    ],
-    [
-      "world",
-      2,
-      "trust"
-    ],
-    [
-      "global",
-      2,
-      "anticipation"
     ],
     [
       "hope",
@@ -308,9 +313,34 @@
       "sadness"
     ],
     [
-      "kill",
+      "hospital",
       1,
       "fear"
+    ],
+    [
+      "patients",
+      1,
+      "anticipation"
+    ],
+    [
+      "surgery",
+      1,
+      "fear"
+    ],
+    [
+      "die",
+      1,
+      "fear"
+    ],
+    [
+      "attack",
+      1,
+      "anger"
+    ],
+    [
+      "strip",
+      1,
+      "sadness"
     ],
     [
       "priests",
@@ -346,46 +376,16 @@
       "iran",
       1,
       "anger"
-    ],
-    [
-      "threat",
-      1,
-      "anger"
-    ],
-    [
-      "opportunity",
-      1,
-      "anticipation"
-    ],
-    [
-      "escapes",
-      1,
-      "fear"
-    ],
-    [
-      "house",
-      1,
-      "joy"
-    ],
-    [
-      "awaiting",
-      1,
-      "anticipation"
-    ],
-    [
-      "flee",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 67,
-    "fear": 49,
-    "surprise": 14,
-    "sadness": 16,
+    "trust": 66,
+    "fear": 54,
+    "surprise": 13,
+    "sadness": 17,
     "disgust": 3,
-    "anger": 87,
-    "anticipation": 37
+    "anger": 89,
+    "anticipation": 38
   }
 }
