@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:09:40.787Z",
+  "generated_at": "2026-11-12T12:24:42.795Z",
   "article_count": 50,
   "top_words": [
     [
@@ -46,11 +46,6 @@
       "gaza",
       3,
       "anger"
-    ],
-    [
-      "doctor",
-      3,
-      "trust"
     ],
     [
       "trump",
@@ -128,9 +123,9 @@
       "fear"
     ],
     [
-      "awaiting",
+      "hospital",
       2,
-      "anticipation"
+      "fear"
     ],
     [
       "medical",
@@ -211,6 +206,11 @@
       "prisoner",
       2,
       "anger"
+    ],
+    [
+      "doctor",
+      2,
+      "trust"
     ],
     [
       "life",
@@ -313,24 +313,14 @@
       "sadness"
     ],
     [
-      "hospital",
+      "director",
       1,
-      "fear"
+      "trust"
     ],
     [
-      "patients",
+      "wounded",
       1,
-      "anticipation"
-    ],
-    [
-      "surgery",
-      1,
-      "fear"
-    ],
-    [
-      "die",
-      1,
-      "fear"
+      "anger"
     ],
     [
       "attack",
@@ -376,16 +366,26 @@
       "iran",
       1,
       "anger"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
+      "opportunity",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 66,
-    "fear": 54,
+    "fear": 53,
     "surprise": 13,
     "sadness": 17,
     "disgust": 3,
-    "anger": 89,
-    "anticipation": 38
+    "anger": 90,
+    "anticipation": 36
   }
 }
