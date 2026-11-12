@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:24:57.653Z",
+  "generated_at": "2026-11-12T12:39:59.822Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "trust"
     ],
     [
-      "military",
-      5,
-      "fear"
-    ],
-    [
       "peace",
       4,
       "joy"
+    ],
+    [
+      "military",
+      4,
+      "fear"
     ],
     [
       "law",
@@ -111,16 +111,6 @@
       "death",
       3,
       "sadness"
-    ],
-    [
-      "restrictions",
-      2,
-      "anger"
-    ],
-    [
-      "kill",
-      2,
-      "fear"
     ],
     [
       "hospital",
@@ -298,19 +288,14 @@
       "trust"
     ],
     [
-      "hit",
+      "pay",
       1,
-      "anger"
+      "joy"
     ],
     [
-      "disruptions",
+      "kills",
       1,
-      "anger"
-    ],
-    [
-      "unwelcome",
-      1,
-      "sadness"
+      "fear"
     ],
     [
       "director",
@@ -376,16 +361,31 @@
       "opportunity",
       1,
       "anticipation"
+    ],
+    [
+      "escapes",
+      1,
+      "fear"
+    ],
+    [
+      "house",
+      1,
+      "joy"
+    ],
+    [
+      "awaiting",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 32,
     "trust": 66,
-    "fear": 53,
+    "fear": 51,
     "surprise": 13,
-    "sadness": 17,
+    "sadness": 16,
     "disgust": 3,
-    "anger": 90,
+    "anger": 87,
     "anticipation": 36
   }
 }
