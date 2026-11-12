@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:20:21.932Z",
+  "generated_at": "2026-11-12T01:04:22.111Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,11 +31,6 @@
       "law",
       4,
       "trust"
-    ],
-    [
-      "police",
-      4,
-      "fear"
     ],
     [
       "continue",
@@ -73,6 +68,11 @@
       "anticipation"
     ],
     [
+      "police",
+      3,
+      "fear"
+    ],
+    [
       "risk",
       3,
       "fear"
@@ -104,6 +104,11 @@
     ],
     [
       "success",
+      2,
+      "joy"
+    ],
+    [
+      "house",
       2,
       "joy"
     ],
@@ -273,11 +278,6 @@
       "fear"
     ],
     [
-      "officers",
-      2,
-      "trust"
-    ],
-    [
       "food",
       2,
       "joy"
@@ -306,6 +306,26 @@
       "haze",
       2,
       "fear"
+    ],
+    [
+      "escape",
+      2,
+      "fear"
+    ],
+    [
+      "awaiting",
+      1,
+      "anticipation"
+    ],
+    [
+      "flee",
+      1,
+      "fear"
+    ],
+    [
+      "custody",
+      1,
+      "trust"
     ],
     [
       "general",
@@ -356,36 +376,16 @@
       "gutter",
       1,
       "disgust"
-    ],
-    [
-      "blue",
-      1,
-      "sadness"
-    ],
-    [
-      "betrayal",
-      1,
-      "anger"
-    ],
-    [
-      "showed",
-      1,
-      "trust"
-    ],
-    [
-      "inter",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 71,
-    "fear": 50,
-    "surprise": 15,
+    "joy": 33,
+    "trust": 70,
+    "fear": 49,
+    "surprise": 14,
     "sadness": 17,
     "disgust": 4,
-    "anger": 88,
-    "anticipation": 40
+    "anger": 85,
+    "anticipation": 41
   }
 }
