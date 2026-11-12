@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:58:19.027Z",
+  "generated_at": "2026-11-12T19:13:21.052Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,6 +113,11 @@
       "sadness"
     ],
     [
+      "american",
+      2,
+      "sadness"
+    ],
+    [
       "hospital",
       2,
       "fear"
@@ -178,11 +183,6 @@
       "anger"
     ],
     [
-      "delays",
-      2,
-      "anger"
-    ],
-    [
       "david",
       2,
       "trust"
@@ -206,11 +206,6 @@
       "life",
       2,
       "joy"
-    ],
-    [
-      "lawsuit",
-      2,
-      "anger"
     ],
     [
       "legal",
@@ -276,11 +271,6 @@
       "food",
       2,
       "joy"
-    ],
-    [
-      "system",
-      2,
-      "trust"
     ],
     [
       "agreed",
@@ -376,16 +366,26 @@
       "awaiting",
       1,
       "anticipation"
+    ],
+    [
+      "flee",
+      1,
+      "fear"
+    ],
+    [
+      "custody",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 65,
+    "trust": 63,
     "fear": 50,
     "surprise": 13,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 3,
-    "anger": 86,
-    "anticipation": 35
+    "anger": 83,
+    "anticipation": 34
   }
 }
