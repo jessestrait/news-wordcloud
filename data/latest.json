@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T08:53:08.937Z",
+  "generated_at": "2026-11-12T09:08:10.842Z",
   "article_count": 50,
   "top_words": [
     [
@@ -113,6 +113,16 @@
       "trust"
     ],
     [
+      "expected",
+      2,
+      "anticipation"
+    ],
+    [
+      "progress",
+      2,
+      "joy"
+    ],
+    [
       "devastating",
       2,
       "anger"
@@ -139,11 +149,6 @@
     ],
     [
       "ashes",
-      2,
-      "sadness"
-    ],
-    [
-      "american",
       2,
       "sadness"
     ],
@@ -288,9 +293,9 @@
       "trust"
     ],
     [
-      "storm",
-      2,
-      "anger"
+      "attempting",
+      1,
+      "anticipation"
     ],
     [
       "don",
@@ -371,21 +376,16 @@
       "assault",
       1,
       "anger"
-    ],
-    [
-      "adviser",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 31,
     "trust": 66,
     "fear": 48,
     "surprise": 14,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 3,
-    "anger": 86,
-    "anticipation": 37
+    "anger": 85,
+    "anticipation": 39
   }
 }
