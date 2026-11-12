@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:23:51.684Z",
+  "generated_at": "2026-11-12T10:38:54.298Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,11 @@
       "sadness"
     ],
     [
+      "restrictions",
+      2,
+      "anger"
+    ],
+    [
       "don",
       2,
       "trust"
@@ -121,11 +126,6 @@
       "progress",
       2,
       "joy"
-    ],
-    [
-      "restrictions",
-      2,
-      "anger"
     ],
     [
       "devastating",
@@ -293,21 +293,6 @@
       "trust"
     ],
     [
-      "priests",
-      1,
-      "trust"
-    ],
-    [
-      "god",
-      1,
-      "surprise"
-    ],
-    [
-      "politics",
-      1,
-      "anger"
-    ],
-    [
       "hit",
       1,
       "anger"
@@ -326,6 +311,21 @@
       "kill",
       1,
       "fear"
+    ],
+    [
+      "priests",
+      1,
+      "trust"
+    ],
+    [
+      "god",
+      1,
+      "surprise"
+    ],
+    [
+      "politics",
+      1,
+      "anger"
     ],
     [
       "intelligence",
