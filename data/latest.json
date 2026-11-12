@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T09:23:26.973Z",
+  "generated_at": "2026-11-12T09:38:29.277Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,19 +18,19 @@
       "anticipation"
     ],
     [
-      "peace",
-      4,
-      "joy"
-    ],
-    [
       "president",
-      4,
+      5,
       "trust"
     ],
     [
       "military",
-      4,
+      5,
       "fear"
+    ],
+    [
+      "peace",
+      4,
+      "joy"
     ],
     [
       "law",
@@ -113,14 +113,9 @@
       "trust"
     ],
     [
-      "expected",
+      "restrictions",
       2,
-      "anticipation"
-    ],
-    [
-      "progress",
-      2,
-      "joy"
+      "anger"
     ],
     [
       "devastating",
@@ -293,9 +288,24 @@
       "trust"
     ],
     [
-      "attempting",
+      "hit",
       1,
-      "anticipation"
+      "anger"
+    ],
+    [
+      "disruptions",
+      1,
+      "anger"
+    ],
+    [
+      "unwelcome",
+      1,
+      "sadness"
+    ],
+    [
+      "kill",
+      1,
+      "fear"
     ],
     [
       "don",
@@ -366,26 +376,16 @@
       "housing",
       1,
       "joy"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 66,
-    "fear": 48,
+    "joy": 30,
+    "trust": 67,
+    "fear": 50,
     "surprise": 14,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 3,
-    "anger": 85,
-    "anticipation": 39
+    "anger": 88,
+    "anticipation": 37
   }
 }
