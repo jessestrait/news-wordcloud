@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T17:27:36.058Z",
+  "generated_at": "2026-11-12T17:42:38.696Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,9 @@
       "trust"
     ],
     [
-      "investigation",
-      6,
-      "anticipation"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
+      "military",
+      5,
+      "fear"
     ],
     [
       "peace",
@@ -33,19 +28,24 @@
       "trust"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "law",
       4,
       "trust"
     ],
     [
+      "investigation",
+      4,
+      "anticipation"
+    ],
+    [
       "continue",
       4,
       "trust"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "gaza",
@@ -263,17 +263,7 @@
       "trust"
     ],
     [
-      "terrorism",
-      2,
-      "anger"
-    ],
-    [
       "killed",
-      2,
-      "fear"
-    ],
-    [
-      "fire",
       2,
       "fear"
     ],
@@ -286,6 +276,11 @@
       "system",
       2,
       "trust"
+    ],
+    [
+      "disruptions",
+      1,
+      "anger"
     ],
     [
       "agreed",
@@ -376,16 +371,21 @@
       "house",
       1,
       "joy"
+    ],
+    [
+      "awaiting",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 66,
+    "trust": 64,
     "fear": 51,
     "surprise": 13,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 3,
-    "anger": 87,
-    "anticipation": 38
+    "anger": 86,
+    "anticipation": 35
   }
 }
