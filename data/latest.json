@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:20:33.715Z",
+  "generated_at": "2026-11-12T03:35:35.756Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "trust"
     ],
     [
-      "leader",
-      4,
-      "trust"
-    ],
-    [
       "military",
       4,
       "fear"
@@ -45,6 +40,11 @@
     [
       "continue",
       4,
+      "trust"
+    ],
+    [
+      "leader",
+      3,
       "trust"
     ],
     [
@@ -111,11 +111,6 @@
       "devastating",
       2,
       "anger"
-    ],
-    [
-      "opportunity",
-      2,
-      "anticipation"
     ],
     [
       "success",
@@ -343,6 +338,11 @@
       "anger"
     ],
     [
+      "opportunity",
+      1,
+      "anticipation"
+    ],
+    [
       "awaiting",
       1,
       "anticipation"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 67,
+    "trust": 65,
     "fear": 50,
     "surprise": 15,
     "sadness": 17,
     "disgust": 4,
-    "anger": 88,
-    "anticipation": 42
+    "anger": 87,
+    "anticipation": 38
   }
 }
