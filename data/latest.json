@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-11-12T23:00:34.637Z",
+  "generated_at": "2026-11-12T23:15:37.392Z",
   "article_count": 50,
   "top_words": [
+    [
+      "president",
+      7,
+      "trust"
+    ],
     [
       "war",
       7,
@@ -10,11 +15,6 @@
     [
       "people",
       6,
-      "trust"
-    ],
-    [
-      "president",
-      5,
       "trust"
     ],
     [
@@ -203,11 +203,6 @@
       "joy"
     ],
     [
-      "legal",
-      2,
-      "trust"
-    ],
-    [
       "raid",
       2,
       "anger"
@@ -253,9 +248,14 @@
       "fear"
     ],
     [
-      "food",
-      2,
-      "joy"
+      "resign",
+      1,
+      "anger"
+    ],
+    [
+      "school",
+      1,
+      "trust"
     ],
     [
       "fat",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
-    "trust": 61,
+    "joy": 31,
+    "trust": 63,
     "fear": 52,
     "surprise": 12,
     "sadness": 15,
-    "disgust": 4,
-    "anger": 79,
-    "anticipation": 34
+    "disgust": 3,
+    "anger": 78,
+    "anticipation": 32
   }
 }
