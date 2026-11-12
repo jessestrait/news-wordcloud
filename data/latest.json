@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:56:46.753Z",
+  "generated_at": "2026-11-12T16:11:49.161Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,19 +18,19 @@
       "anticipation"
     ],
     [
-      "military",
-      5,
-      "fear"
-    ],
-    [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "peace",
       4,
       "joy"
+    ],
+    [
+      "president",
+      4,
+      "trust"
+    ],
+    [
+      "military",
+      4,
+      "fear"
     ],
     [
       "law",
@@ -111,11 +111,6 @@
       "death",
       3,
       "sadness"
-    ],
-    [
-      "restrictions",
-      2,
-      "anger"
     ],
     [
       "hospital",
@@ -293,7 +288,12 @@
       "trust"
     ],
     [
-      "powered",
+      "agreed",
+      1,
+      "trust"
+    ],
+    [
+      "announcement",
       1,
       "anticipation"
     ],
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 31,
     "trust": 66,
-    "fear": 52,
+    "fear": 51,
     "surprise": 13,
     "sadness": 16,
     "disgust": 3,
-    "anger": 88,
+    "anger": 87,
     "anticipation": 37
   }
 }
