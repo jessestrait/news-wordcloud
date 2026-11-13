@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-13T12:52:27.538Z",
+  "generated_at": "2026-11-13T13:07:29.877Z",
   "article_count": 50,
   "top_words": [
+    [
+      "military",
+      8,
+      "fear"
+    ],
     [
       "war",
       8,
       "anger"
-    ],
-    [
-      "military",
-      7,
-      "fear"
     ],
     [
       "president",
@@ -20,6 +20,11 @@
     [
       "strike",
       5,
+      "anger"
+    ],
+    [
+      "attack",
+      4,
       "anger"
     ],
     [
@@ -33,9 +38,9 @@
       "trust"
     ],
     [
-      "attack",
+      "official",
       3,
-      "anger"
+      "trust"
     ],
     [
       "hospital",
@@ -85,6 +90,11 @@
     [
       "demand",
       3,
+      "anger"
+    ],
+    [
+      "bomb",
+      2,
       "anger"
     ],
     [
@@ -178,11 +188,6 @@
       "anticipation"
     ],
     [
-      "officials",
-      2,
-      "trust"
-    ],
-    [
       "break",
       2,
       "surprise"
@@ -266,6 +271,16 @@
       "death",
       2,
       "sadness"
+    ],
+    [
+      "injures",
+      1,
+      "anger"
+    ],
+    [
+      "killed",
+      1,
+      "fear"
     ],
     [
       "policy",
@@ -361,31 +376,16 @@
       "wildfires",
       1,
       "fear"
-    ],
-    [
-      "fires",
-      1,
-      "fear"
-    ],
-    [
-      "toxic",
-      1,
-      "disgust"
-    ],
-    [
-      "related",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 63,
-    "fear": 51,
+    "joy": 22,
+    "trust": 64,
+    "fear": 53,
     "surprise": 10,
     "sadness": 14,
     "disgust": 5,
-    "anger": 81,
+    "anger": 84,
     "anticipation": 29
   }
 }
