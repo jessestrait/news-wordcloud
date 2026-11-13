@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:34:14.487Z",
+  "generated_at": "2026-11-13T06:49:16.639Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "trust"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "second",
       3,
       "trust"
@@ -36,11 +41,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "gaza",
-      3,
-      "anger"
     ],
     [
       "trump",
@@ -66,11 +66,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "plan",
@@ -141,6 +136,11 @@
       "hospital",
       2,
       "fear"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
     ],
     [
       "medical",
@@ -268,14 +268,34 @@
       "surprise"
     ],
     [
-      "struggle",
-      2,
-      "anger"
-    ],
-    [
       "battlefield",
       2,
       "fear"
+    ],
+    [
+      "disconnected",
+      1,
+      "sadness"
+    ],
+    [
+      "age",
+      1,
+      "anticipation"
+    ],
+    [
+      "revival",
+      1,
+      "joy"
+    ],
+    [
+      "shaped",
+      1,
+      "trust"
+    ],
+    [
+      "seeking",
+      1,
+      "anticipation"
     ],
     [
       "soldiers",
@@ -356,36 +376,16 @@
       "battery",
       1,
       "anger"
-    ],
-    [
-      "resign",
-      1,
-      "anger"
-    ],
-    [
-      "school",
-      1,
-      "trust"
-    ],
-    [
-      "fat",
-      1,
-      "disgust"
-    ],
-    [
-      "jump",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 61,
-    "fear": 56,
+    "joy": 27,
+    "trust": 60,
+    "fear": 52,
     "surprise": 12,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 5,
-    "anger": 81,
-    "anticipation": 30
+    "anger": 78,
+    "anticipation": 32
   }
 }
