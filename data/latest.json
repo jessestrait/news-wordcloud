@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-13T00:01:00.505Z",
+  "generated_at": "2026-11-13T00:16:02.516Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      8,
+      "anger"
+    ],
     [
       "president",
       7,
       "trust"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "people",
-      6,
+      5,
       "trust"
     ],
     [
@@ -40,6 +40,11 @@
     [
       "continue",
       4,
+      "trust"
+    ],
+    [
+      "second",
+      3,
       "trust"
     ],
     [
@@ -88,11 +93,6 @@
       "anticipation"
     ],
     [
-      "police",
-      3,
-      "fear"
-    ],
-    [
       "risk",
       3,
       "fear"
@@ -106,6 +106,21 @@
       "seek",
       3,
       "anticipation"
+    ],
+    [
+      "world",
+      2,
+      "trust"
+    ],
+    [
+      "bunker",
+      2,
+      "fear"
+    ],
+    [
+      "attack",
+      2,
+      "anger"
     ],
     [
       "house",
@@ -163,11 +178,6 @@
       "surprise"
     ],
     [
-      "second",
-      2,
-      "trust"
-    ],
-    [
       "ashes",
       2,
       "sadness"
@@ -181,6 +191,11 @@
       "fear",
       2,
       "anger"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "david",
@@ -228,6 +243,11 @@
       "trust"
     ],
     [
+      "ship",
+      2,
+      "anticipation"
+    ],
+    [
       "death",
       2,
       "sadness"
@@ -246,6 +266,31 @@
       "battlefield",
       2,
       "fear"
+    ],
+    [
+      "brain",
+      1,
+      "trust"
+    ],
+    [
+      "cliffs",
+      1,
+      "fear"
+    ],
+    [
+      "public",
+      1,
+      "anticipation"
+    ],
+    [
+      "gun",
+      1,
+      "anger"
+    ],
+    [
+      "battery",
+      1,
+      "anger"
     ],
     [
       "resign",
@@ -308,11 +353,6 @@
       "anger"
     ],
     [
-      "attack",
-      1,
-      "anger"
-    ],
-    [
       "strip",
       1,
       "sadness"
@@ -336,56 +376,16 @@
       "intelligence",
       1,
       "fear"
-    ],
-    [
-      "space",
-      1,
-      "joy"
-    ],
-    [
-      "fragile",
-      1,
-      "fear"
-    ],
-    [
-      "iran",
-      1,
-      "anger"
-    ],
-    [
-      "threat",
-      1,
-      "anger"
-    ],
-    [
-      "opportunity",
-      1,
-      "anticipation"
-    ],
-    [
-      "escapes",
-      1,
-      "fear"
-    ],
-    [
-      "awaiting",
-      1,
-      "anticipation"
-    ],
-    [
-      "flee",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 63,
-    "fear": 52,
+    "joy": 30,
+    "trust": 64,
+    "fear": 54,
     "surprise": 12,
     "sadness": 15,
     "disgust": 3,
-    "anger": 78,
-    "anticipation": 32
+    "anger": 79,
+    "anticipation": 34
   }
 }
