@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:26:34.884Z",
+  "generated_at": "2026-11-13T20:41:37.257Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,14 +83,14 @@
       "anger"
     ],
     [
-      "letters",
-      2,
-      "anticipation"
-    ],
-    [
       "policy",
       2,
       "trust"
+    ],
+    [
+      "letters",
+      2,
+      "anticipation"
     ],
     [
       "american",
@@ -253,6 +253,11 @@
       "trust"
     ],
     [
+      "aggression",
+      1,
+      "anger"
+    ],
+    [
       "expect",
       1,
       "surprise"
@@ -294,11 +299,6 @@
     ],
     [
       "violence",
-      1,
-      "anger"
-    ],
-    [
-      "aggression",
       1,
       "anger"
     ],
