@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-13T17:55:19.071Z",
+  "generated_at": "2026-11-13T18:10:21.313Z",
   "article_count": 50,
   "top_words": [
+    [
+      "war",
+      9,
+      "anger"
+    ],
     [
       "military",
       8,
       "fear"
-    ],
-    [
-      "war",
-      8,
-      "anger"
     ],
     [
       "president",
@@ -81,6 +81,11 @@
       "demand",
       3,
       "anger"
+    ],
+    [
+      "letters",
+      2,
+      "anticipation"
     ],
     [
       "policy",
@@ -228,19 +233,9 @@
       "trust"
     ],
     [
-      "life",
-      2,
-      "joy"
-    ],
-    [
       "raid",
       2,
       "anger"
-    ],
-    [
-      "seize",
-      2,
-      "fear"
     ],
     [
       "government",
@@ -258,9 +253,14 @@
       "trust"
     ],
     [
-      "ship",
-      2,
-      "anticipation"
+      "expect",
+      1,
+      "surprise"
+    ],
+    [
+      "fighting",
+      1,
+      "anger"
     ],
     [
       "agreeing",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 64,
-    "fear": 51,
-    "surprise": 10,
+    "joy": 21,
+    "trust": 63,
+    "fear": 50,
+    "surprise": 11,
     "sadness": 12,
     "disgust": 6,
-    "anger": 81,
-    "anticipation": 29
+    "anger": 83,
+    "anticipation": 28
   }
 }
