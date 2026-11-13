@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:08:15.405Z",
+  "generated_at": "2026-11-13T14:23:17.937Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "trust"
     ],
     [
+      "warns",
+      3,
+      "fear"
+    ],
+    [
       "official",
       3,
       "trust"
@@ -68,11 +73,6 @@
       "anger"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "risk",
       3,
       "fear"
@@ -93,14 +93,14 @@
       "anger"
     ],
     [
+      "policy",
+      2,
+      "trust"
+    ],
+    [
       "iran",
       2,
       "anger"
-    ],
-    [
-      "warns",
-      2,
-      "fear"
     ],
     [
       "system",
@@ -168,11 +168,6 @@
       "anger"
     ],
     [
-      "leader",
-      2,
-      "trust"
-    ],
-    [
       "gain",
       2,
       "joy"
@@ -196,6 +191,11 @@
       "ashes",
       2,
       "sadness"
+    ],
+    [
+      "plan",
+      2,
+      "anticipation"
     ],
     [
       "homes",
@@ -263,9 +263,14 @@
       "anticipation"
     ],
     [
-      "death",
-      2,
-      "sadness"
+      "aggression",
+      1,
+      "anger"
+    ],
+    [
+      "agreeing",
+      1,
+      "trust"
     ],
     [
       "radar",
@@ -279,16 +284,6 @@
     ],
     [
       "communications",
-      1,
-      "trust"
-    ],
-    [
-      "policy",
-      1,
-      "trust"
-    ],
-    [
-      "agreeing",
       1,
       "trust"
     ],
@@ -376,16 +371,21 @@
       "recruits",
       1,
       "trust"
+    ],
+    [
+      "wildfires",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 64,
-    "fear": 53,
+    "fear": 54,
     "surprise": 10,
-    "sadness": 14,
+    "sadness": 12,
     "disgust": 5,
-    "anger": 83,
-    "anticipation": 30
+    "anger": 79,
+    "anticipation": 29
   }
 }
