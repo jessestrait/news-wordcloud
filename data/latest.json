@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:37:51.417Z",
+  "generated_at": "2026-11-13T13:52:54.052Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,14 +93,14 @@
       "anger"
     ],
     [
-      "warns",
-      2,
-      "fear"
-    ],
-    [
       "iran",
       2,
       "anger"
+    ],
+    [
+      "warns",
+      2,
+      "fear"
     ],
     [
       "system",
@@ -268,6 +268,21 @@
       "sadness"
     ],
     [
+      "radar",
+      1,
+      "trust"
+    ],
+    [
+      "retaliatory",
+      1,
+      "anger"
+    ],
+    [
+      "communications",
+      1,
+      "trust"
+    ],
+    [
       "policy",
       1,
       "trust"
@@ -301,26 +316,6 @@
       "blast",
       1,
       "anger"
-    ],
-    [
-      "destroyed",
-      1,
-      "anger"
-    ],
-    [
-      "radar",
-      1,
-      "trust"
-    ],
-    [
-      "retaliatory",
-      1,
-      "anger"
-    ],
-    [
-      "communications",
-      1,
-      "trust"
     ],
     [
       "falters",
@@ -376,6 +371,11 @@
       "unacceptable",
       1,
       "sadness"
+    ],
+    [
+      "recruits",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 10,
     "sadness": 14,
     "disgust": 5,
-    "anger": 84,
+    "anger": 83,
     "anticipation": 30
   }
 }
