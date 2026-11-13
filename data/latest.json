@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:22:08.592Z",
+  "generated_at": "2026-11-13T12:37:10.928Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,7 +24,7 @@
     ],
     [
       "peace",
-      5,
+      4,
       "joy"
     ],
     [
@@ -63,11 +63,6 @@
       "anger"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
       "plan",
       3,
       "anticipation"
@@ -93,14 +88,14 @@
       "anger"
     ],
     [
+      "warns",
+      2,
+      "fear"
+    ],
+    [
       "iran",
       2,
       "anger"
-    ],
-    [
-      "agreed",
-      2,
-      "trust"
     ],
     [
       "system",
@@ -166,6 +161,11 @@
       "devastating",
       2,
       "anger"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
     ],
     [
       "gain",
@@ -268,6 +268,16 @@
       "sadness"
     ],
     [
+      "policy",
+      1,
+      "trust"
+    ],
+    [
+      "agreeing",
+      1,
+      "trust"
+    ],
+    [
       "destroyed",
       1,
       "anger"
@@ -366,22 +376,12 @@
       "related",
       1,
       "trust"
-    ],
-    [
-      "infections",
-      1,
-      "fear"
-    ],
-    [
-      "pontiff",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 23,
     "trust": 63,
-    "fear": 50,
+    "fear": 51,
     "surprise": 10,
     "sadness": 14,
     "disgust": 5,
