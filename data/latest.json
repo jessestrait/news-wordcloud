@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:07:29.877Z",
+  "generated_at": "2026-11-13T13:22:32.209Z",
   "article_count": 50,
   "top_words": [
     [
@@ -90,11 +90,6 @@
     [
       "demand",
       3,
-      "anger"
-    ],
-    [
-      "bomb",
-      2,
       "anger"
     ],
     [
@@ -273,16 +268,6 @@
       "sadness"
     ],
     [
-      "injures",
-      1,
-      "anger"
-    ],
-    [
-      "killed",
-      1,
-      "fear"
-    ],
-    [
       "policy",
       1,
       "trust"
@@ -291,6 +276,31 @@
       "agreeing",
       1,
       "trust"
+    ],
+    [
+      "bomb",
+      1,
+      "anger"
+    ],
+    [
+      "injures",
+      1,
+      "anger"
+    ],
+    [
+      "thought",
+      1,
+      "anticipation"
+    ],
+    [
+      "killed",
+      1,
+      "fear"
+    ],
+    [
+      "blast",
+      1,
+      "anger"
     ],
     [
       "destroyed",
@@ -366,16 +376,6 @@
       "unacceptable",
       1,
       "sadness"
-    ],
-    [
-      "recruits",
-      1,
-      "trust"
-    ],
-    [
-      "wildfires",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 14,
     "disgust": 5,
     "anger": 84,
-    "anticipation": 29
+    "anticipation": 30
   }
 }
