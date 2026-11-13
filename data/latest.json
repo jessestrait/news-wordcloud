@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:23:17.937Z",
+  "generated_at": "2026-11-13T14:38:20.572Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,11 +53,6 @@
       "fear"
     ],
     [
-      "people",
-      3,
-      "trust"
-    ],
-    [
       "second",
       3,
       "trust"
@@ -78,11 +73,6 @@
       "fear"
     ],
     [
-      "investigation",
-      3,
-      "anticipation"
-    ],
-    [
       "continue",
       3,
       "trust"
@@ -93,7 +83,17 @@
       "anger"
     ],
     [
+      "american",
+      2,
+      "sadness"
+    ],
+    [
       "policy",
+      2,
+      "trust"
+    ],
+    [
+      "books",
       2,
       "trust"
     ],
@@ -113,6 +113,11 @@
       "anger"
     ],
     [
+      "people",
+      2,
+      "trust"
+    ],
+    [
       "abuse",
       2,
       "anger"
@@ -121,11 +126,6 @@
       "chancellor",
       2,
       "trust"
-    ],
-    [
-      "american",
-      2,
-      "sadness"
     ],
     [
       "bunker",
@@ -151,11 +151,6 @@
       "don",
       2,
       "trust"
-    ],
-    [
-      "anti",
-      2,
-      "anger"
     ],
     [
       "progress",
@@ -218,6 +213,11 @@
       "trust"
     ],
     [
+      "investigation",
+      2,
+      "anticipation"
+    ],
+    [
       "prisoner",
       2,
       "anger"
@@ -263,14 +263,44 @@
       "anticipation"
     ],
     [
-      "aggression",
+      "pontiff",
       1,
-      "anger"
+      "trust"
     ],
     [
       "agreeing",
       1,
       "trust"
+    ],
+    [
+      "evil",
+      1,
+      "anger"
+    ],
+    [
+      "finally",
+      1,
+      "disgust"
+    ],
+    [
+      "censored",
+      1,
+      "anger"
+    ],
+    [
+      "corrupt",
+      1,
+      "disgust"
+    ],
+    [
+      "violence",
+      1,
+      "anger"
+    ],
+    [
+      "aggression",
+      1,
+      "anger"
     ],
     [
       "radar",
@@ -346,46 +376,16 @@
       "seeking",
       1,
       "anticipation"
-    ],
-    [
-      "soldiers",
-      1,
-      "anger"
-    ],
-    [
-      "misconduct",
-      1,
-      "disgust"
-    ],
-    [
-      "found",
-      1,
-      "joy"
-    ],
-    [
-      "unacceptable",
-      1,
-      "sadness"
-    ],
-    [
-      "recruits",
-      1,
-      "trust"
-    ],
-    [
-      "wildfires",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 64,
-    "fear": 54,
+    "fear": 51,
     "surprise": 10,
     "sadness": 12,
-    "disgust": 5,
-    "anger": 79,
-    "anticipation": 29
+    "disgust": 6,
+    "anger": 81,
+    "anticipation": 28
   }
 }
