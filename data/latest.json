@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-11-13T08:50:16.700Z",
+  "generated_at": "2026-11-13T09:05:18.815Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      8,
       "anger"
     ],
     [
       "president",
-      7,
+      6,
       "trust"
+    ],
+    [
+      "peace",
+      5,
+      "joy"
     ],
     [
       "military",
@@ -18,9 +23,9 @@
       "fear"
     ],
     [
-      "peace",
-      5,
-      "joy"
+      "leader",
+      4,
+      "trust"
     ],
     [
       "law",
@@ -48,19 +53,9 @@
       "anger"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
       "strike",
       3,
       "anger"
-    ],
-    [
-      "gain",
-      3,
-      "joy"
     ],
     [
       "power",
@@ -96,6 +91,11 @@
       "demand",
       3,
       "anger"
+    ],
+    [
+      "agreed",
+      2,
+      "trust"
     ],
     [
       "abuse",
@@ -168,7 +168,7 @@
       "anger"
     ],
     [
-      "success",
+      "gain",
       2,
       "joy"
     ],
@@ -266,11 +266,6 @@
       "hope",
       2,
       "surprise"
-    ],
-    [
-      "battlefield",
-      2,
-      "fear"
     ],
     [
       "disconnected",
@@ -376,16 +371,21 @@
       "battery",
       1,
       "anger"
+    ],
+    [
+      "resign",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
+    "joy": 25,
     "trust": 60,
-    "fear": 52,
+    "fear": 50,
     "surprise": 12,
     "sadness": 15,
     "disgust": 5,
-    "anger": 78,
+    "anger": 76,
     "anticipation": 32
   }
 }
