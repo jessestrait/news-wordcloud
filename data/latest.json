@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T22:27:38.163Z",
+  "generated_at": "2026-11-13T22:42:40.392Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,11 +43,6 @@
       "trust"
     ],
     [
-      "communication",
-      3,
-      "trust"
-    ],
-    [
       "warns",
       3,
       "fear"
@@ -73,9 +68,19 @@
       "fear"
     ],
     [
-      "airports",
+      "delays",
       2,
-      "anticipation"
+      "anger"
+    ],
+    [
+      "ground",
+      2,
+      "trust"
+    ],
+    [
+      "communication",
+      2,
+      "trust"
     ],
     [
       "policy",
@@ -248,19 +253,9 @@
       "fear"
     ],
     [
-      "grounded",
-      1,
-      "fear"
-    ],
-    [
       "cyberattack",
       1,
       "fear"
-    ],
-    [
-      "ground",
-      1,
-      "trust"
     ],
     [
       "delayed",
@@ -271,6 +266,11 @@
       "canceled",
       1,
       "sadness"
+    ],
+    [
+      "airports",
+      1,
+      "anticipation"
     ],
     [
       "nefarious",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 20,
     "trust": 60,
-    "fear": 53,
+    "fear": 52,
     "surprise": 10,
     "sadness": 13,
     "disgust": 6,
-    "anger": 82,
-    "anticipation": 29
+    "anger": 83,
+    "anticipation": 28
   }
 }
