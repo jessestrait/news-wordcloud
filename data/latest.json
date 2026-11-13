@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T22:12:20.761Z",
+  "generated_at": "2026-11-13T22:27:22.845Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,16 @@
       "trust"
     ],
     [
+      "trump",
+      5,
+      "anger"
+    ],
+    [
+      "attack",
+      5,
+      "anger"
+    ],
+    [
       "strike",
       5,
       "anger"
@@ -26,11 +36,6 @@
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "attack",
-      4,
-      "anger"
     ],
     [
       "law",
@@ -63,14 +68,14 @@
       "trust"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "risk",
       3,
       "fear"
+    ],
+    [
+      "airports",
+      2,
+      "anticipation"
     ],
     [
       "policy",
@@ -248,14 +253,9 @@
       "fear"
     ],
     [
-      "airports",
+      "cyberattack",
       1,
-      "anticipation"
-    ],
-    [
-      "delayed",
-      1,
-      "anger"
+      "fear"
     ],
     [
       "ground",
@@ -263,14 +263,19 @@
       "trust"
     ],
     [
-      "delaying",
+      "delayed",
       1,
       "anger"
     ],
     [
-      "canceling",
+      "canceled",
       1,
       "sadness"
+    ],
+    [
+      "nefarious",
+      1,
+      "fear"
     ],
     [
       "aggression",
@@ -371,21 +376,16 @@
       "disconnected",
       1,
       "sadness"
-    ],
-    [
-      "age",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
     "trust": 60,
-    "fear": 51,
+    "fear": 53,
     "surprise": 10,
     "sadness": 13,
     "disgust": 6,
-    "anger": 80,
-    "anticipation": 28
+    "anger": 82,
+    "anticipation": 29
   }
 }
