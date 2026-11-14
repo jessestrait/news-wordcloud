@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T00:58:53.599Z",
+  "generated_at": "2026-11-14T01:13:55.548Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,6 +43,16 @@
       "trust"
     ],
     [
+      "communication",
+      3,
+      "trust"
+    ],
+    [
+      "system",
+      3,
+      "trust"
+    ],
+    [
       "warns",
       3,
       "fear"
@@ -51,6 +61,11 @@
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "official",
+      3,
+      "trust"
     ],
     [
       "hospital",
@@ -83,11 +98,6 @@
       "anger"
     ],
     [
-      "communication",
-      2,
-      "trust"
-    ],
-    [
       "policy",
       2,
       "trust"
@@ -111,16 +121,6 @@
       "iran",
       2,
       "anger"
-    ],
-    [
-      "official",
-      2,
-      "trust"
-    ],
-    [
-      "system",
-      2,
-      "trust"
     ],
     [
       "restrictions",
@@ -248,7 +248,7 @@
       "fear"
     ],
     [
-      "cyberattack",
+      "failures",
       1,
       "fear"
     ],
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 62,
+    "trust": 65,
     "fear": 52,
     "surprise": 8,
     "sadness": 14,
