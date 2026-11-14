@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T00:13:34.249Z",
+  "generated_at": "2026-11-14T00:28:36.270Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,12 +18,12 @@
       "trust"
     ],
     [
-      "attack",
+      "trump",
       5,
       "anger"
     ],
     [
-      "trump",
+      "attack",
       5,
       "anger"
     ],
@@ -78,14 +78,14 @@
       "fear"
     ],
     [
-      "communication",
-      2,
-      "trust"
-    ],
-    [
       "delays",
       2,
       "anger"
+    ],
+    [
+      "communication",
+      2,
+      "trust"
     ],
     [
       "policy",
@@ -248,6 +248,11 @@
       "fear"
     ],
     [
+      "cyberattack",
+      1,
+      "fear"
+    ],
+    [
       "delayed",
       1,
       "anger"
@@ -264,11 +269,6 @@
     ],
     [
       "nefarious",
-      1,
-      "fear"
-    ],
-    [
-      "cyberattack",
       1,
       "fear"
     ],
