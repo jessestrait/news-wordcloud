@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:06:56.942Z",
+  "generated_at": "2026-11-14T17:21:59.546Z",
   "article_count": 50,
   "top_words": [
     [
@@ -218,6 +218,26 @@
       "joy"
     ],
     [
+      "canceled",
+      1,
+      "sadness"
+    ],
+    [
+      "blamed",
+      1,
+      "anger"
+    ],
+    [
+      "ageing",
+      1,
+      "anticipation"
+    ],
+    [
+      "grounding",
+      1,
+      "trust"
+    ],
+    [
       "protesters",
       1,
       "anger"
@@ -256,26 +276,6 @@
       "food",
       1,
       "joy"
-    ],
-    [
-      "canceled",
-      1,
-      "sadness"
-    ],
-    [
-      "blamed",
-      1,
-      "anger"
-    ],
-    [
-      "ageing",
-      1,
-      "anticipation"
-    ],
-    [
-      "grounding",
-      1,
-      "trust"
     ],
     [
       "choking",
