@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-11-14T17:37:19.084Z",
+  "generated_at": "2026-11-14T17:52:21.237Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       8,
       "anger"
-    ],
-    [
-      "ground",
-      7,
-      "trust"
     ],
     [
       "president",
@@ -21,6 +16,11 @@
       "military",
       6,
       "fear"
+    ],
+    [
+      "ground",
+      6,
+      "trust"
     ],
     [
       "strike",
@@ -43,6 +43,11 @@
       "anticipation"
     ],
     [
+      "official",
+      5,
+      "trust"
+    ],
+    [
       "warn",
       4,
       "fear"
@@ -56,11 +61,6 @@
       "attack",
       4,
       "anger"
-    ],
-    [
-      "official",
-      4,
-      "trust"
     ],
     [
       "chaos",
@@ -218,6 +218,16 @@
       "joy"
     ],
     [
+      "routine",
+      1,
+      "trust"
+    ],
+    [
+      "maintenance",
+      1,
+      "trust"
+    ],
+    [
       "canceled",
       1,
       "sadness"
@@ -366,21 +376,11 @@
       "hopeful",
       1,
       "surprise"
-    ],
-    [
-      "calls",
-      1,
-      "trust"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 73,
+    "trust": 75,
     "fear": 46,
     "surprise": 13,
     "sadness": 13,
