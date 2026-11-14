@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:14:37.903Z",
+  "generated_at": "2026-11-14T02:29:40.314Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,6 +53,11 @@
       "anticipation"
     ],
     [
+      "american",
+      3,
+      "sadness"
+    ],
+    [
       "restrictions",
       3,
       "anger"
@@ -61,11 +66,6 @@
       "continue",
       3,
       "trust"
-    ],
-    [
-      "american",
-      3,
-      "sadness"
     ],
     [
       "warns",
@@ -101,16 +101,6 @@
       "risk",
       3,
       "fear"
-    ],
-    [
-      "airports",
-      2,
-      "anticipation"
-    ],
-    [
-      "delays",
-      2,
-      "anger"
     ],
     [
       "policy",
@@ -238,11 +228,6 @@
       "fear"
     ],
     [
-      "problem",
-      1,
-      "fear"
-    ],
-    [
       "suggest",
       1,
       "trust"
@@ -258,7 +243,12 @@
       "disgust"
     ],
     [
-      "bad",
+      "problem",
+      1,
+      "fear"
+    ],
+    [
+      "delayed",
       1,
       "anger"
     ],
@@ -268,9 +258,19 @@
       "fear"
     ],
     [
-      "grounding",
+      "airports",
       1,
-      "trust"
+      "anticipation"
+    ],
+    [
+      "departures",
+      1,
+      "sadness"
+    ],
+    [
+      "bad",
+      1,
+      "anger"
     ],
     [
       "delaying",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 65,
+    "trust": 64,
     "fear": 50,
     "surprise": 7,
-    "sadness": 15,
+    "sadness": 16,
     "disgust": 7,
     "anger": 83,
-    "anticipation": 28
+    "anticipation": 27
   }
 }
