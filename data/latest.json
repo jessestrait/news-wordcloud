@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:14:19.970Z",
+  "generated_at": "2026-11-14T02:14:37.903Z",
   "article_count": 50,
   "top_words": [
     [
@@ -243,6 +243,16 @@
       "fear"
     ],
     [
+      "suggest",
+      1,
+      "trust"
+    ],
+    [
+      "overwhelmed",
+      1,
+      "sadness"
+    ],
+    [
       "congress",
       1,
       "disgust"
@@ -366,24 +376,14 @@
       "blast",
       1,
       "anger"
-    ],
-    [
-      "falters",
-      1,
-      "fear"
-    ],
-    [
-      "shoot",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 64,
+    "trust": 65,
     "fear": 50,
     "surprise": 7,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 7,
     "anger": 83,
     "anticipation": 28
