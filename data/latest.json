@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-11-14T11:49:18.227Z",
+  "generated_at": "2026-11-14T12:04:20.310Z",
   "article_count": 50,
   "top_words": [
-    [
-      "military",
-      8,
-      "fear"
-    ],
     [
       "war",
       8,
@@ -16,6 +11,11 @@
       "president",
       7,
       "trust"
+    ],
+    [
+      "military",
+      6,
+      "fear"
     ],
     [
       "strike",
@@ -36,6 +36,11 @@
       "happened",
       5,
       "anticipation"
+    ],
+    [
+      "warn",
+      4,
+      "fear"
     ],
     [
       "system",
@@ -73,11 +78,6 @@
       "trust"
     ],
     [
-      "warns",
-      3,
-      "fear"
-    ],
-    [
       "official",
       3,
       "trust"
@@ -101,6 +101,31 @@
       "law",
       3,
       "trust"
+    ],
+    [
+      "risk",
+      3,
+      "fear"
+    ],
+    [
+      "abortion",
+      2,
+      "fear"
+    ],
+    [
+      "doctor",
+      2,
+      "trust"
+    ],
+    [
+      "god",
+      2,
+      "surprise"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
     ],
     [
       "betrayal",
@@ -208,13 +233,48 @@
       "anger"
     ],
     [
-      "risk",
-      2,
+      "faith",
+      1,
+      "joy"
+    ],
+    [
+      "forgiving",
+      1,
+      "trust"
+    ],
+    [
+      "black",
+      1,
+      "sadness"
+    ],
+    [
+      "rapid",
+      1,
+      "surprise"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
+    ],
+    [
+      "changes",
+      1,
       "fear"
     ],
     [
-      "david",
-      2,
+      "wealth",
+      1,
+      "anticipation"
+    ],
+    [
+      "measles",
+      1,
+      "fear"
+    ],
+    [
+      "experts",
+      1,
       "trust"
     ],
     [
@@ -316,76 +376,16 @@
       "bad",
       1,
       "anger"
-    ],
-    [
-      "delaying",
-      1,
-      "anger"
-    ],
-    [
-      "canceling",
-      1,
-      "sadness"
-    ],
-    [
-      "aggression",
-      1,
-      "anger"
-    ],
-    [
-      "expect",
-      1,
-      "surprise"
-    ],
-    [
-      "letters",
-      1,
-      "anticipation"
-    ],
-    [
-      "fighting",
-      1,
-      "anger"
-    ],
-    [
-      "agreeing",
-      1,
-      "trust"
-    ],
-    [
-      "pontiff",
-      1,
-      "trust"
-    ],
-    [
-      "evil",
-      1,
-      "anger"
-    ],
-    [
-      "finally",
-      1,
-      "disgust"
-    ],
-    [
-      "censored",
-      1,
-      "anger"
-    ],
-    [
-      "corrupt",
-      1,
-      "disgust"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 64,
-    "fear": 48,
-    "surprise": 7,
+    "joy": 19,
+    "trust": 65,
+    "fear": 51,
+    "surprise": 8,
     "sadness": 16,
     "disgust": 6,
-    "anger": 83,
+    "anger": 79,
     "anticipation": 30
   }
 }
