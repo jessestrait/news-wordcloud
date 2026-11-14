@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:47:07.018Z",
+  "generated_at": "2026-11-14T07:02:09.044Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,18 +8,23 @@
       "anger"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
       "military",
       7,
       "fear"
     ],
     [
+      "president",
+      6,
+      "trust"
+    ],
+    [
       "strike",
       6,
+      "anger"
+    ],
+    [
+      "trump",
+      5,
       "anger"
     ],
     [
@@ -31,11 +36,6 @@
       "happened",
       5,
       "anticipation"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
     ],
     [
       "attack",
@@ -101,6 +101,21 @@
       "risk",
       3,
       "fear"
+    ],
+    [
+      "betrayal",
+      2,
+      "anger"
+    ],
+    [
+      "seeking",
+      2,
+      "anticipation"
+    ],
+    [
+      "hopes",
+      2,
+      "surprise"
     ],
     [
       "warfare",
@@ -188,11 +203,6 @@
       "anger"
     ],
     [
-      "gain",
-      2,
-      "joy"
-    ],
-    [
       "power",
       2,
       "anticipation"
@@ -226,6 +236,16 @@
       "doctor",
       2,
       "trust"
+    ],
+    [
+      "extricate",
+      1,
+      "anticipation"
+    ],
+    [
+      "global",
+      1,
+      "anticipation"
     ],
     [
       "terror",
@@ -356,36 +376,16 @@
       "radar",
       1,
       "trust"
-    ],
-    [
-      "retaliatory",
-      1,
-      "anger"
-    ],
-    [
-      "communications",
-      1,
-      "trust"
-    ],
-    [
-      "bomb",
-      1,
-      "anger"
-    ],
-    [
-      "injures",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 64,
+    "joy": 19,
+    "trust": 63,
     "fear": 48,
     "surprise": 7,
     "sadness": 16,
     "disgust": 6,
-    "anger": 82,
-    "anticipation": 27
+    "anger": 84,
+    "anticipation": 30
   }
 }
