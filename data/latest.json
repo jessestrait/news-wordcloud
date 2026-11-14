@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:06:33.562Z",
+  "generated_at": "2026-11-14T16:21:35.256Z",
   "article_count": 50,
   "top_words": [
     [
@@ -218,9 +218,29 @@
       "joy"
     ],
     [
-      "ashes",
-      2,
-      "sadness"
+      "protesters",
+      1,
+      "anger"
+    ],
+    [
+      "defy",
+      1,
+      "anger"
+    ],
+    [
+      "crackdown",
+      1,
+      "anger"
+    ],
+    [
+      "cop",
+      1,
+      "fear"
+    ],
+    [
+      "placards",
+      1,
+      "surprise"
     ],
     [
       "lost",
@@ -356,36 +376,16 @@
       "seeks",
       1,
       "anticipation"
-    ],
-    [
-      "lying",
-      1,
-      "anger"
-    ],
-    [
-      "throttling",
-      1,
-      "anger"
-    ],
-    [
-      "extricate",
-      1,
-      "anticipation"
-    ],
-    [
-      "global",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
     "trust": 73,
-    "fear": 45,
-    "surprise": 12,
-    "sadness": 16,
+    "fear": 46,
+    "surprise": 13,
+    "sadness": 13,
     "disgust": 6,
-    "anger": 76,
+    "anger": 79,
     "anticipation": 30
   }
 }
