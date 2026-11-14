@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-14T11:19:14.026Z",
+  "generated_at": "2026-11-14T11:34:16.117Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      10,
-      "anger"
-    ],
     [
       "military",
       8,
       "fear"
+    ],
+    [
+      "war",
+      8,
+      "anger"
     ],
     [
       "president",
@@ -51,6 +51,11 @@
       "plan",
       4,
       "anticipation"
+    ],
+    [
+      "government",
+      3,
+      "fear"
     ],
     [
       "american",
@@ -126,11 +131,6 @@
       "university",
       2,
       "anticipation"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "suggest",
@@ -218,9 +218,24 @@
       "trust"
     ],
     [
-      "prisoner",
-      2,
+      "condemns",
+      1,
       "anger"
+    ],
+    [
+      "hopeful",
+      1,
+      "surprise"
+    ],
+    [
+      "calls",
+      1,
+      "trust"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
     ],
     [
       "honest",
@@ -361,31 +376,16 @@
       "corrupt",
       1,
       "disgust"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "radar",
-      1,
-      "trust"
-    ],
-    [
-      "retaliatory",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 18,
-    "trust": 63,
-    "fear": 47,
+    "trust": 64,
+    "fear": 48,
     "surprise": 7,
     "sadness": 16,
     "disgust": 6,
-    "anger": 85,
+    "anger": 83,
     "anticipation": 30
   }
 }
