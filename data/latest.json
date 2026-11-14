@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:01:00.375Z",
+  "generated_at": "2026-11-14T05:16:02.941Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,21 @@
       "anticipation"
     ],
     [
+      "university",
+      2,
+      "anticipation"
+    ],
+    [
+      "government",
+      2,
+      "fear"
+    ],
+    [
+      "suggest",
+      2,
+      "trust"
+    ],
+    [
       "policy",
       2,
       "trust"
@@ -126,11 +141,6 @@
       "people",
       2,
       "trust"
-    ],
-    [
-      "abuse",
-      2,
-      "anger"
     ],
     [
       "demands",
@@ -198,19 +208,9 @@
       "anger"
     ],
     [
-      "police",
-      2,
-      "fear"
-    ],
-    [
       "david",
       2,
       "trust"
-    ],
-    [
-      "investigation",
-      2,
-      "anticipation"
     ],
     [
       "prisoner",
@@ -221,26 +221,6 @@
       "doctor",
       2,
       "trust"
-    ],
-    [
-      "raid",
-      2,
-      "anger"
-    ],
-    [
-      "delayed",
-      1,
-      "anger"
-    ],
-    [
-      "grounded",
-      1,
-      "fear"
-    ],
-    [
-      "departures",
-      1,
-      "sadness"
     ],
     [
       "chaos",
@@ -258,9 +238,24 @@
       "fear"
     ],
     [
-      "suggest",
+      "confidence",
       1,
-      "trust"
+      "fear"
+    ],
+    [
+      "delayed",
+      1,
+      "anger"
+    ],
+    [
+      "grounded",
+      1,
+      "fear"
+    ],
+    [
+      "departures",
+      1,
+      "sadness"
     ],
     [
       "overwhelmed",
@@ -376,16 +371,21 @@
       "killed",
       1,
       "fear"
+    ],
+    [
+      "blast",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 68,
-    "fear": 49,
+    "trust": 69,
+    "fear": 50,
     "surprise": 7,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 6,
-    "anger": 84,
+    "anger": 82,
     "anticipation": 26
   }
 }
