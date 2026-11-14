@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:45:57.901Z",
+  "generated_at": "2026-11-14T05:01:00.375Z",
   "article_count": 50,
   "top_words": [
     [
@@ -228,6 +228,21 @@
       "anger"
     ],
     [
+      "delayed",
+      1,
+      "anger"
+    ],
+    [
+      "grounded",
+      1,
+      "fear"
+    ],
+    [
+      "departures",
+      1,
+      "sadness"
+    ],
+    [
       "chaos",
       1,
       "anger"
@@ -249,21 +264,6 @@
     ],
     [
       "overwhelmed",
-      1,
-      "sadness"
-    ],
-    [
-      "delayed",
-      1,
-      "anger"
-    ],
-    [
-      "grounded",
-      1,
-      "fear"
-    ],
-    [
-      "departures",
       1,
       "sadness"
     ],
