@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T11:03:57.881Z",
+  "generated_at": "2026-11-14T11:18:59.635Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "military",
-      7,
+      8,
       "fear"
     ],
     [
       "president",
-      6,
+      7,
       "trust"
     ],
     [
@@ -38,6 +38,11 @@
       "anticipation"
     ],
     [
+      "system",
+      4,
+      "trust"
+    ],
+    [
       "attack",
       4,
       "anger"
@@ -59,11 +64,6 @@
     ],
     [
       "continue",
-      3,
-      "trust"
-    ],
-    [
-      "system",
       3,
       "trust"
     ],
@@ -96,11 +96,6 @@
       "law",
       3,
       "trust"
-    ],
-    [
-      "risk",
-      3,
-      "fear"
     ],
     [
       "betrayal",
@@ -178,16 +173,6 @@
       "joy"
     ],
     [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
-      "medical",
-      2,
-      "fear"
-    ],
-    [
       "don",
       2,
       "trust"
@@ -223,6 +208,11 @@
       "anger"
     ],
     [
+      "risk",
+      2,
+      "fear"
+    ],
+    [
       "david",
       2,
       "trust"
@@ -233,9 +223,14 @@
       "anger"
     ],
     [
-      "doctor",
-      2,
-      "trust"
+      "honest",
+      1,
+      "anger"
+    ],
+    [
+      "throttling",
+      1,
+      "anger"
     ],
     [
       "extricate",
@@ -376,16 +371,21 @@
       "radar",
       1,
       "trust"
+    ],
+    [
+      "retaliatory",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
+    "joy": 18,
     "trust": 63,
-    "fear": 48,
+    "fear": 47,
     "surprise": 7,
     "sadness": 16,
     "disgust": 6,
-    "anger": 84,
+    "anger": 85,
     "anticipation": 30
   }
 }
