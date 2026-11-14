@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T15:36:11.064Z",
+  "generated_at": "2026-11-14T15:51:12.939Z",
   "article_count": 50,
   "top_words": [
     [
@@ -83,11 +83,6 @@
       "anticipation"
     ],
     [
-      "american",
-      3,
-      "sadness"
-    ],
-    [
       "hospital",
       3,
       "fear"
@@ -96,6 +91,11 @@
       "peace",
       3,
       "joy"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
     ],
     [
       "fires",
@@ -148,14 +148,14 @@
       "surprise"
     ],
     [
-      "warfare",
-      2,
-      "anger"
-    ],
-    [
       "university",
       2,
       "anticipation"
+    ],
+    [
+      "american",
+      2,
+      "sadness"
     ],
     [
       "planes",
@@ -221,6 +221,21 @@
       "ashes",
       2,
       "sadness"
+    ],
+    [
+      "lost",
+      1,
+      "sadness"
+    ],
+    [
+      "gained",
+      1,
+      "joy"
+    ],
+    [
+      "food",
+      1,
+      "joy"
     ],
     [
       "canceled",
@@ -348,11 +363,6 @@
       "anger"
     ],
     [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
       "throttling",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "global",
       1,
       "anticipation"
-    ],
-    [
-      "terror",
-      1,
-      "fear"
-    ],
-    [
-      "massacring",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
+    "joy": 19,
     "trust": 73,
-    "fear": 46,
-    "surprise": 11,
+    "fear": 45,
+    "surprise": 12,
     "sadness": 16,
     "disgust": 6,
-    "anger": 81,
+    "anger": 76,
     "anticipation": 30
   }
 }
