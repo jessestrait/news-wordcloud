@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:13:55.548Z",
+  "generated_at": "2026-11-14T01:28:57.421Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "trust"
     ],
     [
+      "official",
+      4,
+      "trust"
+    ],
+    [
       "law",
       4,
       "trust"
@@ -53,6 +58,11 @@
       "trust"
     ],
     [
+      "continues",
+      3,
+      "trust"
+    ],
+    [
       "warns",
       3,
       "fear"
@@ -61,11 +71,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "official",
-      3,
-      "trust"
     ],
     [
       "hospital",
@@ -93,9 +98,9 @@
       "fear"
     ],
     [
-      "delays",
+      "public",
       2,
-      "anger"
+      "anticipation"
     ],
     [
       "policy",
@@ -186,11 +191,6 @@
       "power",
       2,
       "anticipation"
-    ],
-    [
-      "continues",
-      2,
-      "trust"
     ],
     [
       "fight",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 65,
+    "trust": 67,
     "fear": 52,
     "surprise": 8,
     "sadness": 14,
     "disgust": 6,
-    "anger": 84,
-    "anticipation": 26
+    "anger": 83,
+    "anticipation": 27
   }
 }
