@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:44:14.518Z",
+  "generated_at": "2026-11-14T01:59:17.402Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "trust"
     ],
     [
-      "ground",
-      5,
-      "trust"
-    ],
-    [
       "attack",
       5,
       "anger"
@@ -33,9 +28,19 @@
       "anger"
     ],
     [
+      "ground",
+      4,
+      "trust"
+    ],
+    [
       "trump",
       4,
       "anger"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "law",
@@ -43,19 +48,39 @@
       "trust"
     ],
     [
+      "plan",
+      4,
+      "anticipation"
+    ],
+    [
+      "american",
+      3,
+      "sadness"
+    ],
+    [
+      "airports",
+      3,
+      "anticipation"
+    ],
+    [
       "warns",
       3,
       "fear"
     ],
     [
-      "happened",
+      "official",
       3,
-      "anticipation"
+      "trust"
     ],
     [
       "hospital",
       3,
       "fear"
+    ],
+    [
+      "system",
+      3,
+      "trust"
     ],
     [
       "peace",
@@ -68,19 +93,14 @@
       "trust"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "risk",
       3,
       "fear"
     ],
     [
-      "airports",
+      "delays",
       2,
-      "anticipation"
+      "anger"
     ],
     [
       "communication",
@@ -93,16 +113,6 @@
       "trust"
     ],
     [
-      "letters",
-      2,
-      "anticipation"
-    ],
-    [
-      "american",
-      2,
-      "sadness"
-    ],
-    [
       "books",
       2,
       "trust"
@@ -111,16 +121,6 @@
       "iran",
       2,
       "anger"
-    ],
-    [
-      "official",
-      2,
-      "trust"
-    ],
-    [
-      "system",
-      2,
-      "trust"
     ],
     [
       "restrictions",
@@ -248,9 +248,19 @@
       "fear"
     ],
     [
-      "departures",
+      "congress",
       1,
-      "sadness"
+      "disgust"
+    ],
+    [
+      "grounded",
+      1,
+      "fear"
+    ],
+    [
+      "grounding",
+      1,
+      "trust"
     ],
     [
       "delayed",
@@ -286,6 +296,11 @@
       "expect",
       1,
       "surprise"
+    ],
+    [
+      "letters",
+      1,
+      "anticipation"
     ],
     [
       "fighting",
@@ -361,31 +376,16 @@
       "blast",
       1,
       "anger"
-    ],
-    [
-      "falters",
-      1,
-      "fear"
-    ],
-    [
-      "shoot",
-      1,
-      "anger"
-    ],
-    [
-      "disconnected",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 63,
+    "trust": 65,
     "fear": 51,
-    "surprise": 8,
+    "surprise": 7,
     "sadness": 15,
-    "disgust": 6,
-    "anger": 82,
-    "anticipation": 27
+    "disgust": 7,
+    "anger": 83,
+    "anticipation": 29
   }
 }
