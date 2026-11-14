@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:20:44.633Z",
+  "generated_at": "2026-11-14T14:35:47.197Z",
   "article_count": 50,
   "top_words": [
     [
@@ -333,9 +333,14 @@
       "anticipation"
     ],
     [
-      "honest",
+      "lying",
       1,
       "anger"
+    ],
+    [
+      "deal",
+      1,
+      "surprise"
     ],
     [
       "throttling",
@@ -371,18 +376,13 @@
       "safe",
       1,
       "joy"
-    ],
-    [
-      "confidence",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
     "trust": 70,
     "fear": 49,
-    "surprise": 10,
+    "surprise": 11,
     "sadness": 16,
     "disgust": 6,
     "anger": 83,
