@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T03:15:06.064Z",
+  "generated_at": "2026-11-14T03:30:08.199Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "anger"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "system",
       4,
       "trust"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "continue",
@@ -228,16 +228,6 @@
       "anger"
     ],
     [
-      "suggest",
-      1,
-      "trust"
-    ],
-    [
-      "overwhelmed",
-      1,
-      "sadness"
-    ],
-    [
       "chaos",
       1,
       "anger"
@@ -251,6 +241,16 @@
       "scarce",
       1,
       "fear"
+    ],
+    [
+      "suggest",
+      1,
+      "trust"
+    ],
+    [
+      "overwhelmed",
+      1,
+      "sadness"
     ],
     [
       "delayed",
