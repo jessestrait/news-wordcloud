@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T04:58:01.359Z",
+  "generated_at": "2026-11-15T05:13:03.629Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,9 +88,9 @@
       "fear"
     ],
     [
-      "peace",
-      3,
-      "joy"
+      "class",
+      2,
+      "sadness"
     ],
     [
       "deal",
@@ -183,6 +183,11 @@
       "anger"
     ],
     [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
       "demands",
       2,
       "anger"
@@ -203,13 +208,23 @@
       "trust"
     ],
     [
-      "progress",
-      2,
-      "joy"
-    ],
-    [
       "leader",
       2,
+      "trust"
+    ],
+    [
+      "teachers",
+      1,
+      "trust"
+    ],
+    [
+      "lose",
+      1,
+      "anger"
+    ],
+    [
+      "patience",
+      1,
       "trust"
     ],
     [
@@ -361,29 +376,14 @@
       "rapid",
       1,
       "surprise"
-    ],
-    [
-      "legal",
-      1,
-      "trust"
-    ],
-    [
-      "changes",
-      1,
-      "fear"
-    ],
-    [
-      "wealth",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 80,
+    "joy": 17,
+    "trust": 82,
     "fear": 45,
     "surprise": 12,
-    "sadness": 12,
+    "sadness": 14,
     "disgust": 6,
     "anger": 78,
     "anticipation": 30
