@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T03:57:35.964Z",
+  "generated_at": "2026-11-15T04:12:38.363Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "trust"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "official",
       5,
       "trust"
@@ -53,6 +48,11 @@
       "anger"
     ],
     [
+      "happened",
+      4,
+      "anticipation"
+    ],
+    [
       "continue",
       4,
       "trust"
@@ -61,6 +61,11 @@
       "attack",
       4,
       "anger"
+    ],
+    [
+      "world",
+      3,
+      "trust"
     ],
     [
       "chaos",
@@ -101,11 +106,6 @@
       "devastating",
       2,
       "anger"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "abortion",
@@ -188,11 +188,6 @@
       "anger"
     ],
     [
-      "second",
-      2,
-      "trust"
-    ],
-    [
       "bunker",
       2,
       "fear"
@@ -211,6 +206,26 @@
       "progress",
       2,
       "joy"
+    ],
+    [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
+      "diplomatic",
+      1,
+      "trust"
+    ],
+    [
+      "tussle",
+      1,
+      "anger"
+    ],
+    [
+      "trade",
+      1,
+      "trust"
     ],
     [
       "ready",
@@ -361,31 +376,16 @@
       "wealth",
       1,
       "anticipation"
-    ],
-    [
-      "measles",
-      1,
-      "fear"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
-      "risks",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 77,
+    "trust": 80,
     "fear": 45,
-    "surprise": 13,
+    "surprise": 12,
     "sadness": 12,
     "disgust": 6,
-    "anger": 77,
-    "anticipation": 31
+    "anger": 78,
+    "anticipation": 30
   }
 }
