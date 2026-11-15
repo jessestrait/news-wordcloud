@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:33:01.801Z",
+  "generated_at": "2026-11-15T14:48:03.962Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,12 +98,12 @@
       "fear"
     ],
     [
-      "bad",
+      "condemn",
       2,
       "anger"
     ],
     [
-      "condemn",
+      "bad",
       2,
       "anger"
     ],
@@ -228,16 +228,6 @@
       "fear"
     ],
     [
-      "luck",
-      1,
-      "surprise"
-    ],
-    [
-      "electric",
-      1,
-      "surprise"
-    ],
-    [
       "middle",
       1,
       "sadness"
@@ -251,6 +241,16 @@
       "home",
       1,
       "joy"
+    ],
+    [
+      "luck",
+      1,
+      "surprise"
+    ],
+    [
+      "electric",
+      1,
+      "surprise"
     ],
     [
       "ambassadors",
