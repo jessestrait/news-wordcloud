@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:33:51.899Z",
+  "generated_at": "2026-11-15T16:48:54.058Z",
   "article_count": 50,
   "top_words": [
     [
@@ -60,6 +60,11 @@
     [
       "official",
       4,
+      "trust"
+    ],
+    [
+      "people",
+      3,
       "trust"
     ],
     [
@@ -136,11 +141,6 @@
       "devastating",
       2,
       "anger"
-    ],
-    [
-      "people",
-      2,
-      "trust"
     ],
     [
       "abortion",
@@ -223,6 +223,26 @@
       "fear"
     ],
     [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "freedom",
+      1,
+      "joy"
+    ],
+    [
+      "fees",
+      1,
+      "anger"
+    ],
+    [
+      "budget",
+      1,
+      "trust"
+    ],
+    [
       "lies",
       1,
       "anger"
@@ -261,36 +281,6 @@
       "warnings",
       1,
       "fear"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "history",
-      1,
-      "trust"
-    ],
-    [
-      "fees",
-      1,
-      "anger"
-    ],
-    [
-      "budget",
-      1,
-      "trust"
     ],
     [
       "top",
@@ -376,6 +366,16 @@
       "exchange",
       1,
       "trust"
+    ],
+    [
+      "guarantees",
+      1,
+      "trust"
+    ],
+    [
+      "routine",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
@@ -386,6 +386,6 @@
     "sadness": 14,
     "disgust": 6,
     "anger": 85,
-    "anticipation": 31
+    "anticipation": 30
   }
 }
