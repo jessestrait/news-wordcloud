@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-15T03:27:11.751Z",
+  "generated_at": "2026-11-15T03:42:13.881Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      8,
+      9,
       "anger"
     ],
     [
       "president",
-      7,
+      8,
       "trust"
     ],
     [
@@ -33,11 +33,6 @@
       "trust"
     ],
     [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
       "happened",
       5,
       "anticipation"
@@ -51,6 +46,11 @@
       "warn",
       4,
       "fear"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
     ],
     [
       "continue",
@@ -71,11 +71,6 @@
       "people",
       3,
       "trust"
-    ],
-    [
-      "government",
-      3,
-      "fear"
     ],
     [
       "airport",
@@ -133,9 +128,9 @@
       "anticipation"
     ],
     [
-      "betrayal",
+      "government",
       2,
-      "anger"
+      "fear"
     ],
     [
       "seeking",
@@ -216,6 +211,21 @@
       "progress",
       2,
       "joy"
+    ],
+    [
+      "ready",
+      1,
+      "anticipation"
+    ],
+    [
+      "exchange",
+      1,
+      "trust"
+    ],
+    [
+      "guarantees",
+      1,
+      "trust"
     ],
     [
       "routine",
@@ -366,26 +376,16 @@
       "risks",
       1,
       "fear"
-    ],
-    [
-      "condemns",
-      1,
-      "anger"
-    ],
-    [
-      "hopeful",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 75,
-    "fear": 46,
+    "trust": 77,
+    "fear": 45,
     "surprise": 13,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 6,
-    "anger": 79,
-    "anticipation": 30
+    "anger": 77,
+    "anticipation": 31
   }
 }
