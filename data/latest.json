@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:00:35.453Z",
+  "generated_at": "2026-11-15T10:15:37.955Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "president",
       8,
       "trust"
-    ],
-    [
-      "military",
-      6,
-      "fear"
     ],
     [
       "ground",
@@ -33,9 +28,14 @@
       "trust"
     ],
     [
-      "official",
+      "military",
       5,
-      "trust"
+      "fear"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
     ],
     [
       "world",
@@ -48,19 +48,9 @@
       "fear"
     ],
     [
-      "trump",
-      4,
-      "anger"
-    ],
-    [
       "happened",
       4,
       "anticipation"
-    ],
-    [
-      "continue",
-      4,
-      "trust"
     ],
     [
       "attack",
@@ -68,7 +58,17 @@
       "anger"
     ],
     [
+      "official",
+      4,
+      "trust"
+    ],
+    [
       "chaos",
+      3,
+      "anger"
+    ],
+    [
+      "trump",
       3,
       "anger"
     ],
@@ -76,6 +76,11 @@
       "airport",
       3,
       "anticipation"
+    ],
+    [
+      "continue",
+      3,
+      "trust"
     ],
     [
       "hospital",
@@ -188,11 +193,6 @@
       "trust"
     ],
     [
-      "iran",
-      2,
-      "anger"
-    ],
-    [
       "peace",
       2,
       "joy"
@@ -221,6 +221,21 @@
       "leader",
       2,
       "trust"
+    ],
+    [
+      "middle",
+      1,
+      "sadness"
+    ],
+    [
+      "lies",
+      1,
+      "anger"
+    ],
+    [
+      "home",
+      1,
+      "joy"
     ],
     [
       "top",
@@ -361,29 +376,14 @@
       "placards",
       1,
       "surprise"
-    ],
-    [
-      "lost",
-      1,
-      "sadness"
-    ],
-    [
-      "gained",
-      1,
-      "joy"
-    ],
-    [
-      "food",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 83,
-    "fear": 49,
+    "joy": 18,
+    "trust": 79,
+    "fear": 47,
     "surprise": 12,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 5,
     "anger": 81,
     "anticipation": 30
