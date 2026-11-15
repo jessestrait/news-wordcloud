@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:16:06.948Z",
+  "generated_at": "2026-11-15T11:31:09.418Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,11 +18,6 @@
       "trust"
     ],
     [
-      "strike",
-      6,
-      "anger"
-    ],
-    [
       "system",
       5,
       "trust"
@@ -33,9 +28,19 @@
       "fear"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
       "iran",
       4,
       "anger"
+    ],
+    [
+      "plan",
+      4,
+      "anticipation"
     ],
     [
       "world",
@@ -86,6 +91,11 @@
       "hospital",
       3,
       "fear"
+    ],
+    [
+      "expected",
+      2,
+      "anticipation"
     ],
     [
       "court",
@@ -168,11 +178,6 @@
       "sadness"
     ],
     [
-      "planes",
-      2,
-      "anticipation"
-    ],
-    [
       "suggest",
       2,
       "trust"
@@ -236,6 +241,31 @@
       "home",
       1,
       "joy"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "freedom",
+      1,
+      "joy"
+    ],
+    [
+      "history",
+      1,
+      "trust"
+    ],
+    [
+      "fees",
+      1,
+      "anger"
+    ],
+    [
+      "budget",
+      1,
+      "trust"
     ],
     [
       "top",
@@ -346,46 +376,16 @@
       "ageing",
       1,
       "anticipation"
-    ],
-    [
-      "grounding",
-      1,
-      "trust"
-    ],
-    [
-      "protesters",
-      1,
-      "anger"
-    ],
-    [
-      "defy",
-      1,
-      "anger"
-    ],
-    [
-      "crackdown",
-      1,
-      "anger"
-    ],
-    [
-      "cop",
-      1,
-      "fear"
-    ],
-    [
-      "placards",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 18,
-    "trust": 79,
+    "joy": 17,
+    "trust": 80,
     "fear": 47,
     "surprise": 12,
     "sadness": 15,
-    "disgust": 5,
+    "disgust": 6,
     "anger": 81,
-    "anticipation": 30
+    "anticipation": 32
   }
 }
