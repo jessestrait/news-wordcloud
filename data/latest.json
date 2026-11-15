@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:21:47.419Z",
+  "generated_at": "2026-11-15T22:36:49.339Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "trust"
     ],
     [
+      "government",
+      3,
+      "fear"
+    ],
+    [
       "people",
       3,
       "trust"
@@ -83,6 +88,11 @@
       "anger"
     ],
     [
+      "abortion",
+      3,
+      "fear"
+    ],
+    [
       "airport",
       3,
       "anticipation"
@@ -101,11 +111,6 @@
       "gaza",
       2,
       "anger"
-    ],
-    [
-      "don",
-      2,
-      "trust"
     ],
     [
       "peace",
@@ -158,29 +163,9 @@
       "fear"
     ],
     [
-      "abortion",
-      2,
-      "fear"
-    ],
-    [
-      "doctor",
-      2,
-      "trust"
-    ],
-    [
-      "god",
-      2,
-      "surprise"
-    ],
-    [
       "public",
       2,
       "anticipation"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "trump",
@@ -233,14 +218,24 @@
       "fear"
     ],
     [
-      "authorities",
+      "prosecuted",
+      1,
+      "anger"
+    ],
+    [
+      "hail",
       1,
       "trust"
     ],
     [
-      "intelligence",
+      "receiving",
       1,
-      "fear"
+      "surprise"
+    ],
+    [
+      "pregnancies",
+      1,
+      "disgust"
     ],
     [
       "critical",
@@ -261,6 +256,21 @@
       "humanitarian",
       1,
       "surprise"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "intelligence",
+      1,
+      "fear"
+    ],
+    [
+      "don",
+      1,
+      "trust"
     ],
     [
       "ambassadors",
@@ -366,26 +376,16 @@
       "justice",
       1,
       "trust"
-    ],
-    [
-      "never",
-      1,
-      "fear"
-    ],
-    [
-      "guilty",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 15,
-    "trust": 83,
-    "fear": 52,
+    "joy": 14,
+    "trust": 81,
+    "fear": 54,
     "surprise": 14,
     "sadness": 14,
-    "disgust": 6,
-    "anger": 84,
+    "disgust": 7,
+    "anger": 83,
     "anticipation": 31
   }
 }
