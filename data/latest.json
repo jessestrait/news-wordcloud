@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:06:45.290Z",
+  "generated_at": "2026-11-15T22:21:47.419Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,11 +63,6 @@
       "trust"
     ],
     [
-      "don",
-      3,
-      "trust"
-    ],
-    [
       "people",
       3,
       "trust"
@@ -88,11 +83,6 @@
       "anger"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "airport",
       3,
       "anticipation"
@@ -108,9 +98,14 @@
       "fear"
     ],
     [
-      "intelligence",
+      "gaza",
       2,
-      "fear"
+      "anger"
+    ],
+    [
+      "don",
+      2,
+      "trust"
     ],
     [
       "peace",
@@ -188,6 +183,11 @@
       "fear"
     ],
     [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "seeking",
       2,
       "anticipation"
@@ -233,6 +233,36 @@
       "fear"
     ],
     [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "intelligence",
+      1,
+      "fear"
+    ],
+    [
+      "critical",
+      1,
+      "trust"
+    ],
+    [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
+      "flooding",
+      1,
+      "fear"
+    ],
+    [
+      "humanitarian",
+      1,
+      "surprise"
+    ],
+    [
       "ambassadors",
       1,
       "trust"
@@ -251,11 +281,6 @@
       "warnings",
       1,
       "fear"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
     ],
     [
       "media",
@@ -351,38 +376,13 @@
       "guilty",
       1,
       "anger"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "case",
-      1,
-      "fear"
-    ],
-    [
-      "teachers",
-      1,
-      "trust"
-    ],
-    [
-      "lose",
-      1,
-      "anger"
-    ],
-    [
-      "patience",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 15,
     "trust": 83,
     "fear": 52,
-    "surprise": 13,
+    "surprise": 14,
     "sadness": 14,
     "disgust": 6,
     "anger": 84,
