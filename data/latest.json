@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T05:58:26.201Z",
+  "generated_at": "2026-11-15T06:13:28.672Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,6 +38,11 @@
       "trust"
     ],
     [
+      "world",
+      4,
+      "trust"
+    ],
+    [
       "warn",
       4,
       "fear"
@@ -63,19 +68,9 @@
       "anger"
     ],
     [
-      "world",
-      3,
-      "trust"
-    ],
-    [
       "chaos",
       3,
       "anger"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "airport",
@@ -86,6 +81,16 @@
       "hospital",
       3,
       "fear"
+    ],
+    [
+      "court",
+      2,
+      "anger"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "class",
@@ -106,6 +111,11 @@
       "devastating",
       2,
       "anger"
+    ],
+    [
+      "people",
+      2,
+      "trust"
     ],
     [
       "abortion",
@@ -211,6 +221,46 @@
       "leader",
       2,
       "trust"
+    ],
+    [
+      "top",
+      1,
+      "trust"
+    ],
+    [
+      "rule",
+      1,
+      "fear"
+    ],
+    [
+      "committed",
+      1,
+      "trust"
+    ],
+    [
+      "justice",
+      1,
+      "trust"
+    ],
+    [
+      "never",
+      1,
+      "fear"
+    ],
+    [
+      "guilty",
+      1,
+      "anger"
+    ],
+    [
+      "ruling",
+      1,
+      "fear"
+    ],
+    [
+      "case",
+      1,
+      "fear"
     ],
     [
       "teachers",
@@ -326,66 +376,16 @@
       "food",
       1,
       "joy"
-    ],
-    [
-      "choking",
-      1,
-      "anger"
-    ],
-    [
-      "deadly",
-      1,
-      "anger"
-    ],
-    [
-      "floods",
-      1,
-      "fear"
-    ],
-    [
-      "unprecedented",
-      1,
-      "surprise"
-    ],
-    [
-      "fatal",
-      1,
-      "anger"
-    ],
-    [
-      "catastrophe",
-      1,
-      "anger"
-    ],
-    [
-      "faith",
-      1,
-      "joy"
-    ],
-    [
-      "forgiving",
-      1,
-      "trust"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
-    ],
-    [
-      "rapid",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 82,
-    "fear": 45,
+    "trust": 83,
+    "fear": 49,
     "surprise": 12,
     "sadness": 14,
-    "disgust": 6,
-    "anger": 78,
+    "disgust": 5,
+    "anger": 81,
     "anticipation": 30
   }
 }
