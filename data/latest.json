@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-15T18:19:51.564Z",
+  "generated_at": "2026-11-15T18:34:53.284Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      7,
+      9,
       "anger"
     ],
     [
@@ -63,6 +63,11 @@
       "trust"
     ],
     [
+      "people",
+      3,
+      "trust"
+    ],
+    [
       "iran",
       3,
       "anger"
@@ -71,11 +76,6 @@
       "found",
       3,
       "joy"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "don",
@@ -105,6 +105,11 @@
     [
       "hospital",
       3,
+      "fear"
+    ],
+    [
+      "intelligence",
+      2,
       "fear"
     ],
     [
@@ -228,6 +233,31 @@
       "fear"
     ],
     [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "media",
+      1,
+      "disgust"
+    ],
+    [
+      "freedom",
+      1,
+      "joy"
+    ],
+    [
+      "fees",
+      1,
+      "anger"
+    ],
+    [
+      "budget",
+      1,
+      "trust"
+    ],
+    [
       "launches",
       1,
       "anticipation"
@@ -249,26 +279,6 @@
     ],
     [
       "intelligent",
-      1,
-      "trust"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
-    ],
-    [
-      "fees",
-      1,
-      "anger"
-    ],
-    [
-      "budget",
       1,
       "trust"
     ],
@@ -366,26 +376,16 @@
       "patience",
       1,
       "trust"
-    ],
-    [
-      "leaders",
-      1,
-      "trust"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 15,
-    "trust": 82,
-    "fear": 51,
+    "trust": 83,
+    "fear": 52,
     "surprise": 13,
     "sadness": 14,
     "disgust": 6,
-    "anger": 82,
+    "anger": 84,
     "anticipation": 31
   }
 }
