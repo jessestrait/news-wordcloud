@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:32:45.335Z",
+  "generated_at": "2026-11-16T18:47:47.847Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,23 +8,18 @@
       "anger"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
       "military",
       6,
       "fear"
     ],
     [
-      "war",
-      6,
-      "anger"
-    ],
-    [
       "ground",
       6,
-      "trust"
-    ],
-    [
-      "world",
-      5,
       "trust"
     ],
     [
@@ -45,6 +40,21 @@
     [
       "strike",
       5,
+      "anger"
+    ],
+    [
+      "trump",
+      4,
+      "anger"
+    ],
+    [
+      "world",
+      4,
+      "trust"
+    ],
+    [
+      "iran",
+      4,
       "anger"
     ],
     [
@@ -73,19 +83,9 @@
       "trust"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "policy",
       3,
       "trust"
-    ],
-    [
-      "iran",
-      3,
-      "anger"
     ],
     [
       "chaos",
@@ -118,9 +118,9 @@
       "joy"
     ],
     [
-      "hope",
+      "trade",
       2,
-      "surprise"
+      "trust"
     ],
     [
       "demands",
@@ -231,11 +231,6 @@
       "books",
       2,
       "trust"
-    ],
-    [
-      "powers",
-      1,
-      "anticipation"
     ],
     [
       "challenges",
@@ -376,16 +371,21 @@
       "receiving",
       1,
       "surprise"
+    ],
+    [
+      "pregnancies",
+      1,
+      "disgust"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
     "trust": 83,
     "fear": 44,
-    "surprise": 15,
+    "surprise": 14,
     "sadness": 15,
     "disgust": 6,
-    "anger": 88,
-    "anticipation": 28
+    "anger": 91,
+    "anticipation": 27
   }
 }
