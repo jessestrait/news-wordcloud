@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:39:00.337Z",
+  "generated_at": "2026-11-16T02:54:03.003Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "war",
-      7,
+      8,
       "anger"
     ],
     [
       "president",
-      7,
+      8,
       "trust"
     ],
     [
@@ -40,6 +40,11 @@
     [
       "strike",
       5,
+      "anger"
+    ],
+    [
+      "restrictions",
+      4,
       "anger"
     ],
     [
@@ -101,16 +106,6 @@
       "continue",
       3,
       "trust"
-    ],
-    [
-      "hospital",
-      3,
-      "fear"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
     ],
     [
       "peace",
@@ -193,11 +188,6 @@
       "trust"
     ],
     [
-      "restrictions",
-      2,
-      "anger"
-    ],
-    [
       "policy",
       2,
       "trust"
@@ -216,6 +206,26 @@
       "bunker",
       2,
       "fear"
+    ],
+    [
+      "continuing",
+      1,
+      "trust"
+    ],
+    [
+      "criticisms",
+      1,
+      "anger"
+    ],
+    [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "continued",
+      1,
+      "trust"
     ],
     [
       "prosecuted",
@@ -241,6 +251,11 @@
       "critical",
       1,
       "trust"
+    ],
+    [
+      "gaza",
+      1,
+      "anger"
     ],
     [
       "statement",
@@ -361,31 +376,16 @@
       "top",
       1,
       "trust"
-    ],
-    [
-      "rule",
-      1,
-      "fear"
-    ],
-    [
-      "committed",
-      1,
-      "trust"
-    ],
-    [
-      "justice",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 14,
-    "trust": 81,
-    "fear": 54,
+    "trust": 84,
+    "fear": 50,
     "surprise": 14,
-    "sadness": 14,
+    "sadness": 13,
     "disgust": 7,
-    "anger": 83,
+    "anger": 85,
     "anticipation": 31
   }
 }
