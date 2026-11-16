@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:41:08.457Z",
+  "generated_at": "2026-11-16T06:56:11.640Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "president",
-      8,
+      7,
       "trust"
     ],
     [
@@ -78,11 +78,6 @@
       "trust"
     ],
     [
-      "demands",
-      3,
-      "anger"
-    ],
-    [
       "iran",
       3,
       "anger"
@@ -116,6 +111,11 @@
       "death",
       2,
       "sadness"
+    ],
+    [
+      "demands",
+      2,
+      "anger"
     ],
     [
       "justice",
@@ -211,6 +211,11 @@
       "suggest",
       2,
       "trust"
+    ],
+    [
+      "feeling",
+      2,
+      "anger"
     ],
     [
       "policy",
@@ -371,16 +376,11 @@
       "launches",
       1,
       "anticipation"
-    ],
-    [
-      "base",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 12,
-    "trust": 89,
+    "trust": 88,
     "fear": 50,
     "surprise": 14,
     "sadness": 15,
