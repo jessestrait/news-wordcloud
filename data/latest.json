@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:17:28.301Z",
+  "generated_at": "2026-11-16T18:32:30.099Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,14 +73,14 @@
       "trust"
     ],
     [
-      "policy",
-      3,
-      "trust"
-    ],
-    [
       "trump",
       3,
       "anger"
+    ],
+    [
+      "policy",
+      3,
+      "trust"
     ],
     [
       "iran",
@@ -233,6 +233,11 @@
       "trust"
     ],
     [
+      "powers",
+      1,
+      "anticipation"
+    ],
+    [
       "challenges",
       1,
       "anger"
@@ -261,11 +266,6 @@
       "amnesty",
       1,
       "joy"
-    ],
-    [
-      "powers",
-      1,
-      "anticipation"
     ],
     [
       "inspire",
