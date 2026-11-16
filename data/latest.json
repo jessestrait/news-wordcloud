@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T04:55:20.479Z",
+  "generated_at": "2026-11-16T05:10:22.859Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,6 +26,11 @@
       "ground",
       6,
       "trust"
+    ],
+    [
+      "government",
+      5,
+      "fear"
     ],
     [
       "system",
@@ -78,11 +83,6 @@
       "anger"
     ],
     [
-      "government",
-      3,
-      "fear"
-    ],
-    [
       "iran",
       3,
       "anger"
@@ -111,6 +111,11 @@
       "continue",
       3,
       "trust"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
     ],
     [
       "justice",
@@ -221,6 +226,11 @@
       "bunker",
       2,
       "fear"
+    ],
+    [
+      "general",
+      1,
+      "trust"
     ],
     [
       "continuing",
@@ -366,25 +376,15 @@
       "base",
       1,
       "trust"
-    ],
-    [
-      "doubt",
-      1,
-      "fear"
-    ],
-    [
-      "cowards",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 14,
-    "trust": 88,
-    "fear": 51,
+    "joy": 12,
+    "trust": 89,
+    "fear": 50,
     "surprise": 14,
-    "sadness": 14,
-    "disgust": 7,
+    "sadness": 15,
+    "disgust": 6,
     "anger": 86,
     "anticipation": 29
   }
