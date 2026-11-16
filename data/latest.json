@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T12:44:27.900Z",
+  "generated_at": "2026-11-16T12:59:29.991Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,12 +14,17 @@
     ],
     [
       "war",
-      7,
+      6,
       "anger"
     ],
     [
       "ground",
       6,
+      "trust"
+    ],
+    [
+      "people",
+      5,
       "trust"
     ],
     [
@@ -48,11 +53,6 @@
       "anger"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
       "plan",
       4,
       "anticipation"
@@ -63,19 +63,9 @@
       "anticipation"
     ],
     [
-      "warn",
-      4,
-      "fear"
-    ],
-    [
       "official",
       4,
       "trust"
-    ],
-    [
-      "demands",
-      3,
-      "anger"
     ],
     [
       "iran",
@@ -103,6 +93,11 @@
       "fear"
     ],
     [
+      "warn",
+      3,
+      "fear"
+    ],
+    [
       "airport",
       3,
       "anticipation"
@@ -111,6 +106,11 @@
       "continue",
       3,
       "trust"
+    ],
+    [
+      "demands",
+      2,
+      "anger"
     ],
     [
       "gaza",
@@ -146,11 +146,6 @@
       "pontiff",
       2,
       "trust"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "risk",
@@ -193,11 +188,6 @@
       "surprise"
     ],
     [
-      "fires",
-      2,
-      "fear"
-    ],
-    [
       "trump",
       2,
       "anger"
@@ -236,6 +226,41 @@
       "books",
       2,
       "trust"
+    ],
+    [
+      "inspire",
+      1,
+      "joy"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "shows",
+      1,
+      "trust"
+    ],
+    [
+      "intimidation",
+      1,
+      "anger"
+    ],
+    [
+      "remove",
+      1,
+      "anger"
+    ],
+    [
+      "hits",
+      1,
+      "anger"
+    ],
+    [
+      "restricted",
+      1,
+      "sadness"
     ],
     [
       "track",
@@ -351,41 +376,16 @@
       "ambassadors",
       1,
       "trust"
-    ],
-    [
-      "powerful",
-      1,
-      "anger"
-    ],
-    [
-      "solidarity",
-      1,
-      "trust"
-    ],
-    [
-      "warnings",
-      1,
-      "fear"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 13,
-    "trust": 84,
-    "fear": 48,
+    "trust": 85,
+    "fear": 44,
     "surprise": 14,
-    "sadness": 15,
-    "disgust": 8,
-    "anger": 84,
+    "sadness": 16,
+    "disgust": 7,
+    "anger": 86,
     "anticipation": 28
   }
 }
