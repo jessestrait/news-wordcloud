@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-11-16T19:18:12.929Z",
+  "generated_at": "2026-11-16T19:33:15.705Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
       8,
       "anger"
-    ],
-    [
-      "ground",
-      7,
-      "trust"
     ],
     [
       "war",
@@ -21,6 +16,11 @@
       "military",
       6,
       "fear"
+    ],
+    [
+      "ground",
+      6,
+      "trust"
     ],
     [
       "government",
@@ -111,6 +111,16 @@
       "continue",
       3,
       "trust"
+    ],
+    [
+      "anti",
+      2,
+      "anger"
+    ],
+    [
+      "forces",
+      2,
+      "anger"
     ],
     [
       "peace",
@@ -233,34 +243,19 @@
       "trust"
     ],
     [
-      "challenged",
-      1,
-      "anger"
-    ],
-    [
-      "allies",
-      1,
-      "trust"
-    ],
-    [
       "strategy",
       1,
       "anticipation"
     ],
     [
-      "forces",
+      "challenged",
       1,
       "anger"
     ],
     [
-      "steady",
+      "accusations",
       1,
-      "surprise"
-    ],
-    [
-      "gains",
-      1,
-      "joy"
+      "anger"
     ],
     [
       "challenges",
@@ -296,11 +291,6 @@
       "inspire",
       1,
       "joy"
-    ],
-    [
-      "anti",
-      1,
-      "anger"
     ],
     [
       "shows",
@@ -376,16 +366,26 @@
       "brothers",
       1,
       "trust"
+    ],
+    [
+      "cries",
+      1,
+      "sadness"
+    ],
+    [
+      "protecting",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 14,
-    "trust": 83,
+    "joy": 13,
+    "trust": 81,
     "fear": 42,
-    "surprise": 15,
+    "surprise": 14,
     "sadness": 15,
     "disgust": 6,
-    "anger": 90,
+    "anger": 93,
     "anticipation": 28
   }
 }
