@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T16:16:36.778Z",
+  "generated_at": "2026-11-16T16:31:39.108Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,14 +28,14 @@
       "trust"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "government",
       5,
       "fear"
+    ],
+    [
+      "plan",
+      5,
+      "anticipation"
     ],
     [
       "system",
@@ -48,6 +48,11 @@
       "anger"
     ],
     [
+      "people",
+      4,
+      "trust"
+    ],
+    [
       "restrictions",
       4,
       "anger"
@@ -58,11 +63,6 @@
       "trust"
     ],
     [
-      "plan",
-      4,
-      "anticipation"
-    ],
-    [
       "happened",
       4,
       "anticipation"
@@ -70,6 +70,11 @@
     [
       "official",
       4,
+      "trust"
+    ],
+    [
+      "policy",
+      3,
       "trust"
     ],
     [
@@ -203,11 +208,6 @@
       "surprise"
     ],
     [
-      "seeking",
-      2,
-      "anticipation"
-    ],
-    [
       "university",
       2,
       "anticipation"
@@ -228,14 +228,29 @@
       "anger"
     ],
     [
-      "policy",
+      "books",
       2,
       "trust"
     ],
     [
-      "books",
-      2,
-      "trust"
+      "challenges",
+      1,
+      "anger"
+    ],
+    [
+      "grave",
+      1,
+      "fear"
+    ],
+    [
+      "moral",
+      1,
+      "anger"
+    ],
+    [
+      "failing",
+      1,
+      "anger"
     ],
     [
       "obituary",
@@ -361,31 +376,16 @@
       "receiving",
       1,
       "surprise"
-    ],
-    [
-      "pregnancies",
-      1,
-      "disgust"
-    ],
-    [
-      "critical",
-      1,
-      "trust"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 14,
-    "trust": 84,
-    "fear": 43,
+    "joy": 13,
+    "trust": 83,
+    "fear": 44,
     "surprise": 15,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 6,
-    "anger": 85,
-    "anticipation": 29
+    "anger": 88,
+    "anticipation": 28
   }
 }
