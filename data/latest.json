@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:44:52.725Z",
+  "generated_at": "2026-11-16T13:59:55.238Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "trust"
     ],
     [
+      "world",
+      5,
+      "trust"
+    ],
+    [
       "people",
       5,
       "trust"
@@ -31,11 +36,6 @@
       "government",
       5,
       "fear"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "system",
@@ -53,6 +53,11 @@
       "anger"
     ],
     [
+      "president",
+      4,
+      "trust"
+    ],
+    [
       "plan",
       4,
       "anticipation"
@@ -68,6 +73,11 @@
       "trust"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "iran",
       3,
       "anger"
@@ -76,11 +86,6 @@
       "found",
       3,
       "joy"
-    ],
-    [
-      "world",
-      3,
-      "trust"
     ],
     [
       "chaos",
@@ -106,6 +111,16 @@
       "continue",
       3,
       "trust"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
+      "hope",
+      2,
+      "surprise"
     ],
     [
       "demands",
@@ -188,11 +203,6 @@
       "surprise"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "seeking",
       2,
       "anticipation"
@@ -226,6 +236,11 @@
       "books",
       2,
       "trust"
+    ],
+    [
+      "powers",
+      1,
+      "anticipation"
     ],
     [
       "inspire",
@@ -361,31 +376,16 @@
       "humanitarian",
       1,
       "surprise"
-    ],
-    [
-      "intelligence",
-      1,
-      "fear"
-    ],
-    [
-      "don",
-      1,
-      "trust"
-    ],
-    [
-      "ambassadors",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 13,
+    "joy": 14,
     "trust": 85,
     "fear": 44,
-    "surprise": 14,
+    "surprise": 15,
     "sadness": 16,
     "disgust": 7,
-    "anger": 86,
-    "anticipation": 28
+    "anger": 87,
+    "anticipation": 29
   }
 }
