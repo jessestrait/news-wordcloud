@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:30:17.054Z",
+  "generated_at": "2026-11-16T14:45:19.308Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "military",
-      7,
+      6,
       "fear"
     ],
     [
@@ -81,11 +81,6 @@
       "iran",
       3,
       "anger"
-    ],
-    [
-      "found",
-      3,
-      "joy"
     ],
     [
       "chaos",
@@ -178,6 +173,11 @@
       "anticipation"
     ],
     [
+      "found",
+      2,
+      "joy"
+    ],
+    [
       "condemn",
       2,
       "anger"
@@ -236,6 +236,16 @@
       "books",
       2,
       "trust"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
+    ],
+    [
+      "amnesty",
+      1,
+      "joy"
     ],
     [
       "powers",
@@ -366,26 +376,16 @@
       "statement",
       1,
       "trust"
-    ],
-    [
-      "flooding",
-      1,
-      "fear"
-    ],
-    [
-      "humanitarian",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 14,
-    "trust": 85,
-    "fear": 44,
+    "trust": 84,
+    "fear": 43,
     "surprise": 15,
     "sadness": 16,
-    "disgust": 7,
-    "anger": 87,
+    "disgust": 6,
+    "anger": 85,
     "anticipation": 29
   }
 }
