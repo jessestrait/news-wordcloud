@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:57:25.914Z",
+  "generated_at": "2026-11-17T14:12:28.556Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "fear"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
       "trump",
       5,
       "anger"
@@ -31,11 +36,6 @@
       "president",
       5,
       "trust"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
     ],
     [
       "iran",
@@ -48,9 +48,9 @@
       "trust"
     ],
     [
-      "plan",
-      4,
-      "anticipation"
+      "unprecedented",
+      3,
+      "surprise"
     ],
     [
       "happened",
@@ -64,11 +64,6 @@
     ],
     [
       "deal",
-      3,
-      "surprise"
-    ],
-    [
-      "unprecedented",
       3,
       "surprise"
     ],
@@ -93,14 +88,29 @@
       "fear"
     ],
     [
+      "plan",
+      3,
+      "anticipation"
+    ],
+    [
       "abortion",
       3,
       "fear"
     ],
     [
-      "american",
+      "praises",
       2,
-      "sadness"
+      "joy"
+    ],
+    [
+      "pay",
+      2,
+      "joy"
+    ],
+    [
+      "top",
+      2,
+      "trust"
     ],
     [
       "arrives",
@@ -111,11 +121,6 @@
       "pact",
       2,
       "trust"
-    ],
-    [
-      "praises",
-      2,
-      "joy"
     ],
     [
       "global",
@@ -263,14 +268,24 @@
       "anger"
     ],
     [
-      "airport",
+      "university",
       2,
       "anticipation"
     ],
     [
-      "university",
-      2,
-      "anticipation"
+      "falls",
+      1,
+      "sadness"
+    ],
+    [
+      "dominate",
+      1,
+      "anger"
+    ],
+    [
+      "equality",
+      1,
+      "joy"
     ],
     [
       "arrival",
@@ -281,6 +296,11 @@
       "tariffs",
       1,
       "anger"
+    ],
+    [
+      "american",
+      1,
+      "sadness"
     ],
     [
       "damages",
@@ -356,36 +376,16 @@
       "guaranteed",
       1,
       "trust"
-    ],
-    [
-      "attacked",
-      1,
-      "anger"
-    ],
-    [
-      "pay",
-      1,
-      "joy"
-    ],
-    [
-      "devastation",
-      1,
-      "anger"
-    ],
-    [
-      "chance",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
-    "trust": 73,
-    "fear": 39,
+    "joy": 21,
+    "trust": 74,
+    "fear": 38,
     "surprise": 18,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 5,
     "anger": 96,
-    "anticipation": 31
+    "anticipation": 29
   }
 }
