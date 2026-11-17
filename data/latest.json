@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:13:40.324Z",
+  "generated_at": "2026-11-17T16:28:42.881Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,6 +18,11 @@
       "trust"
     ],
     [
+      "president",
+      6,
+      "trust"
+    ],
+    [
       "trump",
       6,
       "anger"
@@ -28,29 +33,19 @@
       "fear"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
       "iran",
       5,
       "anger"
     ],
     [
-      "president",
-      5,
-      "trust"
+      "strikes",
+      4,
+      "anger"
     ],
     [
       "world",
       4,
       "trust"
-    ],
-    [
-      "unprecedented",
-      3,
-      "surprise"
     ],
     [
       "officials",
@@ -61,11 +56,6 @@
       "continue",
       3,
       "trust"
-    ],
-    [
-      "happened",
-      3,
-      "anticipation"
     ],
     [
       "trade",
@@ -88,11 +78,6 @@
       "anger"
     ],
     [
-      "chaos",
-      3,
-      "anger"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -108,9 +93,9 @@
       "fear"
     ],
     [
-      "praises",
+      "missiles",
       2,
-      "joy"
+      "fear"
     ],
     [
       "bomb",
@@ -128,6 +113,11 @@
       "trust"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "arrives",
       2,
       "anticipation"
@@ -138,9 +128,19 @@
       "trust"
     ],
     [
+      "unprecedented",
+      2,
+      "surprise"
+    ],
+    [
       "global",
       2,
       "anticipation"
+    ],
+    [
+      "chaos",
+      2,
+      "anger"
     ],
     [
       "crackdown",
@@ -213,11 +213,6 @@
       "trust"
     ],
     [
-      "hail",
-      2,
-      "trust"
-    ],
-    [
       "media",
       2,
       "disgust"
@@ -271,6 +266,26 @@
       "fee",
       2,
       "anger"
+    ],
+    [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
+      "deliveries",
+      1,
+      "anticipation"
+    ],
+    [
+      "delay",
+      1,
+      "anger"
+    ],
+    [
+      "happening",
+      1,
+      "anticipation"
     ],
     [
       "credible",
@@ -333,6 +348,11 @@
       "sadness"
     ],
     [
+      "praises",
+      1,
+      "joy"
+    ],
+    [
       "triumph",
       1,
       "joy"
@@ -356,36 +376,16 @@
       "bank",
       1,
       "trust"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
-    ],
-    [
-      "refused",
-      1,
-      "sadness"
-    ],
-    [
-      "confident",
-      1,
-      "joy"
-    ],
-    [
-      "power",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
+    "joy": 20,
     "trust": 76,
-    "fear": 37,
-    "surprise": 18,
+    "fear": 39,
+    "surprise": 17,
     "sadness": 14,
     "disgust": 6,
-    "anger": 101,
+    "anger": 100,
     "anticipation": 28
   }
 }
