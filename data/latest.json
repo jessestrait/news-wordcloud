@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:40:29.809Z",
+  "generated_at": "2026-11-17T09:55:32.423Z",
   "article_count": 50,
   "top_words": [
     [
@@ -118,14 +118,14 @@
       "trust"
     ],
     [
-      "damage",
-      2,
-      "anger"
-    ],
-    [
       "critical",
       2,
       "trust"
+    ],
+    [
+      "damage",
+      2,
+      "anger"
     ],
     [
       "young",
@@ -243,14 +243,14 @@
       "fear"
     ],
     [
-      "dispute",
-      1,
-      "anger"
-    ],
-    [
       "await",
       1,
       "anticipation"
+    ],
+    [
+      "dispute",
+      1,
+      "anger"
     ],
     [
       "illegal",
