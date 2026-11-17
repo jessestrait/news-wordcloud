@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:47:16.050Z",
+  "generated_at": "2026-11-17T23:02:18.613Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,11 @@
       "fear"
     ],
     [
+      "deal",
+      3,
+      "surprise"
+    ],
+    [
       "hit",
       3,
       "anger"
@@ -56,11 +61,6 @@
       "bank",
       3,
       "trust"
-    ],
-    [
-      "young",
-      3,
-      "surprise"
     ],
     [
       "military",
@@ -91,6 +91,11 @@
       "world",
       3,
       "trust"
+    ],
+    [
+      "launch",
+      2,
+      "anticipation"
     ],
     [
       "threats",
@@ -153,11 +158,6 @@
       "trust"
     ],
     [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
       "arrives",
       2,
       "anticipation"
@@ -181,6 +181,11 @@
       "diplomatic",
       2,
       "trust"
+    ],
+    [
+      "young",
+      2,
+      "surprise"
     ],
     [
       "leader",
@@ -253,6 +258,26 @@
       "sadness"
     ],
     [
+      "youth",
+      1,
+      "anger"
+    ],
+    [
+      "fully",
+      1,
+      "trust"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "sealed",
+      1,
+      "trust"
+    ],
+    [
       "nations",
       1,
       "trust"
@@ -296,21 +321,6 @@
       "possibility",
       1,
       "anticipation"
-    ],
-    [
-      "youth",
-      1,
-      "anger"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "sealed",
-      1,
-      "trust"
     ],
     [
       "joy",
@@ -366,26 +376,16 @@
       "fraud",
       1,
       "anger"
-    ],
-    [
-      "allegations",
-      1,
-      "anger"
-    ],
-    [
-      "faltering",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 77,
+    "trust": 78,
     "fear": 33,
     "surprise": 15,
     "sadness": 13,
     "disgust": 6,
     "anger": 102,
-    "anticipation": 25
+    "anticipation": 26
   }
 }
