@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-11-17T09:55:32.423Z",
+  "generated_at": "2026-11-17T10:10:35.092Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      8,
-      "anger"
-    ],
-    [
-      "war",
       8,
       "anger"
     ],
@@ -18,19 +13,29 @@
       "trust"
     ],
     [
+      "war",
+      7,
+      "anger"
+    ],
+    [
       "trump",
       6,
       "anger"
     ],
     [
-      "president",
-      6,
-      "trust"
-    ],
-    [
       "government",
       6,
       "fear"
+    ],
+    [
+      "president",
+      5,
+      "trust"
+    ],
+    [
+      "chaos",
+      4,
+      "anger"
     ],
     [
       "iran",
@@ -58,6 +63,11 @@
       "trust"
     ],
     [
+      "illegal",
+      3,
+      "anger"
+    ],
+    [
       "suggest",
       3,
       "trust"
@@ -78,27 +88,12 @@
       "fear"
     ],
     [
-      "restrictions",
-      3,
-      "anger"
-    ],
-    [
       "happened",
       3,
       "anticipation"
     ],
     [
       "officials",
-      3,
-      "trust"
-    ],
-    [
-      "chaos",
-      3,
-      "anger"
-    ],
-    [
-      "system",
       3,
       "trust"
     ],
@@ -113,12 +108,22 @@
       "anticipation"
     ],
     [
-      "continue",
-      3,
-      "trust"
+      "arrival",
+      2,
+      "anticipation"
     ],
     [
       "critical",
+      2,
+      "trust"
+    ],
+    [
+      "crackdown",
+      2,
+      "anger"
+    ],
+    [
+      "diplomatic",
       2,
       "trust"
     ],
@@ -178,6 +183,11 @@
       "sadness"
     ],
     [
+      "restrictions",
+      2,
+      "anger"
+    ],
+    [
       "justice",
       2,
       "trust"
@@ -208,11 +218,6 @@
       "anger"
     ],
     [
-      "bad",
-      2,
-      "anger"
-    ],
-    [
       "court",
       2,
       "anger"
@@ -221,6 +226,16 @@
       "class",
       2,
       "sadness"
+    ],
+    [
+      "continues",
+      2,
+      "trust"
+    ],
+    [
+      "system",
+      2,
+      "trust"
     ],
     [
       "deal",
@@ -243,17 +258,12 @@
       "fear"
     ],
     [
-      "await",
-      1,
-      "anticipation"
-    ],
-    [
-      "dispute",
+      "tensions",
       1,
       "anger"
     ],
     [
-      "illegal",
+      "dispute",
       1,
       "anger"
     ],
@@ -281,11 +291,6 @@
       "pact",
       1,
       "trust"
-    ],
-    [
-      "arrival",
-      1,
-      "anticipation"
     ],
     [
       "triumph",
@@ -371,21 +376,16 @@
       "accusations",
       1,
       "anger"
-    ],
-    [
-      "obituary",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 15,
-    "trust": 82,
+    "trust": 80,
     "fear": 39,
     "surprise": 16,
     "sadness": 13,
     "disgust": 4,
-    "anger": 99,
+    "anger": 101,
     "anticipation": 27
   }
 }
