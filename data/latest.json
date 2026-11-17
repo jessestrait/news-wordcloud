@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:44:29.846Z",
+  "generated_at": "2026-11-17T17:59:32.631Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "trust"
     ],
     [
-      "government",
-      6,
-      "fear"
-    ],
-    [
       "iran",
       5,
       "anger"
@@ -35,6 +30,16 @@
     [
       "war",
       5,
+      "anger"
+    ],
+    [
+      "government",
+      5,
+      "fear"
+    ],
+    [
+      "anti",
+      4,
       "anger"
     ],
     [
@@ -83,24 +88,19 @@
       "anger"
     ],
     [
-      "anti",
-      3,
-      "anger"
-    ],
-    [
       "strikes",
       3,
       "anger"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
-    ],
-    [
       "abortion",
       3,
       "fear"
+    ],
+    [
+      "media",
+      2,
+      "disgust"
     ],
     [
       "rule",
@@ -213,14 +213,9 @@
       "trust"
     ],
     [
-      "media",
+      "plan",
       2,
-      "disgust"
-    ],
-    [
-      "freedom",
-      2,
-      "joy"
+      "anticipation"
     ],
     [
       "risk",
@@ -253,13 +248,28 @@
       "sadness"
     ],
     [
-      "public",
-      2,
-      "anticipation"
+      "hate",
+      1,
+      "anger"
     ],
     [
-      "fee",
-      2,
+      "surged",
+      1,
+      "surprise"
+    ],
+    [
+      "attacking",
+      1,
+      "anger"
+    ],
+    [
+      "fraud",
+      1,
+      "anger"
+    ],
+    [
+      "allegations",
+      1,
       "anger"
     ],
     [
@@ -366,26 +376,16 @@
       "tariffs",
       1,
       "anger"
-    ],
-    [
-      "american",
-      1,
-      "sadness"
-    ],
-    [
-      "damages",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 19,
+    "joy": 18,
     "trust": 79,
-    "fear": 43,
-    "surprise": 16,
+    "fear": 42,
+    "surprise": 17,
     "sadness": 14,
     "disgust": 6,
-    "anger": 96,
-    "anticipation": 27
+    "anger": 100,
+    "anticipation": 25
   }
 }
