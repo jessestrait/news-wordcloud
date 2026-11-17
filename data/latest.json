@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:11:36.057Z",
+  "generated_at": "2026-11-17T12:26:38.133Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
       "trump",
       5,
       "anger"
@@ -36,6 +31,11 @@
       "president",
       5,
       "trust"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
     ],
     [
       "iran",
@@ -58,17 +58,17 @@
       "anticipation"
     ],
     [
+      "illegal",
+      3,
+      "anger"
+    ],
+    [
       "unprecedented",
       3,
       "surprise"
     ],
     [
       "anti",
-      3,
-      "anger"
-    ],
-    [
-      "illegal",
       3,
       "anger"
     ],
@@ -88,14 +88,14 @@
       "fear"
     ],
     [
-      "praises",
-      2,
-      "joy"
-    ],
-    [
       "critical",
       2,
       "trust"
+    ],
+    [
+      "praises",
+      2,
+      "joy"
     ],
     [
       "global",
@@ -268,6 +268,21 @@
       "anticipation"
     ],
     [
+      "bank",
+      1,
+      "trust"
+    ],
+    [
+      "building",
+      1,
+      "anticipation"
+    ],
+    [
+      "refused",
+      1,
+      "sadness"
+    ],
+    [
       "confident",
       1,
       "joy"
@@ -296,21 +311,6 @@
       "arrives",
       1,
       "anticipation"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
-      "building",
-      1,
-      "anticipation"
-    ],
-    [
-      "refused",
-      1,
-      "sadness"
     ],
     [
       "damages",
