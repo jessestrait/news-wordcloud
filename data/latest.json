@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-17T16:29:00.468Z",
+  "generated_at": "2026-11-17T16:44:02.771Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      9,
+      10,
       "anger"
     ],
     [
-      "war",
+      "trump",
       7,
       "anger"
     ],
@@ -23,7 +23,7 @@
       "trust"
     ],
     [
-      "trump",
+      "war",
       6,
       "anger"
     ],
@@ -35,11 +35,6 @@
     [
       "iran",
       5,
-      "anger"
-    ],
-    [
-      "strikes",
-      4,
       "anger"
     ],
     [
@@ -74,6 +69,11 @@
     ],
     [
       "anti",
+      3,
+      "anger"
+    ],
+    [
+      "strikes",
       3,
       "anger"
     ],
@@ -198,11 +198,6 @@
       "trust"
     ],
     [
-      "death",
-      2,
-      "sadness"
-    ],
-    [
       "restrictions",
       2,
       "anger"
@@ -266,6 +261,26 @@
       "fee",
       2,
       "anger"
+    ],
+    [
+      "rainy",
+      1,
+      "sadness"
+    ],
+    [
+      "proof",
+      1,
+      "trust"
+    ],
+    [
+      "obvious",
+      1,
+      "trust"
+    ],
+    [
+      "embarrassment",
+      1,
+      "fear"
     ],
     [
       "allies",
@@ -361,31 +376,16 @@
       "inaugural",
       1,
       "anticipation"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
-    ],
-    [
-      "threatens",
-      1,
-      "anger"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 76,
+    "joy": 19,
+    "trust": 78,
     "fear": 39,
     "surprise": 17,
     "sadness": 14,
     "disgust": 6,
-    "anger": 100,
+    "anger": 98,
     "anticipation": 28
   }
 }
