@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:31:30.434Z",
+  "generated_at": "2026-11-17T21:46:32.809Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "trump",
       6,
       "anger"
+    ],
+    [
+      "people",
+      6,
+      "trust"
     ],
     [
       "president",
@@ -46,11 +46,6 @@
       "government",
       4,
       "fear"
-    ],
-    [
-      "world",
-      4,
-      "trust"
     ],
     [
       "hit",
@@ -90,6 +85,16 @@
     [
       "strikes",
       3,
+      "anger"
+    ],
+    [
+      "world",
+      3,
+      "trust"
+    ],
+    [
+      "threatens",
+      2,
       "anger"
     ],
     [
@@ -161,11 +166,6 @@
       "pact",
       2,
       "trust"
-    ],
-    [
-      "unprecedented",
-      2,
-      "surprise"
     ],
     [
       "chaos",
@@ -251,6 +251,21 @@
       "class",
       2,
       "sadness"
+    ],
+    [
+      "fear",
+      1,
+      "anger"
+    ],
+    [
+      "twin",
+      1,
+      "joy"
+    ],
+    [
+      "nation",
+      1,
+      "trust"
     ],
     [
       "shot",
@@ -361,31 +376,16 @@
       "faltering",
       1,
       "fear"
-    ],
-    [
-      "launched",
-      1,
-      "anticipation"
-    ],
-    [
-      "surprise",
-      1,
-      "fear"
-    ],
-    [
-      "rainy",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 78,
-    "fear": 34,
-    "surprise": 16,
+    "joy": 22,
+    "trust": 77,
+    "fear": 32,
+    "surprise": 15,
     "sadness": 13,
     "disgust": 6,
-    "anger": 105,
+    "anger": 102,
     "anticipation": 25
   }
 }
