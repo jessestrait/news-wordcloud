@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:53:06.304Z",
+  "generated_at": "2026-11-17T05:08:08.630Z",
   "article_count": 50,
   "top_words": [
     [
@@ -173,11 +173,6 @@
       "trust"
     ],
     [
-      "pontiff",
-      2,
-      "trust"
-    ],
-    [
       "risk",
       2,
       "fear"
@@ -228,11 +223,6 @@
       "anticipation"
     ],
     [
-      "american",
-      2,
-      "sadness"
-    ],
-    [
       "suggest",
       2,
       "trust"
@@ -251,6 +241,26 @@
       "middle",
       1,
       "sadness"
+    ],
+    [
+      "triumph",
+      1,
+      "joy"
+    ],
+    [
+      "inaugural",
+      1,
+      "anticipation"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
     ],
     [
       "attacked",
@@ -366,26 +376,16 @@
       "sanctuary",
       1,
       "joy"
-    ],
-    [
-      "general",
-      1,
-      "trust"
-    ],
-    [
-      "continuing",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 14,
-    "trust": 80,
+    "joy": 15,
+    "trust": 79,
     "fear": 40,
     "surprise": 15,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 89,
-    "anticipation": 27
+    "anger": 91,
+    "anticipation": 28
   }
 }
