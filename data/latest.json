@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:39:28.065Z",
+  "generated_at": "2026-11-17T07:54:30.305Z",
   "article_count": 50,
   "top_words": [
     [
@@ -55,6 +55,11 @@
     [
       "world",
       4,
+      "trust"
+    ],
+    [
+      "suggest",
+      3,
       "trust"
     ],
     [
@@ -121,11 +126,6 @@
       "hits",
       2,
       "anger"
-    ],
-    [
-      "policy",
-      2,
-      "trust"
     ],
     [
       "forces",
@@ -213,19 +213,9 @@
       "surprise"
     ],
     [
-      "warn",
-      2,
-      "fear"
-    ],
-    [
       "university",
       2,
       "anticipation"
-    ],
-    [
-      "suggest",
-      2,
-      "trust"
     ],
     [
       "feeling",
@@ -236,6 +226,21 @@
       "problem",
       2,
       "fear"
+    ],
+    [
+      "damages",
+      1,
+      "sadness"
+    ],
+    [
+      "illegal",
+      1,
+      "anger"
+    ],
+    [
+      "massive",
+      1,
+      "anger"
     ],
     [
       "await",
@@ -318,6 +323,11 @@
       "anger"
     ],
     [
+      "policy",
+      1,
+      "trust"
+    ],
+    [
       "grave",
       1,
       "fear"
@@ -366,26 +376,16 @@
       "shows",
       1,
       "trust"
-    ],
-    [
-      "intimidation",
-      1,
-      "anger"
-    ],
-    [
-      "remove",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 15,
     "trust": 82,
-    "fear": 40,
+    "fear": 39,
     "surprise": 16,
-    "sadness": 14,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 94,
+    "anger": 95,
     "anticipation": 28
   }
 }
