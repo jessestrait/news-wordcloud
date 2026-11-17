@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:12:02.088Z",
+  "generated_at": "2026-11-17T13:27:04.701Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,17 +53,17 @@
       "anticipation"
     ],
     [
+      "unprecedented",
+      3,
+      "surprise"
+    ],
+    [
       "trade",
       3,
       "trust"
     ],
     [
       "deal",
-      3,
-      "surprise"
-    ],
-    [
-      "unprecedented",
       3,
       "surprise"
     ],
@@ -93,6 +93,11 @@
       "fear"
     ],
     [
+      "praises",
+      2,
+      "joy"
+    ],
+    [
       "american",
       2,
       "sadness"
@@ -106,11 +111,6 @@
       "pact",
       2,
       "trust"
-    ],
-    [
-      "praises",
-      2,
-      "joy"
     ],
     [
       "global",
@@ -273,6 +273,11 @@
       "anticipation"
     ],
     [
+      "damages",
+      1,
+      "sadness"
+    ],
+    [
       "arrival",
       1,
       "anticipation"
@@ -336,11 +341,6 @@
       "anger",
       1,
       "anger"
-    ],
-    [
-      "damages",
-      1,
-      "sadness"
     ],
     [
       "tensions",
