@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:06:13.622Z",
+  "generated_at": "2026-11-17T01:21:15.401Z",
   "article_count": 50,
   "top_words": [
     [
@@ -248,21 +248,6 @@
       "sadness"
     ],
     [
-      "strategy",
-      1,
-      "anticipation"
-    ],
-    [
-      "challenged",
-      1,
-      "anger"
-    ],
-    [
-      "accusations",
-      1,
-      "anger"
-    ],
-    [
       "challenges",
       1,
       "anger"
@@ -279,6 +264,21 @@
     ],
     [
       "failing",
+      1,
+      "anger"
+    ],
+    [
+      "strategy",
+      1,
+      "anticipation"
+    ],
+    [
+      "challenged",
+      1,
+      "anger"
+    ],
+    [
+      "accusations",
       1,
       "anger"
     ],
