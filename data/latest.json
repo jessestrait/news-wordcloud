@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T11:56:33.948Z",
+  "generated_at": "2026-11-17T12:11:36.057Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "fear"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
       "trump",
       5,
       "anger"
@@ -31,11 +36,6 @@
       "president",
       5,
       "trust"
-    ],
-    [
-      "strike",
-      5,
-      "anger"
     ],
     [
       "iran",
@@ -88,6 +88,11 @@
       "fear"
     ],
     [
+      "praises",
+      2,
+      "joy"
+    ],
+    [
       "critical",
       2,
       "trust"
@@ -96,11 +101,6 @@
       "global",
       2,
       "anticipation"
-    ],
-    [
-      "praises",
-      2,
-      "joy"
     ],
     [
       "crackdown",
