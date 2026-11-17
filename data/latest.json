@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:45:42.579Z",
+  "generated_at": "2026-11-17T20:00:44.369Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,19 +33,24 @@
       "anger"
     ],
     [
-      "government",
-      5,
-      "fear"
-    ],
-    [
       "anti",
       4,
       "anger"
     ],
     [
+      "government",
+      4,
+      "fear"
+    ],
+    [
       "world",
       4,
       "trust"
+    ],
+    [
+      "young",
+      3,
+      "surprise"
     ],
     [
       "military",
@@ -168,11 +173,6 @@
       "trust"
     ],
     [
-      "young",
-      2,
-      "surprise"
-    ],
-    [
       "hits",
       2,
       "anger"
@@ -243,11 +243,6 @@
       "joy"
     ],
     [
-      "condemn",
-      2,
-      "anger"
-    ],
-    [
       "court",
       2,
       "anger"
@@ -256,6 +251,21 @@
       "class",
       2,
       "sadness"
+    ],
+    [
+      "youth",
+      1,
+      "anger"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "sealed",
+      1,
+      "trust"
     ],
     [
       "joy",
@@ -366,22 +376,12 @@
       "delay",
       1,
       "anger"
-    ],
-    [
-      "happening",
-      1,
-      "anticipation"
-    ],
-    [
-      "credible",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 78,
-    "fear": 41,
+    "trust": 79,
+    "fear": 40,
     "surprise": 17,
     "sadness": 14,
     "disgust": 6,
