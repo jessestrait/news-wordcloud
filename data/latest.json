@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:46:48.811Z",
+  "generated_at": "2026-11-17T22:01:51.385Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,7 +93,7 @@
       "trust"
     ],
     [
-      "threatens",
+      "threats",
       2,
       "anger"
     ],
@@ -253,19 +253,19 @@
       "sadness"
     ],
     [
+      "nations",
+      1,
+      "trust"
+    ],
+    [
       "fear",
       1,
       "anger"
     ],
     [
-      "twin",
+      "warns",
       1,
-      "joy"
-    ],
-    [
-      "nation",
-      1,
-      "trust"
+      "fear"
     ],
     [
       "shot",
@@ -379,9 +379,9 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 21,
     "trust": 77,
-    "fear": 32,
+    "fear": 33,
     "surprise": 15,
     "sadness": 13,
     "disgust": 6,
