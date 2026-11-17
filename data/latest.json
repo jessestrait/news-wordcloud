@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T11:11:13.508Z",
+  "generated_at": "2026-11-17T11:26:15.572Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "trust"
     ],
     [
-      "trump",
-      6,
-      "anger"
+      "government",
+      7,
+      "fear"
     ],
     [
-      "government",
-      6,
-      "fear"
+      "trump",
+      5,
+      "anger"
     ],
     [
       "president",
@@ -39,11 +39,6 @@
     ],
     [
       "iran",
-      4,
-      "anger"
-    ],
-    [
-      "chaos",
       4,
       "anger"
     ],
@@ -63,17 +58,22 @@
       "anticipation"
     ],
     [
-      "anti",
-      3,
-      "anger"
-    ],
-    [
       "unprecedented",
       3,
       "surprise"
     ],
     [
+      "anti",
+      3,
+      "anger"
+    ],
+    [
       "illegal",
+      3,
+      "anger"
+    ],
+    [
+      "chaos",
       3,
       "anger"
     ],
@@ -83,39 +83,19 @@
       "fear"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
       "abortion",
       3,
       "fear"
     ],
     [
-      "airport",
-      3,
-      "anticipation"
-    ],
-    [
-      "ground",
-      3,
-      "trust"
-    ],
-    [
-      "arrival",
-      2,
-      "anticipation"
-    ],
-    [
       "critical",
       2,
       "trust"
+    ],
+    [
+      "global",
+      2,
+      "anticipation"
     ],
     [
       "praises",
@@ -198,6 +178,16 @@
       "trust"
     ],
     [
+      "media",
+      2,
+      "disgust"
+    ],
+    [
+      "freedom",
+      2,
+      "joy"
+    ],
+    [
       "risk",
       2,
       "fear"
@@ -218,6 +208,11 @@
       "anger"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "court",
       2,
       "anger"
@@ -226,6 +221,11 @@
       "class",
       2,
       "sadness"
+    ],
+    [
+      "officials",
+      2,
+      "trust"
     ],
     [
       "continues",
@@ -243,19 +243,44 @@
       "surprise"
     ],
     [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
+      "fee",
+      2,
+      "anger"
+    ],
+    [
+      "airport",
+      2,
+      "anticipation"
+    ],
+    [
       "university",
       2,
       "anticipation"
     ],
     [
-      "suggest",
-      2,
-      "trust"
+      "arrival",
+      1,
+      "anticipation"
     ],
     [
-      "feeling",
-      2,
-      "anger"
+      "confident",
+      1,
+      "joy"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
+    ],
+    [
+      "economy",
+      1,
+      "trust"
     ],
     [
       "anger",
@@ -266,6 +291,11 @@
       "pact",
       1,
       "trust"
+    ],
+    [
+      "arrives",
+      1,
+      "anticipation"
     ],
     [
       "bank",
@@ -346,46 +376,16 @@
       "problems",
       1,
       "fear"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "challenges",
-      1,
-      "anger"
-    ],
-    [
-      "policy",
-      1,
-      "trust"
-    ],
-    [
-      "grave",
-      1,
-      "fear"
-    ],
-    [
-      "moral",
-      1,
-      "anger"
-    ],
-    [
-      "failing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 17,
-    "trust": 80,
-    "fear": 38,
-    "surprise": 18,
-    "sadness": 15,
-    "disgust": 4,
-    "anger": 99,
-    "anticipation": 28
+    "joy": 19,
+    "trust": 74,
+    "fear": 39,
+    "surprise": 17,
+    "sadness": 14,
+    "disgust": 5,
+    "anger": 95,
+    "anticipation": 29
   }
 }
