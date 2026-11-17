@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:54:30.305Z",
+  "generated_at": "2026-11-17T08:09:32.706Z",
   "article_count": 50,
   "top_words": [
     [
@@ -228,6 +228,11 @@
       "fear"
     ],
     [
+      "await",
+      1,
+      "anticipation"
+    ],
+    [
       "damages",
       1,
       "sadness"
@@ -241,11 +246,6 @@
       "massive",
       1,
       "anger"
-    ],
-    [
-      "await",
-      1,
-      "anticipation"
     ],
     [
       "cutting",
