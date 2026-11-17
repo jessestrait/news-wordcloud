@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-11-17T08:39:51.721Z",
+  "generated_at": "2026-11-17T08:54:53.868Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      8,
+      "anger"
+    ],
     [
       "war",
       8,
@@ -28,21 +33,6 @@
       "fear"
     ],
     [
-      "attack",
-      6,
-      "anger"
-    ],
-    [
-      "ground",
-      6,
-      "trust"
-    ],
-    [
-      "plan",
-      5,
-      "anticipation"
-    ],
-    [
       "iran",
       4,
       "anger"
@@ -54,6 +44,16 @@
     ],
     [
       "world",
+      4,
+      "trust"
+    ],
+    [
+      "plan",
+      4,
+      "anticipation"
+    ],
+    [
+      "ground",
       4,
       "trust"
     ],
@@ -118,6 +118,16 @@
       "trust"
     ],
     [
+      "damage",
+      2,
+      "anger"
+    ],
+    [
+      "critical",
+      2,
+      "trust"
+    ],
+    [
       "young",
       2,
       "surprise"
@@ -169,6 +179,11 @@
     ],
     [
       "justice",
+      2,
+      "trust"
+    ],
+    [
+      "hail",
       2,
       "trust"
     ],
@@ -228,14 +243,14 @@
       "fear"
     ],
     [
+      "dispute",
+      1,
+      "anger"
+    ],
+    [
       "await",
       1,
       "anticipation"
-    ],
-    [
-      "damages",
-      1,
-      "sadness"
     ],
     [
       "illegal",
@@ -361,21 +376,6 @@
       "obituary",
       1,
       "sadness"
-    ],
-    [
-      "amnesty",
-      1,
-      "joy"
-    ],
-    [
-      "inspire",
-      1,
-      "joy"
-    ],
-    [
-      "shows",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
@@ -383,9 +383,9 @@
     "trust": 82,
     "fear": 39,
     "surprise": 16,
-    "sadness": 15,
+    "sadness": 13,
     "disgust": 4,
-    "anger": 95,
-    "anticipation": 28
+    "anger": 99,
+    "anticipation": 27
   }
 }
