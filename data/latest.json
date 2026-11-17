@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:26:38.133Z",
+  "generated_at": "2026-11-17T12:41:40.724Z",
   "article_count": 50,
   "top_words": [
     [
@@ -263,6 +263,26 @@
       "anticipation"
     ],
     [
+      "triumph",
+      1,
+      "joy"
+    ],
+    [
+      "inaugural",
+      1,
+      "anticipation"
+    ],
+    [
+      "ousted",
+      1,
+      "anger"
+    ],
+    [
+      "threatens",
+      1,
+      "anger"
+    ],
+    [
       "arrival",
       1,
       "anticipation"
@@ -331,26 +351,6 @@
       "guaranteed",
       1,
       "trust"
-    ],
-    [
-      "triumph",
-      1,
-      "joy"
-    ],
-    [
-      "inaugural",
-      1,
-      "anticipation"
-    ],
-    [
-      "ousted",
-      1,
-      "anger"
-    ],
-    [
-      "threatens",
-      1,
-      "anger"
     ],
     [
       "attacked",
