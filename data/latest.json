@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:56:59.260Z",
+  "generated_at": "2026-11-17T13:12:02.088Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
       "trump",
       5,
       "anger"
@@ -38,14 +33,14 @@
       "trust"
     ],
     [
-      "iran",
-      4,
+      "strike",
+      5,
       "anger"
     ],
     [
-      "leader",
+      "iran",
       4,
-      "trust"
+      "anger"
     ],
     [
       "world",
@@ -56,6 +51,16 @@
       "plan",
       4,
       "anticipation"
+    ],
+    [
+      "trade",
+      3,
+      "trust"
+    ],
+    [
+      "deal",
+      3,
+      "surprise"
     ],
     [
       "unprecedented",
@@ -88,14 +93,24 @@
       "fear"
     ],
     [
+      "american",
+      2,
+      "sadness"
+    ],
+    [
+      "arrives",
+      2,
+      "anticipation"
+    ],
+    [
+      "pact",
+      2,
+      "trust"
+    ],
+    [
       "praises",
       2,
       "joy"
-    ],
-    [
-      "critical",
-      2,
-      "trust"
     ],
     [
       "global",
@@ -123,6 +138,11 @@
       "anger"
     ],
     [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "forces",
       2,
       "anger"
@@ -131,11 +151,6 @@
       "peace",
       2,
       "joy"
-    ],
-    [
-      "trade",
-      2,
-      "trust"
     ],
     [
       "demands",
@@ -238,11 +253,6 @@
       "trust"
     ],
     [
-      "deal",
-      2,
-      "surprise"
-    ],
-    [
       "public",
       2,
       "anticipation"
@@ -263,6 +273,16 @@
       "anticipation"
     ],
     [
+      "arrival",
+      1,
+      "anticipation"
+    ],
+    [
+      "tariffs",
+      1,
+      "anger"
+    ],
+    [
       "triumph",
       1,
       "joy"
@@ -281,11 +301,6 @@
       "threatens",
       1,
       "anger"
-    ],
-    [
-      "arrival",
-      1,
-      "anticipation"
     ],
     [
       "bank",
@@ -321,16 +336,6 @@
       "anger",
       1,
       "anger"
-    ],
-    [
-      "pact",
-      1,
-      "trust"
-    ],
-    [
-      "arrives",
-      1,
-      "anticipation"
     ],
     [
       "damages",
@@ -371,21 +376,16 @@
       "chance",
       1,
       "surprise"
-    ],
-    [
-      "problems",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 74,
+    "trust": 73,
     "fear": 39,
-    "surprise": 17,
-    "sadness": 14,
+    "surprise": 18,
+    "sadness": 15,
     "disgust": 5,
-    "anger": 95,
-    "anticipation": 29
+    "anger": 96,
+    "anticipation": 30
   }
 }
