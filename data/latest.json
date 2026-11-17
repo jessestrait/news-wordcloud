@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:21:52.978Z",
+  "generated_at": "2026-11-17T02:36:54.949Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,6 +51,11 @@
       "happened",
       4,
       "anticipation"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "policy",
@@ -110,11 +115,6 @@
     [
       "continue",
       3,
-      "trust"
-    ],
-    [
-      "leaders",
-      2,
       "trust"
     ],
     [
@@ -263,11 +263,6 @@
       "anger"
     ],
     [
-      "cabinet",
-      1,
-      "trust"
-    ],
-    [
       "chance",
       1,
       "surprise"
@@ -374,6 +369,11 @@
     ],
     [
       "general",
+      1,
+      "trust"
+    ],
+    [
+      "continuing",
       1,
       "trust"
     ]
