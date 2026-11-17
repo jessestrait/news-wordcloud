@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-17T10:25:52.927Z",
+  "generated_at": "2026-11-17T10:40:54.738Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      8,
+      9,
       "anger"
     ],
     [
@@ -28,14 +28,14 @@
       "fear"
     ],
     [
-      "president",
-      5,
-      "trust"
-    ],
-    [
       "strike",
       5,
       "anger"
+    ],
+    [
+      "president",
+      5,
+      "trust"
     ],
     [
       "chaos",
@@ -63,14 +63,9 @@
       "trust"
     ],
     [
-      "illegal",
+      "unprecedented",
       3,
-      "anger"
-    ],
-    [
-      "suggest",
-      3,
-      "trust"
+      "surprise"
     ],
     [
       "anti",
@@ -108,6 +103,11 @@
       "anticipation"
     ],
     [
+      "praises",
+      2,
+      "joy"
+    ],
+    [
       "arrival",
       2,
       "anticipation"
@@ -118,12 +118,12 @@
       "trust"
     ],
     [
-      "unprecedented",
+      "crackdown",
       2,
-      "surprise"
+      "anger"
     ],
     [
-      "crackdown",
+      "illegal",
       2,
       "anger"
     ],
@@ -248,6 +248,11 @@
       "anticipation"
     ],
     [
+      "suggest",
+      2,
+      "trust"
+    ],
+    [
       "feeling",
       2,
       "anger"
@@ -268,22 +273,12 @@
       "anticipation"
     ],
     [
-      "praises",
-      1,
-      "joy"
-    ],
-    [
-      "tensions",
-      1,
-      "anger"
-    ],
-    [
       "damages",
       1,
       "sadness"
     ],
     [
-      "massive",
+      "tensions",
       1,
       "anger"
     ],
@@ -376,16 +371,21 @@
       "failing",
       1,
       "anger"
+    ],
+    [
+      "strategy",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 16,
-    "trust": 80,
+    "joy": 17,
+    "trust": 79,
     "fear": 39,
-    "surprise": 17,
+    "surprise": 18,
     "sadness": 14,
     "disgust": 4,
-    "anger": 99,
+    "anger": 98,
     "anticipation": 29
   }
 }
