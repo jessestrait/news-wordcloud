@@ -1,11 +1,31 @@
 {
-  "generated_at": "2026-11-17T06:39:04.405Z",
+  "generated_at": "2026-11-17T06:54:06.419Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       8,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
+    ],
+    [
+      "trump",
+      6,
+      "anger"
+    ],
+    [
+      "president",
+      6,
+      "trust"
+    ],
+    [
+      "government",
+      6,
+      "fear"
     ],
     [
       "attack",
@@ -18,24 +38,14 @@
       "trust"
     ],
     [
-      "trump",
-      5,
-      "anger"
-    ],
-    [
-      "president",
-      5,
-      "trust"
-    ],
-    [
-      "government",
-      5,
-      "fear"
-    ],
-    [
       "plan",
       5,
       "anticipation"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
     ],
     [
       "strikes",
@@ -48,29 +58,14 @@
       "trust"
     ],
     [
-      "people",
-      4,
-      "trust"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
+      "anti",
+      3,
+      "anger"
     ],
     [
       "leader",
       3,
       "trust"
-    ],
-    [
-      "policy",
-      3,
-      "trust"
-    ],
-    [
-      "iran",
-      3,
-      "anger"
     ],
     [
       "military",
@@ -81,6 +76,11 @@
       "restrictions",
       3,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "officials",
@@ -103,11 +103,6 @@
       "fear"
     ],
     [
-      "warn",
-      3,
-      "fear"
-    ],
-    [
       "airport",
       3,
       "anticipation"
@@ -118,14 +113,19 @@
       "trust"
     ],
     [
+      "young",
+      2,
+      "surprise"
+    ],
+    [
       "hits",
       2,
       "anger"
     ],
     [
-      "anti",
+      "policy",
       2,
-      "anger"
+      "trust"
     ],
     [
       "forces",
@@ -183,11 +183,6 @@
       "fear"
     ],
     [
-      "letter",
-      2,
-      "anticipation"
-    ],
-    [
       "found",
       2,
       "joy"
@@ -218,6 +213,11 @@
       "surprise"
     ],
     [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
       "university",
       2,
       "anticipation"
@@ -239,6 +239,31 @@
     ],
     [
       "await",
+      1,
+      "anticipation"
+    ],
+    [
+      "cutting",
+      1,
+      "anger"
+    ],
+    [
+      "guaranteed",
+      1,
+      "trust"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "pact",
+      1,
+      "trust"
+    ],
+    [
+      "arrival",
       1,
       "anticipation"
     ],
@@ -351,41 +376,16 @@
       "remove",
       1,
       "anger"
-    ],
-    [
-      "restricted",
-      1,
-      "sadness"
-    ],
-    [
-      "track",
-      1,
-      "anticipation"
-    ],
-    [
-      "reliance",
-      1,
-      "trust"
-    ],
-    [
-      "bombardment",
-      1,
-      "anger"
-    ],
-    [
-      "sanctuary",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 15,
-    "trust": 78,
+    "trust": 82,
     "fear": 40,
-    "surprise": 15,
+    "surprise": 16,
     "sadness": 14,
     "disgust": 4,
-    "anger": 90,
-    "anticipation": 29
+    "anger": 94,
+    "anticipation": 28
   }
 }
