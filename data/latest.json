@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T10:55:56.912Z",
+  "generated_at": "2026-11-17T11:10:58.828Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "anger"
     ],
     [
-      "people",
-      7,
-      "trust"
-    ],
-    [
       "war",
       7,
       "anger"
+    ],
+    [
+      "people",
+      7,
+      "trust"
     ],
     [
       "trump",
@@ -28,14 +28,19 @@
       "fear"
     ],
     [
+      "president",
+      5,
+      "trust"
+    ],
+    [
       "strike",
       5,
       "anger"
     ],
     [
-      "president",
-      5,
-      "trust"
+      "iran",
+      4,
+      "anger"
     ],
     [
       "chaos",
@@ -43,9 +48,9 @@
       "anger"
     ],
     [
-      "iran",
+      "leader",
       4,
-      "anger"
+      "trust"
     ],
     [
       "world",
@@ -58,6 +63,11 @@
       "anticipation"
     ],
     [
+      "anti",
+      3,
+      "anger"
+    ],
+    [
       "unprecedented",
       3,
       "surprise"
@@ -66,16 +76,6 @@
       "illegal",
       3,
       "anger"
-    ],
-    [
-      "anti",
-      3,
-      "anger"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
     ],
     [
       "military",
@@ -108,11 +108,6 @@
       "trust"
     ],
     [
-      "praises",
-      2,
-      "joy"
-    ],
-    [
       "arrival",
       2,
       "anticipation"
@@ -121,6 +116,11 @@
       "critical",
       2,
       "trust"
+    ],
+    [
+      "praises",
+      2,
+      "joy"
     ],
     [
       "crackdown",
@@ -258,6 +258,16 @@
       "anger"
     ],
     [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
+      "pact",
+      1,
+      "trust"
+    ],
+    [
       "bank",
       1,
       "trust"
@@ -271,16 +281,6 @@
       "refused",
       1,
       "sadness"
-    ],
-    [
-      "starts",
-      1,
-      "anticipation"
-    ],
-    [
-      "prepares",
-      1,
-      "anticipation"
     ],
     [
       "damages",
@@ -299,16 +299,6 @@
     ],
     [
       "guaranteed",
-      1,
-      "trust"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
-      "pact",
       1,
       "trust"
     ],
@@ -376,16 +366,26 @@
       "grave",
       1,
       "fear"
+    ],
+    [
+      "moral",
+      1,
+      "anger"
+    ],
+    [
+      "failing",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 17,
-    "trust": 79,
+    "trust": 80,
     "fear": 38,
     "surprise": 18,
     "sadness": 15,
     "disgust": 4,
     "anger": 99,
-    "anticipation": 30
+    "anticipation": 28
   }
 }
