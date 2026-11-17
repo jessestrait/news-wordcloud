@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:42:23.425Z",
+  "generated_at": "2026-11-17T13:57:25.914Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "fear"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
       "trump",
       5,
       "anger"
@@ -36,6 +31,11 @@
       "president",
       5,
       "trust"
+    ],
+    [
+      "strike",
+      5,
+      "anger"
     ],
     [
       "iran",
@@ -53,9 +53,9 @@
       "anticipation"
     ],
     [
-      "unprecedented",
+      "happened",
       3,
-      "surprise"
+      "anticipation"
     ],
     [
       "trade",
@@ -64,6 +64,11 @@
     ],
     [
       "deal",
+      3,
+      "surprise"
+    ],
+    [
+      "unprecedented",
       3,
       "surprise"
     ],
@@ -93,11 +98,6 @@
       "fear"
     ],
     [
-      "praises",
-      2,
-      "joy"
-    ],
-    [
       "american",
       2,
       "sadness"
@@ -111,6 +111,11 @@
       "pact",
       2,
       "trust"
+    ],
+    [
+      "praises",
+      2,
+      "joy"
     ],
     [
       "global",
@@ -221,11 +226,6 @@
       "condemn",
       2,
       "anger"
-    ],
-    [
-      "happened",
-      2,
-      "anticipation"
     ],
     [
       "court",
@@ -386,6 +386,6 @@
     "sadness": 15,
     "disgust": 5,
     "anger": 96,
-    "anticipation": 30
+    "anticipation": 31
   }
 }
