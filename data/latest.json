@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-18T21:29:27.330Z",
+  "generated_at": "2026-11-18T21:44:30.059Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      10,
+      11,
       "anger"
     ],
     [
@@ -53,11 +53,6 @@
       "trust"
     ],
     [
-      "top",
-      3,
-      "trust"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -98,17 +93,17 @@
       "anger"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
       "trip",
       2,
       "surprise"
     ],
     [
       "commission",
+      2,
+      "trust"
+    ],
+    [
+      "top",
       2,
       "trust"
     ],
@@ -376,16 +371,21 @@
       "perilous",
       1,
       "fear"
+    ],
+    [
+      "prepare",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 58,
+    "trust": 56,
     "fear": 26,
     "surprise": 12,
     "sadness": 10,
     "disgust": 8,
-    "anger": 102,
+    "anger": 103,
     "anticipation": 30
   }
 }
