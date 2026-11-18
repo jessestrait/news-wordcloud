@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:48:04.443Z",
+  "generated_at": "2026-11-18T00:48:18.497Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,6 +9,11 @@
     ],
     [
       "trump",
+      7,
+      "anger"
+    ],
+    [
+      "war",
       6,
       "anger"
     ],
@@ -18,17 +23,17 @@
       "trust"
     ],
     [
+      "government",
+      5,
+      "fear"
+    ],
+    [
       "president",
       5,
       "trust"
     ],
     [
       "iran",
-      5,
-      "anger"
-    ],
-    [
-      "war",
       5,
       "anger"
     ],
@@ -46,11 +51,6 @@
       "anti",
       4,
       "anger"
-    ],
-    [
-      "government",
-      4,
-      "fear"
     ],
     [
       "hit",
@@ -96,6 +96,16 @@
       "world",
       3,
       "trust"
+    ],
+    [
+      "american",
+      2,
+      "sadness"
+    ],
+    [
+      "threaten",
+      2,
+      "anger"
     ],
     [
       "launch",
@@ -178,11 +188,6 @@
       "anger"
     ],
     [
-      "crackdown",
-      2,
-      "anger"
-    ],
-    [
       "diplomatic",
       2,
       "trust"
@@ -256,6 +261,16 @@
       "class",
       2,
       "sadness"
+    ],
+    [
+      "simmering",
+      1,
+      "anticipation"
+    ],
+    [
+      "boiling",
+      1,
+      "disgust"
     ],
     [
       "urgent",
@@ -361,31 +376,16 @@
       "celebrating",
       1,
       "joy"
-    ],
-    [
-      "supporters",
-      1,
-      "joy"
-    ],
-    [
-      "vindicated",
-      1,
-      "anger"
-    ],
-    [
-      "assembly",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
     "trust": 80,
     "fear": 35,
-    "surprise": 15,
-    "sadness": 12,
-    "disgust": 6,
+    "surprise": 14,
+    "sadness": 13,
+    "disgust": 7,
     "anger": 103,
-    "anticipation": 26
+    "anticipation": 27
   }
 }
