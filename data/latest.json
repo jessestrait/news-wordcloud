@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:55:07.979Z",
+  "generated_at": "2026-11-18T14:10:10.201Z",
   "article_count": 50,
   "top_words": [
     [
@@ -81,6 +81,11 @@
       "building",
       2,
       "anticipation"
+    ],
+    [
+      "general",
+      2,
+      "trust"
     ],
     [
       "commission",
@@ -253,14 +258,19 @@
       "anticipation"
     ],
     [
-      "humiliating",
+      "attorney",
       1,
-      "disgust"
+      "anger"
     ],
     [
       "caretaker",
       1,
       "trust"
+    ],
+    [
+      "humiliating",
+      1,
+      "disgust"
     ],
     [
       "provide",
@@ -366,26 +376,16 @@
       "trips",
       1,
       "surprise"
-    ],
-    [
-      "youth",
-      1,
-      "anger"
-    ],
-    [
-      "fully",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 67,
+    "trust": 68,
     "fear": 30,
     "surprise": 13,
     "sadness": 10,
     "disgust": 9,
-    "anger": 106,
+    "anger": 107,
     "anticipation": 27
   }
 }
