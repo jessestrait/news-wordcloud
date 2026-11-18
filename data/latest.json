@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T17:42:11.670Z",
+  "generated_at": "2026-11-18T17:57:14.316Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,6 +273,11 @@
       "anger"
     ],
     [
+      "humiliating",
+      1,
+      "disgust"
+    ],
+    [
       "gained",
       1,
       "joy"
@@ -286,11 +291,6 @@
       "stigma",
       1,
       "anger"
-    ],
-    [
-      "humiliating",
-      1,
-      "disgust"
     ],
     [
       "provide",
