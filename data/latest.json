@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:25:27.327Z",
+  "generated_at": "2026-11-18T14:40:29.285Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,12 +23,12 @@
       "fear"
     ],
     [
-      "people",
-      6,
+      "president",
+      5,
       "trust"
     ],
     [
-      "president",
+      "people",
       5,
       "trust"
     ],
@@ -53,11 +53,6 @@
       "anger"
     ],
     [
-      "media",
-      3,
-      "disgust"
-    ],
-    [
       "strikes",
       3,
       "anger"
@@ -78,17 +73,22 @@
       "anger"
     ],
     [
+      "commission",
+      2,
+      "trust"
+    ],
+    [
+      "confident",
+      2,
+      "joy"
+    ],
+    [
       "building",
       2,
       "anticipation"
     ],
     [
       "general",
-      2,
-      "trust"
-    ],
-    [
-      "commission",
       2,
       "trust"
     ],
@@ -118,9 +118,9 @@
       "trust"
     ],
     [
-      "freedom",
+      "media",
       2,
-      "joy"
+      "disgust"
     ],
     [
       "cheating",
@@ -253,17 +253,7 @@
       "anger"
     ],
     [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
-      "attorney",
-      1,
-      "anger"
-    ],
-    [
-      "caretaker",
+      "provide",
       1,
       "trust"
     ],
@@ -273,7 +263,17 @@
       "disgust"
     ],
     [
-      "provide",
+      "cash",
+      1,
+      "anger"
+    ],
+    [
+      "attorney",
+      1,
+      "anger"
+    ],
+    [
+      "caretaker",
       1,
       "trust"
     ],
@@ -311,6 +311,11 @@
       "prepare",
       1,
       "anticipation"
+    ],
+    [
+      "freedom",
+      1,
+      "joy"
     ],
     [
       "fight",
@@ -371,21 +376,16 @@
       "cross",
       1,
       "anger"
-    ],
-    [
-      "trips",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 68,
+    "trust": 66,
     "fear": 30,
     "surprise": 13,
     "sadness": 10,
-    "disgust": 9,
+    "disgust": 8,
     "anger": 107,
-    "anticipation": 27
+    "anticipation": 26
   }
 }
