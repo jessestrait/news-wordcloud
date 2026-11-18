@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:36:08.648Z",
+  "generated_at": "2026-11-18T06:51:10.795Z",
   "article_count": 50,
   "top_words": [
     [
@@ -66,11 +66,6 @@
       "bank",
       3,
       "trust"
-    ],
-    [
-      "rule",
-      3,
-      "fear"
     ],
     [
       "military",
@@ -143,6 +138,11 @@
       "disgust"
     ],
     [
+      "rule",
+      2,
+      "fear"
+    ],
+    [
       "missiles",
       2,
       "fear"
@@ -156,11 +156,6 @@
       "pay",
       2,
       "joy"
-    ],
-    [
-      "top",
-      2,
-      "trust"
     ],
     [
       "arrives",
@@ -186,11 +181,6 @@
       "forces",
       2,
       "anger"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "peace",
@@ -223,11 +213,6 @@
       "anger"
     ],
     [
-      "justice",
-      2,
-      "trust"
-    ],
-    [
       "plan",
       2,
       "anticipation"
@@ -238,13 +223,13 @@
       "fear"
     ],
     [
-      "found",
-      2,
-      "joy"
+      "prepares",
+      1,
+      "anticipation"
     ],
     [
-      "court",
-      2,
+      "fury",
+      1,
       "anger"
     ],
     [
@@ -376,16 +361,31 @@
       "possibility",
       1,
       "anticipation"
+    ],
+    [
+      "joy",
+      1,
+      "joy"
+    ],
+    [
+      "hope",
+      1,
+      "surprise"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 66,
-    "fear": 36,
+    "joy": 20,
+    "trust": 62,
+    "fear": 32,
     "surprise": 14,
     "sadness": 10,
     "disgust": 7,
-    "anger": 108,
-    "anticipation": 27
+    "anger": 106,
+    "anticipation": 28
   }
 }
