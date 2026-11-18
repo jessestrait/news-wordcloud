@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-18T17:57:14.316Z",
+  "generated_at": "2026-11-18T18:12:17.028Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      9,
+      10,
       "anger"
     ],
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "government",
+      "president",
       6,
-      "fear"
+      "trust"
     ],
     [
-      "president",
+      "government",
       5,
-      "trust"
+      "fear"
     ],
     [
       "people",
@@ -273,6 +273,11 @@
       "anger"
     ],
     [
+      "hug",
+      1,
+      "joy"
+    ],
+    [
       "humiliating",
       1,
       "disgust"
@@ -343,6 +348,11 @@
       "joy"
     ],
     [
+      "winning",
+      1,
+      "disgust"
+    ],
+    [
       "judgment",
       1,
       "surprise"
@@ -366,23 +376,13 @@
       "prepare",
       1,
       "anticipation"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
-    ],
-    [
-      "fight",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 66,
-    "fear": 28,
-    "surprise": 12,
+    "joy": 24,
+    "trust": 65,
+    "fear": 26,
+    "surprise": 11,
     "sadness": 10,
     "disgust": 8,
     "anger": 106,
