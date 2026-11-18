@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-18T14:55:31.566Z",
+  "generated_at": "2026-11-18T15:10:33.810Z",
   "article_count": 50,
   "top_words": [
     [
-      "attack",
-      10,
+      "trump",
+      9,
       "anger"
     ],
     [
-      "trump",
+      "attack",
       9,
       "anger"
     ],
@@ -53,11 +53,6 @@
       "anger"
     ],
     [
-      "strikes",
-      3,
-      "anger"
-    ],
-    [
       "trade",
       3,
       "trust"
@@ -76,6 +71,16 @@
       "commission",
       2,
       "trust"
+    ],
+    [
+      "court",
+      2,
+      "anger"
+    ],
+    [
+      "allegations",
+      2,
+      "anger"
     ],
     [
       "confident",
@@ -129,6 +134,11 @@
     ],
     [
       "criticism",
+      2,
+      "anger"
+    ],
+    [
+      "strikes",
       2,
       "anger"
     ],
@@ -253,14 +263,29 @@
       "anger"
     ],
     [
+      "humiliating",
+      1,
+      "disgust"
+    ],
+    [
       "provide",
       1,
       "trust"
     ],
     [
-      "humiliating",
+      "abuse",
       1,
-      "disgust"
+      "anger"
+    ],
+    [
+      "case",
+      1,
+      "fear"
+    ],
+    [
+      "employed",
+      1,
+      "trust"
     ],
     [
       "cash",
@@ -281,11 +306,6 @@
       "grow",
       1,
       "joy"
-    ],
-    [
-      "court",
-      1,
-      "anger"
     ],
     [
       "judgment",
@@ -356,31 +376,11 @@
       "simmering",
       1,
       "anticipation"
-    ],
-    [
-      "boiling",
-      1,
-      "disgust"
-    ],
-    [
-      "urgent",
-      1,
-      "fear"
-    ],
-    [
-      "improvement",
-      1,
-      "joy"
-    ],
-    [
-      "cross",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 66,
+    "trust": 64,
     "fear": 30,
     "surprise": 13,
     "sadness": 10,
