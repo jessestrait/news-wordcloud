@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:51:29.843Z",
+  "generated_at": "2026-11-18T07:06:32.312Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "fear"
     ],
     [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
       "strikes",
       4,
       "anger"
@@ -51,6 +46,16 @@
       "president",
       4,
       "trust"
+    ],
+    [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
+      "media",
+      3,
+      "disgust"
     ],
     [
       "trade",
@@ -73,9 +78,34 @@
       "fear"
     ],
     [
-      "happened",
-      3,
+      "power",
+      2,
       "anticipation"
+    ],
+    [
+      "failing",
+      2,
+      "anger"
+    ],
+    [
+      "prepare",
+      2,
+      "anticipation"
+    ],
+    [
+      "nation",
+      2,
+      "trust"
+    ],
+    [
+      "show",
+      2,
+      "trust"
+    ],
+    [
+      "freedom",
+      2,
+      "joy"
     ],
     [
       "cheating",
@@ -118,11 +148,6 @@
       "anger"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "anger",
       2,
       "anger"
@@ -133,14 +158,14 @@
       "anticipation"
     ],
     [
-      "media",
-      2,
-      "disgust"
-    ],
-    [
       "rule",
       2,
       "fear"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "missiles",
@@ -223,7 +248,32 @@
       "fear"
     ],
     [
-      "prepares",
+      "devastating",
+      1,
+      "anger"
+    ],
+    [
+      "perilous",
+      1,
+      "fear"
+    ],
+    [
+      "blame",
+      1,
+      "anger"
+    ],
+    [
+      "fight",
+      1,
+      "anger"
+    ],
+    [
+      "public",
+      1,
+      "anticipation"
+    ],
+    [
+      "start",
       1,
       "anticipation"
     ],
@@ -231,11 +281,6 @@
       "fury",
       1,
       "anger"
-    ],
-    [
-      "start",
-      1,
-      "anticipation"
     ],
     [
       "commission",
@@ -318,11 +363,6 @@
       "trust"
     ],
     [
-      "nations",
-      1,
-      "trust"
-    ],
-    [
       "fear",
       1,
       "anger"
@@ -336,56 +376,16 @@
       "shot",
       1,
       "anger"
-    ],
-    [
-      "witnesses",
-      1,
-      "trust"
-    ],
-    [
-      "rapid",
-      1,
-      "surprise"
-    ],
-    [
-      "violence",
-      1,
-      "anger"
-    ],
-    [
-      "extinguishing",
-      1,
-      "anger"
-    ],
-    [
-      "possibility",
-      1,
-      "anticipation"
-    ],
-    [
-      "joy",
-      1,
-      "joy"
-    ],
-    [
-      "hope",
-      1,
-      "surprise"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 20,
-    "trust": 62,
-    "fear": 32,
-    "surprise": 14,
+    "trust": 64,
+    "fear": 33,
+    "surprise": 12,
     "sadness": 10,
-    "disgust": 7,
+    "disgust": 8,
     "anger": 106,
-    "anticipation": 28
+    "anticipation": 30
   }
 }
