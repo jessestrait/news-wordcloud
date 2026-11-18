@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:53:14.837Z",
+  "generated_at": "2026-11-18T10:08:17.276Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "anger"
     ],
     [
+      "gaza",
+      3,
+      "anger"
+    ],
+    [
       "media",
       3,
       "disgust"
@@ -75,6 +80,11 @@
     [
       "military",
       3,
+      "fear"
+    ],
+    [
+      "ruling",
+      2,
       "fear"
     ],
     [
@@ -146,6 +156,11 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "fear",
+      2,
+      "anger"
     ],
     [
       "threats",
@@ -223,11 +238,6 @@
       "anger"
     ],
     [
-      "gaza",
-      2,
-      "anger"
-    ],
-    [
       "baboons",
       2,
       "disgust"
@@ -248,9 +258,19 @@
       "anticipation"
     ],
     [
-      "chickens",
-      2,
-      "fear"
+      "grow",
+      1,
+      "joy"
+    ],
+    [
+      "court",
+      1,
+      "anger"
+    ],
+    [
+      "judgment",
+      1,
+      "surprise"
     ],
     [
       "humiliating",
@@ -356,36 +376,16 @@
       "expected",
       1,
       "anticipation"
-    ],
-    [
-      "sealed",
-      1,
-      "trust"
-    ],
-    [
-      "fear",
-      1,
-      "anger"
-    ],
-    [
-      "warns",
-      1,
-      "fear"
-    ],
-    [
-      "shot",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 65,
-    "fear": 33,
-    "surprise": 12,
+    "trust": 64,
+    "fear": 32,
+    "surprise": 13,
     "sadness": 10,
     "disgust": 9,
-    "anger": 108,
-    "anticipation": 28
+    "anger": 111,
+    "anticipation": 27
   }
 }
