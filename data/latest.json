@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:22:52.723Z",
+  "generated_at": "2026-11-18T09:37:55.141Z",
   "article_count": 50,
   "top_words": [
     [
@@ -56,11 +56,6 @@
       "iran",
       4,
       "anger"
-    ],
-    [
-      "arrives",
-      3,
-      "anticipation"
     ],
     [
       "media",
@@ -193,6 +188,11 @@
       "joy"
     ],
     [
+      "arrives",
+      2,
+      "anticipation"
+    ],
+    [
       "pact",
       2,
       "trust"
@@ -253,9 +253,9 @@
       "fear"
     ],
     [
-      "start",
+      "humiliating",
       1,
-      "anticipation"
+      "disgust"
     ],
     [
       "devastating",
@@ -384,8 +384,8 @@
     "fear": 33,
     "surprise": 12,
     "sadness": 10,
-    "disgust": 8,
+    "disgust": 9,
     "anger": 108,
-    "anticipation": 30
+    "anticipation": 28
   }
 }
