@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:48:43.431Z",
+  "generated_at": "2026-11-18T02:03:45.419Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,13 +8,13 @@
       "anger"
     ],
     [
-      "trump",
-      7,
+      "war",
+      8,
       "anger"
     ],
     [
-      "war",
-      6,
+      "trump",
+      7,
       "anger"
     ],
     [
@@ -35,6 +35,11 @@
     [
       "iran",
       5,
+      "anger"
+    ],
+    [
+      "strikes",
+      4,
       "anger"
     ],
     [
@@ -78,16 +83,6 @@
       "anticipation"
     ],
     [
-      "officials",
-      3,
-      "trust"
-    ],
-    [
-      "strikes",
-      3,
-      "anger"
-    ],
-    [
       "leader",
       3,
       "trust"
@@ -95,6 +90,16 @@
     [
       "world",
       3,
+      "trust"
+    ],
+    [
+      "criticism",
+      2,
+      "anger"
+    ],
+    [
+      "policy",
+      2,
       "trust"
     ],
     [
@@ -143,16 +148,6 @@
       "disgust"
     ],
     [
-      "system",
-      2,
-      "trust"
-    ],
-    [
-      "continues",
-      2,
-      "trust"
-    ],
-    [
       "missiles",
       2,
       "fear"
@@ -181,11 +176,6 @@
       "pact",
       2,
       "trust"
-    ],
-    [
-      "chaos",
-      2,
-      "anger"
     ],
     [
       "diplomatic",
@@ -261,6 +251,16 @@
       "class",
       2,
       "sadness"
+    ],
+    [
+      "deep",
+      1,
+      "joy"
+    ],
+    [
+      "disagreement",
+      1,
+      "anger"
     ],
     [
       "simmering",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 20,
-    "trust": 80,
+    "joy": 21,
+    "trust": 74,
     "fear": 35,
     "surprise": 14,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 7,
-    "anger": 103,
-    "anticipation": 27
+    "anger": 106,
+    "anticipation": 26
   }
 }
