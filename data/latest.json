@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T23:15:20.319Z",
+  "generated_at": "2026-11-18T23:30:23.034Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,8 +23,18 @@
       "trust"
     ],
     [
+      "gaza",
+      4,
+      "anger"
+    ],
+    [
+      "military",
+      4,
+      "fear"
+    ],
+    [
       "government",
-      5,
+      4,
       "fear"
     ],
     [
@@ -51,11 +61,6 @@
       "people",
       4,
       "trust"
-    ],
-    [
-      "military",
-      3,
-      "fear"
     ],
     [
       "global",
@@ -86,6 +91,11 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "cross",
+      2,
+      "anger"
     ],
     [
       "confident",
@@ -133,19 +143,9 @@
       "anticipation"
     ],
     [
-      "general",
-      2,
-      "trust"
-    ],
-    [
       "ruling",
       2,
       "fear"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
     ],
     [
       "power",
@@ -268,6 +268,21 @@
       "disgust"
     ],
     [
+      "incursion",
+      1,
+      "fear"
+    ],
+    [
+      "agreed",
+      1,
+      "trust"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
       "cash",
       1,
       "anger"
@@ -343,6 +358,11 @@
       "anger"
     ],
     [
+      "general",
+      1,
+      "trust"
+    ],
+    [
       "caretaker",
       1,
       "trust"
@@ -356,36 +376,16 @@
       "winning",
       1,
       "disgust"
-    ],
-    [
-      "judgment",
-      1,
-      "surprise"
-    ],
-    [
-      "devastating",
-      1,
-      "anger"
-    ],
-    [
-      "perilous",
-      1,
-      "fear"
-    ],
-    [
-      "prepare",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 56,
-    "fear": 26,
+    "fear": 27,
     "surprise": 12,
-    "sadness": 10,
+    "sadness": 9,
     "disgust": 8,
-    "anger": 103,
-    "anticipation": 30
+    "anger": 106,
+    "anticipation": 31
   }
 }
