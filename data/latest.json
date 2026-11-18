@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T22:29:55.321Z",
+  "generated_at": "2026-11-18T22:44:57.851Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,6 +88,11 @@
       "trust"
     ],
     [
+      "confident",
+      2,
+      "joy"
+    ],
+    [
       "blame",
       2,
       "anger"
@@ -121,11 +126,6 @@
       "allegations",
       2,
       "anger"
-    ],
-    [
-      "confident",
-      2,
-      "joy"
     ],
     [
       "building",
@@ -268,6 +268,11 @@
       "disgust"
     ],
     [
+      "cash",
+      1,
+      "anger"
+    ],
+    [
       "defense",
       1,
       "anger"
@@ -331,11 +336,6 @@
       "employed",
       1,
       "trust"
-    ],
-    [
-      "cash",
-      1,
-      "anger"
     ],
     [
       "attorney",
