@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:02:58.266Z",
+  "generated_at": "2026-11-18T00:18:00.354Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "anger"
     ],
     [
+      "trade",
+      4,
+      "trust"
+    ],
+    [
       "illegal",
       4,
       "anger"
@@ -48,11 +53,6 @@
       "fear"
     ],
     [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "hit",
       3,
       "anger"
@@ -61,6 +61,11 @@
       "bank",
       3,
       "trust"
+    ],
+    [
+      "rule",
+      3,
+      "fear"
     ],
     [
       "military",
@@ -78,14 +83,14 @@
       "trust"
     ],
     [
-      "trade",
-      3,
-      "trust"
-    ],
-    [
       "strikes",
       3,
       "anger"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "world",
@@ -96,6 +101,11 @@
       "launch",
       2,
       "anticipation"
+    ],
+    [
+      "deal",
+      2,
+      "surprise"
     ],
     [
       "threats",
@@ -121,11 +131,6 @@
       "media",
       2,
       "disgust"
-    ],
-    [
-      "rule",
-      2,
-      "fear"
     ],
     [
       "system",
@@ -186,11 +191,6 @@
       "young",
       2,
       "surprise"
-    ],
-    [
-      "leader",
-      2,
-      "trust"
     ],
     [
       "forces",
@@ -256,6 +256,26 @@
       "class",
       2,
       "sadness"
+    ],
+    [
+      "urgent",
+      1,
+      "fear"
+    ],
+    [
+      "improvement",
+      1,
+      "joy"
+    ],
+    [
+      "cross",
+      1,
+      "anger"
+    ],
+    [
+      "trips",
+      1,
+      "surprise"
     ],
     [
       "youth",
@@ -356,36 +376,16 @@
       "assembly",
       1,
       "trust"
-    ],
-    [
-      "hate",
-      1,
-      "anger"
-    ],
-    [
-      "surged",
-      1,
-      "surprise"
-    ],
-    [
-      "attacking",
-      1,
-      "anger"
-    ],
-    [
-      "fraud",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 21,
-    "trust": 78,
-    "fear": 33,
+    "joy": 20,
+    "trust": 80,
+    "fear": 35,
     "surprise": 15,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 6,
-    "anger": 102,
+    "anger": 103,
     "anticipation": 26
   }
 }
