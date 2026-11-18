@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:13:01.291Z",
+  "generated_at": "2026-11-18T19:28:03.949Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "fear"
     ],
     [
-      "people",
-      5,
-      "trust"
-    ],
-    [
       "happened",
       4,
       "anticipation"
@@ -51,6 +46,16 @@
       "anti",
       4,
       "anger"
+    ],
+    [
+      "people",
+      4,
+      "trust"
+    ],
+    [
+      "top",
+      3,
+      "trust"
     ],
     [
       "global",
@@ -83,12 +88,17 @@
       "trust"
     ],
     [
-      "commission",
+      "blame",
+      2,
+      "anger"
+    ],
+    [
+      "official",
       2,
       "trust"
     ],
     [
-      "top",
+      "commission",
       2,
       "trust"
     ],
@@ -258,11 +268,6 @@
       "anger"
     ],
     [
-      "demands",
-      2,
-      "anger"
-    ],
-    [
       "baboons",
       2,
       "disgust"
@@ -368,11 +373,6 @@
       "fear"
     ],
     [
-      "blame",
-      1,
-      "anger"
-    ],
-    [
       "prepare",
       1,
       "anticipation"
@@ -380,10 +380,10 @@
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 65,
-    "fear": 26,
+    "trust": 62,
+    "fear": 25,
     "surprise": 11,
-    "sadness": 10,
+    "sadness": 9,
     "disgust": 8,
     "anger": 106,
     "anticipation": 30
