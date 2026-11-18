@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:40:05.627Z",
+  "generated_at": "2026-11-18T13:55:07.979Z",
   "article_count": 50,
   "top_words": [
     [
@@ -76,6 +76,11 @@
       "iran",
       3,
       "anger"
+    ],
+    [
+      "building",
+      2,
+      "anticipation"
     ],
     [
       "commission",
@@ -173,6 +178,11 @@
       "fear"
     ],
     [
+      "delay",
+      2,
+      "anger"
+    ],
+    [
       "happened",
       2,
       "anticipation"
@@ -246,6 +256,11 @@
       "humiliating",
       1,
       "disgust"
+    ],
+    [
+      "caretaker",
+      1,
+      "trust"
     ],
     [
       "provide",
@@ -361,31 +376,16 @@
       "fully",
       1,
       "trust"
-    ],
-    [
-      "launch",
-      1,
-      "anticipation"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "sealed",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 19,
-    "trust": 66,
+    "trust": 67,
     "fear": 30,
     "surprise": 13,
     "sadness": 10,
     "disgust": 9,
-    "anger": 105,
-    "anticipation": 26
+    "anger": 106,
+    "anticipation": 27
   }
 }
