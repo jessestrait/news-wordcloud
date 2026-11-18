@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:50:23.395Z",
+  "generated_at": "2026-11-18T05:05:25.460Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "trump",
-      8,
+      9,
       "anger"
     ],
     [
@@ -53,11 +53,6 @@
       "trust"
     ],
     [
-      "world",
-      3,
-      "trust"
-    ],
-    [
       "trade",
       3,
       "trust"
@@ -86,11 +81,6 @@
       "happened",
       3,
       "anticipation"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
     ],
     [
       "criticism",
@@ -183,9 +173,19 @@
       "surprise"
     ],
     [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
       "forces",
       2,
       "anger"
+    ],
+    [
+      "world",
+      2,
+      "trust"
     ],
     [
       "peace",
@@ -243,9 +243,19 @@
       "anger"
     ],
     [
-      "class",
-      2,
-      "sadness"
+      "start",
+      1,
+      "anticipation"
+    ],
+    [
+      "commission",
+      1,
+      "trust"
+    ],
+    [
+      "accused",
+      1,
+      "anger"
     ],
     [
       "important",
@@ -366,26 +376,16 @@
       "possibility",
       1,
       "anticipation"
-    ],
-    [
-      "joy",
-      1,
-      "joy"
-    ],
-    [
-      "hope",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 70,
+    "trust": 67,
     "fear": 35,
     "surprise": 14,
-    "sadness": 12,
+    "sadness": 10,
     "disgust": 7,
-    "anger": 106,
-    "anticipation": 26
+    "anger": 107,
+    "anticipation": 27
   }
 }
