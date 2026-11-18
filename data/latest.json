@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T17:11:49.020Z",
+  "generated_at": "2026-11-18T17:26:51.739Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,9 +273,9 @@
       "anger"
     ],
     [
-      "humiliating",
+      "gained",
       1,
-      "disgust"
+      "joy"
     ],
     [
       "music",
@@ -283,14 +283,14 @@
       "joy"
     ],
     [
-      "times",
-      1,
-      "anticipation"
-    ],
-    [
       "stigma",
       1,
       "anger"
+    ],
+    [
+      "humiliating",
+      1,
+      "disgust"
     ],
     [
       "provide",
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
+    "joy": 23,
     "trust": 66,
     "fear": 28,
     "surprise": 12,
     "sadness": 10,
     "disgust": 8,
     "anger": 106,
-    "anticipation": 30
+    "anticipation": 29
   }
 }
