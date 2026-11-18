@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:37:19.671Z",
+  "generated_at": "2026-11-18T08:52:21.513Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,6 +51,11 @@
       "president",
       4,
       "trust"
+    ],
+    [
+      "arrives",
+      3,
+      "anticipation"
     ],
     [
       "media",
@@ -181,11 +186,6 @@
       "pay",
       2,
       "joy"
-    ],
-    [
-      "arrives",
-      2,
-      "anticipation"
     ],
     [
       "pact",
@@ -386,6 +386,6 @@
     "sadness": 10,
     "disgust": 8,
     "anger": 109,
-    "anticipation": 30
+    "anticipation": 31
   }
 }
