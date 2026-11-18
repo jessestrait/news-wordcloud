@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:11:18.630Z",
+  "generated_at": "2026-11-18T16:26:21.429Z",
   "article_count": 50,
   "top_words": [
     [
@@ -46,6 +46,11 @@
       "anti",
       4,
       "anger"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
     ],
     [
       "policy",
@@ -218,11 +223,6 @@
       "anger"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "missiles",
       2,
       "fear"
@@ -386,6 +386,6 @@
     "sadness": 10,
     "disgust": 8,
     "anger": 106,
-    "anticipation": 27
+    "anticipation": 28
   }
 }
