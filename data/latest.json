@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:21:06.472Z",
+  "generated_at": "2026-11-18T06:36:08.648Z",
   "article_count": 50,
   "top_words": [
     [
@@ -81,6 +81,11 @@
       "happened",
       3,
       "anticipation"
+    ],
+    [
+      "cheating",
+      2,
+      "anger"
     ],
     [
       "criticism",
@@ -258,19 +263,14 @@
       "anger"
     ],
     [
-      "important",
-      1,
-      "trust"
-    ],
-    [
       "university",
       1,
       "anticipation"
     ],
     [
-      "cheating",
+      "scandal",
       1,
-      "anger"
+      "fear"
     ],
     [
       "deep",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 67,
-    "fear": 35,
+    "trust": 66,
+    "fear": 36,
     "surprise": 14,
     "sadness": 10,
     "disgust": 7,
-    "anger": 107,
+    "anger": 108,
     "anticipation": 27
   }
 }
