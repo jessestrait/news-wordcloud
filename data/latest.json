@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:13:41.854Z",
+  "generated_at": "2026-11-18T20:28:44.165Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,11 +9,6 @@
     ],
     [
       "war",
-      8,
-      "anger"
-    ],
-    [
-      "attack",
       7,
       "anger"
     ],
@@ -23,8 +18,18 @@
       "trust"
     ],
     [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
       "government",
       5,
+      "fear"
+    ],
+    [
+      "military",
+      4,
       "fear"
     ],
     [
@@ -51,6 +56,11 @@
       "people",
       4,
       "trust"
+    ],
+    [
+      "american",
+      3,
+      "sadness"
     ],
     [
       "top",
@@ -86,6 +96,11 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "operation",
+      2,
+      "fear"
     ],
     [
       "blame",
@@ -173,19 +188,9 @@
       "anger"
     ],
     [
-      "criticism",
-      2,
-      "anger"
-    ],
-    [
       "strikes",
       2,
       "anger"
-    ],
-    [
-      "american",
-      2,
-      "sadness"
     ],
     [
       "threaten",
@@ -219,11 +224,6 @@
     ],
     [
       "rule",
-      2,
-      "fear"
-    ],
-    [
-      "military",
       2,
       "fear"
     ],
@@ -273,9 +273,24 @@
       "disgust"
     ],
     [
-      "restrictions",
-      2,
+      "vowing",
+      1,
+      "joy"
+    ],
+    [
+      "cooperation",
+      1,
+      "trust"
+    ],
+    [
+      "defense",
+      1,
       "anger"
+    ],
+    [
+      "history",
+      1,
+      "trust"
     ],
     [
       "hug",
@@ -361,31 +376,16 @@
       "judgment",
       1,
       "surprise"
-    ],
-    [
-      "devastating",
-      1,
-      "anger"
-    ],
-    [
-      "perilous",
-      1,
-      "fear"
-    ],
-    [
-      "prepare",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 62,
-    "fear": 25,
+    "joy": 25,
+    "trust": 61,
+    "fear": 28,
     "surprise": 11,
-    "sadness": 9,
+    "sadness": 10,
     "disgust": 8,
-    "anger": 106,
+    "anger": 102,
     "anticipation": 30
   }
 }
