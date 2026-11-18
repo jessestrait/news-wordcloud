@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:52:21.513Z",
+  "generated_at": "2026-11-18T09:07:23.841Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,17 +23,17 @@
       "trust"
     ],
     [
+      "strikes",
+      5,
+      "anger"
+    ],
+    [
       "government",
       5,
       "fear"
     ],
     [
-      "iran",
-      5,
-      "anger"
-    ],
-    [
-      "strikes",
+      "hit",
       4,
       "anger"
     ],
@@ -53,6 +53,11 @@
       "trust"
     ],
     [
+      "iran",
+      4,
+      "anger"
+    ],
+    [
       "arrives",
       3,
       "anticipation"
@@ -68,11 +73,6 @@
       "trust"
     ],
     [
-      "hit",
-      3,
-      "anger"
-    ],
-    [
       "bank",
       3,
       "trust"
@@ -83,9 +83,14 @@
       "fear"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
+      "deep",
+      2,
+      "joy"
+    ],
+    [
+      "official",
+      2,
+      "trust"
     ],
     [
       "power",
@@ -153,11 +158,6 @@
       "anger"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "anger",
       2,
       "anger"
@@ -171,6 +171,11 @@
       "rule",
       2,
       "fear"
+    ],
+    [
+      "happened",
+      2,
+      "anticipation"
     ],
     [
       "missiles",
@@ -303,11 +308,6 @@
       "fear"
     ],
     [
-      "deep",
-      1,
-      "joy"
-    ],
-    [
       "disagreement",
       1,
       "anger"
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 64,
+    "trust": 65,
     "fear": 33,
     "surprise": 12,
     "sadness": 10,
     "disgust": 8,
-    "anger": 109,
-    "anticipation": 31
+    "anger": 108,
+    "anticipation": 30
   }
 }
