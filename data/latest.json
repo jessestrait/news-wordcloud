@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:56:46.276Z",
+  "generated_at": "2026-11-18T17:11:49.020Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,6 +273,11 @@
       "anger"
     ],
     [
+      "humiliating",
+      1,
+      "disgust"
+    ],
+    [
       "music",
       1,
       "joy"
@@ -291,11 +296,6 @@
       "provide",
       1,
       "trust"
-    ],
-    [
-      "humiliating",
-      1,
-      "disgust"
     ],
     [
       "negotiating",
