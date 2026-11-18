@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:03:45.419Z",
+  "generated_at": "2026-11-18T02:18:47.588Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -26,11 +26,6 @@
       "government",
       5,
       "fear"
-    ],
-    [
-      "president",
-      5,
-      "trust"
     ],
     [
       "iran",
@@ -56,6 +51,11 @@
       "anti",
       4,
       "anger"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "hit",
@@ -253,6 +253,21 @@
       "sadness"
     ],
     [
+      "important",
+      1,
+      "trust"
+    ],
+    [
+      "university",
+      1,
+      "anticipation"
+    ],
+    [
+      "cheating",
+      1,
+      "anger"
+    ],
+    [
       "deep",
       1,
       "joy"
@@ -361,26 +376,11 @@
       "joy",
       1,
       "joy"
-    ],
-    [
-      "hope",
-      1,
-      "surprise"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "celebrating",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 21,
-    "trust": 74,
+    "trust": 72,
     "fear": 35,
     "surprise": 14,
     "sadness": 12,
