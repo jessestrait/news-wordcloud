@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T18:55:36.171Z",
+  "generated_at": "2026-11-19T19:10:38.406Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "happened",
-      6,
-      "anticipation"
-    ],
-    [
       "president",
       6,
       "trust"
+    ],
+    [
+      "happened",
+      6,
+      "anticipation"
     ],
     [
       "deal",
@@ -243,6 +243,21 @@
       "anger"
     ],
     [
+      "vows",
+      1,
+      "joy"
+    ],
+    [
+      "painful",
+      1,
+      "anger"
+    ],
+    [
+      "bombing",
+      1,
+      "anger"
+    ],
+    [
       "berlin",
       1,
       "joy"
@@ -281,21 +296,6 @@
       "history",
       1,
       "trust"
-    ],
-    [
-      "vows",
-      1,
-      "joy"
-    ],
-    [
-      "painful",
-      1,
-      "anger"
-    ],
-    [
-      "bombing",
-      1,
-      "anger"
     ],
     [
       "committed",
