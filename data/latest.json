@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T04:48:18.892Z",
+  "generated_at": "2026-11-19T05:03:21.020Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "trust"
     ],
     [
+      "global",
+      5,
+      "anticipation"
+    ],
+    [
       "leader",
       5,
       "trust"
@@ -31,11 +36,6 @@
       "trade",
       4,
       "trust"
-    ],
-    [
-      "global",
-      4,
-      "anticipation"
     ],
     [
       "government",
@@ -56,6 +56,11 @@
       "illegal",
       4,
       "anger"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "strike",
@@ -91,6 +96,11 @@
       "people",
       3,
       "trust"
+    ],
+    [
+      "warns",
+      2,
+      "fear"
     ],
     [
       "praises",
@@ -188,11 +198,6 @@
       "fear"
     ],
     [
-      "power",
-      2,
-      "anticipation"
-    ],
-    [
       "failing",
       2,
       "anger"
@@ -288,6 +293,21 @@
       "anger"
     ],
     [
+      "create",
+      1,
+      "joy"
+    ],
+    [
+      "watchdog",
+      1,
+      "trust"
+    ],
+    [
+      "forecasts",
+      1,
+      "trust"
+    ],
+    [
       "fanfare",
       1,
       "surprise"
@@ -356,36 +376,16 @@
       "strait",
       1,
       "fear"
-    ],
-    [
-      "incursion",
-      1,
-      "fear"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
-      "cash",
-      1,
-      "anger"
-    ],
-    [
-      "defense",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 58,
-    "fear": 28,
+    "trust": 60,
+    "fear": 29,
     "surprise": 15,
-    "sadness": 7,
+    "sadness": 6,
     "disgust": 6,
     "anger": 113,
-    "anticipation": 34
+    "anticipation": 36
   }
 }
