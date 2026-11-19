@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:06:01.850Z",
+  "generated_at": "2026-11-19T10:21:04.365Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "president",
-      8,
+      9,
       "trust"
     ],
     [
@@ -273,6 +273,11 @@
       "surprise"
     ],
     [
+      "history",
+      1,
+      "trust"
+    ],
+    [
       "installed",
       1,
       "anticipation"
@@ -296,11 +301,6 @@
       "strait",
       1,
       "fear"
-    ],
-    [
-      "history",
-      1,
-      "trust"
     ],
     [
       "berlin",
@@ -380,7 +380,7 @@
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 61,
+    "trust": 62,
     "fear": 27,
     "surprise": 16,
     "sadness": 6,
