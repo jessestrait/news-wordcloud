@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:27:53.089Z",
+  "generated_at": "2026-11-19T22:42:55.791Z",
   "article_count": 50,
   "top_words": [
     [
@@ -96,11 +96,6 @@
       "rule",
       3,
       "fear"
-    ],
-    [
-      "continue",
-      2,
-      "trust"
     ],
     [
       "allies",
@@ -243,7 +238,17 @@
       "anger"
     ],
     [
-      "ready",
+      "cap",
+      1,
+      "trust"
+    ],
+    [
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "farming",
       1,
       "anticipation"
     ],
@@ -371,15 +376,10 @@
       "attacked",
       1,
       "anger"
-    ],
-    [
-      "installed",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 63,
     "fear": 32,
     "surprise": 16,
