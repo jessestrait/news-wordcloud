@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T02:47:15.840Z",
+  "generated_at": "2026-11-19T03:02:18.377Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,12 +9,12 @@
     ],
     [
       "war",
-      7,
+      8,
       "anger"
     ],
     [
       "attack",
-      7,
+      8,
       "anger"
     ],
     [
@@ -68,6 +68,16 @@
       "trust"
     ],
     [
+      "strike",
+      3,
+      "anger"
+    ],
+    [
+      "missiles",
+      3,
+      "fear"
+    ],
+    [
       "deal",
       3,
       "surprise"
@@ -78,13 +88,13 @@
       "trust"
     ],
     [
-      "hit",
+      "iran",
       3,
       "anger"
     ],
     [
-      "iran",
-      3,
+      "conflict",
+      2,
       "anger"
     ],
     [
@@ -198,11 +208,6 @@
       "anger"
     ],
     [
-      "strikes",
-      2,
-      "anger"
-    ],
-    [
       "american",
       2,
       "sadness"
@@ -219,6 +224,11 @@
     ],
     [
       "threats",
+      2,
+      "anger"
+    ],
+    [
+      "hit",
       2,
       "anger"
     ],
@@ -241,11 +251,6 @@
       "delay",
       2,
       "anger"
-    ],
-    [
-      "missiles",
-      2,
-      "fear"
     ],
     [
       "bomb",
@@ -278,14 +283,19 @@
       "anger"
     ],
     [
-      "conflicts",
+      "watched",
+      1,
+      "fear"
+    ],
+    [
+      "reacts",
       1,
       "anger"
     ],
     [
-      "watched",
+      "based",
       1,
-      "fear"
+      "trust"
     ],
     [
       "lynch",
@@ -366,26 +376,16 @@
       "gained",
       1,
       "joy"
-    ],
-    [
-      "music",
-      1,
-      "joy"
-    ],
-    [
-      "stigma",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 57,
-    "fear": 28,
+    "trust": 58,
+    "fear": 29,
     "surprise": 14,
-    "sadness": 8,
+    "sadness": 7,
     "disgust": 6,
-    "anger": 110,
+    "anger": 114,
     "anticipation": 32
   }
 }
