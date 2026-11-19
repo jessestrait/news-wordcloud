@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:54:04.256Z",
+  "generated_at": "2026-11-19T16:09:06.425Z",
   "article_count": 50,
   "top_words": [
     [
@@ -93,14 +93,14 @@
       "trust"
     ],
     [
-      "iran",
-      2,
-      "anger"
-    ],
-    [
       "allies",
       2,
       "trust"
+    ],
+    [
+      "iran",
+      2,
+      "anger"
     ],
     [
       "ambitions",
@@ -233,16 +233,6 @@
       "anger"
     ],
     [
-      "supplies",
-      1,
-      "fear"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
       "berlin",
       1,
       "joy"
@@ -253,17 +243,27 @@
       "joy"
     ],
     [
-      "history",
-      1,
-      "trust"
-    ],
-    [
       "covered",
       1,
       "trust"
     ],
     [
       "agreement",
+      1,
+      "trust"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
+      "diplomatic",
+      1,
+      "trust"
+    ],
+    [
+      "history",
       1,
       "trust"
     ],
