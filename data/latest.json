@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:55:05.984Z",
+  "generated_at": "2026-11-19T18:10:08.324Z",
   "article_count": 50,
   "top_words": [
     [
@@ -21,6 +21,11 @@
       "president",
       6,
       "trust"
+    ],
+    [
+      "deal",
+      5,
+      "surprise"
     ],
     [
       "happened",
@@ -51,11 +56,6 @@
       "court",
       4,
       "anger"
-    ],
-    [
-      "deal",
-      4,
-      "surprise"
     ],
     [
       "youth",
@@ -99,11 +99,6 @@
     ],
     [
       "allies",
-      2,
-      "trust"
-    ],
-    [
-      "agreement",
       2,
       "trust"
     ],
@@ -278,6 +273,11 @@
       "trust"
     ],
     [
+      "agreement",
+      1,
+      "trust"
+    ],
+    [
       "history",
       1,
       "trust"
@@ -380,9 +380,9 @@
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 64,
+    "trust": 63,
     "fear": 32,
-    "surprise": 15,
+    "surprise": 16,
     "sadness": 5,
     "disgust": 7,
     "anger": 105,
