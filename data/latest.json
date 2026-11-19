@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:54:42.035Z",
+  "generated_at": "2026-11-19T17:09:44.065Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,16 @@
       "trust"
     ],
     [
+      "warn",
+      4,
+      "fear"
+    ],
+    [
+      "peace",
+      4,
+      "joy"
+    ],
+    [
       "global",
       4,
       "anticipation"
@@ -53,22 +63,12 @@
       "fear"
     ],
     [
-      "peace",
-      3,
-      "joy"
-    ],
-    [
       "top",
       3,
       "trust"
     ],
     [
       "government",
-      3,
-      "fear"
-    ],
-    [
-      "warns",
       3,
       "fear"
     ],
@@ -233,11 +233,6 @@
       "anger"
     ],
     [
-      "berlin",
-      1,
-      "joy"
-    ],
-    [
       "friend",
       1,
       "joy"
@@ -376,12 +371,17 @@
       "attacked",
       1,
       "anger"
+    ],
+    [
+      "installed",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 62,
-    "fear": 32,
+    "fear": 33,
     "surprise": 15,
     "sadness": 5,
     "disgust": 7,
