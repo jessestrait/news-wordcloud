@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:06:30.041Z",
+  "generated_at": "2026-11-19T11:21:32.785Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      10,
+      9,
       "anger"
     ],
     [
@@ -58,6 +58,16 @@
       "joy"
     ],
     [
+      "top",
+      3,
+      "trust"
+    ],
+    [
+      "court",
+      3,
+      "anger"
+    ],
+    [
       "allegations",
       3,
       "anger"
@@ -66,11 +76,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
     ],
     [
       "missiles",
@@ -83,14 +88,14 @@
       "surprise"
     ],
     [
+      "rule",
+      3,
+      "fear"
+    ],
+    [
       "people",
       3,
       "trust"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "allies",
@@ -98,9 +103,24 @@
       "trust"
     ],
     [
-      "attacked",
+      "world",
       2,
-      "anger"
+      "trust"
+    ],
+    [
+      "judgment",
+      2,
+      "surprise"
+    ],
+    [
+      "legal",
+      2,
+      "trust"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "damage",
@@ -116,6 +136,11 @@
       "simmering",
       2,
       "anticipation"
+    ],
+    [
+      "strike",
+      2,
+      "anger"
     ],
     [
       "fully",
@@ -158,19 +183,9 @@
       "trust"
     ],
     [
-      "top",
-      2,
-      "trust"
-    ],
-    [
       "policy",
       2,
       "trust"
-    ],
-    [
-      "court",
-      2,
-      "anger"
     ],
     [
       "building",
@@ -223,11 +238,6 @@
       "anger"
     ],
     [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "anger",
       2,
       "anger"
@@ -241,11 +251,6 @@
       "anti",
       2,
       "anger"
-    ],
-    [
-      "rule",
-      2,
-      "fear"
     ],
     [
       "delay",
@@ -278,16 +283,6 @@
       "surprise"
     ],
     [
-      "departs",
-      1,
-      "sadness"
-    ],
-    [
-      "world",
-      1,
-      "trust"
-    ],
-    [
       "berlin",
       1,
       "joy"
@@ -296,6 +291,41 @@
       "god",
       1,
       "surprise"
+    ],
+    [
+      "committed",
+      1,
+      "trust"
+    ],
+    [
+      "battle",
+      1,
+      "anger"
+    ],
+    [
+      "critical",
+      1,
+      "trust"
+    ],
+    [
+      "dealing",
+      1,
+      "surprise"
+    ],
+    [
+      "crimes",
+      1,
+      "anger"
+    ],
+    [
+      "departs",
+      1,
+      "sadness"
+    ],
+    [
+      "attacked",
+      1,
+      "anger"
     ],
     [
       "installed",
@@ -338,11 +368,6 @@
       "trust"
     ],
     [
-      "legal",
-      1,
-      "trust"
-    ],
-    [
       "sentenced",
       1,
       "anger"
@@ -351,41 +376,16 @@
       "prison",
       1,
       "anger"
-    ],
-    [
-      "absence",
-      1,
-      "fear"
-    ],
-    [
-      "victim",
-      1,
-      "anger"
-    ],
-    [
-      "malicious",
-      1,
-      "anger"
-    ],
-    [
-      "prosecution",
-      1,
-      "disgust"
-    ],
-    [
-      "create",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 60,
-    "fear": 27,
-    "surprise": 16,
+    "trust": 65,
+    "fear": 28,
+    "surprise": 18,
     "sadness": 7,
     "disgust": 7,
-    "anger": 108,
+    "anger": 107,
     "anticipation": 34
   }
 }
