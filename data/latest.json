@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T04:17:59.458Z",
+  "generated_at": "2026-11-19T04:33:01.517Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,6 +19,11 @@
     ],
     [
       "president",
+      5,
+      "trust"
+    ],
+    [
+      "leader",
       5,
       "trust"
     ],
@@ -53,21 +58,6 @@
       "anger"
     ],
     [
-      "anti",
-      4,
-      "anger"
-    ],
-    [
-      "people",
-      4,
-      "trust"
-    ],
-    [
-      "leader",
-      4,
-      "trust"
-    ],
-    [
       "strike",
       3,
       "anger"
@@ -88,9 +78,24 @@
       "trust"
     ],
     [
+      "anti",
+      3,
+      "anger"
+    ],
+    [
       "iran",
       3,
       "anger"
+    ],
+    [
+      "people",
+      3,
+      "trust"
+    ],
+    [
+      "simmering",
+      2,
+      "anticipation"
     ],
     [
       "conflict",
@@ -193,11 +198,6 @@
       "trust"
     ],
     [
-      "show",
-      2,
-      "trust"
-    ],
-    [
       "media",
       2,
       "disgust"
@@ -288,6 +288,26 @@
       "fear"
     ],
     [
+      "fanfare",
+      1,
+      "surprise"
+    ],
+    [
+      "lonely",
+      1,
+      "anger"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
+      "row",
+      1,
+      "anger"
+    ],
+    [
       "reacts",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "defense",
       1,
       "anger"
-    ],
-    [
-      "impossible",
-      1,
-      "sadness"
-    ],
-    [
-      "hug",
-      1,
-      "joy"
-    ],
-    [
-      "humiliating",
-      1,
-      "disgust"
-    ],
-    [
-      "gained",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 58,
+    "joy": 22,
+    "trust": 57,
     "fear": 29,
-    "surprise": 14,
+    "surprise": 15,
     "sadness": 7,
     "disgust": 6,
-    "anger": 114,
-    "anticipation": 32
+    "anger": 113,
+    "anticipation": 34
   }
 }
