@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-19T15:39:02.233Z",
+  "generated_at": "2026-11-19T15:54:04.256Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      12,
-      "anger"
-    ],
-    [
-      "attack",
-      9,
+      13,
       "anger"
     ],
     [
       "war",
+      9,
+      "anger"
+    ],
+    [
+      "attack",
       8,
       "anger"
     ],
@@ -53,6 +53,11 @@
       "fear"
     ],
     [
+      "peace",
+      3,
+      "joy"
+    ],
+    [
       "top",
       3,
       "trust"
@@ -88,17 +93,17 @@
       "trust"
     ],
     [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
       "allies",
       2,
       "trust"
     ],
     [
       "ambitions",
-      2,
-      "joy"
-    ],
-    [
-      "peace",
       2,
       "joy"
     ],
@@ -126,11 +131,6 @@
       "pact",
       2,
       "trust"
-    ],
-    [
-      "damage",
-      2,
-      "anger"
     ],
     [
       "power",
@@ -231,6 +231,16 @@
       "bomb",
       2,
       "anger"
+    ],
+    [
+      "supplies",
+      1,
+      "fear"
+    ],
+    [
+      "diplomatic",
+      1,
+      "trust"
     ],
     [
       "berlin",
@@ -366,26 +376,16 @@
       "attacked",
       1,
       "anger"
-    ],
-    [
-      "installed",
-      1,
-      "anticipation"
-    ],
-    [
-      "governor",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 61,
-    "fear": 31,
-    "surprise": 16,
+    "trust": 62,
+    "fear": 32,
+    "surprise": 15,
     "sadness": 5,
     "disgust": 7,
-    "anger": 104,
+    "anger": 105,
     "anticipation": 32
   }
 }
