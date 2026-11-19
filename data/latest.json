@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-19T01:16:24.192Z",
+  "generated_at": "2026-11-19T01:31:26.438Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      11,
+      12,
       "anger"
     ],
     [
@@ -21,6 +21,16 @@
       "president",
       5,
       "trust"
+    ],
+    [
+      "trade",
+      4,
+      "trust"
+    ],
+    [
+      "global",
+      4,
+      "anticipation"
     ],
     [
       "government",
@@ -53,9 +63,9 @@
       "trust"
     ],
     [
-      "gaza",
-      3,
-      "anger"
+      "leader",
+      4,
+      "trust"
     ],
     [
       "deal",
@@ -63,22 +73,7 @@
       "surprise"
     ],
     [
-      "military",
-      3,
-      "fear"
-    ],
-    [
-      "global",
-      3,
-      "anticipation"
-    ],
-    [
       "policy",
-      3,
-      "trust"
-    ],
-    [
-      "trade",
       3,
       "trust"
     ],
@@ -91,11 +86,6 @@
       "iran",
       3,
       "anger"
-    ],
-    [
-      "leader",
-      3,
-      "trust"
     ],
     [
       "fully",
@@ -118,6 +108,11 @@
       "anger"
     ],
     [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
       "confident",
       2,
       "joy"
@@ -126,6 +121,11 @@
       "blame",
       2,
       "anger"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "trip",
@@ -278,6 +278,16 @@
       "anger"
     ],
     [
+      "conflicts",
+      1,
+      "anger"
+    ],
+    [
+      "watched",
+      1,
+      "fear"
+    ],
+    [
       "lynch",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "stigma",
       1,
       "anger"
-    ],
-    [
-      "provide",
-      1,
-      "trust"
-    ],
-    [
-      "negotiating",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
-    "trust": 56,
+    "trust": 57,
     "fear": 28,
     "surprise": 14,
     "sadness": 8,
     "disgust": 6,
-    "anger": 111,
+    "anger": 110,
     "anticipation": 32
   }
 }
