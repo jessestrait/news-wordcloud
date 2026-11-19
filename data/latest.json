@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T12:22:28.597Z",
+  "generated_at": "2026-11-19T12:37:31.248Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,23 +14,23 @@
     ],
     [
       "attack",
-      8,
+      9,
       "anger"
     ],
     [
       "president",
-      6,
+      7,
       "trust"
+    ],
+    [
+      "deal",
+      4,
+      "surprise"
     ],
     [
       "leader",
-      5,
-      "trust"
-    ],
-    [
-      "government",
       4,
-      "fear"
+      "trust"
     ],
     [
       "global",
@@ -53,6 +53,21 @@
       "anger"
     ],
     [
+      "strike",
+      3,
+      "anger"
+    ],
+    [
+      "pact",
+      3,
+      "trust"
+    ],
+    [
+      "warns",
+      3,
+      "fear"
+    ],
+    [
       "top",
       3,
       "trust"
@@ -63,9 +78,9 @@
       "anger"
     ],
     [
-      "deal",
+      "government",
       3,
-      "surprise"
+      "fear"
     ],
     [
       "allegations",
@@ -83,14 +98,19 @@
       "fear"
     ],
     [
+      "threaten",
+      3,
+      "anger"
+    ],
+    [
       "rule",
       3,
       "fear"
     ],
     [
-      "people",
-      3,
-      "trust"
+      "strait",
+      2,
+      "fear"
     ],
     [
       "allies",
@@ -123,19 +143,9 @@
       "anger"
     ],
     [
-      "warns",
-      2,
-      "fear"
-    ],
-    [
       "simmering",
       2,
       "anticipation"
-    ],
-    [
-      "strike",
-      2,
-      "anger"
     ],
     [
       "fully",
@@ -203,11 +213,6 @@
       "sadness"
     ],
     [
-      "threaten",
-      2,
-      "anger"
-    ],
-    [
       "trade",
       2,
       "trust"
@@ -258,19 +263,19 @@
       "anticipation"
     ],
     [
-      "pact",
-      2,
-      "trust"
+      "retaliation",
+      1,
+      "anger"
     ],
     [
-      "young",
-      2,
-      "surprise"
-    ],
-    [
-      "agreed",
+      "statement",
       1,
       "trust"
+    ],
+    [
+      "aftermath",
+      1,
+      "anger"
     ],
     [
       "berlin",
@@ -281,6 +286,21 @@
       "friend",
       1,
       "joy"
+    ],
+    [
+      "approve",
+      1,
+      "joy"
+    ],
+    [
+      "removes",
+      1,
+      "anger"
+    ],
+    [
+      "trust",
+      1,
+      "trust"
     ],
     [
       "committed",
@@ -348,11 +368,6 @@
       "anger"
     ],
     [
-      "strait",
-      1,
-      "fear"
-    ],
-    [
       "staggered",
       1,
       "surprise"
@@ -361,31 +376,16 @@
       "age",
       1,
       "anticipation"
-    ],
-    [
-      "david",
-      1,
-      "trust"
-    ],
-    [
-      "sentenced",
-      1,
-      "anger"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 65,
-    "fear": 28,
-    "surprise": 17,
+    "joy": 23,
+    "trust": 64,
+    "fear": 29,
+    "surprise": 16,
     "sadness": 6,
     "disgust": 7,
-    "anger": 107,
+    "anger": 112,
     "anticipation": 34
   }
 }
