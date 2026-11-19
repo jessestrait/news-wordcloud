@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:50:44.298Z",
+  "generated_at": "2026-11-19T10:05:46.371Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,6 +88,16 @@
       "trust"
     ],
     [
+      "attacked",
+      2,
+      "anger"
+    ],
+    [
+      "damage",
+      2,
+      "anger"
+    ],
+    [
       "allies",
       2,
       "trust"
@@ -106,16 +116,6 @@
       "fully",
       2,
       "trust"
-    ],
-    [
-      "attacked",
-      2,
-      "anger"
-    ],
-    [
-      "damage",
-      2,
-      "anger"
     ],
     [
       "cross",
@@ -273,6 +273,31 @@
       "surprise"
     ],
     [
+      "installed",
+      1,
+      "anticipation"
+    ],
+    [
+      "governor",
+      1,
+      "trust"
+    ],
+    [
+      "assessment",
+      1,
+      "surprise"
+    ],
+    [
+      "destroyed",
+      1,
+      "anger"
+    ],
+    [
+      "strait",
+      1,
+      "fear"
+    ],
+    [
       "history",
       1,
       "trust"
@@ -351,31 +376,6 @@
       "forecasts",
       1,
       "trust"
-    ],
-    [
-      "fanfare",
-      1,
-      "surprise"
-    ],
-    [
-      "lonely",
-      1,
-      "anger"
-    ],
-    [
-      "airport",
-      1,
-      "anticipation"
-    ],
-    [
-      "row",
-      1,
-      "anger"
-    ],
-    [
-      "conflict",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
