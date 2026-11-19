@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:00:42.956Z",
+  "generated_at": "2026-11-19T00:15:44.923Z",
   "article_count": 50,
   "top_words": [
     [
@@ -95,6 +95,11 @@
     [
       "leader",
       3,
+      "trust"
+    ],
+    [
+      "fully",
+      2,
       "trust"
     ],
     [
@@ -273,9 +278,19 @@
       "anger"
     ],
     [
-      "baboons",
-      2,
-      "disgust"
+      "lynch",
+      1,
+      "anger"
+    ],
+    [
+      "vulnerability",
+      1,
+      "fear"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
     ],
     [
       "installed",
@@ -361,31 +376,16 @@
       "negotiating",
       1,
       "trust"
-    ],
-    [
-      "ambitions",
-      1,
-      "joy"
-    ],
-    [
-      "abuse",
-      1,
-      "anger"
-    ],
-    [
-      "case",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 23,
     "trust": 56,
-    "fear": 27,
+    "fear": 28,
     "surprise": 14,
     "sadness": 8,
-    "disgust": 8,
-    "anger": 109,
+    "disgust": 6,
+    "anger": 111,
     "anticipation": 32
   }
 }
