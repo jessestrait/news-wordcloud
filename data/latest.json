@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:50:19.381Z",
+  "generated_at": "2026-11-19T09:05:22.080Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,14 @@
       "anger"
     ],
     [
-      "global",
-      5,
-      "anticipation"
+      "leader",
+      4,
+      "trust"
     ],
     [
-      "leader",
-      5,
-      "trust"
+      "global",
+      4,
+      "anticipation"
     ],
     [
       "government",
@@ -53,9 +53,9 @@
       "anger"
     ],
     [
-      "trade",
+      "friend",
       3,
-      "trust"
+      "joy"
     ],
     [
       "allegations",
@@ -88,19 +88,9 @@
       "trust"
     ],
     [
-      "praises",
-      2,
-      "joy"
-    ],
-    [
       "allies",
       2,
       "trust"
-    ],
-    [
-      "friend",
-      2,
-      "joy"
     ],
     [
       "warns",
@@ -111,11 +101,6 @@
       "simmering",
       2,
       "anticipation"
-    ],
-    [
-      "conflict",
-      2,
-      "anger"
     ],
     [
       "fully",
@@ -218,6 +203,11 @@
       "anger"
     ],
     [
+      "trade",
+      2,
+      "trust"
+    ],
+    [
       "fear",
       2,
       "anger"
@@ -291,6 +281,11 @@
       "god",
       1,
       "surprise"
+    ],
+    [
+      "history",
+      1,
+      "trust"
     ],
     [
       "staggered",
@@ -376,16 +371,21 @@
       "row",
       1,
       "anger"
+    ],
+    [
+      "conflict",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 62,
+    "trust": 61,
     "fear": 27,
     "surprise": 16,
     "sadness": 6,
     "disgust": 7,
-    "anger": 109,
-    "anticipation": 35
+    "anger": 108,
+    "anticipation": 34
   }
 }
