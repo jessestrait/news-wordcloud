@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:24:23.492Z",
+  "generated_at": "2026-11-19T16:39:25.618Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "trust"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "leader",
       5,
       "trust"
@@ -41,11 +46,6 @@
       "deal",
       4,
       "surprise"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "rule",
@@ -233,16 +233,6 @@
       "anger"
     ],
     [
-      "covered",
-      1,
-      "trust"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
-    ],
-    [
       "berlin",
       1,
       "joy"
@@ -251,6 +241,16 @@
       "friend",
       1,
       "joy"
+    ],
+    [
+      "covered",
+      1,
+      "trust"
+    ],
+    [
+      "agreement",
+      1,
+      "trust"
     ],
     [
       "supplies",
@@ -386,6 +386,6 @@
     "sadness": 5,
     "disgust": 7,
     "anger": 105,
-    "anticipation": 32
+    "anticipation": 33
   }
 }
