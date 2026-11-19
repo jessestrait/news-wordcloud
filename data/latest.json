@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-11-19T05:48:44.321Z",
+  "generated_at": "2026-11-19T06:03:46.523Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      12,
-      "anger"
-    ],
-    [
-      "war",
-      8,
+      10,
       "anger"
     ],
     [
       "attack",
       8,
       "anger"
+    ],
+    [
+      "war",
+      7,
+      "anger"
+    ],
+    [
+      "leader",
+      6,
+      "trust"
     ],
     [
       "president",
@@ -26,16 +31,6 @@
       "global",
       5,
       "anticipation"
-    ],
-    [
-      "leader",
-      5,
-      "trust"
-    ],
-    [
-      "trade",
-      4,
-      "trust"
     ],
     [
       "government",
@@ -56,6 +51,11 @@
       "illegal",
       4,
       "anger"
+    ],
+    [
+      "trade",
+      3,
+      "trust"
     ],
     [
       "power",
@@ -84,11 +84,6 @@
     ],
     [
       "anti",
-      3,
-      "anger"
-    ],
-    [
-      "iran",
       3,
       "anger"
     ],
@@ -171,11 +166,6 @@
       "top",
       2,
       "trust"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "court",
@@ -268,6 +258,11 @@
       "anger"
     ],
     [
+      "iran",
+      2,
+      "anger"
+    ],
+    [
       "pay",
       2,
       "joy"
@@ -291,6 +286,41 @@
       "forces",
       2,
       "anger"
+    ],
+    [
+      "legal",
+      1,
+      "trust"
+    ],
+    [
+      "sentenced",
+      1,
+      "anger"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
+    ],
+    [
+      "absence",
+      1,
+      "fear"
+    ],
+    [
+      "victim",
+      1,
+      "anger"
+    ],
+    [
+      "malicious",
+      1,
+      "anger"
+    ],
+    [
+      "prosecution",
+      1,
+      "disgust"
     ],
     [
       "create",
@@ -346,45 +376,15 @@
       "vulnerability",
       1,
       "fear"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
-    ],
-    [
-      "installed",
-      1,
-      "anticipation"
-    ],
-    [
-      "governor",
-      1,
-      "trust"
-    ],
-    [
-      "assessment",
-      1,
-      "surprise"
-    ],
-    [
-      "destroyed",
-      1,
-      "anger"
-    ],
-    [
-      "strait",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
+    "joy": 22,
     "trust": 60,
-    "fear": 29,
+    "fear": 30,
     "surprise": 15,
     "sadness": 6,
-    "disgust": 6,
+    "disgust": 7,
     "anger": 113,
     "anticipation": 36
   }
