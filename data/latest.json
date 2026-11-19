@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:38:37.492Z",
+  "generated_at": "2026-11-19T14:53:39.463Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,6 +88,11 @@
       "fear"
     ],
     [
+      "allies",
+      2,
+      "trust"
+    ],
+    [
       "peace",
       2,
       "joy"
@@ -96,11 +101,6 @@
       "unprecedented",
       2,
       "surprise"
-    ],
-    [
-      "allies",
-      2,
-      "trust"
     ],
     [
       "judgment",
@@ -253,6 +253,16 @@
       "anger"
     ],
     [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
+      "friend",
+      1,
+      "joy"
+    ],
+    [
       "covered",
       1,
       "trust"
@@ -271,16 +281,6 @@
       "focused",
       1,
       "trust"
-    ],
-    [
-      "berlin",
-      1,
-      "joy"
-    ],
-    [
-      "friend",
-      1,
-      "joy"
     ],
     [
       "committed",
