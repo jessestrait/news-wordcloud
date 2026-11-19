@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T13:37:58.566Z",
+  "generated_at": "2026-11-19T13:53:01.343Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,6 +48,16 @@
       "trust"
     ],
     [
+      "top",
+      3,
+      "trust"
+    ],
+    [
+      "court",
+      3,
+      "anger"
+    ],
+    [
       "government",
       3,
       "fear"
@@ -61,16 +71,6 @@
       "warns",
       3,
       "fear"
-    ],
-    [
-      "top",
-      3,
-      "trust"
-    ],
-    [
-      "court",
-      3,
-      "anger"
     ],
     [
       "allegations",
@@ -93,14 +93,24 @@
       "fear"
     ],
     [
-      "allies",
+      "judgment",
       2,
-      "trust"
+      "surprise"
+    ],
+    [
+      "case",
+      2,
+      "fear"
     ],
     [
       "peace",
       2,
       "joy"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
     ],
     [
       "cross",
@@ -111,16 +121,6 @@
       "gaza",
       2,
       "anger"
-    ],
-    [
-      "judgment",
-      2,
-      "surprise"
-    ],
-    [
-      "case",
-      2,
-      "fear"
     ],
     [
       "damage",
@@ -268,14 +268,29 @@
       "anticipation"
     ],
     [
-      "berlin",
+      "committed",
       1,
-      "joy"
+      "trust"
     ],
     [
-      "friend",
+      "world",
       1,
-      "joy"
+      "trust"
+    ],
+    [
+      "critical",
+      1,
+      "trust"
+    ],
+    [
+      "dealing",
+      1,
+      "surprise"
+    ],
+    [
+      "crimes",
+      1,
+      "anger"
     ],
     [
       "covered",
@@ -286,6 +301,16 @@
       "agreement",
       1,
       "trust"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
+      "friend",
+      1,
+      "joy"
     ],
     [
       "incursion",
@@ -331,31 +356,6 @@
       "trust",
       1,
       "trust"
-    ],
-    [
-      "committed",
-      1,
-      "trust"
-    ],
-    [
-      "world",
-      1,
-      "trust"
-    ],
-    [
-      "critical",
-      1,
-      "trust"
-    ],
-    [
-      "dealing",
-      1,
-      "surprise"
-    ],
-    [
-      "crimes",
-      1,
-      "anger"
     ],
     [
       "attacked",
