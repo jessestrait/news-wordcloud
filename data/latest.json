@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:53:39.463Z",
+  "generated_at": "2026-11-19T15:08:41.636Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "president",
-      5,
+      6,
       "trust"
     ],
     [
@@ -36,11 +36,6 @@
       "deal",
       4,
       "surprise"
-    ],
-    [
-      "global",
-      4,
-      "anticipation"
     ],
     [
       "happened",
@@ -73,9 +68,14 @@
       "anger"
     ],
     [
-      "power",
+      "global",
       3,
       "anticipation"
+    ],
+    [
+      "strike",
+      3,
+      "anger"
     ],
     [
       "missiles",
@@ -133,24 +133,19 @@
       "anger"
     ],
     [
+      "power",
+      2,
+      "anticipation"
+    ],
+    [
       "simmering",
       2,
       "anticipation"
     ],
     [
-      "strike",
-      2,
-      "anger"
-    ],
-    [
       "fully",
       2,
       "trust"
-    ],
-    [
-      "confident",
-      2,
-      "joy"
     ],
     [
       "blame",
@@ -250,6 +245,21 @@
     [
       "bomb",
       2,
+      "anger"
+    ],
+    [
+      "vows",
+      1,
+      "joy"
+    ],
+    [
+      "painful",
+      1,
+      "anger"
+    ],
+    [
+      "bombing",
+      1,
       "anger"
     ],
     [
@@ -366,16 +376,6 @@
       "governor",
       1,
       "trust"
-    ],
-    [
-      "assessment",
-      1,
-      "surprise"
-    ],
-    [
-      "destroyed",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 17,
     "sadness": 6,
     "disgust": 7,
-    "anger": 100,
-    "anticipation": 34
+    "anger": 103,
+    "anticipation": 32
   }
 }
