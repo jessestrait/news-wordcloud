@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:13:18.073Z",
+  "generated_at": "2026-11-19T23:28:20.934Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "anger"
     ],
     [
-      "war",
-      9,
+      "attack",
+      8,
       "anger"
     ],
     [
-      "attack",
+      "war",
       8,
       "anger"
     ],
@@ -136,6 +136,11 @@
       "pact",
       2,
       "trust"
+    ],
+    [
+      "conflict",
+      2,
+      "anger"
     ],
     [
       "power",
@@ -371,11 +376,6 @@
       "trust",
       1,
       "trust"
-    ],
-    [
-      "attacked",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
