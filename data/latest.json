@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:52:02.684Z",
+  "generated_at": "2026-11-19T12:07:04.967Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "president",
-      7,
+      6,
       "trust"
     ],
     [
@@ -53,11 +53,6 @@
       "anger"
     ],
     [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "top",
       3,
       "trust"
@@ -66,6 +61,11 @@
       "court",
       3,
       "anger"
+    ],
+    [
+      "deal",
+      3,
+      "surprise"
     ],
     [
       "allegations",
@@ -93,14 +93,19 @@
       "trust"
     ],
     [
-      "allies",
+      "judgment",
+      2,
+      "surprise"
+    ],
+    [
+      "legal",
       2,
       "trust"
     ],
     [
-      "friend",
+      "allies",
       2,
-      "joy"
+      "trust"
     ],
     [
       "cross",
@@ -111,16 +116,6 @@
       "gaza",
       2,
       "anger"
-    ],
-    [
-      "judgment",
-      2,
-      "surprise"
-    ],
-    [
-      "legal",
-      2,
-      "trust"
     ],
     [
       "damage",
@@ -273,31 +268,6 @@
       "surprise"
     ],
     [
-      "agreed",
-      1,
-      "trust"
-    ],
-    [
-      "berlin",
-      1,
-      "joy"
-    ],
-    [
-      "god",
-      1,
-      "surprise"
-    ],
-    [
-      "incursion",
-      1,
-      "fear"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
       "committed",
       1,
       "trust"
@@ -326,6 +296,31 @@
       "crimes",
       1,
       "anger"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
+      "friend",
+      1,
+      "joy"
+    ],
+    [
+      "agreed",
+      1,
+      "trust"
+    ],
+    [
+      "incursion",
+      1,
+      "fear"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
     ],
     [
       "attacked",
@@ -376,13 +371,18 @@
       "sentenced",
       1,
       "anger"
+    ],
+    [
+      "prison",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 66,
+    "joy": 22,
+    "trust": 65,
     "fear": 28,
-    "surprise": 18,
+    "surprise": 17,
     "sadness": 6,
     "disgust": 7,
     "anger": 107,
