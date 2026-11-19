@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T13:07:53.401Z",
+  "generated_at": "2026-11-19T13:22:55.999Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,6 +98,11 @@
       "trust"
     ],
     [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
       "cross",
       2,
       "anger"
@@ -106,11 +111,6 @@
       "gaza",
       2,
       "anger"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "judgment",
@@ -278,16 +278,6 @@
       "joy"
     ],
     [
-      "incursion",
-      1,
-      "fear"
-    ],
-    [
-      "seeks",
-      1,
-      "anticipation"
-    ],
-    [
       "statement",
       1,
       "trust"
@@ -298,17 +288,22 @@
       "anticipation"
     ],
     [
-      "rams",
+      "incursion",
       1,
-      "anger"
+      "fear"
     ],
     [
-      "times",
+      "seeks",
       1,
       "anticipation"
     ],
     [
-      "injuring",
+      "injured",
+      1,
+      "fear"
+    ],
+    [
+      "rams",
       1,
       "anger"
     ],
@@ -376,16 +371,21 @@
       "governor",
       1,
       "trust"
+    ],
+    [
+      "assessment",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 62,
-    "fear": 29,
+    "fear": 30,
     "surprise": 16,
     "sadness": 6,
     "disgust": 7,
-    "anger": 104,
-    "anticipation": 37
+    "anger": 103,
+    "anticipation": 36
   }
 }
