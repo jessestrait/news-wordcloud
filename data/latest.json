@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T04:33:01.517Z",
+  "generated_at": "2026-11-19T04:48:03.391Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "president",
-      5,
+      6,
       "trust"
     ],
     [
@@ -91,6 +91,11 @@
       "people",
       3,
       "trust"
+    ],
+    [
+      "praises",
+      2,
+      "joy"
     ],
     [
       "simmering",
@@ -283,11 +288,6 @@
       "anger"
     ],
     [
-      "watched",
-      1,
-      "fear"
-    ],
-    [
       "fanfare",
       1,
       "surprise"
@@ -379,9 +379,9 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 57,
-    "fear": 29,
+    "joy": 23,
+    "trust": 58,
+    "fear": 28,
     "surprise": 15,
     "sadness": 7,
     "disgust": 6,
