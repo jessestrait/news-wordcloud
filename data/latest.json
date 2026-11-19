@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:05:22.080Z",
+  "generated_at": "2026-11-19T09:20:24.499Z",
   "article_count": 50,
   "top_words": [
     [
@@ -273,6 +273,11 @@
       "surprise"
     ],
     [
+      "history",
+      1,
+      "trust"
+    ],
+    [
       "berlin",
       1,
       "joy"
@@ -281,11 +286,6 @@
       "god",
       1,
       "surprise"
-    ],
-    [
-      "history",
-      1,
-      "trust"
     ],
     [
       "staggered",
