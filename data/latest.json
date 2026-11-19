@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:21:32.785Z",
+  "generated_at": "2026-11-19T11:36:34.709Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,18 +24,18 @@
     ],
     [
       "leader",
-      4,
+      5,
       "trust"
-    ],
-    [
-      "global",
-      4,
-      "anticipation"
     ],
     [
       "government",
       4,
       "fear"
+    ],
+    [
+      "global",
+      4,
+      "anticipation"
     ],
     [
       "happened",
@@ -53,9 +53,9 @@
       "anger"
     ],
     [
-      "friend",
+      "deal",
       3,
-      "joy"
+      "surprise"
     ],
     [
       "top",
@@ -83,11 +83,6 @@
       "fear"
     ],
     [
-      "deal",
-      3,
-      "surprise"
-    ],
-    [
       "rule",
       3,
       "fear"
@@ -98,14 +93,24 @@
       "trust"
     ],
     [
+      "cross",
+      2,
+      "anger"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
       "allies",
       2,
       "trust"
     ],
     [
-      "world",
+      "friend",
       2,
-      "trust"
+      "joy"
     ],
     [
       "judgment",
@@ -116,11 +121,6 @@
       "legal",
       2,
       "trust"
-    ],
-    [
-      "peace",
-      2,
-      "joy"
     ],
     [
       "damage",
@@ -146,16 +146,6 @@
       "fully",
       2,
       "trust"
-    ],
-    [
-      "cross",
-      2,
-      "anger"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
     ],
     [
       "confident",
@@ -283,6 +273,21 @@
       "surprise"
     ],
     [
+      "agreed",
+      1,
+      "trust"
+    ],
+    [
+      "incursion",
+      1,
+      "fear"
+    ],
+    [
+      "seeks",
+      1,
+      "anticipation"
+    ],
+    [
       "berlin",
       1,
       "joy"
@@ -294,6 +299,11 @@
     ],
     [
       "committed",
+      1,
+      "trust"
+    ],
+    [
+      "world",
       1,
       "trust"
     ],
@@ -316,11 +326,6 @@
       "crimes",
       1,
       "anger"
-    ],
-    [
-      "departs",
-      1,
-      "sadness"
     ],
     [
       "attacked",
@@ -371,19 +376,14 @@
       "sentenced",
       1,
       "anger"
-    ],
-    [
-      "prison",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 65,
+    "joy": 23,
+    "trust": 66,
     "fear": 28,
     "surprise": 18,
-    "sadness": 7,
+    "sadness": 6,
     "disgust": 7,
     "anger": 107,
     "anticipation": 34
