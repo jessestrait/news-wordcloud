@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:24:46.140Z",
+  "generated_at": "2026-11-19T17:39:48.200Z",
   "article_count": 50,
   "top_words": [
     [
@@ -248,6 +248,11 @@
       "anger"
     ],
     [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
       "friend",
       1,
       "joy"
@@ -371,15 +376,10 @@
       "installed",
       1,
       "anticipation"
-    ],
-    [
-      "governor",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 65,
     "fear": 32,
     "surprise": 15,
