@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T13:22:55.999Z",
+  "generated_at": "2026-11-19T13:37:58.566Z",
   "article_count": 50,
   "top_words": [
     [
@@ -278,14 +278,14 @@
       "joy"
     ],
     [
-      "statement",
+      "covered",
       1,
       "trust"
     ],
     [
-      "addresses",
+      "agreement",
       1,
-      "anticipation"
+      "trust"
     ],
     [
       "incursion",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 62,
+    "trust": 63,
     "fear": 30,
     "surprise": 16,
     "sadness": 6,
     "disgust": 7,
     "anger": 103,
-    "anticipation": 36
+    "anticipation": 35
   }
 }
