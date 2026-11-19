@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:49:06.823Z",
+  "generated_at": "2026-11-19T07:04:08.817Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "trust"
     ],
     [
+      "allegations",
+      3,
+      "anger"
+    ],
+    [
       "power",
       3,
       "anticipation"
@@ -76,11 +81,6 @@
       "deal",
       3,
       "surprise"
-    ],
-    [
-      "policy",
-      3,
-      "trust"
     ],
     [
       "people",
@@ -163,12 +163,12 @@
       "trust"
     ],
     [
-      "court",
+      "policy",
       2,
-      "anger"
+      "trust"
     ],
     [
-      "allegations",
+      "court",
       2,
       "anger"
     ],
@@ -181,11 +181,6 @@
       "ruling",
       2,
       "fear"
-    ],
-    [
-      "failing",
-      2,
-      "anger"
     ],
     [
       "nation",
@@ -283,6 +278,21 @@
       "surprise"
     ],
     [
+      "staggered",
+      1,
+      "surprise"
+    ],
+    [
+      "age",
+      1,
+      "anticipation"
+    ],
+    [
+      "david",
+      1,
+      "trust"
+    ],
+    [
       "legal",
       1,
       "trust"
@@ -366,26 +376,16 @@
       "lynch",
       1,
       "anger"
-    ],
-    [
-      "vulnerability",
-      1,
-      "fear"
-    ],
-    [
-      "killing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
     "trust": 61,
-    "fear": 30,
-    "surprise": 15,
+    "fear": 29,
+    "surprise": 16,
     "sadness": 6,
     "disgust": 7,
-    "anger": 111,
+    "anger": 109,
     "anticipation": 35
   }
 }
