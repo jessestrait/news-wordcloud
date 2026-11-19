@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-19T08:35:17.033Z",
+  "generated_at": "2026-11-19T08:50:19.381Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      10,
+      11,
       "anger"
     ],
     [
@@ -13,24 +13,24 @@
       "anger"
     ],
     [
+      "president",
+      8,
+      "trust"
+    ],
+    [
       "attack",
       8,
       "anger"
     ],
     [
-      "president",
-      7,
-      "trust"
-    ],
-    [
-      "leader",
-      6,
-      "trust"
-    ],
-    [
       "global",
       5,
       "anticipation"
+    ],
+    [
+      "leader",
+      5,
+      "trust"
     ],
     [
       "government",
@@ -89,6 +89,16 @@
     ],
     [
       "praises",
+      2,
+      "joy"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
+    ],
+    [
+      "friend",
       2,
       "joy"
     ],
@@ -258,11 +268,6 @@
       "anger"
     ],
     [
-      "pay",
-      2,
-      "joy"
-    ],
-    [
       "arrives",
       2,
       "anticipation"
@@ -275,6 +280,16 @@
     [
       "young",
       2,
+      "surprise"
+    ],
+    [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
+      "god",
+      1,
       "surprise"
     ],
     [
@@ -361,27 +376,12 @@
       "row",
       1,
       "anger"
-    ],
-    [
-      "reacts",
-      1,
-      "anger"
-    ],
-    [
-      "based",
-      1,
-      "trust"
-    ],
-    [
-      "lynch",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 61,
-    "fear": 29,
+    "joy": 24,
+    "trust": 62,
+    "fear": 27,
     "surprise": 16,
     "sadness": 6,
     "disgust": 7,
