@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:21:04.365Z",
+  "generated_at": "2026-11-19T10:36:06.801Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,6 +88,11 @@
       "trust"
     ],
     [
+      "allies",
+      2,
+      "trust"
+    ],
+    [
       "attacked",
       2,
       "anger"
@@ -96,11 +101,6 @@
       "damage",
       2,
       "anger"
-    ],
-    [
-      "allies",
-      2,
-      "trust"
     ],
     [
       "warns",
@@ -278,6 +278,16 @@
       "trust"
     ],
     [
+      "berlin",
+      1,
+      "joy"
+    ],
+    [
+      "god",
+      1,
+      "surprise"
+    ],
+    [
       "installed",
       1,
       "anticipation"
@@ -301,16 +311,6 @@
       "strait",
       1,
       "fear"
-    ],
-    [
-      "berlin",
-      1,
-      "joy"
-    ],
-    [
-      "god",
-      1,
-      "surprise"
     ],
     [
       "staggered",
