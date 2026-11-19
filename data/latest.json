@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:36:06.801Z",
+  "generated_at": "2026-11-19T10:51:09.349Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "president",
-      9,
-      "trust"
-    ],
-    [
       "attack",
       8,
       "anger"
+    ],
+    [
+      "president",
+      7,
+      "trust"
     ],
     [
       "leader",
@@ -86,6 +86,11 @@
       "people",
       3,
       "trust"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
     ],
     [
       "allies",
@@ -273,7 +278,12 @@
       "surprise"
     ],
     [
-      "history",
+      "departs",
+      1,
+      "sadness"
+    ],
+    [
+      "world",
       1,
       "trust"
     ],
@@ -366,24 +376,14 @@
       "create",
       1,
       "joy"
-    ],
-    [
-      "watchdog",
-      1,
-      "trust"
-    ],
-    [
-      "forecasts",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 62,
+    "joy": 25,
+    "trust": 60,
     "fear": 27,
     "surprise": 16,
-    "sadness": 6,
+    "sadness": 7,
     "disgust": 7,
     "anger": 108,
     "anticipation": 34
