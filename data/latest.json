@@ -1,9 +1,14 @@
 {
-  "generated_at": "2026-11-19T06:34:04.816Z",
+  "generated_at": "2026-11-19T06:49:06.823Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
+      10,
+      "anger"
+    ],
+    [
+      "war",
       10,
       "anger"
     ],
@@ -13,13 +18,8 @@
       "anger"
     ],
     [
-      "war",
-      7,
-      "anger"
-    ],
-    [
       "president",
-      6,
+      7,
       "trust"
     ],
     [
@@ -81,11 +81,6 @@
       "policy",
       3,
       "trust"
-    ],
-    [
-      "anti",
-      3,
-      "anger"
     ],
     [
       "people",
@@ -243,6 +238,11 @@
       "anticipation"
     ],
     [
+      "anti",
+      2,
+      "anger"
+    ],
+    [
       "rule",
       2,
       "fear"
@@ -281,11 +281,6 @@
       "young",
       2,
       "surprise"
-    ],
-    [
-      "forces",
-      2,
-      "anger"
     ],
     [
       "legal",
@@ -376,16 +371,21 @@
       "vulnerability",
       1,
       "fear"
+    ],
+    [
+      "killing",
+      1,
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 22,
-    "trust": 60,
+    "trust": 61,
     "fear": 30,
     "surprise": 15,
     "sadness": 6,
     "disgust": 7,
-    "anger": 113,
-    "anticipation": 36
+    "anger": 111,
+    "anticipation": 35
   }
 }
