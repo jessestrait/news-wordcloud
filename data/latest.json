@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:42:03.225Z",
+  "generated_at": "2026-11-19T20:57:05.641Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,12 +98,12 @@
       "fear"
     ],
     [
-      "allies",
+      "continue",
       2,
       "trust"
     ],
     [
-      "continue",
+      "allies",
       2,
       "trust"
     ],
@@ -243,6 +243,11 @@
       "anger"
     ],
     [
+      "ready",
+      1,
+      "anticipation"
+    ],
+    [
       "vows",
       1,
       "joy"
@@ -266,11 +271,6 @@
       "friend",
       1,
       "joy"
-    ],
-    [
-      "ready",
-      1,
-      "anticipation"
     ],
     [
       "supplies",
