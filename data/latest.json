@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:08:41.636Z",
+  "generated_at": "2026-11-19T15:23:43.732Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,9 +43,9 @@
       "anticipation"
     ],
     [
-      "bank",
+      "rule",
       4,
-      "trust"
+      "fear"
     ],
     [
       "top",
@@ -83,19 +83,19 @@
       "fear"
     ],
     [
-      "rule",
+      "bank",
       3,
-      "fear"
-    ],
-    [
-      "allies",
-      2,
       "trust"
     ],
     [
       "peace",
       2,
       "joy"
+    ],
+    [
+      "allies",
+      2,
+      "trust"
     ],
     [
       "unprecedented",
@@ -173,11 +173,6 @@
       "trust"
     ],
     [
-      "building",
-      2,
-      "anticipation"
-    ],
-    [
       "ruling",
       2,
       "fear"
@@ -228,11 +223,6 @@
       "anger"
     ],
     [
-      "illegal",
-      2,
-      "anger"
-    ],
-    [
       "arrival",
       2,
       "anticipation"
@@ -246,6 +236,36 @@
       "bomb",
       2,
       "anger"
+    ],
+    [
+      "covered",
+      1,
+      "trust"
+    ],
+    [
+      "agreement",
+      1,
+      "trust"
+    ],
+    [
+      "crunch",
+      1,
+      "anger"
+    ],
+    [
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "fees",
+      1,
+      "anger"
+    ],
+    [
+      "unresolved",
+      1,
+      "anticipation"
     ],
     [
       "vows",
@@ -271,16 +291,6 @@
       "friend",
       1,
       "joy"
-    ],
-    [
-      "covered",
-      1,
-      "trust"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
     ],
     [
       "history",
@@ -366,26 +376,16 @@
       "attacked",
       1,
       "anger"
-    ],
-    [
-      "installed",
-      1,
-      "anticipation"
-    ],
-    [
-      "governor",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 63,
-    "fear": 30,
+    "joy": 25,
+    "trust": 62,
+    "fear": 31,
     "surprise": 17,
-    "sadness": 6,
+    "sadness": 5,
     "disgust": 7,
-    "anger": 103,
+    "anger": 104,
     "anticipation": 32
   }
 }
