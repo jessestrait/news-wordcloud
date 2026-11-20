@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:35:52.417Z",
+  "generated_at": "2026-11-20T13:50:54.428Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,23 +13,28 @@
       "anger"
     ],
     [
-      "deal",
-      7,
-      "surprise"
-    ],
-    [
       "attack",
       7,
       "anger"
     ],
     [
-      "leader",
+      "deal",
       6,
-      "trust"
+      "surprise"
     ],
     [
       "president",
-      4,
+      5,
+      "trust"
+    ],
+    [
+      "power",
+      5,
+      "anticipation"
+    ],
+    [
+      "leader",
+      5,
       "trust"
     ],
     [
@@ -58,19 +63,9 @@
       "anger"
     ],
     [
-      "power",
-      4,
-      "anticipation"
-    ],
-    [
       "strike",
       4,
       "anger"
-    ],
-    [
-      "agreement",
-      3,
-      "trust"
     ],
     [
       "nation",
@@ -96,11 +91,6 @@
       "bank",
       3,
       "trust"
-    ],
-    [
-      "university",
-      2,
-      "anticipation"
     ],
     [
       "threaten",
@@ -258,14 +248,19 @@
       "anger"
     ],
     [
-      "statement",
+      "agreeing",
       1,
       "trust"
     ],
     [
-      "fees",
+      "council",
       1,
-      "anger"
+      "trust"
+    ],
+    [
+      "remains",
+      1,
+      "fear"
     ],
     [
       "cop",
@@ -291,6 +286,21 @@
       "official",
       1,
       "trust"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
+    ],
+    [
+      "admirable",
+      1,
+      "joy"
+    ],
+    [
+      "seeking",
+      1,
+      "anticipation"
     ],
     [
       "provocation",
@@ -366,26 +376,16 @@
       "powerful",
       1,
       "anger"
-    ],
-    [
-      "exposes",
-      1,
-      "fear"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 69,
-    "fear": 35,
-    "surprise": 20,
-    "sadness": 4,
+    "joy": 23,
+    "trust": 66,
+    "fear": 36,
+    "surprise": 18,
+    "sadness": 5,
     "disgust": 6,
-    "anger": 100,
+    "anger": 97,
     "anticipation": 31
   }
 }
