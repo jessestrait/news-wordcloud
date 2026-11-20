@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:48:51.818Z",
+  "generated_at": "2026-11-20T10:03:53.763Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
+      "deal",
+      7,
+      "surprise"
+    ],
+    [
       "attack",
       7,
       "anger"
-    ],
-    [
-      "deal",
-      6,
-      "surprise"
     ],
     [
       "leader",
@@ -63,6 +63,11 @@
       "anticipation"
     ],
     [
+      "agreement",
+      3,
+      "trust"
+    ],
+    [
       "ruling",
       3,
       "fear"
@@ -96,6 +101,11 @@
       "rule",
       3,
       "fear"
+    ],
+    [
+      "fees",
+      2,
+      "anger"
     ],
     [
       "threaten",
@@ -228,14 +238,14 @@
       "anger"
     ],
     [
-      "fees",
-      1,
-      "anger"
-    ],
-    [
       "agreed",
       1,
       "trust"
+    ],
+    [
+      "contingent",
+      1,
+      "anticipation"
     ],
     [
       "cop",
@@ -243,9 +253,9 @@
       "fear"
     ],
     [
-      "crunch",
+      "beg",
       1,
-      "anger"
+      "sadness"
     ],
     [
       "polluting",
@@ -366,26 +376,16 @@
       "supplies",
       1,
       "fear"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "covered",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 63,
+    "trust": 65,
     "fear": 34,
-    "surprise": 17,
-    "sadness": 3,
+    "surprise": 18,
+    "sadness": 4,
     "disgust": 7,
     "anger": 101,
-    "anticipation": 31
+    "anticipation": 32
   }
 }
