@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:33:49.903Z",
+  "generated_at": "2026-11-20T09:48:51.818Z",
   "article_count": 50,
   "top_words": [
     [
@@ -228,6 +228,11 @@
       "anger"
     ],
     [
+      "fees",
+      1,
+      "anger"
+    ],
+    [
       "agreed",
       1,
       "trust"
@@ -371,11 +376,6 @@
       "covered",
       1,
       "trust"
-    ],
-    [
-      "agreement",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
@@ -385,7 +385,7 @@
     "surprise": 17,
     "sadness": 3,
     "disgust": 7,
-    "anger": 100,
+    "anger": 101,
     "anticipation": 31
   }
 }
