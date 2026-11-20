@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:52:25.094Z",
+  "generated_at": "2026-11-20T17:07:27.598Z",
   "article_count": 50,
   "top_words": [
     [
@@ -248,21 +248,6 @@
       "anger"
     ],
     [
-      "agreeing",
-      1,
-      "trust"
-    ],
-    [
-      "council",
-      1,
-      "trust"
-    ],
-    [
-      "remains",
-      1,
-      "fear"
-    ],
-    [
       "cop",
       1,
       "fear"
@@ -276,6 +261,21 @@
       "official",
       1,
       "trust"
+    ],
+    [
+      "agreeing",
+      1,
+      "trust"
+    ],
+    [
+      "council",
+      1,
+      "trust"
+    ],
+    [
+      "remains",
+      1,
+      "fear"
     ],
     [
       "provocation",
