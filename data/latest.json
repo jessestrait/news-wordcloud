@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T05:16:22.722Z",
+  "generated_at": "2026-11-20T05:31:24.783Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,12 +8,12 @@
       "anger"
     ],
     [
-      "attack",
-      8,
+      "war",
+      9,
       "anger"
     ],
     [
-      "war",
+      "attack",
       8,
       "anger"
     ],
@@ -113,14 +113,14 @@
       "trust"
     ],
     [
-      "allies",
+      "guarantee",
       2,
       "trust"
     ],
     [
-      "iran",
+      "allies",
       2,
-      "anger"
+      "trust"
     ],
     [
       "ambitions",
@@ -218,17 +218,7 @@
       "anger"
     ],
     [
-      "threats",
-      2,
-      "anger"
-    ],
-    [
       "delay",
-      2,
-      "anger"
-    ],
-    [
-      "bomb",
       2,
       "anger"
     ],
@@ -301,6 +291,11 @@
       "friend",
       1,
       "joy"
+    ],
+    [
+      "iran",
+      1,
+      "anger"
     ],
     [
       "supplies",
@@ -376,16 +371,21 @@
       "accelerating",
       1,
       "anticipation"
+    ],
+    [
+      "approve",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 62,
-    "fear": 35,
+    "fear": 34,
     "surprise": 16,
     "sadness": 4,
-    "disgust": 7,
-    "anger": 103,
-    "anticipation": 34
+    "disgust": 6,
+    "anger": 100,
+    "anticipation": 33
   }
 }
