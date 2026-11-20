@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:02:15.748Z",
+  "generated_at": "2026-11-20T07:17:17.896Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,13 +8,13 @@
       "anger"
     ],
     [
-      "attack",
-      10,
+      "war",
+      9,
       "anger"
     ],
     [
-      "war",
-      9,
+      "attack",
+      8,
       "anger"
     ],
     [
@@ -23,18 +23,13 @@
       "surprise"
     ],
     [
-      "president",
+      "leader",
       5,
       "trust"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
-      "leader",
-      5,
+      "president",
+      4,
       "trust"
     ],
     [
@@ -46,6 +41,11 @@
       "peace",
       4,
       "joy"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "global",
@@ -93,11 +93,6 @@
       "anger"
     ],
     [
-      "missiles",
-      3,
-      "fear"
-    ],
-    [
       "bank",
       3,
       "trust"
@@ -106,6 +101,11 @@
       "rule",
       3,
       "fear"
+    ],
+    [
+      "threaten",
+      2,
+      "anger"
     ],
     [
       "seek",
@@ -131,11 +131,6 @@
       "vows",
       2,
       "joy"
-    ],
-    [
-      "allies",
-      2,
-      "trust"
     ],
     [
       "ambitions",
@@ -223,14 +218,39 @@
       "anger"
     ],
     [
+      "disagreement",
+      2,
+      "anger"
+    ],
+    [
       "fear",
       2,
       "anger"
     ],
     [
-      "delay",
-      2,
+      "cop",
+      1,
+      "fear"
+    ],
+    [
+      "crunch",
+      1,
       "anger"
+    ],
+    [
+      "polluting",
+      1,
+      "disgust"
+    ],
+    [
+      "everyone",
+      1,
+      "trust"
+    ],
+    [
+      "official",
+      1,
+      "trust"
     ],
     [
       "landmark",
@@ -313,6 +333,11 @@
       "anger"
     ],
     [
+      "allies",
+      1,
+      "trust"
+    ],
+    [
       "berlin",
       1,
       "joy"
@@ -351,41 +376,16 @@
       "history",
       1,
       "trust"
-    ],
-    [
-      "committed",
-      1,
-      "trust"
-    ],
-    [
-      "critical",
-      1,
-      "trust"
-    ],
-    [
-      "dealing",
-      1,
-      "surprise"
-    ],
-    [
-      "crimes",
-      1,
-      "anger"
-    ],
-    [
-      "incursion",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 65,
-    "fear": 36,
+    "trust": 64,
+    "fear": 35,
     "surprise": 16,
     "sadness": 4,
-    "disgust": 6,
+    "disgust": 7,
     "anger": 103,
-    "anticipation": 33
+    "anticipation": 31
   }
 }
