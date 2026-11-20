@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T12:35:30.186Z",
+  "generated_at": "2026-11-20T12:50:32.116Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,7 +19,7 @@
     ],
     [
       "attack",
-      6,
+      7,
       "anger"
     ],
     [
@@ -63,6 +63,11 @@
       "anticipation"
     ],
     [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
       "nation",
       3,
       "trust"
@@ -83,16 +88,6 @@
       "fear"
     ],
     [
-      "allegations",
-      3,
-      "anger"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
-    ],
-    [
       "bank",
       3,
       "trust"
@@ -111,6 +106,21 @@
       "threaten",
       2,
       "anger"
+    ],
+    [
+      "missiles",
+      2,
+      "fear"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
+      "military",
+      2,
+      "fear"
     ],
     [
       "killing",
@@ -193,6 +203,11 @@
       "anger"
     ],
     [
+      "allegations",
+      2,
+      "anger"
+    ],
+    [
       "simmering",
       2,
       "anticipation"
@@ -226,11 +241,6 @@
       "show",
       2,
       "trust"
-    ],
-    [
-      "media",
-      2,
-      "disgust"
     ],
     [
       "cheating",
@@ -291,6 +301,11 @@
       "official",
       1,
       "trust"
+    ],
+    [
+      "provocation",
+      1,
+      "anger"
     ],
     [
       "outraged",
@@ -361,31 +376,16 @@
       "powerful",
       1,
       "anger"
-    ],
-    [
-      "exposes",
-      1,
-      "fear"
-    ],
-    [
-      "warned",
-      1,
-      "fear"
-    ],
-    [
-      "supplying",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
     "trust": 69,
-    "fear": 33,
-    "surprise": 21,
+    "fear": 35,
+    "surprise": 20,
     "sadness": 4,
-    "disgust": 7,
-    "anger": 101,
+    "disgust": 6,
+    "anger": 100,
     "anticipation": 31
   }
 }
