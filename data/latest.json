@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:33:10.058Z",
+  "generated_at": "2026-11-20T08:48:12.749Z",
   "article_count": 50,
   "top_words": [
     [
@@ -233,21 +233,6 @@
       "trust"
     ],
     [
-      "cap",
-      1,
-      "trust"
-    ],
-    [
-      "food",
-      1,
-      "joy"
-    ],
-    [
-      "farming",
-      1,
-      "anticipation"
-    ],
-    [
       "cop",
       1,
       "fear"
@@ -271,6 +256,21 @@
       "official",
       1,
       "trust"
+    ],
+    [
+      "cap",
+      1,
+      "trust"
+    ],
+    [
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "farming",
+      1,
+      "anticipation"
     ],
     [
       "landmark",
