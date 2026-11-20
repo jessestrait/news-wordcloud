@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-20T08:03:05.325Z",
+  "generated_at": "2026-11-20T08:18:07.646Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      12,
+      11,
       "anger"
     ],
     [
@@ -14,12 +14,12 @@
     ],
     [
       "attack",
-      8,
+      7,
       "anger"
     ],
     [
       "deal",
-      5,
+      6,
       "surprise"
     ],
     [
@@ -228,6 +228,11 @@
       "anger"
     ],
     [
+      "agreed",
+      1,
+      "trust"
+    ],
+    [
       "cop",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "agreement",
       1,
       "trust"
-    ],
-    [
-      "history",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 64,
-    "fear": 35,
-    "surprise": 16,
-    "sadness": 4,
+    "trust": 63,
+    "fear": 34,
+    "surprise": 17,
+    "sadness": 3,
     "disgust": 7,
-    "anger": 103,
+    "anger": 101,
     "anticipation": 31
   }
 }
