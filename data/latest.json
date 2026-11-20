@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:04:35.877Z",
+  "generated_at": "2026-11-20T11:19:38.497Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,11 +98,6 @@
       "fear"
     ],
     [
-      "threaten",
-      2,
-      "anger"
-    ],
-    [
       "agreement",
       2,
       "trust"
@@ -111,6 +106,11 @@
       "university",
       2,
       "anticipation"
+    ],
+    [
+      "threaten",
+      2,
+      "anger"
     ],
     [
       "youth",
@@ -238,6 +238,26 @@
       "anger"
     ],
     [
+      "agreed",
+      1,
+      "trust"
+    ],
+    [
+      "continue",
+      1,
+      "trust"
+    ],
+    [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
+      "fees",
+      1,
+      "anger"
+    ],
+    [
       "cop",
       1,
       "fear"
@@ -261,26 +281,6 @@
       "official",
       1,
       "trust"
-    ],
-    [
-      "agreed",
-      1,
-      "trust"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
-    ],
-    [
-      "fees",
-      1,
-      "anger"
     ],
     [
       "cap",
