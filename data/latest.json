@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:05:34.218Z",
+  "generated_at": "2026-11-20T13:20:36.377Z",
   "article_count": 50,
   "top_words": [
     [
@@ -24,7 +24,7 @@
     ],
     [
       "leader",
-      5,
+      6,
       "trust"
     ],
     [
@@ -68,6 +68,11 @@
       "anger"
     ],
     [
+      "agreement",
+      3,
+      "trust"
+    ],
+    [
       "nation",
       3,
       "trust"
@@ -93,19 +98,14 @@
       "trust"
     ],
     [
-      "threaten",
-      2,
-      "anger"
-    ],
-    [
-      "agreement",
-      2,
-      "trust"
-    ],
-    [
       "university",
       2,
       "anticipation"
+    ],
+    [
+      "threaten",
+      2,
+      "anger"
     ],
     [
       "missiles",
@@ -258,6 +258,16 @@
       "anger"
     ],
     [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
+      "fees",
+      1,
+      "anger"
+    ],
+    [
       "cop",
       1,
       "fear"
@@ -281,26 +291,6 @@
       "official",
       1,
       "trust"
-    ],
-    [
-      "agreed",
-      1,
-      "trust"
-    ],
-    [
-      "continue",
-      1,
-      "trust"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
-    ],
-    [
-      "fees",
-      1,
-      "anger"
     ],
     [
       "provocation",
@@ -376,6 +366,16 @@
       "powerful",
       1,
       "anger"
+    ],
+    [
+      "exposes",
+      1,
+      "fear"
+    ],
+    [
+      "warned",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
