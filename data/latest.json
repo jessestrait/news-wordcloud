@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:51:31.957Z",
+  "generated_at": "2026-11-20T15:06:34.931Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
+      "deal",
+      7,
+      "surprise"
+    ],
+    [
       "attack",
       7,
       "anger"
-    ],
-    [
-      "deal",
-      6,
-      "surprise"
     ],
     [
       "president",
@@ -93,9 +93,9 @@
       "trust"
     ],
     [
-      "threaten",
+      "deep",
       2,
-      "anger"
+      "joy"
     ],
     [
       "missiles",
@@ -238,14 +238,24 @@
       "anger"
     ],
     [
-      "disagreement",
+      "fear",
       2,
       "anger"
     ],
     [
-      "fear",
-      2,
-      "anger"
+      "cop",
+      1,
+      "fear"
+    ],
+    [
+      "draft",
+      1,
+      "anticipation"
+    ],
+    [
+      "official",
+      1,
+      "trust"
     ],
     [
       "agreeing",
@@ -261,31 +271,6 @@
       "remains",
       1,
       "fear"
-    ],
-    [
-      "cop",
-      1,
-      "fear"
-    ],
-    [
-      "beg",
-      1,
-      "sadness"
-    ],
-    [
-      "polluting",
-      1,
-      "disgust"
-    ],
-    [
-      "everyone",
-      1,
-      "trust"
-    ],
-    [
-      "official",
-      1,
-      "trust"
     ],
     [
       "obituary",
@@ -376,16 +361,31 @@
       "powerful",
       1,
       "anger"
+    ],
+    [
+      "exposes",
+      1,
+      "fear"
+    ],
+    [
+      "warned",
+      1,
+      "fear"
+    ],
+    [
+      "supplying",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 66,
+    "joy": 24,
+    "trust": 65,
     "fear": 36,
-    "surprise": 18,
-    "sadness": 5,
-    "disgust": 6,
-    "anger": 97,
-    "anticipation": 31
+    "surprise": 19,
+    "sadness": 4,
+    "disgust": 5,
+    "anger": 95,
+    "anticipation": 32
   }
 }
