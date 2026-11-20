@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:01:49.787Z",
+  "generated_at": "2026-11-20T06:16:52.345Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,13 +8,13 @@
       "anger"
     ],
     [
-      "war",
-      9,
+      "attack",
+      10,
       "anger"
     ],
     [
-      "attack",
-      8,
+      "war",
+      9,
       "anger"
     ],
     [
@@ -116,6 +116,11 @@
       "guarantee",
       2,
       "trust"
+    ],
+    [
+      "vows",
+      2,
+      "joy"
     ],
     [
       "allies",
@@ -268,11 +273,6 @@
       "anticipation"
     ],
     [
-      "vows",
-      1,
-      "joy"
-    ],
-    [
       "painful",
       1,
       "anger"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 62,
     "fear": 34,
     "surprise": 16,
     "sadness": 4,
     "disgust": 6,
-    "anger": 100,
+    "anger": 102,
     "anticipation": 33
   }
 }
