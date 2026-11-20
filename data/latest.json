@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:18:07.646Z",
+  "generated_at": "2026-11-20T08:33:10.058Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,17 +63,17 @@
       "anticipation"
     ],
     [
+      "youth",
+      3,
+      "anger"
+    ],
+    [
       "ruling",
       3,
       "fear"
     ],
     [
       "conflict",
-      3,
-      "anger"
-    ],
-    [
-      "youth",
       3,
       "anger"
     ],
@@ -233,6 +233,21 @@
       "trust"
     ],
     [
+      "cap",
+      1,
+      "trust"
+    ],
+    [
+      "food",
+      1,
+      "joy"
+    ],
+    [
+      "farming",
+      1,
+      "anticipation"
+    ],
+    [
       "cop",
       1,
       "fear"
@@ -311,21 +326,6 @@
       "budget",
       1,
       "trust"
-    ],
-    [
-      "cap",
-      1,
-      "trust"
-    ],
-    [
-      "food",
-      1,
-      "joy"
-    ],
-    [
-      "farming",
-      1,
-      "anticipation"
     ],
     [
       "painful",
