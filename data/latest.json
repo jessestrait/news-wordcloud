@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:38:32.641Z",
+  "generated_at": "2026-11-20T18:53:34.888Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "deal",
-      7,
-      "surprise"
-    ],
-    [
       "attack",
       7,
       "anger"
+    ],
+    [
+      "deal",
+      6,
+      "surprise"
     ],
     [
       "court",
@@ -60,6 +60,11 @@
     [
       "strike",
       4,
+      "anger"
+    ],
+    [
+      "killing",
+      3,
       "anger"
     ],
     [
@@ -123,19 +128,9 @@
       "anger"
     ],
     [
-      "killing",
-      2,
-      "anger"
-    ],
-    [
       "ceremony",
       2,
       "surprise"
-    ],
-    [
-      "youth",
-      2,
-      "anger"
     ],
     [
       "seek",
@@ -208,11 +203,6 @@
       "anticipation"
     ],
     [
-      "fully",
-      2,
-      "trust"
-    ],
-    [
       "blame",
       2,
       "anger"
@@ -261,6 +251,36 @@
       "home",
       1,
       "joy"
+    ],
+    [
+      "expel",
+      1,
+      "anger"
+    ],
+    [
+      "alleged",
+      1,
+      "fear"
+    ],
+    [
+      "attempted",
+      1,
+      "anticipation"
+    ],
+    [
+      "suspected",
+      1,
+      "fear"
+    ],
+    [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "kill",
+      1,
+      "fear"
     ],
     [
       "draft",
@@ -356,36 +376,16 @@
       "incident",
       1,
       "surprise"
-    ],
-    [
-      "cap",
-      1,
-      "trust"
-    ],
-    [
-      "food",
-      1,
-      "joy"
-    ],
-    [
-      "farming",
-      1,
-      "anticipation"
-    ],
-    [
-      "landmark",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 61,
-    "fear": 37,
-    "surprise": 19,
+    "trust": 59,
+    "fear": 40,
+    "surprise": 18,
     "sadness": 5,
     "disgust": 5,
-    "anger": 93,
+    "anger": 94,
     "anticipation": 33
   }
 }
