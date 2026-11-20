@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:21:38.133Z",
+  "generated_at": "2026-11-20T15:36:41.269Z",
   "article_count": 50,
   "top_words": [
     [
@@ -98,14 +98,14 @@
       "fear"
     ],
     [
-      "fight",
-      2,
-      "anger"
-    ],
-    [
       "deep",
       2,
       "joy"
+    ],
+    [
+      "fight",
+      2,
+      "anger"
     ],
     [
       "missiles",
@@ -248,14 +248,19 @@
       "anger"
     ],
     [
-      "young",
+      "cop",
       1,
-      "surprise"
+      "fear"
     ],
     [
-      "rising",
+      "draft",
       1,
-      "joy"
+      "anticipation"
+    ],
+    [
+      "official",
+      1,
+      "trust"
     ],
     [
       "agreeing",
@@ -273,19 +278,14 @@
       "fear"
     ],
     [
-      "cop",
+      "young",
       1,
-      "fear"
+      "surprise"
     ],
     [
-      "draft",
+      "rising",
       1,
-      "anticipation"
-    ],
-    [
-      "official",
-      1,
-      "trust"
+      "joy"
     ],
     [
       "obituary",
