@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:47:41.393Z",
+  "generated_at": "2026-11-21T12:47:56.912Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,6 +63,11 @@
       "trust"
     ],
     [
+      "killing",
+      3,
+      "anger"
+    ],
+    [
       "fear",
       3,
       "anger"
@@ -76,11 +81,6 @@
       "general",
       3,
       "trust"
-    ],
-    [
-      "killing",
-      3,
-      "anger"
     ],
     [
       "military",
@@ -218,6 +218,36 @@
       "anger"
     ],
     [
+      "expel",
+      1,
+      "anger"
+    ],
+    [
+      "alleged",
+      1,
+      "fear"
+    ],
+    [
+      "attempted",
+      1,
+      "anticipation"
+    ],
+    [
+      "suspected",
+      1,
+      "fear"
+    ],
+    [
+      "plan",
+      1,
+      "anticipation"
+    ],
+    [
+      "kill",
+      1,
+      "fear"
+    ],
+    [
       "breaks",
       1,
       "surprise"
@@ -346,36 +376,6 @@
       "officers",
       1,
       "trust"
-    ],
-    [
-      "found",
-      1,
-      "joy"
-    ],
-    [
-      "guilty",
-      1,
-      "anger"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
-    ],
-    [
-      "black",
-      1,
-      "sadness"
-    ],
-    [
-      "beating",
-      1,
-      "anger"
-    ],
-    [
-      "brutality",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
