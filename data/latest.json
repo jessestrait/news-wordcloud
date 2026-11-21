@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:01:59.074Z",
+  "generated_at": "2026-11-21T11:17:01.202Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      8,
+      7,
       "anger"
     ],
     [
@@ -38,14 +38,19 @@
       "trust"
     ],
     [
-      "power",
-      5,
-      "anticipation"
+      "fear",
+      4,
+      "anger"
     ],
     [
       "police",
       4,
       "fear"
+    ],
+    [
+      "power",
+      4,
+      "anticipation"
     ],
     [
       "peace",
@@ -68,11 +73,6 @@
       "trust"
     ],
     [
-      "blame",
-      3,
-      "anger"
-    ],
-    [
       "gaza",
       3,
       "anger"
@@ -91,11 +91,6 @@
       "military",
       3,
       "fear"
-    ],
-    [
-      "fear",
-      3,
-      "anger"
     ],
     [
       "ruling",
@@ -118,9 +113,24 @@
       "anger"
     ],
     [
+      "fight",
+      2,
+      "anger"
+    ],
+    [
+      "gang",
+      2,
+      "anger"
+    ],
+    [
       "confident",
       2,
       "joy"
+    ],
+    [
+      "blame",
+      2,
+      "anger"
     ],
     [
       "music",
@@ -210,6 +220,31 @@
     [
       "allegations",
       2,
+      "anger"
+    ],
+    [
+      "excited",
+      1,
+      "surprise"
+    ],
+    [
+      "uneasy",
+      1,
+      "fear"
+    ],
+    [
+      "combatants",
+      1,
+      "anger"
+    ],
+    [
+      "welcomed",
+      1,
+      "joy"
+    ],
+    [
+      "offensive",
+      1,
       "anger"
     ],
     [
@@ -341,51 +376,16 @@
       "believed",
       1,
       "trust"
-    ],
-    [
-      "vetoed",
-      1,
-      "anger"
-    ],
-    [
-      "wealthy",
-      1,
-      "anticipation"
-    ],
-    [
-      "raid",
-      1,
-      "anger"
-    ],
-    [
-      "expel",
-      1,
-      "anger"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
-    ],
-    [
-      "attempted",
-      1,
-      "anticipation"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
+    "joy": 31,
     "trust": 59,
     "fear": 47,
-    "surprise": 17,
+    "surprise": 18,
     "sadness": 6,
     "disgust": 3,
-    "anger": 95,
-    "anticipation": 32
+    "anger": 97,
+    "anticipation": 30
   }
 }
