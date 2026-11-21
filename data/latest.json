@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:35:22.915Z",
+  "generated_at": "2026-11-21T17:50:25.069Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,11 +73,6 @@
       "trust"
     ],
     [
-      "general",
-      3,
-      "trust"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -95,6 +90,16 @@
     [
       "strike",
       3,
+      "anger"
+    ],
+    [
+      "alleged",
+      2,
+      "fear"
+    ],
+    [
+      "raid",
+      2,
       "anger"
     ],
     [
@@ -141,6 +146,11 @@
       "outrage",
       2,
       "anger"
+    ],
+    [
+      "general",
+      2,
+      "trust"
     ],
     [
       "remains",
@@ -213,24 +223,34 @@
       "fear"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "allegations",
       2,
+      "anger"
+    ],
+    [
+      "special",
+      1,
+      "joy"
+    ],
+    [
+      "forces",
+      1,
+      "anger"
+    ],
+    [
+      "fugitives",
+      1,
+      "anger"
+    ],
+    [
+      "evaded",
+      1,
       "anger"
     ],
     [
       "expel",
       1,
       "anger"
-    ],
-    [
-      "alleged",
-      1,
-      "fear"
     ],
     [
       "suspected",
@@ -356,36 +376,16 @@
       "urgent",
       1,
       "fear"
-    ],
-    [
-      "warning",
-      1,
-      "fear"
-    ],
-    [
-      "flee",
-      1,
-      "fear"
-    ],
-    [
-      "officers",
-      1,
-      "trust"
-    ],
-    [
-      "found",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 61,
+    "joy": 31,
+    "trust": 58,
     "fear": 46,
     "surprise": 18,
     "sadness": 6,
     "disgust": 2,
-    "anger": 95,
-    "anticipation": 29
+    "anger": 97,
+    "anticipation": 28
   }
 }
