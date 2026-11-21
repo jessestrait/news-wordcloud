@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T13:48:23.850Z",
+  "generated_at": "2026-11-21T14:03:25.942Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,11 +63,6 @@
       "trust"
     ],
     [
-      "killing",
-      3,
-      "anger"
-    ],
-    [
       "fear",
       3,
       "anger"
@@ -101,6 +96,11 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "kill",
+      2,
+      "fear"
     ],
     [
       "trust",
@@ -168,6 +168,11 @@
       "fear"
     ],
     [
+      "killing",
+      2,
+      "anger"
+    ],
+    [
       "ceremony",
       2,
       "surprise"
@@ -228,11 +233,6 @@
       "fear"
     ],
     [
-      "attempted",
-      1,
-      "anticipation"
-    ],
-    [
       "suspected",
       1,
       "fear"
@@ -241,11 +241,6 @@
       "plan",
       1,
       "anticipation"
-    ],
-    [
-      "kill",
-      1,
-      "fear"
     ],
     [
       "breaks",
@@ -376,16 +371,21 @@
       "officers",
       1,
       "trust"
+    ],
+    [
+      "found",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
     "trust": 61,
-    "fear": 45,
+    "fear": 46,
     "surprise": 18,
     "sadness": 6,
     "disgust": 2,
-    "anger": 96,
-    "anticipation": 30
+    "anger": 95,
+    "anticipation": 29
   }
 }
