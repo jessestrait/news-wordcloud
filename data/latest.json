@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T05:56:33.688Z",
+  "generated_at": "2026-11-22T06:11:35.845Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "trust"
     ],
     [
-      "police",
+      "military",
       4,
       "fear"
     ],
     [
-      "court",
+      "police",
       4,
-      "anger"
+      "fear"
     ],
     [
       "power",
@@ -48,19 +48,14 @@
       "anticipation"
     ],
     [
-      "peace",
-      4,
+      "outrage",
+      3,
+      "anger"
+    ],
+    [
+      "berlin",
+      3,
       "joy"
-    ],
-    [
-      "global",
-      4,
-      "anticipation"
-    ],
-    [
-      "leader",
-      4,
-      "trust"
     ],
     [
       "fear",
@@ -73,9 +68,9 @@
       "trust"
     ],
     [
-      "military",
+      "court",
       3,
-      "fear"
+      "anger"
     ],
     [
       "conflict",
@@ -88,9 +83,34 @@
       "fear"
     ],
     [
+      "peace",
+      3,
+      "joy"
+    ],
+    [
+      "global",
+      3,
+      "anticipation"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
+    ],
+    [
       "strike",
       3,
       "anger"
+    ],
+    [
+      "judgment",
+      2,
+      "surprise"
+    ],
+    [
+      "coming",
+      2,
+      "anticipation"
     ],
     [
       "alleged",
@@ -141,11 +161,6 @@
       "music",
       2,
       "joy"
-    ],
-    [
-      "outrage",
-      2,
-      "anger"
     ],
     [
       "general",
@@ -208,24 +223,19 @@
       "joy"
     ],
     [
-      "ambitions",
-      2,
-      "joy"
+      "error",
+      1,
+      "sadness"
     ],
     [
-      "top",
-      2,
+      "arts",
+      1,
+      "sadness"
+    ],
+    [
+      "polls",
+      1,
       "trust"
-    ],
-    [
-      "case",
-      2,
-      "fear"
-    ],
-    [
-      "allegations",
-      2,
-      "anger"
     ],
     [
       "special",
@@ -358,11 +368,6 @@
       "joy"
     ],
     [
-      "coming",
-      1,
-      "anticipation"
-    ],
-    [
       "escaped",
       1,
       "fear"
@@ -371,21 +376,16 @@
       "serving",
       1,
       "trust"
-    ],
-    [
-      "urgent",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 58,
+    "trust": 54,
     "fear": 46,
-    "surprise": 18,
-    "sadness": 6,
+    "surprise": 19,
+    "sadness": 8,
     "disgust": 2,
-    "anger": 97,
+    "anger": 95,
     "anticipation": 28
   }
 }
