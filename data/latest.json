@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-11-22T16:47:43.929Z",
+  "generated_at": "2026-11-22T17:02:45.997Z",
   "article_count": 50,
   "top_words": [
+    [
+      "attack",
+      9,
+      "anger"
+    ],
     [
       "war",
       8,
@@ -9,12 +14,7 @@
     ],
     [
       "trump",
-      8,
-      "anger"
-    ],
-    [
-      "attack",
-      8,
+      7,
       "anger"
     ],
     [
@@ -23,14 +23,14 @@
       "surprise"
     ],
     [
-      "conflict",
+      "strike",
       4,
       "anger"
     ],
     [
-      "military",
+      "conflict",
       4,
-      "fear"
+      "anger"
     ],
     [
       "happened",
@@ -43,6 +43,11 @@
       "fear"
     ],
     [
+      "home",
+      4,
+      "joy"
+    ],
+    [
       "power",
       4,
       "anticipation"
@@ -51,6 +56,11 @@
       "outrage",
       3,
       "anger"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "berlin",
@@ -66,11 +76,6 @@
       "people",
       3,
       "trust"
-    ],
-    [
-      "home",
-      3,
-      "joy"
     ],
     [
       "court",
@@ -98,9 +103,24 @@
       "trust"
     ],
     [
-      "strike",
-      3,
-      "anger"
+      "ship",
+      2,
+      "anticipation"
+    ],
+    [
+      "suspected",
+      2,
+      "fear"
+    ],
+    [
+      "refugee",
+      2,
+      "sadness"
+    ],
+    [
+      "letter",
+      2,
+      "anticipation"
     ],
     [
       "strait",
@@ -161,11 +181,6 @@
       "confident",
       2,
       "joy"
-    ],
-    [
-      "blame",
-      2,
-      "anger"
     ],
     [
       "gaza",
@@ -233,6 +248,41 @@
       "anticipation"
     ],
     [
+      "blast",
+      1,
+      "anger"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "labels",
+      1,
+      "trust"
+    ],
+    [
+      "asylum",
+      1,
+      "fear"
+    ],
+    [
+      "beings",
+      1,
+      "trust"
+    ],
+    [
+      "forced",
+      1,
+      "fear"
+    ],
+    [
+      "leave",
+      1,
+      "sadness"
+    ],
+    [
       "condemns",
       1,
       "anger"
@@ -276,11 +326,6 @@
       "patron",
       1,
       "trust"
-    ],
-    [
-      "ships",
-      1,
-      "anticipation"
     ],
     [
       "continues",
@@ -331,61 +376,16 @@
       "arts",
       1,
       "sadness"
-    ],
-    [
-      "surge",
-      1,
-      "surprise"
-    ],
-    [
-      "polls",
-      1,
-      "trust"
-    ],
-    [
-      "never",
-      1,
-      "fear"
-    ],
-    [
-      "special",
-      1,
-      "joy"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
-    ],
-    [
-      "fugitives",
-      1,
-      "anger"
-    ],
-    [
-      "evaded",
-      1,
-      "anger"
-    ],
-    [
-      "expel",
-      1,
-      "anger"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 53,
-    "fear": 53,
-    "surprise": 21,
-    "sadness": 8,
+    "joy": 32,
+    "trust": 56,
+    "fear": 55,
+    "surprise": 20,
+    "sadness": 10,
     "disgust": 1,
     "anger": 100,
-    "anticipation": 29
+    "anticipation": 32
   }
 }
