@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:17:20.682Z",
+  "generated_at": "2026-11-22T16:32:23.461Z",
   "article_count": 50,
   "top_words": [
     [
@@ -238,14 +238,9 @@
       "anger"
     ],
     [
-      "arson",
+      "terrorism",
       1,
       "anger"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
     ],
     [
       "raided",
@@ -376,11 +371,16 @@
       "expel",
       1,
       "anger"
+    ],
+    [
+      "suspected",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 54,
+    "trust": 53,
     "fear": 53,
     "surprise": 21,
     "sadness": 8,
