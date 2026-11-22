@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:33:08.561Z",
+  "generated_at": "2026-11-22T17:48:11.110Z",
   "article_count": 50,
   "top_words": [
     [
@@ -303,16 +303,6 @@
       "fear"
     ],
     [
-      "football",
-      1,
-      "joy"
-    ],
-    [
-      "superstar",
-      1,
-      "joy"
-    ],
-    [
       "inspired",
       1,
       "surprise"
@@ -376,10 +366,20 @@
       "arts",
       1,
       "sadness"
+    ],
+    [
+      "surge",
+      1,
+      "surprise"
+    ],
+    [
+      "polls",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
+    "joy": 30,
     "trust": 56,
     "fear": 55,
     "surprise": 20,
