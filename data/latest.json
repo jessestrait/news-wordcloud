@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T08:43:03.369Z",
+  "generated_at": "2026-11-22T08:58:06.454Z",
   "article_count": 50,
   "top_words": [
     [
@@ -233,9 +233,19 @@
       "sadness"
     ],
     [
+      "surge",
+      1,
+      "surprise"
+    ],
+    [
       "polls",
       1,
       "trust"
+    ],
+    [
+      "never",
+      1,
+      "fear"
     ],
     [
       "special",
@@ -366,23 +376,13 @@
       "growing",
       1,
       "joy"
-    ],
-    [
-      "escaped",
-      1,
-      "fear"
-    ],
-    [
-      "serving",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 54,
-    "fear": 46,
-    "surprise": 19,
+    "fear": 47,
+    "surprise": 20,
     "sadness": 8,
     "disgust": 2,
     "anger": 95,
