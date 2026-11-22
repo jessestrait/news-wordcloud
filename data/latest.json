@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:20:06.016Z",
+  "generated_at": "2026-11-22T21:35:08.157Z",
   "article_count": 50,
   "top_words": [
     [
@@ -103,16 +103,6 @@
       "trust"
     ],
     [
-      "ship",
-      2,
-      "anticipation"
-    ],
-    [
-      "hit",
-      2,
-      "anger"
-    ],
-    [
       "suspected",
       2,
       "fear"
@@ -204,11 +194,6 @@
     ],
     [
       "council",
-      2,
-      "trust"
-    ],
-    [
-      "official",
       2,
       "trust"
     ],
@@ -318,6 +303,11 @@
       "trust"
     ],
     [
+      "ships",
+      1,
+      "anticipation"
+    ],
+    [
       "continues",
       1,
       "trust"
@@ -376,16 +366,26 @@
       "polls",
       1,
       "trust"
+    ],
+    [
+      "never",
+      1,
+      "fear"
+    ],
+    [
+      "special",
+      1,
+      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 30,
-    "trust": 56,
+    "trust": 55,
     "fear": 55,
     "surprise": 20,
     "sadness": 10,
     "disgust": 1,
-    "anger": 100,
-    "anticipation": 32
+    "anger": 99,
+    "anticipation": 31
   }
 }
