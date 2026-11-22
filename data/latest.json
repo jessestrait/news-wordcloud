@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:14:55.651Z",
+  "generated_at": "2026-11-22T12:15:09.252Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,19 +18,14 @@
       "anger"
     ],
     [
-      "happened",
-      6,
-      "anticipation"
-    ],
-    [
       "deal",
       6,
       "surprise"
     ],
     [
-      "president",
+      "happened",
       5,
-      "trust"
+      "anticipation"
     ],
     [
       "military",
@@ -41,6 +36,11 @@
       "police",
       4,
       "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
     ],
     [
       "power",
@@ -223,6 +223,36 @@
       "joy"
     ],
     [
+      "resigns",
+      1,
+      "anger"
+    ],
+    [
+      "cheating",
+      1,
+      "anger"
+    ],
+    [
+      "scandal",
+      1,
+      "fear"
+    ],
+    [
+      "engulfs",
+      1,
+      "anticipation"
+    ],
+    [
+      "university",
+      1,
+      "anticipation"
+    ],
+    [
+      "prepare",
+      1,
+      "anticipation"
+    ],
+    [
       "error",
       1,
       "sadness"
@@ -346,46 +376,16 @@
       "restrict",
       1,
       "sadness"
-    ],
-    [
-      "suffering",
-      1,
-      "fear"
-    ],
-    [
-      "displaced",
-      1,
-      "anger"
-    ],
-    [
-      "families",
-      1,
-      "joy"
-    ],
-    [
-      "misery",
-      1,
-      "anger"
-    ],
-    [
-      "floods",
-      1,
-      "fear"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 54,
-    "fear": 47,
+    "trust": 51,
+    "fear": 48,
     "surprise": 20,
     "sadness": 8,
     "disgust": 2,
-    "anger": 95,
-    "anticipation": 28
+    "anger": 97,
+    "anticipation": 30
   }
 }
