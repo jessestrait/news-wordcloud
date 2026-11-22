@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-22T15:16:55.350Z",
+  "generated_at": "2026-11-22T15:31:57.517Z",
   "article_count": 50,
   "top_words": [
-    [
-      "trump",
-      9,
-      "anger"
-    ],
     [
       "war",
       8,
       "anger"
     ],
     [
+      "trump",
+      8,
+      "anger"
+    ],
+    [
       "attack",
-      7,
+      8,
       "anger"
     ],
     [
@@ -43,11 +43,6 @@
       "fear"
     ],
     [
-      "president",
-      4,
-      "trust"
-    ],
-    [
       "power",
       4,
       "anticipation"
@@ -73,9 +68,19 @@
       "trust"
     ],
     [
+      "home",
+      3,
+      "joy"
+    ],
+    [
       "court",
       3,
       "anger"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "warn",
@@ -183,11 +188,6 @@
       "trust"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "obituary",
       2,
       "sadness"
@@ -231,6 +231,31 @@
       "global",
       2,
       "anticipation"
+    ],
+    [
+      "condemns",
+      1,
+      "anger"
+    ],
+    [
+      "arson",
+      1,
+      "anger"
+    ],
+    [
+      "bank",
+      1,
+      "trust"
+    ],
+    [
+      "raided",
+      1,
+      "anger"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
     ],
     [
       "football",
@@ -351,41 +376,16 @@
       "expel",
       1,
       "anger"
-    ],
-    [
-      "suspected",
-      1,
-      "fear"
-    ],
-    [
-      "plan",
-      1,
-      "anticipation"
-    ],
-    [
-      "breaks",
-      1,
-      "surprise"
-    ],
-    [
-      "trade",
-      1,
-      "trust"
-    ],
-    [
-      "excited",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
     "trust": 54,
-    "fear": 52,
+    "fear": 53,
     "surprise": 21,
     "sadness": 8,
     "disgust": 1,
-    "anger": 97,
+    "anger": 100,
     "anticipation": 29
   }
 }
