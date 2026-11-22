@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-22T14:46:32.167Z",
+  "generated_at": "2026-11-22T15:01:34.186Z",
   "article_count": 50,
   "top_words": [
     [
       "trump",
-      11,
+      9,
       "anger"
     ],
     [
@@ -23,11 +23,6 @@
       "surprise"
     ],
     [
-      "happened",
-      5,
-      "anticipation"
-    ],
-    [
       "conflict",
       4,
       "anger"
@@ -36,6 +31,11 @@
       "military",
       4,
       "fear"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "police",
@@ -233,6 +233,21 @@
       "anticipation"
     ],
     [
+      "football",
+      1,
+      "joy"
+    ],
+    [
+      "superstar",
+      1,
+      "joy"
+    ],
+    [
+      "inspired",
+      1,
+      "surprise"
+    ],
+    [
       "hormuz",
       1,
       "fear"
@@ -361,31 +376,16 @@
       "excited",
       1,
       "surprise"
-    ],
-    [
-      "uneasy",
-      1,
-      "fear"
-    ],
-    [
-      "combatants",
-      1,
-      "anger"
-    ],
-    [
-      "welcomed",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
+    "joy": 31,
     "trust": 54,
     "fear": 52,
-    "surprise": 20,
+    "surprise": 21,
     "sadness": 8,
-    "disgust": 2,
-    "anger": 99,
-    "anticipation": 30
+    "disgust": 1,
+    "anger": 97,
+    "anticipation": 29
   }
 }
