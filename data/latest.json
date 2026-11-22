@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:45:14.989Z",
+  "generated_at": "2026-11-22T13:00:17.578Z",
   "article_count": 50,
   "top_words": [
     [
@@ -223,11 +223,6 @@
       "joy"
     ],
     [
-      "resigns",
-      1,
-      "anger"
-    ],
-    [
       "cheating",
       1,
       "anger"
@@ -251,6 +246,16 @@
       "prepare",
       1,
       "anticipation"
+    ],
+    [
+      "tighten",
+      1,
+      "anger"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
     ],
     [
       "error",
@@ -371,16 +376,11 @@
       "barrier",
       1,
       "anger"
-    ],
-    [
-      "restrict",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
     "joy": 31,
-    "trust": 51,
+    "trust": 52,
     "fear": 48,
     "surprise": 20,
     "sadness": 8,
