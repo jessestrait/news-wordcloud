@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:30:41.620Z",
+  "generated_at": "2026-11-22T13:45:44.120Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      7,
+      8,
       "anger"
     ],
     [
@@ -26,6 +26,11 @@
       "happened",
       5,
       "anticipation"
+    ],
+    [
+      "conflict",
+      4,
+      "anger"
     ],
     [
       "military",
@@ -73,11 +78,6 @@
       "anger"
     ],
     [
-      "conflict",
-      3,
-      "anger"
-    ],
-    [
       "warn",
       3,
       "fear"
@@ -88,11 +88,6 @@
       "joy"
     ],
     [
-      "global",
-      3,
-      "anticipation"
-    ],
-    [
       "leader",
       3,
       "trust"
@@ -100,6 +95,21 @@
     [
       "strike",
       3,
+      "anger"
+    ],
+    [
+      "strait",
+      2,
+      "fear"
+    ],
+    [
+      "swim",
+      2,
+      "fear"
+    ],
+    [
+      "iran",
+      2,
       "anger"
     ],
     [
@@ -156,11 +166,6 @@
       "gaza",
       2,
       "anger"
-    ],
-    [
-      "music",
-      2,
-      "joy"
     ],
     [
       "general",
@@ -221,6 +226,31 @@
       "vows",
       2,
       "joy"
+    ],
+    [
+      "global",
+      2,
+      "anticipation"
+    ],
+    [
+      "hormuz",
+      1,
+      "fear"
+    ],
+    [
+      "patron",
+      1,
+      "trust"
+    ],
+    [
+      "ships",
+      1,
+      "anticipation"
+    ],
+    [
+      "continues",
+      1,
+      "trust"
     ],
     [
       "cheating",
@@ -346,46 +376,16 @@
       "welcomed",
       1,
       "joy"
-    ],
-    [
-      "offensive",
-      1,
-      "anger"
-    ],
-    [
-      "collapsed",
-      1,
-      "fear"
-    ],
-    [
-      "worry",
-      1,
-      "fear"
-    ],
-    [
-      "fee",
-      1,
-      "anger"
-    ],
-    [
-      "charity",
-      1,
-      "joy"
-    ],
-    [
-      "barrier",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
-    "trust": 52,
-    "fear": 48,
+    "joy": 29,
+    "trust": 54,
+    "fear": 52,
     "surprise": 20,
     "sadness": 8,
     "disgust": 2,
-    "anger": 97,
+    "anger": 99,
     "anticipation": 30
   }
 }
