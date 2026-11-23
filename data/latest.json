@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:58:33.768Z",
+  "generated_at": "2026-11-23T14:13:36.337Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,11 +31,6 @@
       "deal",
       5,
       "surprise"
-    ],
-    [
-      "court",
-      4,
-      "anger"
     ],
     [
       "military",
@@ -108,6 +103,11 @@
       "fear"
     ],
     [
+      "court",
+      3,
+      "anger"
+    ],
+    [
       "power",
       3,
       "anticipation"
@@ -128,14 +128,14 @@
       "trust"
     ],
     [
+      "leave",
+      2,
+      "sadness"
+    ],
+    [
       "deny",
       2,
       "anger"
-    ],
-    [
-      "justice",
-      2,
-      "trust"
     ],
     [
       "government",
@@ -293,6 +293,11 @@
       "trust"
     ],
     [
+      "winning",
+      1,
+      "disgust"
+    ],
+    [
       "battle",
       1,
       "anger"
@@ -371,21 +376,16 @@
       "alive",
       1,
       "joy"
-    ],
-    [
-      "investigation",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 51,
+    "trust": 50,
     "fear": 62,
     "surprise": 18,
-    "sadness": 11,
-    "disgust": 2,
-    "anger": 103,
+    "sadness": 12,
+    "disgust": 3,
+    "anger": 102,
     "anticipation": 33
   }
 }
