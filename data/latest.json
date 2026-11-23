@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-23T05:54:26.671Z",
+  "generated_at": "2026-11-23T06:09:28.698Z",
   "article_count": 50,
   "top_words": [
     [
       "attack",
-      9,
+      8,
       "anger"
     ],
     [
       "war",
-      9,
+      8,
       "anger"
     ],
     [
@@ -23,16 +23,6 @@
       "surprise"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
-      "conflict",
-      5,
-      "anger"
-    ],
-    [
       "gaza",
       4,
       "anger"
@@ -41,6 +31,16 @@
       "warn",
       4,
       "fear"
+    ],
+    [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
+      "conflict",
+      4,
+      "anger"
     ],
     [
       "happened",
@@ -111,6 +111,21 @@
       "leader",
       3,
       "trust"
+    ],
+    [
+      "force",
+      2,
+      "anger"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
+      "cross",
+      2,
+      "anger"
     ],
     [
       "suspected",
@@ -213,11 +228,6 @@
       "sadness"
     ],
     [
-      "missiles",
-      2,
-      "fear"
-    ],
-    [
       "ceremony",
       2,
       "surprise"
@@ -241,6 +251,16 @@
       "global",
       2,
       "anticipation"
+    ],
+    [
+      "improvements",
+      1,
+      "joy"
+    ],
+    [
+      "parliament",
+      1,
+      "trust"
     ],
     [
       "destruction",
@@ -281,11 +301,6 @@
       "threats",
       1,
       "anger"
-    ],
-    [
-      "public",
-      1,
-      "anticipation"
     ],
     [
       "labels",
@@ -361,31 +376,16 @@
       "scandal",
       1,
       "fear"
-    ],
-    [
-      "engulfs",
-      1,
-      "anticipation"
-    ],
-    [
-      "university",
-      1,
-      "anticipation"
-    ],
-    [
-      "prepare",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 31,
+    "joy": 32,
     "trust": 56,
-    "fear": 57,
+    "fear": 56,
     "surprise": 20,
     "sadness": 10,
     "disgust": 3,
-    "anger": 105,
-    "anticipation": 33
+    "anger": 102,
+    "anticipation": 34
   }
 }
