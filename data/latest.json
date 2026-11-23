@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:57:29.764Z",
+  "generated_at": "2026-11-23T12:12:31.861Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,6 +33,11 @@
       "anger"
     ],
     [
+      "warn",
+      4,
+      "fear"
+    ],
+    [
       "military",
       4,
       "fear"
@@ -56,11 +61,6 @@
       "home",
       4,
       "joy"
-    ],
-    [
-      "warn",
-      3,
-      "fear"
     ],
     [
       "conflict",
@@ -288,14 +288,14 @@
       "trust"
     ],
     [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
       "denies",
       1,
       "anger"
+    ],
+    [
+      "operation",
+      1,
+      "fear"
     ],
     [
       "fortunes",
@@ -381,7 +381,7 @@
   "emotion_totals": {
     "joy": 35,
     "trust": 52,
-    "fear": 62,
+    "fear": 63,
     "surprise": 19,
     "sadness": 11,
     "disgust": 2,
