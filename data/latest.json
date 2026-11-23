@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-23T15:59:27.147Z",
+  "generated_at": "2026-11-23T16:14:29.838Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      9,
+      12,
       "anger"
     ],
     [
@@ -23,19 +23,19 @@
       "anger"
     ],
     [
-      "gaza",
+      "military",
       5,
+      "fear"
+    ],
+    [
+      "conflict",
+      4,
       "anger"
     ],
     [
-      "deal",
-      5,
-      "surprise"
-    ],
-    [
-      "military",
+      "gaza",
       4,
-      "fear"
+      "anger"
     ],
     [
       "happened",
@@ -53,14 +53,14 @@
       "joy"
     ],
     [
+      "deal",
+      4,
+      "surprise"
+    ],
+    [
       "president",
       3,
       "trust"
-    ],
-    [
-      "conflict",
-      3,
-      "anger"
     ],
     [
       "outrage",
@@ -103,11 +103,6 @@
       "fear"
     ],
     [
-      "court",
-      3,
-      "anger"
-    ],
-    [
       "power",
       3,
       "anticipation"
@@ -116,6 +111,11 @@
       "peace",
       3,
       "joy"
+    ],
+    [
+      "suicides",
+      2,
+      "anger"
     ],
     [
       "space",
@@ -131,11 +131,6 @@
       "leave",
       2,
       "sadness"
-    ],
-    [
-      "government",
-      2,
-      "fear"
     ],
     [
       "growing",
@@ -156,11 +151,6 @@
       "public",
       2,
       "anticipation"
-    ],
-    [
-      "cross",
-      2,
-      "anger"
     ],
     [
       "warn",
@@ -201,11 +191,6 @@
       "iran",
       2,
       "anger"
-    ],
-    [
-      "judgment",
-      2,
-      "surprise"
     ],
     [
       "coming",
@@ -263,6 +248,11 @@
       "trust"
     ],
     [
+      "court",
+      2,
+      "anger"
+    ],
+    [
       "obituary",
       2,
       "sadness"
@@ -273,19 +263,34 @@
       "surprise"
     ],
     [
-      "seek",
-      2,
-      "anticipation"
-    ],
-    [
-      "world",
-      2,
-      "trust"
-    ],
-    [
       "guarantee",
       2,
       "trust"
+    ],
+    [
+      "shows",
+      1,
+      "trust"
+    ],
+    [
+      "death",
+      1,
+      "sadness"
+    ],
+    [
+      "account",
+      1,
+      "trust"
+    ],
+    [
+      "regiment",
+      1,
+      "fear"
+    ],
+    [
+      "losses",
+      1,
+      "anger"
     ],
     [
       "intended",
@@ -343,6 +348,11 @@
       "anger"
     ],
     [
+      "government",
+      1,
+      "fear"
+    ],
+    [
       "intervention",
       1,
       "sadness"
@@ -358,34 +368,24 @@
       "trust"
     ],
     [
-      "destruction",
+      "cross",
       1,
       "anger"
     ],
     [
-      "created",
+      "destruction",
       1,
-      "joy"
-    ],
-    [
-      "toxic",
-      1,
-      "disgust"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
+      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 37,
-    "trust": 51,
-    "fear": 60,
-    "surprise": 18,
-    "sadness": 12,
+    "trust": 49,
+    "fear": 58,
+    "surprise": 15,
+    "sadness": 13,
     "disgust": 3,
-    "anger": 100,
-    "anticipation": 32
+    "anger": 103,
+    "anticipation": 31
   }
 }
