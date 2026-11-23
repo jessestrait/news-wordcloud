@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:44:24.208Z",
+  "generated_at": "2026-11-23T15:59:27.147Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,13 +13,13 @@
       "anger"
     ],
     [
-      "trump",
+      "strike",
       7,
       "anger"
     ],
     [
-      "strike",
-      6,
+      "trump",
+      7,
       "anger"
     ],
     [
@@ -51,6 +51,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "president",
+      3,
+      "trust"
     ],
     [
       "conflict",
@@ -111,11 +116,6 @@
       "peace",
       3,
       "joy"
-    ],
-    [
-      "deny",
-      2,
-      "anger"
     ],
     [
       "space",
@@ -263,11 +263,6 @@
       "trust"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "obituary",
       2,
       "sadness"
@@ -293,12 +288,12 @@
       "trust"
     ],
     [
-      "verge",
+      "intended",
       1,
-      "fear"
+      "anticipation"
     ],
     [
-      "continued",
+      "commission",
       1,
       "trust"
     ],
@@ -319,6 +314,11 @@
     ],
     [
       "battle",
+      1,
+      "anger"
+    ],
+    [
+      "deny",
       1,
       "anger"
     ],
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 37,
-    "trust": 50,
-    "fear": 61,
+    "trust": 51,
+    "fear": 60,
     "surprise": 18,
     "sadness": 12,
     "disgust": 3,
     "anger": 100,
-    "anticipation": 31
+    "anticipation": 32
   }
 }
