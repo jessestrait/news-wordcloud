@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:39:46.059Z",
+  "generated_at": "2026-11-23T06:54:48.106Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,9 +108,14 @@
       "joy"
     ],
     [
-      "leader",
-      3,
-      "trust"
+      "growing",
+      2,
+      "joy"
+    ],
+    [
+      "ambitions",
+      2,
+      "joy"
     ],
     [
       "force",
@@ -253,6 +258,16 @@
       "anticipation"
     ],
     [
+      "leader",
+      2,
+      "trust"
+    ],
+    [
+      "intervention",
+      1,
+      "sadness"
+    ],
+    [
       "improvements",
       1,
       "joy"
@@ -361,31 +376,16 @@
       "patron",
       1,
       "trust"
-    ],
-    [
-      "continues",
-      1,
-      "trust"
-    ],
-    [
-      "cheating",
-      1,
-      "anger"
-    ],
-    [
-      "scandal",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 56,
+    "joy": 34,
+    "trust": 55,
     "fear": 56,
-    "surprise": 20,
-    "sadness": 10,
+    "surprise": 19,
+    "sadness": 11,
     "disgust": 3,
-    "anger": 102,
-    "anticipation": 34
+    "anger": 100,
+    "anticipation": 32
   }
 }
