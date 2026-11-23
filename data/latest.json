@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T04:08:41.823Z",
+  "generated_at": "2026-11-23T04:23:44.028Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "war",
-      8,
+      9,
       "anger"
     ],
     [
@@ -23,6 +23,16 @@
       "surprise"
     ],
     [
+      "strike",
+      5,
+      "anger"
+    ],
+    [
+      "conflict",
+      5,
+      "anger"
+    ],
+    [
       "gaza",
       4,
       "anger"
@@ -31,16 +41,6 @@
       "warn",
       4,
       "fear"
-    ],
-    [
-      "strike",
-      4,
-      "anger"
-    ],
-    [
-      "conflict",
-      4,
-      "anger"
     ],
     [
       "happened",
@@ -74,6 +74,11 @@
     ],
     [
       "berlin",
+      3,
+      "joy"
+    ],
+    [
+      "vows",
       3,
       "joy"
     ],
@@ -148,6 +153,16 @@
       "anticipation"
     ],
     [
+      "ship",
+      2,
+      "anticipation"
+    ],
+    [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
       "alleged",
       2,
       "fear"
@@ -203,11 +218,6 @@
       "fear"
     ],
     [
-      "killing",
-      2,
-      "anger"
-    ],
-    [
       "ceremony",
       2,
       "surprise"
@@ -226,11 +236,6 @@
       "guarantee",
       2,
       "trust"
-    ],
-    [
-      "vows",
-      2,
-      "joy"
     ],
     [
       "global",
@@ -343,11 +348,6 @@
       "trust"
     ],
     [
-      "ships",
-      1,
-      "anticipation"
-    ],
-    [
       "continues",
       1,
       "trust"
@@ -379,13 +379,13 @@
     ]
   ],
   "emotion_totals": {
-    "joy": 30,
-    "trust": 57,
+    "joy": 31,
+    "trust": 56,
     "fear": 57,
     "surprise": 20,
     "sadness": 10,
     "disgust": 3,
-    "anger": 102,
-    "anticipation": 32
+    "anger": 105,
+    "anticipation": 33
   }
 }
