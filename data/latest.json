@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:28:38.690Z",
+  "generated_at": "2026-11-23T14:43:40.920Z",
   "article_count": 50,
   "top_words": [
     [
@@ -111,6 +111,11 @@
       "peace",
       3,
       "joy"
+    ],
+    [
+      "deny",
+      2,
+      "anger"
     ],
     [
       "space",
@@ -288,14 +293,9 @@
       "fear"
     ],
     [
-      "denied",
+      "continued",
       1,
-      "sadness"
-    ],
-    [
-      "accusations",
-      1,
-      "anger"
+      "trust"
     ],
     [
       "planning",
@@ -314,11 +314,6 @@
     ],
     [
       "battle",
-      1,
-      "anger"
-    ],
-    [
-      "deny",
       1,
       "anger"
     ],
@@ -376,14 +371,19 @@
       "experts",
       1,
       "trust"
+    ],
+    [
+      "scientific",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 36,
-    "trust": 49,
+    "trust": 50,
     "fear": 61,
     "surprise": 18,
-    "sadness": 13,
+    "sadness": 12,
     "disgust": 3,
     "anger": 100,
     "anticipation": 31
