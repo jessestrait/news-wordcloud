@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:46:24.734Z",
+  "generated_at": "2026-11-23T20:01:27.614Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,19 +18,24 @@
       "anger"
     ],
     [
-      "trump",
-      6,
-      "anger"
+      "police",
+      5,
+      "fear"
     ],
     [
-      "happened",
+      "trump",
       5,
-      "anticipation"
+      "anger"
     ],
     [
       "military",
       5,
       "fear"
+    ],
+    [
+      "happened",
+      4,
+      "anticipation"
     ],
     [
       "conflict",
@@ -46,11 +51,6 @@
       "letter",
       4,
       "anticipation"
-    ],
-    [
-      "police",
-      4,
-      "fear"
     ],
     [
       "home",
@@ -116,11 +116,6 @@
       "power",
       3,
       "anticipation"
-    ],
-    [
-      "peace",
-      3,
-      "joy"
     ],
     [
       "world",
@@ -258,8 +253,38 @@
       "surprise"
     ],
     [
+      "seek",
+      2,
+      "anticipation"
+    ],
+    [
       "guarantee",
       2,
+      "trust"
+    ],
+    [
+      "peace",
+      2,
+      "joy"
+    ],
+    [
+      "jail",
+      1,
+      "fear"
+    ],
+    [
+      "bruising",
+      1,
+      "anticipation"
+    ],
+    [
+      "interrogated",
+      1,
+      "fear"
+    ],
+    [
+      "association",
+      1,
       "trust"
     ],
     [
@@ -351,41 +376,16 @@
       "deny",
       1,
       "anger"
-    ],
-    [
-      "launched",
-      1,
-      "anticipation"
-    ],
-    [
-      "operation",
-      1,
-      "fear"
-    ],
-    [
-      "fortunes",
-      1,
-      "surprise"
-    ],
-    [
-      "vote",
-      1,
-      "anger"
-    ],
-    [
-      "government",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 39,
-    "trust": 49,
-    "fear": 58,
+    "joy": 38,
+    "trust": 48,
+    "fear": 61,
     "surprise": 15,
     "sadness": 13,
     "disgust": 3,
-    "anger": 103,
-    "anticipation": 34
+    "anger": 102,
+    "anticipation": 35
   }
 }
