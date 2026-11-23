@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:44:53.588Z",
+  "generated_at": "2026-11-23T16:59:56.165Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,6 +23,11 @@
       "anger"
     ],
     [
+      "happened",
+      5,
+      "anticipation"
+    ],
+    [
       "military",
       5,
       "fear"
@@ -36,11 +41,6 @@
       "gaza",
       4,
       "anger"
-    ],
-    [
-      "happened",
-      4,
-      "anticipation"
     ],
     [
       "police",
@@ -386,6 +386,6 @@
     "sadness": 13,
     "disgust": 3,
     "anger": 103,
-    "anticipation": 31
+    "anticipation": 32
   }
 }
