@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:57:55.469Z",
+  "generated_at": "2026-11-23T13:12:57.719Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,19 +23,19 @@
       "anger"
     ],
     [
-      "deal",
-      6,
-      "surprise"
-    ],
-    [
       "gaza",
-      4,
+      5,
       "anger"
     ],
     [
-      "warn",
+      "deal",
+      5,
+      "surprise"
+    ],
+    [
+      "court",
       4,
-      "fear"
+      "anger"
     ],
     [
       "military",
@@ -61,6 +61,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "warn",
+      3,
+      "fear"
     ],
     [
       "conflict",
@@ -103,11 +108,6 @@
       "fear"
     ],
     [
-      "court",
-      3,
-      "anger"
-    ],
-    [
       "power",
       3,
       "anticipation"
@@ -124,6 +124,16 @@
     ],
     [
       "responsible",
+      2,
+      "trust"
+    ],
+    [
+      "deny",
+      2,
+      "anger"
+    ],
+    [
+      "justice",
       2,
       "trust"
     ],
@@ -218,11 +228,6 @@
       "anger"
     ],
     [
-      "trust",
-      2,
-      "trust"
-    ],
-    [
       "fight",
       2,
       "anger"
@@ -288,7 +293,7 @@
       "trust"
     ],
     [
-      "denies",
+      "battle",
       1,
       "anger"
     ],
@@ -371,21 +376,16 @@
       "investigation",
       1,
       "anticipation"
-    ],
-    [
-      "labels",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
-    "trust": 52,
-    "fear": 63,
-    "surprise": 19,
+    "joy": 34,
+    "trust": 51,
+    "fear": 62,
+    "surprise": 18,
     "sadness": 11,
     "disgust": 2,
-    "anger": 100,
+    "anger": 103,
     "anticipation": 33
   }
 }
