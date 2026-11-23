@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:43:56.815Z",
+  "generated_at": "2026-11-23T14:58:59.782Z",
   "article_count": 50,
   "top_words": [
     [
@@ -119,6 +119,11 @@
     ],
     [
       "space",
+      2,
+      "joy"
+    ],
+    [
+      "rising",
       2,
       "joy"
     ],
@@ -371,15 +376,10 @@
       "experts",
       1,
       "trust"
-    ],
-    [
-      "scientific",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
+    "joy": 37,
     "trust": 50,
     "fear": 61,
     "surprise": 18,
