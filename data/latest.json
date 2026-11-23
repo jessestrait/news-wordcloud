@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:00:35.509Z",
+  "generated_at": "2026-11-23T18:15:37.936Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "attack",
-      9,
+      8,
       "anger"
     ],
     [
@@ -19,7 +19,7 @@
     ],
     [
       "trump",
-      7,
+      6,
       "anger"
     ],
     [
@@ -43,6 +43,11 @@
       "anger"
     ],
     [
+      "letter",
+      4,
+      "anticipation"
+    ],
+    [
       "police",
       4,
       "fear"
@@ -56,6 +61,11 @@
       "deal",
       4,
       "surprise"
+    ],
+    [
+      "public",
+      3,
+      "anticipation"
     ],
     [
       "president",
@@ -113,6 +123,16 @@
       "joy"
     ],
     [
+      "world",
+      2,
+      "trust"
+    ],
+    [
+      "leaders",
+      2,
+      "trust"
+    ],
+    [
       "suicides",
       2,
       "anger"
@@ -138,19 +158,9 @@
       "joy"
     ],
     [
-      "ambitions",
-      2,
-      "joy"
-    ],
-    [
       "force",
       2,
       "anger"
-    ],
-    [
-      "public",
-      2,
-      "anticipation"
     ],
     [
       "warn",
@@ -176,11 +186,6 @@
       "refugee",
       2,
       "sadness"
-    ],
-    [
-      "letter",
-      2,
-      "anticipation"
     ],
     [
       "swim",
@@ -223,11 +228,6 @@
       "anger"
     ],
     [
-      "leaders",
-      2,
-      "trust"
-    ],
-    [
       "incident",
       2,
       "surprise"
@@ -248,11 +248,6 @@
       "trust"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
       "obituary",
       2,
       "sadness"
@@ -266,6 +261,36 @@
       "guarantee",
       2,
       "trust"
+    ],
+    [
+      "politics",
+      1,
+      "anger"
+    ],
+    [
+      "complicated",
+      1,
+      "anger"
+    ],
+    [
+      "tensions",
+      1,
+      "anger"
+    ],
+    [
+      "gains",
+      1,
+      "joy"
+    ],
+    [
+      "resources",
+      1,
+      "joy"
+    ],
+    [
+      "white",
+      1,
+      "joy"
     ],
     [
       "intended",
@@ -351,41 +376,16 @@
       "government",
       1,
       "fear"
-    ],
-    [
-      "intervention",
-      1,
-      "sadness"
-    ],
-    [
-      "improvements",
-      1,
-      "joy"
-    ],
-    [
-      "parliament",
-      1,
-      "trust"
-    ],
-    [
-      "cross",
-      1,
-      "anger"
-    ],
-    [
-      "destruction",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
+    "joy": 39,
     "trust": 49,
     "fear": 58,
     "surprise": 15,
     "sadness": 13,
     "disgust": 3,
     "anger": 103,
-    "anticipation": 32
+    "anticipation": 34
   }
 }
