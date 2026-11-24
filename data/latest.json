@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T08:23:01.290Z",
+  "generated_at": "2026-11-24T08:38:03.797Z",
   "article_count": 50,
   "top_words": [
     [
@@ -48,8 +48,18 @@
       "anticipation"
     ],
     [
+      "missile",
+      4,
+      "fear"
+    ],
+    [
       "home",
       4,
+      "joy"
+    ],
+    [
+      "growing",
+      3,
       "joy"
     ],
     [
@@ -108,14 +118,9 @@
       "trust"
     ],
     [
-      "missile",
-      3,
-      "fear"
-    ],
-    [
-      "deal",
-      3,
-      "surprise"
+      "tensions",
+      2,
+      "anger"
     ],
     [
       "system",
@@ -146,11 +151,6 @@
       "leave",
       2,
       "sadness"
-    ],
-    [
-      "growing",
-      2,
-      "joy"
     ],
     [
       "force",
@@ -228,6 +228,11 @@
       "trust"
     ],
     [
+      "deal",
+      2,
+      "surprise"
+    ],
+    [
       "obituary",
       2,
       "sadness"
@@ -236,6 +241,16 @@
       "ceremony",
       2,
       "surprise"
+    ],
+    [
+      "fell",
+      1,
+      "sadness"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
     ],
     [
       "happens",
@@ -361,31 +376,16 @@
       "flooding",
       1,
       "fear"
-    ],
-    [
-      "manage",
-      1,
-      "trust"
-    ],
-    [
-      "dinner",
-      1,
-      "joy"
-    ],
-    [
-      "watches",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
     "trust": 49,
-    "fear": 59,
-    "surprise": 16,
-    "sadness": 15,
+    "fear": 60,
+    "surprise": 15,
+    "sadness": 16,
     "disgust": 3,
     "anger": 102,
-    "anticipation": 36
+    "anticipation": 35
   }
 }
