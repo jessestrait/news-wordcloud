@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:55:19.595Z",
+  "generated_at": "2026-11-24T13:10:21.682Z",
   "article_count": 50,
   "top_words": [
     [
@@ -14,8 +14,13 @@
     ],
     [
       "attack",
-      6,
+      7,
       "anger"
+    ],
+    [
+      "ship",
+      5,
+      "anticipation"
     ],
     [
       "public",
@@ -46,16 +51,6 @@
       "letter",
       4,
       "anticipation"
-    ],
-    [
-      "ship",
-      4,
-      "anticipation"
-    ],
-    [
-      "missile",
-      4,
-      "fear"
     ],
     [
       "home",
@@ -106,6 +101,11 @@
       "fear",
       3,
       "anger"
+    ],
+    [
+      "missile",
+      3,
+      "fear"
     ],
     [
       "tensions",
@@ -243,11 +243,6 @@
       "surprise"
     ],
     [
-      "fell",
-      1,
-      "sadness"
-    ],
-    [
       "authorities",
       1,
       "trust"
@@ -376,16 +371,21 @@
       "result",
       1,
       "anticipation"
+    ],
+    [
+      "career",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
     "joy": 37,
     "trust": 51,
-    "fear": 56,
+    "fear": 55,
     "surprise": 12,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 3,
-    "anger": 105,
-    "anticipation": 36
+    "anger": 106,
+    "anticipation": 37
   }
 }
