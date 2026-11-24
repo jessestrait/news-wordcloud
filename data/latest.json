@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:25:00.859Z",
+  "generated_at": "2026-11-24T12:40:03.160Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,14 +63,14 @@
       "joy"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "growing",
       3,
       "joy"
+    ],
+    [
+      "calls",
+      3,
+      "trust"
     ],
     [
       "trump",
@@ -108,6 +108,11 @@
       "anger"
     ],
     [
+      "tensions",
+      2,
+      "anger"
+    ],
+    [
       "anger",
       2,
       "anger"
@@ -126,11 +131,6 @@
       "diary",
       2,
       "joy"
-    ],
-    [
-      "tensions",
-      2,
-      "anger"
     ],
     [
       "fight",
@@ -243,6 +243,16 @@
       "surprise"
     ],
     [
+      "fell",
+      1,
+      "sadness"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
       "revolution",
       1,
       "anger"
@@ -291,16 +301,6 @@
       "thoughts",
       1,
       "anticipation"
-    ],
-    [
-      "fell",
-      1,
-      "sadness"
-    ],
-    [
-      "authorities",
-      1,
-      "trust"
     ],
     [
       "happens",
