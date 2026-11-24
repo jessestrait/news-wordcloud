@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:09:58.897Z",
+  "generated_at": "2026-11-24T12:25:00.859Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,19 +13,24 @@
       "anger"
     ],
     [
-      "military",
-      6,
-      "fear"
-    ],
-    [
       "attack",
       6,
       "anger"
     ],
     [
       "public",
-      4,
+      5,
       "anticipation"
+    ],
+    [
+      "military",
+      5,
+      "fear"
+    ],
+    [
+      "leader",
+      4,
+      "trust"
     ],
     [
       "police",
@@ -58,14 +63,14 @@
       "joy"
     ],
     [
+      "calls",
+      3,
+      "trust"
+    ],
+    [
       "growing",
       3,
       "joy"
-    ],
-    [
-      "fight",
-      3,
-      "anger"
     ],
     [
       "trump",
@@ -74,11 +79,6 @@
     ],
     [
       "president",
-      3,
-      "trust"
-    ],
-    [
-      "leader",
       3,
       "trust"
     ],
@@ -108,6 +108,16 @@
       "anger"
     ],
     [
+      "anger",
+      2,
+      "anger"
+    ],
+    [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "scandal",
       2,
       "fear"
@@ -119,6 +129,11 @@
     ],
     [
       "tensions",
+      2,
+      "anger"
+    ],
+    [
+      "fight",
       2,
       "anger"
     ],
@@ -148,11 +163,6 @@
       "joy"
     ],
     [
-      "rising",
-      2,
-      "joy"
-    ],
-    [
       "leave",
       2,
       "sadness"
@@ -166,11 +176,6 @@
       "grave",
       2,
       "fear"
-    ],
-    [
-      "calls",
-      2,
-      "trust"
     ],
     [
       "suspected",
@@ -223,11 +228,6 @@
       "anger"
     ],
     [
-      "people",
-      2,
-      "trust"
-    ],
-    [
       "remains",
       2,
       "fear"
@@ -241,6 +241,21 @@
       "deal",
       2,
       "surprise"
+    ],
+    [
+      "revolution",
+      1,
+      "anger"
+    ],
+    [
+      "hopes",
+      1,
+      "surprise"
+    ],
+    [
+      "housing",
+      1,
+      "joy"
     ],
     [
       "gates",
@@ -361,31 +376,16 @@
       "result",
       1,
       "anticipation"
-    ],
-    [
-      "career",
-      1,
-      "anticipation"
-    ],
-    [
-      "level",
-      1,
-      "trust"
-    ],
-    [
-      "plunged",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 37,
-    "trust": 50,
-    "fear": 57,
+    "trust": 51,
+    "fear": 56,
     "surprise": 12,
     "sadness": 16,
     "disgust": 3,
-    "anger": 103,
-    "anticipation": 35
+    "anger": 105,
+    "anticipation": 36
   }
 }
