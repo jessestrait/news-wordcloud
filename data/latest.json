@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:11:40.321Z",
+  "generated_at": "2026-11-24T15:26:43.550Z",
   "article_count": 50,
   "top_words": [
     [
@@ -18,14 +18,14 @@
       "anger"
     ],
     [
-      "gaza",
-      5,
-      "anger"
-    ],
-    [
       "ship",
       5,
       "anticipation"
+    ],
+    [
+      "gaza",
+      5,
+      "anger"
     ],
     [
       "public",
@@ -233,6 +233,11 @@
       "surprise"
     ],
     [
+      "confirmed",
+      1,
+      "trust"
+    ],
+    [
       "epidemic",
       1,
       "anger"
@@ -251,11 +256,6 @@
       "times",
       1,
       "anticipation"
-    ],
-    [
-      "confirmed",
-      1,
-      "trust"
     ],
     [
       "revolution",
