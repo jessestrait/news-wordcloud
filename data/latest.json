@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:10:21.682Z",
+  "generated_at": "2026-11-24T13:25:23.790Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "strike",
-      7,
+      8,
       "anger"
     ],
     [
@@ -58,11 +58,6 @@
       "joy"
     ],
     [
-      "growing",
-      3,
-      "joy"
-    ],
-    [
       "calls",
       3,
       "trust"
@@ -108,11 +103,6 @@
       "fear"
     ],
     [
-      "tensions",
-      2,
-      "anger"
-    ],
-    [
       "anger",
       2,
       "anger"
@@ -121,11 +111,6 @@
       "vote",
       2,
       "anger"
-    ],
-    [
-      "scandal",
-      2,
-      "fear"
     ],
     [
       "diary",
@@ -166,6 +151,11 @@
       "leave",
       2,
       "sadness"
+    ],
+    [
+      "growing",
+      2,
+      "joy"
     ],
     [
       "force",
@@ -243,7 +233,7 @@
       "surprise"
     ],
     [
-      "authorities",
+      "confirmed",
       1,
       "trust"
     ],
@@ -263,22 +253,12 @@
       "joy"
     ],
     [
-      "gates",
-      1,
-      "trust"
-    ],
-    [
-      "hell",
+      "menacing",
       1,
       "anger"
     ],
     [
-      "clerical",
-      1,
-      "trust"
-    ],
-    [
-      "abuse",
+      "devil",
       1,
       "anger"
     ],
@@ -376,12 +356,32 @@
       "career",
       1,
       "anticipation"
+    ],
+    [
+      "level",
+      1,
+      "trust"
+    ],
+    [
+      "plunged",
+      1,
+      "fear"
+    ],
+    [
+      "chaos",
+      1,
+      "anger"
+    ],
+    [
+      "shelter",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
-    "trust": 51,
-    "fear": 55,
+    "joy": 36,
+    "trust": 49,
+    "fear": 54,
     "surprise": 12,
     "sadness": 15,
     "disgust": 3,
