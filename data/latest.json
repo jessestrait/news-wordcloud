@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:37:12.259Z",
+  "generated_at": "2026-11-24T06:52:14.020Z",
   "article_count": 50,
   "top_words": [
     [
@@ -51,6 +51,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "fight",
+      3,
+      "anger"
     ],
     [
       "trump",
@@ -111,6 +116,11 @@
       "deal",
       3,
       "surprise"
+    ],
+    [
+      "system",
+      2,
+      "trust"
     ],
     [
       "government",
@@ -198,11 +208,6 @@
       "anger"
     ],
     [
-      "fight",
-      2,
-      "anger"
-    ],
-    [
       "gang",
       2,
       "anger"
@@ -233,9 +238,29 @@
       "surprise"
     ],
     [
-      "seek",
-      2,
+      "happens",
+      1,
       "anticipation"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "recommend",
+      1,
+      "trust"
+    ],
+    [
+      "disability",
+      1,
+      "sadness"
+    ],
+    [
+      "assessments",
+      1,
+      "surprise"
     ],
     [
       "failing",
@@ -286,11 +311,6 @@
       "plunged",
       1,
       "fear"
-    ],
-    [
-      "system",
-      1,
-      "trust"
     ],
     [
       "chaos",
@@ -356,36 +376,16 @@
       "watches",
       1,
       "fear"
-    ],
-    [
-      "correspondents",
-      1,
-      "anger"
-    ],
-    [
-      "jail",
-      1,
-      "fear"
-    ],
-    [
-      "bruising",
-      1,
-      "anticipation"
-    ],
-    [
-      "interrogated",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
-    "trust": 50,
-    "fear": 61,
-    "surprise": 15,
-    "sadness": 14,
+    "trust": 49,
+    "fear": 59,
+    "surprise": 16,
+    "sadness": 15,
     "disgust": 3,
     "anger": 102,
-    "anticipation": 35
+    "anticipation": 36
   }
 }
