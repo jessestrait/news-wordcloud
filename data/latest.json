@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-24T04:05:47.838Z",
+  "generated_at": "2026-11-24T04:20:50.018Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      11,
+      13,
       "anger"
     ],
     [
@@ -18,27 +18,17 @@
       "anger"
     ],
     [
+      "military",
+      6,
+      "fear"
+    ],
+    [
       "police",
       5,
       "fear"
     ],
     [
-      "military",
-      5,
-      "fear"
-    ],
-    [
       "trump",
-      4,
-      "anger"
-    ],
-    [
-      "president",
-      4,
-      "trust"
-    ],
-    [
-      "conflict",
       4,
       "anger"
     ],
@@ -53,14 +43,19 @@
       "anticipation"
     ],
     [
+      "ship",
+      4,
+      "anticipation"
+    ],
+    [
       "home",
       4,
       "joy"
     ],
     [
-      "deal",
-      4,
-      "surprise"
+      "president",
+      3,
+      "trust"
     ],
     [
       "leader",
@@ -78,19 +73,19 @@
       "anticipation"
     ],
     [
-      "outrage",
+      "death",
+      3,
+      "sadness"
+    ],
+    [
+      "conflict",
       3,
       "anger"
     ],
     [
-      "ship",
+      "outrage",
       3,
-      "anticipation"
-    ],
-    [
-      "vows",
-      3,
-      "joy"
+      "anger"
     ],
     [
       "kill",
@@ -113,9 +108,19 @@
       "fear"
     ],
     [
+      "deal",
+      3,
+      "surprise"
+    ],
+    [
       "power",
       3,
       "anticipation"
+    ],
+    [
+      "government",
+      2,
+      "fear"
     ],
     [
       "world",
@@ -126,11 +131,6 @@
       "suicides",
       2,
       "anger"
-    ],
-    [
-      "death",
-      2,
-      "sadness"
     ],
     [
       "space",
@@ -198,6 +198,11 @@
       "anger"
     ],
     [
+      "vows",
+      2,
+      "joy"
+    ],
+    [
       "alleged",
       2,
       "fear"
@@ -255,6 +260,36 @@
     [
       "guarantee",
       2,
+      "trust"
+    ],
+    [
+      "shelter",
+      1,
+      "trust"
+    ],
+    [
+      "condemned",
+      1,
+      "anger"
+    ],
+    [
+      "based",
+      1,
+      "trust"
+    ],
+    [
+      "ministry",
+      1,
+      "joy"
+    ],
+    [
+      "demands",
+      1,
+      "anger"
+    ],
+    [
+      "guardian",
+      1,
       "trust"
     ],
     [
@@ -341,51 +376,16 @@
       "white",
       1,
       "joy"
-    ],
-    [
-      "intended",
-      1,
-      "anticipation"
-    ],
-    [
-      "commission",
-      1,
-      "trust"
-    ],
-    [
-      "shows",
-      1,
-      "trust"
-    ],
-    [
-      "account",
-      1,
-      "trust"
-    ],
-    [
-      "regiment",
-      1,
-      "fear"
-    ],
-    [
-      "losses",
-      1,
-      "anger"
-    ],
-    [
-      "planning",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 36,
-    "trust": 49,
+    "trust": 50,
     "fear": 61,
-    "surprise": 15,
+    "surprise": 14,
     "sadness": 14,
     "disgust": 3,
-    "anger": 101,
+    "anger": 102,
     "anticipation": 34
   }
 }
