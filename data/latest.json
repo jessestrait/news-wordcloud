@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:42:03.934Z",
+  "generated_at": "2026-11-24T15:57:06.702Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "joy"
     ],
     [
+      "system",
+      3,
+      "trust"
+    ],
+    [
       "trump",
       3,
       "anger"
@@ -93,6 +98,11 @@
       "anger"
     ],
     [
+      "happen",
+      2,
+      "anticipation"
+    ],
+    [
       "ministry",
       2,
       "joy"
@@ -121,11 +131,6 @@
       "fight",
       2,
       "anger"
-    ],
-    [
-      "system",
-      2,
-      "trust"
     ],
     [
       "found",
@@ -238,6 +243,21 @@
       "trust"
     ],
     [
+      "changing",
+      1,
+      "fear"
+    ],
+    [
+      "personal",
+      1,
+      "trust"
+    ],
+    [
+      "independence",
+      1,
+      "surprise"
+    ],
+    [
       "epidemic",
       1,
       "anger"
@@ -294,11 +314,6 @@
     ],
     [
       "thoughts",
-      1,
-      "anticipation"
-    ],
-    [
-      "happens",
       1,
       "anticipation"
     ],
@@ -361,31 +376,16 @@
       "collisions",
       1,
       "anger"
-    ],
-    [
-      "good",
-      1,
-      "surprise"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
-    ],
-    [
-      "career",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 37,
-    "trust": 48,
-    "fear": 54,
-    "surprise": 12,
-    "sadness": 15,
+    "joy": 36,
+    "trust": 50,
+    "fear": 55,
+    "surprise": 13,
+    "sadness": 14,
     "disgust": 3,
-    "anger": 104,
-    "anticipation": 38
+    "anger": 103,
+    "anticipation": 39
   }
 }
