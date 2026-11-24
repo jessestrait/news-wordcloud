@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:00:41.460Z",
+  "generated_at": "2026-11-24T21:15:54.447Z",
   "article_count": 50,
   "top_words": [
     [
@@ -248,6 +248,21 @@
       "fear"
     ],
     [
+      "sovereign",
+      1,
+      "trust"
+    ],
+    [
+      "nation",
+      1,
+      "trust"
+    ],
+    [
+      "criticizes",
+      1,
+      "anger"
+    ],
+    [
       "lose",
       1,
       "anger"
@@ -361,27 +376,12 @@
       "atrocities",
       1,
       "anger"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "committed",
-      1,
-      "trust"
-    ],
-    [
-      "failing",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 34,
-    "trust": 48,
-    "fear": 58,
+    "trust": 47,
+    "fear": 57,
     "surprise": 11,
     "sadness": 16,
     "disgust": 4,
