@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:58:50.656Z",
+  "generated_at": "2026-11-24T18:13:53.368Z",
   "article_count": 50,
   "top_words": [
     [
@@ -38,11 +38,6 @@
       "anticipation"
     ],
     [
-      "happened",
-      4,
-      "anticipation"
-    ],
-    [
       "leader",
       4,
       "trust"
@@ -68,6 +63,11 @@
       "joy"
     ],
     [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
       "system",
       3,
       "trust"
@@ -91,6 +91,21 @@
       "fear",
       3,
       "anger"
+    ],
+    [
+      "jail",
+      2,
+      "fear"
+    ],
+    [
+      "university",
+      2,
+      "anticipation"
+    ],
+    [
+      "case",
+      2,
+      "fear"
     ],
     [
       "happen",
@@ -223,6 +238,21 @@
       "fear"
     ],
     [
+      "attempts",
+      1,
+      "anticipation"
+    ],
+    [
+      "hearing",
+      1,
+      "fear"
+    ],
+    [
+      "prosecution",
+      1,
+      "disgust"
+    ],
+    [
       "confirmed",
       1,
       "trust"
@@ -251,11 +281,6 @@
       "epidemic",
       1,
       "anger"
-    ],
-    [
-      "cases",
-      1,
-      "fear"
     ],
     [
       "infections",
@@ -351,40 +376,15 @@
       "challenge",
       1,
       "anger"
-    ],
-    [
-      "awareness",
-      1,
-      "trust"
-    ],
-    [
-      "team",
-      1,
-      "trust"
-    ],
-    [
-      "collisions",
-      1,
-      "anger"
-    ],
-    [
-      "good",
-      1,
-      "surprise"
-    ],
-    [
-      "result",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
-    "trust": 47,
-    "fear": 56,
-    "surprise": 12,
+    "joy": 35,
+    "trust": 46,
+    "fear": 59,
+    "surprise": 11,
     "sadness": 15,
-    "disgust": 3,
+    "disgust": 4,
     "anger": 103,
     "anticipation": 40
   }
