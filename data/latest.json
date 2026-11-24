@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:51:08.991Z",
+  "generated_at": "2026-11-24T05:06:10.928Z",
   "article_count": 50,
   "top_words": [
     [
@@ -26,6 +26,11 @@
       "police",
       5,
       "fear"
+    ],
+    [
+      "public",
+      4,
+      "anticipation"
     ],
     [
       "gaza",
@@ -61,11 +66,6 @@
       "leader",
       3,
       "trust"
-    ],
-    [
-      "public",
-      3,
-      "anticipation"
     ],
     [
       "happened",
@@ -113,19 +113,9 @@
       "surprise"
     ],
     [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "government",
       2,
       "fear"
-    ],
-    [
-      "world",
-      2,
-      "trust"
     ],
     [
       "suicides",
@@ -223,11 +213,6 @@
       "surprise"
     ],
     [
-      "general",
-      2,
-      "trust"
-    ],
-    [
       "remains",
       2,
       "fear"
@@ -251,6 +236,31 @@
       "seek",
       2,
       "anticipation"
+    ],
+    [
+      "failing",
+      1,
+      "anger"
+    ],
+    [
+      "challenge",
+      1,
+      "anger"
+    ],
+    [
+      "awareness",
+      1,
+      "trust"
+    ],
+    [
+      "team",
+      1,
+      "trust"
+    ],
+    [
+      "collisions",
+      1,
+      "anger"
     ],
     [
       "good",
@@ -366,26 +376,16 @@
       "interrogated",
       1,
       "fear"
-    ],
-    [
-      "association",
-      1,
-      "trust"
-    ],
-    [
-      "politics",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 35,
     "trust": 50,
-    "fear": 62,
+    "fear": 61,
     "surprise": 15,
     "sadness": 14,
     "disgust": 3,
-    "anger": 99,
-    "anticipation": 36
+    "anger": 102,
+    "anticipation": 35
   }
 }
