@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:01:20.135Z",
+  "generated_at": "2026-11-24T22:16:23.057Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,6 +13,11 @@
       "anger"
     ],
     [
+      "military",
+      6,
+      "fear"
+    ],
+    [
       "attack",
       6,
       "anger"
@@ -21,11 +26,6 @@
       "ship",
       5,
       "anticipation"
-    ],
-    [
-      "military",
-      5,
-      "fear"
     ],
     [
       "gaza",
@@ -41,6 +41,11 @@
       "system",
       4,
       "trust"
+    ],
+    [
+      "home",
+      4,
+      "joy"
     ],
     [
       "leader",
@@ -63,24 +68,24 @@
       "anticipation"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "police",
       3,
       "fear"
     ],
     [
-      "conflict",
+      "alleged",
+      3,
+      "fear"
+    ],
+    [
+      "trump",
       3,
       "anger"
     ],
     [
-      "homes",
+      "conflict",
       3,
-      "joy"
+      "anger"
     ],
     [
       "kill",
@@ -153,11 +158,6 @@
       "trust"
     ],
     [
-      "found",
-      2,
-      "joy"
-    ],
-    [
       "government",
       2,
       "fear"
@@ -213,11 +213,6 @@
       "fear"
     ],
     [
-      "outrage",
-      2,
-      "anger"
-    ],
-    [
       "berlin",
       2,
       "joy"
@@ -226,11 +221,6 @@
       "coming",
       2,
       "anticipation"
-    ],
-    [
-      "alleged",
-      2,
-      "fear"
     ],
     [
       "plan",
@@ -248,14 +238,9 @@
       "fear"
     ],
     [
-      "sovereign",
+      "criticizing",
       1,
-      "trust"
-    ],
-    [
-      "nation",
-      1,
-      "trust"
+      "anger"
     ],
     [
       "criticizes",
@@ -323,6 +308,16 @@
       "anticipation"
     ],
     [
+      "vigil",
+      1,
+      "anticipation"
+    ],
+    [
+      "murder",
+      1,
+      "anger"
+    ],
+    [
       "revolution",
       1,
       "anger"
@@ -376,16 +371,21 @@
       "atrocities",
       1,
       "anger"
+    ],
+    [
+      "announcement",
+      1,
+      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 34,
-    "trust": 47,
-    "fear": 57,
+    "joy": 33,
+    "trust": 44,
+    "fear": 59,
     "surprise": 11,
-    "sadness": 16,
+    "sadness": 15,
     "disgust": 4,
-    "anger": 102,
-    "anticipation": 40
+    "anger": 99,
+    "anticipation": 41
   }
 }
