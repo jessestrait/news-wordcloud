@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:28:56.024Z",
+  "generated_at": "2026-11-24T18:43:58.686Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,11 +43,6 @@
       "trust"
     ],
     [
-      "police",
-      4,
-      "fear"
-    ],
-    [
       "death",
       4,
       "sadness"
@@ -56,11 +51,6 @@
       "letter",
       4,
       "anticipation"
-    ],
-    [
-      "home",
-      4,
-      "joy"
     ],
     [
       "happened",
@@ -78,9 +68,19 @@
       "anger"
     ],
     [
+      "police",
+      3,
+      "fear"
+    ],
+    [
       "conflict",
       3,
       "anger"
+    ],
+    [
+      "homes",
+      3,
+      "joy"
     ],
     [
       "kill",
@@ -223,11 +223,6 @@
       "fear"
     ],
     [
-      "raid",
-      2,
-      "anger"
-    ],
-    [
       "gang",
       2,
       "anger"
@@ -236,6 +231,31 @@
       "missile",
       2,
       "fear"
+    ],
+    [
+      "pride",
+      1,
+      "joy"
+    ],
+    [
+      "sentence",
+      1,
+      "anger"
+    ],
+    [
+      "harvesting",
+      1,
+      "joy"
+    ],
+    [
+      "flagrant",
+      1,
+      "anger"
+    ],
+    [
+      "court",
+      1,
+      "anger"
     ],
     [
       "attempts",
@@ -356,36 +376,16 @@
       "atrocities",
       1,
       "anger"
-    ],
-    [
-      "announcement",
-      1,
-      "anticipation"
-    ],
-    [
-      "committed",
-      1,
-      "trust"
-    ],
-    [
-      "failing",
-      1,
-      "anger"
-    ],
-    [
-      "challenge",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 35,
+    "joy": 36,
     "trust": 46,
-    "fear": 59,
+    "fear": 58,
     "surprise": 11,
     "sadness": 15,
     "disgust": 4,
-    "anger": 103,
-    "anticipation": 40
+    "anger": 104,
+    "anticipation": 39
   }
 }
