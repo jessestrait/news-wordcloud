@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-11-24T04:36:07.090Z",
+  "generated_at": "2026-11-24T04:51:08.991Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      13,
-      "anger"
-    ],
-    [
-      "attack",
-      8,
+      12,
       "anger"
     ],
     [
@@ -23,14 +18,14 @@
       "fear"
     ],
     [
+      "attack",
+      6,
+      "anger"
+    ],
+    [
       "police",
       5,
       "fear"
-    ],
-    [
-      "trump",
-      4,
-      "anger"
     ],
     [
       "gaza",
@@ -51,6 +46,11 @@
       "home",
       4,
       "joy"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "president",
@@ -198,11 +198,6 @@
       "anger"
     ],
     [
-      "vows",
-      2,
-      "joy"
-    ],
-    [
       "alleged",
       2,
       "fear"
@@ -258,9 +253,39 @@
       "anticipation"
     ],
     [
-      "guarantee",
-      2,
+      "good",
+      1,
+      "surprise"
+    ],
+    [
+      "result",
+      1,
+      "anticipation"
+    ],
+    [
+      "career",
+      1,
+      "anticipation"
+    ],
+    [
+      "level",
+      1,
       "trust"
+    ],
+    [
+      "plunged",
+      1,
+      "fear"
+    ],
+    [
+      "system",
+      1,
+      "trust"
+    ],
+    [
+      "chaos",
+      1,
+      "anger"
     ],
     [
       "shelter",
@@ -351,41 +376,16 @@
       "politics",
       1,
       "anger"
-    ],
-    [
-      "complicated",
-      1,
-      "anger"
-    ],
-    [
-      "tensions",
-      1,
-      "anger"
-    ],
-    [
-      "gains",
-      1,
-      "joy"
-    ],
-    [
-      "resources",
-      1,
-      "joy"
-    ],
-    [
-      "white",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 36,
+    "joy": 35,
     "trust": 50,
-    "fear": 61,
-    "surprise": 14,
+    "fear": 62,
+    "surprise": 15,
     "sadness": 14,
     "disgust": 3,
-    "anger": 102,
-    "anticipation": 34
+    "anger": 99,
+    "anticipation": 36
   }
 }
