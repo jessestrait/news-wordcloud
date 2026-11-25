@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-11-25T13:55:19.330Z",
+  "generated_at": "2026-11-25T14:10:21.600Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
       8,
-      "anger"
-    ],
-    [
-      "strike",
-      6,
       "anger"
     ],
     [
@@ -23,9 +18,14 @@
       "anticipation"
     ],
     [
-      "police",
+      "strike",
+      5,
+      "anger"
+    ],
+    [
+      "calls",
       4,
-      "fear"
+      "trust"
     ],
     [
       "president",
@@ -36,6 +36,11 @@
       "hostage",
       4,
       "anger"
+    ],
+    [
+      "police",
+      4,
+      "fear"
     ],
     [
       "military",
@@ -58,14 +63,9 @@
       "sadness"
     ],
     [
-      "attack",
-      4,
-      "anger"
-    ],
-    [
-      "letter",
-      4,
-      "anticipation"
+      "operation",
+      3,
+      "fear"
     ],
     [
       "general",
@@ -78,16 +78,6 @@
       "anger"
     ],
     [
-      "operation",
-      3,
-      "fear"
-    ],
-    [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "ship",
       3,
       "anticipation"
@@ -95,6 +85,36 @@
     [
       "warn",
       3,
+      "fear"
+    ],
+    [
+      "attack",
+      3,
+      "anger"
+    ],
+    [
+      "committed",
+      2,
+      "trust"
+    ],
+    [
+      "freedom",
+      2,
+      "joy"
+    ],
+    [
+      "people",
+      2,
+      "trust"
+    ],
+    [
+      "fears",
+      2,
+      "anger"
+    ],
+    [
+      "killed",
+      2,
       "fear"
     ],
     [
@@ -106,11 +126,6 @@
       "court",
       2,
       "anger"
-    ],
-    [
-      "killed",
-      2,
-      "fear"
     ],
     [
       "highest",
@@ -178,11 +193,6 @@
       "joy"
     ],
     [
-      "home",
-      2,
-      "joy"
-    ],
-    [
       "diary",
       2,
       "joy"
@@ -203,6 +213,11 @@
       "anger"
     ],
     [
+      "letters",
+      2,
+      "anticipation"
+    ],
+    [
       "suicides",
       2,
       "anger"
@@ -213,19 +228,9 @@
       "joy"
     ],
     [
-      "leave",
-      2,
-      "sadness"
-    ],
-    [
       "force",
       2,
       "anger"
-    ],
-    [
-      "refugee",
-      2,
-      "sadness"
     ],
     [
       "chancellor",
@@ -241,6 +246,36 @@
       "massive",
       1,
       "anger"
+    ],
+    [
+      "law",
+      1,
+      "trust"
+    ],
+    [
+      "abused",
+      1,
+      "anger"
+    ],
+    [
+      "draft",
+      1,
+      "anticipation"
+    ],
+    [
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "storm",
+      1,
+      "anger"
+    ],
+    [
+      "shopping",
+      1,
+      "surprise"
     ],
     [
       "hit",
@@ -341,51 +376,16 @@
       "lawyer",
       1,
       "anger"
-    ],
-    [
-      "assembly",
-      1,
-      "trust"
-    ],
-    [
-      "rescued",
-      1,
-      "surprise"
-    ],
-    [
-      "storm",
-      1,
-      "anger"
-    ],
-    [
-      "shopping",
-      1,
-      "surprise"
-    ],
-    [
-      "people",
-      1,
-      "trust"
-    ],
-    [
-      "united",
-      1,
-      "trust"
-    ],
-    [
-      "nations",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 64,
-    "fear": 51,
+    "trust": 66,
+    "fear": 48,
     "surprise": 10,
-    "sadness": 12,
+    "sadness": 9,
     "disgust": 5,
     "anger": 80,
-    "anticipation": 43
+    "anticipation": 42
   }
 }
