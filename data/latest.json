@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T04:50:15.863Z",
+  "generated_at": "2026-11-25T05:05:18.832Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,11 +28,6 @@
       "anticipation"
     ],
     [
-      "gaza",
-      5,
-      "anger"
-    ],
-    [
       "public",
       5,
       "anticipation"
@@ -43,6 +38,11 @@
       "trust"
     ],
     [
+      "gaza",
+      4,
+      "anger"
+    ],
+    [
       "death",
       4,
       "sadness"
@@ -50,6 +50,11 @@
     [
       "letter",
       4,
+      "anticipation"
+    ],
+    [
+      "plan",
+      3,
       "anticipation"
     ],
     [
@@ -93,9 +98,24 @@
       "fear"
     ],
     [
-      "fear",
-      3,
+      "iran",
+      2,
       "anger"
+    ],
+    [
+      "prepare",
+      2,
+      "anticipation"
+    ],
+    [
+      "polls",
+      2,
+      "trust"
+    ],
+    [
+      "gains",
+      2,
+      "joy"
     ],
     [
       "battle",
@@ -183,11 +203,6 @@
       "sadness"
     ],
     [
-      "growing",
-      2,
-      "joy"
-    ],
-    [
       "force",
       2,
       "anger"
@@ -213,19 +228,54 @@
       "joy"
     ],
     [
-      "coming",
-      2,
-      "anticipation"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
       "gang",
       2,
       "anger"
+    ],
+    [
+      "fear",
+      2,
+      "anger"
+    ],
+    [
+      "don",
+      1,
+      "trust"
+    ],
+    [
+      "freedom",
+      1,
+      "joy"
+    ],
+    [
+      "escape",
+      1,
+      "fear"
+    ],
+    [
+      "advance",
+      1,
+      "fear"
+    ],
+    [
+      "proxy",
+      1,
+      "trust"
+    ],
+    [
+      "evacuate",
+      1,
+      "fear"
+    ],
+    [
+      "charts",
+      1,
+      "trust"
+    ],
+    [
+      "power",
+      1,
+      "anticipation"
     ],
     [
       "pact",
@@ -326,66 +376,16 @@
       "times",
       1,
       "anticipation"
-    ],
-    [
-      "vigil",
-      1,
-      "anticipation"
-    ],
-    [
-      "murder",
-      1,
-      "anger"
-    ],
-    [
-      "revolution",
-      1,
-      "anger"
-    ],
-    [
-      "hopes",
-      1,
-      "surprise"
-    ],
-    [
-      "anger",
-      1,
-      "anger"
-    ],
-    [
-      "housing",
-      1,
-      "joy"
-    ],
-    [
-      "menacing",
-      1,
-      "anger"
-    ],
-    [
-      "devil",
-      1,
-      "anger"
-    ],
-    [
-      "late",
-      1,
-      "sadness"
-    ],
-    [
-      "pontiff",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 32,
-    "trust": 43,
-    "fear": 52,
+    "joy": 31,
+    "trust": 47,
+    "fear": 53,
     "surprise": 10,
-    "sadness": 15,
+    "sadness": 14,
     "disgust": 4,
-    "anger": 98,
-    "anticipation": 41
+    "anger": 92,
+    "anticipation": 43
   }
 }
