@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:23:58.977Z",
+  "generated_at": "2026-11-25T11:39:01.900Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,12 +88,12 @@
       "joy"
     ],
     [
-      "court",
+      "massive",
       2,
       "anger"
     ],
     [
-      "massive",
+      "court",
       2,
       "anger"
     ],
@@ -233,6 +233,16 @@
       "fear"
     ],
     [
+      "chancellor",
+      1,
+      "trust"
+    ],
+    [
+      "escalating",
+      1,
+      "anger"
+    ],
+    [
       "officials",
       1,
       "trust"
@@ -271,16 +281,6 @@
       "assembly",
       1,
       "trust"
-    ],
-    [
-      "chancellor",
-      1,
-      "trust"
-    ],
-    [
-      "escalating",
-      1,
-      "anger"
     ],
     [
       "synod",
