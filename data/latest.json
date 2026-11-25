@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:38:35.678Z",
+  "generated_at": "2026-11-25T10:53:37.759Z",
   "article_count": 50,
   "top_words": [
     [
@@ -58,6 +58,11 @@
       "anticipation"
     ],
     [
+      "vote",
+      3,
+      "anger"
+    ],
+    [
       "president",
       3,
       "trust"
@@ -76,6 +81,11 @@
       "conflict",
       3,
       "anger"
+    ],
+    [
+      "general",
+      2,
+      "trust"
     ],
     [
       "massive",
@@ -173,19 +183,9 @@
       "joy"
     ],
     [
-      "alleged",
-      2,
-      "fear"
-    ],
-    [
       "calls",
       2,
       "trust"
-    ],
-    [
-      "vote",
-      2,
-      "anger"
     ],
     [
       "diary",
@@ -223,11 +223,6 @@
       "sadness"
     ],
     [
-      "force",
-      2,
-      "anger"
-    ],
-    [
       "warn",
       2,
       "fear"
@@ -248,6 +243,21 @@
       "joy"
     ],
     [
+      "synod",
+      1,
+      "trust"
+    ],
+    [
+      "supporting",
+      1,
+      "trust"
+    ],
+    [
+      "motion",
+      1,
+      "anticipation"
+    ],
+    [
       "chancellor",
       1,
       "trust"
@@ -264,11 +274,6 @@
     ],
     [
       "nations",
-      1,
-      "trust"
-    ],
-    [
-      "general",
       1,
       "trust"
     ],
@@ -371,21 +376,16 @@
       "hunter",
       1,
       "fear"
-    ],
-    [
-      "court",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 29,
-    "trust": 51,
-    "fear": 51,
+    "joy": 28,
+    "trust": 54,
+    "fear": 50,
     "surprise": 11,
     "sadness": 14,
     "disgust": 4,
-    "anger": 89,
-    "anticipation": 44
+    "anger": 86,
+    "anticipation": 45
   }
 }
