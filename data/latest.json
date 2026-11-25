@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:48:38.125Z",
+  "generated_at": "2026-11-25T02:03:40.671Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,11 +43,6 @@
       "trust"
     ],
     [
-      "home",
-      4,
-      "joy"
-    ],
-    [
       "death",
       4,
       "sadness"
@@ -71,6 +66,11 @@
       "alleged",
       3,
       "fear"
+    ],
+    [
+      "home",
+      3,
+      "joy"
     ],
     [
       "leader",
@@ -228,6 +228,16 @@
       "anger"
     ],
     [
+      "pact",
+      1,
+      "trust"
+    ],
+    [
+      "doubt",
+      1,
+      "fear"
+    ],
+    [
       "fighting",
       1,
       "anger"
@@ -366,22 +376,12 @@
       "pontiff",
       1,
       "trust"
-    ],
-    [
-      "thoughts",
-      1,
-      "anticipation"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 33,
+    "joy": 32,
     "trust": 43,
-    "fear": 55,
+    "fear": 52,
     "surprise": 10,
     "sadness": 15,
     "disgust": 4,
