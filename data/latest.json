@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:24:30.895Z",
+  "generated_at": "2026-11-25T12:39:33.619Z",
   "article_count": 50,
   "top_words": [
     [
@@ -213,6 +213,21 @@
       "sadness"
     ],
     [
+      "chancellor",
+      1,
+      "trust"
+    ],
+    [
+      "escalating",
+      1,
+      "anger"
+    ],
+    [
+      "massive",
+      1,
+      "anger"
+    ],
+    [
       "spiking",
       1,
       "fear"
@@ -256,21 +271,6 @@
       "motion",
       1,
       "anticipation"
-    ],
-    [
-      "chancellor",
-      1,
-      "trust"
-    ],
-    [
-      "escalating",
-      1,
-      "anger"
-    ],
-    [
-      "massive",
-      1,
-      "anger"
     ],
     [
       "officials",
