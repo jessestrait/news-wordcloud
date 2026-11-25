@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:54:55.764Z",
+  "generated_at": "2026-11-25T13:09:57.758Z",
   "article_count": 50,
   "top_words": [
     [
@@ -91,6 +91,11 @@
       "warn",
       3,
       "fear"
+    ],
+    [
+      "experts",
+      2,
+      "trust"
     ],
     [
       "court",
@@ -211,6 +216,26 @@
       "refugee",
       2,
       "sadness"
+    ],
+    [
+      "hit",
+      1,
+      "anger"
+    ],
+    [
+      "wildfires",
+      1,
+      "fear"
+    ],
+    [
+      "floods",
+      1,
+      "fear"
+    ],
+    [
+      "change",
+      1,
+      "fear"
     ],
     [
       "chancellor",
@@ -351,41 +376,16 @@
       "award",
       1,
       "surprise"
-    ],
-    [
-      "sufferers",
-      1,
-      "fear"
-    ],
-    [
-      "don",
-      1,
-      "trust"
-    ],
-    [
-      "freedom",
-      1,
-      "joy"
-    ],
-    [
-      "escape",
-      1,
-      "fear"
-    ],
-    [
-      "advance",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 61,
-    "fear": 47,
-    "surprise": 9,
+    "trust": 62,
+    "fear": 50,
+    "surprise": 8,
     "sadness": 12,
     "disgust": 5,
-    "anger": 79,
+    "anger": 80,
     "anticipation": 43
   }
 }
