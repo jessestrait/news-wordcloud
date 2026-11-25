@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:40:17.061Z",
+  "generated_at": "2026-11-25T13:55:19.330Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,14 +23,19 @@
       "anticipation"
     ],
     [
-      "attack",
-      5,
-      "anger"
-    ],
-    [
       "police",
       4,
       "fear"
+    ],
+    [
+      "president",
+      4,
+      "trust"
+    ],
+    [
+      "hostage",
+      4,
+      "anger"
     ],
     [
       "military",
@@ -53,6 +58,11 @@
       "sadness"
     ],
     [
+      "attack",
+      4,
+      "anger"
+    ],
+    [
       "letter",
       4,
       "anticipation"
@@ -68,9 +78,9 @@
       "anger"
     ],
     [
-      "president",
+      "operation",
       3,
-      "trust"
+      "fear"
     ],
     [
       "calls",
@@ -81,11 +91,6 @@
       "ship",
       3,
       "anticipation"
-    ],
-    [
-      "home",
-      3,
-      "joy"
     ],
     [
       "warn",
@@ -101,6 +106,11 @@
       "court",
       2,
       "anger"
+    ],
+    [
+      "killed",
+      2,
+      "fear"
     ],
     [
       "highest",
@@ -131,16 +141,6 @@
       "gains",
       2,
       "joy"
-    ],
-    [
-      "hostage",
-      2,
-      "anger"
-    ],
-    [
-      "operation",
-      2,
-      "fear"
     ],
     [
       "battle",
@@ -178,6 +178,11 @@
       "joy"
     ],
     [
+      "home",
+      2,
+      "joy"
+    ],
+    [
       "diary",
       2,
       "joy"
@@ -211,6 +216,11 @@
       "leave",
       2,
       "sadness"
+    ],
+    [
+      "force",
+      2,
+      "anger"
     ],
     [
       "refugee",
@@ -338,6 +348,26 @@
       "trust"
     ],
     [
+      "rescued",
+      1,
+      "surprise"
+    ],
+    [
+      "storm",
+      1,
+      "anger"
+    ],
+    [
+      "shopping",
+      1,
+      "surprise"
+    ],
+    [
+      "people",
+      1,
+      "trust"
+    ],
+    [
       "united",
       1,
       "trust"
@@ -346,43 +376,13 @@
       "nations",
       1,
       "trust"
-    ],
-    [
-      "diplomatic",
-      1,
-      "trust"
-    ],
-    [
-      "claimants",
-      1,
-      "anger"
-    ],
-    [
-      "agonies",
-      1,
-      "anger"
-    ],
-    [
-      "applicants",
-      1,
-      "anticipation"
-    ],
-    [
-      "problems",
-      1,
-      "fear"
-    ],
-    [
-      "award",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 62,
-    "fear": 50,
-    "surprise": 8,
+    "joy": 26,
+    "trust": 64,
+    "fear": 51,
+    "surprise": 10,
     "sadness": 12,
     "disgust": 5,
     "anger": 80,
