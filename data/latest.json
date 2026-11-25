@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:08:39.919Z",
+  "generated_at": "2026-11-25T11:23:42.384Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "strike",
       6,
       "anger"
+    ],
+    [
+      "leader",
+      5,
+      "trust"
     ],
     [
       "public",
@@ -26,11 +31,6 @@
       "police",
       4,
       "fear"
-    ],
-    [
-      "leader",
-      4,
-      "trust"
     ],
     [
       "military",
@@ -73,11 +73,6 @@
       "anger"
     ],
     [
-      "prepare",
-      3,
-      "anticipation"
-    ],
-    [
       "president",
       3,
       "trust"
@@ -91,6 +86,11 @@
       "home",
       3,
       "joy"
+    ],
+    [
+      "court",
+      2,
+      "anger"
     ],
     [
       "massive",
@@ -123,6 +123,11 @@
       "anger"
     ],
     [
+      "prepare",
+      2,
+      "anticipation"
+    ],
+    [
       "gains",
       2,
       "joy"
@@ -151,11 +156,6 @@
       "jail",
       2,
       "fear"
-    ],
-    [
-      "university",
-      2,
-      "anticipation"
     ],
     [
       "case",
@@ -231,6 +231,26 @@
       "swim",
       2,
       "fear"
+    ],
+    [
+      "officials",
+      1,
+      "trust"
+    ],
+    [
+      "airport",
+      1,
+      "anticipation"
+    ],
+    [
+      "boarding",
+      1,
+      "anticipation"
+    ],
+    [
+      "invited",
+      1,
+      "surprise"
     ],
     [
       "dissidents",
@@ -356,36 +376,16 @@
       "charts",
       1,
       "trust"
-    ],
-    [
-      "polls",
-      1,
-      "trust"
-    ],
-    [
-      "arrives",
-      1,
-      "anticipation"
-    ],
-    [
-      "scores",
-      1,
-      "surprise"
-    ],
-    [
-      "hail",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 60,
-    "fear": 49,
-    "surprise": 9,
+    "trust": 61,
+    "fear": 48,
+    "surprise": 10,
     "sadness": 12,
     "disgust": 4,
-    "anger": 83,
-    "anticipation": 45
+    "anger": 82,
+    "anticipation": 44
   }
 }
