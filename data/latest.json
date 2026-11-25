@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:07:40.664Z",
+  "generated_at": "2026-11-25T09:22:42.697Z",
   "article_count": 50,
   "top_words": [
     [
@@ -9,7 +9,7 @@
     ],
     [
       "strike",
-      9,
+      7,
       "anger"
     ],
     [
@@ -58,16 +58,6 @@
       "anticipation"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
-      "power",
-      3,
-      "anticipation"
-    ],
-    [
       "president",
       3,
       "trust"
@@ -88,9 +78,19 @@
       "anger"
     ],
     [
+      "massive",
+      2,
+      "anger"
+    ],
+    [
       "highest",
       2,
       "fear"
+    ],
+    [
+      "power",
+      2,
+      "anticipation"
     ],
     [
       "assessments",
@@ -203,6 +203,11 @@
       "fear"
     ],
     [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
       "suicides",
       2,
       "anger"
@@ -223,6 +228,11 @@
       "anger"
     ],
     [
+      "warn",
+      2,
+      "fear"
+    ],
+    [
       "refugee",
       2,
       "sadness"
@@ -236,6 +246,16 @@
       "berlin",
       2,
       "joy"
+    ],
+    [
+      "chancellor",
+      1,
+      "trust"
+    ],
+    [
+      "escalating",
+      1,
+      "anger"
     ],
     [
       "united",
@@ -328,11 +348,6 @@
       "anticipation"
     ],
     [
-      "massive",
-      1,
-      "anger"
-    ],
-    [
       "scores",
       1,
       "surprise"
@@ -361,31 +376,16 @@
       "court",
       1,
       "anger"
-    ],
-    [
-      "criticizing",
-      1,
-      "anger"
-    ],
-    [
-      "criticizes",
-      1,
-      "anger"
-    ],
-    [
-      "lose",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 50,
-    "fear": 50,
+    "trust": 51,
+    "fear": 51,
     "surprise": 11,
     "sadness": 14,
     "disgust": 4,
-    "anger": 90,
-    "anticipation": 45
+    "anger": 89,
+    "anticipation": 44
   }
 }
