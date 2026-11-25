@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-25T14:40:42.717Z",
+  "generated_at": "2026-11-25T14:55:45.336Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -18,19 +18,19 @@
       "anticipation"
     ],
     [
-      "strike",
-      5,
-      "anger"
-    ],
-    [
-      "calls",
+      "space",
       4,
-      "trust"
+      "joy"
     ],
     [
       "president",
       4,
       "trust"
+    ],
+    [
+      "operation",
+      4,
+      "fear"
     ],
     [
       "hostage",
@@ -58,14 +58,19 @@
       "anger"
     ],
     [
+      "strike",
+      4,
+      "anger"
+    ],
+    [
       "death",
       4,
       "sadness"
     ],
     [
-      "operation",
+      "calls",
       3,
-      "fear"
+      "trust"
     ],
     [
       "general",
@@ -86,11 +91,6 @@
       "warn",
       3,
       "fear"
-    ],
-    [
-      "attack",
-      3,
-      "anger"
     ],
     [
       "committed",
@@ -221,11 +221,6 @@
       "suicides",
       2,
       "anger"
-    ],
-    [
-      "space",
-      2,
-      "joy"
     ],
     [
       "force",
@@ -376,16 +371,21 @@
       "lawyer",
       1,
       "anger"
+    ],
+    [
+      "assembly",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 66,
+    "trust": 65,
     "fear": 48,
     "surprise": 10,
     "sadness": 9,
     "disgust": 5,
-    "anger": 80,
-    "anticipation": 42
+    "anger": 76,
+    "anticipation": 41
   }
 }
