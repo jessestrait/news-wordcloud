@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:26:09.339Z",
+  "generated_at": "2026-11-25T15:41:11.977Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "leader",
       5,
       "trust"
-    ],
-    [
-      "public",
-      5,
-      "anticipation"
     ],
     [
       "space",
@@ -53,9 +48,9 @@
       "trust"
     ],
     [
-      "gaza",
+      "public",
       4,
-      "anger"
+      "anticipation"
     ],
     [
       "strike",
@@ -66,6 +61,11 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "power",
+      3,
+      "anticipation"
     ],
     [
       "calls",
@@ -88,8 +88,8 @@
       "anticipation"
     ],
     [
-      "warn",
-      3,
+      "warns",
+      2,
       "fear"
     ],
     [
@@ -118,11 +118,6 @@
       "fear"
     ],
     [
-      "experts",
-      2,
-      "trust"
-    ],
-    [
       "court",
       2,
       "anger"
@@ -131,11 +126,6 @@
       "highest",
       2,
       "fear"
-    ],
-    [
-      "power",
-      2,
-      "anticipation"
     ],
     [
       "assessments",
@@ -188,6 +178,11 @@
       "anticipation"
     ],
     [
+      "gaza",
+      2,
+      "anger"
+    ],
+    [
       "ministry",
       2,
       "joy"
@@ -225,6 +220,11 @@
     [
       "force",
       2,
+      "anger"
+    ],
+    [
+      "dominated",
+      1,
       "anger"
     ],
     [
@@ -291,6 +291,11 @@
       "change",
       1,
       "fear"
+    ],
+    [
+      "experts",
+      1,
+      "trust"
     ],
     [
       "spiking",
@@ -371,21 +376,16 @@
       "lawyer",
       1,
       "anger"
-    ],
-    [
-      "assembly",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 65,
-    "fear": 48,
+    "joy": 25,
+    "trust": 63,
+    "fear": 46,
     "surprise": 10,
     "sadness": 9,
-    "disgust": 5,
-    "anger": 76,
+    "disgust": 3,
+    "anger": 73,
     "anticipation": 41
   }
 }
