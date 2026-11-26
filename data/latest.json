@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T18:44:38.587Z",
+  "generated_at": "2026-11-26T18:59:40.895Z",
   "article_count": 50,
   "top_words": [
     [
       "system",
-      6,
+      5,
       "trust"
     ],
     [
@@ -41,6 +41,11 @@
       "leader",
       4,
       "trust"
+    ],
+    [
+      "happen",
+      3,
+      "anticipation"
     ],
     [
       "space",
@@ -223,11 +228,6 @@
       "fear"
     ],
     [
-      "happen",
-      2,
-      "anticipation"
-    ],
-    [
       "diary",
       2,
       "joy"
@@ -238,9 +238,9 @@
       "trust"
     ],
     [
-      "armed",
+      "disappointing",
       1,
-      "anger"
+      "sadness"
     ],
     [
       "detonated",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 25,
-    "trust": 63,
-    "fear": 51,
-    "surprise": 16,
-    "sadness": 8,
+    "trust": 61,
+    "fear": 50,
+    "surprise": 15,
+    "sadness": 9,
     "disgust": 2,
-    "anger": 77,
-    "anticipation": 35
+    "anger": 75,
+    "anticipation": 34
   }
 }
