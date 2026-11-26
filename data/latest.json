@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:30:25.960Z",
+  "generated_at": "2026-11-26T20:45:28.244Z",
   "article_count": 50,
   "top_words": [
     [
@@ -238,6 +238,16 @@
       "trust"
     ],
     [
+      "kill",
+      1,
+      "fear"
+    ],
+    [
+      "statement",
+      1,
+      "trust"
+    ],
+    [
       "disappointing",
       1,
       "sadness"
@@ -256,16 +266,6 @@
       "launched",
       1,
       "anticipation"
-    ],
-    [
-      "kill",
-      1,
-      "fear"
-    ],
-    [
-      "statement",
-      1,
-      "trust"
     ],
     [
       "victory",
