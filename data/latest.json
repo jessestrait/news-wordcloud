@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:59:16.161Z",
+  "generated_at": "2026-11-26T18:14:18.738Z",
   "article_count": 50,
   "top_words": [
     [
@@ -10,6 +10,11 @@
     [
       "hostage",
       5,
+      "anger"
+    ],
+    [
+      "gaza",
+      4,
       "anger"
     ],
     [
@@ -31,11 +36,6 @@
       "general",
       4,
       "trust"
-    ],
-    [
-      "war",
-      4,
-      "anger"
     ],
     [
       "police",
@@ -78,6 +78,21 @@
       "anticipation"
     ],
     [
+      "strikes",
+      2,
+      "anger"
+    ],
+    [
+      "ministry",
+      2,
+      "joy"
+    ],
+    [
+      "death",
+      2,
+      "sadness"
+    ],
+    [
       "president",
       2,
       "trust"
@@ -99,6 +114,11 @@
     ],
     [
       "torture",
+      2,
+      "anger"
+    ],
+    [
+      "war",
       2,
       "anger"
     ],
@@ -126,11 +146,6 @@
       "doubt",
       2,
       "fear"
-    ],
-    [
-      "gaza",
-      2,
-      "anger"
     ],
     [
       "law",
@@ -208,24 +223,9 @@
       "fear"
     ],
     [
-      "ship",
-      2,
-      "anticipation"
-    ],
-    [
-      "deaths",
-      2,
-      "sadness"
-    ],
-    [
       "happen",
       2,
       "anticipation"
-    ],
-    [
-      "ministry",
-      2,
-      "joy"
     ],
     [
       "diary",
@@ -238,9 +238,14 @@
       "trust"
     ],
     [
-      "strike",
-      2,
-      "anger"
+      "kill",
+      1,
+      "fear"
+    ],
+    [
+      "statement",
+      1,
+      "trust"
     ],
     [
       "victory",
@@ -371,21 +376,16 @@
       "never",
       1,
       "fear"
-    ],
-    [
-      "real",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
-    "trust": 64,
+    "trust": 63,
     "fear": 51,
     "surprise": 16,
     "sadness": 8,
     "disgust": 2,
-    "anger": 78,
-    "anticipation": 35
+    "anger": 76,
+    "anticipation": 34
   }
 }
