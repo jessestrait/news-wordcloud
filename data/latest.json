@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:26:38.650Z",
+  "generated_at": "2026-11-26T12:41:41.428Z",
   "article_count": 50,
   "top_words": [
     [
@@ -88,14 +88,14 @@
       "sadness"
     ],
     [
-      "attacks",
-      2,
-      "anger"
-    ],
-    [
       "hope",
       2,
       "surprise"
+    ],
+    [
+      "attacks",
+      2,
+      "anger"
     ],
     [
       "torture",
@@ -253,6 +253,11 @@
       "anger"
     ],
     [
+      "agreeing",
+      1,
+      "trust"
+    ],
+    [
       "clashes",
       1,
       "anger"
@@ -266,11 +271,6 @@
       "black",
       1,
       "sadness"
-    ],
-    [
-      "agreeing",
-      1,
-      "trust"
     ],
     [
       "prisoners",
