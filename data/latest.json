@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:14:18.738Z",
+  "generated_at": "2026-11-26T18:29:21.260Z",
   "article_count": 50,
   "top_words": [
     [
@@ -23,11 +23,6 @@
       "anger"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "people",
       4,
       "trust"
@@ -46,6 +41,16 @@
       "leader",
       4,
       "trust"
+    ],
+    [
+      "space",
+      3,
+      "joy"
+    ],
+    [
+      "military",
+      3,
+      "fear"
     ],
     [
       "happened",
@@ -168,11 +173,6 @@
       "fear"
     ],
     [
-      "space",
-      2,
-      "joy"
-    ],
-    [
       "committed",
       2,
       "trust"
@@ -236,6 +236,26 @@
       "recommend",
       2,
       "trust"
+    ],
+    [
+      "armed",
+      1,
+      "anger"
+    ],
+    [
+      "detonated",
+      1,
+      "fear"
+    ],
+    [
+      "enabled",
+      1,
+      "trust"
+    ],
+    [
+      "launched",
+      1,
+      "anticipation"
     ],
     [
       "kill",
@@ -356,36 +376,16 @@
       "battlefield",
       1,
       "fear"
-    ],
-    [
-      "watchdog",
-      1,
-      "trust"
-    ],
-    [
-      "riot",
-      1,
-      "anger"
-    ],
-    [
-      "grenade",
-      1,
-      "fear"
-    ],
-    [
-      "never",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
+    "joy": 25,
     "trust": 63,
     "fear": 51,
     "surprise": 16,
     "sadness": 8,
     "disgust": 2,
-    "anger": 76,
-    "anticipation": 34
+    "anger": 77,
+    "anticipation": 35
   }
 }
