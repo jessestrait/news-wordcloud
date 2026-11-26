@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-26T10:40:24.070Z",
+  "generated_at": "2026-11-26T10:55:26.567Z",
   "article_count": 50,
   "top_words": [
     [
-      "system",
-      6,
+      "leader",
+      7,
       "trust"
     ],
     [
-      "leader",
+      "system",
       6,
       "trust"
     ],
@@ -81,6 +81,11 @@
       "budget",
       2,
       "trust"
+    ],
+    [
+      "hope",
+      2,
+      "surprise"
     ],
     [
       "torture",
@@ -253,12 +258,12 @@
       "anticipation"
     ],
     [
-      "tough",
+      "apart",
       1,
-      "sadness"
+      "anger"
     ],
     [
-      "important",
+      "agreeing",
       1,
       "trust"
     ],
@@ -371,21 +376,16 @@
       "damaged",
       1,
       "anger"
-    ],
-    [
-      "stalking",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 67,
+    "trust": 68,
     "fear": 51,
-    "surprise": 13,
-    "sadness": 10,
+    "surprise": 14,
+    "sadness": 9,
     "disgust": 2,
-    "anger": 76,
+    "anger": 77,
     "anticipation": 39
   }
 }
