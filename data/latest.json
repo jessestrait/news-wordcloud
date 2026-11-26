@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T06:38:34.730Z",
+  "generated_at": "2026-11-26T06:53:37.561Z",
   "article_count": 50,
   "top_words": [
     [
       "war",
-      8,
+      7,
       "anger"
     ],
     [
@@ -36,6 +36,21 @@
       "death",
       4,
       "sadness"
+    ],
+    [
+      "found",
+      3,
+      "joy"
+    ],
+    [
+      "people",
+      3,
+      "trust"
+    ],
+    [
+      "sex",
+      3,
+      "joy"
     ],
     [
       "fear",
@@ -73,22 +88,22 @@
       "anger"
     ],
     [
+      "hit",
+      2,
+      "anger"
+    ],
+    [
+      "young",
+      2,
+      "surprise"
+    ],
+    [
       "claimants",
       2,
       "anger"
     ],
     [
       "allegations",
-      2,
-      "anger"
-    ],
-    [
-      "found",
-      2,
-      "joy"
-    ],
-    [
-      "hit",
       2,
       "anger"
     ],
@@ -233,6 +248,41 @@
       "anger"
     ],
     [
+      "battlefield",
+      1,
+      "fear"
+    ],
+    [
+      "watchdog",
+      1,
+      "trust"
+    ],
+    [
+      "riot",
+      1,
+      "anger"
+    ],
+    [
+      "grenade",
+      1,
+      "fear"
+    ],
+    [
+      "never",
+      1,
+      "fear"
+    ],
+    [
+      "real",
+      1,
+      "trust"
+    ],
+    [
+      "recession",
+      1,
+      "anger"
+    ],
+    [
       "focus",
       1,
       "trust"
@@ -261,26 +311,6 @@
       "grief",
       1,
       "sadness"
-    ],
-    [
-      "battlefield",
-      1,
-      "fear"
-    ],
-    [
-      "watchdog",
-      1,
-      "trust"
-    ],
-    [
-      "riot",
-      1,
-      "anger"
-    ],
-    [
-      "grenade",
-      1,
-      "fear"
     ],
     [
       "tribunal",
@@ -346,46 +376,16 @@
       "convicted",
       1,
       "anger"
-    ],
-    [
-      "rescued",
-      1,
-      "surprise"
-    ],
-    [
-      "forces",
-      1,
-      "anger"
-    ],
-    [
-      "storm",
-      1,
-      "anger"
-    ],
-    [
-      "shopping",
-      1,
-      "surprise"
-    ],
-    [
-      "brides",
-      1,
-      "joy"
-    ],
-    [
-      "waiting",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 63,
-    "fear": 51,
-    "surprise": 11,
+    "joy": 28,
+    "trust": 66,
+    "fear": 52,
+    "surprise": 13,
     "sadness": 10,
     "disgust": 2,
-    "anger": 80,
+    "anger": 78,
     "anticipation": 39
   }
 }
