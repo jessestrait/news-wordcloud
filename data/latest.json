@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:57:21.325Z",
+  "generated_at": "2026-11-26T14:12:23.407Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,11 +11,6 @@
       "system",
       6,
       "trust"
-    ],
-    [
-      "police",
-      5,
-      "fear"
     ],
     [
       "hostage",
@@ -31,6 +26,11 @@
       "war",
       4,
       "anger"
+    ],
+    [
+      "police",
+      4,
+      "fear"
     ],
     [
       "budget",
@@ -213,11 +213,6 @@
       "sadness"
     ],
     [
-      "jail",
-      2,
-      "fear"
-    ],
-    [
       "case",
       2,
       "fear"
@@ -256,6 +251,36 @@
       "agreeing",
       1,
       "trust"
+    ],
+    [
+      "trucks",
+      1,
+      "trust"
+    ],
+    [
+      "fire",
+      1,
+      "fear"
+    ],
+    [
+      "risking",
+      1,
+      "fear"
+    ],
+    [
+      "destruction",
+      1,
+      "anger"
+    ],
+    [
+      "hazardous",
+      1,
+      "fear"
+    ],
+    [
+      "journeys",
+      1,
+      "fear"
     ],
     [
       "hopeful",
@@ -351,41 +376,16 @@
       "improving",
       1,
       "joy"
-    ],
-    [
-      "disabled",
-      1,
-      "fear"
-    ],
-    [
-      "flawed",
-      1,
-      "sadness"
-    ],
-    [
-      "leaves",
-      1,
-      "sadness"
-    ],
-    [
-      "grief",
-      1,
-      "sadness"
-    ],
-    [
-      "tribunal",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 71,
-    "fear": 52,
+    "fear": 53,
     "surprise": 15,
     "sadness": 10,
     "disgust": 2,
-    "anger": 76,
-    "anticipation": 36
+    "anger": 77,
+    "anticipation": 34
   }
 }
