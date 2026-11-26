@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:44:13.715Z",
+  "generated_at": "2026-11-26T17:59:16.161Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,14 +13,14 @@
       "anger"
     ],
     [
-      "military",
-      4,
-      "fear"
-    ],
-    [
       "fear",
       4,
       "anger"
+    ],
+    [
+      "military",
+      4,
+      "fear"
     ],
     [
       "people",
@@ -243,6 +243,11 @@
       "anger"
     ],
     [
+      "victory",
+      1,
+      "joy"
+    ],
+    [
       "trump",
       1,
       "anger"
@@ -266,11 +271,6 @@
       "prepared",
       1,
       "trust"
-    ],
-    [
-      "victory",
-      1,
-      "joy"
     ],
     [
       "opposition",
