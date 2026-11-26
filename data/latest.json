@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:10:44.972Z",
+  "generated_at": "2026-11-26T11:25:47.614Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,6 +31,11 @@
       "war",
       4,
       "anger"
+    ],
+    [
+      "warns",
+      3,
+      "fear"
     ],
     [
       "found",
@@ -134,11 +139,6 @@
     ],
     [
       "killed",
-      2,
-      "fear"
-    ],
-    [
-      "warns",
       2,
       "fear"
     ],
@@ -258,11 +258,6 @@
       "anticipation"
     ],
     [
-      "apart",
-      1,
-      "anger"
-    ],
-    [
       "agreeing",
       1,
       "trust"
@@ -376,16 +371,21 @@
       "damaged",
       1,
       "anger"
+    ],
+    [
+      "stalking",
+      1,
+      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
     "trust": 68,
-    "fear": 51,
+    "fear": 52,
     "surprise": 14,
     "sadness": 9,
     "disgust": 2,
-    "anger": 77,
+    "anger": 76,
     "anticipation": 39
   }
 }
