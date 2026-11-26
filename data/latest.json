@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T13:12:00.796Z",
+  "generated_at": "2026-11-26T13:27:02.826Z",
   "article_count": 50,
   "top_words": [
     [
       "leader",
-      8,
+      7,
       "trust"
     ],
     [
@@ -21,6 +21,11 @@
       "hostage",
       5,
       "anger"
+    ],
+    [
+      "general",
+      4,
+      "trust"
     ],
     [
       "war",
@@ -68,11 +73,6 @@
       "anticipation"
     ],
     [
-      "general",
-      3,
-      "trust"
-    ],
-    [
       "plan",
       3,
       "anticipation"
@@ -91,6 +91,11 @@
       "hope",
       2,
       "surprise"
+    ],
+    [
+      "official",
+      2,
+      "trust"
     ],
     [
       "attacks",
@@ -248,14 +253,24 @@
       "anger"
     ],
     [
-      "trump",
-      2,
-      "anger"
-    ],
-    [
       "agreeing",
       1,
       "trust"
+    ],
+    [
+      "hopeful",
+      1,
+      "surprise"
+    ],
+    [
+      "offensive",
+      1,
+      "anger"
+    ],
+    [
+      "resistance",
+      1,
+      "anger"
     ],
     [
       "clashes",
@@ -361,31 +376,16 @@
       "tribunal",
       1,
       "fear"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
-    ],
-    [
-      "judgment",
-      1,
-      "surprise"
-    ],
-    [
-      "humanitarian",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 24,
     "trust": 71,
     "fear": 52,
-    "surprise": 14,
+    "surprise": 15,
     "sadness": 10,
     "disgust": 2,
-    "anger": 75,
-    "anticipation": 37
+    "anger": 76,
+    "anticipation": 36
   }
 }
