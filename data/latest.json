@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T05:07:47.526Z",
+  "generated_at": "2026-11-26T05:22:50.255Z",
   "article_count": 50,
   "top_words": [
     [
@@ -43,11 +43,6 @@
       "sadness"
     ],
     [
-      "gaza",
-      3,
-      "anger"
-    ],
-    [
       "fear",
       3,
       "anger"
@@ -83,6 +78,11 @@
       "anger"
     ],
     [
+      "allegations",
+      2,
+      "anger"
+    ],
+    [
       "found",
       2,
       "joy"
@@ -96,6 +96,11 @@
       "doubt",
       2,
       "fear"
+    ],
+    [
+      "gaza",
+      2,
+      "anger"
     ],
     [
       "law",
@@ -163,11 +168,6 @@
       "fear"
     ],
     [
-      "battle",
-      2,
-      "anger"
-    ],
-    [
       "disability",
       2,
       "sadness"
@@ -223,6 +223,11 @@
       "anger"
     ],
     [
+      "grief",
+      1,
+      "sadness"
+    ],
+    [
       "battlefield",
       1,
       "fear"
@@ -241,11 +246,6 @@
       "grenade",
       1,
       "fear"
-    ],
-    [
-      "allegations",
-      1,
-      "anger"
     ],
     [
       "tribunal",
@@ -384,8 +384,8 @@
     "fear": 50,
     "surprise": 11,
     "sadness": 8,
-    "disgust": 3,
-    "anger": 80,
+    "disgust": 2,
+    "anger": 78,
     "anticipation": 40
   }
 }
