@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-26T14:27:25.479Z",
+  "generated_at": "2026-11-26T14:42:27.535Z",
   "article_count": 50,
   "top_words": [
     [
-      "leader",
-      7,
+      "system",
+      6,
       "trust"
     ],
     [
-      "system",
+      "leader",
       6,
       "trust"
     ],
@@ -16,6 +16,11 @@
       "hostage",
       5,
       "anger"
+    ],
+    [
+      "people",
+      4,
+      "trust"
     ],
     [
       "general",
@@ -51,11 +56,6 @@
       "found",
       3,
       "joy"
-    ],
-    [
-      "people",
-      3,
-      "trust"
     ],
     [
       "sex",
@@ -198,11 +198,6 @@
       "anticipation"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "operation",
       2,
       "fear"
@@ -251,6 +246,16 @@
       "agreeing",
       1,
       "trust"
+    ],
+    [
+      "opposition",
+      1,
+      "anger"
+    ],
+    [
+      "contentious",
+      1,
+      "anger"
     ],
     [
       "trucks",
@@ -371,17 +376,12 @@
       "focus",
       1,
       "trust"
-    ],
-    [
-      "improving",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 24,
-    "trust": 71,
-    "fear": 53,
+    "joy": 23,
+    "trust": 70,
+    "fear": 52,
     "surprise": 15,
     "sadness": 10,
     "disgust": 2,
