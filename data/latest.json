@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:23:57.195Z",
+  "generated_at": "2026-11-26T07:38:59.359Z",
   "article_count": 50,
   "top_words": [
     [
@@ -338,11 +338,6 @@
       "anger"
     ],
     [
-      "create",
-      1,
-      "joy"
-    ],
-    [
       "stalking",
       1,
       "fear"
@@ -376,10 +371,15 @@
       "convicted",
       1,
       "anger"
+    ],
+    [
+      "rescued",
+      1,
+      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
+    "joy": 27,
     "trust": 66,
     "fear": 52,
     "surprise": 13,
