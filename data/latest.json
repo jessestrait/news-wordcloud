@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:50:09.221Z",
+  "generated_at": "2026-11-26T00:05:12.338Z",
   "article_count": 50,
   "top_words": [
     [
@@ -20,6 +20,11 @@
     [
       "leader",
       5,
+      "trust"
+    ],
+    [
+      "calls",
+      4,
       "trust"
     ],
     [
@@ -48,6 +53,11 @@
       "sadness"
     ],
     [
+      "fear",
+      3,
+      "anger"
+    ],
+    [
       "gaza",
       3,
       "anger"
@@ -63,19 +73,9 @@
       "anticipation"
     ],
     [
-      "calls",
-      3,
-      "trust"
-    ],
-    [
       "general",
       3,
       "trust"
-    ],
-    [
-      "vote",
-      3,
-      "anger"
     ],
     [
       "president",
@@ -96,6 +96,11 @@
       "public",
       3,
       "anticipation"
+    ],
+    [
+      "law",
+      2,
+      "trust"
     ],
     [
       "killed",
@@ -123,7 +128,7 @@
       "joy"
     ],
     [
-      "fears",
+      "vote",
       2,
       "anger"
     ],
@@ -198,11 +203,6 @@
       "trust"
     ],
     [
-      "government",
-      2,
-      "fear"
-    ],
-    [
       "trump",
       2,
       "anger"
@@ -215,6 +215,51 @@
     [
       "suicides",
       2,
+      "anger"
+    ],
+    [
+      "create",
+      1,
+      "joy"
+    ],
+    [
+      "stalking",
+      1,
+      "fear"
+    ],
+    [
+      "proof",
+      1,
+      "trust"
+    ],
+    [
+      "distress",
+      1,
+      "anger"
+    ],
+    [
+      "victims",
+      1,
+      "anger"
+    ],
+    [
+      "strengthening",
+      1,
+      "joy"
+    ],
+    [
+      "measures",
+      1,
+      "trust"
+    ],
+    [
+      "tackle",
+      1,
+      "anger"
+    ],
+    [
+      "convicted",
+      1,
       "anger"
     ],
     [
@@ -298,11 +343,6 @@
       "anger"
     ],
     [
-      "law",
-      1,
-      "trust"
-    ],
-    [
       "people",
       1,
       "trust"
@@ -336,56 +376,16 @@
       "change",
       1,
       "fear"
-    ],
-    [
-      "experts",
-      1,
-      "trust"
-    ],
-    [
-      "spiking",
-      1,
-      "fear"
-    ],
-    [
-      "credit",
-      1,
-      "trust"
-    ],
-    [
-      "fraud",
-      1,
-      "anger"
-    ],
-    [
-      "media",
-      1,
-      "disgust"
-    ],
-    [
-      "advises",
-      1,
-      "trust"
-    ],
-    [
-      "guard",
-      1,
-      "fear"
-    ],
-    [
-      "synod",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 60,
+    "joy": 25,
+    "trust": 64,
     "fear": 49,
-    "surprise": 12,
+    "surprise": 11,
     "sadness": 8,
     "disgust": 3,
-    "anger": 74,
+    "anger": 78,
     "anticipation": 42
   }
 }
