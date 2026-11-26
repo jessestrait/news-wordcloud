@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:43:10.162Z",
+  "generated_at": "2026-11-26T15:58:12.329Z",
   "article_count": 50,
   "top_words": [
     [
@@ -73,9 +73,9 @@
       "anticipation"
     ],
     [
-      "deaths",
-      3,
-      "sadness"
+      "murder",
+      2,
+      "anger"
     ],
     [
       "president",
@@ -218,6 +218,11 @@
       "anticipation"
     ],
     [
+      "deaths",
+      2,
+      "sadness"
+    ],
+    [
       "happen",
       2,
       "anticipation"
@@ -241,6 +246,16 @@
       "strike",
       2,
       "anger"
+    ],
+    [
+      "daughter",
+      1,
+      "joy"
+    ],
+    [
+      "prepared",
+      1,
+      "trust"
     ],
     [
       "trump",
@@ -361,29 +376,14 @@
       "watchdog",
       1,
       "trust"
-    ],
-    [
-      "riot",
-      1,
-      "anger"
-    ],
-    [
-      "grenade",
-      1,
-      "fear"
-    ],
-    [
-      "never",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
     "joy": 23,
     "trust": 66,
-    "fear": 52,
+    "fear": 51,
     "surprise": 16,
-    "sadness": 10,
+    "sadness": 9,
     "disgust": 2,
     "anger": 79,
     "anticipation": 34
