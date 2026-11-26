@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:38:59.359Z",
+  "generated_at": "2026-11-26T07:54:01.597Z",
   "article_count": 50,
   "top_words": [
     [
@@ -71,6 +71,11 @@
       "general",
       3,
       "trust"
+    ],
+    [
+      "plan",
+      3,
+      "anticipation"
     ],
     [
       "president",
@@ -171,11 +176,6 @@
       "assessments",
       2,
       "surprise"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
     ],
     [
       "prepare",
@@ -386,6 +386,6 @@
     "sadness": 10,
     "disgust": 2,
     "anger": 78,
-    "anticipation": 39
+    "anticipation": 40
   }
 }
