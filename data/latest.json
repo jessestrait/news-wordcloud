@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:55:02.578Z",
+  "generated_at": "2026-11-26T10:10:04.601Z",
   "article_count": 50,
   "top_words": [
     [
@@ -13,11 +13,6 @@
       "trust"
     ],
     [
-      "war",
-      5,
-      "anger"
-    ],
-    [
       "police",
       5,
       "fear"
@@ -25,6 +20,16 @@
     [
       "hostage",
       5,
+      "anger"
+    ],
+    [
+      "public",
+      4,
+      "anticipation"
+    ],
+    [
+      "war",
+      4,
       "anger"
     ],
     [
@@ -48,11 +53,6 @@
       "anger"
     ],
     [
-      "happened",
-      3,
-      "anticipation"
-    ],
-    [
       "power",
       3,
       "anticipation"
@@ -68,11 +68,6 @@
       "anticipation"
     ],
     [
-      "president",
-      3,
-      "trust"
-    ],
-    [
       "military",
       3,
       "fear"
@@ -83,19 +78,14 @@
       "sadness"
     ],
     [
-      "public",
-      3,
-      "anticipation"
-    ],
-    [
-      "strike",
-      3,
-      "anger"
-    ],
-    [
       "budget",
       2,
       "trust"
+    ],
+    [
+      "torture",
+      2,
+      "anger"
     ],
     [
       "hit",
@@ -148,6 +138,11 @@
       "fear"
     ],
     [
+      "happened",
+      2,
+      "anticipation"
+    ],
+    [
       "space",
       2,
       "joy"
@@ -191,6 +186,11 @@
       "gains",
       2,
       "joy"
+    ],
+    [
+      "president",
+      2,
+      "trust"
     ],
     [
       "operation",
@@ -238,6 +238,11 @@
       "trust"
     ],
     [
+      "strike",
+      2,
+      "anger"
+    ],
+    [
       "trump",
       2,
       "anger"
@@ -256,6 +261,26 @@
       "important",
       1,
       "trust"
+    ],
+    [
+      "prisoners",
+      1,
+      "anger"
+    ],
+    [
+      "confessions",
+      1,
+      "fear"
+    ],
+    [
+      "committee",
+      1,
+      "trust"
+    ],
+    [
+      "complaints",
+      1,
+      "anger"
     ],
     [
       "battlefield",
@@ -351,41 +376,16 @@
       "stalking",
       1,
       "fear"
-    ],
-    [
-      "proof",
-      1,
-      "trust"
-    ],
-    [
-      "distress",
-      1,
-      "anger"
-    ],
-    [
-      "victims",
-      1,
-      "anger"
-    ],
-    [
-      "strengthening",
-      1,
-      "joy"
-    ],
-    [
-      "measures",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 68,
-    "fear": 50,
+    "trust": 67,
+    "fear": 51,
     "surprise": 13,
     "sadness": 10,
     "disgust": 2,
-    "anger": 74,
-    "anticipation": 40
+    "anger": 76,
+    "anticipation": 39
   }
 }
