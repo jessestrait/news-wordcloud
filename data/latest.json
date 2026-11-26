@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-11-26T08:39:38.042Z",
+  "generated_at": "2026-11-26T08:54:40.196Z",
   "article_count": 50,
   "top_words": [
-    [
-      "war",
-      7,
-      "anger"
-    ],
     [
       "system",
       6,
       "trust"
+    ],
+    [
+      "leader",
+      6,
+      "trust"
+    ],
+    [
+      "war",
+      5,
+      "anger"
     ],
     [
       "police",
@@ -21,21 +26,6 @@
       "hostage",
       5,
       "anger"
-    ],
-    [
-      "leader",
-      5,
-      "trust"
-    ],
-    [
-      "military",
-      4,
-      "fear"
-    ],
-    [
-      "death",
-      4,
-      "sadness"
     ],
     [
       "found",
@@ -83,6 +73,16 @@
       "trust"
     ],
     [
+      "military",
+      3,
+      "fear"
+    ],
+    [
+      "deaths",
+      3,
+      "sadness"
+    ],
+    [
       "public",
       3,
       "anticipation"
@@ -91,6 +91,11 @@
       "strike",
       3,
       "anger"
+    ],
+    [
+      "budget",
+      2,
+      "trust"
     ],
     [
       "hit",
@@ -243,9 +248,14 @@
       "anticipation"
     ],
     [
-      "suicides",
-      2,
-      "anger"
+      "tough",
+      1,
+      "sadness"
+    ],
+    [
+      "important",
+      1,
+      "trust"
     ],
     [
       "battlefield",
@@ -366,26 +376,16 @@
       "measures",
       1,
       "trust"
-    ],
-    [
-      "convicted",
-      1,
-      "anger"
-    ],
-    [
-      "rescued",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 66,
-    "fear": 52,
+    "trust": 68,
+    "fear": 50,
     "surprise": 13,
     "sadness": 10,
     "disgust": 2,
-    "anger": 78,
+    "anger": 74,
     "anticipation": 40
   }
 }
