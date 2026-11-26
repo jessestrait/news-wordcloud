@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:05:12.338Z",
+  "generated_at": "2026-11-26T00:20:15.196Z",
   "article_count": 50,
   "top_words": [
     [
@@ -53,12 +53,12 @@
       "sadness"
     ],
     [
-      "fear",
+      "gaza",
       3,
       "anger"
     ],
     [
-      "gaza",
+      "fear",
       3,
       "anger"
     ],
@@ -98,17 +98,17 @@
       "anticipation"
     ],
     [
+      "doubt",
+      2,
+      "fear"
+    ],
+    [
       "law",
       2,
       "trust"
     ],
     [
       "killed",
-      2,
-      "fear"
-    ],
-    [
-      "doubt",
       2,
       "fear"
     ],
@@ -218,6 +218,36 @@
       "anger"
     ],
     [
+      "allegations",
+      1,
+      "anger"
+    ],
+    [
+      "tribunal",
+      1,
+      "fear"
+    ],
+    [
+      "rules",
+      1,
+      "fear"
+    ],
+    [
+      "judgment",
+      1,
+      "surprise"
+    ],
+    [
+      "humanitarian",
+      1,
+      "surprise"
+    ],
+    [
+      "damaged",
+      1,
+      "anger"
+    ],
+    [
       "create",
       1,
       "joy"
@@ -291,36 +321,6 @@
       "waiting",
       1,
       "anticipation"
-    ],
-    [
-      "allegations",
-      1,
-      "anger"
-    ],
-    [
-      "tribunal",
-      1,
-      "fear"
-    ],
-    [
-      "rules",
-      1,
-      "fear"
-    ],
-    [
-      "judgment",
-      1,
-      "surprise"
-    ],
-    [
-      "humanitarian",
-      1,
-      "surprise"
-    ],
-    [
-      "damaged",
-      1,
-      "anger"
     ],
     [
       "chancellor",
