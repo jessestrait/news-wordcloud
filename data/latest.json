@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:55:34.723Z",
+  "generated_at": "2026-11-27T15:10:36.642Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,14 +33,14 @@
       "trust"
     ],
     [
-      "warns",
-      3,
-      "fear"
-    ],
-    [
       "polls",
       3,
       "trust"
+    ],
+    [
+      "warns",
+      3,
+      "fear"
     ],
     [
       "young",
@@ -88,6 +88,11 @@
       "joy"
     ],
     [
+      "victory",
+      2,
+      "joy"
+    ],
+    [
       "attacks",
       2,
       "anger"
@@ -96,11 +101,6 @@
       "critical",
       2,
       "trust"
-    ],
-    [
-      "victory",
-      2,
-      "joy"
     ],
     [
       "looms",
@@ -248,6 +248,16 @@
       "fear"
     ],
     [
+      "confident",
+      1,
+      "joy"
+    ],
+    [
+      "losing",
+      1,
+      "anger"
+    ],
+    [
       "casualty",
       1,
       "anger"
@@ -271,16 +281,6 @@
       "expose",
       1,
       "fear"
-    ],
-    [
-      "confident",
-      1,
-      "joy"
-    ],
-    [
-      "losing",
-      1,
-      "anger"
     ],
     [
       "corruption",
