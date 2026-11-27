@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:48:10.012Z",
+  "generated_at": "2026-11-27T02:03:12.356Z",
   "article_count": 50,
   "top_words": [
     [
@@ -86,6 +86,11 @@
       "ruling",
       2,
       "fear"
+    ],
+    [
+      "majority",
+      2,
+      "joy"
     ],
     [
       "strikes",
@@ -218,6 +223,11 @@
       "fear"
     ],
     [
+      "lose",
+      2,
+      "anger"
+    ],
+    [
       "case",
       2,
       "fear"
@@ -261,11 +271,6 @@
       "fortunes",
       1,
       "surprise"
-    ],
-    [
-      "majority",
-      1,
-      "joy"
     ],
     [
       "confidence",
@@ -371,21 +376,16 @@
       "journeys",
       1,
       "fear"
-    ],
-    [
-      "hopeful",
-      1,
-      "surprise"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 61,
     "fear": 55,
     "surprise": 15,
     "sadness": 8,
     "disgust": 2,
-    "anger": 71,
+    "anger": 72,
     "anticipation": 33
   }
 }
