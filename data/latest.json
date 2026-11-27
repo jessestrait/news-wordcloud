@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-11-27T00:02:24.353Z",
+  "generated_at": "2026-11-27T00:17:27.278Z",
   "article_count": 50,
   "top_words": [
+    [
+      "people",
+      5,
+      "trust"
+    ],
     [
       "system",
       5,
@@ -21,11 +26,6 @@
       "fear",
       4,
       "anger"
-    ],
-    [
-      "people",
-      4,
-      "trust"
     ],
     [
       "general",
@@ -59,11 +59,6 @@
     ],
     [
       "happened",
-      3,
-      "anticipation"
-    ],
-    [
-      "public",
       3,
       "anticipation"
     ],
@@ -126,6 +121,11 @@
       "torture",
       2,
       "anger"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
     ],
     [
       "war",
@@ -236,6 +236,21 @@
       "recommend",
       2,
       "trust"
+    ],
+    [
+      "show",
+      1,
+      "trust"
+    ],
+    [
+      "majority",
+      1,
+      "joy"
+    ],
+    [
+      "confidence",
+      1,
+      "fear"
     ],
     [
       "kill",
@@ -361,31 +376,16 @@
       "confessions",
       1,
       "fear"
-    ],
-    [
-      "committee",
-      1,
-      "trust"
-    ],
-    [
-      "complaints",
-      1,
-      "anger"
-    ],
-    [
-      "battlefield",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
+    "joy": 26,
     "trust": 61,
-    "fear": 50,
+    "fear": 51,
     "surprise": 15,
     "sadness": 9,
     "disgust": 2,
-    "anger": 75,
-    "anticipation": 34
+    "anger": 72,
+    "anticipation": 33
   }
 }
