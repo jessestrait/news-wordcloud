@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:38:12.805Z",
+  "generated_at": "2026-11-27T10:53:15.304Z",
   "article_count": 50,
   "top_words": [
     [
@@ -29,6 +29,11 @@
     ],
     [
       "president",
+      3,
+      "trust"
+    ],
+    [
+      "system",
       3,
       "trust"
     ],
@@ -78,19 +83,9 @@
       "joy"
     ],
     [
-      "system",
-      3,
-      "trust"
-    ],
-    [
       "leader",
       3,
       "trust"
-    ],
-    [
-      "plan",
-      3,
-      "anticipation"
     ],
     [
       "trump",
@@ -228,6 +223,11 @@
       "fear"
     ],
     [
+      "plan",
+      2,
+      "anticipation"
+    ],
+    [
       "prepare",
       2,
       "anticipation"
@@ -236,11 +236,6 @@
       "operation",
       2,
       "fear"
-    ],
-    [
-      "lose",
-      2,
-      "anger"
     ],
     [
       "friend",
@@ -256,6 +251,26 @@
       "labels",
       1,
       "trust"
+    ],
+    [
+      "justice",
+      1,
+      "trust"
+    ],
+    [
+      "corruption",
+      1,
+      "disgust"
+    ],
+    [
+      "intervention",
+      1,
+      "sadness"
+    ],
+    [
+      "damaging",
+      1,
+      "anger"
     ],
     [
       "critical",
@@ -361,21 +376,6 @@
       "results",
       1,
       "anticipation"
-    ],
-    [
-      "govern",
-      1,
-      "trust"
-    ],
-    [
-      "opportunity",
-      1,
-      "anticipation"
-    ],
-    [
-      "detention",
-      1,
-      "sadness"
     ]
   ],
   "emotion_totals": {
@@ -384,8 +384,8 @@
     "fear": 50,
     "surprise": 14,
     "sadness": 7,
-    "disgust": 1,
+    "disgust": 2,
     "anger": 80,
-    "anticipation": 29
+    "anticipation": 28
   }
 }
