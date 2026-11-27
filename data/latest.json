@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:11:52.118Z",
+  "generated_at": "2026-11-27T17:26:54.053Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,11 +31,6 @@
       "general",
       4,
       "trust"
-    ],
-    [
-      "ruling",
-      3,
-      "fear"
     ],
     [
       "polls",
@@ -101,6 +96,16 @@
       "sex",
       3,
       "joy"
+    ],
+    [
+      "planning",
+      2,
+      "trust"
+    ],
+    [
+      "build",
+      2,
+      "anticipation"
     ],
     [
       "victory",
@@ -188,6 +193,11 @@
       "anticipation"
     ],
     [
+      "ruling",
+      2,
+      "fear"
+    ],
+    [
       "majority",
       2,
       "joy"
@@ -258,22 +268,12 @@
       "fear"
     ],
     [
-      "authorities",
-      1,
-      "trust"
-    ],
-    [
       "showing",
       1,
       "trust"
     ],
     [
-      "building",
-      1,
-      "anticipation"
-    ],
-    [
-      "planning",
+      "continuing",
       1,
       "trust"
     ],
@@ -380,8 +380,8 @@
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 71,
-    "fear": 52,
+    "trust": 72,
+    "fear": 51,
     "surprise": 14,
     "sadness": 8,
     "disgust": 2,
