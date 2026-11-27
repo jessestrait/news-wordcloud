@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:53:53.613Z",
+  "generated_at": "2026-11-27T12:08:55.802Z",
   "article_count": 50,
   "top_words": [
     [
@@ -34,11 +34,6 @@
     ],
     [
       "polls",
-      3,
-      "trust"
-    ],
-    [
-      "system",
       3,
       "trust"
     ],
@@ -173,6 +168,11 @@
       "joy"
     ],
     [
+      "system",
+      2,
+      "trust"
+    ],
+    [
       "claimants",
       2,
       "anger"
@@ -248,9 +248,9 @@
       "anger"
     ],
     [
-      "justice",
+      "awaits",
       1,
-      "trust"
+      "anticipation"
     ],
     [
       "corruption",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 66,
+    "trust": 64,
     "fear": 50,
     "surprise": 14,
     "sadness": 7,
     "disgust": 2,
     "anger": 80,
-    "anticipation": 28
+    "anticipation": 29
   }
 }
