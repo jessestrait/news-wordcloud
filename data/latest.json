@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:23:57.946Z",
+  "generated_at": "2026-11-27T12:39:00.262Z",
   "article_count": 50,
   "top_words": [
     [
@@ -86,6 +86,11 @@
       "victory",
       2,
       "joy"
+    ],
+    [
+      "looms",
+      2,
+      "fear"
     ],
     [
       "chancellor",
@@ -248,11 +253,6 @@
       "anger"
     ],
     [
-      "awaits",
-      1,
-      "anticipation"
-    ],
-    [
       "corruption",
       1,
       "disgust"
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 27,
     "trust": 64,
-    "fear": 50,
+    "fear": 51,
     "surprise": 14,
     "sadness": 7,
     "disgust": 2,
     "anger": 80,
-    "anticipation": 29
+    "anticipation": 28
   }
 }
