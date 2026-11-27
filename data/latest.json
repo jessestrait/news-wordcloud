@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-11-27T16:11:06.678Z",
+  "generated_at": "2026-11-27T16:26:09.367Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
       6,
       "trust"
+    ],
+    [
+      "power",
+      5,
+      "anticipation"
     ],
     [
       "hostage",
@@ -23,17 +28,22 @@
       "anger"
     ],
     [
-      "power",
-      4,
-      "anticipation"
-    ],
-    [
       "general",
       4,
       "trust"
     ],
     [
       "polls",
+      3,
+      "trust"
+    ],
+    [
+      "happened",
+      3,
+      "anticipation"
+    ],
+    [
+      "law",
       3,
       "trust"
     ],
@@ -88,12 +98,27 @@
       "joy"
     ],
     [
-      "home",
+      "victory",
       2,
       "joy"
     ],
     [
-      "victory",
+      "court",
+      2,
+      "anger"
+    ],
+    [
+      "public",
+      2,
+      "anticipation"
+    ],
+    [
+      "government",
+      2,
+      "fear"
+    ],
+    [
+      "home",
       2,
       "joy"
     ],
@@ -106,6 +131,11 @@
       "critical",
       2,
       "trust"
+    ],
+    [
+      "expose",
+      2,
+      "fear"
     ],
     [
       "looms",
@@ -168,11 +198,6 @@
       "trust"
     ],
     [
-      "happened",
-      2,
-      "anticipation"
-    ],
-    [
       "president",
       2,
       "trust"
@@ -208,11 +233,6 @@
       "fear"
     ],
     [
-      "law",
-      2,
-      "trust"
-    ],
-    [
       "tackle",
       2,
       "anger"
@@ -243,6 +263,36 @@
       "fear"
     ],
     [
+      "confident",
+      1,
+      "joy"
+    ],
+    [
+      "losing",
+      1,
+      "anger"
+    ],
+    [
+      "top",
+      1,
+      "trust"
+    ],
+    [
+      "wearing",
+      1,
+      "trust"
+    ],
+    [
+      "watched",
+      1,
+      "fear"
+    ],
+    [
+      "tensions",
+      1,
+      "anger"
+    ],
+    [
       "shams",
       1,
       "anger"
@@ -259,16 +309,6 @@
     ],
     [
       "imprisoned",
-      1,
-      "anger"
-    ],
-    [
-      "confident",
-      1,
-      "joy"
-    ],
-    [
-      "losing",
       1,
       "anger"
     ],
@@ -291,11 +331,6 @@
       "retaliation",
       1,
       "anger"
-    ],
-    [
-      "expose",
-      1,
-      "fear"
     ],
     [
       "corruption",
@@ -341,51 +376,16 @@
       "attacked",
       1,
       "anger"
-    ],
-    [
-      "soldiers",
-      1,
-      "anger"
-    ],
-    [
-      "bank",
-      1,
-      "trust"
-    ],
-    [
-      "mad",
-      1,
-      "anger"
-    ],
-    [
-      "dance",
-      1,
-      "joy"
-    ],
-    [
-      "daily",
-      1,
-      "anticipation"
-    ],
-    [
-      "started",
-      1,
-      "anticipation"
-    ],
-    [
-      "music",
-      1,
-      "joy"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 66,
-    "fear": 50,
+    "joy": 26,
+    "trust": 69,
+    "fear": 52,
     "surprise": 14,
     "sadness": 8,
     "disgust": 2,
-    "anger": 83,
-    "anticipation": 28
+    "anger": 85,
+    "anticipation": 31
   }
 }
