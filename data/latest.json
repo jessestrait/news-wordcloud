@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:40:15.762Z",
+  "generated_at": "2026-11-27T14:55:18.819Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,6 +31,11 @@
       "general",
       4,
       "trust"
+    ],
+    [
+      "warns",
+      3,
+      "fear"
     ],
     [
       "polls",
@@ -81,6 +86,16 @@
       "sex",
       3,
       "joy"
+    ],
+    [
+      "attacks",
+      2,
+      "anger"
+    ],
+    [
+      "critical",
+      2,
+      "trust"
     ],
     [
       "victory",
@@ -148,11 +163,6 @@
       "trust"
     ],
     [
-      "military",
-      2,
-      "fear"
-    ],
-    [
       "happened",
       2,
       "anticipation"
@@ -208,11 +218,6 @@
       "fear"
     ],
     [
-      "warns",
-      2,
-      "fear"
-    ],
-    [
       "freedom",
       2,
       "joy"
@@ -243,6 +248,31 @@
       "fear"
     ],
     [
+      "casualty",
+      1,
+      "anger"
+    ],
+    [
+      "sabotage",
+      1,
+      "anger"
+    ],
+    [
+      "demand",
+      1,
+      "anger"
+    ],
+    [
+      "retaliation",
+      1,
+      "anger"
+    ],
+    [
+      "expose",
+      1,
+      "fear"
+    ],
+    [
       "confident",
       1,
       "joy"
@@ -266,11 +296,6 @@
       "damaging",
       1,
       "anger"
-    ],
-    [
-      "critical",
-      1,
-      "trust"
     ],
     [
       "wavering",
@@ -318,11 +343,6 @@
       "trust"
     ],
     [
-      "attacks",
-      1,
-      "anger"
-    ],
-    [
       "mad",
       1,
       "anger"
@@ -356,36 +376,16 @@
       "suggest",
       1,
       "trust"
-    ],
-    [
-      "anti",
-      1,
-      "anger"
-    ],
-    [
-      "government",
-      1,
-      "fear"
-    ],
-    [
-      "results",
-      1,
-      "anticipation"
-    ],
-    [
-      "govern",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 64,
-    "fear": 51,
+    "trust": 65,
+    "fear": 52,
     "surprise": 14,
     "sadness": 7,
     "disgust": 2,
-    "anger": 80,
+    "anger": 84,
     "anticipation": 28
   }
 }
