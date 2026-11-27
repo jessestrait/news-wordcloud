@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:47:47.455Z",
+  "generated_at": "2026-11-27T01:02:49.271Z",
   "article_count": 50,
   "top_words": [
     [
@@ -63,9 +63,9 @@
       "anticipation"
     ],
     [
-      "found",
+      "official",
       3,
-      "joy"
+      "trust"
     ],
     [
       "sex",
@@ -113,11 +113,6 @@
       "anger"
     ],
     [
-      "official",
-      2,
-      "trust"
-    ],
-    [
       "torture",
       2,
       "anger"
@@ -131,6 +126,11 @@
       "war",
       2,
       "anger"
+    ],
+    [
+      "found",
+      2,
+      "joy"
     ],
     [
       "hit",
@@ -176,11 +176,6 @@
       "warns",
       2,
       "fear"
-    ],
-    [
-      "committed",
-      2,
-      "trust"
     ],
     [
       "freedom",
@@ -236,6 +231,31 @@
       "recommend",
       2,
       "trust"
+    ],
+    [
+      "threat",
+      1,
+      "anger"
+    ],
+    [
+      "looms",
+      1,
+      "fear"
+    ],
+    [
+      "alarm",
+      1,
+      "fear"
+    ],
+    [
+      "fortunes",
+      1,
+      "surprise"
+    ],
+    [
+      "ruling",
+      1,
+      "fear"
     ],
     [
       "show",
@@ -356,36 +376,16 @@
       "hopeful",
       1,
       "surprise"
-    ],
-    [
-      "offensive",
-      1,
-      "anger"
-    ],
-    [
-      "resistance",
-      1,
-      "anger"
-    ],
-    [
-      "prisoners",
-      1,
-      "anger"
-    ],
-    [
-      "confessions",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 25,
     "trust": 61,
-    "fear": 51,
-    "surprise": 15,
+    "fear": 54,
+    "surprise": 16,
     "sadness": 9,
     "disgust": 2,
     "anger": 72,
-    "anticipation": 33
+    "anticipation": 32
   }
 }
