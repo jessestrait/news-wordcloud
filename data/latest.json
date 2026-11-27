@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:38:37.633Z",
+  "generated_at": "2026-11-27T11:53:39.940Z",
   "article_count": 50,
   "top_words": [
     [
@@ -11,6 +11,11 @@
       "hostage",
       5,
       "anger"
+    ],
+    [
+      "leader",
+      4,
+      "trust"
     ],
     [
       "war",
@@ -28,7 +33,7 @@
       "trust"
     ],
     [
-      "president",
+      "polls",
       3,
       "trust"
     ],
@@ -83,14 +88,9 @@
       "joy"
     ],
     [
-      "leader",
-      3,
-      "trust"
-    ],
-    [
-      "trump",
+      "victory",
       2,
-      "anger"
+      "joy"
     ],
     [
       "chancellor",
@@ -121,11 +121,6 @@
       "force",
       2,
       "anger"
-    ],
-    [
-      "polls",
-      2,
-      "trust"
     ],
     [
       "vote",
@@ -161,6 +156,11 @@
       "happened",
       2,
       "anticipation"
+    ],
+    [
+      "president",
+      2,
+      "trust"
     ],
     [
       "torture",
@@ -238,19 +238,14 @@
       "fear"
     ],
     [
-      "friend",
+      "confident",
       1,
       "joy"
     ],
     [
-      "friendship",
+      "losing",
       1,
-      "joy"
-    ],
-    [
-      "labels",
-      1,
-      "trust"
+      "anger"
     ],
     [
       "justice",
@@ -376,6 +371,11 @@
       "results",
       1,
       "anticipation"
+    ],
+    [
+      "govern",
+      1,
+      "trust"
     ]
   ],
   "emotion_totals": {
