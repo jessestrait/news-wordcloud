@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T02:33:34.008Z",
+  "generated_at": "2026-11-27T02:48:36.722Z",
   "article_count": 50,
   "top_words": [
     [
@@ -19,11 +19,6 @@
     ],
     [
       "gaza",
-      4,
-      "anger"
-    ],
-    [
-      "fear",
       4,
       "anger"
     ],
@@ -51,6 +46,11 @@
       "space",
       3,
       "joy"
+    ],
+    [
+      "fear",
+      3,
+      "anger"
     ],
     [
       "military",
@@ -91,6 +91,11 @@
       "majority",
       2,
       "joy"
+    ],
+    [
+      "experts",
+      2,
+      "trust"
     ],
     [
       "strikes",
@@ -233,11 +238,6 @@
       "fear"
     ],
     [
-      "diary",
-      2,
-      "joy"
-    ],
-    [
       "results",
       1,
       "anticipation"
@@ -251,6 +251,26 @@
       "opportunity",
       1,
       "anticipation"
+    ],
+    [
+      "detention",
+      1,
+      "sadness"
+    ],
+    [
+      "abduction",
+      1,
+      "fear"
+    ],
+    [
+      "disappeared",
+      1,
+      "fear"
+    ],
+    [
+      "terrorism",
+      1,
+      "anger"
     ],
     [
       "threat",
@@ -356,36 +376,16 @@
       "fire",
       1,
       "fear"
-    ],
-    [
-      "risking",
-      1,
-      "fear"
-    ],
-    [
-      "destruction",
-      1,
-      "anger"
-    ],
-    [
-      "hazardous",
-      1,
-      "fear"
-    ],
-    [
-      "journeys",
-      1,
-      "fear"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
+    "joy": 24,
     "trust": 61,
-    "fear": 55,
+    "fear": 57,
     "surprise": 15,
     "sadness": 8,
     "disgust": 2,
-    "anger": 72,
-    "anticipation": 33
+    "anger": 70,
+    "anticipation": 32
   }
 }
