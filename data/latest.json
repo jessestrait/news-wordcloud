@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:56:03.970Z",
+  "generated_at": "2026-11-27T16:11:06.678Z",
   "article_count": 50,
   "top_words": [
     [
@@ -85,6 +85,11 @@
     [
       "sex",
       3,
+      "joy"
+    ],
+    [
+      "home",
+      2,
       "joy"
     ],
     [
@@ -223,16 +228,6 @@
       "joy"
     ],
     [
-      "court",
-      2,
-      "anger"
-    ],
-    [
-      "highest",
-      2,
-      "fear"
-    ],
-    [
       "plan",
       2,
       "anticipation"
@@ -246,6 +241,26 @@
       "operation",
       2,
       "fear"
+    ],
+    [
+      "shams",
+      1,
+      "anger"
+    ],
+    [
+      "obituary",
+      1,
+      "sadness"
+    ],
+    [
+      "doctor",
+      1,
+      "trust"
+    ],
+    [
+      "imprisoned",
+      1,
+      "anger"
     ],
     [
       "confident",
@@ -308,11 +323,6 @@
       "fear"
     ],
     [
-      "home",
-      1,
-      "joy"
-    ],
-    [
       "fights",
       1,
       "anger"
@@ -366,26 +376,16 @@
       "music",
       1,
       "joy"
-    ],
-    [
-      "hate",
-      1,
-      "anger"
-    ],
-    [
-      "suggest",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 27,
-    "trust": 65,
-    "fear": 52,
+    "joy": 28,
+    "trust": 66,
+    "fear": 50,
     "surprise": 14,
-    "sadness": 7,
+    "sadness": 8,
     "disgust": 2,
-    "anger": 84,
+    "anger": 83,
     "anticipation": 28
   }
 }
