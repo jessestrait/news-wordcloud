@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:33:07.777Z",
+  "generated_at": "2026-11-27T01:48:10.012Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,14 +8,14 @@
       "trust"
     ],
     [
-      "system",
-      5,
-      "trust"
-    ],
-    [
       "hostage",
       5,
       "anger"
+    ],
+    [
+      "power",
+      4,
+      "anticipation"
     ],
     [
       "gaza",
@@ -33,6 +33,11 @@
       "trust"
     ],
     [
+      "system",
+      4,
+      "trust"
+    ],
+    [
       "police",
       4,
       "fear"
@@ -41,11 +46,6 @@
       "leader",
       4,
       "trust"
-    ],
-    [
-      "happen",
-      3,
-      "anticipation"
     ],
     [
       "space",
@@ -73,14 +73,19 @@
       "joy"
     ],
     [
-      "power",
+      "plan",
       3,
       "anticipation"
     ],
     [
-      "plan",
-      3,
-      "anticipation"
+      "show",
+      2,
+      "trust"
+    ],
+    [
+      "ruling",
+      2,
+      "fear"
     ],
     [
       "strikes",
@@ -96,6 +101,11 @@
       "death",
       2,
       "sadness"
+    ],
+    [
+      "happen",
+      2,
+      "anticipation"
     ],
     [
       "president",
@@ -198,11 +208,6 @@
       "fear"
     ],
     [
-      "assessments",
-      2,
-      "surprise"
-    ],
-    [
       "prepare",
       2,
       "anticipation"
@@ -211,11 +216,6 @@
       "operation",
       2,
       "fear"
-    ],
-    [
-      "disability",
-      2,
-      "sadness"
     ],
     [
       "case",
@@ -228,9 +228,19 @@
       "joy"
     ],
     [
-      "recommend",
-      2,
+      "results",
+      1,
+      "anticipation"
+    ],
+    [
+      "govern",
+      1,
       "trust"
+    ],
+    [
+      "opportunity",
+      1,
+      "anticipation"
     ],
     [
       "threat",
@@ -251,16 +261,6 @@
       "fortunes",
       1,
       "surprise"
-    ],
-    [
-      "ruling",
-      1,
-      "fear"
-    ],
-    [
-      "show",
-      1,
-      "trust"
     ],
     [
       "majority",
@@ -381,11 +381,11 @@
   "emotion_totals": {
     "joy": 25,
     "trust": 61,
-    "fear": 54,
-    "surprise": 16,
-    "sadness": 9,
+    "fear": 55,
+    "surprise": 15,
+    "sadness": 8,
     "disgust": 2,
-    "anger": 72,
-    "anticipation": 32
+    "anger": 71,
+    "anticipation": 33
   }
 }
