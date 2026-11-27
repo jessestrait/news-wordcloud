@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:49:57.608Z",
+  "generated_at": "2026-11-27T05:05:00.275Z",
   "article_count": 50,
   "top_words": [
     [
@@ -41,11 +41,6 @@
       "system",
       4,
       "trust"
-    ],
-    [
-      "police",
-      4,
-      "fear"
     ],
     [
       "hit",
@@ -98,6 +93,16 @@
       "anticipation"
     ],
     [
+      "polls",
+      2,
+      "trust"
+    ],
+    [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "launched",
       2,
       "anticipation"
@@ -138,11 +143,6 @@
       "trust"
     ],
     [
-      "murder",
-      2,
-      "anger"
-    ],
-    [
       "torture",
       2,
       "anger"
@@ -181,6 +181,11 @@
       "tackle",
       2,
       "anger"
+    ],
+    [
+      "police",
+      2,
+      "fear"
     ],
     [
       "killed",
@@ -225,6 +230,31 @@
     [
       "case",
       2,
+      "fear"
+    ],
+    [
+      "hate",
+      1,
+      "anger"
+    ],
+    [
+      "exploded",
+      1,
+      "anger"
+    ],
+    [
+      "suggest",
+      1,
+      "trust"
+    ],
+    [
+      "anti",
+      1,
+      "anger"
+    ],
+    [
+      "government",
+      1,
       "fear"
     ],
     [
@@ -346,46 +376,16 @@
       "prepared",
       1,
       "trust"
-    ],
-    [
-      "opposition",
-      1,
-      "anger"
-    ],
-    [
-      "contentious",
-      1,
-      "anger"
-    ],
-    [
-      "trucks",
-      1,
-      "trust"
-    ],
-    [
-      "fire",
-      1,
-      "fear"
-    ],
-    [
-      "risking",
-      1,
-      "fear"
-    ],
-    [
-      "destruction",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 23,
-    "trust": 61,
-    "fear": 57,
+    "joy": 22,
+    "trust": 63,
+    "fear": 55,
     "surprise": 14,
     "sadness": 8,
     "disgust": 2,
-    "anger": 72,
-    "anticipation": 32
+    "anger": 75,
+    "anticipation": 31
   }
 }
