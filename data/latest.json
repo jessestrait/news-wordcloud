@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:56:32.879Z",
+  "generated_at": "2026-11-27T17:11:35.452Z",
   "article_count": 50,
   "top_words": [
     [
@@ -31,6 +31,11 @@
       "general",
       4,
       "trust"
+    ],
+    [
+      "ruling",
+      3,
+      "fear"
     ],
     [
       "polls",
@@ -183,11 +188,6 @@
       "anticipation"
     ],
     [
-      "ruling",
-      2,
-      "fear"
-    ],
-    [
       "majority",
       2,
       "joy"
@@ -228,11 +228,6 @@
       "anger"
     ],
     [
-      "doubt",
-      2,
-      "fear"
-    ],
-    [
       "tackle",
       2,
       "anger"
@@ -261,6 +256,36 @@
       "operation",
       2,
       "fear"
+    ],
+    [
+      "authorities",
+      1,
+      "trust"
+    ],
+    [
+      "showing",
+      1,
+      "trust"
+    ],
+    [
+      "building",
+      1,
+      "anticipation"
+    ],
+    [
+      "planning",
+      1,
+      "trust"
+    ],
+    [
+      "appeal",
+      1,
+      "anticipation"
+    ],
+    [
+      "unresolved",
+      1,
+      "anticipation"
     ],
     [
       "confident",
@@ -351,41 +376,16 @@
       "wavering",
       1,
       "fear"
-    ],
-    [
-      "difficult",
-      1,
-      "fear"
-    ],
-    [
-      "fights",
-      1,
-      "anger"
-    ],
-    [
-      "growing",
-      1,
-      "joy"
-    ],
-    [
-      "assault",
-      1,
-      "anger"
-    ],
-    [
-      "attacked",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
     "joy": 26,
-    "trust": 69,
+    "trust": 71,
     "fear": 52,
     "surprise": 14,
     "sadness": 8,
     "disgust": 2,
     "anger": 85,
-    "anticipation": 31
+    "anticipation": 34
   }
 }
