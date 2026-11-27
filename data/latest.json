@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T05:50:48.213Z",
+  "generated_at": "2026-11-27T06:05:50.726Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,19 +28,14 @@
       "anticipation"
     ],
     [
-      "gaza",
-      4,
-      "anger"
-    ],
-    [
       "general",
       4,
       "trust"
     ],
     [
-      "system",
-      4,
-      "trust"
+      "young",
+      3,
+      "surprise"
     ],
     [
       "hit",
@@ -51,6 +46,11 @@
       "show",
       3,
       "trust"
+    ],
+    [
+      "gaza",
+      3,
+      "anger"
     ],
     [
       "space",
@@ -83,6 +83,11 @@
       "joy"
     ],
     [
+      "system",
+      3,
+      "trust"
+    ],
+    [
       "leader",
       3,
       "trust"
@@ -91,6 +96,26 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "attacks",
+      2,
+      "anger"
+    ],
+    [
+      "escape",
+      2,
+      "fear"
+    ],
+    [
+      "exploded",
+      2,
+      "anger"
+    ],
+    [
+      "force",
+      2,
+      "anger"
     ],
     [
       "polls",
@@ -123,19 +148,9 @@
       "trust"
     ],
     [
-      "ministry",
-      2,
-      "joy"
-    ],
-    [
       "death",
       2,
       "sadness"
-    ],
-    [
-      "happen",
-      2,
-      "anticipation"
     ],
     [
       "president",
@@ -151,11 +166,6 @@
       "found",
       2,
       "joy"
-    ],
-    [
-      "young",
-      2,
-      "surprise"
     ],
     [
       "claimants",
@@ -228,17 +238,52 @@
       "anger"
     ],
     [
-      "case",
-      2,
-      "fear"
-    ],
-    [
-      "hate",
+      "assault",
       1,
       "anger"
     ],
     [
-      "exploded",
+      "attacked",
+      1,
+      "anger"
+    ],
+    [
+      "soldiers",
+      1,
+      "anger"
+    ],
+    [
+      "bank",
+      1,
+      "trust"
+    ],
+    [
+      "mad",
+      1,
+      "anger"
+    ],
+    [
+      "dance",
+      1,
+      "joy"
+    ],
+    [
+      "daily",
+      1,
+      "anticipation"
+    ],
+    [
+      "started",
+      1,
+      "anticipation"
+    ],
+    [
+      "music",
+      1,
+      "joy"
+    ],
+    [
+      "hate",
       1,
       "anger"
     ],
@@ -323,69 +368,24 @@
       "fear"
     ],
     [
+      "ministry",
+      1,
+      "joy"
+    ],
+    [
       "statement",
-      1,
-      "trust"
-    ],
-    [
-      "disappointing",
-      1,
-      "sadness"
-    ],
-    [
-      "detonated",
-      1,
-      "fear"
-    ],
-    [
-      "enabled",
-      1,
-      "trust"
-    ],
-    [
-      "victory",
-      1,
-      "joy"
-    ],
-    [
-      "trump",
-      1,
-      "anger"
-    ],
-    [
-      "aggression",
-      1,
-      "anger"
-    ],
-    [
-      "hopes",
-      1,
-      "surprise"
-    ],
-    [
-      "deal",
-      1,
-      "surprise"
-    ],
-    [
-      "daughter",
-      1,
-      "joy"
-    ],
-    [
-      "prepared",
       1,
       "trust"
     ]
   ],
   "emotion_totals": {
-    "joy": 22,
-    "trust": 63,
-    "fear": 55,
+    "joy": 23,
+    "trust": 62,
+    "fear": 53,
     "surprise": 14,
     "sadness": 8,
     "disgust": 2,
-    "anger": 75,
+    "anger": 80,
     "anticipation": 31
   }
 }
