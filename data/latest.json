@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:37:48.918Z",
+  "generated_at": "2026-11-27T09:52:50.918Z",
   "article_count": 50,
   "top_words": [
     [
@@ -25,6 +25,11 @@
     [
       "general",
       4,
+      "trust"
+    ],
+    [
+      "president",
+      3,
       "trust"
     ],
     [
@@ -86,6 +91,11 @@
       "plan",
       3,
       "anticipation"
+    ],
+    [
+      "trump",
+      2,
+      "anger"
     ],
     [
       "chancellor",
@@ -156,11 +166,6 @@
       "happened",
       2,
       "anticipation"
-    ],
-    [
-      "president",
-      2,
-      "trust"
     ],
     [
       "torture",
@@ -236,6 +241,21 @@
       "lose",
       2,
       "anger"
+    ],
+    [
+      "friend",
+      1,
+      "joy"
+    ],
+    [
+      "friendship",
+      1,
+      "joy"
+    ],
+    [
+      "labels",
+      1,
+      "trust"
     ],
     [
       "critical",
@@ -356,36 +376,16 @@
       "detention",
       1,
       "sadness"
-    ],
-    [
-      "abduction",
-      1,
-      "fear"
-    ],
-    [
-      "disappeared",
-      1,
-      "fear"
-    ],
-    [
-      "terrorism",
-      1,
-      "anger"
-    ],
-    [
-      "threat",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 25,
-    "trust": 64,
-    "fear": 53,
+    "joy": 27,
+    "trust": 66,
+    "fear": 50,
     "surprise": 14,
     "sadness": 7,
-    "disgust": 2,
-    "anger": 79,
-    "anticipation": 31
+    "disgust": 1,
+    "anger": 80,
+    "anticipation": 29
   }
 }
