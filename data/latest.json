@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-11-28T10:51:12.593Z",
+  "generated_at": "2026-11-28T11:06:15.395Z",
   "article_count": 50,
   "top_words": [
     [
       "people",
       6,
       "trust"
+    ],
+    [
+      "power",
+      5,
+      "anticipation"
     ],
     [
       "war",
@@ -23,14 +28,14 @@
       "anger"
     ],
     [
-      "power",
-      4,
-      "anticipation"
-    ],
-    [
       "general",
       4,
       "trust"
+    ],
+    [
+      "vote",
+      3,
+      "anger"
     ],
     [
       "system",
@@ -213,11 +218,6 @@
       "anger"
     ],
     [
-      "vote",
-      2,
-      "anger"
-    ],
-    [
       "launched",
       2,
       "anticipation"
@@ -248,11 +248,6 @@
       "joy"
     ],
     [
-      "claimants",
-      2,
-      "anger"
-    ],
-    [
       "allegations",
       2,
       "anger"
@@ -266,6 +261,11 @@
       "police",
       2,
       "fear"
+    ],
+    [
+      "socialist",
+      1,
+      "anger"
     ],
     [
       "devastating",
@@ -381,8 +381,8 @@
   "emotion_totals": {
     "joy": 27,
     "trust": 70,
-    "fear": 49,
-    "surprise": 14,
+    "fear": 47,
+    "surprise": 12,
     "sadness": 10,
     "disgust": 2,
     "anger": 89,
