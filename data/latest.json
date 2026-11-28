@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T18:40:00.285Z",
+  "generated_at": "2026-11-28T18:55:02.445Z",
   "article_count": 50,
   "top_words": [
     [
@@ -108,6 +108,11 @@
       "anger"
     ],
     [
+      "bank",
+      2,
+      "trust"
+    ],
+    [
       "result",
       2,
       "anticipation"
@@ -121,11 +126,6 @@
       "hopes",
       2,
       "surprise"
-    ],
-    [
-      "bank",
-      2,
-      "trust"
     ],
     [
       "killed",
@@ -273,6 +273,21 @@
       "fear"
     ],
     [
+      "leading",
+      1,
+      "trust"
+    ],
+    [
+      "abuses",
+      1,
+      "anger"
+    ],
+    [
+      "grounds",
+      1,
+      "trust"
+    ],
+    [
       "expected",
       1,
       "anticipation"
@@ -321,21 +336,6 @@
       "deportations",
       1,
       "anger"
-    ],
-    [
-      "leading",
-      1,
-      "trust"
-    ],
-    [
-      "abuses",
-      1,
-      "anger"
-    ],
-    [
-      "grounds",
-      1,
-      "trust"
     ],
     [
       "charity",
