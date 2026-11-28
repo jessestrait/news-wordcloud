@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T03:17:09.216Z",
+  "generated_at": "2026-11-28T03:32:11.765Z",
   "article_count": 50,
   "top_words": [
     [
@@ -8,23 +8,28 @@
       "trust"
     ],
     [
+      "leader",
+      5,
+      "trust"
+    ],
+    [
       "power",
       5,
       "anticipation"
     ],
     [
-      "hostage",
-      5,
-      "anger"
-    ],
-    [
-      "leader",
+      "war",
       4,
-      "trust"
+      "anger"
     ],
     [
       "general",
       4,
+      "trust"
+    ],
+    [
+      "system",
+      3,
       "trust"
     ],
     [
@@ -51,11 +56,6 @@
       "young",
       3,
       "surprise"
-    ],
-    [
-      "war",
-      3,
-      "anger"
     ],
     [
       "strikes",
@@ -96,6 +96,21 @@
       "sex",
       3,
       "joy"
+    ],
+    [
+      "hostage",
+      3,
+      "anger"
+    ],
+    [
+      "trump",
+      2,
+      "anger"
+    ],
+    [
+      "laser",
+      2,
+      "trust"
     ],
     [
       "game",
@@ -213,11 +228,6 @@
       "trust"
     ],
     [
-      "president",
-      2,
-      "trust"
-    ],
-    [
       "torture",
       2,
       "anger"
@@ -226,11 +236,6 @@
       "found",
       2,
       "joy"
-    ],
-    [
-      "system",
-      2,
-      "trust"
     ],
     [
       "claimants",
@@ -268,9 +273,14 @@
       "anticipation"
     ],
     [
-      "operation",
-      2,
-      "fear"
+      "friend",
+      1,
+      "joy"
+    ],
+    [
+      "ready",
+      1,
+      "anticipation"
     ],
     [
       "dominate",
@@ -366,22 +376,12 @@
       "casualty",
       1,
       "anger"
-    ],
-    [
-      "sabotage",
-      1,
-      "anger"
-    ],
-    [
-      "demand",
-      1,
-      "anger"
     ]
   ],
   "emotion_totals": {
-    "joy": 26,
-    "trust": 71,
-    "fear": 52,
+    "joy": 27,
+    "trust": 74,
+    "fear": 51,
     "surprise": 14,
     "sadness": 8,
     "disgust": 2,
