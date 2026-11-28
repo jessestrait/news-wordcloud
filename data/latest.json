@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T05:48:24.787Z",
+  "generated_at": "2026-11-28T06:03:27.594Z",
   "article_count": 50,
   "top_words": [
     [
@@ -16,6 +16,11 @@
       "leader",
       5,
       "trust"
+    ],
+    [
+      "gaza",
+      4,
+      "anger"
     ],
     [
       "power",
@@ -66,11 +71,6 @@
       "show",
       3,
       "trust"
-    ],
-    [
-      "gaza",
-      3,
-      "anger"
     ],
     [
       "space",
@@ -203,11 +203,6 @@
       "anticipation"
     ],
     [
-      "escape",
-      2,
-      "fear"
-    ],
-    [
       "exploded",
       2,
       "anger"
@@ -273,19 +268,24 @@
       "fear"
     ],
     [
-      "freedom",
-      2,
+      "devastating",
+      1,
+      "anger"
+    ],
+    [
+      "struggle",
+      1,
+      "anger"
+    ],
+    [
+      "unable",
+      1,
+      "sadness"
+    ],
+    [
+      "family",
+      1,
       "joy"
-    ],
-    [
-      "plan",
-      2,
-      "anticipation"
-    ],
-    [
-      "prepare",
-      2,
-      "anticipation"
     ],
     [
       "football",
@@ -380,12 +380,12 @@
   ],
   "emotion_totals": {
     "joy": 27,
-    "trust": 72,
-    "fear": 52,
+    "trust": 70,
+    "fear": 49,
     "surprise": 14,
-    "sadness": 9,
+    "sadness": 10,
     "disgust": 2,
-    "anger": 87,
-    "anticipation": 34
+    "anger": 89,
+    "anticipation": 32
   }
 }
