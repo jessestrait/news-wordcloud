@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T17:39:38.661Z",
+  "generated_at": "2026-11-28T17:54:40.789Z",
   "article_count": 50,
   "top_words": [
     [
@@ -33,11 +33,6 @@
       "trust"
     ],
     [
-      "trump",
-      3,
-      "anger"
-    ],
-    [
       "victory",
       3,
       "joy"
@@ -46,6 +41,11 @@
       "ruling",
       3,
       "fear"
+    ],
+    [
+      "trump",
+      3,
+      "anger"
     ],
     [
       "attack",
@@ -108,6 +108,11 @@
       "anger"
     ],
     [
+      "result",
+      2,
+      "anticipation"
+    ],
+    [
       "planning",
       2,
       "trust"
@@ -116,11 +121,6 @@
       "hopes",
       2,
       "surprise"
-    ],
-    [
-      "result",
-      2,
-      "anticipation"
     ],
     [
       "bank",
@@ -273,6 +273,16 @@
       "fear"
     ],
     [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
+    ],
+    [
       "building",
       1,
       "anticipation"
@@ -309,16 +319,6 @@
     ],
     [
       "deportations",
-      1,
-      "anger"
-    ],
-    [
-      "expected",
-      1,
-      "anticipation"
-    ],
-    [
-      "anger",
       1,
       "anger"
     ],
