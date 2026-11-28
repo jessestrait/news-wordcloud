@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T15:23:26.911Z",
+  "generated_at": "2026-11-28T15:38:29.290Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,9 +28,14 @@
       "anticipation"
     ],
     [
-      "leader",
-      4,
-      "trust"
+      "victory",
+      3,
+      "joy"
+    ],
+    [
+      "ruling",
+      3,
+      "fear"
     ],
     [
       "attack",
@@ -41,6 +46,11 @@
       "vote",
       3,
       "anger"
+    ],
+    [
+      "leader",
+      3,
+      "trust"
     ],
     [
       "system",
@@ -88,11 +98,6 @@
       "anger"
     ],
     [
-      "official",
-      3,
-      "trust"
-    ],
-    [
       "sex",
       3,
       "joy"
@@ -101,6 +106,11 @@
       "hostage",
       3,
       "anger"
+    ],
+    [
+      "result",
+      2,
+      "anticipation"
     ],
     [
       "bank",
@@ -153,19 +163,9 @@
       "trust"
     ],
     [
-      "victory",
-      2,
-      "joy"
-    ],
-    [
       "polls",
       2,
       "trust"
-    ],
-    [
-      "court",
-      2,
-      "anger"
     ],
     [
       "public",
@@ -228,17 +228,17 @@
       "anticipation"
     ],
     [
-      "ruling",
-      2,
-      "fear"
-    ],
-    [
       "majority",
       2,
       "joy"
     ],
     [
       "experts",
+      2,
+      "trust"
+    ],
+    [
+      "official",
       2,
       "trust"
     ],
@@ -271,6 +271,16 @@
       "guard",
       2,
       "fear"
+    ],
+    [
+      "expected",
+      1,
+      "anticipation"
+    ],
+    [
+      "anger",
+      1,
+      "anger"
     ],
     [
       "leading",
@@ -366,23 +376,13 @@
       "continuing",
       1,
       "trust"
-    ],
-    [
-      "build",
-      1,
-      "anticipation"
-    ],
-    [
-      "appeal",
-      1,
-      "anticipation"
     ]
   ],
   "emotion_totals": {
-    "joy": 28,
-    "trust": 65,
-    "fear": 47,
-    "surprise": 12,
+    "joy": 29,
+    "trust": 63,
+    "fear": 48,
+    "surprise": 11,
     "sadness": 10,
     "disgust": 2,
     "anger": 94,
