@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T15:53:47.797Z",
+  "generated_at": "2026-11-28T16:08:50.259Z",
   "article_count": 50,
   "top_words": [
     [
@@ -28,6 +28,11 @@
       "anticipation"
     ],
     [
+      "trump",
+      3,
+      "anger"
+    ],
+    [
       "victory",
       3,
       "joy"
@@ -39,11 +44,6 @@
     ],
     [
       "attack",
-      3,
-      "anger"
-    ],
-    [
-      "vote",
       3,
       "anger"
     ],
@@ -108,6 +108,11 @@
       "anger"
     ],
     [
+      "hopes",
+      2,
+      "surprise"
+    ],
+    [
       "result",
       2,
       "anticipation"
@@ -123,6 +128,11 @@
       "fear"
     ],
     [
+      "vote",
+      2,
+      "anger"
+    ],
+    [
       "fight",
       2,
       "anger"
@@ -136,11 +146,6 @@
       "death",
       2,
       "sadness"
-    ],
-    [
-      "trump",
-      2,
-      "anger"
     ],
     [
       "laser",
@@ -243,11 +248,6 @@
       "trust"
     ],
     [
-      "general",
-      2,
-      "trust"
-    ],
-    [
       "torture",
       2,
       "anger"
@@ -271,6 +271,26 @@
       "guard",
       2,
       "fear"
+    ],
+    [
+      "crackdown",
+      1,
+      "anger"
+    ],
+    [
+      "shatters",
+      1,
+      "anger"
+    ],
+    [
+      "displaced",
+      1,
+      "anger"
+    ],
+    [
+      "deportations",
+      1,
+      "anger"
     ],
     [
       "expected",
@@ -356,36 +376,16 @@
       "broke",
       1,
       "fear"
-    ],
-    [
-      "barrier",
-      1,
-      "anger"
-    ],
-    [
-      "professional",
-      1,
-      "trust"
-    ],
-    [
-      "showing",
-      1,
-      "trust"
-    ],
-    [
-      "continuing",
-      1,
-      "trust"
     ]
   ],
   "emotion_totals": {
     "joy": 29,
-    "trust": 63,
+    "trust": 60,
     "fear": 48,
-    "surprise": 11,
+    "surprise": 12,
     "sadness": 10,
     "disgust": 2,
-    "anger": 94,
-    "anticipation": 30
+    "anger": 98,
+    "anticipation": 29
   }
 }
